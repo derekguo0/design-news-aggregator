@@ -11,12 +11,15 @@ class handler(BaseHTTPRequestHandler):
         self.send_header('Access-Control-Allow-Headers', 'Content-Type')
         self.end_headers()
         
+        # 返回系统状态
         response = {
-            'is_running': False,
+            'is_running': False,  # Serverless无法跟踪长期状态
             'last_refresh': datetime.now().isoformat(),
             'error': None,
-            'deployment_type': 'static',
-            'message': '静态部署版本，内容通过自动化流程更新'
+            'deployment_type': 'serverless',
+            'message': 'Serverless环境运行中',
+            'timestamp': datetime.now().isoformat(),
+            'status': 'ready'
         }
         
         self.wfile.write(json.dumps(response, ensure_ascii=False).encode('utf-8'))

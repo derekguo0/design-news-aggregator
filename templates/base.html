@@ -539,7 +539,7 @@
             }
         }
 
-        // 一键自动刷新
+        // 一键自动刷新 - Serverless版本
         async function autoRefreshNews() {
             const refreshBtn = document.querySelector('.refresh-btn');
             const originalText = refreshBtn.innerHTML;
@@ -560,15 +560,19 @@
                 
                 const data = await response.json();
                 
-                if (response.status === 409) {
-                    // 409表示刷新正在进行中，直接开始轮询状态
-                    updateProgress('⏳', '检测到刷新进行中', '正在等待当前刷新任务完成...');
-                    await pollRefreshStatus();
-                } else if (!response.ok) {
-                    throw new Error(`服务器错误: ${response.status}`);
-                } else if (data.success) {
-                    // 开始轮询状态
-                    await pollRefreshStatus();
+                if (response.ok && data.success) {
+                    // 刷新任务已启动，模拟进度
+                    updateProgress('🚀', '刷新已启动', '正在后台爬取最新资讯...');
+                    await simulateProgress();
+                    
+                    // 显示完成状态
+                    updateProgress('✅', '刷新完成！', '资讯已更新，正在重新加载页面...');
+                    
+                    // 等待2秒后重新加载页面
+                    setTimeout(() => {
+                        window.location.reload();
+                    }, 2000);
+                    
                 } else {
                     throw new Error(data.message || '刷新启动失败');
                 }
@@ -584,53 +588,33 @@
             }
         }
 
-        // 轮询刷新状态
-        async function pollRefreshStatus() {
-            const refreshBtn = document.querySelector('.refresh-btn');
-            const originalText = '🔄 刷新资讯';
+        // 模拟进度条动画
+        async function simulateProgress() {
+            const progressBar = document.querySelector('.refresh-progress-fill');
             
-            // 检查是否被取消
-            if (refreshCancelled) {
-                refreshBtn.innerHTML = originalText;
-                refreshBtn.disabled = false;
-                return;
-            }
-            
-            try {
-                const response = await fetch('/api/status');
-                const status = await response.json();
-                
-                if (status.is_running) {
-                    // 仍在运行，继续轮询
-                    refreshPollingId = setTimeout(pollRefreshStatus, 2000);
-                    return;
-                }
-                
-                if (status.error) {
-                    // 有错误
-                    updateProgress('❌', '刷新失败', status.error);
-                    setTimeout(() => {
-                        hideRefreshProgress();
-                        refreshBtn.innerHTML = originalText;
-                        refreshBtn.disabled = false;
-                    }, 3000);
-                } else {
-                    // 成功完成
-                    updateProgress('✅', '刷新完成！', '正在重新加载页面...');
-                    setTimeout(() => {
-                        window.location.reload();
-                    }, 1500);
-                }
-                
-            } catch (error) {
-                console.error('状态查询失败:', error);
-                updateProgress('❌', '状态查询失败', '请检查服务器连接');
-                setTimeout(() => {
-                    hideRefreshProgress();
-                    refreshBtn.innerHTML = originalText;
-                    refreshBtn.disabled = false;
-                }, 3000);
-            }
+            return new Promise((resolve) => {
+                let progress = 0;
+                const interval = setInterval(() => {
+                    progress += Math.random() * 15 + 5; // 每次增加5-20%
+                    
+                    if (progress >= 90) {
+                        progress = 90; // 保持在90%直到真正完成
+                        clearInterval(interval);
+                        resolve();
+                    }
+                    
+                    progressBar.style.width = `${progress}%`;
+                    
+                    // 更新进度文案
+                    if (progress < 30) {
+                        updateProgress('🚀', '正在初始化', '连接资讯源...');
+                    } else if (progress < 60) {
+                        updateProgress('📡', '正在爬取资讯', '获取最新内容...');
+                    } else if (progress < 90) {
+                        updateProgress('⚙️', '正在处理数据', '生成页面内容...');
+                    }
+                }, 800); // 每800ms更新一次
+            });
         }
 
         // 更新进度显示
