@@ -446,21 +446,19 @@ section[id] {
     <!-- Tailwind UI Header -->
     <header class="header bg-white/80 border-b border-gray-200">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="flex items-center py-4">
-                <!-- Logo - 左对齐 -->
-                <div class="flex-1">
-                    <a href="index.html" class="inline-flex items-center group">
-                        <div>
-                            <h1 class="text-xl font-bold text-gray-900 group-hover:text-indigo-600 transition-colors">
-                                设计资讯聚合
-                            </h1>
-                            <p class="text-xs text-gray-500">创意灵感 · 设计趋势</p>
-                        </div>
+            <div class="flex justify-between items-center py-4">
+                <!-- Logo - 完全左对齐 -->
+                <div>
+                    <a href="index.html" class="block group">
+                        <h1 class="text-xl font-bold text-gray-900 group-hover:text-indigo-600 transition-colors">
+                            设计资讯聚合
+                        </h1>
+                        <p class="text-xs text-gray-500">创意灵感 · 设计趋势</p>
                     </a>
                 </div>
 
                 <!-- Desktop Navigation - 右侧 -->
-                <nav class="desktop-nav flex items-center space-x-3">
+                <nav class="desktop-nav flex items-center space-x-3 flex-shrink-0">
                     <!-- Refresh Button -->
                     <button 
                         class="refresh-btn inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-lg text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed"
@@ -2628,8 +2626,8 @@ section[id] {
                     
                     <!-- Title -->
                     <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-3 leading-tight line-clamp-2">
-                        <a href="https://www.producthunt.com/products/memories-ai" target="_blank" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors duration-200">
-                            Memories.ai
+                        <a href="https://www.producthunt.com/products/docsbot-ai" target="_blank" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors duration-200">
+                            DocsBot
                         </a>
                     </h3>
                     
@@ -2643,7 +2641,7 @@ section[id] {
                 <!-- Footer - Always at bottom -->
                 <div class="px-6 py-4 bg-gray-50 dark:bg-gray-700/50 border-t border-gray-200 dark:border-gray-700 rounded-b-2xl mt-auto">
                     <div class="flex items-center justify-between">
-                        <a href="https://www.producthunt.com/products/memories-ai" target="_blank" class="inline-flex items-center text-sm font-medium text-indigo-600 dark:text-indigo-400 group-hover:text-indigo-700 dark:group-hover:text-indigo-300 transition-colors duration-200">
+                        <a href="https://www.producthunt.com/products/docsbot-ai" target="_blank" class="inline-flex items-center text-sm font-medium text-indigo-600 dark:text-indigo-400 group-hover:text-indigo-700 dark:group-hover:text-indigo-300 transition-colors duration-200">
                             查看详情
                             <svg class="ml-1 w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
@@ -2670,8 +2668,8 @@ section[id] {
                     
                     <!-- Title -->
                     <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-3 leading-tight line-clamp-2">
-                        <a href="https://www.producthunt.com/products/parsagon" target="_blank" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors duration-200">
-                            Parsagon
+                        <a href="https://www.producthunt.com/products/golex-ai" target="_blank" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors duration-200">
+                            Golex AI
                         </a>
                     </h3>
                     
@@ -2685,7 +2683,91 @@ section[id] {
                 <!-- Footer - Always at bottom -->
                 <div class="px-6 py-4 bg-gray-50 dark:bg-gray-700/50 border-t border-gray-200 dark:border-gray-700 rounded-b-2xl mt-auto">
                     <div class="flex items-center justify-between">
-                        <a href="https://www.producthunt.com/products/parsagon" target="_blank" class="inline-flex items-center text-sm font-medium text-indigo-600 dark:text-indigo-400 group-hover:text-indigo-700 dark:group-hover:text-indigo-300 transition-colors duration-200">
+                        <a href="https://www.producthunt.com/products/golex-ai" target="_blank" class="inline-flex items-center text-sm font-medium text-indigo-600 dark:text-indigo-400 group-hover:text-indigo-700 dark:group-hover:text-indigo-300 transition-colors duration-200">
+                            查看详情
+                            <svg class="ml-1 w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
+                            </svg>
+                        </a>
+                        
+                        
+                    </div>
+                </div>
+            </article>
+            
+            <article class="group bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 hover:border-gray-300 dark:hover:border-gray-600 transition-all duration-200 hover:shadow-lg dark:hover:shadow-gray-900/50 overflow-hidden news-item flex flex-col h-full" data-category="产品发现">
+                <!-- Card Header -->
+                <div class="p-6 flex-1">
+                    <!-- Category Badge and Source -->
+                    <div class="flex items-center justify-between mb-4">
+                        <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-indigo-100 text-indigo-800 dark:bg-indigo-900 dark:text-indigo-200">
+                            产品发现
+                        </span>
+                        <span class="text-xs text-gray-500 dark:text-gray-400 font-medium">
+                            Product Hunt
+                        </span>
+                    </div>
+                    
+                    <!-- Title -->
+                    <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-3 leading-tight line-clamp-2">
+                        <a href="https://www.producthunt.com/products/tender-5" target="_blank" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors duration-200">
+                            Tender
+                        </a>
+                    </h3>
+                    
+                    <!-- Author -->
+                    
+                    
+                    <!-- Summary -->
+                    
+                </div>
+                
+                <!-- Footer - Always at bottom -->
+                <div class="px-6 py-4 bg-gray-50 dark:bg-gray-700/50 border-t border-gray-200 dark:border-gray-700 rounded-b-2xl mt-auto">
+                    <div class="flex items-center justify-between">
+                        <a href="https://www.producthunt.com/products/tender-5" target="_blank" class="inline-flex items-center text-sm font-medium text-indigo-600 dark:text-indigo-400 group-hover:text-indigo-700 dark:group-hover:text-indigo-300 transition-colors duration-200">
+                            查看详情
+                            <svg class="ml-1 w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
+                            </svg>
+                        </a>
+                        
+                        
+                    </div>
+                </div>
+            </article>
+            
+            <article class="group bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 hover:border-gray-300 dark:hover:border-gray-600 transition-all duration-200 hover:shadow-lg dark:hover:shadow-gray-900/50 overflow-hidden news-item flex flex-col h-full" data-category="产品发现">
+                <!-- Card Header -->
+                <div class="p-6 flex-1">
+                    <!-- Category Badge and Source -->
+                    <div class="flex items-center justify-between mb-4">
+                        <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-indigo-100 text-indigo-800 dark:bg-indigo-900 dark:text-indigo-200">
+                            产品发现
+                        </span>
+                        <span class="text-xs text-gray-500 dark:text-gray-400 font-medium">
+                            Product Hunt
+                        </span>
+                    </div>
+                    
+                    <!-- Title -->
+                    <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-3 leading-tight line-clamp-2">
+                        <a href="https://www.producthunt.com/products/chord-multiplayer-ai-chats" target="_blank" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors duration-200">
+                            Chord
+                        </a>
+                    </h3>
+                    
+                    <!-- Author -->
+                    
+                    
+                    <!-- Summary -->
+                    
+                </div>
+                
+                <!-- Footer - Always at bottom -->
+                <div class="px-6 py-4 bg-gray-50 dark:bg-gray-700/50 border-t border-gray-200 dark:border-gray-700 rounded-b-2xl mt-auto">
+                    <div class="flex items-center justify-between">
+                        <a href="https://www.producthunt.com/products/chord-multiplayer-ai-chats" target="_blank" class="inline-flex items-center text-sm font-medium text-indigo-600 dark:text-indigo-400 group-hover:text-indigo-700 dark:group-hover:text-indigo-300 transition-colors duration-200">
                             查看详情
                             <svg class="ml-1 w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
@@ -2796,8 +2878,8 @@ section[id] {
                     
                     <!-- Title -->
                     <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-3 leading-tight line-clamp-2">
-                        <a href="https://www.producthunt.com/products/tender-5" target="_blank" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors duration-200">
-                            Tender
+                        <a href="https://www.producthunt.com/products/fluensa" target="_blank" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors duration-200">
+                            Fluensa
                         </a>
                     </h3>
                     
@@ -2811,7 +2893,7 @@ section[id] {
                 <!-- Footer - Always at bottom -->
                 <div class="px-6 py-4 bg-gray-50 dark:bg-gray-700/50 border-t border-gray-200 dark:border-gray-700 rounded-b-2xl mt-auto">
                     <div class="flex items-center justify-between">
-                        <a href="https://www.producthunt.com/products/tender-5" target="_blank" class="inline-flex items-center text-sm font-medium text-indigo-600 dark:text-indigo-400 group-hover:text-indigo-700 dark:group-hover:text-indigo-300 transition-colors duration-200">
+                        <a href="https://www.producthunt.com/products/fluensa" target="_blank" class="inline-flex items-center text-sm font-medium text-indigo-600 dark:text-indigo-400 group-hover:text-indigo-700 dark:group-hover:text-indigo-300 transition-colors duration-200">
                             查看详情
                             <svg class="ml-1 w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
@@ -2838,8 +2920,8 @@ section[id] {
                     
                     <!-- Title -->
                     <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-3 leading-tight line-clamp-2">
-                        <a href="https://www.producthunt.com/products/meethub-2" target="_blank" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors duration-200">
-                            MeetHub
+                        <a href="https://www.producthunt.com/products/memories-ai" target="_blank" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors duration-200">
+                            Memories.ai
                         </a>
                     </h3>
                     
@@ -2853,91 +2935,7 @@ section[id] {
                 <!-- Footer - Always at bottom -->
                 <div class="px-6 py-4 bg-gray-50 dark:bg-gray-700/50 border-t border-gray-200 dark:border-gray-700 rounded-b-2xl mt-auto">
                     <div class="flex items-center justify-between">
-                        <a href="https://www.producthunt.com/products/meethub-2" target="_blank" class="inline-flex items-center text-sm font-medium text-indigo-600 dark:text-indigo-400 group-hover:text-indigo-700 dark:group-hover:text-indigo-300 transition-colors duration-200">
-                            查看详情
-                            <svg class="ml-1 w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
-                            </svg>
-                        </a>
-                        
-                        
-                    </div>
-                </div>
-            </article>
-            
-            <article class="group bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 hover:border-gray-300 dark:hover:border-gray-600 transition-all duration-200 hover:shadow-lg dark:hover:shadow-gray-900/50 overflow-hidden news-item flex flex-col h-full" data-category="产品发现">
-                <!-- Card Header -->
-                <div class="p-6 flex-1">
-                    <!-- Category Badge and Source -->
-                    <div class="flex items-center justify-between mb-4">
-                        <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-indigo-100 text-indigo-800 dark:bg-indigo-900 dark:text-indigo-200">
-                            产品发现
-                        </span>
-                        <span class="text-xs text-gray-500 dark:text-gray-400 font-medium">
-                            Product Hunt
-                        </span>
-                    </div>
-                    
-                    <!-- Title -->
-                    <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-3 leading-tight line-clamp-2">
-                        <a href="https://www.producthunt.com/products/gabriel-operator" target="_blank" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors duration-200">
-                            Gabriel Operator
-                        </a>
-                    </h3>
-                    
-                    <!-- Author -->
-                    
-                    
-                    <!-- Summary -->
-                    
-                </div>
-                
-                <!-- Footer - Always at bottom -->
-                <div class="px-6 py-4 bg-gray-50 dark:bg-gray-700/50 border-t border-gray-200 dark:border-gray-700 rounded-b-2xl mt-auto">
-                    <div class="flex items-center justify-between">
-                        <a href="https://www.producthunt.com/products/gabriel-operator" target="_blank" class="inline-flex items-center text-sm font-medium text-indigo-600 dark:text-indigo-400 group-hover:text-indigo-700 dark:group-hover:text-indigo-300 transition-colors duration-200">
-                            查看详情
-                            <svg class="ml-1 w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
-                            </svg>
-                        </a>
-                        
-                        
-                    </div>
-                </div>
-            </article>
-            
-            <article class="group bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 hover:border-gray-300 dark:hover:border-gray-600 transition-all duration-200 hover:shadow-lg dark:hover:shadow-gray-900/50 overflow-hidden news-item flex flex-col h-full" data-category="产品发现">
-                <!-- Card Header -->
-                <div class="p-6 flex-1">
-                    <!-- Category Badge and Source -->
-                    <div class="flex items-center justify-between mb-4">
-                        <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-indigo-100 text-indigo-800 dark:bg-indigo-900 dark:text-indigo-200">
-                            产品发现
-                        </span>
-                        <span class="text-xs text-gray-500 dark:text-gray-400 font-medium">
-                            Product Hunt
-                        </span>
-                    </div>
-                    
-                    <!-- Title -->
-                    <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-3 leading-tight line-clamp-2">
-                        <a href="https://www.producthunt.com/products/chord-multiplayer-ai-chats" target="_blank" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors duration-200">
-                            Chord
-                        </a>
-                    </h3>
-                    
-                    <!-- Author -->
-                    
-                    
-                    <!-- Summary -->
-                    
-                </div>
-                
-                <!-- Footer - Always at bottom -->
-                <div class="px-6 py-4 bg-gray-50 dark:bg-gray-700/50 border-t border-gray-200 dark:border-gray-700 rounded-b-2xl mt-auto">
-                    <div class="flex items-center justify-between">
-                        <a href="https://www.producthunt.com/products/chord-multiplayer-ai-chats" target="_blank" class="inline-flex items-center text-sm font-medium text-indigo-600 dark:text-indigo-400 group-hover:text-indigo-700 dark:group-hover:text-indigo-300 transition-colors duration-200">
+                        <a href="https://www.producthunt.com/products/memories-ai" target="_blank" class="inline-flex items-center text-sm font-medium text-indigo-600 dark:text-indigo-400 group-hover:text-indigo-700 dark:group-hover:text-indigo-300 transition-colors duration-200">
                             查看详情
                             <svg class="ml-1 w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
