@@ -1,19 +1,21 @@
 {
   "version": 2,
-  "functions": {
-    "api/*.py": {
-      "runtime": "python3.9"
-    }
-  },
   "routes": [
     {
-      "src": "/api/(.*)",
-      "dest": "/api/$1"
+      "src": "/api/health",
+      "dest": "/api/health.py"
+    },
+    {
+      "src": "/api/status", 
+      "dest": "/api/status.py"
+    },
+    {
+      "src": "/api/refresh",
+      "dest": "/api/refresh.py"
     },
     {
       "src": "/(.*)",
       "dest": "/output/$1"
     }
-  ],
-  "outputDirectory": "output"
+  ]
 } 
