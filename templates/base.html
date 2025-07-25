@@ -1,0 +1,807 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}{{ meta.title if meta else '设计资讯聚合' }}{% endblock %}</title>
+    
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="{% block description %}{{ meta.description if meta else '汇聚全球设计资讯，每日更新' }}{% endblock %}">
+    <meta name="keywords" content="{% block keywords %}{{ meta.keywords if meta else '设计资讯,设计师,创意' }}{% endblock %}">
+    <meta name="author" content="设计资讯聚合">
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="{% block og_title %}{{ meta.title if meta else '设计资讯聚合' }}{% endblock %}">
+    <meta property="og:description" content="{% block og_description %}{{ meta.description if meta else '汇聚全球设计资讯，每日更新' }}{% endblock %}">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="zh_CN">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🎨%3C/text%3E%3C/svg%3E">
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#6366f1',
+                        secondary: '#8b5cf6',
+                        accent: '#f59e0b',
+                    }
+                }
+            }
+        }
+    </script>
+    
+    <!-- Styles -->
+    <style>
+        :root {
+            --primary-color: #6366f1;
+            --secondary-color: #8b5cf6;
+            --accent-color: #f59e0b;
+            --shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+            --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 1rem;
+        }
+
+        /* Header - Tailwind UI Style */
+        .header {
+            position: sticky;
+            top: 0;
+            z-index: 50;
+            backdrop-filter: blur(10px);
+        }
+
+        .mobile-menu {
+            display: none;
+        }
+
+        @media (max-width: 768px) {
+            .desktop-nav {
+                display: none;
+            }
+            .mobile-menu {
+                display: block;
+            }
+        }
+
+
+
+        /* Main Content */
+        .main {
+            padding: 2rem 0;
+            min-height: calc(100vh - 200px);
+        }
+        
+        /* Cards - Modern Tailwind UI Style */
+        .card {
+            background: var(--surface-color);
+            border: 1px solid var(--border-color);
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            box-shadow: var(--shadow);
+            transition: all 0.2s ease;
+        }
+
+        .card:hover {
+            box-shadow: var(--shadow-lg);
+            transform: translateY(-2px);
+        }
+
+        /* Utility Classes for New Card Design */
+        .line-clamp-2 {
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .line-clamp-3 {
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .stretched-link::after {
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            z-index: 1;
+            content: "";
+        }
+
+        .card-header {
+            margin-bottom: 1rem;
+        }
+
+        .card-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 0.5rem;
+        }
+
+        .card-subtitle {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+        }
+
+        /* Typography */
+        .page-title {
+            font-size: 2.5rem;
+            font-weight: 700;
+            text-align: center;
+            margin-bottom: 1rem;
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .page-subtitle {
+            text-align: center;
+            color: var(--text-secondary);
+            margin-bottom: 2rem;
+            font-size: 1.1rem;
+        }
+
+        /* Badges */
+        .badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            background: var(--primary-color);
+            color: white;
+            border-radius: 9999px;
+            font-size: 0.8rem;
+            font-weight: 500;
+        }
+
+        .badge-secondary {
+            background: var(--text-muted);
+        }
+
+        .badge-accent {
+            background: var(--accent-color);
+        }
+
+        /* Links */
+        .link {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+        }
+        
+        .link:hover {
+            text-decoration: underline;
+        }
+
+        /* Buttons */
+        .btn {
+            display: inline-block;
+            padding: 0.75rem 1.5rem;
+            background: var(--primary-color);
+            color: white;
+            text-decoration: none;
+            border-radius: 0.5rem;
+            font-weight: 500;
+            transition: all 0.2s ease;
+            border: none;
+            cursor: pointer;
+        }
+
+        .btn:hover {
+            background: var(--secondary-color);
+            transform: translateY(-1px);
+        }
+
+        .btn-outline {
+            background: transparent;
+            color: var(--primary-color);
+            border: 2px solid var(--primary-color);
+        }
+
+        .btn-outline:hover {
+            background: var(--primary-color);
+            color: white;
+        }
+
+        /* Footer */
+        .footer {
+            background: var(--surface-color);
+            border-top: 1px solid var(--border-color);
+            padding: 2rem 0;
+            text-align: center;
+            color: var(--text-secondary);
+        }
+
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-bottom: 1rem;
+            flex-wrap: wrap;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .header-content {
+                flex-direction: column;
+                gap: 1rem;
+            }
+
+            .nav {
+                gap: 1rem;
+            }
+
+            .page-title {
+                font-size: 2rem;
+            }
+
+            .container {
+                padding: 0 0.5rem;
+            }
+
+            .footer-links {
+                flex-direction: column;
+                gap: 0.5rem;
+            }
+        }
+
+        /* Loading Animation */
+        .loading {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 3px solid var(--border-color);
+            border-radius: 50%;
+            border-top-color: var(--primary-color);
+            animation: spin 1s ease-in-out infinite;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        /* Custom scrollbar */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: var(--surface-color);
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: var(--text-muted);
+            border-radius: 4px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--text-secondary);
+        }
+
+
+
+        /* 刷新进度条动画 */
+        @keyframes fillProgressBar {
+            from { width: 0%; }
+            to { width: 100%; }
+        }
+        
+        .refresh-progress-fill.animate {
+            animation: fillProgressBar 2s ease-in-out forwards;
+        }
+
+        .last-update small {
+            color: var(--text-muted);
+        }
+    </style>
+
+    {% block extra_head %}{% endblock %}
+</head>
+<body class="bg-white text-gray-900">
+    <!-- Tailwind UI Header -->
+    <header class="header bg-white/80 border-b border-gray-200">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center py-4">
+                <!-- Logo - 左侧区域 -->
+                <div class="flex items-center flex-shrink-0">
+                    <a href="index.html" class="flex items-center space-x-3 group">
+                        <div>
+                            <h1 class="text-xl font-bold text-gray-900 group-hover:text-indigo-600 transition-colors">
+                                设计资讯聚合
+                            </h1>
+                            <p class="text-xs text-gray-500">创意灵感 · 设计趋势</p>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Desktop Navigation - 右侧区域 -->
+                <nav class="desktop-nav flex items-center space-x-3 flex-shrink-0">
+                    <!-- Refresh Button -->
+                    <button 
+                        class="refresh-btn inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-lg text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed"
+                        onclick="autoRefreshNews()" 
+                        title="一键刷新资讯">
+                        <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path>
+                        </svg>
+                        刷新资讯
+                    </button>
+
+                    <!-- Archive Link -->
+                    <a href="archive.html" 
+                       class="inline-flex items-center px-4 py-2 border border-gray-300 text-sm font-medium rounded-lg text-gray-700 bg-white hover:bg-gray-50 focus:outline-none transition-all duration-200">
+                        <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"></path>
+                        </svg>
+                        归档
+                    </a>
+
+
+
+                    <!-- Mobile Menu Button -->
+                    <button 
+                        class="mobile-menu-btn md:hidden inline-flex items-center justify-center w-10 h-10 border border-gray-300 text-gray-700 bg-white hover:bg-gray-50 rounded-lg transition-all duration-200 focus:outline-none"
+                        onclick="toggleMobileMenu()">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+                        </svg>
+                    </button>
+                </nav>
+            </div>
+
+            <!-- Mobile Menu -->
+            <div id="mobileMenu" class="mobile-menu md:hidden pb-4 border-t border-gray-200 mt-4" style="display: none;">
+                <div class="flex flex-col space-y-3 pt-4">
+                    <button 
+                        class="refresh-btn w-full inline-flex items-center justify-center px-4 py-2 border border-transparent text-sm font-medium rounded-lg text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none transition-all duration-200"
+                        onclick="autoRefreshNews(); toggleMobileMenu();">
+                        <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path>
+                        </svg>
+                        刷新资讯
+                    </button>
+                    <a href="archive.html" 
+                       class="w-full inline-flex items-center justify-center px-4 py-2 border border-gray-300 text-sm font-medium rounded-lg text-gray-700 bg-white hover:bg-gray-50 transition-all duration-200">
+                        <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"></path>
+                        </svg>
+                        归档
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- 刷新进度提示 - Tailwind UI 风格 -->
+    <div id="refreshProgress" class="fixed inset-0 z-50 overflow-y-auto" style="display: none;" aria-labelledby="modal-title" role="dialog" aria-modal="true">
+        <div class="flex min-h-full items-center justify-center p-4 text-center sm:p-0">
+            <div class="fixed inset-0 bg-gray-900 bg-opacity-75 transition-opacity backdrop-blur-sm"></div>
+            
+            <div class="relative transform overflow-hidden rounded-2xl bg-white px-4 pb-4 pt-5 text-left shadow-2xl transition-all sm:my-8 sm:w-full sm:max-w-sm sm:p-6">
+                <!-- 刷新图标 -->
+                <div class="mx-auto flex h-16 w-16 items-center justify-center rounded-full bg-blue-100">
+                    <svg class="refresh-progress-icon h-8 w-8 text-blue-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+                    </svg>
+                </div>
+                
+                <!-- 标题和描述 -->
+                <div class="mt-3 text-center sm:mt-5">
+                    <h3 class="refresh-progress-text text-lg font-semibold leading-6 text-gray-900" id="modal-title">
+                        正在获取最新资讯...
+                    </h3>
+                    <div class="mt-2">
+                        <p class="refresh-progress-detail text-sm text-gray-500">
+                            预计需要1-2分钟，请稍候
+                        </p>
+                    </div>
+                </div>
+                
+                <!-- 进度条 -->
+                <div class="mt-5">
+                    <div class="overflow-hidden rounded-full bg-gray-200">
+                        <div class="refresh-progress-fill h-2 rounded-full bg-gradient-to-r from-blue-500 to-indigo-600 transition-all duration-500 ease-out" style="width: 0%"></div>
+                    </div>
+                </div>
+                
+                <!-- 取消按钮 -->
+                <div class="mt-5 sm:mt-6">
+                    <button type="button" onclick="cancelRefresh()" class="inline-flex w-full justify-center rounded-lg border border-gray-300 bg-white px-3 py-2 text-sm font-semibold text-gray-900 shadow-sm hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 transition-all duration-200">
+                        <svg class="mr-2 h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                        </svg>
+                        取消
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <main class="main">
+        <div class="container">
+            {% block content %}{% endblock %}
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+
+            <p>&copy; {{ generated_at.year if generated_at else 2025 }} 设计资讯聚合. 汇聚全球设计动态.</p>
+            <p style="font-size: 0.8rem; margin-top: 0.5rem;">
+                {% if generated_at %}
+                    最后更新: {{ generated_at.strftime('%Y年%m月%d日 %H:%M') }}
+                {% endif %}
+            </p>
+        </div>
+    </footer>
+
+    <script>
+        // Mobile menu toggle functionality
+        function toggleMobileMenu() {
+            const mobileMenu = document.getElementById('mobileMenu');
+            const isHidden = mobileMenu.style.display === 'none' || !mobileMenu.style.display;
+            mobileMenu.style.display = isHidden ? 'block' : 'none';
+        }
+
+        // Close mobile menu when clicking outside
+        document.addEventListener('click', function(event) {
+            const mobileMenu = document.getElementById('mobileMenu');
+            const mobileMenuBtn = document.querySelector('.mobile-menu-btn');
+            
+            if (mobileMenu && mobileMenuBtn && 
+                !mobileMenu.contains(event.target) && 
+                !mobileMenuBtn.contains(event.target) &&
+                mobileMenu.style.display === 'block') {
+                mobileMenu.style.display = 'none';
+            }
+        });
+
+
+
+        // Smooth scrolling for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+
+        // 刷新进度提示功能
+        let refreshCancelled = false; // 添加取消标志
+        let refreshPollingId = null; // 轮询ID
+
+        function showRefreshProgress() {
+            refreshCancelled = false; // 重置取消标志
+            document.getElementById('refreshProgress').style.display = 'block';
+            document.body.style.overflow = 'hidden';
+            
+            // 启动进度条动画
+            setTimeout(() => {
+                const progressFill = document.querySelector('.refresh-progress-fill');
+                if (progressFill) {
+                    progressFill.classList.add('animate');
+                }
+            }, 100);
+        }
+
+        function hideRefreshProgress() {
+            document.getElementById('refreshProgress').style.display = 'none';
+            document.body.style.overflow = '';
+            
+            // 重置进度条和图标状态
+            const progressFill = document.querySelector('.refresh-progress-fill');
+            const iconElement = document.querySelector('.refresh-progress-icon');
+            
+            if (progressFill) {
+                progressFill.classList.remove('animate');
+                progressFill.style.width = '0%';
+            }
+            
+            if (iconElement) {
+                // 重置为默认的静态刷新图标
+                iconElement.className = 'refresh-progress-icon h-8 w-8 text-blue-600';
+                iconElement.innerHTML = `
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+                `;
+            }
+            
+            // 清除轮询
+            if (refreshPollingId) {
+                clearTimeout(refreshPollingId);
+                refreshPollingId = null;
+            }
+        }
+
+        // 一键自动刷新
+        async function autoRefreshNews() {
+            const refreshBtn = document.querySelector('.refresh-btn');
+            const originalText = refreshBtn.innerHTML;
+            
+            try {
+                // 显示加载状态
+                refreshBtn.innerHTML = '⏳ 刷新中...';
+                refreshBtn.disabled = true;
+                showRefreshProgress();
+                
+                // 调用刷新API
+                const response = await fetch('/api/refresh', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    }
+                });
+                
+                const data = await response.json();
+                
+                if (response.status === 409) {
+                    // 409表示刷新正在进行中，直接开始轮询状态
+                    updateProgress('⏳', '检测到刷新进行中', '正在等待当前刷新任务完成...');
+                    await pollRefreshStatus();
+                } else if (!response.ok) {
+                    throw new Error(`服务器错误: ${response.status}`);
+                } else if (data.success) {
+                    // 开始轮询状态
+                    await pollRefreshStatus();
+                } else {
+                    throw new Error(data.message || '刷新启动失败');
+                }
+                
+            } catch (error) {
+                console.error('刷新失败:', error);
+                updateProgress('❌', '刷新失败', error.message);
+                setTimeout(() => {
+                    hideRefreshProgress();
+                    refreshBtn.innerHTML = originalText;
+                    refreshBtn.disabled = false;
+                }, 3000);
+            }
+        }
+
+        // 轮询刷新状态
+        async function pollRefreshStatus() {
+            const refreshBtn = document.querySelector('.refresh-btn');
+            const originalText = '🔄 刷新资讯';
+            
+            // 检查是否被取消
+            if (refreshCancelled) {
+                refreshBtn.innerHTML = originalText;
+                refreshBtn.disabled = false;
+                return;
+            }
+            
+            try {
+                const response = await fetch('/api/status');
+                const status = await response.json();
+                
+                if (status.is_running) {
+                    // 仍在运行，继续轮询
+                    refreshPollingId = setTimeout(pollRefreshStatus, 2000);
+                    return;
+                }
+                
+                if (status.error) {
+                    // 有错误
+                    updateProgress('❌', '刷新失败', status.error);
+                    setTimeout(() => {
+                        hideRefreshProgress();
+                        refreshBtn.innerHTML = originalText;
+                        refreshBtn.disabled = false;
+                    }, 3000);
+                } else {
+                    // 成功完成
+                    updateProgress('✅', '刷新完成！', '正在重新加载页面...');
+                    setTimeout(() => {
+                        window.location.reload();
+                    }, 1500);
+                }
+                
+            } catch (error) {
+                console.error('状态查询失败:', error);
+                updateProgress('❌', '状态查询失败', '请检查服务器连接');
+                setTimeout(() => {
+                    hideRefreshProgress();
+                    refreshBtn.innerHTML = originalText;
+                    refreshBtn.disabled = false;
+                }, 3000);
+            }
+        }
+
+        // 更新进度显示
+        function updateProgress(icon, text, detail) {
+            // 更新文本内容
+            document.querySelector('.refresh-progress-text').textContent = text;
+            document.querySelector('.refresh-progress-detail').textContent = detail;
+            
+            // 如果需要更改图标状态（比如取消时）
+            const iconElement = document.querySelector('.refresh-progress-icon');
+            if (icon === '⚠️') {
+                // 显示警告图标
+                iconElement.classList.remove('text-blue-600');
+                iconElement.classList.add('text-yellow-500');
+                iconElement.innerHTML = `
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-2.5L13.732 4c-.77-.833-1.964-.833-2.732 0L3.732 16.5c-.77.833.192 2.5 1.732 2.5z" />
+                `;
+            } else if (icon === '✅') {
+                // 显示成功图标
+                iconElement.classList.remove('text-blue-600');
+                iconElement.classList.add('text-green-500');
+                iconElement.innerHTML = `
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                `;
+            }
+        }
+
+        // 取消刷新
+        function cancelRefresh() {
+            refreshCancelled = true; // 设置取消标志
+            const refreshBtn = document.querySelector('.refresh-btn');
+            const originalText = '🔄 刷新资讯';
+            
+            updateProgress('⚠️', '刷新已取消', '您已取消刷新操作，后台任务将继续完成。');
+            
+            setTimeout(() => {
+                hideRefreshProgress();
+                refreshBtn.innerHTML = originalText;
+                refreshBtn.disabled = false;
+            }, 2000);
+        }
+
+        // 按ESC键取消
+        document.addEventListener('keydown', function(event) {
+            if (event.key === 'Escape') {
+                const progressModal = document.getElementById('refreshProgress');
+                if (progressModal && progressModal.style.display === 'flex') {
+                    cancelRefresh();
+                }
+            }
+        });
+
+        // 回到顶部功能
+        document.addEventListener('DOMContentLoaded', function() {
+            const backToTopBtn = document.getElementById('backToTop');
+            let isVisible = false;
+            let ticking = false;
+            
+            // 节流函数，优化滚动性能
+            function throttle(func, limit) {
+                let inThrottle;
+                return function() {
+                    const args = arguments;
+                    const context = this;
+                    if (!inThrottle) {
+                        func.apply(context, args);
+                        inThrottle = true;
+                        setTimeout(() => inThrottle = false, limit);
+                    }
+                }
+            }
+            
+            // 检查是否应该显示按钮
+            function checkScrollPosition() {
+                const scrolled = window.pageYOffset;
+                const screenHeight = window.innerHeight;
+                const shouldShow = scrolled > screenHeight;
+                
+                if (shouldShow && !isVisible) {
+                    // 显示按钮
+                    backToTopBtn.classList.remove('opacity-0', 'translate-y-16', 'pointer-events-none');
+                    backToTopBtn.classList.add('opacity-100', 'translate-y-0');
+                    isVisible = true;
+                } else if (!shouldShow && isVisible) {
+                    // 隐藏按钮
+                    backToTopBtn.classList.add('opacity-0', 'translate-y-16', 'pointer-events-none');
+                    backToTopBtn.classList.remove('opacity-100', 'translate-y-0');
+                    isVisible = false;
+                }
+                ticking = false;
+            }
+            
+            // 监听滚动事件（使用节流优化性能）
+            window.addEventListener('scroll', throttle(function() {
+                if (!ticking) {
+                    requestAnimationFrame(checkScrollPosition);
+                    ticking = true;
+                }
+            }, 100));
+            
+            // 点击回到顶部
+            backToTopBtn.addEventListener('click', function(e) {
+                e.preventDefault();
+                
+                // 添加点击动画
+                backToTopBtn.style.transform = 'scale(0.95)';
+                setTimeout(() => {
+                    backToTopBtn.style.transform = '';
+                }, 150);
+                
+                // 平滑滚动到顶部
+                window.scrollTo({
+                    top: 0,
+                    behavior: 'smooth'
+                });
+                
+                // 暂时隐藏按钮，避免用户重复点击
+                setTimeout(() => {
+                    if (window.pageYOffset <= window.innerHeight) {
+                        backToTopBtn.classList.add('opacity-0', 'translate-y-16', 'pointer-events-none');
+                        backToTopBtn.classList.remove('opacity-100', 'translate-y-0');
+                        isVisible = false;
+                    }
+                }, 500);
+            });
+            
+            // 键盘支持 - 按 Home 键回到顶部
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Home' && e.ctrlKey) {
+                    e.preventDefault();
+                    window.scrollTo({
+                        top: 0,
+                        behavior: 'smooth'
+                    });
+                }
+            });
+        });
+    </script>
+
+    <!-- 回到顶部按钮 -->
+    <button id="backToTop" 
+            class="fixed bottom-6 right-6 md:bottom-8 md:right-8 z-50 
+                   opacity-0 translate-y-16 pointer-events-none
+                   transition-all duration-300 ease-in-out
+                   bg-white 
+                   border border-gray-200
+                   text-gray-600
+                   hover:text-gray-900
+                   hover:bg-gray-50
+                   hover:border-gray-300
+                   hover:shadow-lg hover:shadow-gray-400/25
+                   focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2
+                   rounded-full p-3 md:p-3.5
+                   shadow-md backdrop-blur-sm
+                   active:scale-95
+                   group"
+            aria-label="回到顶部"
+            title="回到顶部">
+        <svg class="w-5 h-5 md:w-6 md:h-6 transition-transform duration-200 group-hover:-translate-y-0.5" 
+             fill="none" 
+             stroke="currentColor" 
+             viewBox="0 0 24 24" 
+             xmlns="http://www.w3.org/2000/svg">
+            <path stroke-linecap="round" 
+                  stroke-linejoin="round" 
+                  stroke-width="2.5" 
+                  d="M5 10l7-7m0 0l7 7m-7-7v18">
+            </path>
+        </svg>
+    </button>
+
+    {% block extra_scripts %}{% endblock %}
+</body>
+</html> 

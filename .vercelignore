@@ -1,0 +1,59 @@
+# 忽略源代码和开发文件
+src/
+logs/
+data/
+config/
+templates/
+*.py
+!api/*.py
+
+# 忽略开发工具和文档
+*.md
+start*.py
+simple_run.py
+refresh_server.py
+main.py
+一键刷新使用指南.md
+系统功能总览.md
+使用指南.md
+SOURCES_GUIDE.md
+DEPLOYMENT.md
+
+# 忽略版本控制
+.git/
+.github/
+
+# 忽略Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+*.cover
+.hypothesis/
+
+# 忽略IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 忽略操作系统
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db 

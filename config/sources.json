@@ -1,0 +1,345 @@
+{
+  "sources": [
+    {
+      "name": "UX Design CC",
+      "url": "https://uxdesign.cc/feed",
+      "type": "rss",
+      "category": "用户体验设计",
+      "enabled": true,
+      "limit": 10
+    },
+    {
+      "name": "Smashing Magazine",
+      "url": "https://www.smashingmagazine.com/feed/",
+      "type": "rss",
+      "category": "网页设计",
+      "enabled": true,
+      "limit": 10
+    },
+    {
+      "name": "A List Apart",
+      "url": "https://alistapart.com/main/feed/",
+      "type": "rss",
+      "category": "网页设计",
+      "enabled": true,
+      "limit": 6
+    },
+    {
+      "name": "Design Milk",
+      "url": "https://design-milk.com/feed/",
+      "type": "rss",
+      "category": "产品设计",
+      "enabled": true,
+      "limit": 6
+    },
+    {
+      "name": "UX Planet",
+      "url": "https://uxplanet.org/feed",
+      "type": "rss",
+      "category": "用户体验设计",
+      "enabled": true,
+      "limit": 8
+    },
+    {
+      "name": "Intercom Blog",
+      "url": "https://blog.intercom.com/feed/",
+      "type": "rss",
+      "category": "产品设计",
+      "enabled": true,
+      "limit": 6
+    },
+    {
+      "name": "Marvel Blog",
+      "url": "https://blog.marvelapp.com/rss/",
+      "type": "rss",
+      "category": "原型设计",
+      "enabled": true,
+      "limit": 4
+    },
+    {
+      "name": "UX Mastery",
+      "url": "https://uxmastery.com/feed/",
+      "type": "rss",
+      "category": "用户体验设计",
+      "enabled": true,
+      "limit": 4
+    },
+    {
+      "name": "UX Myths",
+      "url": "https://uxmyths.com/rss.xml",
+      "type": "rss",
+      "category": "用户体验设计",
+      "enabled": true,
+      "limit": 3
+    },
+    {
+      "name": "CSS-Tricks",
+      "url": "https://css-tricks.com/feed/",
+      "type": "rss",
+      "category": "前端设计",
+      "enabled": true,
+      "limit": 5
+    },
+    {
+      "name": "Inside Design by InVision",
+      "url": "https://www.invisionapp.com/inside-design/rss.xml",
+      "type": "rss",
+      "category": "UI设计",
+      "enabled": true,
+      "limit": 5
+    },
+    {
+      "name": "UX Collective",
+      "url": "https://uxdesign.cc/feed/tagged/ux-collective",
+      "type": "rss",
+      "category": "用户体验设计",
+      "enabled": true,
+      "limit": 4
+    },
+    {
+      "name": "Product Hunt",
+      "url": "https://www.producthunt.com/",
+      "type": "web",
+      "category": "产品发现",
+      "selectors": {
+        "item": "section[data-test^='post-item']",
+        "title": "a[data-test^='post-name'] ",
+        "link": "a[data-test^='post-name']",
+        "image": "img",
+        "points": "button[data-test='vote-button'] span"
+      },
+      "enabled": true,
+      "limit": 8
+    },
+    {
+      "name": "Sidebar",
+      "url": "https://sidebar.io/feed.xml",
+      "type": "rss",
+      "category": "设计资讯",
+      "enabled": true,
+      "limit": 5
+    },
+    {
+      "name": "NN/g (Nielsen Norman Group)",
+      "url": "https://www.nngroup.com/articles/",
+      "type": "web",
+      "category": "用户体验研究",
+      "selectors": {
+        "item": ".publication-list-item.article",
+        "title": ".article.teaser .content h2.title a",
+        "link": ".article.teaser .content h2.title a",
+        "author": ".article.teaser .content .author"
+      },
+      "enabled": true,
+      "limit": 6
+    },
+    {
+      "name": "Awwwards",
+      "url": "https://www.awwwards.com/websites/sites_of_the_day/",
+      "type": "web",
+      "category": "网页设计",
+      "selectors": {
+        "item": "li.col-3.js-collectable",
+        "title": ".figure-rollover__left .figure-rollover__row:nth-child(2)",
+        "link": ".figure-rollover__link",
+        "image": ".figure-rollover__file",
+        "author": ".avatar-name__title"
+      },
+      "enabled": true,
+      "limit": 8
+    },
+    {
+      "name": "Mobbin",
+      "url": "https://mobbin.com/",
+      "type": "web",
+      "category": "移动设计",
+      "selectors": {
+        "item": ".browse-item, .design-item, .card",
+        "title": ".title, .name, h3, h2",
+        "link": "a",
+        "image": "img"
+      },
+      "enabled": true,
+      "limit": 6
+    },
+    {
+      "name": "Pttrns",
+      "url": "https://www.pttrns.com/",
+      "type": "web",
+      "category": "UI设计模式",
+      "selectors": {
+        "item": ".pattern-item, .design-pattern, .grid-item",
+        "title": ".pattern-title, .title, h3",
+        "link": "a",
+        "image": "img"
+      },
+      "enabled": true,
+      "limit": 6
+    },
+    {
+      "name": "UI Movement",
+      "url": "https://uimovement.com/",
+      "type": "web",
+      "category": "UI动画",
+      "selectors": {
+        "item": ".post, .animation-item, .grid-item",
+        "title": ".title, h2, h3",
+        "link": "a",
+        "image": "img"
+      },
+      "enabled": true,
+      "limit": 6
+    },
+    {
+      "name": "腾讯ISUX",
+      "url": "https://isux.tencent.com/",
+      "type": "web",
+      "category": "设计团队",
+      "selectors": {
+        "item": ".article-item, .post, .news-item",
+        "title": ".title, h2, h3",
+        "link": "a",
+        "image": "img",
+        "author": ".author"
+      },
+      "enabled": true,
+      "limit": 5
+    },
+    {
+      "name": "优设网",
+      "url": "https://www.uisdc.com/",
+      "type": "web",
+      "category": "设计教程",
+      "selectors": {
+        "item": ".item.list-item.item-article",
+        "title": ".item-title a",
+        "link": ".item-title a",
+        "image": ".item-thumb .thumb",
+        "author": ".meta-name"
+      },
+      "enabled": true,
+      "limit": 6
+    },
+    {
+      "name": "设计达人",
+      "url": "https://www.shejidaren.com/",
+      "type": "web",
+      "category": "设计资源",
+      "selectors": {
+        "item": "article section.post",
+        "title": ".title a",
+        "link": ".title a",
+        "image": ".wp-post-image",
+        "author": ".author"
+      },
+      "enabled": true,
+      "limit": 5
+    },
+    {
+      "name": "腾讯TGideas",
+      "url": "https://tgideas.qq.com/list.html",
+      "type": "web",
+      "category": "游戏设计",
+      "selectors": {
+        "item": ".article-item, .news-item, .list-item",
+        "title": ".title, h2, h3",
+        "link": "a",
+        "image": "img",
+        "author": ".author"
+      },
+      "enabled": true,
+      "limit": 5
+    },
+    {
+      "name": "Fabricating & Metalworking",
+      "url": "https://fabricatingandmetalworking.com/feed/",
+      "type": "rss",
+      "category": "行业资讯",
+      "enabled": true,
+      "limit": 6
+    },
+    {
+      "name": "Xometry Laser Cutting Blog",
+      "url": "https://www.xometry.com/resources/sheet/",
+      "type": "web",
+      "category": "行业资讯",
+      "selectors": {
+        "item": ".resource-card, .post, article",
+        "title": "h2, h3, .title",
+        "link": "a",
+        "image": "img",
+        "author": ".author"
+      },
+      "enabled": true,
+      "limit": 5
+    },
+    {
+      "name": "DTG Pro Blog",
+      "url": "https://dtgpro.com/blog/",
+      "type": "web",
+      "category": "行业资讯",
+      "selectors": {
+        "item": ".blog-post, .post, article",
+        "title": "h2, h3, .title",
+        "link": "a",
+        "image": "img",
+        "author": ".author"
+      },
+      "enabled": true,
+      "limit": 5
+    },
+    {
+      "name": "Heat Transfer Warehouse DTF Blog",
+      "url": "https://www.heattransferwarehouse.com/blog/",
+      "type": "web",
+      "category": "行业资讯",
+      "selectors": {
+        "item": ".blog-post, .post, article",
+        "title": "h2, h3, .title",
+        "link": "a",
+        "image": "img",
+        "author": ".author"
+      },
+      "enabled": true,
+      "limit": 5
+    },
+    {
+      "name": "Make杂志",
+      "url": "https://makezine.com/feed/",
+      "type": "rss",
+      "category": "行业资讯",
+      "enabled": true,
+            "limit": 6
+    },
+    {
+      "name": "Large Format Review",
+      "url": "https://www.largeformatreview.com/",
+      "type": "web",
+      "category": "行业资讯",
+      "selectors": {
+        "item": ".post, .article, .entry",
+        "title": ".entry-title, h2, h3",
+        "link": "a",
+        "image": ".post-thumbnail img, img",
+        "author": ".author"
+      },
+      "enabled": true,
+      "limit": 4
+    },
+    {
+      "name": "PrintWeek",
+      "url": "https://www.printweek.com/",
+      "type": "web",
+      "category": "行业资讯",
+      "selectors": {
+        "item": ".article, .news-item, .post",
+        "title": "h2, h3, .headline",
+        "link": "a",
+        "image": "img",
+        "author": ".author"
+      },
+      "enabled": true,
+      "limit": 4
+    }
+  ]
+} 
