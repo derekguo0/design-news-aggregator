@@ -1,5 +1,11 @@
 {% extends "base.html" %}
 
+{% block title %}Design Drip - {{ date.strftime('%Y年%m月%d日') }}设计资讯{% endblock %}
+
+{% block description %}Design Drip - {{ date.strftime('%Y年%m月%d日') }}设计资讯汇总，共{{ total_items }}条来自{{ sources_count }}个优质设计网站的资讯{% endblock %}
+
+{% block keywords %}设计资讯,设计师,创意,Design Drip,{{ date.strftime('%Y年%m月%d日') }}{% endblock %}
+
 {% block extra_head %}
 <style>
 /* 筛选器固定样式 */
