@@ -3,16 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{% block title %}{{ meta.title if meta else '设计资讯聚合' }}{% endblock %}</title>
+    <title>{% block title %}{{ meta.title if meta else 'Design Drip' }}{% endblock %}</title>
     
     <!-- SEO Meta Tags -->
-    <meta name="description" content="{% block description %}{{ meta.description if meta else '汇聚全球设计资讯，每日更新' }}{% endblock %}">
-    <meta name="keywords" content="{% block keywords %}{{ meta.keywords if meta else '设计资讯,设计师,创意' }}{% endblock %}">
-    <meta name="author" content="设计资讯聚合">
+    <meta name="description" content="{% block description %}{{ meta.description if meta else 'Design Drip - 汇聚全球设计资讯，每日更新' }}{% endblock %}">
+    <meta name="keywords" content="{% block keywords %}{{ meta.keywords if meta else '设计资讯,设计师,创意,Design Drip' }}{% endblock %}">
+    <meta name="author" content="Design Drip">
     
     <!-- Open Graph -->
-    <meta property="og:title" content="{% block og_title %}{{ meta.title if meta else '设计资讯聚合' }}{% endblock %}">
-    <meta property="og:description" content="{% block og_description %}{{ meta.description if meta else '汇聚全球设计资讯，每日更新' }}{% endblock %}">
+    <meta property="og:title" content="{% block og_title %}{{ meta.title if meta else 'Design Drip' }}{% endblock %}">
+    <meta property="og:description" content="{% block og_description %}{{ meta.description if meta else 'Design Drip - 汇聚全球设计资讯，每日更新' }}{% endblock %}">
     <meta property="og:type" content="website">
     <meta property="og:locale" content="zh_CN">
     
@@ -331,7 +331,7 @@
                 <div>
                     <a href="index.html" class="block group">
                         <h1 class="text-xl font-bold text-gray-900 group-hover:text-indigo-600 transition-colors">
-                            设计资讯聚合
+                            Design Drip
                         </h1>
                         <p class="text-xs text-gray-500">创意灵感 · 设计趋势</p>
                     </a>
@@ -449,7 +449,7 @@
     <footer class="footer">
         <div class="container">
 
-            <p>&copy; {{ generated_at.year if generated_at else 2025 }} 设计资讯聚合. 汇聚全球设计动态.</p>
+            <p>&copy; {{ generated_at.year if generated_at else 2025 }} Design Drip. 汇聚全球设计动态.</p>
             <p style="font-size: 0.8rem; margin-top: 0.5rem;">
                 {% if generated_at %}
                     最后更新: {{ generated_at.strftime('%Y年%m月%d日 %H:%M') }}

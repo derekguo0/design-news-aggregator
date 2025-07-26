@@ -260,9 +260,9 @@ class WebGenerator:
                 },
                 'generated_at': datetime.now(),
                 'meta': {
-                    'title': "设计资讯聚合 - 每日设计动态汇总",
-                    'description': f"汇聚全球设计资讯，每日更新。已收集{total_items}条来自{len(all_sources)}个优质设计网站的资讯",
-                    'keywords': "设计资讯,设计师,创意,Dribbble,Behance,Design Milk,工业设计,建筑设计"
+                    'title': "Design Drip - 每日设计动态汇总",
+                    'description': f"Design Drip汇聚全球设计资讯，每日更新。已收集{total_items}条来自{len(all_sources)}个优质设计网站的资讯",
+                    'keywords': "设计资讯,设计师,创意,Dribbble,Behance,Design Milk,工业设计,建筑设计,Design Drip"
                 }
             }
             
@@ -319,9 +319,9 @@ class WebGenerator:
                 'total_items': sum(digest.total_items for digest in all_digests),
                 'generated_at': datetime.now(),
                 'meta': {
-                    'title': "资讯归档 - 设计资讯聚合",
-                    'description': f"设计资讯历史归档，共{len(all_digests)}天的资讯记录",
-                    'keywords': "设计资讯归档,历史资讯,设计师"
+                    'title': "资讯归档 - Design Drip",
+                    'description': f"Design Drip设计资讯历史归档，共{len(all_digests)}天的资讯记录",
+                    'keywords': "设计资讯归档,历史资讯,设计师,Design Drip"
                 }
             }
             
@@ -415,9 +415,9 @@ class WebGenerator:
                 '<?xml version="1.0" encoding="UTF-8"?>',
                 '<rss version="2.0">',
                 '<channel>',
-                '<title>设计资讯聚合</title>',
+                '<title>Design Drip</title>',
                 f'<link>{base_url}</link>',
-                '<description>每日设计资讯汇总，汇聚全球优质设计内容</description>',
+                '<description>Design Drip每日设计资讯汇总，汇聚全球优质设计内容</description>',
                 '<language>zh-cn</language>',
                 f'<lastBuildDate>{datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0800")}</lastBuildDate>'
             ]

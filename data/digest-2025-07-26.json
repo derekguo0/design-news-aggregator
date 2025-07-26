@@ -2,24 +2,24 @@
   "date": "2025-07-26T00:00:00",
   "total_items": 80,
   "sources": [
-    "Large Format Review",
-    "Make杂志",
-    "优设网",
-    "Sidebar",
-    "设计达人",
-    "A List Apart",
-    "NN/g (Nielsen Norman Group)",
-    "Smashing Magazine",
-    "UX Design CC",
-    "Awwwards",
-    "Design Milk",
-    "Heat Transfer Warehouse DTF Blog",
     "Product Hunt",
+    "Sidebar",
     "CSS-Tricks",
     "PrintWeek",
-    "Fabricating & Metalworking"
+    "NN/g (Nielsen Norman Group)",
+    "Heat Transfer Warehouse DTF Blog",
+    "Make杂志",
+    "Large Format Review",
+    "优设网",
+    "Awwwards",
+    "设计达人",
+    "A List Apart",
+    "Design Milk",
+    "Smashing Magazine",
+    "Fabricating & Metalworking",
+    "UX Design CC"
   ],
-  "generated_at": "2025-07-26T11:35:30.521269",
+  "generated_at": "2025-07-26T13:54:28.964135",
   "categories": [
     {
       "category": "用户体验设计",
@@ -251,6 +251,15 @@
           "published_at": null
         },
         {
+          "title": "Avax.network",
+          "url": "https://www.awwwards.com/sites/avax-network-1",
+          "author": "Wonder Makers",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Daydream Player",
           "url": "https://www.awwwards.com/sites/daydream-player",
           "author": "Bukvity Lorisz",
@@ -312,15 +321,6 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Bright Biotech",
-          "url": "https://www.awwwards.com/sites/bright-biotech",
-          "author": "Lyon & Lyon",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -374,7 +374,16 @@
           "published_at": null
         },
         {
-          "title": "6. camelAI Embedded",
+          "title": "6. DocsBot",
+          "url": "https://www.producthunt.com/products/docsbot-ai",
+          "author": null,
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "7. camelAI Embedded",
           "url": "https://www.producthunt.com/products/camelai",
           "author": null,
           "category": "产品发现",
@@ -383,17 +392,8 @@
           "published_at": null
         },
         {
-          "title": "7. Frigade AI",
+          "title": "8. Frigade AI",
           "url": "https://www.producthunt.com/products/frigade",
-          "author": null,
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "8. DocsBot",
-          "url": "https://www.producthunt.com/products/docsbot-ai",
           "author": null,
           "category": "产品发现",
           "source": "Product Hunt",
