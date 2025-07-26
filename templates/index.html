@@ -173,11 +173,19 @@ section[id] {
         <div class="text-center mb-12">
             <h1 class="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 dark:text-white mb-6">
                 <span class="text-black dark:text-white">
+                    {% if latest_items %}
+                    {{ generated_at.strftime('%Y年%m月%d日') }} 设计资讯
+                    {% else %}
                     设计资讯聚合
+                    {% endif %}
                 </span>
             </h1>
             <p class="max-w-3xl mx-auto text-lg sm:text-xl text-gray-600 dark:text-gray-300 leading-relaxed">
+                {% if latest_items %}
+                今日共汇聚 <span class="font-semibold text-purple-600 dark:text-purple-400">{{ latest_items|length }}</span> 条优质设计资讯，助力创意工作者获取最新动态
+                {% else %}
                 每日汇聚全球优质设计内容，助力创意工作者获取最新资讯
+                {% endif %}
             </p>
             <div class="mt-6 flex justify-center">
                 <div class="flex items-center space-x-2 text-sm text-gray-500 dark:text-gray-400">

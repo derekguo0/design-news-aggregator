@@ -568,7 +568,8 @@
                     
                     // 等待2秒后重新加载页面
                     setTimeout(() => {
-                        window.location.reload();
+                        // 添加时间戳参数强制绕过缓存
+                        window.location.href = window.location.href.split('?')[0] + '?t=' + Date.now();
                     }, 2000);
                     
                 } else {
