@@ -553,26 +553,41 @@
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
-                    }
+                    },
+                    cache: 'no-cache'  // 强制不使用缓存
                 });
                 
                 const data = await response.json();
+                console.log('刷新API响应:', data);  // 添加调试日志
                 
                 if (response.ok && data.success) {
                     // 刷新任务已启动，模拟进度
                     updateProgress('🚀', '刷新已启动', '正在后台爬取最新资讯...');
                     await simulateProgress();
                     
+                    // 延长等待时间，确保后台任务有足够时间完成
+                    updateProgress('⏳', '即将完成', '正在等待后台任务完成...');
+                    await new Promise(resolve => setTimeout(resolve, 5000)); // 额外等待5秒
+                    
                     // 显示完成状态
                     updateProgress('✅', '刷新完成！', '资讯已更新，正在重新加载页面...');
                     
                     // 等待2秒后重新加载页面
                     setTimeout(() => {
+                        // 清除所有缓存并强制重新加载
+                        if ('caches' in window) {
+                            caches.keys().then(names => {
+                                names.forEach(name => {
+                                    caches.delete(name);
+                                });
+                            });
+                        }
                         // 添加时间戳参数强制绕过缓存
-                        window.location.href = window.location.href.split('?')[0] + '?t=' + Date.now();
+                        window.location.href = window.location.href.split('?')[0] + '?v=' + Date.now();
                     }, 2000);
                     
                 } else {
+                    console.error('刷新API错误:', data);  // 添加错误日志
                     throw new Error(data.message || '刷新启动失败');
                 }
                 
@@ -593,8 +608,16 @@
             
             return new Promise((resolve) => {
                 let progress = 0;
+                const steps = [
+                    { threshold: 20, icon: '🔗', title: '正在连接', detail: '连接到各大资讯源...' },
+                    { threshold: 40, icon: '📡', title: '正在爬取', detail: '获取最新设计资讯...' },
+                    { threshold: 60, icon: '🔍', title: '正在分析', detail: '筛选优质内容...' },
+                    { threshold: 80, icon: '⚙️', title: '正在处理', detail: '生成页面内容...' },
+                    { threshold: 90, icon: '✨', title: '即将完成', detail: '最后整理中...' }
+                ];
+                
                 const interval = setInterval(() => {
-                    progress += Math.random() * 15 + 5; // 每次增加5-20%
+                    progress += Math.random() * 8 + 3; // 每次增加3-11%，速度更平稳
                     
                     if (progress >= 90) {
                         progress = 90; // 保持在90%直到真正完成
@@ -604,15 +627,11 @@
                     
                     progressBar.style.width = `${progress}%`;
                     
-                    // 更新进度文案
-                    if (progress < 30) {
-                        updateProgress('🚀', '正在初始化', '连接资讯源...');
-                    } else if (progress < 60) {
-                        updateProgress('📡', '正在爬取资讯', '获取最新内容...');
-                    } else if (progress < 90) {
-                        updateProgress('⚙️', '正在处理数据', '生成页面内容...');
-                    }
-                }, 800); // 每800ms更新一次
+                    // 根据进度更新提示文案
+                    const currentStep = steps.find(step => progress < step.threshold) || steps[steps.length - 1];
+                    updateProgress(currentStep.icon, currentStep.title, currentStep.detail);
+                    
+                }, 1000); // 每1秒更新一次，更稳定
             });
         }
 
