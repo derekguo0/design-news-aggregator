@@ -16,25 +16,41 @@ class handler(BaseHTTPRequestHandler):
             
             # 检查是否在Vercel环境
             is_vercel = os.environ.get('VERCEL', False)
+            github_token = os.environ.get('GITHUB_TOKEN')
             
             if is_vercel:
-                # 在Vercel环境中，触发GitHub Actions自动更新
-                response = {
-                    'success': True,
-                    'message': '正在触发自动更新，请稍候2-3分钟后刷新页面查看新内容...',
-                    'status': 'github_actions_triggered',
-                    'timestamp': datetime.now().isoformat(),
-                    'deployment_type': 'serverless',
-                    'update_method': 'github_actions',
-                    'estimated_completion': '2-3分钟'
-                }
+                # 尝试触发GitHub Actions
+                trigger_result = self._trigger_github_actions()
                 
-                # 尝试触发GitHub Actions（如果配置了webhook）
-                try:
-                    self._trigger_github_actions()
-                except Exception as e:
-                    print(f"触发GitHub Actions失败: {e}")
-                    # 即使失败也继续，用户可以手动触发
+                if trigger_result['success']:
+                    response = {
+                        'success': True,
+                        'message': '✅ GitHub Actions已成功触发！正在生成最新内容，请稍候2-3分钟后刷新页面查看新内容...',
+                        'status': 'github_actions_triggered',
+                        'timestamp': datetime.now().isoformat(),
+                        'deployment_type': 'serverless',
+                        'update_method': 'github_actions',
+                        'estimated_completion': '2-3分钟',
+                        'trigger_status': trigger_result['message']
+                    }
+                else:
+                    # 如果自动触发失败，提供手动方案
+                    response = {
+                        'success': True,
+                        'message': '⚠️ 自动触发需要配置，请手动触发更新。点击确定后将为您打开GitHub Actions页面...',
+                        'status': 'manual_trigger_required',
+                        'timestamp': datetime.now().isoformat(),
+                        'deployment_type': 'serverless',
+                        'update_method': 'manual_github_actions',
+                        'manual_url': 'https://github.com/derekguo0/design-news-aggregator/actions/workflows/deploy.yml',
+                        'instructions': {
+                            'step1': '1. 点击上方链接打开GitHub Actions页面',
+                            'step2': '2. 点击"Run workflow"按钮',
+                            'step3': '3. 选择main分支并点击"Run workflow"',
+                            'step4': '4. 等待2-3分钟后刷新此页面'
+                        },
+                        'trigger_status': trigger_result['message']
+                    }
                     
             else:
                 # 本地环境，返回提示用户使用本地刷新服务器
@@ -72,27 +88,45 @@ class handler(BaseHTTPRequestHandler):
     
     def _trigger_github_actions(self):
         """尝试触发GitHub Actions（需要配置webhook或使用GitHub API）"""
-        # 这里可以添加GitHub API调用来触发workflow
-        # 需要GITHUB_TOKEN环境变量
         github_token = os.environ.get('GITHUB_TOKEN')
         repo_name = os.environ.get('GITHUB_REPOSITORY', 'derekguo0/design-news-aggregator')
         
         if github_token:
-            # 触发workflow dispatch
-            url = f"https://api.github.com/repos/{repo_name}/actions/workflows/deploy.yml/dispatches"
-            headers = {
-                'Authorization': f'token {github_token}',
-                'Accept': 'application/vnd.github.v3+json'
-            }
-            data = {'ref': 'main'}
-            
-            response = requests.post(url, headers=headers, json=data, timeout=10)
-            if response.status_code == 204:
-                print("✅ GitHub Actions已成功触发")
-            else:
-                print(f"❌ 触发GitHub Actions失败: {response.status_code}")
+            try:
+                # 触发workflow dispatch
+                url = f"https://api.github.com/repos/{repo_name}/actions/workflows/deploy.yml/dispatches"
+                headers = {
+                    'Authorization': f'token {github_token}',
+                    'Accept': 'application/vnd.github.v3+json',
+                    'X-GitHub-Api-Version': '2022-11-28'
+                }
+                data = {'ref': 'main'}
+                
+                response = requests.post(url, headers=headers, json=data, timeout=10)
+                if response.status_code == 204:
+                    print("✅ GitHub Actions已成功触发")
+                    return {
+                        'success': True,
+                        'message': 'GitHub Actions workflow 已成功触发'
+                    }
+                else:
+                    print(f"❌ 触发GitHub Actions失败: {response.status_code}, {response.text}")
+                    return {
+                        'success': False,
+                        'message': f'API调用失败: HTTP {response.status_code}'
+                    }
+            except Exception as e:
+                print(f"💥 触发GitHub Actions异常: {str(e)}")
+                return {
+                    'success': False,
+                    'message': f'请求异常: {str(e)}'
+                }
         else:
-            print("⚠️  未配置GITHUB_TOKEN，无法自动触发更新")
+            print("⚠️ 未配置GITHUB_TOKEN，无法自动触发更新")
+            return {
+                'success': False,
+                'message': '未配置GITHUB_TOKEN环境变量'
+            }
         
     def do_OPTIONS(self):
         self.send_response(200)

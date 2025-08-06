@@ -561,25 +561,50 @@
                 console.log('刷新API响应:', data);  // 添加调试日志
                 
                 if (response.ok && data.success) {
-                    // 检查部署类型
+                    // 检查部署类型和状态
                     if (data.deployment_type === 'serverless') {
-                        // 线上环境 - GitHub Actions更新
-                        updateProgress('🚀', '正在触发自动更新', '通过GitHub Actions更新内容...');
-                        await new Promise(resolve => setTimeout(resolve, 2000));
-                        
-                        updateProgress('⏳', '更新进行中', '预计需要2-3分钟完成...');
-                        await new Promise(resolve => setTimeout(resolve, 3000));
-                        
-                        updateProgress('✅', '更新已触发！', '请稍候2-3分钟后手动刷新页面查看新内容');
-                        
-                        setTimeout(() => {
+                        if (data.status === 'github_actions_triggered') {
+                            // 自动触发成功
+                            updateProgress('🚀', '正在触发自动更新', '通过GitHub Actions更新内容...');
+                            await new Promise(resolve => setTimeout(resolve, 2000));
+                            
+                            updateProgress('⏳', '更新进行中', '预计需要2-3分钟完成...');
+                            await new Promise(resolve => setTimeout(resolve, 3000));
+                            
+                            updateProgress('✅', '更新已触发！', '请稍候2-3分钟后手动刷新页面查看新内容');
+                            
+                            setTimeout(() => {
+                                hideRefreshProgress();
+                                refreshBtn.innerHTML = originalText;
+                                refreshBtn.disabled = false;
+                                
+                                alert('🎉 GitHub Actions已成功触发！\n\n正在自动生成最新内容，请稍候2-3分钟后刷新页面查看最新资讯。');
+                            }, 2000);
+                            
+                        } else if (data.status === 'manual_trigger_required') {
+                            // 需要手动触发
+                            updateProgress('⚠️', '需要手动触发', '正在为您打开GitHub Actions页面...');
+                            await new Promise(resolve => setTimeout(resolve, 2000));
+                            
                             hideRefreshProgress();
                             refreshBtn.innerHTML = originalText;
                             refreshBtn.disabled = false;
                             
-                            // 显示提示信息
-                            alert('🎉 更新已触发！\n\n请稍候2-3分钟后刷新页面查看最新内容。\n\n如果您急需更新，也可以在GitHub仓库中手动触发Actions。');
-                        }, 2000);
+                            // 显示详细指导并打开页面
+                            const userConfirm = confirm(
+                                '⚠️ 需要手动触发更新\n\n' +
+                                '由于未配置自动触发，请按以下步骤手动更新：\n\n' +
+                                '1. 点击"确定"打开GitHub Actions页面\n' +
+                                '2. 点击"Run workflow"按钮\n' +
+                                '3. 选择main分支并点击"Run workflow"\n' +
+                                '4. 等待2-3分钟后刷新此页面\n\n' +
+                                '点击"确定"继续，"取消"关闭'
+                            );
+                            
+                            if (userConfirm) {
+                                window.open(data.manual_url, '_blank');
+                            }
+                        }
                         
                     } else {
                         // 本地环境 - 传统刷新流程
