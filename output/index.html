@@ -691,7 +691,7 @@ section[id] {
                     <div class="w-2 h-2 bg-emerald-500 rounded-full animate-pulse"></div>
                     <span>实时更新中</span>
                     <span class="mx-2">•</span>
-                    <span>最后更新: 2025-08-06 11:02</span>
+                    <span>最后更新: 2025-08-06 11:07</span>
                 </div>
             </div>
         </div>
@@ -2760,8 +2760,8 @@ section[id] {
                     
                     <!-- Title -->
                     <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-3 line-clamp-2 group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors duration-200">
-                        <a href="https://www.producthunt.com/products/involve-me" target="_blank" class="stretched-link focus:outline-none">
-                            4. involve.me AI Agent
+                        <a href="https://www.producthunt.com/products/perspective-ai" target="_blank" class="stretched-link focus:outline-none">
+                            4. Voice Agents by Perspective AI
                         </a>
                     </h3>
                     
@@ -2798,8 +2798,8 @@ section[id] {
                     
                     <!-- Title -->
                     <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-3 line-clamp-2 group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors duration-200">
-                        <a href="https://www.producthunt.com/products/perspective-ai" target="_blank" class="stretched-link focus:outline-none">
-                            5. Voice Agents by Perspective AI
+                        <a href="https://www.producthunt.com/products/involve-me" target="_blank" class="stretched-link focus:outline-none">
+                            5. involve.me AI Agent
                         </a>
                     </h3>
                     
@@ -4445,7 +4445,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <p>&copy; 2025 Design Drip. 汇聚全球设计动态.</p>
             <p style="font-size: 0.8rem; margin-top: 0.5rem;">
                 
-                    最后更新: 2025年08月06日 11:02
+                    最后更新: 2025年08月06日 11:07
                 
             </p>
         </div>
@@ -4586,7 +4586,11 @@ document.addEventListener('DOMContentLoaded', function() {
                             // 显示详细指导并打开页面
                             const userConfirm = confirm(
                                 '⚠️ 需要手动触发更新\n\n' +
-                                '由于未配置自动触发，请按以下步骤手动更新：\n\n' +
+                                '将为您执行以下操作：\n' +
+                                '✨ 自动检查并补全缺失的历史内容\n' +
+                                '🔄 生成最新的资讯内容\n' +
+                                '📁 更新所有页面（首页、归档、RSS等）\n\n' +
+                                '操作步骤：\n' +
                                 '1. 点击"确定"打开GitHub Actions页面\n' +
                                 '2. 点击"Run workflow"按钮\n' +
                                 '3. 选择main分支并点击"Run workflow"\n' +
@@ -4600,14 +4604,17 @@ document.addEventListener('DOMContentLoaded', function() {
                         }
                         
                     } else {
-                        // 本地环境 - 传统刷新流程
-                        updateProgress('🚀', '刷新已启动', '正在后台爬取最新资讯...');
+                        // 本地环境 - 智能刷新流程（含历史补全）
+                        updateProgress('🔍', '检查历史内容', '自动检查并补全缺失的历史日期...');
+                        await new Promise(resolve => setTimeout(resolve, 2000));
+                        
+                        updateProgress('🚀', '开始爬取', '正在后台爬取最新资讯...');
                         await simulateProgress();
                         
-                        updateProgress('⏳', '即将完成', '正在等待后台任务完成...');
-                        await new Promise(resolve => setTimeout(resolve, 5000));
+                        updateProgress('📝', '生成内容', '正在处理资讯并生成页面...');
+                        await new Promise(resolve => setTimeout(resolve, 3000));
                         
-                        updateProgress('✅', '刷新完成！', '资讯已更新，正在重新加载页面...');
+                        updateProgress('✅', '刷新完成！', '历史内容已补全，最新资讯已更新！');
                         
                         setTimeout(() => {
                             // 清除缓存并重新加载

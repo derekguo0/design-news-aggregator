@@ -16,6 +16,7 @@ from ..crawlers.base import create_crawler
 from ..processors.content_processor import ContentProcessor
 from ..generators.web_generator import WebGenerator
 from ..services.statistics import StatisticsService
+from ..services.backfill_service import BackfillService
 from ..models import NewsItem
 
 class TaskScheduler:
@@ -27,6 +28,7 @@ class TaskScheduler:
         self.processor = ContentProcessor()
         self.web_generator = WebGenerator()
         self.stats_service = StatisticsService()
+        self.backfill_service = BackfillService()
         self.is_running = False
         
         # 设置事件监听器
@@ -85,6 +87,18 @@ class TaskScheduler:
         """每日摘要任务"""
         try:
             logger.info("开始执行每日摘要任务")
+            
+            # 步骤0: 自动补全历史缺失内容
+            logger.info("步骤0: 检查并补全历史缺失内容...")
+            backfill_result = self.backfill_service.auto_backfill()
+            
+            if backfill_result['success'] and backfill_result['action'] == 'backfilled':
+                logger.success(f"✅ {backfill_result['message']}")
+                logger.info(f"📊 补全统计: 缺失 {backfill_result['missing_count']} 个日期, 创建 {backfill_result['created_files']} 个文件")
+            elif backfill_result['success']:
+                logger.info(f"ℹ️  {backfill_result['message']}")
+            else:
+                logger.warning(f"⚠️  历史补全失败: {backfill_result['message']}")
             
             # 步骤1: 爬取所有资讯
             logger.info("步骤1: 爬取所有资讯...")
