@@ -543,10 +543,24 @@
             const originalText = refreshBtn.innerHTML;
             
             try {
+                // 检查网络连接状态
+                if (!navigator.onLine) {
+                    throw new Error('网络连接已断开，请检查您的网络连接后重试');
+                }
+                
                 // 显示加载状态
                 refreshBtn.innerHTML = '⏳ 刷新中...';
                 refreshBtn.disabled = true;
                 showRefreshProgress();
+                
+                // 显示初始状态
+                updateProgress('🔍', '检查连接', '正在连接服务器...');
+                
+                // 创建带超时的 fetch 请求
+                const controller = new AbortController();
+                const timeoutId = setTimeout(() => {
+                    controller.abort();
+                }, 15000); // 15秒超时
                 
                 // 调用刷新API
                 const response = await fetch('/api/refresh', {
@@ -554,8 +568,15 @@
                     headers: {
                         'Content-Type': 'application/json',
                     },
-                    cache: 'no-cache'  // 强制不使用缓存
+                    cache: 'no-cache',  // 强制不使用缓存
+                    signal: controller.signal
                 });
+                
+                clearTimeout(timeoutId);
+                
+                if (!response.ok) {
+                    throw new Error(`服务器响应错误: ${response.status} ${response.statusText}`);
+                }
                 
                 const data = await response.json();
                 console.log('刷新API响应:', data);  // 添加调试日志
@@ -661,11 +682,40 @@
                 
             } catch (error) {
                 console.error('刷新失败:', error);
-                updateProgress('❌', '刷新失败', error.message);
+                
+                let errorMessage = '刷新失败';
+                let errorDetail = '';
+                
+                if (error.name === 'AbortError') {
+                    errorMessage = '请求超时';
+                    errorDetail = '服务器响应时间过长，请稍后重试';
+                } else if (error.message.includes('网络连接')) {
+                    errorMessage = '网络错误';
+                    errorDetail = error.message;
+                } else if (error.message.includes('服务器响应错误')) {
+                    errorMessage = 'API错误';
+                    errorDetail = error.message;
+                } else if (error.message.includes('Failed to fetch')) {
+                    errorMessage = '连接失败';
+                    errorDetail = '无法连接到服务器，请检查网络连接';
+                } else {
+                    errorDetail = error.message || '未知错误，请稍后重试';
+                }
+                
+                updateProgress('❌', errorMessage, errorDetail);
+                
+                // 显示详细错误信息给用户
                 setTimeout(() => {
                     hideRefreshProgress();
                     refreshBtn.innerHTML = originalText;
                     refreshBtn.disabled = false;
+                    
+                    // 显示用户友好的错误提示
+                    const showDetails = confirm(`🚫 ${errorMessage}\n\n${errorDetail}\n\n🔧 解决建议：\n• 检查网络连接\n• 稍后重试\n• 如果问题持续，请联系管理员\n\n📊 点击"确定"查看详细调试信息，"取消"关闭`);
+                    
+                    if (showDetails) {
+                        showDebugInfo();
+                    }
                 }, 3000);
             }
         }
@@ -741,6 +791,34 @@
                 refreshBtn.innerHTML = originalText;
                 refreshBtn.disabled = false;
             }, 2000);
+        }
+
+        // 显示调试信息
+        async function showDebugInfo() {
+            try {
+                const response = await fetch('/api/debug');
+                const debugData = await response.json();
+                
+                let debugMessage = '🔍 系统调试信息\n\n';
+                debugMessage += `⏰ 时间: ${debugData.timestamp}\n\n`;
+                debugMessage += `🌐 环境检测:\n`;
+                debugMessage += `• VERCEL: ${debugData.environment.VERCEL}\n`;
+                debugMessage += `• VERCEL_ENV: ${debugData.environment.VERCEL_ENV}\n`;
+                debugMessage += `• GitHub Token: ${debugData.environment.GITHUB_TOKEN}\n\n`;
+                debugMessage += `🎯 部署状态:\n`;
+                debugMessage += `• 在Vercel环境: ${debugData.deployment_detection.is_vercel ? '是' : '否'}\n`;
+                debugMessage += `• GitHub Token配置: ${debugData.deployment_detection.has_github_token ? '是' : '否'}\n\n`;
+                debugMessage += `💡 解决建议:\n`;
+                debugData.debug_tips.refresh_not_working.forEach((tip, index) => {
+                    debugMessage += `${index + 1}. ${tip}\n`;
+                });
+                debugMessage += `\n🔗 手动触发: ${debugData.debug_tips.manual_github_actions}`;
+                
+                alert(debugMessage);
+            } catch (error) {
+                alert('📊 无法获取调试信息\n\n可能原因：\n• API服务不可用\n• 网络连接问题\n\n请检查控制台获取更多信息');
+                console.error('调试信息获取失败:', error);
+            }
         }
 
         // 按ESC键取消

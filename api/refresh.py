@@ -14,9 +14,12 @@ class handler(BaseHTTPRequestHandler):
             self.send_header('Access-Control-Allow-Headers', 'Content-Type')
             self.end_headers()
             
-            # 检查是否在Vercel环境
-            is_vercel = os.environ.get('VERCEL', False)
+            # 检查是否在Vercel环境 - 更准确的检测
+            is_vercel = bool(os.environ.get('VERCEL')) or bool(os.environ.get('VERCEL_ENV'))
             github_token = os.environ.get('GITHUB_TOKEN')
+            
+            print(f"🔍 环境检测: VERCEL={os.environ.get('VERCEL')}, VERCEL_ENV={os.environ.get('VERCEL_ENV')}, is_vercel={is_vercel}")
+            print(f"🔑 GitHub Token: {'已配置' if github_token else '未配置'}")
             
             if is_vercel:
                 # 尝试触发GitHub Actions
@@ -115,6 +118,18 @@ class handler(BaseHTTPRequestHandler):
                         'success': False,
                         'message': f'API调用失败: HTTP {response.status_code}'
                     }
+            except requests.exceptions.Timeout:
+                print("⏰ GitHub API请求超时")
+                return {
+                    'success': False,
+                    'message': 'GitHub API请求超时，请稍后重试'
+                }
+            except requests.exceptions.ConnectionError:
+                print("🌐 网络连接错误")
+                return {
+                    'success': False,
+                    'message': '无法连接到GitHub API，请检查网络连接'
+                }
             except Exception as e:
                 print(f"💥 触发GitHub Actions异常: {str(e)}")
                 return {
