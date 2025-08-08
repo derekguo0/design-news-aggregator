@@ -469,6 +469,17 @@ class WebGenerator:
             if recent_digests is None:
                 recent_digests = all_digests[:7]  # 最近7天
             
+            # 确保当前digest在recent_digests的首位（最新）
+            if recent_digests and recent_digests[0].date.date() != digest.date.date():
+                # 移除可能存在的重复项
+                recent_digests = [d for d in recent_digests if d.date.date() != digest.date.date()]
+                # 在开头插入当前digest
+                recent_digests.insert(0, digest)
+                # 保持最多7天
+                recent_digests = recent_digests[:7]
+            elif not recent_digests:
+                recent_digests = [digest]
+            
             # 复制静态文件
             self.copy_static_files()
             
