@@ -543,6 +543,17 @@
             const originalText = refreshBtn.innerHTML;
             
             try {
+                // 本地冷却检查（默认180秒，可被后端返回覆盖）
+                const cooldownRemaining = getCooldownRemaining();
+                if (cooldownRemaining > 0) {
+                    const seconds = Math.ceil(cooldownRemaining / 1000);
+                    updateProgress('⚠️', '操作过于频繁', `请${seconds}秒后再试`);
+                    showRefreshProgress();
+                    setTimeout(() => {
+                        hideRefreshProgress();
+                    }, 2000);
+                    return;
+                }
                 // 检查网络连接状态
                 if (!navigator.onLine) {
                     throw new Error('网络连接已断开，请检查您的网络连接后重试');
@@ -556,29 +567,12 @@
                 // 显示初始状态
                 updateProgress('🔍', '检查连接', '正在连接服务器...');
                 
-                // 创建带超时的 fetch 请求
-                const controller = new AbortController();
-                const timeoutId = setTimeout(() => {
-                    controller.abort();
-                }, 15000); // 15秒超时
-                
-                // 调用刷新API
-                const response = await fetch('/api/refresh', {
+                // 使用指数重试的 fetch 调用刷新API
+                const data = await fetchWithRetry('/api/refresh', {
                     method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json',
-                    },
-                    cache: 'no-cache',  // 强制不使用缓存
-                    signal: controller.signal
-                });
-                
-                clearTimeout(timeoutId);
-                
-                if (!response.ok) {
-                    throw new Error(`服务器响应错误: ${response.status} ${response.statusText}`);
-                }
-                
-                const data = await response.json();
+                    headers: { 'Content-Type': 'application/json' },
+                    cache: 'no-cache'
+                }, 3, 1000);
                 console.log('刷新API响应:', data);  // 添加调试日志
                 
                 if (response.ok && data.success) {
@@ -592,15 +586,42 @@
                             updateProgress('⏳', '更新进行中', '预计需要2-3分钟完成...');
                             await new Promise(resolve => setTimeout(resolve, 3000));
                             
-                            updateProgress('✅', '更新已触发！', '请稍候2-3分钟后手动刷新页面查看新内容');
-                            
-                            setTimeout(() => {
-                                hideRefreshProgress();
-                                refreshBtn.innerHTML = originalText;
-                                refreshBtn.disabled = false;
-                                
-                                alert('🎉 GitHub Actions已成功触发！\n\n正在自动生成最新内容，请稍候2-3分钟后刷新页面查看最新资讯。');
-                            }, 2000);
+                            // 设置本地冷却时间（使用后端返回或默认180秒）
+                            const cooldown = (data.cooldown_seconds || 180) * 1000;
+                            setLastTriggerTime(cooldown);
+
+                            updateProgress('🔁', '正在等待部署完成', '我会自动检测完成并刷新页面...');
+                            // 开始轮询部署状态，成功后自动刷新
+                            startStatusPolling('/api/status', {
+                                onSuccess: () => {
+                                    updateProgress('✅', '部署完成！', '正在刷新页面...');
+                                    setTimeout(() => {
+                                        // 清缓存并刷新
+                                        if ('caches' in window) {
+                                            caches.keys().then(names => names.forEach(name => caches.delete(name)));
+                                        }
+                                        window.location.href = window.location.href.split('?')[0] + '?v=' + Date.now();
+                                    }, 1200);
+                                },
+                                onUpdate: (info) => {
+                                    // 根据状态更新提示
+                                    const { status, conclusion } = info || {};
+                                    let text = '更新进行中...';
+                                    if (status === 'queued') text = '已排队等待执行...';
+                                    if (status === 'in_progress') text = '正在生成与部署...';
+                                    if (status === 'completed' && conclusion === 'success') text = '部署完成';
+                                    if (status === 'completed' && conclusion === 'failure') text = '部署失败，请稍后重试或手动触发';
+                                    updateProgress('⏳', '更新进度', text);
+                                },
+                                onTimeout: () => {
+                                    updateProgress('ℹ️', '部署耗时较长', '您可以稍后手动刷新页面查看最新内容');
+                                    setTimeout(() => {
+                                        hideRefreshProgress();
+                                        refreshBtn.innerHTML = originalText;
+                                        refreshBtn.disabled = false;
+                                    }, 1500);
+                                }
+                            });
                             
                         } else if (data.status === 'manual_trigger_required') {
                             // 需要手动触发
@@ -718,6 +739,81 @@
                     }
                 }, 3000);
             }
+        }
+
+        // 带超时+指数退避重试的 fetch 工具
+        async function fetchWithRetry(url, options = {}, retries = 2, backoffMs = 1000) {
+            const controller = new AbortController();
+            const timeoutId = setTimeout(() => controller.abort(), 15000);
+            try {
+                const resp = await fetch(url, { ...options, signal: controller.signal });
+                clearTimeout(timeoutId);
+                if (!resp.ok) {
+                    // 401/403 不重试
+                    if (resp.status === 401 || resp.status === 403) {
+                        throw new Error(`服务器响应错误: ${resp.status} ${resp.statusText}`);
+                    }
+                    if (retries > 0) {
+                        await new Promise(r => setTimeout(r, backoffMs));
+                        return fetchWithRetry(url, options, retries - 1, backoffMs * 2);
+                    }
+                    throw new Error(`服务器响应错误: ${resp.status} ${resp.statusText}`);
+                }
+                return resp.json();
+            } catch (e) {
+                clearTimeout(timeoutId);
+                if (e.name === 'AbortError') {
+                    if (retries > 0) {
+                        await new Promise(r => setTimeout(r, backoffMs));
+                        return fetchWithRetry(url, options, retries - 1, backoffMs * 2);
+                    }
+                }
+                throw e;
+            }
+        }
+
+        // 轮询 GitHub Actions 状态
+        function startStatusPolling(statusUrl, { onSuccess, onUpdate, onTimeout } = {}) {
+            const start = Date.now();
+            const timeoutMs = 4 * 60 * 1000; // 最长4分钟
+            const intervalMs = 5000; // 每5秒查询一次
+            const timer = setInterval(async () => {
+                try {
+                    const resp = await fetch(statusUrl, { cache: 'no-store' });
+                    const data = await resp.json();
+                    if (onUpdate) onUpdate({ status: data.status, conclusion: data.conclusion });
+                    if (data.status === 'completed' && data.conclusion === 'success') {
+                        clearInterval(timer);
+                        if (onSuccess) onSuccess();
+                    }
+                } catch (e) {
+                    console.warn('状态查询失败', e);
+                }
+                if (Date.now() - start > timeoutMs) {
+                    clearInterval(timer);
+                    if (onTimeout) onTimeout();
+                }
+            }, intervalMs);
+            return () => clearInterval(timer);
+        }
+
+        // 本地冷却：防止频繁点击
+        function getCooldownRemaining() {
+            try {
+                const info = JSON.parse(localStorage.getItem('refreshCooldown') || '{}');
+                if (!info || !info.expiresAt) return 0;
+                const remaining = info.expiresAt - Date.now();
+                return remaining > 0 ? remaining : 0;
+            } catch { return 0; }
+        }
+
+        function setLastTriggerTime(cooldownMs) {
+            try {
+                localStorage.setItem('refreshCooldown', JSON.stringify({
+                    setAt: Date.now(),
+                    expiresAt: Date.now() + cooldownMs
+                }));
+            } catch {}
         }
 
         // 模拟进度条动画

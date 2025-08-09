@@ -12,6 +12,9 @@ class handler(BaseHTTPRequestHandler):
             self.send_header('Access-Control-Allow-Origin', '*')
             self.send_header('Access-Control-Allow-Methods', 'POST, OPTIONS')
             self.send_header('Access-Control-Allow-Headers', 'Content-Type')
+            # 禁用缓存，避免浏览器或中间层缓存旧响应
+            self.send_header('Cache-Control', 'no-store, no-cache, must-revalidate, max-age=0')
+            self.send_header('Pragma', 'no-cache')
             self.end_headers()
             
             # 检查是否在Vercel环境 - 更准确的检测
@@ -93,6 +96,7 @@ class handler(BaseHTTPRequestHandler):
         """尝试触发GitHub Actions（需要配置webhook或使用GitHub API）"""
         github_token = os.environ.get('GITHUB_TOKEN')
         repo_name = os.environ.get('GITHUB_REPOSITORY', 'derekguo0/design-news-aggregator')
+        cooldown_seconds = int(os.environ.get('REFRESH_COOLDOWN_SECONDS', '180'))  # 前端也会本地冷却
         
         if github_token:
             try:
@@ -105,19 +109,38 @@ class handler(BaseHTTPRequestHandler):
                 }
                 data = {'ref': 'main'}
                 
-                response = requests.post(url, headers=headers, json=data, timeout=10)
-                if response.status_code == 204:
-                    print("✅ GitHub Actions已成功触发")
-                    return {
-                        'success': True,
-                        'message': 'GitHub Actions workflow 已成功触发'
-                    }
-                else:
-                    print(f"❌ 触发GitHub Actions失败: {response.status_code}, {response.text}")
-                    return {
-                        'success': False,
-                        'message': f'API调用失败: HTTP {response.status_code}'
-                    }
+                # 指数退避重试
+                last_status = None
+                for attempt in range(3):
+                    response = requests.post(url, headers=headers, json=data, timeout=10)
+                    last_status = response.status_code
+                    if response.status_code == 204:
+                        print("✅ GitHub Actions已成功触发")
+                        return {
+                            'success': True,
+                            'message': 'GitHub Actions workflow 已成功触发',
+                            'cooldown_seconds': cooldown_seconds
+                        }
+                    # 401/403 基本为权限/令牌问题，无需重试
+                    if response.status_code in (401, 403):
+                        print(f"❌ 权限错误: {response.status_code}, {response.text}")
+                        return {
+                            'success': False,
+                            'message': f'API调用失败: HTTP {response.status_code}',
+                            'cooldown_seconds': cooldown_seconds
+                        }
+                    # 其他错误，指数退避
+                    backoff_ms = (2 ** attempt) * 1000
+                    print(f"⚠️ 触发失败({response.status_code})，{backoff_ms}ms后重试 第{attempt+1}/3次")
+                    import time
+                    time.sleep(backoff_ms / 1000.0)
+                # 三次失败
+                print(f"❌ 触发GitHub Actions失败(多次重试): {last_status}")
+                return {
+                    'success': False,
+                    'message': f'API调用失败: HTTP {last_status}',
+                    'cooldown_seconds': cooldown_seconds
+                }
             except requests.exceptions.Timeout:
                 print("⏰ GitHub API请求超时")
                 return {
