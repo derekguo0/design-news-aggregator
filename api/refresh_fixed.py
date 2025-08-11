@@ -100,11 +100,7 @@ class handler(BaseHTTPRequestHandler):
             }
             
             data = {
-                'ref': 'main',
-                'inputs': {
-                    'manual_trigger': 'true',
-                    'timestamp': datetime.now().isoformat()
-                }
+                'ref': 'main'
             }
             
             response = requests.post(workflow_dispatch_url, headers=headers, json=data, timeout=10)
