@@ -13,10 +13,14 @@
       "src": "/api/refresh",
       "dest": "/api/refresh.py"
     },
-    {
-      "src": "/api/debug",
-      "dest": "/api/debug.py"
-    },
+            {
+          "src": "/api/debug",
+          "dest": "/api/debug.py"
+        },
+        {
+          "src": "/api/env_test",
+          "dest": "/api/env_test.py"
+        },
     {
       "src": "/(.*)",
       "dest": "/output/$1"
