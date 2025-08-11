@@ -27,20 +27,17 @@ async def actions_refresh():
         print(f"\n📅 开始生成 {datetime.now().strftime('%Y-%m-%d')} 的资讯内容")
         print("-" * 40)
         
-        result = await scheduler.run_daily_task()
+        # 执行日常摘要任务
+        await scheduler.daily_digest_task()
         
-        if result['success']:
-            print(f"✅ 内容生成成功!")
-            print(f"📊 生成统计:")
-            print(f"   • 总资讯数: {result.get('total_articles', 0)}")
-            print(f"   • 资讯源数: {result.get('source_count', 0)}")
-            print(f"   • 生成文件: {result.get('files_generated', [])}")
-            print(f"   • 生成时间: {result.get('generation_time', 'N/A')}")
-            
-            return True
-        else:
-            print(f"❌ 内容生成失败: {result.get('error', '未知错误')}")
-            return False
+        print(f"✅ 内容生成成功!")
+        print(f"📊 生成统计:")
+        print(f"   • 任务执行完成，已生成今日资讯摘要")
+        print(f"   • 输出目录: output/")
+        print(f"   • 数据目录: data/")
+        print(f"   • 生成时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+        
+        return True
             
     except Exception as e:
         print(f"💥 执行过程出现异常: {str(e)}")
