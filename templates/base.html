@@ -575,7 +575,7 @@
                 }, 3, 1000);
                 console.log('刷新API响应:', data);  // 添加调试日志
                 
-                if (response.ok && data.success) {
+                if (data && data.success) {
                     // 检查部署类型和状态
                     if (data.deployment_type === 'serverless') {
                         if (data.status === 'github_actions_triggered') {
