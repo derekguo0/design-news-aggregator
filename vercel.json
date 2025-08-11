@@ -9,10 +9,10 @@
       "src": "/api/status", 
       "dest": "/api/status.py"
     },
-    {
-      "src": "/api/refresh",
-      "dest": "/api/refresh.py"
-    },
+            {
+          "src": "/api/refresh",
+          "dest": "/api/refresh_fixed.py"
+        },
             {
           "src": "/api/debug",
           "dest": "/api/debug.py"
