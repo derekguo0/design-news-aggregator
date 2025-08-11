@@ -54,20 +54,8 @@ jobs:
           echo "✅ 已推送最新内容到仓库"
         fi
     
-    - name: Deploy to Vercel
-      uses: amondnet/vercel-action@v25
-      with:
-        vercel-token: ${{ secrets.VERCEL_TOKEN }}
-        vercel-org-id: ${{ secrets.ORG_ID }}
-        vercel-project-id: ${{ secrets.PROJECT_ID }}
-        vercel-args: '--prod'
-        working-directory: ./
-
-    - name: Notify deployment status
-      if: always()
+    - name: Notify completion
       run: |
-        if [ ${{ job.status }} == 'success' ]; then
-          echo "🎉 部署成功完成!"
-        else
-          echo "❌ 部署失败"
-        fi 
+        echo "🎉 内容生成和推送完成!"
+        echo "📊 Vercel将自动检测到更新并重新部署"
+        echo "⏰ 预计1-2分钟后生效" 
