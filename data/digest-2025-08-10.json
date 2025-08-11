@@ -1,13 +1,577 @@
 {
   "date": "2025-08-10T00:00:00",
-  "total_items": 0,
-  "categories": [],
-  "sources": [],
-  "generated_at": "2025-08-11T10:59:43.643636",
+  "total_items": 60,
+  "items": [
+    {
+      "title": "Web Components: Working With Shadow DOM",
+      "url": "https://smashingmagazine.com/2025/07/web-components-working-with-shadow-dom/",
+      "source": "Smashing Magazine",
+      "category": "网页设计",
+      "author": "hello@smashingmagazine.com (Russell Beswick)",
+      "summary": "Web Components are more than just Custom Elements. Shadow DOM, HTML Templates, and Custom Elements each play a role. In this article, Russell Beswick demonstrates how Shadow DOM fits into the broader ...",
+      "published_at": "2025-07-28 16:00:00"
+    },
+    {
+      "title": "Designing Better UX For Left-Handed People",
+      "url": "https://smashingmagazine.com/2025/07/designing-better-ux-left-handed-people/",
+      "source": "Smashing Magazine",
+      "category": "网页设计",
+      "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+      "summary": "Today, roughly 10% of people are left-handed. Yet most products — digital and physical — aren’t designed with it in mind. Let’s change that. More design patterns inSmart Interface Design Patterns, a *...",
+      "published_at": "2025-07-25 23:00:00"
+    },
+    {
+      "title": "Handling JavaScript Event Listeners With Parameters",
+      "url": "https://smashingmagazine.com/2025/07/handling-javascript-event-listeners-parameters/",
+      "source": "Smashing Magazine",
+      "category": "网页设计",
+      "author": "hello@smashingmagazine.com (Amejimaobari Ollornwi)",
+      "summary": "Event listeners are essential for interactivity in JavaScript, but they can quietly cause memory leaks if not removed properly. And what if your event listener needs parameters? That’s where things ge...",
+      "published_at": "2025-07-21 18:00:00"
+    },
+    {
+      "title": "Why Non-Native Content Designers Improve Global UX",
+      "url": "https://smashingmagazine.com/2025/07/why-non-native-content-designers-improve-global-ux/",
+      "source": "Smashing Magazine",
+      "category": "网页设计",
+      "author": "hello@smashingmagazine.com (Oleksii Tkachenko)",
+      "summary": "Ensuring your product communicates clearly to a global audience is not just about localisation. Even for products that have a proper localisation process, English often remains the default language fo...",
+      "published_at": "2025-07-18 21:00:00"
+    },
+    {
+      "title": "Tiny Screens, Big Impact: The Forgotten Art Of Developing Web Apps For Feature Phones",
+      "url": "https://smashingmagazine.com/2025/07/tiny-screens-big-impact-developing-web-apps-feature-phones/",
+      "source": "Smashing Magazine",
+      "category": "网页设计",
+      "author": "hello@smashingmagazine.com (Tom Barrasso)",
+      "summary": "Learn why flip phones still matter in 2025, and how you can build and launch web apps for these tiny devices.",
+      "published_at": "2025-07-16 23:00:00"
+    },
+    {
+      "title": "An Holistic Framework for Shared Design Leadership",
+      "url": "https://alistapart.com/article/an-holistic-framework-for-shared-design-leadership/",
+      "source": "A List Apart",
+      "category": "网页设计",
+      "author": "by Michel Ferreira",
+      "summary": "Picture this: You’re in a meeting room at your tech company, and two people are having what looks like the same conversation about the same design problem. One is talking about whether the team has th...",
+      "published_at": null
+    },
+    {
+      "title": "From Beta to Bedrock: Build Products that Stick.",
+      "url": "https://alistapart.com/article/from-beta-to-bedrock-build-products-that-stick/",
+      "source": "A List Apart",
+      "category": "网页设计",
+      "author": "by Liam Nugent",
+      "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
+      "published_at": null
+    },
+    {
+      "title": "User Research Is Storytelling",
+      "url": "https://alistapart.com/article/user-research-is-storytelling/",
+      "source": "A List Apart",
+      "category": "网页设计",
+      "author": "by Gerry Duffy",
+      "summary": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things t...",
+      "published_at": null
+    },
+    {
+      "title": "To Ignite a Personalization Practice, Run this Prepersonalization Workshop",
+      "url": "https://alistapart.com/article/prepersonalization-workshop/",
+      "source": "A List Apart",
+      "category": "网页设计",
+      "author": "by Colin Eagan, Jeffrey MacIntyre",
+      "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
+      "published_at": null
+    },
+    {
+      "title": "The Wax and the Wane of the Web",
+      "url": "https://alistapart.com/article/the-wax-and-the-wane-of-the-web/",
+      "source": "A List Apart",
+      "category": "网页设计",
+      "author": "by Ste Grainer",
+      "summary": "I offer a single bit of advice to friends and family when they become new parents:When you start to think that you’ve got everything figured out, everything will change.Just as you start to get the ha...",
+      "published_at": null
+    },
+    {
+      "title": "Opportunities for AI in Accessibility",
+      "url": "https://alistapart.com/article/opportunities-for-ai-in-accessibility/",
+      "source": "A List Apart",
+      "category": "网页设计",
+      "author": "by Aaron Gustafson",
+      "summary": "In readingJoe Dolson’s recent piece on the intersection of AI and accessibility, I absolutely appreciated the skepticism that he has for AI in general as well as for the ways that many have been using...",
+      "published_at": null
+    },
+    {
+      "title": "Circle Dome Square by Henrik Vibskov Pays Homage to Panton",
+      "url": "https://design-milk.com/circle-dome-square-by-henrik-vibskov-pays-homage-to-panton/",
+      "source": "Design Milk",
+      "category": "产品设计",
+      "author": "Aria Lee",
+      "summary": "Henrik Vibskov creates Circle Dome Square, an energetic and immersive structure for Louis Poulsen inspired by Verner Panton's Panthella lamp.",
+      "published_at": "2025-08-08 23:00:45"
+    },
+    {
+      "title": "Roc H Biel Turns Wood Dust Into Column-Inspired Furniture",
+      "url": "https://design-milk.com/roc-h-biel-turns-wood-dust-into-column-inspired-furniture/",
+      "source": "Design Milk",
+      "category": "产品设计",
+      "author": "Vy Yang",
+      "summary": "Dust Order, by Roc H Biel, transforms wood dust – a common waste byproduct – into refined, sculptural objects inspired by ancient architecture.",
+      "published_at": "2025-08-08 22:00:25"
+    },
+    {
+      "title": "F5: Andrew Ashey on Accidental Design, Empty Spaces, Plants + More",
+      "url": "https://design-milk.com/f5-andrew-ashey-on-accidental-design-empty-spaces-plants-more/",
+      "source": "Design Milk",
+      "category": "产品设计",
+      "author": "Anna Zappia",
+      "summary": "Andrew Ashey, principal and co-founder of AAmp Studio, shares his love of whimsy, flying over cities, empty spaces, and more.",
+      "published_at": "2025-08-08 21:00:10"
+    },
+    {
+      "title": "Pulso Hotel Takes Pride of Place in São Paulo’s New Mixed-Use Tower",
+      "url": "https://design-milk.com/pulso-hotel-takes-pride-of-place-in-sao-paulos-new-mixed-use-tower/",
+      "source": "Design Milk",
+      "category": "产品设计",
+      "author": "Caroline Williamson",
+      "summary": "Studio Arthur Casas introduces a cohesive modernist design across the monolithic Pulso Hotel and its 57 hotel rooms in São Paulo, Brazil.",
+      "published_at": "2025-08-08 00:00:50"
+    },
+    {
+      "title": "Scott Newlin’s Modular Torre Vases Turn Pottery Into Play",
+      "url": "https://design-milk.com/scott-newlins-modular-torre-vases-turn-pottery-into-play/",
+      "source": "Design Milk",
+      "category": "产品设计",
+      "author": "Vy Yang",
+      "summary": "Designer Scott Newlin invites a sense of play and wander with his Torre vases, allowing you to stack, mix, and match a vessel of your own.",
+      "published_at": "2025-08-07 23:00:20"
+    },
+    {
+      "title": "Bang & Olufsen’s Beosound 2 Vollebak Edition Looks Like It Survived Re-Entry",
+      "url": "https://design-milk.com/bang-olufsens-beosound-2-vollebak-edition-looks-like-it-survived-re-entry/",
+      "source": "Design Milk",
+      "category": "产品设计",
+      "author": "Christian de Looper",
+      "summary": "The Bang & Olufsen Beosound 2 Vollebak Edition has a new anodization process that makes for a speaker that looks like it survived re-entry.",
+      "published_at": "2025-08-07 22:00:28"
+    },
+    {
+      "title": "Designing Beyond the Median Mind",
+      "url": "https://uxplanet.org/designing-beyond-the-median-mind-a5d0730adec5?source=rss----819cc2aaeee0---4",
+      "source": "UX Planet",
+      "category": "用户体验设计",
+      "author": "Vadym Grin",
+      "summary": "How neurodivergent people’s daily battle reveals the UX gaps we should’ve closed long ago.Continue reading on UX Planet »",
+      "published_at": "2025-08-07 01:22:42"
+    },
+    {
+      "title": "Designing for a world without apps: The future of invisible UX",
+      "url": "https://uxplanet.org/designing-for-a-world-without-apps-the-future-of-invisible-ux-5d71a33966b9?source=rss----819cc2aaeee0---4",
+      "source": "UX Planet",
+      "category": "用户体验设计",
+      "author": "Mohan R",
+      "summary": "Why the future of UX is invisible, wearable, and approval-first.Continue reading on UX Planet »",
+      "published_at": "2025-08-07 01:22:35"
+    },
+    {
+      "title": "Is it time to rethink the title of content designer?",
+      "url": "https://uxplanet.org/is-it-time-to-rethink-the-title-of-content-designer-cca22b31d83f?source=rss----819cc2aaeee0---4",
+      "source": "UX Planet",
+      "category": "用户体验设计",
+      "author": "Jas Deogan",
+      "summary": "Source:jasdeogan.comClose your eyes for a moment.What comes to mind when you hear the term “Content Design?”It’s words, right?Well, you’re not wrong.And if you’re like most people outside of the conte...",
+      "published_at": "2025-08-07 01:22:26"
+    },
+    {
+      "title": "Impact of AI on Payroll Management Systems",
+      "url": "https://uxplanet.org/impact-of-ai-on-payroll-management-systems-c8e3b9128ccd?source=rss----819cc2aaeee0---4",
+      "source": "UX Planet",
+      "category": "用户体验设计",
+      "author": "Adeniran Opeyemi Adewale",
+      "summary": "Photo by Tara Winstead from Pexels:https://www.pexels.com/photo/person-reaching-out-to-a-robot-8386434/Payroll management systems are an essential tool for any business with employees. These systems h...",
+      "published_at": "2025-08-07 01:22:19"
+    },
+    {
+      "title": "AI Companions Are Quietly Documenting Our Children’s Inner World.",
+      "url": "https://uxplanet.org/ai-companions-are-quietly-documenting-our-childrens-inner-world-3f09540ec837?source=rss----819cc2aaeee0---4",
+      "source": "UX Planet",
+      "category": "用户体验设计",
+      "author": "Joanne Griffin",
+      "summary": "Why?Continue reading on UX Planet »",
+      "published_at": "2025-08-07 01:22:12"
+    },
+    {
+      "title": "Why AI can’t draw faces properly (and it’s not a bug, it’s a feature)",
+      "url": "https://uxplanet.org/why-ai-cant-draw-faces-properly-and-it-s-not-a-bug-it-s-a-feature-b9cd46f44f2d?source=rss----819cc2aaeee0---4",
+      "source": "UX Planet",
+      "category": "用户体验设计",
+      "author": "Sergushkin.com",
+      "summary": "AI has long been able to draw anything from impressionist paintings to photorealistic castles on Mars. But human faces are still a problem. One ear is higher than the other, the eyes are glassy, and t...",
+      "published_at": "2025-08-07 01:22:05"
+    },
+    {
+      "title": "Your Product Isn’t Broken — Your Habits Are",
+      "url": "https://uxplanet.org/your-product-isnt-broken-your-habits-are-5b106fbff7dd?source=rss----819cc2aaeee0---4",
+      "source": "UX Planet",
+      "category": "用户体验设计",
+      "author": "Aarzoo Khare",
+      "summary": "Your Product Isn’t Broken — Your Habits AreThe Product Patterns That Are Quietly Killing EfficiencyInitially, I wrote this as a rant and then forgot about it. When I returned to it a couple of months ...",
+      "published_at": "2025-08-07 01:21:50"
+    },
+    {
+      "title": "This One Skill Separates Good Designers from Great Ones",
+      "url": "https://uxplanet.org/this-one-skill-separates-good-designers-from-great-ones-6215e601b85f?source=rss----819cc2aaeee0---4",
+      "source": "UX Planet",
+      "category": "用户体验设计",
+      "author": "Omoraiyewa Samuel",
+      "summary": "It’s not what you thinkContinue reading on UX Planet »",
+      "published_at": "2025-08-03 20:42:57"
+    },
+    {
+      "title": "Navigating AI metrics",
+      "url": "https://www.intercom.com/blog/navigating-ai-metrics/",
+      "source": "Intercom Blog",
+      "category": "产品设计",
+      "author": "Bobby Stapleton",
+      "summary": "AI metrics introduce more data than ever before, and this increased visibility requires support teams to adapt how they approach problem solving. Here's what we've learned.",
+      "published_at": "2025-07-15 17:21:55"
+    },
+    {
+      "title": "Stop monitoring systems; start monitoring outcomes",
+      "url": "https://www.intercom.com/blog/stop-monitoring-systems-start-monitoring-outcomes/",
+      "source": "Intercom Blog",
+      "category": "产品设计",
+      "author": "Ryan Sherlock",
+      "summary": "Don't wait for complaints to learn your system is broken. Here's how heartbeat metrics help our engineering team detect reliability issues fast and keep customers happy.",
+      "published_at": "2025-07-11 21:17:58"
+    },
+    {
+      "title": "Notes from a product design vibe coding hackathon",
+      "url": "https://www.intercom.com/blog/notes-from-a-product-design-vibe-coding-hackathon/",
+      "source": "Intercom Blog",
+      "category": "产品设计",
+      "author": "Russell Norris",
+      "summary": "The product design team came together for a vibe coding hackathon and used AI tools to rebuild the Intercom Design website – with almost no engineering support. Here's how we did it and what we learne...",
+      "published_at": "2025-07-09 18:00:04"
+    },
+    {
+      "title": "Response Time: Vol. 46",
+      "url": "https://www.intercom.com/blog/response-time-vol-046/",
+      "source": "Intercom Blog",
+      "category": "产品设计",
+      "author": "Kate Sugrue",
+      "summary": "In our latest “Response Time” interview, we ask Emily Bach, Customer Support Team Lead at Mangomint, about their most valuable lesson from working in customer service, and more.",
+      "published_at": "2025-06-16 17:27:00"
+    },
+    {
+      "title": "Response Time: Vol. 45",
+      "url": "https://www.intercom.com/blog/response-time-vol-045/",
+      "source": "Intercom Blog",
+      "category": "产品设计",
+      "author": "Kate Sugrue",
+      "summary": "In our latest “Response Time” interview, we ask Mitchell Rodio, Customer Experience Manager at Whop, about the essence of great customer service, and more.",
+      "published_at": "2025-05-19 16:14:49"
+    },
+    {
+      "title": "Introducing MCP: A new way to connect Fin and your customer data to your business tools",
+      "url": "https://www.intercom.com/blog/introducing-model-context-protocol-fin/",
+      "source": "Intercom Blog",
+      "category": "产品设计",
+      "author": "Nuno Teixeira",
+      "summary": "Learn how MCP enables Fin to connect with your business tools seamlessly, creating more powerful, personalized customer experiences.",
+      "published_at": "2025-05-02 01:00:32"
+    },
+    {
+      "title": "Meet Ballpark – The new product research platform by Marvel",
+      "url": "https://marvelapp.com/blog/meet-ballpark-the-new-product-research-platform-by-marvel/",
+      "source": "Marvel Blog",
+      "category": "原型设计",
+      "author": "Murat",
+      "summary": "Hello world! I'm excited to introduce Ballpark, a brand new product from the team at Marvel that makes research faster, easier and more inclusive for every team. Over the last few years we've seen the...",
+      "published_at": "2022-06-27 17:43:23"
+    },
+    {
+      "title": "Gender Inclusivity in Design",
+      "url": "https://marvelapp.com/blog/gender-inclusivity-in-design/",
+      "source": "Marvel Blog",
+      "category": "原型设计",
+      "author": "Lain Bader",
+      "summary": "Every designer is playing a part in the image and feeling that their users get from their products and companies. Interactions are influenced in a powerful and meaningful way, beyond just completing a...",
+      "published_at": "2021-12-29 18:03:08"
+    },
+    {
+      "title": "How to run a Hackathon",
+      "url": "https://marvelapp.com/blog/how-to-run-a-hackathon/",
+      "source": "Marvel Blog",
+      "category": "原型设计",
+      "author": "Jane Adojutelegan",
+      "summary": "Hackathons are an opportunity for groups of people to combine their skills and ideas to solve problems together. Participants need to be open-minded, collaborative, and passionate about the issue at h...",
+      "published_at": "2021-12-21 18:29:14"
+    },
+    {
+      "title": "How I Learnt to Code as a Beginner (and how you can too)",
+      "url": "https://marvelapp.com/blog/coding-for-beginners/",
+      "source": "Marvel Blog",
+      "category": "原型设计",
+      "author": "Lain Bader",
+      "summary": "Starting at Marvel When I started as a support agent at Marvel, I had no plans of becoming a developer. I had recently finished design school and was looking for an interesting day job where I could d...",
+      "published_at": "2021-12-16 21:42:56"
+    },
+    {
+      "title": "Bad UX Examples: A Guideline to Prevent Errors",
+      "url": "https://uxmastery.com/bad-ux-examples-a-guideline-to-prevent-errors/",
+      "source": "UX Mastery",
+      "category": "用户体验设计",
+      "author": "Mads Soegaard",
+      "summary": "Achieving a great User Experience (UX) is essential in the digital space world. Good UX design connects with users. Yet, one can encounter dozens of examples of bad UX designs. You probably have encou...",
+      "published_at": "2024-02-02 21:20:03"
+    },
+    {
+      "title": "The Difference Between A Product Designer and UX Designer",
+      "url": "https://uxmastery.com/the-difference-between-product-designer-and-ux-designer/",
+      "source": "UX Mastery",
+      "category": "用户体验设计",
+      "author": "Mads Soegaard",
+      "summary": "Are you interested in building a career in UX (User Experience) Design? While scouting UX design job boards, you’ve likely come across a listing titled ‘Product Designer.’ Reading the job description,...",
+      "published_at": "2024-01-04 14:52:19"
+    },
+    {
+      "title": "The State of WordPress: UX and Insights for 2022",
+      "url": "https://uxmastery.com/the-state-of-wordpress-ux-and-insights-for-2022/",
+      "source": "UX Mastery",
+      "category": "用户体验设计",
+      "author": "Yoni Yampolsky",
+      "summary": "Discover some of today’s most popular web creation trends. Building a new website requires creativity, insight, and a little bit of foresight. Nobody wants to face the disappointment of putting time a...",
+      "published_at": "2022-03-01 07:31:00"
+    },
+    {
+      "title": "Heatmap Analysis To Improve Your Website UX",
+      "url": "https://uxmastery.com/heatmap-analysis-to-improve-your-website-ux/",
+      "source": "UX Mastery",
+      "category": "用户体验设计",
+      "author": "Adam Kiss",
+      "summary": "Nowadays, we no longer have time to spend hours in a store and want to reach information in a second. Because of these factors, websites and online stores are hugely popular, and UX designers have mor...",
+      "published_at": "2022-02-18 06:00:00"
+    },
+    {
+      "title": "Myth #34: Simple = minimal",
+      "url": "https://uxmyths.com/post/115783813605",
+      "source": "UX Myths",
+      "category": "用户体验设计",
+      "author": null,
+      "summary": "Simplicity is key to great and innovative product design. But simplicity (reduction of complexity) is way often confused with minimalist style (reduction of elements). In fact, simple looking, minimal...",
+      "published_at": "2015-04-08 03:43:03"
+    },
+    {
+      "title": "Myth #33: Mobile users are distracted",
+      "url": "https://uxmyths.com/post/99302792550",
+      "source": "UX Myths",
+      "category": "用户体验设计",
+      "author": null,
+      "summary": "When thinking of mobile users, many have a stereotypical image of people on the go, people with the attention span of a goat and suffering fromMobile User Attention Deficit Disorder.But are mobile use...",
+      "published_at": "2014-10-06 15:18:00"
+    },
+    {
+      "title": "Myth #32: Success happens overnight",
+      "url": "https://uxmyths.com/post/4956005041",
+      "source": "UX Myths",
+      "category": "用户体验设计",
+      "author": null,
+      "summary": "The Apple iPod instantly turned the MP3 player market upside down, right? Amazon changed the book selling business like a shot, didn’t it? Well, in fact they didn’t. No matter how it may seem from the...",
+      "published_at": "2011-04-26 21:47:00"
+    },
+    {
+      "title": "How to Prepare for CSS-Specific Interview Questions",
+      "url": "https://css-tricks.com/how-to-prepare-for-css-specific-interview-questions/",
+      "source": "CSS-Tricks",
+      "category": "前端设计",
+      "author": "Shivam Bhalla",
+      "summary": "Get advice answering a set of 10 CSS-related questions you likely will encounter in front-end interviews.How to Prepare for CSS-Specific Interview Questionsoriginally published onCSS-Tricks, which is ...",
+      "published_at": "2025-08-08 21:42:31"
+    },
+    {
+      "title": "Bringing Back Parallax With Scroll-Driven CSS Animations",
+      "url": "https://css-tricks.com/bringing-back-parallax-with-scroll-driven-css-animations/",
+      "source": "CSS-Tricks",
+      "category": "前端设计",
+      "author": "Blake Lundquist",
+      "summary": "Parallax is a pattern in which different elements of a webpage move at varying speeds as the user scrolls, creating a three-dimensional, layered appearance. It once required JavaScript. Now we have sc...",
+      "published_at": "2025-08-06 21:39:06"
+    },
+    {
+      "title": "Thinking Deeply About Theming and Color Naming",
+      "url": "https://css-tricks.com/thinking-deeply-about-theming-and-color-naming/",
+      "source": "CSS-Tricks",
+      "category": "前端设计",
+      "author": "Zell Liew",
+      "summary": "Today, I want to discuss a couple of patterns for naming color palettes that the community is using, and how I propose we can improve, so we achieve both flexibility and beauty.Thinking Deeply About T...",
+      "published_at": "2025-08-04 21:14:45"
+    },
+    {
+      "title": "Keeping Article Demos Alive When Third-Party APIs Die",
+      "url": "https://css-tricks.com/keeping-article-demos-alive-when-third-party-apis-die/",
+      "source": "CSS-Tricks",
+      "category": "前端设计",
+      "author": "Mészáros Róbert",
+      "summary": "Is there a way to build demos that do not break when the services they rely on fail? How can we ensure educational demos stay available for as long as possible?Keeping Article Demos Alive When Third-P...",
+      "published_at": "2025-07-30 21:21:05"
+    },
+    {
+      "title": "Making a Masonry Layout That Works Today",
+      "url": "https://css-tricks.com/making-a-masonry-layout-that-works-today/",
+      "source": "CSS-Tricks",
+      "category": "前端设计",
+      "author": "Zell Liew",
+      "summary": "I went on to figure out how make masonry work today with other browsers. I'm happy to report I've found a way — and, bonus! — that support can be provided with only 66 lines of JavaScript.Making a Mas...",
+      "published_at": "2025-07-28 20:42:16"
+    },
+    {
+      "title": "The UX Collective careers initiatives",
+      "url": "https://uxdesign.cc/the-ux-collective-careers-b8c94156f3cf?source=rss----138adf9c44c--ux_collective",
+      "source": "UX Collective",
+      "category": "用户体验设计",
+      "author": "UX Collective Editors",
+      "summary": "A collection of links and resources we published in the past years to support with your career in product designOur favorite projects at the UX Collective are the ones that directly impact our readers...",
+      "published_at": "2020-09-09 10:59:47"
+    },
+    {
+      "title": "1. Simular Pro",
+      "url": "https://www.producthunt.com/products/simular",
+      "source": "Product Hunt",
+      "category": "产品发现",
+      "author": null,
+      "summary": null,
+      "published_at": null
+    },
+    {
+      "title": "2. Shotva",
+      "url": "https://www.producthunt.com/products/shotva",
+      "source": "Product Hunt",
+      "category": "产品发现",
+      "author": null,
+      "summary": null,
+      "published_at": null
+    },
+    {
+      "title": "3. SEO Shop Audit",
+      "url": "https://www.producthunt.com/products/seo-shop-audit",
+      "source": "Product Hunt",
+      "category": "产品发现",
+      "author": null,
+      "summary": null,
+      "published_at": null
+    },
+    {
+      "title": "4. Yummery",
+      "url": "https://www.producthunt.com/products/ai-meal-planner-recipes",
+      "source": "Product Hunt",
+      "category": "产品发现",
+      "author": null,
+      "summary": null,
+      "published_at": null
+    },
+    {
+      "title": "We are still the web",
+      "url": "https://thehistoryoftheweb.com/we-are-still-the-web/",
+      "source": "Sidebar",
+      "category": "设计资讯",
+      "author": null,
+      "summary": "They missed what was right in front of them. The audience.",
+      "published_at": "2025-08-08 19:24:06"
+    },
+    {
+      "title": "Six principles for production AI agents",
+      "url": "https://www.app.build/blog/six-principles-production-ai-agents",
+      "source": "Sidebar",
+      "category": "设计资讯",
+      "author": null,
+      "summary": "Practical lessons from building production agentic systems.",
+      "published_at": "2025-08-08 19:23:14"
+    },
+    {
+      "title": "Case study: IBM Northpole",
+      "url": "https://www.found-studio.com/work/ibm-northpole/",
+      "source": "Sidebar",
+      "category": "设计资讯",
+      "author": null,
+      "summary": "Nn insightful journey from the data centre to the heart of the unit, revealing the cutting-edge chip within.",
+      "published_at": "2025-08-08 19:22:37"
+    },
+    {
+      "title": "Learning the bitter lesson",
+      "url": "https://rlancemartin.github.io/2025/07/30/bitter_lesson/",
+      "source": "Sidebar",
+      "category": "设计资讯",
+      "author": null,
+      "summary": "The structure we impose on models often limits their ability to leverage growing computation.",
+      "published_at": "2025-08-08 19:20:56"
+    },
+    {
+      "title": "It’s incredible how many bad user experiences are still out there in 2025",
+      "url": "https://uxdesign.cc/its-incredible-how-many-bad-user-experiences-are-still-out-there-in-2025-212b0e7e8d3c?sk=015546e59c5c071708b2367772db26ae",
+      "source": "Sidebar",
+      "category": "设计资讯",
+      "author": null,
+      "summary": "Three bad UX stories from just one week that brought me close to a complete meltdown.",
+      "published_at": "2025-08-08 19:19:59"
+    },
+    {
+      "title": "In User Research, Don’t Stop at “Yes” or “No”",
+      "url": "https://www.nngroup.com/articles/research-yes-or-no/",
+      "source": "NN/g (Nielsen Norman Group)",
+      "category": "用户体验研究",
+      "author": null,
+      "summary": null,
+      "published_at": null
+    },
+    {
+      "title": "Initial Impressions of ChatGPT’s Agent: Successful, Shaky, and Slow",
+      "url": "https://www.nngroup.com/articles/impressions-chatgpt-agent/",
+      "source": "NN/g (Nielsen Norman Group)",
+      "category": "用户体验研究",
+      "author": null,
+      "summary": null,
+      "published_at": null
+    },
+    {
+      "title": "Digital Twins: Simulating Humans with Generative AI",
+      "url": "https://www.nngroup.com/articles/digital-twins/",
+      "source": "NN/g (Nielsen Norman Group)",
+      "category": "用户体验研究",
+      "author": null,
+      "summary": null,
+      "published_at": null
+    }
+  ],
+  "categories": [
+    "产品发现",
+    "用户体验研究",
+    "前端设计",
+    "设计资讯",
+    "用户体验设计",
+    "原型设计",
+    "网页设计",
+    "产品设计"
+  ],
+  "sources": [
+    "UX Myths",
+    "Smashing Magazine",
+    "UX Mastery",
+    "A List Apart",
+    "UX Planet",
+    "Product Hunt",
+    "UX Collective",
+    "Marvel Blog",
+    "CSS-Tricks",
+    "Sidebar",
+    "Design Milk",
+    "NN/g (Nielsen Norman Group)",
+    "Intercom Blog"
+  ],
+  "generated_at": "2025-08-11T11:41:00.963804",
   "metadata": {
-    "note": "此日期暂无资讯内容 (2025-08-10)",
-    "status": "placeholder",
-    "reason": "历史数据自动补全",
-    "backfilled_at": "2025-08-11T10:59:43.643638"
+    "backfilled": true,
+    "backfill_date": "2025-08-11T11:41:00.963806",
+    "note": "补充生成的 8月10日 资讯内容"
   }
 }
