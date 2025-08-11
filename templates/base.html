@@ -775,20 +775,52 @@
         // 轮询 GitHub Actions 状态
         function startStatusPolling(statusUrl, { onSuccess, onUpdate, onTimeout } = {}) {
             const start = Date.now();
-            const timeoutMs = 4 * 60 * 1000; // 最长4分钟
-            const intervalMs = 5000; // 每5秒查询一次
+            const timeoutMs = 5 * 60 * 1000; // 最长5分钟，给足时间
+            const intervalMs = 8000; // 每8秒查询一次，减少API调用
+            let lastCommitTime = null;
+            
             const timer = setInterval(async () => {
                 try {
                     const resp = await fetch(statusUrl, { cache: 'no-store' });
                     const data = await resp.json();
-                    if (onUpdate) onUpdate({ status: data.status, conclusion: data.conclusion });
+                    
+                    if (onUpdate) {
+                        // 更详细的状态描述
+                        let statusText = '';
+                        if (data.status === 'queued') statusText = '任务已排队...';
+                        else if (data.status === 'in_progress') statusText = '正在抓取资讯并生成...';
+                        else if (data.status === 'completed') {
+                            if (data.conclusion === 'success') statusText = '内容生成完成，准备部署...';
+                            else statusText = '生成失败，请稍后重试';
+                        }
+                        onUpdate({ status: data.status, conclusion: data.conclusion, statusText });
+                    }
+                    
+                    // 检测到成功完成 - 等待几秒确保Vercel部署完成后刷新
                     if (data.status === 'completed' && data.conclusion === 'success') {
                         clearInterval(timer);
-                        if (onSuccess) onSuccess();
+                        updateProgress('🚀', '部署中...', '正在部署到线上，即将自动刷新');
+                        // 等待Vercel部署完成再刷新（预留30秒）
+                        setTimeout(() => {
+                            if (onSuccess) onSuccess();
+                        }, 30000);
                     }
+                    
+                    // 检测到失败
+                    if (data.status === 'completed' && data.conclusion !== 'success') {
+                        clearInterval(timer);
+                        updateProgress('❌', '生成失败', '请稍后重试或手动触发');
+                        setTimeout(() => {
+                            hideRefreshProgress();
+                            document.querySelector('.refresh-btn').innerHTML = '🔄 刷新资讯';
+                            document.querySelector('.refresh-btn').disabled = false;
+                        }, 3000);
+                    }
+                    
                 } catch (e) {
                     console.warn('状态查询失败', e);
                 }
+                
                 if (Date.now() - start > timeoutMs) {
                     clearInterval(timer);
                     if (onTimeout) onTimeout();

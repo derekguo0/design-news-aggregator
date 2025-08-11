@@ -38,8 +38,21 @@ jobs:
     - name: Generate latest content with backfill
       run: |
         echo "🚀 开始生成最新内容（含历史补全）..."
-        python3 refresh_with_backfill.py
+        python3 actions_refresh.py
         echo "✅ 内容生成完成（含历史补全）"
+    
+    - name: Commit and push updated content
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add output/ data/ || true
+        if git diff --staged --quiet; then
+          echo "📄 没有新内容需要提交"
+        else
+          git commit -m "🤖 自动更新资讯内容 - $(date '+%Y-%m-%d %H:%M:%S UTC')"
+          git push
+          echo "✅ 已推送最新内容到仓库"
+        fi
     
     - name: Deploy to Vercel
       uses: amondnet/vercel-action@v25
