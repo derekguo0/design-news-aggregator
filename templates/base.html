@@ -577,7 +577,23 @@
                 
                 if (data && data.success) {
                     // 检查部署类型和状态
-                    if (data.deployment_type === 'serverless') {
+                    if (data.deployment_type === 'serverless_direct') {
+                        // 直接生成模式 - 立即完成
+                        updateProgress('✅', '内容生成成功', '资讯已更新，即将刷新页面...');
+                        
+                        // 设置本地冷却时间
+                        const cooldown = (data.cooldown_seconds || 60) * 1000;
+                        setLastTriggerTime(cooldown);
+                        
+                        setTimeout(() => {
+                            // 清缓存并刷新
+                            if ('caches' in window) {
+                                caches.keys().then(names => names.forEach(name => caches.delete(name)));
+                            }
+                            window.location.href = window.location.href.split('?')[0] + '?v=' + Date.now();
+                        }, 2000);
+                        
+                    } else if (data.deployment_type === 'serverless') {
                         if (data.status === 'github_actions_triggered') {
                             // 自动触发成功
                             updateProgress('🚀', '正在触发自动更新', '通过GitHub Actions更新内容...');
