@@ -11,7 +11,7 @@
     },
                 {
       "src": "/api/refresh",
-      "dest": "/api/simple_refresh.py"
+      "dest": "/api/real_refresh.py"
     },
             {
           "src": "/api/debug",
