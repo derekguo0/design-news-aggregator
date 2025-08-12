@@ -24,7 +24,7 @@ class handler(BaseHTTPRequestHandler):
             response = {
                 "success": True,
                 "ok": True,
-                "message": f"✅ 内容已更新！最新资讯已生成 - {result['time']}",
+                "message": f"✅ 内容已更新！最新资讯已生成 - {result['generation_time']}",
                 "status": "content_generated",
                 "timestamp": datetime.now().isoformat(),
                 "deployment_type": "serverless_direct",
