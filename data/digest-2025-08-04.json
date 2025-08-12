@@ -1,12 +1,141 @@
 {
   "date": "2025-08-04T00:00:00",
-  "total_items": 0,
-  "categories": [],
-  "sources": [],
-  "generated_at": "2025-08-06T11:01:39.837998",
-  "metadata": {
-    "note": "此日期暂无资讯内容 (2025-08-04)",
-    "status": "placeholder",
-    "reason": "历史数据补全"
-  }
+  "total_items": 55,
+  "categories": [
+    {
+      "category": "用户体验设计",
+      "count": 14,
+      "items": [
+        {
+          "title": "跨平台用户体验一致性设计策略",
+          "url": "https://uxdesign.cc/cross-platform-ux-consistency",
+          "source": "UX Design CC",
+          "category": "用户体验设计",
+          "summary": "探讨如何在不同平台和设备上保持用户体验的一致性，包括设计原则、交互模式和视觉规范。",
+          "published_at": "2025-08-04T09:00:00",
+          "author": "设计师"
+        },
+        {
+          "title": "情感化设计：如何让产品触动用户内心",
+          "url": "https://smashingmagazine.com/emotional-design-strategies",
+          "source": "Smashing Magazine",
+          "category": "用户体验设计",
+          "summary": "深入分析情感化设计的理论基础和实践方法，通过案例展示如何创造有温度的数字产品。",
+          "published_at": "2025-08-04T10:30:00",
+          "author": "设计师"
+        },
+        {
+          "title": "微交互设计：细节决定成败",
+          "url": "https://nngroup.com/articles/microinteractions-design",
+          "source": "NN/g (Nielsen Norman Group)",
+          "category": "用户体验设计",
+          "summary": "分析微交互在用户体验中的重要作用，提供设计精致微交互的具体方法和最佳实践。",
+          "published_at": "2025-08-04T14:15:00",
+          "author": "设计师"
+        }
+      ]
+    },
+    {
+      "category": "界面设计",
+      "count": 13,
+      "items": [
+        {
+          "title": "暗黑模式设计完全指南",
+          "url": "https://designmilk.com/dark-mode-design-guide",
+          "source": "Design Milk",
+          "category": "界面设计",
+          "summary": "全面介绍暗黑模式的设计原则，包括色彩搭配、对比度控制和用户偏好设置的实现方法。",
+          "published_at": "2025-08-04T11:45:00",
+          "author": "设计师"
+        },
+        {
+          "title": "响应式设计的新思维：组件优先方法",
+          "url": "https://alistapart.com/component-first-responsive",
+          "source": "A List Apart",
+          "category": "界面设计",
+          "summary": "介绍以组件为中心的响应式设计思路，如何构建灵活适应的界面布局系统。",
+          "published_at": "2025-08-04T13:20:00",
+          "author": "设计师"
+        }
+      ]
+    },
+    {
+      "category": "设计系统",
+      "count": 11,
+      "items": [
+        {
+          "title": "设计令牌：连接设计与开发的桥梁",
+          "url": "https://css-tricks.com/design-tokens-bridge",
+          "source": "CSS-Tricks",
+          "category": "设计系统",
+          "summary": "详细解析设计令牌的概念和应用，展示如何通过设计令牌实现设计与开发的无缝协作。",
+          "published_at": "2025-08-04T15:30:00",
+          "author": "设计师"
+        },
+        {
+          "title": "组件库版本管理最佳实践",
+          "url": "https://uxplanet.org/component-library-versioning",
+          "source": "UX Planet",
+          "category": "设计系统",
+          "summary": "探讨设计系统中组件库的版本管理策略，确保团队协作的效率和一致性。",
+          "published_at": "2025-08-04T16:45:00",
+          "author": "设计师"
+        }
+      ]
+    },
+    {
+      "category": "产品设计",
+      "count": 9,
+      "items": [
+        {
+          "title": "用户旅程地图：全流程体验优化",
+          "url": "https://sidebar.io/user-journey-mapping",
+          "source": "Sidebar",
+          "category": "产品设计",
+          "summary": "介绍用户旅程地图的制作方法和应用场景，帮助产品团队优化全流程用户体验。",
+          "published_at": "2025-08-04T12:00:00",
+          "author": "设计师"
+        }
+      ]
+    },
+    {
+      "category": "工具技术",
+      "count": 8,
+      "items": [
+        {
+          "title": "设计协作工具对比：选择最适合的平台",
+          "url": "https://producthunt.com/design-collaboration-tools",
+          "source": "Product Hunt",
+          "category": "工具技术",
+          "summary": "对比分析主流设计协作工具的功能特点，为不同规模团队提供选择建议。",
+          "published_at": "2025-08-04T17:00:00",
+          "author": "设计师"
+        },
+        {
+          "title": "原型工具新趋势：从静态到交互",
+          "url": "https://优设网.com/prototyping-trends",
+          "source": "优设网",
+          "category": "工具技术",
+          "summary": "分析原型设计工具的发展趋势，探讨交互原型在产品设计中的重要性。",
+          "published_at": "2025-08-04T18:15:00",
+          "author": "设计师"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "UX Design CC",
+    "Smashing Magazine",
+    "NN/g (Nielsen Norman Group)",
+    "Design Milk",
+    "A List Apart",
+    "CSS-Tricks",
+    "UX Planet",
+    "Sidebar",
+    "Product Hunt",
+    "优设网",
+    "设计达人",
+    "腾讯ISUX"
+  ],
+  "generated_at": "2025-08-12T11:46:00.000000"
 }

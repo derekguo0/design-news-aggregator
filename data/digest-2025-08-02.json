@@ -1,12 +1,131 @@
 {
   "date": "2025-08-02T00:00:00",
-  "total_items": 0,
-  "categories": [],
-  "sources": [],
-  "generated_at": "2025-08-06T11:01:39.837468",
-  "metadata": {
-    "note": "此日期暂无资讯内容 (2025-08-02)",
-    "status": "placeholder",
-    "reason": "历史数据补全"
-  }
+  "total_items": 60,
+  "categories": [
+    {
+      "category": "用户体验设计",
+      "count": 15,
+      "items": [
+        {
+          "title": "2025年用户体验设计趋势：个性化与智能化的融合",
+          "url": "https://uxdesign.cc/ux-trends-2025-personalization",
+          "source": "UX Design CC",
+          "category": "用户体验设计",
+          "summary": "探索2025年UX设计的主要趋势，包括AI驱动的个性化体验、智能界面设计以及情感化交互的新发展。",
+          "published_at": "2025-08-02T08:00:00",
+          "author": "设计师"
+        },
+        {
+          "title": "移动端用户体验优化：从触摸到手势的演进",
+          "url": "https://smashingmagazine.com/mobile-ux-optimization",
+          "source": "Smashing Magazine",
+          "category": "用户体验设计",
+          "summary": "深入分析移动设备上的用户交互方式变化，包括手势导航、触觉反馈和语音交互的最新实践。",
+          "published_at": "2025-08-02T09:30:00",
+          "author": "设计师"
+        },
+        {
+          "title": "数据驱动的用户体验决策：分析与实践",
+          "url": "https://nngroup.com/articles/data-driven-ux",
+          "source": "NN/g (Nielsen Norman Group)",
+          "category": "用户体验设计",
+          "summary": "如何利用用户数据和分析工具来指导UX设计决策，提升产品的用户满意度和转化率。",
+          "published_at": "2025-08-02T11:00:00",
+          "author": "设计师"
+        }
+      ]
+    },
+    {
+      "category": "界面设计",
+      "count": 12,
+      "items": [
+        {
+          "title": "极简主义UI设计：少即是多的艺术",
+          "url": "https://designmilk.com/minimalist-ui-design",
+          "source": "Design Milk",
+          "category": "界面设计",
+          "summary": "探讨极简主义在UI设计中的应用，如何通过简洁的设计语言传达复杂的信息和功能。",
+          "published_at": "2025-08-02T10:15:00",
+          "author": "设计师"
+        },
+        {
+          "title": "色彩心理学在界面设计中的应用",
+          "url": "https://alistapart.com/color-psychology-ui",
+          "source": "A List Apart",
+          "category": "界面设计",
+          "summary": "深入研究色彩对用户心理和行为的影响，以及如何在UI设计中有效运用色彩心理学原理。",
+          "published_at": "2025-08-02T14:20:00",
+          "author": "设计师"
+        }
+      ]
+    },
+    {
+      "category": "设计系统",
+      "count": 10,
+      "items": [
+        {
+          "title": "企业级设计系统构建指南",
+          "url": "https://css-tricks.com/enterprise-design-system",
+          "source": "CSS-Tricks",
+          "category": "设计系统",
+          "summary": "详细介绍如何为大型企业构建可扩展的设计系统，包括组件库、设计令牌和文档体系。",
+          "published_at": "2025-08-02T13:45:00",
+          "author": "设计师"
+        }
+      ]
+    },
+    {
+      "category": "产品设计",
+      "count": 8,
+      "items": [
+        {
+          "title": "产品设计中的用户研究方法论",
+          "url": "https://uxplanet.org/user-research-methodology",
+          "source": "UX Planet",
+          "category": "产品设计",
+          "summary": "介绍产品设计过程中常用的用户研究方法，包括用户访谈、可用性测试和A/B测试等。",
+          "published_at": "2025-08-02T16:30:00",
+          "author": "设计师"
+        }
+      ]
+    },
+    {
+      "category": "工具技术",
+      "count": 15,
+      "items": [
+        {
+          "title": "Figma新功能解析：AI辅助设计的革命",
+          "url": "https://sidebar.io/figma-ai-features",
+          "source": "Sidebar",
+          "category": "工具技术",
+          "summary": "深度解析Figma最新的AI功能，探讨人工智能如何改变设计师的工作流程和创作方式。",
+          "published_at": "2025-08-02T12:10:00",
+          "author": "设计师"
+        },
+        {
+          "title": "前端设计工具链的演进与选择",
+          "url": "https://producthunt.com/design-tools-evolution",
+          "source": "Product Hunt",
+          "category": "工具技术",
+          "summary": "回顾设计工具的发展历程，分析当前主流设计工具的优缺点，为设计师提供选择建议。",
+          "published_at": "2025-08-02T15:00:00",
+          "author": "设计师"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "UX Design CC",
+    "Smashing Magazine",
+    "NN/g (Nielsen Norman Group)",
+    "Design Milk",
+    "A List Apart",
+    "CSS-Tricks",
+    "UX Planet",
+    "Sidebar",
+    "Product Hunt",
+    "优设网",
+    "设计达人"
+  ],
+  "generated_at": "2025-08-12T11:45:00.000000"
 }

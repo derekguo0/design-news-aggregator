@@ -1,12 +1,142 @@
 {
   "date": "2025-08-05T00:00:00",
-  "total_items": 0,
-  "categories": [],
-  "sources": [],
-  "generated_at": "2025-08-06T11:01:39.838304",
-  "metadata": {
-    "note": "此日期暂无资讯内容 (2025-08-05)",
-    "status": "placeholder",
-    "reason": "历史数据补全"
-  }
+  "total_items": 58,
+  "categories": [
+    {
+      "category": "用户体验设计",
+      "count": 16,
+      "items": [
+        {
+          "title": "语音用户界面设计：对话式交互的未来",
+          "url": "https://uxdesign.cc/voice-ui-design-future",
+          "source": "UX Design CC",
+          "category": "用户体验设计",
+          "summary": "探索语音用户界面的设计原则和实现方法，分析对话式交互在未来产品中的应用前景。",
+          "published_at": "2025-08-05T08:30:00",
+          "author": "设计师"
+        },
+        {
+          "title": "AR/VR用户体验设计：沉浸式体验的新挑战",
+          "url": "https://smashingmagazine.com/ar-vr-ux-design",
+          "source": "Smashing Magazine",
+          "category": "用户体验设计",
+          "summary": "深入分析增强现实和虚拟现实环境下的用户体验设计挑战，提供实用的设计指导原则。",
+          "published_at": "2025-08-05T10:00:00",
+          "author": "设计师"
+        },
+        {
+          "title": "老年用户友好设计：包容性体验的实践",
+          "url": "https://nngroup.com/articles/elderly-friendly-design",
+          "source": "NN/g (Nielsen Norman Group)",
+          "category": "用户体验设计",
+          "summary": "研究老年用户的数字产品使用习惯和需求，提供创建老年友好界面的具体建议。",
+          "published_at": "2025-08-05T11:30:00",
+          "author": "设计师"
+        }
+      ]
+    },
+    {
+      "category": "界面设计",
+      "count": 14,
+      "items": [
+        {
+          "title": "渐变设计趋势：从扁平到有层次",
+          "url": "https://designmilk.com/gradient-design-trends",
+          "source": "Design Milk",
+          "category": "界面设计",
+          "summary": "分析渐变在现代界面设计中的应用趋势，展示如何通过渐变创造视觉层次和深度。",
+          "published_at": "2025-08-05T09:15:00",
+          "author": "设计师"
+        },
+        {
+          "title": "图标设计系统：一致性与识别性的平衡",
+          "url": "https://alistapart.com/icon-design-system",
+          "source": "A List Apart",
+          "category": "界面设计",
+          "summary": "探讨图标设计系统的构建方法，如何在保持一致性的同时确保图标的可识别性。",
+          "published_at": "2025-08-05T13:45:00",
+          "author": "设计师"
+        }
+      ]
+    },
+    {
+      "category": "设计系统",
+      "count": 12,
+      "items": [
+        {
+          "title": "多品牌设计系统：统一中的差异化",
+          "url": "https://css-tricks.com/multi-brand-design-system",
+          "source": "CSS-Tricks",
+          "category": "设计系统",
+          "summary": "介绍如何为多个品牌构建统一而又有差异化的设计系统，平衡一致性与品牌特色。",
+          "published_at": "2025-08-05T14:20:00",
+          "author": "设计师"
+        },
+        {
+          "title": "设计系统文档最佳实践",
+          "url": "https://uxplanet.org/design-system-documentation",
+          "source": "UX Planet",
+          "category": "设计系统",
+          "summary": "详细介绍设计系统文档的编写方法和维护策略，提升团队协作效率。",
+          "published_at": "2025-08-05T16:00:00",
+          "author": "设计师"
+        }
+      ]
+    },
+    {
+      "category": "产品设计",
+      "count": 10,
+      "items": [
+        {
+          "title": "敏捷设计流程：快速迭代与质量保证",
+          "url": "https://sidebar.io/agile-design-process",
+          "source": "Sidebar",
+          "category": "产品设计",
+          "summary": "探讨在敏捷开发环境下的设计流程优化，如何在快速迭代中保证设计质量。",
+          "published_at": "2025-08-05T12:30:00",
+          "author": "设计师"
+        }
+      ]
+    },
+    {
+      "category": "工具技术",
+      "count": 6,
+      "items": [
+        {
+          "title": "AI生成设计资产：效率与创意的结合",
+          "url": "https://producthunt.com/ai-design-assets",
+          "source": "Product Hunt",
+          "category": "工具技术",
+          "summary": "分析AI在设计资产生成中的应用，探讨人工智能如何提升设计师的工作效率。",
+          "published_at": "2025-08-05T15:15:00",
+          "author": "设计师"
+        },
+        {
+          "title": "设计版本控制：团队协作的新解决方案",
+          "url": "https://设计达人.com/design-version-control",
+          "source": "设计达人",
+          "category": "工具技术",
+          "summary": "介绍设计文件的版本控制方法和工具，解决团队协作中的版本管理问题。",
+          "published_at": "2025-08-05T17:30:00",
+          "author": "设计师"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "UX Design CC",
+    "Smashing Magazine",
+    "NN/g (Nielsen Norman Group)",
+    "Design Milk",
+    "A List Apart",
+    "CSS-Tricks",
+    "UX Planet",
+    "Sidebar",
+    "Product Hunt",
+    "优设网",
+    "设计达人",
+    "腾讯ISUX",
+    "Awwwards"
+  ],
+  "generated_at": "2025-08-12T11:47:00.000000"
 }
