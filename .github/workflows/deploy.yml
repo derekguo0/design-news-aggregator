@@ -35,11 +35,11 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
     
-    - name: Generate latest content with backfill
+    - name: Debug and generate content
       run: |
-        echo "🚀 开始生成最新内容（含历史补全）..."
-        python3 actions_refresh.py
-        echo "✅ 内容生成完成（含历史补全）"
+        echo "🔍 开始调试GitHub Actions环境..."
+        python3 debug_actions.py
+        echo "✅ 调试和生成完成"
     
     - name: Commit and push updated content
       run: |
