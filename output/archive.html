@@ -502,7 +502,7 @@
                             Design Drip 资讯
                         </h4>
                         <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-emerald-100 text-emerald-800 dark:bg-emerald-900 dark:text-emerald-200">
-                            0 条
+                            71 条
                         </span>
                     </div>
 
@@ -1930,7 +1930,7 @@
             <p>&copy; 2025 Design Drip. 汇聚全球设计动态.</p>
             <p style="font-size: 0.8rem; margin-top: 0.5rem;">
                 
-                    最后更新: 2025年08月13日 12:19
+                    最后更新: 2025年08月13日 12:28
                 
             </p>
         </div>
@@ -2051,8 +2051,10 @@
             return;
         }
         
-        // 显示新内容
+        // 显示新内容（简化版）
         function displayNewContent(result) {
+            const currentTime = new Date().toLocaleTimeString();
+            
             // 创建成功提示
             const successAlert = document.createElement('div');
             successAlert.className = 'bg-green-100 border-l-4 border-green-500 text-green-700 p-4 rounded-lg mb-6 shadow-sm';
@@ -2065,7 +2067,7 @@
                     </div>
                     <div class="ml-3">
                         <p class="font-medium">✅ 内容已刷新成功！</p>
-                        <p class="text-sm">最新更新时间: ${result.generation_time} | 共 ${result.items_count} 条新资讯</p>
+                        <p class="text-sm">更新时间: ${currentTime} | 页面内容已是最新版本</p>
                     </div>
                 </div>
             `;
@@ -2074,50 +2076,15 @@
             const main = document.querySelector('main') || document.body;
             main.insertBefore(successAlert, main.firstChild);
             
-            // 生成新资讯内容
-            const newsContainer = document.createElement('div');
-            newsContainer.className = 'space-y-6 mb-8';
-            newsContainer.innerHTML = '<h2 class="text-2xl font-bold text-gray-900 mb-4">🆕 最新资讯</h2>';
-            
-            result.items.forEach((item, index) => {
-                const newsItem = document.createElement('div');
-                newsItem.className = 'bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow border-l-4 border-green-500';
-                newsItem.style.animationDelay = `${index * 0.1}s`;
-                newsItem.innerHTML = `
-                    <div class="flex justify-between items-start mb-3">
-                        <span class="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">
-                            ${item.category}
-                        </span>
-                        <span class="text-green-600 text-sm font-medium">刚刚更新 ${item.time}</span>
-                    </div>
-                    <h3 class="text-lg font-semibold text-gray-900 mb-3 leading-tight">
-                        <a href="${item.url}" target="_blank" class="hover:text-blue-600 transition-colors">
-                            ${item.title}
-                        </a>
-                    </h3>
-                    <p class="text-gray-600 mb-4 leading-relaxed">${item.summary}</p>
-                    <div class="flex justify-between items-center text-sm">
-                        <span class="text-gray-500">
-                            <strong>${item.source}</strong>
-                        </span>
-                        <span class="text-green-600 font-medium">🆕 新资讯</span>
-                    </div>
-                `;
-                newsContainer.appendChild(newsItem);
-            });
-            
-            // 插入新资讯到成功提示后
-            successAlert.parentNode.insertBefore(newsContainer, successAlert.nextSibling);
-            
-            // 滚动到顶部显示新内容
-            window.scrollTo({ top: 0, behavior: 'smooth' });
-            
-            // 3秒后淡出成功提示
+            // 3秒后自动隐藏成功提示
             setTimeout(() => {
                 successAlert.style.transition = 'opacity 0.5s';
                 successAlert.style.opacity = '0';
                 setTimeout(() => successAlert.remove(), 500);
             }, 3000);
+            
+            // 不再显示重复的资讯内容，因为页面已经包含了最新内容
+            return;
         }
         
         // 智能刷新 - 支持本地和线上环境
