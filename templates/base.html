@@ -743,27 +743,17 @@
                         }
                         
                     } else {
-                        // 本地环境 - 智能刷新流程（含历史补全）
-                        updateProgress('🔍', '检查历史内容', '自动检查并补全缺失的历史日期...');
-                        await new Promise(resolve => setTimeout(resolve, 2000));
-                        
-                        updateProgress('🚀', '开始爬取', '正在后台爬取最新资讯...');
-                        await simulateProgress();
-                        
-                        updateProgress('📝', '生成内容', '正在处理资讯并生成页面...');
-                        await new Promise(resolve => setTimeout(resolve, 3000));
-                        
-                        updateProgress('✅', '刷新完成！', '历史内容已补全，最新资讯已更新！');
+                        // 其他环境 - 显示简单成功提示
+                        updateProgress('✅', '刷新完成！', '页面内容已是最新版本');
                         
                         setTimeout(() => {
-                            // 清除缓存并重新加载
-                            if ('caches' in window) {
-                                caches.keys().then(names => {
-                                    names.forEach(name => caches.delete(name));
-                                });
-                            }
-                            window.location.href = window.location.href.split('?')[0] + '?v=' + Date.now();
-                        }, 2000);
+                            hideRefreshProgress();
+                            refreshBtn.innerHTML = originalText;
+                            refreshBtn.disabled = false;
+                            
+                            // 显示成功提示，不重新加载页面
+                            showStaticNewContent(data);
+                        }, 1500);
                     }
                     
                 } else {
