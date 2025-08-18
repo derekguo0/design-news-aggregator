@@ -312,7 +312,8 @@ section[id] {
         </div>
         
         <div class="mt-4 grid grid-cols-1 gap-6 lg:grid-cols-2 xl:grid-cols-3">
-            {% for item in latest_items if item.category == category.category %}
+            {% for item in latest_items %}
+            {% if item.category == category.category %}
             <article class="relative bg-white dark:bg-gray-800 rounded-xl border border-gray-200 dark:border-gray-700 hover:border-gray-300 dark:hover:border-gray-600 transition-all duration-200 hover:shadow-lg group flex flex-col h-full">
                 <div class="p-6 flex-1">
                     <!-- Header with badge and source -->
@@ -367,6 +368,7 @@ section[id] {
                     </div>
                 </div>
             </article>
+            {% endif %}
             {% endfor %}
         </div>
     </section>
