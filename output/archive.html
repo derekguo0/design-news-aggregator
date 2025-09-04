@@ -502,7 +502,7 @@
                             Design Drip 资讯
                         </h4>
                         <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-emerald-100 text-emerald-800 dark:bg-emerald-900 dark:text-emerald-200">
-                            0 条
+                            61 条
                         </span>
                     </div>
 
@@ -3057,7 +3057,7 @@
             <p>&copy; 2025 Design Drip. 汇聚全球设计动态.</p>
             <p style="font-size: 0.8rem; margin-top: 0.5rem;">
                 
-                    最后更新: 2025年09月04日 17:59
+                    最后更新: 2025年09月04日 18:03
                 
             </p>
         </div>
@@ -3142,16 +3142,34 @@
             }
                 }
         
-        // 刷新成功后的简单提示（不显示内容）
+        // 刷新成功后的真实页面重载
         function showStaticNewContent(apiData) {
             const currentTime = new Date().toLocaleTimeString();
             
-            // 添加调试信息（可选）
+            // 添加调试信息
             console.log('刷新完成，API返回:', apiData);
             
-            // 创建简单的成功提示
+            // 创建成功提示，显示实际的刷新信息
             const successAlert = document.createElement('div');
             successAlert.className = 'bg-green-100 border-l-4 border-green-500 text-green-700 p-4 rounded-lg mb-6 shadow-sm fixed top-20 right-4 z-50 max-w-sm';
+            
+            // 根据API返回的真实数据显示信息
+            let itemsCount = '未知';
+            let sourcesCount = '未知';
+            let message = '资讯已刷新成功！';
+            
+            if (apiData && apiData.result) {
+                if (apiData.result.items_count) {
+                    itemsCount = apiData.result.items_count;
+                }
+                if (apiData.result.sources_count) {
+                    sourcesCount = apiData.result.sources_count;
+                }
+                if (apiData.result.message) {
+                    message = apiData.result.message;
+                }
+            }
+            
             successAlert.innerHTML = `
                 <div class="flex items-center">
                     <div class="flex-shrink-0">
@@ -3160,8 +3178,10 @@
                         </svg>
                     </div>
                     <div class="ml-3">
-                        <p class="font-medium">✅ 资讯已刷新成功！</p>
+                        <p class="font-medium">✅ ${message}</p>
                         <p class="text-sm">更新时间: ${currentTime}</p>
+                        <p class="text-xs mt-1">📊 资讯: ${itemsCount}条 | 来源: ${sourcesCount}个</p>
+                        <p class="text-xs text-green-600">⏳ 正在重新加载页面...</p>
                     </div>
                 </div>
             `;
@@ -3169,17 +3189,19 @@
             // 添加到页面
             document.body.appendChild(successAlert);
             
-            // 3秒后自动隐藏
+            // 2秒后重新加载页面以显示最新内容
             setTimeout(() => {
-                successAlert.style.transition = 'opacity 0.5s, transform 0.5s';
-                successAlert.style.opacity = '0';
-                successAlert.style.transform = 'translateX(100%)';
-                setTimeout(() => {
-                    if (successAlert.parentNode) {
-                        successAlert.parentNode.removeChild(successAlert);
-                    }
-                }, 500);
-            }, 3000);
+                // 清除缓存并重新加载页面
+                if ('caches' in window) {
+                    caches.keys().then(names => names.forEach(name => caches.delete(name)));
+                }
+                
+                // 添加时间戳参数确保获取最新内容
+                const currentUrl = window.location.href.split('?')[0];
+                const timestamp = Date.now();
+                window.location.href = `${currentUrl}?v=${timestamp}&refresh=true`;
+                
+            }, 2000);
         }
         
         // 显示新内容（使用统一的显示逻辑）
