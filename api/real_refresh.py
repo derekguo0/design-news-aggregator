@@ -75,59 +75,8 @@ class handler(BaseHTTPRequestHandler):
             
             print(f"[{time_str}] 🚀 开始执行真实资讯爬取...")
             
-            # 方法1: 尝试直接调用完整的资讯生成系统  
-            try:
-                # 运行 main.py once 命令
-                result = subprocess.run(
-                    [sys.executable, str(project_root / "main.py"), "once"],
-                    cwd=project_root,
-                    capture_output=True,
-                    text=True,
-                    timeout=120  # 2分钟超时
-                )
-                
-                if result.returncode == 0:
-                    print(f"[{time_str}] ✅ main.py once 执行成功")
-                    subprocess_success = True
-                    error_msg = None
-                else:
-                    print(f"[{time_str}] ❌ main.py once 执行失败: {result.stderr}")
-                    subprocess_success = False
-                    error_msg = result.stderr
-                    
-            except subprocess.TimeoutExpired:
-                print(f"[{time_str}] ⏰ main.py once 执行超时")
-                subprocess_success = False
-                error_msg = "执行超时"
-            except Exception as e:
-                print(f"[{time_str}] 💥 subprocess异常: {str(e)}")
-                subprocess_success = False
-                error_msg = str(e)
-            
-            # 方法2: 检查生成结果，如果subprocess失败，尝试直接导入模块
-            digest_file = project_root / "data" / f"digest-{today}.json"
-            if subprocess_success and digest_file.exists():
-                # 读取最新生成的数据
-                with open(digest_file, 'r', encoding='utf-8') as f:
-                    digest_data = json.load(f)
-                
-                total_items = digest_data.get('total_items', 0)
-                sources = digest_data.get('sources', [])
-                
-                return {
-                    "success": True,
-                    "method": "subprocess_main.py",
-                    "generation_time": time_str,
-                    "date": today,
-                    "items_count": total_items,
-                    "sources_count": len(sources),
-                    "sources": sources,
-                    "digest_file": str(digest_file),
-                    "message": f"✅ 成功爬取并生成 {total_items} 条资讯，来自 {len(sources)} 个设计网站"
-                }
-            
-            # 如果subprocess失败，尝试直接导入和运行
-            print(f"[{time_str}] 🔄 subprocess失败，尝试直接导入模块...")
+            # 在Vercel环境中，直接使用模块导入方式，避免subprocess问题
+            print(f"[{time_str}] 🔄 使用直接导入方式执行资讯生成...")
             try:
                 from src.scheduler.task_scheduler import TaskScheduler
                 
@@ -152,6 +101,7 @@ class handler(BaseHTTPRequestHandler):
                         loop.close()
                 
                 # 检查结果
+                digest_file = project_root / "data" / f"digest-{today}.json"
                 if digest_file.exists():
                     with open(digest_file, 'r', encoding='utf-8') as f:
                         digest_data = json.load(f)
@@ -189,10 +139,10 @@ class handler(BaseHTTPRequestHandler):
                     "method": "fallback",
                     "generation_time": time_str,
                     "date": today,
-                    "subprocess_error": error_msg,
                     "import_error": str(import_error),
-                    "message": f"❌ 真实资讯爬取失败。Subprocess错误: {error_msg}，导入错误: {str(import_error)}"
+                    "message": f"❌ 真实资讯爬取失败。导入错误: {str(import_error)}"
                 }
+            
                 
         except Exception as e:
             print(f"[{time_str}] 💥 整体执行异常: {str(e)}")
