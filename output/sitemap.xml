@@ -3,16 +3,51 @@
 
     <url>
         <loc>https://your-domain.com/</loc>
-        <lastmod>2025-09-04</lastmod>
+        <lastmod>2025-09-09</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://your-domain.com/archive.html</loc>
-        <lastmod>2025-09-04</lastmod>
+        <lastmod>2025-09-09</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://your-domain.com/daily-2025-09-09.html</loc>
+        <lastmod>2025-09-09</lastmod>
+        <changefreq>never</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://your-domain.com/daily-2025-09-08.html</loc>
+        <lastmod>2025-09-08</lastmod>
+        <changefreq>never</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://your-domain.com/daily-2025-09-07.html</loc>
+        <lastmod>2025-09-07</lastmod>
+        <changefreq>never</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://your-domain.com/daily-2025-09-06.html</loc>
+        <lastmod>2025-09-06</lastmod>
+        <changefreq>never</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://your-domain.com/daily-2025-09-05.html</loc>
+        <lastmod>2025-09-05</lastmod>
+        <changefreq>never</changefreq>
+        <priority>0.6</priority>
     </url>
 
     <url>
