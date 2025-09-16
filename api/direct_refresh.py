@@ -68,9 +68,7 @@ class handler(BaseHTTPRequestHandler):
     def _direct_content_generation(self):
         """直接在Vercel上生成内容"""
         try:
-            from src.config import get_config
-            from src.scheduler.task_scheduler import TaskScheduler
-            
+            # 不依赖复杂模块，直接生成内容
             # 创建必要目录
             output_dir = project_root / "output"
             data_dir = project_root / "data"
