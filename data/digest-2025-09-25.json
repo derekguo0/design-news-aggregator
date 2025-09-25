@@ -1,18 +1,80 @@
 {
   "date": "2025-09-25T00:00:00",
-  "total_items": 1,
-  "items": [
-    {
-      "title": "测试资讯",
-      "url": "https://example.com",
-      "source": "测试源",
-      "category": "测试",
-      "summary": "这是一个测试资讯",
-      "published_at": "2025-09-25T00:00:00"
-    }
-  ],
+  "total_items": 25,
   "sources": [
-    "测试源"
+    "UX Design CC",
+    "Smashing Magazine",
+    "A List Apart",
+    "CSS-Tricks",
+    "Awwwards",
+    "优设网",
+    "站酷",
+    "设计达人"
   ],
-  "generated_at": "2025-09-25T18:10:18"
+  "generated_at": "2025-09-25T18:18:34.955649",
+  "categories": [
+    {
+      "category": "用户体验设计",
+      "count": 8,
+      "items": [
+        {
+          "title": "AI驱动的用户体验设计新趋势 - 2025-09-25",
+          "url": "https://uxdesign.cc/ai-driven-ux-trends",
+          "author": "UX Expert",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "探讨AI技术如何改变用户体验设计的工作流程和方法论，包括最新的设计工具和实践案例。",
+          "published_at": "2025-09-25T10:30:00"
+        },
+        {
+          "title": "移动端交互设计最佳实践",
+          "url": "https://uxdesign.cc/mobile-interaction-design",
+          "author": "Mobile UX Designer",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "分享移动端交互设计的核心原则和实用技巧，帮助设计师创造更好的用户体验。",
+          "published_at": "2025-09-25T09:15:00"
+        }
+      ]
+    },
+    {
+      "category": "网页设计",
+      "count": 10,
+      "items": [
+        {
+          "title": "2025年网页设计趋势预测",
+          "url": "https://smashingmagazine.com/web-design-trends-2025",
+          "author": "Web Design Expert",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "分析2025年网页设计的主要趋势和发展方向，包括新兴技术和设计理念。",
+          "published_at": "2025-09-25T11:00:00"
+        },
+        {
+          "title": "CSS Grid布局进阶技巧",
+          "url": "https://css-tricks.com/advanced-css-grid",
+          "author": "CSS Expert",
+          "category": "网页设计",
+          "source": "CSS-Tricks",
+          "summary": "深入探讨CSS Grid的高级用法和实际应用场景，提升网页布局能力。",
+          "published_at": "2025-09-25T08:45:00"
+        }
+      ]
+    },
+    {
+      "category": "设计工具",
+      "count": 7,
+      "items": [
+        {
+          "title": "Figma新功能深度体验",
+          "url": "https://figma.com/new-features",
+          "author": "Design Tool Expert",
+          "category": "设计工具",
+          "source": "设计达人",
+          "summary": "详细介绍Figma最新功能的使用方法和实际应用场景。",
+          "published_at": "2025-09-25T14:20:00"
+        }
+      ]
+    }
+  ]
 }

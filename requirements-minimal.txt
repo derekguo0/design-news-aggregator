@@ -1,0 +1,3 @@
+# GitHub Actions 最小依赖
+# 只包含actions_refresh.py需要的基本包
+requests>=2.31.0
