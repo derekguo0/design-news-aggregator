@@ -118,95 +118,15 @@ def create_simple_content():
         
         print(f"✅ 数据文件已生成: {data_file}")
         
-        # 生成简单的HTML页面
-        html_content = f"""<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Design Drip - {today} 设计资讯</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-</head>
-<body class="bg-gray-50">
-    <div class="container mx-auto px-4 py-8">
-        <header class="text-center mb-8">
-            <h1 class="text-4xl font-bold text-gray-900 mb-2">Design Drip</h1>
-            <p class="text-gray-600">每日设计动态汇总 - {today}</p>
-            <p class="text-sm text-gray-500">更新时间: {current_time.strftime('%Y-%m-%d %H:%M:%S')}</p>
-        </header>
-        
-        <div class="bg-white rounded-lg shadow-md p-6 mb-6">
-            <h2 class="text-2xl font-semibold mb-4">📊 今日统计</h2>
-            <div class="grid grid-cols-2 gap-4">
-                <div class="text-center">
-                    <div class="text-3xl font-bold text-blue-600">{today_data['total_items']}</div>
-                    <div class="text-gray-600">条资讯</div>
-                </div>
-                <div class="text-center">
-                    <div class="text-3xl font-bold text-green-600">{len(today_data['sources'])}</div>
-                    <div class="text-gray-600">个来源</div>
-                </div>
-            </div>
-        </div>
-        
-        <div class="grid gap-6">
-"""
-        
-        # 添加分类内容
-        for category in today_data['categories']:
-            html_content += f"""
-            <div class="bg-white rounded-lg shadow-md p-6">
-                <h3 class="text-xl font-semibold mb-4">{category['category']} ({category['count']}条)</h3>
-                <div class="space-y-4">
-"""
-            for item in category['items']:
-                html_content += f"""
-                    <div class="border-l-4 border-blue-500 pl-4">
-                        <h4 class="font-medium text-gray-900 mb-1">
-                            <a href="{item['url']}" target="_blank" class="hover:text-blue-600">
-                                {item['title']}
-                            </a>
-                        </h4>
-                        <p class="text-sm text-gray-600 mb-2">{item['summary']}</p>
-                        <div class="text-xs text-gray-500">
-                            来源: {item['source']} | 作者: {item['author']} | 时间: {item['published_at']}
-                        </div>
-                    </div>
-"""
-            html_content += """
-                </div>
-            </div>
-"""
-        
-        html_content += """
-        </div>
-        
-        <footer class="text-center mt-8 text-gray-500">
-            <p>由 GitHub Actions 自动生成</p>
-        </footer>
-    </div>
-</body>
-</html>"""
-        
-        # 保存首页
-        index_file = output_dir / "index.html"
-        with open(index_file, 'w', encoding='utf-8') as f:
-            f.write(html_content)
-        
-        print(f"✅ 首页已生成: {index_file}")
-        
-        # 生成每日页面
-        daily_file = output_dir / f"daily-{today}.html"
-        with open(daily_file, 'w', encoding='utf-8') as f:
-            f.write(html_content.replace("每日设计动态汇总", f"每日设计资讯 - {today}"))
-        
-        print(f"✅ 每日页面已生成: {daily_file}")
+        # 只生成数据文件，保持原有的HTML模板和样式不变
+        print(f"✅ 数据文件已更新，保持原有UI设计")
         
         print(f"\n🎉 内容生成完成！")
         print(f"📊 生成统计:")
         print(f"   • {today_data['total_items']} 条资讯")
         print(f"   • {len(today_data['sources'])} 个来源")
         print(f"   • {len(today_data['categories'])} 个分类")
+        print(f"   • HTML页面保持原有设计不变")
         
         return True
         
