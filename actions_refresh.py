@@ -12,6 +12,17 @@ import json
 from datetime import datetime
 from pathlib import Path
 
+# 添加项目根目录到路径
+project_root = Path(__file__).parent
+sys.path.insert(0, str(project_root / "src"))
+
+from src.scheduler.task_scheduler import TaskScheduler
+import asyncio
+
+async def run_full_generation():
+    scheduler = TaskScheduler()
+    await scheduler.run_once()
+
 def create_simple_content():
     """创建简单的测试内容"""
     try:
@@ -116,10 +127,14 @@ def create_simple_content():
         with open(data_file, 'w', encoding='utf-8') as f:
             json.dump(today_data, f, ensure_ascii=False, indent=2)
         
+        # 使用系统原有任务调度进行完整生成
+        print("🚀 调用系统完整生成流程...")
+        asyncio.run(run_full_generation())
+
         print(f"✅ 数据文件已生成: {data_file}")
-        
-        # 只生成数据文件，保持原有的HTML模板和样式不变
-        print(f"✅ 数据文件已更新，保持原有UI设计")
+
+        # 内容和页面由WebGenerator在流程中生成
+        print(f"✅ 原有模板已更新页面")
         
         print(f"\n🎉 内容生成完成！")
         print(f"📊 生成统计:")
