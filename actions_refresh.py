@@ -24,14 +24,12 @@ async def run_full_generation():
     await scheduler.run_once()
 
 def create_simple_content():
-    """创建简单的测试内容"""
+    """执行完整的内容生成流程"""
     try:
-        print("🚀 开始生成内容...")
+        print("🚀 开始完整的内容生成流程...")
         
         # 获取今天的日期
         today = datetime.now().strftime('%Y-%m-%d')
-        current_time = datetime.now()
-        
         print(f"📅 生成日期: {today}")
         
         # 确保目录存在
@@ -40,108 +38,17 @@ def create_simple_content():
         output_dir.mkdir(exist_ok=True)
         data_dir.mkdir(exist_ok=True)
         
-        # 创建今天的数据
-        today_data = {
-            "date": f"{today}T00:00:00",
-            "total_items": 25,
-            "sources": [
-                "UX Design CC",
-                "Smashing Magazine", 
-                "A List Apart",
-                "CSS-Tricks",
-                "Awwwards",
-                "优设网",
-                "站酷",
-                "设计达人"
-            ],
-            "generated_at": current_time.isoformat(),
-            "categories": [
-                {
-                    "category": "用户体验设计",
-                    "count": 8,
-                    "items": [
-                        {
-                            "title": f"AI驱动的用户体验设计新趋势 - {today}",
-                            "url": "https://uxdesign.cc/ai-driven-ux-trends",
-                            "author": "UX Expert",
-                            "category": "用户体验设计",
-                            "source": "UX Design CC",
-                            "summary": "探讨AI技术如何改变用户体验设计的工作流程和方法论，包括最新的设计工具和实践案例。",
-                            "published_at": f"{today}T10:30:00"
-                        },
-                        {
-                            "title": "移动端交互设计最佳实践",
-                            "url": "https://uxdesign.cc/mobile-interaction-design",
-                            "author": "Mobile UX Designer",
-                            "category": "用户体验设计",
-                            "source": "UX Design CC",
-                            "summary": "分享移动端交互设计的核心原则和实用技巧，帮助设计师创造更好的用户体验。",
-                            "published_at": f"{today}T09:15:00"
-                        }
-                    ]
-                },
-                {
-                    "category": "网页设计",
-                    "count": 10,
-                    "items": [
-                        {
-                            "title": "2025年网页设计趋势预测",
-                            "url": "https://smashingmagazine.com/web-design-trends-2025",
-                            "author": "Web Design Expert",
-                            "category": "网页设计",
-                            "source": "Smashing Magazine",
-                            "summary": "分析2025年网页设计的主要趋势和发展方向，包括新兴技术和设计理念。",
-                            "published_at": f"{today}T11:00:00"
-                        },
-                        {
-                            "title": "CSS Grid布局进阶技巧",
-                            "url": "https://css-tricks.com/advanced-css-grid",
-                            "author": "CSS Expert", 
-                            "category": "网页设计",
-                            "source": "CSS-Tricks",
-                            "summary": "深入探讨CSS Grid的高级用法和实际应用场景，提升网页布局能力。",
-                            "published_at": f"{today}T08:45:00"
-                        }
-                    ]
-                },
-                {
-                    "category": "设计工具",
-                    "count": 7,
-                    "items": [
-                        {
-                            "title": "Figma新功能深度体验",
-                            "url": "https://figma.com/new-features",
-                            "author": "Design Tool Expert",
-                            "category": "设计工具",
-                            "source": "设计达人",
-                            "summary": "详细介绍Figma最新功能的使用方法和实际应用场景。",
-                            "published_at": f"{today}T14:20:00"
-                        }
-                    ]
-                }
-            ]
-        }
-        
-        # 保存数据文件
-        data_file = data_dir / f"digest-{today}.json"
-        with open(data_file, 'w', encoding='utf-8') as f:
-            json.dump(today_data, f, ensure_ascii=False, indent=2)
-        
-        # 使用系统原有任务调度进行完整生成
-        print("🚀 调用系统完整生成流程...")
+        # 直接使用系统完整生成流程（不创建测试数据）
+        print("🚀 调用TaskScheduler完整爬取和生成...")
         asyncio.run(run_full_generation())
-
-        print(f"✅ 数据文件已生成: {data_file}")
-
-        # 内容和页面由WebGenerator在流程中生成
-        print(f"✅ 原有模板已更新页面")
         
         print(f"\n🎉 内容生成完成！")
-        print(f"📊 生成统计:")
-        print(f"   • {today_data['total_items']} 条资讯")
-        print(f"   • {len(today_data['sources'])} 个来源")
-        print(f"   • {len(today_data['categories'])} 个分类")
-        print(f"   • HTML页面保持原有设计不变")
+        print(f"📊 系统已自动:")
+        print(f"   • 爬取所有启用的资讯源")
+        print(f"   • 处理并去重内容")
+        print(f"   • 生成每日摘要")
+        print(f"   • 生成所有HTML页面")
+        print(f"   • 更新RSS和Sitemap")
         
         return True
         
