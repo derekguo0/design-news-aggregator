@@ -1,25 +1,43 @@
 {
   "date": "2025-10-14T00:00:00",
-  "total_items": 47,
+  "total_items": 49,
   "sources": [
-    "设计达人",
-    "Smashing Magazine",
-    "UX Planet",
-    "UX Design CC",
-    "Awwwards",
-    "优设网",
-    "Design Milk",
-    "CSS-Tricks",
     "Sidebar",
+    "Smashing Magazine",
+    "Design Milk",
+    "设计达人",
+    "NN/g (Nielsen Norman Group)",
+    "Awwwards",
     "A List Apart",
-    "NN/g (Nielsen Norman Group)"
+    "CSS-Tricks",
+    "优设网",
+    "UX Planet",
+    "UX Design CC"
   ],
-  "generated_at": "2025-10-14T07:17:44.861927",
+  "generated_at": "2025-10-14T12:49:34.059935",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 6,
+      "count": 8,
       "items": [
+        {
+          "title": "How to keep design strategic when you’re suddenly in a startup environment",
+          "url": "https://uxdesign.cc/how-to-keep-design-strategic-when-youre-suddenly-in-a-startup-environment-c0b27ae793e4?source=rss----138adf9c44c---4",
+          "author": "Kai Wong",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "When your company shrinks back to startup size, how can you adapt?Continue reading on UX Collective »",
+          "published_at": "2025-10-14T11:27:39"
+        },
+        {
+          "title": "It’s not you, it’s hierarchy",
+          "url": "https://uxdesign.cc/its-not-you-it-s-hierarchy-47b44e18e8d4?source=rss----138adf9c44c---4",
+          "author": "Ben Hickman",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How I demoted my tree diagrams.Image AI Generated (Midjourney)It’s 9:03 a.m. I join a Zoom meeting titled “Team Structure Alignment — Attendance Required,” the type of meeting title commonly reserved ...",
+          "published_at": "2025-10-14T11:25:41"
+        },
         {
           "title": "Butterfly effect, nostalgia in UX, a framework for emotions, privacy with smart glasses",
           "url": "https://uxdesign.cc/butterfly-effect-nostalgia-in-ux-a-framework-for-emotions-privacy-with-smart-glasses-1df5f096a8c9?source=rss----138adf9c44c---4",
@@ -78,11 +96,20 @@
     },
     {
       "category": "用户体验研究",
-      "count": 5,
+      "count": 6,
       "items": [
         {
           "title": "Liquid Glass Is Cracked, and Usability Suffers in iOS 26",
           "url": "https://www.nngroup.com/articles/liquid-glass/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Stop Misrecruits: Add Foils to Your Screener",
+          "url": "https://www.nngroup.com/articles/screener-foils/",
           "author": null,
           "category": "用户体验研究",
           "source": "NN/g (Nielsen Norman Group)",
@@ -372,52 +399,43 @@
     },
     {
       "category": "设计资讯",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "Dovetail has redefined how product teams act on customer feedback",
-          "url": "https://dvtl.link/3KZr16J",
+          "title": "A data love letter to the Subway",
+          "url": "https://www.pentagram.com/work/a-data-love-letter-to-the-subway",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Their new customer intelligence platform connects feedback, design, and development, so you can turn signals into shipped products.",
-          "published_at": "2025-10-13T11:50:00"
+          "summary": "A data-driven animation for Fulton Center commissioned by MTA Arts & Design for its 40th anniversary.",
+          "published_at": "2025-10-14T11:39:21"
         },
         {
-          "title": "Designers have to move from the surface to the substrate",
-          "url": "https://www.suffsyed.com/futurememo/designers-have-to-move-from-the-surface-to-the-substrate",
+          "title": "Cyborgs vs rooms: two visions for the future of computing",
+          "url": "https://interconnected.org/home/2025/10/13/dichotomy",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Designers once controlled 85% of UX through UI and interactions. Now, with intelligence moving beneath the surface, that control has collapsed to 5%.",
-          "published_at": "2025-10-13T11:49:37"
+          "summary": "Loosely there are two visions for the future of how we interact with computers.",
+          "published_at": "2025-10-14T11:38:49"
         },
         {
-          "title": "Space exploration logo archive",
-          "url": "https://spaceexplorationlogoarchive.webflow.io/",
+          "title": "When to use Modal vs Dialog components",
+          "url": "https://www.a11y-collective.com/blog/modal-vs-dialog/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "More than 80 years of works and includes the most iconic and noteworthy logos related to the world of Space Exploration.",
-          "published_at": "2025-10-13T11:48:33"
+          "summary": "Implementation patterns, accessibility guidelines, and best practices for creating user-friendly interfaces.",
+          "published_at": "2025-10-14T11:37:48"
         },
         {
-          "title": "Stop misrecruits: Add foils to your screener",
-          "url": "https://www.nngroup.com/articles/screener-foils/",
+          "title": "The worst designer I’ve ever worked with was also the most productive",
+          "url": "https://renderghost.leaflet.pub/3m2qmhm7kcc2l",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Foils are fake (but plausible) options in screeners that catch inattentive or dishonest participants, protecting data quality and saving time.",
-          "published_at": "2025-10-13T11:47:27"
-        },
-        {
-          "title": "A guide to creating accessible PDFs",
-          "url": "https://piccalil.li/blog/a-guide-to-creating-accessible-pdfs-using-free-tools/",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "Make PDFs accessible without having to fork out for Adobe Acrobat Pro.",
-          "published_at": "2025-10-13T11:46:48"
+          "summary": "When companies mistake volume for value, and incentivize outputs over outcomes.",
+          "published_at": "2025-10-14T11:37:13"
         }
       ]
     },
@@ -425,6 +443,15 @@
       "category": "设计资源",
       "count": 5,
       "items": [
+        {
+          "title": "只会线性渐变？12种渐变效果和名称",
+          "url": "https://www.shejidaren.com/zhi-hui-xian-xing-jian-bian-12-zhong-jian-bian-xiao-guo-he.html",
+          "author": null,
+          "category": "设计资源",
+          "source": "设计达人",
+          "summary": null,
+          "published_at": null
+        },
         {
           "title": "腾讯QQ品牌VI系统PDF",
           "url": "https://www.shejidaren.com/teng-xun-qq-pin-pai-vi-xi-tong-pdf.html",
@@ -455,15 +482,6 @@
         {
           "title": "99% 的人还在靠工资攒钱？这本书直接颠覆我的财富观！《百万富翁快车道》",
           "url": "https://www.shejidaren.com/bai-wan-fu-weng-kuai-che-dao.html",
-          "author": null,
-          "category": "设计资源",
-          "source": "设计达人",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "小丸工具箱-免费音视频压缩工具，B 站 UP 主都在用！",
-          "url": "https://www.shejidaren.com/xiao-wan-gong-ju-xiang.html",
           "author": null,
           "category": "设计资源",
           "source": "设计达人",
