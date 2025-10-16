@@ -2,20 +2,20 @@
   "date": "2025-10-16T00:00:00",
   "total_items": 64,
   "sources": [
-    "NN/g (Nielsen Norman Group)",
     "A List Apart",
-    "Intercom Blog",
+    "UX Planet",
+    "Awwwards",
     "Design Milk",
-    "优设网",
+    "Intercom Blog",
+    "CSS-Tricks",
     "Sidebar",
     "设计达人",
-    "Awwwards",
-    "CSS-Tricks",
+    "Smashing Magazine",
     "UX Design CC",
-    "UX Planet",
-    "Smashing Magazine"
+    "NN/g (Nielsen Norman Group)",
+    "优设网"
   ],
-  "generated_at": "2025-10-16T03:16:00.069112",
+  "generated_at": "2025-10-16T12:49:06.258269",
   "categories": [
     {
       "category": "用户体验设计",
@@ -382,6 +382,15 @@
           "published_at": null
         },
         {
+          "title": "Gen-02 SMSY Portfolio",
+          "url": "https://www.awwwards.com/sites/gen-02-smsy-portfolio",
+          "author": "Samuel Honigstein",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Working Stiff Films",
           "url": "https://www.awwwards.com/sites/working-stiff-films",
           "author": "Buzzworthy",
@@ -439,15 +448,6 @@
           "title": "Silver Pinewood Residences",
           "url": "https://www.awwwards.com/sites/silver-pinewood-residences",
           "author": "Vide Infra",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Mammoth Murals",
-          "url": "https://www.awwwards.com/sites/mammoth-murals",
-          "author": "Huy Nguyen",
           "category": "网页设计",
           "source": "Awwwards",
           "summary": null,
@@ -520,49 +520,49 @@
       "count": 5,
       "items": [
         {
-          "title": "The “£532,000” dot job",
-          "url": "https://uxdesign.cc/the-532-000-dot-job-why-small-design-changes-cost-big-2fbd2b44fd89?sk=74d05da8aad7008f8d7c1ca66121a5e9",
+          "title": "Why is everything so scalable?",
+          "url": "https://www.stavros.io/posts/why-is-everything-so-scalable/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Why did a tiny logo change cost GOV.UK so much?",
-          "published_at": "2025-10-15T11:46:14"
+          "summary": "We’ve been in “FAANG architecture by default” hell for a while now.",
+          "published_at": "2025-10-16T11:59:12"
         },
         {
-          "title": "Inclusive design principles",
-          "url": "https://inclusivedesignprinciples.info/",
+          "title": "Fluid type scale generator",
+          "url": "https://sizematters.netlify.app/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Designing for the needs of people with permanent, temporary, situational, or changing disabilities — all of us really.",
-          "published_at": "2025-10-15T11:45:29"
+          "summary": "Generate responsive type scales with CSS clamp() values—fluid typography that scales beautifully across all devices.",
+          "published_at": "2025-10-16T11:57:45"
         },
         {
-          "title": "Choosing friction",
-          "url": "https://phirephoenix.com/blog/2025-10-11/friction",
+          "title": "Software can be finished",
+          "url": "https://rosswintle.uk/2025/10/software-can-be-finished/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Convenience is all destination and no journey.",
-          "published_at": "2025-10-15T11:44:58"
+          "summary": "You probably don’t want to build “finished software”. But what can we learn by thinking about it as a concept?",
+          "published_at": "2025-10-16T11:57:05"
         },
         {
-          "title": "Compressed fluid typography",
-          "url": "https://matthiasott.com/notes/compressed-fluid-typography",
+          "title": "How AI hears accents",
+          "url": "https://accent-explorer.boldvoice.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Giving up control over how large your typography is on a particular screen.",
-          "published_at": "2025-10-15T11:44:27"
+          "summary": "How models cluster accents, dialects, native languages, and language families—all in a 3D latent visualization.",
+          "published_at": "2025-10-16T11:56:17"
         },
         {
-          "title": "When I say “alphabetical order”, I mean “alphabetical order”",
-          "url": "https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/",
+          "title": "State of Spotify web API report 2025",
+          "url": "https://spotifyapi.report/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Maybe Microsoft and Google got this wrong. But that seems unlikely.",
-          "published_at": "2025-10-15T11:43:23"
+          "summary": "Understanding Spotify’s new API restrictions and finding practical alternatives.",
+          "published_at": "2025-10-16T11:54:37"
         }
       ]
     },
