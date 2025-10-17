@@ -2,20 +2,20 @@
   "date": "2025-10-17T00:00:00",
   "total_items": 62,
   "sources": [
-    "Design Milk",
-    "Smashing Magazine",
     "UX Planet",
-    "Awwwards",
-    "CSS-Tricks",
-    "UX Design CC",
-    "优设网",
-    "A List Apart",
     "Intercom Blog",
+    "Design Milk",
+    "Awwwards",
     "设计达人",
+    "优设网",
     "Sidebar",
-    "NN/g (Nielsen Norman Group)"
+    "CSS-Tricks",
+    "NN/g (Nielsen Norman Group)",
+    "A List Apart",
+    "Smashing Magazine",
+    "UX Design CC"
   ],
-  "generated_at": "2025-10-17T01:57:55.892522",
+  "generated_at": "2025-10-17T12:46:50.160387",
   "categories": [
     {
       "category": "用户体验设计",
@@ -103,6 +103,15 @@
           "published_at": "2025-10-14T11:25:41"
         },
         {
+          "title": "The curse of modern AI tools",
+          "url": "https://uxplanet.org/the-curse-of-modern-ai-tools-b21fc5b20f9a?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Too much freedom, too little controlHave you noticed that all popular AI tools look the same? They offer you an input field and invite you to express your intention. Take ChatGPT, for example. It’s ba...",
+          "published_at": "2025-10-17T11:41:00"
+        },
+        {
           "title": "Claude For Code: How to use Claude to Streamline Product Design Process",
           "url": "https://uxplanet.org/claude-for-code-how-to-use-claude-to-streamline-product-design-process-97d4e4c43ca4?source=rss----819cc2aaeee0---4",
           "author": "Nick Babich",
@@ -164,15 +173,6 @@
           "source": "UX Planet",
           "summary": "A UX breakdown using product KPIs and experience scoring to see which visual platform truly performs betterContinue reading on UX Planet »",
           "published_at": "2025-10-14T15:58:17"
-        },
-        {
-          "title": "Design ‘for’ AI, instead of ‘with’ AI",
-          "url": "https://uxplanet.org/designing-for-ai-c87eab5e6778?source=rss----819cc2aaeee0---4",
-          "author": "Mat Venn",
-          "category": "用户体验设计",
-          "source": "UX Planet",
-          "summary": "Instead of using AI to make stuff, make stuff for AI to useThis is the future of digital product designDesigning <with> AIIntegratingGenerative AIinto a design workflow and pipeline, is how most desig...",
-          "published_at": "2025-10-14T15:58:08"
         }
       ]
     },
@@ -373,6 +373,15 @@
           "published_at": null
         },
         {
+          "title": "Heimdall Power",
+          "url": "https://www.awwwards.com/sites/heimdall-power",
+          "author": "Refokus",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Gen-02 SMSY Portfolio",
           "url": "https://www.awwwards.com/sites/gen-02-smsy-portfolio",
           "author": "Samuel Honigstein",
@@ -430,15 +439,6 @@
           "title": "Layrid",
           "url": "https://www.awwwards.com/sites/layrid",
           "author": "Tomoya Okada",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Silver Pinewood Residences",
-          "url": "https://www.awwwards.com/sites/silver-pinewood-residences",
-          "author": "Vide Infra",
           "category": "网页设计",
           "source": "Awwwards",
           "summary": null,
@@ -511,49 +511,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Why is everything so scalable?",
-          "url": "https://www.stavros.io/posts/why-is-everything-so-scalable/",
+          "title": "Management values I didn’t expect to learn",
+          "url": "https://uxdesign.cc/management-values-i-didnt-expect-to-learn-7c998c017602",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "We’ve been in “FAANG architecture by default” hell for a while now.",
-          "published_at": "2025-10-16T11:59:12"
+          "summary": "Why design management is harder (and better) than we think.",
+          "published_at": "2025-10-17T12:10:31"
         },
         {
-          "title": "Fluid type scale generator",
-          "url": "https://sizematters.netlify.app/",
+          "title": "Neumorphism generator",
+          "url": "https://design.dev/tools/neumorphism/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Generate responsive type scales with CSS clamp() values—fluid typography that scales beautifully across all devices.",
-          "published_at": "2025-10-16T11:57:45"
+          "summary": "Generate box-shadow, border-radius, and background code for neumorphic designs.",
+          "published_at": "2025-10-17T12:10:00"
         },
         {
-          "title": "Software can be finished",
-          "url": "https://rosswintle.uk/2025/10/software-can-be-finished/",
+          "title": "Most of what we call progress",
+          "url": "https://yusufaytas.com/most-of-what-we-call-progress/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "You probably don’t want to build “finished software”. But what can we learn by thinking about it as a concept?",
-          "published_at": "2025-10-16T11:57:05"
+          "summary": "Reflections on why good judgment outlasts tools, and simplicity always wins.",
+          "published_at": "2025-10-17T12:09:12"
         },
         {
-          "title": "How AI hears accents",
-          "url": "https://accent-explorer.boldvoice.com/",
+          "title": "Case study: Fellowkids",
+          "url": "https://www.studio-kiln.com/project/fellowkids",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How models cluster accents, dialects, native languages, and language families—all in a 3D latent visualization.",
-          "published_at": "2025-10-16T11:56:17"
+          "summary": "Defining a brand that doesn’t just speak to fans but behaves like one: emotional, expressive and ever-evolving.",
+          "published_at": "2025-10-17T12:08:04"
         },
         {
-          "title": "State of Spotify web API report 2025",
-          "url": "https://spotifyapi.report/",
+          "title": "You still need to think",
+          "url": "https://calv.info/you-still-need-to-think",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Understanding Spotify’s new API restrictions and finding practical alternatives.",
-          "published_at": "2025-10-16T11:54:37"
+          "summary": "With AI, someone still has to direct the work—set goals, choose constraints, and judge outputs.",
+          "published_at": "2025-10-17T12:07:23"
         }
       ]
     },
