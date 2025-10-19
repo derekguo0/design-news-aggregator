@@ -1,24 +1,43 @@
 {
   "date": "2025-10-19T00:00:00",
-  "total_items": 43,
+  "total_items": 51,
   "sources": [
-    "Sidebar",
+    "NN/g (Nielsen Norman Group)",
     "Smashing Magazine",
+    "Sidebar",
+    "Awwwards",
     "UX Design CC",
     "UX Planet",
+    "设计达人",
     "Design Milk",
-    "Intercom Blog",
     "A List Apart",
-    "NN/g (Nielsen Norman Group)",
-    "Awwwards",
-    "设计达人"
+    "优设网",
+    "Intercom Blog"
   ],
-  "generated_at": "2025-10-19T01:55:32.183066",
+  "generated_at": "2025-10-19T12:41:03.056786",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 4,
+      "count": 6,
       "items": [
+        {
+          "title": "The writing is the design",
+          "url": "https://uxdesign.cc/the-writing-is-the-design-a8ccde162d35?source=rss----138adf9c44c---4",
+          "author": "Oluwatosin Obalana",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "AI can generate text, but only a designer can generate strategy, empathy, and safety.Imagine a neighborhood with no sidewalks or ramps. Someone using a wheelchair or a parent pushing a stroller is imm...",
+          "published_at": "2025-10-19T12:23:47"
+        },
+        {
+          "title": "The AI concept that changed our company’s way of working",
+          "url": "https://uxdesign.cc/the-ai-concept-that-changed-our-companys-way-of-working-22f64e1bc59a?source=rss----138adf9c44c---4",
+          "author": "Kike Peña",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "We changed our design mindset. We transitioned from building all the interfaces and prototypes to allowing others to develop their ideas in a safe place, following our design and product rules.Since w...",
+          "published_at": "2025-10-19T12:19:25"
+        },
         {
           "title": "The carbon score: Environmental stewardship or selling virtue as a commodity?",
           "url": "https://uxdesign.cc/the-carbon-score-environmental-stewardship-or-selling-virtue-as-a-commodity-907333f2afcd?source=rss----138adf9c44c---4",
@@ -263,6 +282,15 @@
           "published_at": null
         },
         {
+          "title": "Flabbergast Agency",
+          "url": "https://www.awwwards.com/sites/flabbergast-agency",
+          "author": "Flabbergast",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "LaCrapule Studio",
           "url": "https://www.awwwards.com/sites/lacrapule-studio",
           "author": "Amine Zegmou",
@@ -324,13 +352,64 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
+        }
+      ]
+    },
+    {
+      "category": "设计教程",
+      "count": 6,
+      "items": [
+        {
+          "title": "知识点+实操案例！教你用Figma画出3D质感UI",
+          "url": "https://www.uisdc.com/figma-3d-ui-2",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
         },
         {
-          "title": "Jonite",
-          "url": "https://www.awwwards.com/sites/jonite",
-          "author": "serieseight",
-          "category": "网页设计",
-          "source": "Awwwards",
+          "title": "想找优雅个性的衬线字体？试试这款免费的Chintzy",
+          "url": "https://www.uisdc.com/chintzy",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "掌握这个高效正确的学习思路，让你7天速通Figma",
+          "url": "https://www.uisdc.com/figma-5",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "6秒视频10秒生成！全新AI视频神器 Grok Imagine 深度体验+元提示词分享",
+          "url": "https://www.uisdc.com/grok-imagine",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "品牌设计师必看！58同城重磅发布品牌手册！",
+          "url": "https://www.uisdc.com/brand-guidelines-58",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Windows更新并关机变重启！微软2年Bug暴露的用户体验盲区",
+          "url": "https://www.uisdc.com/hunter/0221646207.html",
+          "author": "龙爪槐守望者",
+          "category": "设计教程",
+          "source": "优设网",
           "summary": null,
           "published_at": null
         }
