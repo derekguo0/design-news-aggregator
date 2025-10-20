@@ -1,25 +1,52 @@
 {
   "date": "2025-10-20T00:00:00",
-  "total_items": 45,
+  "total_items": 48,
   "sources": [
-    "Sidebar",
-    "UX Design CC",
-    "设计达人",
-    "Design Milk",
-    "Awwwards",
     "UX Planet",
-    "NN/g (Nielsen Norman Group)",
-    "优设网",
-    "Smashing Magazine",
+    "Awwwards",
     "A List Apart",
-    "Intercom Blog"
+    "Sidebar",
+    "优设网",
+    "Intercom Blog",
+    "NN/g (Nielsen Norman Group)",
+    "UX Design CC",
+    "Design Milk",
+    "设计达人",
+    "Smashing Magazine"
   ],
-  "generated_at": "2025-10-20T03:25:07.675875",
+  "generated_at": "2025-10-20T12:48:16.625942",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 4,
+      "count": 7,
       "items": [
+        {
+          "title": "Writing for AI, X-shaped designers, the lies we tell ourselves",
+          "url": "https://uxdesign.cc/writing-for-ai-x-shaped-designers-the-lies-we-tell-ourselves-05521c34c10d?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“Maybe you’ve gotten comfortable writing prompts or using simple one-click tools. But as AI interfaces start to take different forms, many ...",
+          "published_at": "2025-10-20T11:21:49"
+        },
+        {
+          "title": "When innovation deceives: Escaping the value mirage",
+          "url": "https://uxdesign.cc/when-innovation-deceives-escaping-the-value-mirage-bcbf5511aecf?source=rss----138adf9c44c---4",
+          "author": "Ian Batterbee",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "What financial crashes and design failures reveal, and how to stop chasing the wrong kind of value.Continue reading on UX Collective »",
+          "published_at": "2025-10-20T11:17:15"
+        },
+        {
+          "title": "The secret life of prototypes",
+          "url": "https://uxdesign.cc/the-secret-life-of-prototypes-a81abcdd6eda?source=rss----138adf9c44c---4",
+          "author": "Elaine",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Prototypes aren’t deliverables, they’re influencers. AI changes how prototypes are used, but with these caveats.Continue reading on UX Collective »",
+          "published_at": "2025-10-20T11:13:59"
+        },
         {
           "title": "The writing is the design",
           "url": "https://uxdesign.cc/the-writing-is-the-design-a8ccde162d35?source=rss----138adf9c44c---4",
@@ -228,6 +255,15 @@
           "published_at": null
         },
         {
+          "title": "100 Lost Species",
+          "url": "https://www.awwwards.com/sites/100-lost-species",
+          "author": "Immersive Garden",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Flabbergast Agency",
           "url": "https://www.awwwards.com/sites/flabbergast-agency",
           "author": "Flabbergast",
@@ -285,15 +321,6 @@
           "title": "Up&Up",
           "url": "https://www.awwwards.com/sites/up-up",
           "author": "Malvah",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "CHEW PRODUCTIONS",
-          "url": "https://www.awwwards.com/sites/chew-productions",
-          "author": "BASEBORN",
           "category": "网页设计",
           "source": "Awwwards",
           "summary": null,
@@ -366,49 +393,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Management values I didn’t expect to learn",
-          "url": "https://uxdesign.cc/management-values-i-didnt-expect-to-learn-7c998c017602",
+          "title": "Why your boss isn’t worried about AI",
+          "url": "https://boydkane.com/essays/boss",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Why design management is harder (and better) than we think.",
-          "published_at": "2025-10-17T12:10:31"
+          "summary": "When it comes to understanding the dangers of AI systems, the general public has the worst kind of knowledge.",
+          "published_at": "2025-10-20T11:37:00"
         },
         {
-          "title": "Neumorphism generator",
-          "url": "https://design.dev/tools/neumorphism/",
+          "title": "How to approach privacy in the age of smart glasses",
+          "url": "https://uxdesign.cc/how-to-approach-privacy-in-the-age-of-smart-glasses-bb8ff360157a?sk=aa431ea5f4a635e1b1e5c66704e9de8e",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Generate box-shadow, border-radius, and background code for neumorphic designs.",
-          "published_at": "2025-10-17T12:10:00"
+          "summary": "Smart glasses present new opportunities for scammers, perverts, and cheaters.",
+          "published_at": "2025-10-20T11:35:33"
         },
         {
-          "title": "Most of what we call progress",
-          "url": "https://yusufaytas.com/most-of-what-we-call-progress/",
+          "title": "Writing alt text with AI",
+          "url": "https://jaredcunha.com/blog/writing-alt-text-with-ai",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Reflections on why good judgment outlasts tools, and simplicity always wins.",
-          "published_at": "2025-10-17T12:09:12"
+          "summary": "LLMs can lower the burden of writing useful alt text for images, with the right prompting.",
+          "published_at": "2025-10-20T11:34:44"
         },
         {
-          "title": "Case study: Fellowkids",
-          "url": "https://www.studio-kiln.com/project/fellowkids",
+          "title": "The design space of AI coding tools",
+          "url": "https://austinhenley.com/blog/aidesignspace.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Defining a brand that doesn’t just speak to fans but behaves like one: emotional, expressive and ever-evolving.",
-          "published_at": "2025-10-17T12:08:04"
+          "summary": "10 design dimensions based on 90 AI coding tools.",
+          "published_at": "2025-10-20T11:34:21"
         },
         {
-          "title": "You still need to think",
-          "url": "https://calv.info/you-still-need-to-think",
+          "title": "If print is not dead, who’s keeping it alive?",
+          "url": "https://www.itsnicethat.com/features/if-print-is-not-dead-whos-keeping-it-alive-creative-industry-141025",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "With AI, someone still has to direct the work—set goals, choose constraints, and judge outputs.",
-          "published_at": "2025-10-17T12:07:23"
+          "summary": "Some of the people crafting our tangible visual worlds about what the next generation of printmaking might look like… and if there is one.",
+          "published_at": "2025-10-20T11:34:01"
         }
       ]
     },
@@ -416,6 +443,15 @@
       "category": "设计资源",
       "count": 5,
       "items": [
+        {
+          "title": "如何让海报中的日期排版更好看、更高级？",
+          "url": "https://www.shejidaren.com/ru-he-rang-hai-bao-zhong-de-ri-qi-pai-ban-geng-hao-kan.html",
+          "author": null,
+          "category": "设计资源",
+          "source": "设计达人",
+          "summary": null,
+          "published_at": null
+        },
         {
           "title": "纳瓦尔：戒掉游戏的终极答案，不是靠意志力（游戏、大牌、刷视频也是如此）",
           "url": "https://www.shejidaren.com/na-wa-er-jie-diao-you-xi-de-zhong-ji-da-an-bu-shi-kao-yi.html",
@@ -446,15 +482,6 @@
         {
           "title": "腾讯QQ品牌VI系统PDF",
           "url": "https://www.shejidaren.com/teng-xun-qq-pin-pai-vi-xi-tong-pdf.html",
-          "author": null,
-          "category": "设计资源",
-          "source": "设计达人",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "illustrator设计文字投影海报教程",
-          "url": "https://www.shejidaren.com/illustrator-wen-zi-tou-ying-jiao-cheng.html",
           "author": null,
           "category": "设计资源",
           "source": "设计达人",
