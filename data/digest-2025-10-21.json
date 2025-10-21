@@ -1,23 +1,32 @@
 {
   "date": "2025-10-21T00:00:00",
-  "total_items": 46,
+  "total_items": 47,
   "sources": [
     "优设网",
-    "NN/g (Nielsen Norman Group)",
-    "Awwwards",
-    "CSS-Tricks",
-    "A List Apart",
     "Sidebar",
-    "UX Design CC",
+    "CSS-Tricks",
+    "NN/g (Nielsen Norman Group)",
+    "A List Apart",
+    "Awwwards",
     "Design Milk",
+    "UX Design CC",
     "设计达人"
   ],
-  "generated_at": "2025-10-21T01:46:45.350607",
+  "generated_at": "2025-10-21T12:49:49.082934",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 5,
+      "count": 6,
       "items": [
+        {
+          "title": "Designers often do invisible work that matters. Here’s how to show it",
+          "url": "https://uxdesign.cc/designers-often-do-invisible-work-that-matters-heres-how-to-show-it-f446c182d6a2?source=rss----138adf9c44c---4",
+          "author": "Kai Wong",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "What matters in an AI-integrated UX department? Highlighting invisible workContinue reading on UX Collective »",
+          "published_at": "2025-10-21T11:29:18"
+        },
         {
           "title": "Writing for AI, X-shaped designers, the lies we tell ourselves",
           "url": "https://uxdesign.cc/writing-for-ai-x-shaped-designers-the-lies-we-tell-ourselves-05521c34c10d?source=rss----138adf9c44c---4",
@@ -226,6 +235,15 @@
           "published_at": null
         },
         {
+          "title": "RELATS",
+          "url": "https://www.awwwards.com/sites/relats",
+          "author": "Firma",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "100 Lost Species",
           "url": "https://www.awwwards.com/sites/100-lost-species",
           "author": "Immersive Garden",
@@ -283,15 +301,6 @@
           "title": "Ink Games",
           "url": "https://www.awwwards.com/sites/ink-games",
           "author": "ToyFight",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Up&Up",
-          "url": "https://www.awwwards.com/sites/up-up",
-          "author": "Malvah",
           "category": "网页设计",
           "source": "Awwwards",
           "summary": null,
@@ -364,49 +373,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Why your boss isn’t worried about AI",
-          "url": "https://boydkane.com/essays/boss",
+          "title": "The accountability problem",
+          "url": "https://www.jamesshore.com/v2/blog/2025/the-accountability-problem",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "When it comes to understanding the dangers of AI systems, the general public has the worst kind of knowledge.",
-          "published_at": "2025-10-20T11:37:00"
+          "summary": "How do we define software department accountability so our business partners don’t do it for us?",
+          "published_at": "2025-10-21T11:42:35"
         },
         {
-          "title": "How to approach privacy in the age of smart glasses",
-          "url": "https://uxdesign.cc/how-to-approach-privacy-in-the-age-of-smart-glasses-bb8ff360157a?sk=aa431ea5f4a635e1b1e5c66704e9de8e",
+          "title": "How did the world get so ugly?",
+          "url": "https://www.youtube.com/watch?v=tWYxrowovts",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Smart glasses present new opportunities for scammers, perverts, and cheaters.",
-          "published_at": "2025-10-20T11:35:33"
+          "summary": "Look at the objects around you: furniture, cars, doors, bins, staircases, railings, doorbells, doorhandles. Do you like how they look, or not?",
+          "published_at": "2025-10-21T11:41:57"
         },
         {
-          "title": "Writing alt text with AI",
-          "url": "https://jaredcunha.com/blog/writing-alt-text-with-ai",
+          "title": "Navbar gallery",
+          "url": "https://www.navbar.gallery/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "LLMs can lower the burden of writing useful alt text for images, with the right prompting.",
-          "published_at": "2025-10-20T11:34:44"
+          "summary": "A collection of the best website navbar inspiration designs on the web.",
+          "published_at": "2025-10-21T11:40:59"
         },
         {
-          "title": "The design space of AI coding tools",
-          "url": "https://austinhenley.com/blog/aidesignspace.html",
+          "title": "The inevitability of anger",
+          "url": "https://www.baldurbjarnason.com/2025/the-inevitability-of-anger/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "10 design dimensions based on 90 AI coding tools.",
-          "published_at": "2025-10-20T11:34:21"
+          "summary": "Maturity means emotional regulation – not absence or denial of emotion, but regulation.",
+          "published_at": "2025-10-21T11:40:23"
         },
         {
-          "title": "If print is not dead, who’s keeping it alive?",
-          "url": "https://www.itsnicethat.com/features/if-print-is-not-dead-whos-keeping-it-alive-creative-industry-141025",
+          "title": "Alienation by design",
+          "url": "https://nathanbeck.eu/essays/alienation-by-design/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Some of the people crafting our tangible visual worlds about what the next generation of printmaking might look like… and if there is one.",
-          "published_at": "2025-10-20T11:34:01"
+          "summary": "When design to reduce friction risks eroding human connection.",
+          "published_at": "2025-10-21T11:39:12"
         }
       ]
     },
