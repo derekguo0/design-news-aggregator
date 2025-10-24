@@ -1,26 +1,35 @@
 {
   "date": "2025-10-24T00:00:00",
-  "total_items": 57,
+  "total_items": 59,
   "sources": [
-    "CSS-Tricks",
-    "优设网",
-    "UX Design CC",
     "A List Apart",
-    "设计达人",
-    "NN/g (Nielsen Norman Group)",
-    "Awwwards",
-    "Smashing Magazine",
     "UX Planet",
-    "Intercom Blog",
+    "UX Design CC",
     "Design Milk",
-    "Sidebar"
+    "设计达人",
+    "Awwwards",
+    "NN/g (Nielsen Norman Group)",
+    "Smashing Magazine",
+    "CSS-Tricks",
+    "Sidebar",
+    "Intercom Blog",
+    "优设网"
   ],
-  "generated_at": "2025-10-24T03:25:33.577246",
+  "generated_at": "2025-10-24T12:49:20.492097",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 13,
+      "count": 14,
       "items": [
+        {
+          "title": "Spotify has an AI problem",
+          "url": "https://uxdesign.cc/spotify-has-an-ai-problem-a4d6729c715b?source=rss----138adf9c44c---4",
+          "author": "Allan MacDonald",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Beneath Spotify’s algorithmic charm lies a growing problem: a platform flooded with songs made by no one.Image of a robot singing and playing GuitarMusic has always been important in my household, I h...",
+          "published_at": "2025-10-24T11:16:17"
+        },
         {
           "title": "Making medical appointments this month made me miss phone trees.",
           "url": "https://uxdesign.cc/making-medical-appointments-this-month-made-me-miss-phone-trees-e1bc3757e505?source=rss----138adf9c44c---4",
@@ -36,7 +45,7 @@
           "author": "Mark Raja",
           "category": "用户体验设计",
           "source": "UX Design CC",
-          "summary": "Prioritise meaning over features.We, human beings, are fundamentally narrative creatures. We all need a story to live, our brains are wired to make sense of our world and ourselves through stories. Fr...",
+          "summary": "Prioritise meaning over features.Apple’s Think Different narrative ad, © Apple IncWe, human beings, are fundamentally narrative creatures. We all need a story to live, our brains are wired to make sen...",
           "published_at": "2025-10-23T22:44:04"
         },
         {
@@ -337,6 +346,15 @@
           "published_at": null
         },
         {
+          "title": "Anuc Home",
+          "url": "https://www.awwwards.com/sites/anuc-home",
+          "author": "Edoardo Lunardi",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Won J. You Studios",
           "url": "https://www.awwwards.com/sites/won-j-you-studios-2",
           "author": "Huy Phan",
@@ -398,15 +416,6 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Gen-02 SMSY Portfolio",
-          "url": "https://www.awwwards.com/sites/gen-02-smsy-portfolio",
-          "author": "Samuel Honigstein",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -460,9 +469,9 @@
           "published_at": null
         },
         {
-          "title": "原来ChatGPT Atlas是靠贴纸设计来提升用户归属感的",
-          "url": "https://www.uisdc.com/hunter/0221646650.html",
-          "author": "龙爪槐守望者",
+          "title": "从美团医保支付学习如何简化用户的决策成本",
+          "url": "https://www.uisdc.com/hunter/0221646884.html",
+          "author": "要爆炸的张老三",
           "category": "设计教程",
           "source": "优设网",
           "summary": null,
@@ -472,43 +481,52 @@
     },
     {
       "category": "设计资讯",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Beyond the machine",
-          "url": "https://frankchimero.com/blog/2025/beyond-the-machine/",
+          "title": "Tackling common UX hurdles with AI",
+          "url": "https://www.lukew.com/ff/entry.asp?2132",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Frank Chimero is back again with one of the most spectactular pieces of design writing I've read in a while.",
-          "published_at": "2025-10-23T11:59:36"
+          "summary": "Some UX issues have been with us so long that we stopped thinking we could do better.",
+          "published_at": "2025-10-24T11:32:18"
         },
         {
-          "title": "52 weeks of obsessions",
-          "url": "https://www.thomasmoes.com/52obsessions",
+          "title": "Designing software for things that rot",
+          "url": "https://drobinin.com/posts/designing-software-for-things-that-rot/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A tiny corner of the internet to reclaim creativity & curiosity. New obsession every week.",
-          "published_at": "2025-10-23T11:58:22"
+          "summary": "Why building for rot is nothing like building happy-path apps.",
+          "published_at": "2025-10-24T11:31:49"
         },
         {
-          "title": "Android Watch: face designer playground",
-          "url": "https://www.figma.com/community/file/1542310713286658132/watch-face-designer-playground",
+          "title": "Measuring engineering productivity",
+          "url": "https://justoffbyone.com/posts/measuring-engineering-productivity/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Contains examples and components to use with the Watch Face Designer.",
-          "published_at": "2025-10-23T11:57:44"
+          "summary": "A lightweight system for measuring engineering productivity that puts the overhead on managers, not engineers.",
+          "published_at": "2025-10-24T11:30:56"
         },
         {
-          "title": "The continual learning problem",
-          "url": "https://jessylin.com/2025/10/20/continual-learning/",
+          "title": "ChatGPT’s Atlas: the browser that’s anti-web",
+          "url": "https://www.anildash.com//2025/10/22/atlas-anti-web-browser/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How do we keep updating the parameters of a model without breaking it?",
-          "published_at": "2025-10-23T11:56:33"
+          "summary": "Dangers from an anti-web browser made by an AI company—one that probably needs a warning label when you install it.",
+          "published_at": "2025-10-24T11:30:18"
+        },
+        {
+          "title": "Archive — Pentagram",
+          "url": "https://www.pentagram.com/archive",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "50 years of design work condensed into an immersive exploration.",
+          "published_at": "2025-10-24T11:28:53"
         }
       ]
     },
@@ -516,6 +534,15 @@
       "category": "设计资源",
       "count": 5,
       "items": [
+        {
+          "title": "5000字拆解小猿AI APP的12种练习题设计",
+          "url": "https://www.shejidaren.com/chai-jie-xiao-yuan-ai.html",
+          "author": null,
+          "category": "设计资源",
+          "source": "设计达人",
+          "summary": null,
+          "published_at": null
+        },
         {
           "title": "如何让海报中的日期排版更好看、更高级？",
           "url": "https://www.shejidaren.com/ru-he-rang-hai-bao-zhong-de-ri-qi-pai-ban-geng-hao-kan.html",
@@ -546,15 +573,6 @@
         {
           "title": "只会线性渐变？12种渐变效果和名称",
           "url": "https://www.shejidaren.com/zhi-hui-xian-xing-jian-bian-12-zhong-jian-bian-xiao-guo-he.html",
-          "author": null,
-          "category": "设计资源",
-          "source": "设计达人",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "腾讯QQ品牌VI系统PDF",
-          "url": "https://www.shejidaren.com/teng-xun-qq-pin-pai-vi-xi-tong-pdf.html",
           "author": null,
           "category": "设计资源",
           "source": "设计达人",
