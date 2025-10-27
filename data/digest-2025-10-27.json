@@ -1,17 +1,18 @@
 {
   "date": "2025-10-27T00:00:00",
-  "total_items": 37,
+  "total_items": 45,
   "sources": [
     "CSS-Tricks",
-    "A List Apart",
-    "NN/g (Nielsen Norman Group)",
-    "Sidebar",
-    "设计达人",
     "UX Design CC",
     "Design Milk",
-    "优设网"
+    "Sidebar",
+    "NN/g (Nielsen Norman Group)",
+    "优设网",
+    "设计达人",
+    "A List Apart",
+    "Awwwards"
   ],
-  "generated_at": "2025-10-27T01:56:17.360795",
+  "generated_at": "2025-10-27T06:09:37.806041",
   "categories": [
     {
       "category": "用户体验设计",
@@ -159,7 +160,7 @@
     },
     {
       "category": "网页设计",
-      "count": 6,
+      "count": 14,
       "items": [
         {
           "title": "Design for Amiability: Lessons from Vienna",
@@ -213,6 +214,78 @@
           "category": "网页设计",
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
+          "published_at": null
+        },
+        {
+          "title": "Untold",
+          "url": "https://www.awwwards.com/sites/untold-1",
+          "author": "/nk.studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Get Hyped",
+          "url": "https://www.awwwards.com/sites/get-hyped",
+          "author": "Dylan Brouwer",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "OVA investment",
+          "url": "https://www.awwwards.com/sites/ova-investment",
+          "author": "Thierry Chopain",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Anuc Home",
+          "url": "https://www.awwwards.com/sites/anuc-home",
+          "author": "Edoardo Lunardi",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Won J. You Studios",
+          "url": "https://www.awwwards.com/sites/won-j-you-studios-2",
+          "author": "Huy Phan",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Ponpon Mania",
+          "url": "https://www.awwwards.com/sites/ponpon-mania",
+          "author": "Patrick Heng",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "RELATS",
+          "url": "https://www.awwwards.com/sites/relats",
+          "author": "Firma",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "100 Lost Species",
+          "url": "https://www.awwwards.com/sites/100-lost-species",
+          "author": "Immersive Garden",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
           "published_at": null
         }
       ]
