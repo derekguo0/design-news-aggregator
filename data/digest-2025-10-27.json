@@ -1,23 +1,41 @@
 {
   "date": "2025-10-27T00:00:00",
-  "total_items": 45,
+  "total_items": 47,
   "sources": [
+    "优设网",
+    "NN/g (Nielsen Norman Group)",
+    "Awwwards",
     "CSS-Tricks",
-    "UX Design CC",
+    "A List Apart",
     "Design Milk",
     "Sidebar",
-    "NN/g (Nielsen Norman Group)",
-    "优设网",
-    "设计达人",
-    "A List Apart",
-    "Awwwards"
+    "UX Design CC",
+    "设计达人"
   ],
-  "generated_at": "2025-10-27T06:09:37.806041",
+  "generated_at": "2025-10-27T12:49:51.716829",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 5,
+      "count": 7,
       "items": [
+        {
+          "title": "Hey designer, do you know what you are doing?",
+          "url": "https://uxdesign.cc/hey-designer-do-you-know-what-you-are-doing-aaec674d5532?source=rss----138adf9c44c---4",
+          "author": "Filipe Nzongo",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How to build your design competence in the age of AI.Unlocking New Knowledge. Source: Filipe Nzongo (2025)Being a designer has always been synonymous with being creative, transforming abstract and com...",
+          "published_at": "2025-10-27T12:19:46"
+        },
+        {
+          "title": "AWS outage, writing is designing, the secret life of prototypes",
+          "url": "https://uxdesign.cc/aws-outage-writing-is-designing-the-secret-life-of-prototypes-2b7ad74ca787?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“AWS, often called the ‘backbone of the internet,’ supports essential tools like Slack, Zoom, and Office 365, as well as popular games like...",
+          "published_at": "2025-10-27T11:28:45"
+        },
         {
           "title": "The future of design rests on childlike ignorance",
           "url": "https://uxdesign.cc/the-future-of-design-rests-on-childlike-ignorance-9c41a4a51c14?source=rss----138adf9c44c---4",
@@ -355,49 +373,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Tackling common UX hurdles with AI",
-          "url": "https://www.lukew.com/ff/entry.asp?2132",
-          "author": null,
+          "title": "Move faster with Dovetail’s all-new AI tools and integrations",
+          "url": "https://dvtl.link/3KZr16J=",
+          "author": "@hidovetail",
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Some UX issues have been with us so long that we stopped thinking we could do better.",
-          "published_at": "2025-10-24T11:32:18"
+          "summary": "Spend less time chasing feedback and more time building. Explore what’s new in Dovetail’s Fall 2025 launch.",
+          "published_at": "2025-10-27T11:41:00"
         },
         {
-          "title": "Designing software for things that rot",
-          "url": "https://drobinin.com/posts/designing-software-for-things-that-rot/",
+          "title": "When design drives behavior",
+          "url": "https://world.hey.com/jason/when-design-drives-behavior-49baf157",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Why building for rot is nothing like building happy-path apps.",
-          "published_at": "2025-10-24T11:31:49"
+          "summary": "In some cases, design is what something looks like. In other cases, design is how it works. But the most interesting is when design changes behavior.",
+          "published_at": "2025-10-27T11:40:49"
         },
         {
-          "title": "Measuring engineering productivity",
-          "url": "https://justoffbyone.com/posts/measuring-engineering-productivity/",
+          "title": "Clues",
+          "url": "https://cluesbysam.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A lightweight system for measuring engineering productivity that puts the overhead on managers, not engineers.",
-          "published_at": "2025-10-24T11:30:56"
+          "summary": "A daily logic puzzle where you deduce who are criminals and who are innocent.",
+          "published_at": "2025-10-27T11:39:55"
         },
         {
-          "title": "ChatGPT’s Atlas: the browser that’s anti-web",
-          "url": "https://www.anildash.com//2025/10/22/atlas-anti-web-browser/",
+          "title": "Original work is now an endangered species",
+          "url": "https://www.trevorlasn.com/blog/original-work-is-now-an-endangered-species",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Dangers from an anti-web browser made by an AI company—one that probably needs a warning label when you install it.",
-          "published_at": "2025-10-24T11:30:18"
+          "summary": "When everything looks the same, being different becomes valuable again.",
+          "published_at": "2025-10-27T11:39:28"
         },
         {
-          "title": "Archive — Pentagram",
-          "url": "https://www.pentagram.com/archive",
+          "title": "Free web dev icons",
+          "url": "https://design.dev/free-icons/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "50 years of design work condensed into an immersive exploration.",
-          "published_at": "2025-10-24T11:28:53"
+          "summary": "Download free, customizable SVG icons. Change colors, download, or copy to clipboard. Perfect for web design & development projects.",
+          "published_at": "2025-10-27T11:38:50"
         }
       ]
     },
