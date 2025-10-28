@@ -1,24 +1,42 @@
 {
   "date": "2025-10-28T00:00:00",
-  "total_items": 46,
+  "total_items": 48,
   "sources": [
-    "Smashing Magazine",
-    "NN/g (Nielsen Norman Group)",
-    "Sidebar",
-    "CSS-Tricks",
     "Design Milk",
-    "设计达人",
-    "优设网",
+    "Sidebar",
+    "NN/g (Nielsen Norman Group)",
+    "Awwwards",
+    "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart",
+    "优设网",
     "UX Design CC",
-    "Awwwards"
+    "设计达人"
   ],
-  "generated_at": "2025-10-28T03:36:35.362288",
+  "generated_at": "2025-10-28T12:47:57.169941",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 4,
+      "count": 6,
       "items": [
+        {
+          "title": "Recorded design walkthroughs: the best way to give your design a voice",
+          "url": "https://uxdesign.cc/recorded-design-walkthroughs-the-best-way-to-give-your-design-a-voice-ae0cba6eafbb?source=rss----138adf9c44c---4",
+          "author": "Kai Wong",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How to make design work understandable with teams in different time zonesContinue reading on UX Collective »",
+          "published_at": "2025-10-28T11:22:57"
+        },
+        {
+          "title": "Design prompt-building interfaces",
+          "url": "https://uxdesign.cc/design-prompt-building-interfaces-b362b6614fa3?source=rss----138adf9c44c---4",
+          "author": "Sen Lin",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How to help users articulate their intents strategicallyContinue reading on UX Collective »",
+          "published_at": "2025-10-28T11:22:34"
+        },
         {
           "title": "Copiloting a perceptual uniform color triad",
           "url": "https://uxdesign.cc/copiloting-a-perceptual-uniform-color-triad-921b1eea3f52?source=rss----138adf9c44c---4",
@@ -227,6 +245,15 @@
           "published_at": null
         },
         {
+          "title": "Hut 8",
+          "url": "https://www.awwwards.com/sites/hut-8",
+          "author": "Studio 28K",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Untold",
           "url": "https://www.awwwards.com/sites/untold-1",
           "author": "/nk.studio",
@@ -284,15 +311,6 @@
           "title": "RELATS",
           "url": "https://www.awwwards.com/sites/relats",
           "author": "Firma",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "100 Lost Species",
-          "url": "https://www.awwwards.com/sites/100-lost-species",
-          "author": "Immersive Garden",
           "category": "网页设计",
           "source": "Awwwards",
           "summary": null,
@@ -365,49 +383,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Move faster with Dovetail’s all-new AI tools and integrations",
-          "url": "https://dvtl.link/3KZr16J=",
-          "author": "@hidovetail",
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "Spend less time chasing feedback and more time building. Explore what’s new in Dovetail’s Fall 2025 launch.",
-          "published_at": "2025-10-27T11:41:00"
-        },
-        {
-          "title": "When design drives behavior",
-          "url": "https://world.hey.com/jason/when-design-drives-behavior-49baf157",
+          "title": "Code like a surgeon",
+          "url": "https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "In some cases, design is what something looks like. In other cases, design is how it works. But the most interesting is when design changes behavior.",
-          "published_at": "2025-10-27T11:40:49"
+          "summary": "A lot of people say AI will make us all “managers” or “editors”…but that might be a dangerously incomplete view.",
+          "published_at": "2025-10-28T11:44:38"
         },
         {
-          "title": "Clues",
-          "url": "https://cluesbysam.com/",
+          "title": "Bad UX world cup",
+          "url": "https://badux.lol/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A daily logic puzzle where you deduce who are criminals and who are innocent.",
-          "published_at": "2025-10-27T11:39:55"
+          "summary": "Build a bad date picker and win a shit trophy.",
+          "published_at": "2025-10-28T11:43:43"
         },
         {
-          "title": "Original work is now an endangered species",
-          "url": "https://www.trevorlasn.com/blog/original-work-is-now-an-endangered-species",
+          "title": "How I influence company politics as a staff software engineer",
+          "url": "https://www.seangoedecke.com/how-to-influence-politics/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "When everything looks the same, being different becomes valuable again.",
-          "published_at": "2025-10-27T11:39:28"
+          "summary": "You don't need to be fatalistic about company politics.",
+          "published_at": "2025-10-28T11:43:08"
         },
         {
-          "title": "Free web dev icons",
-          "url": "https://design.dev/free-icons/",
+          "title": "Trust networks as antidote to AI slop",
+          "url": "https://brodzinski.com/2025/10/trust-networks-ai-slop-antidote.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Download free, customizable SVG icons. Change colors, download, or copy to clipboard. Perfect for web design & development projects.",
-          "published_at": "2025-10-27T11:38:50"
+          "summary": "In response to AI slop we will increasingly rely on trust networks in professional dealings. Trust will be the new business currency.",
+          "published_at": "2025-10-28T11:41:05"
+        },
+        {
+          "title": "A Linear spin on Liquid Glass",
+          "url": "https://linear.app/now/linear-liquid-glass",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "Adopting Apple’s new APIs wouldn’t give the team the control they needed to build their new navigation.",
+          "published_at": "2025-10-28T11:40:36"
         }
       ]
     },
