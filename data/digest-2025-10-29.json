@@ -1,19 +1,20 @@
 {
   "date": "2025-10-29T00:00:00",
-  "total_items": 51,
+  "total_items": 52,
   "sources": [
-    "UX Design CC",
     "CSS-Tricks",
+    "UX Design CC",
     "Smashing Magazine",
-    "NN/g (Nielsen Norman Group)",
-    "Awwwards",
-    "设计达人",
-    "优设网",
     "Sidebar",
     "A List Apart",
+    "优设网",
+    "NN/g (Nielsen Norman Group)",
+    "Intercom Blog",
+    "设计达人",
+    "Awwwards",
     "Design Milk"
   ],
-  "generated_at": "2025-10-29T03:26:44.395278",
+  "generated_at": "2025-10-29T12:50:22.142801",
   "categories": [
     {
       "category": "用户体验设计",
@@ -146,7 +147,7 @@
     },
     {
       "category": "产品设计",
-      "count": 6,
+      "count": 7,
       "items": [
         {
           "title": "Light, Limestone, and the Language of Contemporary Coziness",
@@ -201,6 +202,15 @@
           "source": "Design Milk",
           "summary": "Individually conceived to fit inside a standard DHL box, SCP's latest Boxed Collection returns to make light work of a design challenge.",
           "published_at": "2025-10-27T15:00:27"
+        },
+        {
+          "title": "Building our next R&D hub in Berlin",
+          "url": "https://www.intercom.com/blog/our-next-research-and-development-hub-berlin/",
+          "author": "Darragh Curran",
+          "category": "产品设计",
+          "source": "Intercom Blog",
+          "summary": "Today we're announcing our next R&D hub in Berlin, where we intend to hire 100 people over the coming year across engineering, AI, data science, product, and design.",
+          "published_at": "2025-10-29T10:00:00"
         }
       ]
     },
@@ -272,6 +282,15 @@
           "published_at": null
         },
         {
+          "title": "Orage",
+          "url": "https://www.awwwards.com/sites/orage",
+          "author": "Beaucoup.",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Hut 8",
           "url": "https://www.awwwards.com/sites/hut-8",
           "author": "Studio 28K",
@@ -333,15 +352,6 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "RELATS",
-          "url": "https://www.awwwards.com/sites/relats",
-          "author": "Firma",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -395,9 +405,9 @@
           "published_at": null
         },
         {
-          "title": "社区设计新思路，网易用蜂巢隐喻激活社会认同感",
-          "url": "https://www.uisdc.com/hunter/0221647395.html",
-          "author": "要爆炸的张老三",
+          "title": "一个会呼吸的动画如何提升AI Agent的信任感",
+          "url": "https://www.uisdc.com/hunter/0221647537.html",
+          "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
           "summary": null,
@@ -410,49 +420,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Code like a surgeon",
-          "url": "https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon",
+          "title": "Everything is television",
+          "url": "https://alearningaday.blog/2025/10/28/everything-is-television/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A lot of people say AI will make us all “managers” or “editors”…but that might be a dangerously incomplete view.",
-          "published_at": "2025-10-28T11:44:38"
+          "summary": "How the cause for the global decline in intelligence could be attributed to the fact that we now get to carry this box in our pocket.",
+          "published_at": "2025-10-29T11:22:52"
         },
         {
-          "title": "Bad UX world cup",
-          "url": "https://badux.lol/",
+          "title": "LinkedIn wisdom generator",
+          "url": "https://experiments.randomthebook.com/LinkedInWisdom/Index.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Build a bad date picker and win a shit trophy.",
-          "published_at": "2025-10-28T11:43:43"
+          "summary": "Profound-sounding quotes that mean absolutely nothing. Just wait for all the likes you'll get.",
+          "published_at": "2025-10-29T11:22:16"
         },
         {
-          "title": "How I influence company politics as a staff software engineer",
-          "url": "https://www.seangoedecke.com/how-to-influence-politics/",
+          "title": "Creating prototypes constrained by the medium not our skills or understanding",
+          "url": "https://grillopress.github.io/2025/10/27/prototypes-that-arent-limited-by-your-skills.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "You don't need to be fatalistic about company politics.",
-          "published_at": "2025-10-28T11:43:08"
+          "summary": "When innovation is limited by the designers control and understanding of the medium.",
+          "published_at": "2025-10-29T11:21:40"
         },
         {
-          "title": "Trust networks as antidote to AI slop",
-          "url": "https://brodzinski.com/2025/10/trust-networks-ai-slop-antidote.html",
+          "title": "Semantic.art",
+          "url": "https://www.semantic.art/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "In response to AI slop we will increasingly rely on trust networks in professional dealings. Trust will be the new business currency.",
-          "published_at": "2025-10-28T11:41:05"
+          "summary": "An anti-slop art search engine that invites you to search with your imagination.",
+          "published_at": "2025-10-29T11:20:49"
         },
         {
-          "title": "A Linear spin on Liquid Glass",
-          "url": "https://linear.app/now/linear-liquid-glass",
+          "title": "We’ve all bought into technosolutionism, but we can opt out",
+          "url": "https://vsanchezgomez.substack.com/p/technosolutionism-part1",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Adopting Apple’s new APIs wouldn’t give the team the control they needed to build their new navigation.",
-          "published_at": "2025-10-28T11:40:36"
+          "summary": "Dismantling a culture that idolizes privately owned tech as a method of social progress.",
+          "published_at": "2025-10-29T11:19:52"
         }
       ]
     },
