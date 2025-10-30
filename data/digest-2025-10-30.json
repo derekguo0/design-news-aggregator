@@ -1,26 +1,35 @@
 {
   "date": "2025-10-30T00:00:00",
-  "total_items": 59,
+  "total_items": 58,
   "sources": [
-    "Sidebar",
-    "Intercom Blog",
-    "Smashing Magazine",
-    "Product Hunt",
-    "Design Milk",
-    "CSS-Tricks",
-    "A List Apart",
-    "UX Design CC",
     "优设网",
-    "设计达人",
+    "Intercom Blog",
+    "CSS-Tricks",
+    "Design Milk",
+    "UX Design CC",
+    "A List Apart",
+    "Product Hunt",
+    "Awwwards",
+    "Sidebar",
+    "Smashing Magazine",
     "NN/g (Nielsen Norman Group)",
-    "Awwwards"
+    "设计达人"
   ],
-  "generated_at": "2025-10-30T07:17:21.983602",
+  "generated_at": "2025-10-30T12:48:21.162102",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 7,
+      "count": 8,
       "items": [
+        {
+          "title": "Can technology fix voting?",
+          "url": "https://uxdesign.cc/can-technology-fix-voting-cfd6674465a2?source=rss----138adf9c44c---4",
+          "author": "Allan MacDonald",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "What impact does digitization of electoral process actually have?Image of a hand dropping a ballot inside of a computerThe mayoral election is around the corner in my hometown of Montreal, so I wanted...",
+          "published_at": "2025-10-30T11:26:31"
+        },
         {
           "title": "Building AI-driven workflows powered by Claude Code and other tools",
           "url": "https://uxdesign.cc/designing-with-claude-code-and-codex-cli-building-ai-driven-workflows-powered-by-code-connect-ui-f10c136ec11f?source=rss----138adf9c44c---4",
@@ -358,25 +367,25 @@
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 4,
       "items": [
         {
-          "title": "BookGraph",
-          "url": "https://www.producthunt.com/products/bookgraph",
-          "author": "Noëlie Rx",
+          "title": "Fabrica",
+          "url": "https://www.producthunt.com/products/fabrica-3",
+          "author": "Krish Chelikavada",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Visualize your reading networkDiscussion|Link",
-          "published_at": "2025-10-28T16:06:10"
+          "summary": "Lovable for internal apps and dashboardsDiscussion|Link",
+          "published_at": "2025-10-29T06:44:16"
         },
         {
-          "title": "CopyCat",
-          "url": "https://www.producthunt.com/products/copycat-6",
-          "author": "Bhargav Jariwala",
+          "title": "Cursor 2.0",
+          "url": "https://www.producthunt.com/products/cursor",
+          "author": "Ben Lang",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Copy matching files by name instantly.Discussion|Link",
-          "published_at": "2025-10-29T20:40:30"
+          "summary": "Our first coding model and new interface for agentsDiscussion|Link",
+          "published_at": "2025-10-29T10:00:01"
         },
         {
           "title": "gpt-oss-safeguard",
@@ -395,24 +404,6 @@
           "source": "Product Hunt",
           "summary": "Keep your Mac awakeDiscussion|Link",
           "published_at": "2025-10-29T19:06:26"
-        },
-        {
-          "title": "Gatling AI Assistant for VS Code",
-          "url": "https://www.producthunt.com/products/gatling-ai-assistant-for-vs-code",
-          "author": "Nathan Veyret",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "AI-powered load testing, right inside your IDEDiscussion|Link",
-          "published_at": "2025-10-29T18:13:52"
-        },
-        {
-          "title": "Fabrica",
-          "url": "https://www.producthunt.com/products/fabrica-3",
-          "author": "Krish Chelikavada",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Lovable for internal apps and dashboardsDiscussion|Link",
-          "published_at": "2025-10-29T06:44:16"
         }
       ]
     },
@@ -481,49 +472,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Everything is television",
-          "url": "https://alearningaday.blog/2025/10/28/everything-is-television/",
+          "title": "Fast is a moat",
+          "url": "https://hvpandya.com/fast",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How the cause for the global decline in intelligence could be attributed to the fact that we now get to carry this box in our pocket.",
-          "published_at": "2025-10-29T11:22:52"
+          "summary": "Speed—turning ideas into tangible results quickly is the most powerful competitive advantage you can build.",
+          "published_at": "2025-10-30T11:45:33"
         },
         {
-          "title": "LinkedIn wisdom generator",
-          "url": "https://experiments.randomthebook.com/LinkedInWisdom/Index.html",
+          "title": "Figma plugin: Figmentation",
+          "url": "https://www.figma.com/community/plugin/1520087586956139218/figmentation",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Profound-sounding quotes that mean absolutely nothing. Just wait for all the likes you'll get.",
-          "published_at": "2025-10-29T11:22:16"
+          "summary": "Automate the process of extracting design tokens directly from your Figma components — including colors, typography, spacing, borders, and effects.",
+          "published_at": "2025-10-30T11:45:14"
         },
         {
-          "title": "Creating prototypes constrained by the medium not our skills or understanding",
-          "url": "https://grillopress.github.io/2025/10/27/prototypes-that-arent-limited-by-your-skills.html",
+          "title": "Why Gothic endures in visual culture",
+          "url": "https://www.itsnicethat.com/features/gothic-resurrection-the-thing-that-wouldnt-die-graphic-design-illustration-271025",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "When innovation is limited by the designers control and understanding of the medium.",
-          "published_at": "2025-10-29T11:21:40"
+          "summary": "Gothic has moved from subcultural spaces into mainstream design practice. What’s causing its resurrection?",
+          "published_at": "2025-10-30T11:44:36"
         },
         {
-          "title": "Semantic.art",
-          "url": "https://www.semantic.art/",
+          "title": "The new calculus of AI-based coding",
+          "url": "https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "An anti-slop art search engine that invites you to search with your imagination.",
-          "published_at": "2025-10-29T11:20:49"
+          "summary": "Agentic coding instead of vibe coding—much less exciting, but in our industry boring is usually good.",
+          "published_at": "2025-10-30T11:44:07"
         },
         {
-          "title": "We’ve all bought into technosolutionism, but we can opt out",
-          "url": "https://vsanchezgomez.substack.com/p/technosolutionism-part1",
+          "title": "Design attractors",
+          "url": "https://blog.damato.design/posts/design-attractors/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Dismantling a culture that idolizes privately owned tech as a method of social progress.",
-          "published_at": "2025-10-29T11:19:52"
+          "summary": "Hot take: the design system specialist role will eventually disappear.",
+          "published_at": "2025-10-30T11:42:49"
         }
       ]
     },
