@@ -85,7 +85,7 @@
       "url": "https://www.invisionapp.com/inside-design/rss.xml",
       "type": "rss",
       "category": "UI设计",
-      "enabled": true,
+      "enabled": false,
       "limit": 5
     },
     {
@@ -98,16 +98,9 @@
     },
     {
       "name": "Product Hunt",
-      "url": "https://www.producthunt.com/",
-      "type": "web",
+      "url": "https://www.producthunt.com/feed",
+      "type": "rss",
       "category": "产品发现",
-      "selectors": {
-        "item": "section[data-test^='post-item']",
-        "title": "a[data-test^='post-name'] ",
-        "link": "a[data-test^='post-name']",
-        "image": "img",
-        "points": "button[data-test='vote-button'] span"
-      },
       "enabled": true,
       "limit": 8
     },
@@ -159,7 +152,7 @@
         "link": "a",
         "image": "img"
       },
-      "enabled": true,
+      "enabled": false,
       "limit": 6
     },
     {
@@ -173,7 +166,7 @@
         "link": "a",
         "image": "img"
       },
-      "enabled": true,
+      "enabled": false,
       "limit": 6
     },
     {
@@ -187,7 +180,7 @@
         "link": "a",
         "image": "img"
       },
-      "enabled": true,
+      "enabled": false,
       "limit": 6
     },
     {
@@ -202,7 +195,7 @@
         "image": "img",
         "author": ".author"
       },
-      "enabled": true,
+      "enabled": false,
       "limit": 5
     },
     {
@@ -247,7 +240,7 @@
         "image": "img",
         "author": ".author"
       },
-      "enabled": true,
+      "enabled": false,
       "limit": 5
     }
   ]
