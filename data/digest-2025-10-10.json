@@ -1,25 +1,34 @@
 {
   "date": "2025-10-10T00:00:00",
-  "total_items": 58,
+  "total_items": 59,
   "sources": [
-    "UX Planet",
-    "NN/g (Nielsen Norman Group)",
-    "CSS-Tricks",
-    "Design Milk",
-    "Sidebar",
-    "A List Apart",
-    "UX Design CC",
     "优设网",
-    "Intercom Blog",
+    "CSS-Tricks",
     "Awwwards",
-    "设计达人"
+    "NN/g (Nielsen Norman Group)",
+    "Sidebar",
+    "Intercom Blog",
+    "A List Apart",
+    "UX Planet",
+    "设计达人",
+    "Design Milk",
+    "UX Design CC"
   ],
-  "generated_at": "2025-10-10T07:56:07.785881",
+  "generated_at": "2025-10-10T12:45:22.524798",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 14,
+      "count": 15,
       "items": [
+        {
+          "title": "The “£532,000” dot job: Why small design changes cost big",
+          "url": "https://uxdesign.cc/the-532-000-dot-job-why-small-design-changes-cost-big-2fbd2b44fd89?source=rss----138adf9c44c---4",
+          "author": "Ian Batterbee",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Why did a tiny logo change cost GOV.UK so much?Continue reading on UX Collective »",
+          "published_at": "2025-10-10T12:13:22"
+        },
         {
           "title": "The 12 emotional journeys of color psychology",
           "url": "https://uxdesign.cc/the-12-emotional-journeys-of-color-psychology-4033d4625fa1?source=rss----138adf9c44c---4",
@@ -35,7 +44,7 @@
           "author": "Fabrizia Ausiello",
           "category": "用户体验设计",
           "source": "UX Design CC",
-          "summary": "The emotional design behind the latest AI marketing campaigns.illustration by authorIf you haven’t seen them yet, OpenAI’s launched new ad campaign of short 30 seconds videos that embed AI into an ide...",
+          "summary": "The emotional design behind the latest AI marketing campaigns.Continue reading on UX Collective »",
           "published_at": "2025-10-08T22:59:25"
         },
         {
@@ -73,6 +82,15 @@
           "source": "UX Design CC",
           "summary": "Exploring psychological factors of Conversational Design, like trust and social influence, that can impact user adoption beyond initial novelty.Colibri1968 via Wikimedia Commons, Public DomainLike man...",
           "published_at": "2025-10-07T09:05:28"
+        },
+        {
+          "title": "UI Design with ChatGPT 5",
+          "url": "https://uxplanet.org/ui-design-with-chatgpt-5-afc67dc501a1?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Generative UI is evolving at lightning speed, and nowadays we can achieve impressive results simply by asking AI tools to generate UIs for us. And the great thing is that you don’t need to switch from...",
+          "published_at": "2025-10-10T11:38:28"
         },
         {
           "title": "Service Design in the Era of AI Agents",
@@ -136,15 +154,6 @@
           "source": "UX Planet",
           "summary": "One of the organizations I worked for in the past has (or had) a rather comprehensive and dare I say it, inefficient and exhausting procurement process for new tools. That process has stayed with me f...",
           "published_at": "2025-10-07T19:45:13"
-        },
-        {
-          "title": "From Real to Digital: How UI Components are Inspired from Real World Objects",
-          "url": "https://uxplanet.org/from-real-to-digital-how-ui-components-are-inspired-from-real-world-objects-2159f38364ea?source=rss----819cc2aaeee0---4",
-          "author": "Rama Krushna Behera",
-          "category": "用户体验设计",
-          "source": "UX Planet",
-          "summary": "Ever wondered why clicking a button on a website feels so natural? It’s because much of what we see on the web is inspired by how we interact with objects in real life! From flipping switches to brows...",
-          "published_at": "2025-10-07T19:45:12"
         }
       ]
     },
@@ -474,49 +483,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Team dynamics after AI",
-          "url": "https://mechanicalsurvival.com/blog/team-dynamics-after-ai/",
+          "title": "The UX butterfly effect",
+          "url": "https://www.doc.cc/articles/ux-butterfly-effect",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "So much of the discourse around AI assumes an inevitability to adoption, seeing quality as the only barrier to that.",
-          "published_at": "2025-10-09T12:00:57"
+          "summary": "Understanding unintended consequences in design and how to plan for them.",
+          "published_at": "2025-10-10T11:31:45"
         },
         {
-          "title": "Classic 8×8-pixel Mac patterns",
-          "url": "https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html",
+          "title": "A cartoonist’s review of AI art",
+          "url": "https://theoatmeal.com/comics/ai_art",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The original 8×8-pixel patterns that were in the original Control Panel for setting the desktop background and in MacPaint as fill patterns.",
-          "published_at": "2025-10-09T12:00:20"
+          "summary": "This is a comic about AI art. A pretty honest one.",
+          "published_at": "2025-10-10T11:31:03"
         },
         {
-          "title": "Vercel vs Cloudflare: two philosophies of building for developers",
-          "url": "https://www.bharath.sh/writing/vercel-vs-cloudflare",
+          "title": "The programmer identity crisis",
+          "url": "https://hojberg.xyz/the-programmer-identity-crisis/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Neutral observations on the Vercel vs Cloudflare race to win the edge and developer mindshare.",
-          "published_at": "2025-10-09T11:59:09"
+          "summary": "On AI, creativity, and craft.",
+          "published_at": "2025-10-10T11:30:32"
         },
         {
-          "title": "It’s Nice That’s Ones to Watch 2025",
-          "url": "https://www.itsnicethat.com/ones-to-watch-2025-showcase",
+          "title": "6 winning Figma Makes and what you can learn from them",
+          "url": "https://www.figma.com/blog/6-winning-figma-makes-and-what-you-can-learn-from-them/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A curated list of next generation creative talent from across the globe.",
-          "published_at": "2025-10-09T11:58:34"
+          "summary": "This year’s Make-a-thon winners offer insights on how to prototype smarter, structure products better, and push Figma Make further.",
+          "published_at": "2025-10-10T11:30:02"
         },
         {
-          "title": "Complex systems emerge from iterations on simple designs",
-          "url": "https://nav.al/iterate",
+          "title": "Craft, not fame, makes your story worth telling",
+          "url": "https://herbertlui.net/craft-not-fame-makes-your-story-worth-telling/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Whenever you find a complex system working in nature, it’s usually the output of a very simple system or thing that was iterated over and over.",
-          "published_at": "2025-10-09T11:57:50"
+          "summary": "The possibility is there, if you’re willing to put in the effort.",
+          "published_at": "2025-10-10T11:29:12"
         }
       ]
     },
