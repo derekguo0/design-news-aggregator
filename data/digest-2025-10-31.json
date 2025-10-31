@@ -1,26 +1,63 @@
 {
   "date": "2025-10-31T00:00:00",
-  "total_items": 64,
+  "total_items": 68,
   "sources": [
-    "NN/g (Nielsen Norman Group)",
-    "Awwwards",
-    "UX Planet",
-    "Intercom Blog",
-    "优设网",
     "Sidebar",
-    "CSS-Tricks",
-    "Product Hunt",
-    "A List Apart",
-    "Design Milk",
     "UX Design CC",
-    "设计达人"
+    "NN/g (Nielsen Norman Group)",
+    "UX Planet",
+    "Smashing Magazine",
+    "CSS-Tricks",
+    "A List Apart",
+    "Awwwards",
+    "Intercom Blog",
+    "Design Milk",
+    "Product Hunt",
+    "设计达人",
+    "优设网"
   ],
-  "generated_at": "2025-10-31T03:55:10.845940",
+  "generated_at": "2025-10-31T12:47:41.074789",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 15,
+      "count": 18,
       "items": [
+        {
+          "title": "Designing for emotional dependence",
+          "url": "https://uxdesign.cc/designing-for-emotional-dependence-d2244051648e?source=rss----138adf9c44c---4",
+          "author": "Ian Batterbee",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How tech companies like OpenAI are addressing emotional safety to make technology more humane.Continue reading on UX Collective »",
+          "published_at": "2025-10-31T11:18:54"
+        },
+        {
+          "title": "Hoping for the long-term",
+          "url": "https://uxdesign.cc/hoping-for-the-long-term-bb64e7257fba?source=rss----138adf9c44c---4",
+          "author": "dave hoffer",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "An interview with Alexander Rose.Image by Dave Hoffer. Inset is the little baby redwood tree I planted in my backyard.Time is money. Move fast and break things. Crunch time. We hear these idioms repea...",
+          "published_at": "2025-10-31T11:17:53"
+        },
+        {
+          "title": "The horrors of designing for omniscience",
+          "url": "https://uxdesign.cc/the-horrors-of-designing-for-omniscience-557ba3ea60e4?source=rss----138adf9c44c---4",
+          "author": "Tristan Free",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "What happens when systems decide the human is ‘all-knowing’Ever click a button and have a system misbehave with no warning, feedback, or a way to undo, only to feel the repercussions minutes or a few ...",
+          "published_at": "2025-10-31T11:15:56"
+        },
+        {
+          "title": "The paradox of tolerance",
+          "url": "https://uxdesign.cc/the-paradox-of-tolerance-518c42ec62be?source=rss----138adf9c44c---4",
+          "author": "Nate Sowder",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Karl Popper and the extinction of the rational mindKarl PopperDisagreement feels like a loyalty test.Even the way we ask questions has changed. We phrase them like traps and treat the answers as evide...",
+          "published_at": "2025-10-31T11:14:22"
+        },
         {
           "title": "Sora app icon: a visual breakdown",
           "url": "https://uxdesign.cc/sora-app-icon-a-visual-breakdown-179235bd7ab0?source=rss----138adf9c44c---4",
@@ -74,15 +111,6 @@
           "source": "UX Design CC",
           "summary": "How to make design work understandable with teams in different time zonesContinue reading on UX Collective »",
           "published_at": "2025-10-28T11:22:57"
-        },
-        {
-          "title": "Design prompt-building interfaces",
-          "url": "https://uxdesign.cc/design-prompt-building-interfaces-b362b6614fa3?source=rss----138adf9c44c---4",
-          "author": "Sen Lin",
-          "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "How to help users articulate their intents strategicallyContinue reading on UX Collective »",
-          "published_at": "2025-10-28T11:22:34"
         },
         {
           "title": "Instagram’s Latest Update Shows What Good UX Communication Looks Like",
@@ -160,7 +188,7 @@
     },
     {
       "category": "用户体验研究",
-      "count": 6,
+      "count": 5,
       "items": [
         {
           "title": "Good from Afar, But Far from Good: AI Prototyping in Real Design Contexts",
@@ -192,15 +220,6 @@
         {
           "title": "How AI Works and How Users Think About It: Study Guide",
           "url": "https://www.nngroup.com/articles/ai-functionality-study-guide/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Using AI for UX Work: Study Guide",
-          "url": "https://www.nngroup.com/articles/ai-work-study-guide/",
           "author": null,
           "category": "用户体验研究",
           "source": "NN/g (Nielsen Norman Group)",
@@ -289,8 +308,17 @@
     },
     {
       "category": "网页设计",
-      "count": 14,
+      "count": 15,
       "items": [
+        {
+          "title": "Fading Light And Falling Leaves (November 2025 Wallpapers Edition)",
+          "url": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!",
+          "published_at": "2025-10-31T12:00:00"
+        },
         {
           "title": "Design for Amiability: Lessons from Vienna",
           "url": "https://alistapart.com/article/design-for-amiability-lessons-from-vienna/",
@@ -343,6 +371,15 @@
           "category": "网页设计",
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
+          "published_at": null
+        },
+        {
+          "title": "Beyond Design Into Experience",
+          "url": "https://www.awwwards.com/sites/beyond-design-into-experience",
+          "author": "Plus X Creative Partner",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
           "published_at": null
         },
         {
@@ -407,66 +444,66 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Won J. You Studios",
-          "url": "https://www.awwwards.com/sites/won-j-you-studios-2",
-          "author": "Huy Phan",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "Base44: The all-new builder",
-          "url": "https://www.producthunt.com/products/base44",
-          "author": "MS",
+          "title": "Is it down?",
+          "url": "https://www.producthunt.com/products/is-it-down-2",
+          "author": "Steven J. Selcuk",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Entering a new era of Base44Discussion|Link",
-          "published_at": "2025-10-29T14:00:10"
+          "summary": "Monitor your apis and websites on menubarDiscussion|Link",
+          "published_at": "2025-10-28T17:16:35"
         },
         {
-          "title": "Cursor 2.0",
-          "url": "https://www.producthunt.com/products/cursor",
-          "author": "Ben Lang",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Our first coding model and new interface for agentsDiscussion|Link",
-          "published_at": "2025-10-29T10:00:01"
-        },
-        {
-          "title": "Gatling AI Assistant for VS Code",
-          "url": "https://www.producthunt.com/products/gatling-ai-assistant-for-vs-code",
-          "author": "Nathan Veyret",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "AI-powered load testing, right inside your IDEDiscussion|Link",
-          "published_at": "2025-10-29T18:13:52"
-        },
-        {
-          "title": "gpt-oss-safeguard",
-          "url": "https://www.producthunt.com/products/openai",
+          "title": "Perplexity Patents",
+          "url": "https://www.producthunt.com/products/perplexity-ai",
           "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Open safety reasoning models with custom safety policiesDiscussion|Link",
-          "published_at": "2025-10-30T02:33:19"
+          "summary": "AI-powered patent search for everyoneDiscussion|Link",
+          "published_at": "2025-10-31T03:56:44"
         },
         {
-          "title": "CopyCat",
-          "url": "https://www.producthunt.com/products/copycat-6",
-          "author": "Bhargav Jariwala",
+          "title": "Skyvern",
+          "url": "https://www.producthunt.com/products/skyvern",
+          "author": "Garry Tan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Copy matching files by name instantlyDiscussion|Link",
-          "published_at": "2025-10-29T20:40:30"
+          "summary": "Automate anything in the browserDiscussion|Link",
+          "published_at": "2025-10-30T03:22:46"
+        },
+        {
+          "title": "OpenFolder",
+          "url": "https://www.producthunt.com/products/openfolder-a-launcher-for-folders",
+          "author": "fzero17",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Open any folder on macOS instantlyDiscussion|Link",
+          "published_at": "2025-10-28T07:49:54"
+        },
+        {
+          "title": "Blur It",
+          "url": "https://www.producthunt.com/products/blur-it-5-0",
+          "author": "Clint",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Blur Sensitive Info for Demos & SharingDiscussion|Link",
+          "published_at": "2025-10-30T05:29:47"
+        },
+        {
+          "title": "Canva’s Creative Operating System",
+          "url": "https://www.producthunt.com/products/canva",
+          "author": "Ankit Sharma",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Visual Suite to edit vids, emails, sites + docs in a canvasDiscussion|Link",
+          "published_at": "2025-10-30T19:38:17"
         }
       ]
     },
@@ -535,49 +572,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Fast is a moat",
-          "url": "https://hvpandya.com/fast",
+          "title": "Building AI-driven workflows powered by Claude Code",
+          "url": "https://uxdesign.cc/designing-with-claude-code-and-codex-cli-building-ai-driven-workflows-powered-by-code-connect-ui-f10c136ec11f",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Speed—turning ideas into tangible results quickly is the most powerful competitive advantage you can build.",
-          "published_at": "2025-10-30T11:45:33"
+          "summary": "How agentic CLI tools extend Figma MCP and turn wireframes into production-ready prototypes.",
+          "published_at": "2025-10-31T11:43:37"
         },
         {
-          "title": "Figma plugin: Figmentation",
-          "url": "https://www.figma.com/community/plugin/1520087586956139218/figmentation",
+          "title": "A brief history of domains",
+          "url": "https://www.dotcom.press/history-of-domains",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Automate the process of extracting design tokens directly from your Figma components — including colors, typography, spacing, borders, and effects.",
-          "published_at": "2025-10-30T11:45:14"
+          "summary": "This year, dot com turned 40. Nearly a billion domains have been registered during that period.",
+          "published_at": "2025-10-31T11:42:40"
         },
         {
-          "title": "Why Gothic endures in visual culture",
-          "url": "https://www.itsnicethat.com/features/gothic-resurrection-the-thing-that-wouldnt-die-graphic-design-illustration-271025",
+          "title": "Using AI for UX work: study guide",
+          "url": "https://www.nngroup.com/articles/ai-work-study-guide/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Gothic has moved from subcultural spaces into mainstream design practice. What’s causing its resurrection?",
-          "published_at": "2025-10-30T11:44:36"
+          "summary": "A collection of links to our articles and videos to learn about the best ways to use artificial intelligence for UX work.",
+          "published_at": "2025-10-31T11:41:40"
         },
         {
-          "title": "The new calculus of AI-based coding",
-          "url": "https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html",
+          "title": "The TikTok model is the future of the web",
+          "url": "https://idiallo.com/blog/tiktok-model-is-the-future-of-the-web",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Agentic coding instead of vibe coding—much less exciting, but in our industry boring is usually good.",
-          "published_at": "2025-10-30T11:44:07"
+          "summary": "Not the future we want, but the one we're getting.",
+          "published_at": "2025-10-31T11:41:06"
         },
         {
-          "title": "Design attractors",
-          "url": "https://blog.damato.design/posts/design-attractors/",
+          "title": "Mobile to models and leading design with craft",
+          "url": "https://hvpandya.com/leading-with-craft",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Hot take: the design system specialist role will eventually disappear.",
-          "published_at": "2025-10-30T11:42:49"
+          "summary": "With models emerging as the new material, leadership is about figuring out the unknowns again.",
+          "published_at": "2025-10-31T11:40:28"
         }
       ]
     },
