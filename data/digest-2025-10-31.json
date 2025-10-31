@@ -1,21 +1,21 @@
 {
   "date": "2025-10-31T00:00:00",
-  "total_items": 63,
+  "total_items": 64,
   "sources": [
-    "A List Apart",
-    "Sidebar",
-    "UX Design CC",
-    "CSS-Tricks",
+    "NN/g (Nielsen Norman Group)",
+    "Awwwards",
     "UX Planet",
     "Intercom Blog",
     "优设网",
-    "Design Milk",
+    "Sidebar",
+    "CSS-Tricks",
     "Product Hunt",
-    "Awwwards",
-    "设计达人",
-    "NN/g (Nielsen Norman Group)"
+    "A List Apart",
+    "Design Milk",
+    "UX Design CC",
+    "设计达人"
   ],
-  "generated_at": "2025-10-31T01:48:47.029357",
+  "generated_at": "2025-10-31T03:55:10.845940",
   "categories": [
     {
       "category": "用户体验设计",
@@ -421,25 +421,16 @@
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "RollBot",
-          "url": "https://www.producthunt.com/products/rollbot-2",
-          "author": "Thomas.",
+          "title": "Base44: The all-new builder",
+          "url": "https://www.producthunt.com/products/base44",
+          "author": "MS",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "🤖 Turn images into gifs & videos quickly + privatelyDiscussion|Link",
-          "published_at": "2025-10-28T10:29:08"
-        },
-        {
-          "title": "Fabrica",
-          "url": "https://www.producthunt.com/products/fabrica-3",
-          "author": "Krish Chelikavada",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Lovable for internal apps and dashboardsDiscussion|Link",
-          "published_at": "2025-10-29T06:44:16"
+          "summary": "Entering a new era of Base44Discussion|Link",
+          "published_at": "2025-10-29T14:00:10"
         },
         {
           "title": "Cursor 2.0",
@@ -451,13 +442,31 @@
           "published_at": "2025-10-29T10:00:01"
         },
         {
-          "title": "Base44: The all-new builder",
-          "url": "https://www.producthunt.com/products/base44",
-          "author": "MS",
+          "title": "Gatling AI Assistant for VS Code",
+          "url": "https://www.producthunt.com/products/gatling-ai-assistant-for-vs-code",
+          "author": "Nathan Veyret",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Entering a new era of Base44Discussion|Link",
-          "published_at": "2025-10-29T14:00:10"
+          "summary": "AI-powered load testing, right inside your IDEDiscussion|Link",
+          "published_at": "2025-10-29T18:13:52"
+        },
+        {
+          "title": "gpt-oss-safeguard",
+          "url": "https://www.producthunt.com/products/openai",
+          "author": "Zac Zuo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Open safety reasoning models with custom safety policiesDiscussion|Link",
+          "published_at": "2025-10-30T02:33:19"
+        },
+        {
+          "title": "CopyCat",
+          "url": "https://www.producthunt.com/products/copycat-6",
+          "author": "Bhargav Jariwala",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Copy matching files by name instantlyDiscussion|Link",
+          "published_at": "2025-10-29T20:40:30"
         }
       ]
     },
