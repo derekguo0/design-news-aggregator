@@ -1,22 +1,22 @@
 {
   "date": "2025-11-01T00:00:00",
-  "total_items": 65,
+  "total_items": 64,
   "sources": [
-    "CSS-Tricks",
-    "UX Design CC",
-    "设计达人",
-    "A List Apart",
-    "NN/g (Nielsen Norman Group)",
-    "Awwwards",
-    "优设网",
     "UX Planet",
-    "Sidebar",
+    "Awwwards",
+    "UX Design CC",
+    "Design Milk",
     "Smashing Magazine",
-    "Product Hunt",
+    "设计达人",
+    "NN/g (Nielsen Norman Group)",
+    "A List Apart",
     "Intercom Blog",
-    "Design Milk"
+    "优设网",
+    "CSS-Tricks",
+    "Product Hunt",
+    "Sidebar"
   ],
-  "generated_at": "2025-11-01T01:52:15.055981",
+  "generated_at": "2025-11-01T12:41:18.554555",
   "categories": [
     {
       "category": "用户体验设计",
@@ -365,6 +365,15 @@
           "published_at": null
         },
         {
+          "title": "Studio Tyrsa",
+          "url": "https://www.awwwards.com/sites/studio-tyrsa",
+          "author": "PROPAGANDE",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Beyond Design Into Experience",
           "url": "https://www.awwwards.com/sites/beyond-design-into-experience",
           "author": "Plus X Creative Partner",
@@ -426,57 +435,39 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Anuc Home",
-          "url": "https://www.awwwards.com/sites/anuc-home",
-          "author": "Edoardo Lunardi",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 3,
       "items": [
         {
-          "title": "Affinity by Canva",
-          "url": "https://www.producthunt.com/products/affinity-5",
-          "author": "Ankit Sharma",
+          "title": "Blixy",
+          "url": "https://www.producthunt.com/products/blixy-2",
+          "author": "Rahul",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Free creative software for vector, pixel, and print.=Discussion|Link",
-          "published_at": "2025-10-30T20:07:51"
+          "summary": "Fonts & Themes KeyboardDiscussion|Link",
+          "published_at": "2025-10-29T12:45:49"
         },
         {
-          "title": "FormAI",
-          "url": "https://www.producthunt.com/products/formai",
-          "author": "Julian",
+          "title": "Swetrix",
+          "url": "https://www.producthunt.com/products/swetrix-analytics",
+          "author": "Andrii Romasiun",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI Gymbro that fixes your form, and plans your next move.Discussion|Link",
-          "published_at": "2025-10-29T02:24:32"
+          "summary": "Open source, cookieless Google Analytics alternativeDiscussion|Link",
+          "published_at": "2025-10-31T17:17:15"
         },
         {
-          "title": "Halloween AI Photo Booth",
-          "url": "https://www.producthunt.com/products/halloween-office-party",
-          "author": "Andy Orsow",
+          "title": "Ultracite v6",
+          "url": "https://www.producthunt.com/products/ultracite",
+          "author": "fmerian",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Hop in the booth and dress up with AI to show your costumeDiscussion|Link",
-          "published_at": "2025-10-30T14:12:13"
-        },
-        {
-          "title": "Blur It",
-          "url": "https://www.producthunt.com/products/blur-it-5-0",
-          "author": "Clint",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Blur Sensitive Info for Demos & SharingDiscussion|Link",
-          "published_at": "2025-10-30T05:29:47"
+          "summary": "Opinionated, zero-config code linter and formatterDiscussion|Link",
+          "published_at": "2025-10-29T15:20:35"
         }
       ]
     },
