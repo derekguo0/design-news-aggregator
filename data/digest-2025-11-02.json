@@ -1,21 +1,21 @@
 {
   "date": "2025-11-02T00:00:00",
-  "total_items": 62,
+  "total_items": 66,
   "sources": [
-    "UX Design CC",
-    "NN/g (Nielsen Norman Group)",
-    "UX Planet",
-    "设计达人",
-    "Design Milk",
     "A List Apart",
-    "Intercom Blog",
-    "优设网",
-    "Awwwards",
     "Product Hunt",
+    "设计达人",
+    "Awwwards",
+    "优设网",
+    "UX Planet",
+    "Intercom Blog",
+    "Smashing Magazine",
+    "NN/g (Nielsen Norman Group)",
+    "UX Design CC",
     "Sidebar",
-    "Smashing Magazine"
+    "Design Milk"
   ],
-  "generated_at": "2025-11-02T01:54:37.679150",
+  "generated_at": "2025-11-02T12:40:50.311700",
   "categories": [
     {
       "category": "用户体验设计",
@@ -373,6 +373,15 @@
           "published_at": null
         },
         {
+          "title": "Portfolio '25",
+          "url": "https://www.awwwards.com/sites/portfolio-25-1",
+          "author": "Roman Jean-Elie",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Studio Tyrsa",
           "url": "https://www.awwwards.com/sites/studio-tyrsa",
           "author": "PROPAGANDE",
@@ -434,30 +443,57 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "OVA investment",
-          "url": "https://www.awwwards.com/sites/ova-investment",
-          "author": "Thierry Chopain",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 1,
+      "count": 5,
       "items": [
         {
-          "title": "Swetrix",
-          "url": "https://www.producthunt.com/products/swetrix-analytics",
-          "author": "Andrii Romasiun",
+          "title": "Maillayer",
+          "url": "https://www.producthunt.com/products/maillayer",
+          "author": "Mohd Danish",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Open source, cookieless Google Analytics alternativeDiscussion|Link",
-          "published_at": "2025-10-31T17:17:15"
+          "summary": "Email marketing without subscriptionsDiscussion|Link",
+          "published_at": "2025-11-02T06:09:51"
+        },
+        {
+          "title": "Sidemail 2.0",
+          "url": "https://www.producthunt.com/products/sidemail-io",
+          "author": "Kristyna Vrbova",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "All-in-one email platform for SaaSDiscussion|Link",
+          "published_at": "2025-10-31T10:24:28"
+        },
+        {
+          "title": "Postbrew",
+          "url": "https://www.producthunt.com/products/postbrew",
+          "author": "Avijit Kumar",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The social laboratory for coffee loversDiscussion|Link",
+          "published_at": "2025-11-01T21:59:00"
+        },
+        {
+          "title": "Soony Countdown",
+          "url": "https://www.producthunt.com/products/soony-countdown",
+          "author": "Ilias",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Count down to life’s important momentsDiscussion|Link",
+          "published_at": "2025-10-30T14:41:26"
+        },
+        {
+          "title": "Pickle",
+          "url": "https://www.producthunt.com/products/pickle-9",
+          "author": "Arshad",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Screenshot, redact, and share — instantly and privately.Discussion|Link",
+          "published_at": "2025-11-01T15:58:01"
         }
       ]
     },
