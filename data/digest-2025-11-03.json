@@ -1,19 +1,19 @@
 {
   "date": "2025-11-03T00:00:00",
-  "total_items": 50,
+  "total_items": 51,
   "sources": [
-    "UX Design CC",
-    "Sidebar",
-    "A List Apart",
     "Smashing Magazine",
-    "Awwwards",
-    "设计达人",
     "Design Milk",
+    "Product Hunt",
     "优设网",
     "NN/g (Nielsen Norman Group)",
-    "Product Hunt"
+    "Sidebar",
+    "Awwwards",
+    "UX Design CC",
+    "设计达人",
+    "A List Apart"
   ],
-  "generated_at": "2025-11-03T01:53:49.607523",
+  "generated_at": "2025-11-03T01:59:35.570268",
   "categories": [
     {
       "category": "用户体验设计",
@@ -320,8 +320,26 @@
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 4,
       "items": [
+        {
+          "title": "Pickle",
+          "url": "https://www.producthunt.com/products/pickle-9",
+          "author": "Arshad",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Screenshot, redact, and share — instantly and privately.Discussion|Link",
+          "published_at": "2025-11-01T15:58:01"
+        },
+        {
+          "title": "Maillayer",
+          "url": "https://www.producthunt.com/products/maillayer",
+          "author": "Mohd Danish",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Email marketing without subscriptionsDiscussion|Link",
+          "published_at": "2025-11-02T06:09:51"
+        },
         {
           "title": "Sidemail 2.0",
           "url": "https://www.producthunt.com/products/sidemail-io",
@@ -339,15 +357,6 @@
           "source": "Product Hunt",
           "summary": "The social laboratory for coffee loversDiscussion|Link",
           "published_at": "2025-11-01T21:59:00"
-        },
-        {
-          "title": "Maillayer",
-          "url": "https://www.producthunt.com/products/maillayer",
-          "author": "Mohd Danish",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Email marketing without subscriptionsDiscussion|Link",
-          "published_at": "2025-11-02T06:09:51"
         }
       ]
     },
