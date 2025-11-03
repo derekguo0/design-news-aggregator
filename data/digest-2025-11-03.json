@@ -1,24 +1,42 @@
 {
   "date": "2025-11-03T00:00:00",
-  "total_items": 51,
+  "total_items": 55,
   "sources": [
-    "Smashing Magazine",
     "Design Milk",
-    "Product Hunt",
-    "优设网",
-    "NN/g (Nielsen Norman Group)",
-    "Sidebar",
-    "Awwwards",
     "UX Design CC",
+    "A List Apart",
+    "Smashing Magazine",
+    "Product Hunt",
+    "NN/g (Nielsen Norman Group)",
+    "优设网",
     "设计达人",
-    "A List Apart"
+    "Sidebar",
+    "Awwwards"
   ],
-  "generated_at": "2025-11-03T01:59:35.570268",
+  "generated_at": "2025-11-03T12:49:36.297662",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 8,
+      "count": 10,
       "items": [
+        {
+          "title": "AI gardens, Sora icon, Claude Code & Figma MCP, error handling UX",
+          "url": "https://uxdesign.cc/ai-gardens-sora-icon-claude-code-figma-mcp-error-handling-ux-b74d64dd98f2?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“The 1930s were ripe for innovation, during the thick of the Second Industrial Revolution. Designers were captivated by the new technology ...",
+          "published_at": "2025-11-03T10:32:47"
+        },
+        {
+          "title": "How grocery store layouts manipulate your shopping behavior",
+          "url": "https://uxdesign.cc/how-grocery-store-layouts-manipulate-your-shopping-behavior-aa3cd59e8fc0?source=rss----138adf9c44c---4",
+          "author": "Elvis Hsiao",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "If you overspend, you’re shopping exactly as designedContinue reading on UX Collective »",
+          "published_at": "2025-11-03T10:29:11"
+        },
         {
           "title": "Neo Robot and the role of design in selling unfinished dreams",
           "url": "https://uxdesign.cc/neo-robot-and-the-role-of-design-in-selling-unfinished-dreams-53e5b0f61e2b?source=rss----138adf9c44c---4",
@@ -95,7 +113,7 @@
     },
     {
       "category": "用户体验研究",
-      "count": 5,
+      "count": 6,
       "items": [
         {
           "title": "Good from Afar, But Far from Good: AI Prototyping in Real Design Contexts",
@@ -127,6 +145,15 @@
         {
           "title": "How AI Works and How Users Think About It: Study Guide",
           "url": "https://www.nngroup.com/articles/ai-functionality-study-guide/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Using AI for UX Work: Study Guide",
+          "url": "https://www.nngroup.com/articles/ai-work-study-guide/",
           "author": null,
           "category": "用户体验研究",
           "source": "NN/g (Nielsen Norman Group)",
@@ -245,6 +272,15 @@
           "published_at": null
         },
         {
+          "title": "More Nutrition",
+          "url": "https://www.awwwards.com/sites/more-nutrition",
+          "author": "FUTURE THREE®",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Portfolio '25",
           "url": "https://www.awwwards.com/sites/portfolio-25-1",
           "author": "Roman Jean-Elie",
@@ -306,57 +342,57 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Get Hyped",
-          "url": "https://www.awwwards.com/sites/get-hyped",
-          "author": "Dylan Brouwer",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Pickle",
-          "url": "https://www.producthunt.com/products/pickle-9",
-          "author": "Arshad",
+          "title": "Build0",
+          "url": "https://www.producthunt.com/products/build0-2",
+          "author": "Garry Tan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Screenshot, redact, and share — instantly and privately.Discussion|Link",
-          "published_at": "2025-11-01T15:58:01"
+          "summary": "Build custom internal apps in minutes, no coding requiredDiscussion|Link",
+          "published_at": "2025-10-31T18:20:03"
         },
         {
-          "title": "Maillayer",
-          "url": "https://www.producthunt.com/products/maillayer",
-          "author": "Mohd Danish",
+          "title": "Asimov",
+          "url": "https://www.producthunt.com/products/asimov-2",
+          "author": "Hamza Faisal",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Email marketing without subscriptionsDiscussion|Link",
-          "published_at": "2025-11-02T06:09:51"
+          "summary": "A unified interface for AI vector searchDiscussion|Link",
+          "published_at": "2025-11-02T16:43:38"
         },
         {
-          "title": "Sidemail 2.0",
-          "url": "https://www.producthunt.com/products/sidemail-io",
-          "author": "Kristyna Vrbova",
+          "title": "Pianolyze",
+          "url": "https://www.producthunt.com/products/pianolyze",
+          "author": "Nick Lee",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "All-in-one email platform for SaaSDiscussion|Link",
-          "published_at": "2025-10-31T10:24:28"
+          "summary": "Learn any piano song using AI/ML, right in your browser!Discussion|Link",
+          "published_at": "2025-11-03T03:15:44"
         },
         {
-          "title": "Postbrew",
-          "url": "https://www.producthunt.com/products/postbrew",
-          "author": "Avijit Kumar",
+          "title": "Parrot",
+          "url": "https://www.producthunt.com/products/parrot-7",
+          "author": "Arjav Parikh",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The social laboratory for coffee loversDiscussion|Link",
-          "published_at": "2025-11-01T21:59:00"
+          "summary": "Tiktok for learning spanishDiscussion|Link",
+          "published_at": "2025-11-02T05:29:41"
+        },
+        {
+          "title": "Odyssey-2",
+          "url": "https://www.producthunt.com/products/odyssey-5",
+          "author": "Zac Zuo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Instant, interactive video model that brings video to lifeDiscussion|Link",
+          "published_at": "2025-11-03T03:08:45"
         }
       ]
     },
@@ -425,49 +461,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Building AI-driven workflows powered by Claude Code",
-          "url": "https://uxdesign.cc/designing-with-claude-code-and-codex-cli-building-ai-driven-workflows-powered-by-code-connect-ui-f10c136ec11f",
+          "title": "From blank canvas to full flow in 30 seconds",
+          "url": "https://bit.ly/side-pil1",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How agentic CLI tools extend Figma MCP and turn wireframes into production-ready prototypes.",
-          "published_at": "2025-10-31T11:43:37"
+          "summary": "UX Pilot turns text into wireframes, on-brand screens, and flows in seconds. Iterate faster and get started free today.",
+          "published_at": "2025-11-03T10:54:00"
         },
         {
-          "title": "A brief history of domains",
-          "url": "https://www.dotcom.press/history-of-domains",
+          "title": "The real problem with AI coding",
+          "url": "https://www.cubic.dev/blog/the-real-problem-with-ai-coding",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "This year, dot com turned 40. Nearly a billion domains have been registered during that period.",
-          "published_at": "2025-10-31T11:42:40"
+          "summary": "The problem with AI coding isn't technical debt. It's comprehension debt.",
+          "published_at": "2025-11-03T10:52:58"
         },
         {
-          "title": "Using AI for UX work: study guide",
-          "url": "https://www.nngroup.com/articles/ai-work-study-guide/",
+          "title": "Stuffed memories",
+          "url": "https://exhibition.rightdesigninc.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A collection of links to our articles and videos to learn about the best ways to use artificial intelligence for UX work.",
-          "published_at": "2025-10-31T11:41:40"
+          "summary": "Unique stories and memories associated with stuffed animals.",
+          "published_at": "2025-11-03T10:52:31"
         },
         {
-          "title": "The TikTok model is the future of the web",
-          "url": "https://idiallo.com/blog/tiktok-model-is-the-future-of-the-web",
+          "title": "Scope creep: the game",
+          "url": "https://scope-creep.xyz/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Not the future we want, but the one we're getting.",
-          "published_at": "2025-10-31T11:41:06"
+          "summary": "A chilling tale of deliverables, deadlines and doomed decisions.",
+          "published_at": "2025-11-03T10:51:25"
         },
         {
-          "title": "Mobile to models and leading design with craft",
-          "url": "https://hvpandya.com/leading-with-craft",
+          "title": "Why tech needs personalization",
+          "url": "https://om.co/2025/10/29/why-tech-needs-personalization/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "With models emerging as the new material, leadership is about figuring out the unknowns again.",
-          "published_at": "2025-10-31T11:40:28"
+          "summary": "Personalization isn’t a feature; it is a way of acknowledging that life has texture.",
+          "published_at": "2025-11-03T10:50:46"
         }
       ]
     },
