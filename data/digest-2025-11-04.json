@@ -1,20 +1,21 @@
 {
   "date": "2025-11-04T00:00:00",
-  "total_items": 54,
+  "total_items": 56,
   "sources": [
-    "优设网",
+    "UX Planet",
+    "Sidebar",
+    "Smashing Magazine",
+    "设计达人",
     "Awwwards",
     "Design Milk",
-    "UX Planet",
+    "优设网",
     "CSS-Tricks",
-    "UX Design CC",
     "NN/g (Nielsen Norman Group)",
     "Product Hunt",
-    "A List Apart",
-    "设计达人",
-    "Sidebar"
+    "UX Design CC",
+    "A List Apart"
   ],
-  "generated_at": "2025-11-04T01:56:22.885333",
+  "generated_at": "2025-11-04T12:51:32.468494",
   "categories": [
     {
       "category": "用户体验设计",
@@ -207,8 +208,17 @@
     },
     {
       "category": "网页设计",
-      "count": 14,
+      "count": 15,
       "items": [
+        {
+          "title": "How To Leverage Component Variants In Penpot",
+          "url": "https://smashingmagazine.com/2025/11/how-leverage-component-variants-penpot/",
+          "author": "hello@smashingmagazine.com (Daniel Schwarz)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "With component variants, design systems become more flexible, letting you reuse the same component while adapting its look or state with ease. In this article, Daniel Schwarz demonstrates how design t...",
+          "published_at": "2025-11-04T10:00:00"
+        },
         {
           "title": "Design for Amiability: Lessons from Vienna",
           "url": "https://alistapart.com/article/design-for-amiability-lessons-from-vienna/",
@@ -339,43 +349,52 @@
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Parrot",
-          "url": "https://www.producthunt.com/products/parrot-7",
-          "author": "Arjav Parikh",
+          "title": "Jinna.ai",
+          "url": "https://www.producthunt.com/products/jinna-ai-2",
+          "author": "Chris Messina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Tiktok for learning spanishDiscussion|Link",
-          "published_at": "2025-11-02T05:29:41"
+          "summary": "AI invoicing that creates, sends & chases for youDiscussion|Link",
+          "published_at": "2025-11-01T19:32:39"
         },
         {
-          "title": "Odyssey-2",
-          "url": "https://www.producthunt.com/products/odyssey-5",
-          "author": "Zac Zuo",
+          "title": "MCP Playground",
+          "url": "https://www.producthunt.com/products/mcp-playground",
+          "author": "Paul",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Instant, interactive video model that brings video to lifeDiscussion|Link",
-          "published_at": "2025-11-03T03:08:45"
+          "summary": "Open-source MCP playground to test and introspect serversDiscussion|Link",
+          "published_at": "2025-11-03T08:50:09"
         },
         {
-          "title": "Pianolyze",
-          "url": "https://www.producthunt.com/products/pianolyze",
-          "author": "Nick Lee",
+          "title": "Aritect",
+          "url": "https://www.producthunt.com/products/aritect",
+          "author": "Alexander Shelepenok",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Learn any piano song using AI/ML, right in your browser!Discussion|Link",
-          "published_at": "2025-11-03T03:15:44"
+          "summary": "Making the invisible visibleDiscussion|Link",
+          "published_at": "2025-11-03T13:22:30"
         },
         {
-          "title": "Asimov",
-          "url": "https://www.producthunt.com/products/asimov-2",
-          "author": "Hamza Faisal",
+          "title": "Termdock",
+          "url": "https://www.producthunt.com/products/termdock",
+          "author": "Danny Huang",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A unified interface for AI vector searchDiscussion|Link",
-          "published_at": "2025-11-02T16:43:38"
+          "summary": "Terminal-centric AI development environmentDiscussion|Link",
+          "published_at": "2025-11-03T08:00:59"
+        },
+        {
+          "title": "Lovelace",
+          "url": "https://www.producthunt.com/products/lovelace",
+          "author": "Lambros Photios",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "AI-powered cloud IDE for coding from anywhereDiscussion|Link",
+          "published_at": "2025-11-03T19:17:03"
         }
       ]
     },
@@ -444,49 +463,49 @@
       "count": 5,
       "items": [
         {
-          "title": "From blank canvas to full flow in 30 seconds",
-          "url": "https://bit.ly/side-pil1",
+          "title": "How AI broke interviews",
+          "url": "https://yusufaytas.com/ai-broke-interviews/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "UX Pilot turns text into wireframes, on-brand screens, and flows in seconds. Iterate faster and get started free today.",
-          "published_at": "2025-11-03T10:54:00"
+          "summary": "AI erased trust in remote interviewing. Here’s how the system broke and how companies are rebuilding interviews around real human reasoning.",
+          "published_at": "2025-11-04T10:21:16"
         },
         {
-          "title": "The real problem with AI coding",
-          "url": "https://www.cubic.dev/blog/the-real-problem-with-ai-coding",
+          "title": "AI of a thousand faces",
+          "url": "https://www.wired.com/ai-issue/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The problem with AI coding isn't technical debt. It's comprehension debt.",
-          "published_at": "2025-11-03T10:52:58"
+          "summary": "What happens now that AI is everywhere and in everything? 17 readings from the furthest reaches of the AI age.",
+          "published_at": "2025-11-04T10:20:44"
         },
         {
-          "title": "Stuffed memories",
-          "url": "https://exhibition.rightdesigninc.com/",
+          "title": "The top secret Virgil Abloh archive",
+          "url": "https://www.gq.com/story/the-top-secret-virgil-abloh-archive-louis-vuitton-off-white-nike",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Unique stories and memories associated with stuffed animals.",
-          "published_at": "2025-11-03T10:52:31"
+          "summary": "A team of archivists has tirelessly catalogued one of the most remarkable private fashion collections ever assembled.",
+          "published_at": "2025-11-04T10:20:07"
         },
         {
-          "title": "Scope creep: the game",
-          "url": "https://scope-creep.xyz/",
+          "title": "Bold.af: the Affinity rebrand",
+          "url": "https://www.itsnicethat.com/articles/affinity-rebrand-canva-graphic-design-product-design-project-301025",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A chilling tale of deliverables, deadlines and doomed decisions.",
-          "published_at": "2025-11-03T10:51:25"
+          "summary": "How Canva’s pro sister has undergone a huge overhaul inside and out.",
+          "published_at": "2025-11-04T10:19:23"
         },
         {
-          "title": "Why tech needs personalization",
-          "url": "https://om.co/2025/10/29/why-tech-needs-personalization/",
+          "title": "The fundamentals problem",
+          "url": "https://www.chrbutler.com/the-fundamentals-problem",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Personalization isn’t a feature; it is a way of acknowledging that life has texture.",
-          "published_at": "2025-11-03T10:50:46"
+          "summary": "Anyone can make something that looks designed, but that doesn’t mean that design has happened.",
+          "published_at": "2025-11-04T10:18:37"
         }
       ]
     },
