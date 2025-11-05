@@ -1,21 +1,21 @@
 {
   "date": "2025-11-05T00:00:00",
-  "total_items": 56,
+  "total_items": 55,
   "sources": [
-    "CSS-Tricks",
     "Design Milk",
-    "UX Planet",
-    "NN/g (Nielsen Norman Group)",
-    "Smashing Magazine",
-    "Product Hunt",
-    "优设网",
-    "A List Apart",
+    "UX Design CC",
     "Awwwards",
-    "Sidebar",
+    "UX Planet",
+    "A List Apart",
+    "CSS-Tricks",
+    "NN/g (Nielsen Norman Group)",
+    "Product Hunt",
     "设计达人",
-    "UX Design CC"
+    "优设网",
+    "Sidebar",
+    "Smashing Magazine"
   ],
-  "generated_at": "2025-11-05T01:50:25.549251",
+  "generated_at": "2025-11-05T07:53:23.117064",
   "categories": [
     {
       "category": "用户体验设计",
@@ -283,6 +283,15 @@
           "published_at": null
         },
         {
+          "title": "Kaleida",
+          "url": "https://www.awwwards.com/sites/kaleida",
+          "author": "Fiddle.Digital Design Agency",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Iventions",
           "url": "https://www.awwwards.com/sites/iventions",
           "author": "SERIOUS.BUSINESS",
@@ -344,30 +353,21 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Hut 8",
-          "url": "https://www.awwwards.com/sites/hut-8",
-          "author": "Studio 28K",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 3,
       "items": [
         {
-          "title": "Uneed Community",
-          "url": "https://www.producthunt.com/products/uneed",
-          "author": "Thomas Sanlis",
+          "title": "Supernova.io",
+          "url": "https://www.producthunt.com/products/supernovaio",
+          "author": "Jirka Třečák",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Launch, get seen, & grow alongside other makersDiscussion|Link",
-          "published_at": "2025-11-02T09:24:53"
+          "summary": "Build, document and hand-off features 10x fasterDiscussion|Link",
+          "published_at": "2025-11-03T05:08:44"
         },
         {
           "title": "Softr Workflows",
@@ -377,15 +377,6 @@
           "source": "Product Hunt",
           "summary": "Build automations to power your apps and businessDiscussion|Link",
           "published_at": "2025-11-02T11:49:22"
-        },
-        {
-          "title": "OptySleep",
-          "url": "https://www.producthunt.com/products/optysleep",
-          "author": "Andrew Munoz",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Sleep smarter: AI driven sleep insights based on your habitsDiscussion|Link",
-          "published_at": "2025-11-03T21:21:37"
         },
         {
           "title": "Termdock",
