@@ -1,21 +1,21 @@
 {
   "date": "2025-11-06T00:00:00",
-  "total_items": 55,
+  "total_items": 57,
   "sources": [
-    "A List Apart",
-    "UX Design CC",
-    "Sidebar",
-    "设计达人",
-    "CSS-Tricks",
     "Product Hunt",
-    "Smashing Magazine",
     "NN/g (Nielsen Norman Group)",
+    "Design Milk",
+    "Awwwards",
     "UX Planet",
     "优设网",
-    "Design Milk",
-    "Awwwards"
+    "A List Apart",
+    "Smashing Magazine",
+    "Sidebar",
+    "CSS-Tricks",
+    "设计达人",
+    "UX Design CC"
   ],
-  "generated_at": "2025-11-06T01:50:34.655735",
+  "generated_at": "2025-11-06T02:51:17.178904",
   "categories": [
     {
       "category": "用户体验设计",
@@ -358,7 +358,7 @@
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 5,
       "items": [
         {
           "title": "Alpha Vantage MCP",
@@ -370,13 +370,22 @@
           "published_at": "2025-11-04T23:00:18"
         },
         {
-          "title": "Apple App Store",
-          "url": "https://www.producthunt.com/products/apple",
-          "author": "Chris Messina",
+          "title": "Nexorify",
+          "url": "https://www.producthunt.com/products/nexorify",
+          "author": "Ilya",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Find apps & games for iPhone, iPad, Mac & more — on the webDiscussion|Link",
-          "published_at": "2025-11-05T01:37:14"
+          "summary": "Create reminders & calendar events instantly by speakingDiscussion|Link",
+          "published_at": "2025-11-04T14:31:21"
+        },
+        {
+          "title": "Perch",
+          "url": "https://www.producthunt.com/products/perch-7",
+          "author": "Serkan Adıgüzel",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Dynamic Island for Mac NotchDiscussion|Link",
+          "published_at": "2025-11-03T10:47:48"
         },
         {
           "title": "ROAARRR",
@@ -386,6 +395,15 @@
           "source": "Product Hunt",
           "summary": "Simple growth analytics. Know your funnel.Discussion|Link",
           "published_at": "2025-11-04T15:33:24"
+        },
+        {
+          "title": "Apple App Store",
+          "url": "https://www.producthunt.com/products/apple",
+          "author": "Chris Messina",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Find apps & games for iPhone, iPad, Mac & more — on the webDiscussion|Link",
+          "published_at": "2025-11-05T01:37:14"
         }
       ]
     },
