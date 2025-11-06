@@ -1,26 +1,44 @@
 {
   "date": "2025-11-06T00:00:00",
-  "total_items": 57,
+  "total_items": 59,
   "sources": [
-    "Product Hunt",
-    "NN/g (Nielsen Norman Group)",
-    "Design Milk",
-    "Awwwards",
-    "UX Planet",
-    "优设网",
     "A List Apart",
-    "Smashing Magazine",
+    "Product Hunt",
+    "优设网",
+    "Awwwards",
+    "NN/g (Nielsen Norman Group)",
     "Sidebar",
     "CSS-Tricks",
+    "UX Design CC",
+    "UX Planet",
     "设计达人",
-    "UX Design CC"
+    "Smashing Magazine",
+    "Design Milk"
   ],
-  "generated_at": "2025-11-06T02:51:17.178904",
+  "generated_at": "2025-11-06T12:48:46.810353",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 7,
+      "count": 9,
       "items": [
+        {
+          "title": "We wanted Superman-level AI. Instead, we got Bizarro.",
+          "url": "https://uxdesign.cc/we-wanted-superman-level-ai-instead-we-got-bizarro-ce6d4ba04f64?source=rss----138adf9c44c---4",
+          "author": "Michael Buckley",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The illusion of intelligence is the new frontier of deception.Image source:dcau.fandom.com/wiki/BizarroI was a huge Superman fan as a kid. In fact, my first tattoo was of the Superman symbol — I know,...",
+          "published_at": "2025-11-06T12:22:26"
+        },
+        {
+          "title": "Is Figma in its accessibility era?",
+          "url": "https://uxdesign.cc/is-figma-in-its-accessibility-era-c87c831b1393?source=rss----138adf9c44c---4",
+          "author": "Allie Paschal",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Figma’s inclusive design updatesDesigners are expected (sometimes legally required) to create accessible products. But many tools we rely on are inaccessible themselves.Imagine trying to useAdobe Illu...",
+          "published_at": "2025-11-06T12:20:40"
+        },
         {
           "title": "Shifting within: creating change inside a corrupt system without losing ourselves",
           "url": "https://uxdesign.cc/shifting-within-creating-change-inside-a-corrupt-system-without-losing-ourselves-622b45c5c85f?source=rss----138adf9c44c---4",
@@ -283,6 +301,15 @@
           "published_at": null
         },
         {
+          "title": "GKC Architecture & Design",
+          "url": "https://www.awwwards.com/sites/gkc-architecture-design",
+          "author": "Locomotive",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Kaleida",
           "url": "https://www.awwwards.com/sites/kaleida",
           "author": "Fiddle.Digital Design Agency",
@@ -344,15 +371,6 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Orage",
-          "url": "https://www.awwwards.com/sites/orage",
-          "author": "Beaucoup.",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -361,49 +379,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Alpha Vantage MCP",
-          "url": "https://www.producthunt.com/products/alpha-vantage",
-          "author": "Alden Waterhouse",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Have a natural-language conversation with financial marketsDiscussion|Link",
-          "published_at": "2025-11-04T23:00:18"
-        },
-        {
-          "title": "Nexorify",
-          "url": "https://www.producthunt.com/products/nexorify",
-          "author": "Ilya",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Create reminders & calendar events instantly by speakingDiscussion|Link",
-          "published_at": "2025-11-04T14:31:21"
-        },
-        {
-          "title": "Perch",
-          "url": "https://www.producthunt.com/products/perch-7",
-          "author": "Serkan Adıgüzel",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Dynamic Island for Mac NotchDiscussion|Link",
-          "published_at": "2025-11-03T10:47:48"
-        },
-        {
-          "title": "ROAARRR",
-          "url": "https://www.producthunt.com/products/roaarrr",
-          "author": "Mario Arabov",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Simple growth analytics. Know your funnel.Discussion|Link",
-          "published_at": "2025-11-04T15:33:24"
-        },
-        {
-          "title": "Apple App Store",
-          "url": "https://www.producthunt.com/products/apple",
+          "title": "BeeBot for AirPods",
+          "url": "https://www.producthunt.com/products/beebot-for-airpods",
           "author": "Chris Messina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Find apps & games for iPhone, iPad, Mac & more — on the webDiscussion|Link",
-          "published_at": "2025-11-05T01:37:14"
+          "summary": "Your social audio guide to the cityDiscussion|Link",
+          "published_at": "2025-11-06T05:56:44"
+        },
+        {
+          "title": "Everywhere",
+          "url": "https://www.producthunt.com/products/everywhere",
+          "author": "Artemis Li",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Every moment, Every place. Your AI: EverywhereDiscussion|Link",
+          "published_at": "2025-11-05T17:51:59"
+        },
+        {
+          "title": "QuiteInbox",
+          "url": "https://www.producthunt.com/products/quiteinbox",
+          "author": "Koushith B.R",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Take back control of your inboxDiscussion|Link",
+          "published_at": "2025-11-05T18:31:08"
+        },
+        {
+          "title": "Helicone.ai",
+          "url": "https://www.producthunt.com/products/helicone-ai",
+          "author": "Cole Gottdank",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The open-source AI gateway for AI-native startupsDiscussion|Link",
+          "published_at": "2025-11-04T20:24:18"
+        },
+        {
+          "title": "Stream Ring by Sandbar",
+          "url": "https://www.producthunt.com/products/stream-stream-ring-by-sandbar",
+          "author": "Mina Fahmi",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Capture thoughts & build ideas anywhereDiscussion|Link",
+          "published_at": "2025-11-04T23:31:08"
         }
       ]
     },
@@ -472,6 +490,33 @@
       "count": 5,
       "items": [
         {
+          "title": "Comparing interviews at 8 large tech companies",
+          "url": "https://blog.pragmaticengineer.com/comparing-interviews-at-8-large-tech-companies/",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "In three months, Puneet did more than 60 interviews at 11 companies, including Google, Uber, Amazon, Atlassian, and others.",
+          "published_at": "2025-11-06T12:48:17"
+        },
+        {
+          "title": "Design principles for teams working in healthcare",
+          "url": "https://mikegallagher.org/posts/design-principles-for-healthcare/",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "An attempt to define what we mean when we say a “good user experience” in the context of the NHS.",
+          "published_at": "2025-11-06T12:46:18"
+        },
+        {
+          "title": "Some software bloat is OK",
+          "url": "https://waspdev.com/articles/2025-11-04/some-software-bloat-is-ok",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "The software efficiency in an era of fast CPUs, gigabytes of RAM and terabytes of storage.",
+          "published_at": "2025-11-06T12:45:13"
+        },
+        {
           "title": "Why I don’t test different designs at the same time",
           "url": "https://adamsilver.io/blog/why-i-dont-test-different-designs-at-the-same-time/",
           "author": null,
@@ -488,33 +533,6 @@
           "source": "Sidebar",
           "summary": "Understanding how dithering works, visually.",
           "published_at": "2025-11-05T12:29:26"
-        },
-        {
-          "title": "Architectural debt is not just technical debt",
-          "url": "https://frederickvanbrabant.com/blog/2025-10-31-architectural-debt-is-not-just-technical-debt/",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "Code debt are the hacks you put in place to reach a deadline; architectural debt are the decisions that come back to bite you six months later.",
-          "published_at": "2025-11-05T12:28:47"
-        },
-        {
-          "title": "Design from the margins",
-          "url": "https://www.belfercenter.org/publication/design-margins",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "Free book. Centering the most marginalized and impacted in design processes - from ideation to production.",
-          "published_at": "2025-11-05T12:27:21"
-        },
-        {
-          "title": "Against the protection of stocking frames",
-          "url": "https://ethanmarcotte.com/wrote/against-stocking-frames/",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "“Artificial intelligence” is a failed technology. It’s time we described it that way.",
-          "published_at": "2025-11-05T12:26:23"
         }
       ]
     },
