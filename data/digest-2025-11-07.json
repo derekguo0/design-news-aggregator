@@ -1,25 +1,33 @@
 {
   "date": "2025-11-07T00:00:00",
-  "total_items": 54,
+  "total_items": 47,
   "sources": [
-    "UX Design CC",
-    "CSS-Tricks",
-    "Product Hunt",
-    "优设网",
+    "Design Milk",
     "A List Apart",
+    "设计达人",
+    "CSS-Tricks",
+    "优设网",
     "Sidebar",
     "NN/g (Nielsen Norman Group)",
-    "Design Milk",
-    "Awwwards",
-    "设计达人",
+    "UX Design CC",
+    "Product Hunt",
     "Smashing Magazine"
   ],
-  "generated_at": "2025-11-07T01:59:10.093650",
+  "generated_at": "2025-11-07T12:47:45.440395",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 4,
+      "count": 5,
       "items": [
+        {
+          "title": "Material 3 Expressive: Building on the failures of flat design",
+          "url": "https://uxdesign.cc/material-3-expressive-building-on-the-failures-of-flat-design-d7a9bb627298?source=rss----138adf9c44c---4",
+          "author": "Benjamin C.J. W",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The newest changes to Google’s influential design system are reviving some very old lessons.A whimsical cloud of Expressive buttons. (Google Design, 2025)“Life is too short to click on things you don’...",
+          "published_at": "2025-11-07T09:55:59"
+        },
         {
           "title": "We wanted Superman-level AI. Instead, we got Bizarro.",
           "url": "https://uxdesign.cc/we-wanted-superman-level-ai-instead-we-got-bizarro-ce6d4ba04f64?source=rss----138adf9c44c---4",
@@ -60,20 +68,11 @@
     },
     {
       "category": "用户体验研究",
-      "count": 6,
+      "count": 5,
       "items": [
         {
           "title": "Stop Making Your Team Figure Out AI on Their Own",
           "url": "https://www.nngroup.com/articles/ai-research-ops/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Good from Afar, But Far from Good: AI Prototyping in Real Design Contexts",
-          "url": "https://www.nngroup.com/articles/ai-prototyping/",
           "author": null,
           "category": "用户体验研究",
           "source": "NN/g (Nielsen Norman Group)",
@@ -180,7 +179,7 @@
     },
     {
       "category": "网页设计",
-      "count": 16,
+      "count": 8,
       "items": [
         {
           "title": "Six Key Components of UX Strategy",
@@ -253,129 +252,66 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
-        },
-        {
-          "title": "GKC Architecture & Design",
-          "url": "https://www.awwwards.com/sites/gkc-architecture-design",
-          "author": "Locomotive",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Kaleida",
-          "url": "https://www.awwwards.com/sites/kaleida",
-          "author": "Fiddle.Digital Design Agency",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Iventions",
-          "url": "https://www.awwwards.com/sites/iventions",
-          "author": "SERIOUS.BUSINESS",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "More Nutrition",
-          "url": "https://www.awwwards.com/sites/more-nutrition",
-          "author": "FUTURE THREE®",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Portfolio '25",
-          "url": "https://www.awwwards.com/sites/portfolio-25-1",
-          "author": "Roman Jean-Elie",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Studio Tyrsa",
-          "url": "https://www.awwwards.com/sites/studio-tyrsa",
-          "author": "PROPAGANDE",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Beyond Design Into Experience",
-          "url": "https://www.awwwards.com/sites/beyond-design-into-experience",
-          "author": "Plus X Creative Partner",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Urban Jürgensen",
-          "url": "https://www.awwwards.com/sites/urban-jurgensen",
-          "author": "Digital Luxury Group",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "iisee.me",
-          "url": "https://www.producthunt.com/products/iisee-me",
-          "author": "Charlie Clark",
+          "title": "Burner Terminal",
+          "url": "https://www.producthunt.com/products/burner-2",
+          "author": "David Myers",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Create your own AI generated expression gridDiscussion|Link",
-          "published_at": "2025-11-06T02:37:30"
+          "summary": "Tap to Pay for StablecoinsDiscussion|Link",
+          "published_at": "2025-11-06T22:06:08"
         },
         {
-          "title": "Packmind Open Source",
-          "url": "https://www.producthunt.com/products/packmind-open-source",
-          "author": "Cédric Teyton",
+          "title": "Taskade Genesis",
+          "url": "https://www.producthunt.com/products/taskade",
+          "author": "John Xie",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Roll out coding standards safely across repos and agentsDiscussion|Link",
-          "published_at": "2025-11-04T13:23:57"
+          "summary": "Your workspace, alive with memory, intelligence, and motion.Discussion|Link",
+          "published_at": "2025-11-05T09:41:49"
         },
         {
-          "title": "Everywhere",
-          "url": "https://www.producthunt.com/products/everywhere",
-          "author": "Artemis Li",
+          "title": "Fusion 1.0",
+          "url": "https://www.producthunt.com/products/builder-io",
+          "author": "Vishwas Gopinath",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Every moment, Every place. Your AI: EverywhereDiscussion|Link",
-          "published_at": "2025-11-05T17:51:59"
+          "summary": "The first AI agent for product, design, and codeDiscussion|Link",
+          "published_at": "2025-11-06T08:56:09"
         },
         {
-          "title": "Melodic Mind",
-          "url": "https://www.producthunt.com/products/melodic-mind-2",
-          "author": "Sean Dvir",
+          "title": "Groodles",
+          "url": "https://www.producthunt.com/products/groodles-art-therapy-app",
+          "author": "Aditya Gopal Ganguly",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Create, learn, and grow as a musicianDiscussion|Link",
-          "published_at": "2025-11-05T21:51:03"
+          "summary": "Art therapy app with Apple Health that unlocks a better youDiscussion|Link",
+          "published_at": "2025-11-06T10:38:21"
         },
         {
-          "title": "Stream Ring by Sandbar",
-          "url": "https://www.producthunt.com/products/stream-stream-ring-by-sandbar",
-          "author": "Mina Fahmi",
+          "title": "Layrr",
+          "url": "https://www.producthunt.com/products/layrr",
+          "author": "Kiran Johns",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Capture thoughts & build ideas anywhereDiscussion|Link",
-          "published_at": "2025-11-04T23:31:08"
+          "summary": "Framer for your actual codebaseDiscussion|Link",
+          "published_at": "2025-11-06T12:46:45"
+        },
+        {
+          "title": "Wagoo Voice Assistant",
+          "url": "https://www.producthunt.com/products/wagoo",
+          "author": "Mikul Saravanan",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Never lift a finger again. Voice AI for email & calendarDiscussion|Link",
+          "published_at": "2025-11-06T03:09:57"
         }
       ]
     },
@@ -444,49 +380,49 @@
       "count": 5,
       "items": [
         {
-          "title": "AI’s dial-up era",
-          "url": "https://www.wreflection.com/p/ai-dial-up-era",
+          "title": "How design helped Zohran win",
+          "url": "https://johannesippen.com/2025/zohran-design-win/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "We’re in 1995 again. This time with Artificial Intelligence.",
-          "published_at": "2025-11-06T12:50:26"
+          "summary": "A campaign design analysis of \"Zohran for NYC\"—and what you can take away from it.",
+          "published_at": "2025-11-07T10:26:04"
         },
         {
-          "title": "AI open letter by Amazon workers",
-          "url": "https://www.amazonclimatejustice.org/open-letter",
+          "title": "Metallic text effect generator",
+          "url": "https://design.dev/tools/metallic-effect-generator/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Telling Amazon leadership that we need a more responsible rollout of AI. Every single signature makes the message stronger.",
-          "published_at": "2025-11-06T12:49:42"
+          "summary": "Create metallic text effects with CSS gradients. Choose from gold, silver, chrome, and more with real-time preview.",
+          "published_at": "2025-11-07T10:25:23"
         },
         {
-          "title": "Comparing interviews at 8 large tech companies",
-          "url": "https://blog.pragmaticengineer.com/comparing-interviews-at-8-large-tech-companies/",
+          "title": "View transitions: practical examples to elevate your UI",
+          "url": "https://piccalil.li/blog/some-practical-examples-of-view-transitions-to-elevate-your-ui/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "In three months, Puneet did more than 60 interviews at 11 companies, including Google, Uber, Amazon, Atlassian, and others.",
-          "published_at": "2025-11-06T12:48:17"
+          "summary": "A powerful way to create animated transitions between two states.",
+          "published_at": "2025-11-07T10:24:36"
         },
         {
-          "title": "Design principles for teams working in healthcare",
-          "url": "https://mikegallagher.org/posts/design-principles-for-healthcare/",
+          "title": "Accessible color palette creator",
+          "url": "https://www.inclusivecolors.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "An attempt to define what we mean when we say a “good user experience” in the context of the NHS.",
-          "published_at": "2025-11-06T12:46:18"
+          "summary": "A tool for making custom branded color palettes built to meet accessible contrast requirements for WCAG, ADA and Section 508.",
+          "published_at": "2025-11-07T10:23:16"
         },
         {
-          "title": "Some software bloat is OK",
-          "url": "https://waspdev.com/articles/2025-11-04/some-software-bloat-is-ok",
+          "title": "AI prototyping in real design contexts",
+          "url": "https://www.nngroup.com/articles/ai-prototyping/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The software efficiency in an era of fast CPUs, gigabytes of RAM and terabytes of storage.",
-          "published_at": "2025-11-06T12:45:13"
+          "summary": "Good from afar, but far from good.",
+          "published_at": "2025-11-07T10:22:03"
         }
       ]
     },
