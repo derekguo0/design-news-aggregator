@@ -1,19 +1,20 @@
 {
   "date": "2025-11-08T00:00:00",
-  "total_items": 45,
+  "total_items": 51,
   "sources": [
-    "CSS-Tricks",
+    "UX Design CC",
+    "Sidebar",
+    "Smashing Magazine",
     "设计达人",
-    "Product Hunt",
     "A List Apart",
     "优设网",
-    "UX Design CC",
-    "Smashing Magazine",
-    "Sidebar",
-    "NN/g (Nielsen Norman Group)",
-    "Design Milk"
+    "CSS-Tricks",
+    "Product Hunt",
+    "Awwwards",
+    "Design Milk",
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2025-11-08T01:43:55.593722",
+  "generated_at": "2025-11-08T12:41:06.312788",
   "categories": [
     {
       "category": "用户体验设计",
@@ -161,7 +162,7 @@
     },
     {
       "category": "网页设计",
-      "count": 8,
+      "count": 15,
       "items": [
         {
           "title": "Smashing Animations Part 6: Magnificent SVGs With `<use>` And CSS Custom Properties",
@@ -234,66 +235,120 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
+        },
+        {
+          "title": "Mantis",
+          "url": "https://www.awwwards.com/sites/mantis",
+          "author": "Mantis",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "GKC Architecture & Design",
+          "url": "https://www.awwwards.com/sites/gkc-architecture-design",
+          "author": "Locomotive",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Kaleida",
+          "url": "https://www.awwwards.com/sites/kaleida",
+          "author": "Fiddle.Digital Design Agency",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Iventions",
+          "url": "https://www.awwwards.com/sites/iventions",
+          "author": "SERIOUS.BUSINESS",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "More Nutrition",
+          "url": "https://www.awwwards.com/sites/more-nutrition",
+          "author": "FUTURE THREE®",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Portfolio '25",
+          "url": "https://www.awwwards.com/sites/portfolio-25-1",
+          "author": "Roman Jean-Elie",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Studio Tyrsa",
+          "url": "https://www.awwwards.com/sites/studio-tyrsa",
+          "author": "PROPAGANDE",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "Kimi K2 Thinking",
-          "url": "https://www.producthunt.com/products/kimi-ai-assistant",
-          "author": "Zac Zuo",
+          "title": "OneSnap!",
+          "url": "https://www.producthunt.com/products/onesnap",
+          "author": "Rand",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The 1T Parameters Open-Source Thinking Model - SOTA on HLEDiscussion|Link",
-          "published_at": "2025-11-07T01:41:52"
+          "summary": "Link your phones, snap better pictures togetherDiscussion|Link",
+          "published_at": "2025-11-06T13:47:27"
         },
         {
-          "title": "Burner Terminal",
-          "url": "https://www.producthunt.com/products/burner-2",
-          "author": "David Myers",
+          "title": "Gempod",
+          "url": "https://www.producthunt.com/products/gempod",
+          "author": "David Pfluegl",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Tap to Pay for StablecoinsDiscussion|Link",
-          "published_at": "2025-11-06T22:06:08"
+          "summary": "A treasure chest for your bookmarksDiscussion|Link",
+          "published_at": "2025-11-06T13:32:25"
         },
         {
-          "title": "Wagoo Voice Assistant",
-          "url": "https://www.producthunt.com/products/wagoo",
-          "author": "Mikul Saravanan",
+          "title": "Shadcnblocks",
+          "url": "https://www.producthunt.com/products/shadcnblocks-2",
+          "author": "fmerian",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Never lift a finger again. Voice AI for email & calendarDiscussion|Link",
-          "published_at": "2025-11-06T03:09:57"
+          "summary": "The ultimate block set for shadcn/ui, Tailwind, and ReactDiscussion|Link",
+          "published_at": "2025-11-05T09:15:25"
         },
         {
-          "title": "Groodles",
-          "url": "https://www.producthunt.com/products/groodles-art-therapy-app",
-          "author": "Aditya Gopal Ganguly",
+          "title": "GTA Radio",
+          "url": "https://www.producthunt.com/products/gta-radio-2",
+          "author": "Rafail Vasilakis",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Art therapy app with Apple Health that unlocks a better youDiscussion|Link",
-          "published_at": "2025-11-06T10:38:21"
+          "summary": "Listen to GTA V radio stations in your browser anytimeDiscussion|Link",
+          "published_at": "2025-11-06T21:21:06"
         },
         {
-          "title": "Sourmize",
-          "url": "https://www.producthunt.com/products/sourmize",
-          "author": "Carlos Imlau",
+          "title": "Compyle",
+          "url": "https://www.producthunt.com/products/compyle-2",
+          "author": "Jonathan Miranda",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Automatic UTMs with AI + Intelligent AnalyticsDiscussion|Link",
-          "published_at": "2025-11-06T08:20:10"
-        },
-        {
-          "title": "Fusion 1.0",
-          "url": "https://www.producthunt.com/products/builder-io",
-          "author": "Vishwas Gopinath",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The first AI agent for product, design, and codeDiscussion|Link",
-          "published_at": "2025-11-06T08:56:09"
+          "summary": "The coding agent that asks before it buildsDiscussion|Link",
+          "published_at": "2025-11-08T01:05:46"
         }
       ]
     },
