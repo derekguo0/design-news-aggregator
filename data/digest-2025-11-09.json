@@ -1,20 +1,20 @@
 {
   "date": "2025-11-09T00:00:00",
-  "total_items": 51,
+  "total_items": 52,
   "sources": [
-    "Smashing Magazine",
-    "A List Apart",
-    "优设网",
-    "设计达人",
-    "NN/g (Nielsen Norman Group)",
-    "CSS-Tricks",
     "Design Milk",
+    "A List Apart",
     "Product Hunt",
-    "Awwwards",
+    "NN/g (Nielsen Norman Group)",
+    "Sidebar",
     "UX Design CC",
-    "Sidebar"
+    "CSS-Tricks",
+    "设计达人",
+    "Smashing Magazine",
+    "Awwwards",
+    "优设网"
   ],
-  "generated_at": "2025-11-09T01:53:19.587628",
+  "generated_at": "2025-11-09T12:41:27.287627",
   "categories": [
     {
       "category": "用户体验设计",
@@ -72,6 +72,15 @@
       "count": 5,
       "items": [
         {
+          "title": "Insights Aren’t Outcomes: Research Recommendation Breakage",
+          "url": "https://www.nngroup.com/articles/research-recommendation-breakage/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Stop Making Your Team Figure Out AI on Their Own",
           "url": "https://www.nngroup.com/articles/ai-research-ops/",
           "author": null,
@@ -101,15 +110,6 @@
         {
           "title": "How AI Works and How Users Think About It: Study Guide",
           "url": "https://www.nngroup.com/articles/ai-functionality-study-guide/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Using AI for UX Work: Study Guide",
-          "url": "https://www.nngroup.com/articles/ai-work-study-guide/",
           "author": null,
           "category": "用户体验研究",
           "source": "NN/g (Nielsen Norman Group)",
@@ -246,6 +246,15 @@
           "published_at": null
         },
         {
+          "title": "Emele Collab",
+          "url": "https://www.awwwards.com/sites/emele-collab",
+          "author": "Emele Collab",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Mantis",
           "url": "https://www.awwwards.com/sites/mantis",
           "author": "Mantis",
@@ -298,57 +307,57 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Studio Tyrsa",
-          "url": "https://www.awwwards.com/sites/studio-tyrsa",
-          "author": "PROPAGANDE",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "OneSnap!",
-          "url": "https://www.producthunt.com/products/onesnap",
-          "author": "Rand",
+          "title": "Scaloom",
+          "url": "https://www.producthunt.com/products/scaloom-5",
+          "author": "Lionel Lakson",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Link your phones, snap better pictures togetherDiscussion|Link",
-          "published_at": "2025-11-06T13:47:27"
+          "summary": "The AI Agent That Makes Reddit Trust YouDiscussion|Link",
+          "published_at": "2025-11-08T19:59:34"
         },
         {
-          "title": "Gempod",
-          "url": "https://www.producthunt.com/products/gempod",
-          "author": "David Pfluegl",
+          "title": "Astrolid",
+          "url": "https://www.producthunt.com/products/astrolid",
+          "author": "Roman Ojeda",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A treasure chest for your bookmarksDiscussion|Link",
-          "published_at": "2025-11-06T13:32:25"
+          "summary": "Because progress shouldn't be difficultDiscussion|Link",
+          "published_at": "2025-11-08T21:49:34"
         },
         {
-          "title": "GTA Radio",
-          "url": "https://www.producthunt.com/products/gta-radio-2",
-          "author": "Rafail Vasilakis",
+          "title": "Epismo: Kickoff Agent",
+          "url": "https://www.producthunt.com/products/epismo",
+          "author": "Hiroki",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Listen to GTA V radio stations in your browser anytimeDiscussion|Link",
-          "published_at": "2025-11-06T21:21:06"
+          "summary": "Build your human-AI team. Assign the right AI to each task.Discussion|Link",
+          "published_at": "2025-11-08T22:02:17"
         },
         {
-          "title": "Compyle",
-          "url": "https://www.producthunt.com/products/compyle-2",
-          "author": "Jonathan Miranda",
+          "title": "JDoodle.ai",
+          "url": "https://www.producthunt.com/products/jdoodle-ai",
+          "author": "fmerian",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The coding agent that asks before it buildsDiscussion|Link",
-          "published_at": "2025-11-08T01:05:46"
+          "summary": "Vibe app builder with free bug fixes, db and PAYG creditsDiscussion|Link",
+          "published_at": "2025-11-07T10:20:29"
+        },
+        {
+          "title": "Chatter",
+          "url": "https://www.producthunt.com/products/chatter-4",
+          "author": "Gavin Cho",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Discover which reddit investors make it big — and how oftenDiscussion|Link",
+          "published_at": "2025-11-08T20:27:28"
         }
       ]
     },
