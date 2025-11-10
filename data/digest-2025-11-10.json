@@ -1,24 +1,51 @@
 {
   "date": "2025-11-10T00:00:00",
-  "total_items": 46,
+  "total_items": 51,
   "sources": [
     "Sidebar",
-    "Product Hunt",
     "Awwwards",
-    "UX Design CC",
+    "Product Hunt",
     "优设网",
+    "UX Design CC",
+    "NN/g (Nielsen Norman Group)",
+    "Design Milk",
     "A List Apart",
     "设计达人",
-    "Smashing Magazine",
-    "Design Milk",
-    "NN/g (Nielsen Norman Group)"
+    "Smashing Magazine"
   ],
-  "generated_at": "2025-11-10T02:22:00.349619",
+  "generated_at": "2025-11-10T12:50:09.992514",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 4,
+      "count": 7,
       "items": [
+        {
+          "title": "Designing for brain rot, Figma accessibility, Neo Robot, 10 easy UI fixes",
+          "url": "https://uxdesign.cc/designing-for-brain-rot-figma-accessibility-neo-robot-10-easy-ui-fixes-ae1bf815f4ca?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“How much time do you think you spend on your phone everyday? The survey gives an average of 5 hours and 16 minutes each day. That’s almost...",
+          "published_at": "2025-11-10T10:40:13"
+        },
+        {
+          "title": "We can’t predict the future, but we can design for it",
+          "url": "https://uxdesign.cc/we-cant-predict-the-future-but-we-can-design-for-it-079b60bf3bac?source=rss----138adf9c44c---4",
+          "author": "Ian Batterbee",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How decentralisation is reshaping innovation, and what the possible futures of adaptability might look like.Continue reading on UX Collective »",
+          "published_at": "2025-11-10T10:22:57"
+        },
+        {
+          "title": "Synthetic developer, the solo designer’s best friend?",
+          "url": "https://uxdesign.cc/synthetic-developer-the-solo-designers-best-friend-947ec304c9f4?source=rss----138adf9c44c---4",
+          "author": "Anna Lefour",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Ever tried scoping a real project with AI to simulate developers expertise? I did. Here are the results.Drawing by Anna Lefour, rendered with ChatGPTIf you’re a solo designer in the team, then you pro...",
+          "published_at": "2025-11-10T10:21:10"
+        },
         {
           "title": "From design to direction: Bridging product design and AI thinking",
           "url": "https://uxdesign.cc/from-design-to-direction-bridging-product-design-and-ai-thinking-1d372707472d?source=rss----138adf9c44c---4",
@@ -59,7 +86,7 @@
     },
     {
       "category": "用户体验研究",
-      "count": 5,
+      "count": 6,
       "items": [
         {
           "title": "Insights Aren’t Outcomes: Research Recommendation Breakage",
@@ -73,6 +100,15 @@
         {
           "title": "Stop Making Your Team Figure Out AI on Their Own",
           "url": "https://www.nngroup.com/articles/ai-research-ops/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Good from Afar, But Far from Good: AI Prototyping in Real Design Contexts",
+          "url": "https://www.nngroup.com/articles/ai-prototyping/",
           "author": null,
           "category": "用户体验研究",
           "source": "NN/g (Nielsen Norman Group)",
@@ -209,6 +245,15 @@
           "published_at": null
         },
         {
+          "title": "Messenger",
+          "url": "https://www.awwwards.com/sites/messenger",
+          "author": "abeto",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Emele Collab",
           "url": "https://www.awwwards.com/sites/emele-collab",
           "author": "Emele Collab",
@@ -261,57 +306,57 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Portfolio '25",
-          "url": "https://www.awwwards.com/sites/portfolio-25-1",
-          "author": "Roman Jean-Elie",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Scaloom",
-          "url": "https://www.producthunt.com/products/scaloom-5",
-          "author": "Lionel Lakson",
+          "title": "Oskar by Skarbe",
+          "url": "https://www.producthunt.com/products/skarbe",
+          "author": "Mikita Martynau",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The AI Agent That Makes Reddit Trust YouDiscussion|Link",
-          "published_at": "2025-11-08T19:59:34"
+          "summary": "AI agent in your inbox that follows up automatically.Discussion|Link",
+          "published_at": "2025-11-07T22:55:25"
         },
         {
-          "title": "Astrolid",
-          "url": "https://www.producthunt.com/products/astrolid",
-          "author": "Roman Ojeda",
+          "title": "ThreadGPT",
+          "url": "https://www.producthunt.com/products/threadgpt-chatgpt-with-threads",
+          "author": "Maruf",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Because progress shouldn't be difficultDiscussion|Link",
-          "published_at": "2025-11-08T21:49:34"
+          "summary": "ChatpGT with threads to stop long scrolling & broken contextDiscussion|Link",
+          "published_at": "2025-11-10T05:08:42"
         },
         {
-          "title": "Chatter",
-          "url": "https://www.producthunt.com/products/chatter-4",
-          "author": "Gavin Cho",
+          "title": "Magic MCP by Metorial",
+          "url": "https://www.producthunt.com/products/metorial",
+          "author": "Tobias Herber",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Discover which reddit investors make it big — and how oftenDiscussion|Link",
-          "published_at": "2025-11-08T20:27:28"
+          "summary": "600+ integrations for vibe coding, zero config requiredDiscussion|Link",
+          "published_at": "2025-11-09T19:11:53"
         },
         {
-          "title": "JDoodle.ai",
-          "url": "https://www.producthunt.com/products/jdoodle-ai",
-          "author": "fmerian",
+          "title": "Citable",
+          "url": "https://www.producthunt.com/products/citable",
+          "author": "Maria Gorskikh",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Vibe app builder with free bug fixes, db and PAYG creditsDiscussion|Link",
-          "published_at": "2025-11-07T10:20:29"
+          "summary": "Make brands show up in Agentic SearchDiscussion|Link",
+          "published_at": "2025-11-09T03:03:13"
+        },
+        {
+          "title": "ComplyDo",
+          "url": "https://www.producthunt.com/products/complydo-yc-f25",
+          "author": "Leo Schuhmann",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "More Comply, Less DoDiscussion|Link",
+          "published_at": "2025-11-09T00:51:37"
         }
       ]
     },
@@ -380,49 +425,49 @@
       "count": 5,
       "items": [
         {
-          "title": "How design helped Zohran win",
-          "url": "https://johannesippen.com/2025/zohran-design-win/",
+          "title": "Make Maps a real UI component in WordPress",
+          "url": "https://bit.ly/side-jd1",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A campaign design analysis of \"Zohran for NYC\"—and what you can take away from it.",
-          "published_at": "2025-11-07T10:26:04"
+          "summary": "SVG-first, CSS-styleable maps you can ship fast – locators, floorplans, and data-visualization without heavy iframes.",
+          "published_at": "2025-11-10T10:49:00"
         },
         {
-          "title": "Metallic text effect generator",
-          "url": "https://design.dev/tools/metallic-effect-generator/",
+          "title": "The shortest path from thought to action",
+          "url": "https://medium.com/design-bootcamp/the-shortest-path-from-thought-to-action-e1c0c468b2b4",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Create metallic text effects with CSS gradients. Choose from gold, silver, chrome, and more with real-time preview.",
-          "published_at": "2025-11-07T10:25:23"
+          "summary": "Reassessing Fitts’ Law in the age of multimodal interfaces.",
+          "published_at": "2025-11-10T10:47:24"
         },
         {
-          "title": "View transitions: practical examples to elevate your UI",
-          "url": "https://piccalil.li/blog/some-practical-examples-of-view-transitions-to-elevate-your-ui/",
+          "title": "Apple TV mnemonic behind-the-scenes",
+          "url": "https://vimeo.com/1133324242/5bac5319d0",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A powerful way to create animated transitions between two states.",
-          "published_at": "2025-11-07T10:24:36"
+          "summary": "How the new Apple TV logo and opening sequence was created.",
+          "published_at": "2025-11-10T10:46:43"
         },
         {
-          "title": "Accessible color palette creator",
-          "url": "https://www.inclusivecolors.com/",
+          "title": "Game design is simple, actually",
+          "url": "https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A tool for making custom branded color palettes built to meet accessible contrast requirements for WCAG, ADA and Section 508.",
-          "published_at": "2025-11-07T10:23:16"
+          "summary": "A twelve-step program for understanding game design.",
+          "published_at": "2025-11-10T10:45:31"
         },
         {
-          "title": "AI prototyping in real design contexts",
-          "url": "https://www.nngroup.com/articles/ai-prototyping/",
+          "title": "Build better software to build software better",
+          "url": "https://slack.engineering/build-better-software-to-build-software-better/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Good from afar, but far from good.",
-          "published_at": "2025-11-07T10:22:03"
+          "summary": "Combining modern, high-performance build tooling with classic software engineering principles.",
+          "published_at": "2025-11-10T10:44:58"
         }
       ]
     },
