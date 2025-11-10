@@ -1,18 +1,19 @@
 {
   "date": "2025-11-10T00:00:00",
-  "total_items": 40,
+  "total_items": 46,
   "sources": [
-    "Design Milk",
-    "UX Design CC",
-    "Smashing Magazine",
     "Sidebar",
-    "A List Apart",
-    "NN/g (Nielsen Norman Group)",
     "Product Hunt",
+    "Awwwards",
+    "UX Design CC",
+    "优设网",
+    "A List Apart",
     "设计达人",
-    "优设网"
+    "Smashing Magazine",
+    "Design Milk",
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2025-11-10T01:55:32.553660",
+  "generated_at": "2025-11-10T02:22:00.349619",
   "categories": [
     {
       "category": "用户体验设计",
@@ -61,6 +62,15 @@
       "count": 5,
       "items": [
         {
+          "title": "Insights Aren’t Outcomes: Research Recommendation Breakage",
+          "url": "https://www.nngroup.com/articles/research-recommendation-breakage/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Stop Making Your Team Figure Out AI on Their Own",
           "url": "https://www.nngroup.com/articles/ai-research-ops/",
           "author": null,
@@ -90,15 +100,6 @@
         {
           "title": "How AI Works and How Users Think About It: Study Guide",
           "url": "https://www.nngroup.com/articles/ai-functionality-study-guide/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Using AI for UX Work: Study Guide",
-          "url": "https://www.nngroup.com/articles/ai-work-study-guide/",
           "author": null,
           "category": "用户体验研究",
           "source": "NN/g (Nielsen Norman Group)",
@@ -142,7 +143,7 @@
     },
     {
       "category": "网页设计",
-      "count": 7,
+      "count": 14,
       "items": [
         {
           "title": "Smashing Animations Part 6: Magnificent SVGs With `<use>` And CSS Custom Properties",
@@ -206,13 +207,85 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
+        },
+        {
+          "title": "Emele Collab",
+          "url": "https://www.awwwards.com/sites/emele-collab",
+          "author": "Emele Collab",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Mantis",
+          "url": "https://www.awwwards.com/sites/mantis",
+          "author": "Mantis",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "GKC Architecture & Design",
+          "url": "https://www.awwwards.com/sites/gkc-architecture-design",
+          "author": "Locomotive",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Kaleida",
+          "url": "https://www.awwwards.com/sites/kaleida",
+          "author": "Fiddle.Digital Design Agency",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Iventions",
+          "url": "https://www.awwwards.com/sites/iventions",
+          "author": "SERIOUS.BUSINESS",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "More Nutrition",
+          "url": "https://www.awwwards.com/sites/more-nutrition",
+          "author": "FUTURE THREE®",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Portfolio '25",
+          "url": "https://www.awwwards.com/sites/portfolio-25-1",
+          "author": "Roman Jean-Elie",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 4,
       "items": [
+        {
+          "title": "Scaloom",
+          "url": "https://www.producthunt.com/products/scaloom-5",
+          "author": "Lionel Lakson",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The AI Agent That Makes Reddit Trust YouDiscussion|Link",
+          "published_at": "2025-11-08T19:59:34"
+        },
         {
           "title": "Astrolid",
           "url": "https://www.producthunt.com/products/astrolid",
@@ -230,24 +303,6 @@
           "source": "Product Hunt",
           "summary": "Discover which reddit investors make it big — and how oftenDiscussion|Link",
           "published_at": "2025-11-08T20:27:28"
-        },
-        {
-          "title": "Epismo: Kickoff Agent",
-          "url": "https://www.producthunt.com/products/epismo",
-          "author": "Hiroki",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Build your human-AI team. Assign the right AI to each task.Discussion|Link",
-          "published_at": "2025-11-08T22:02:17"
-        },
-        {
-          "title": "Scaloom",
-          "url": "https://www.producthunt.com/products/scaloom-5",
-          "author": "Lionel Lakson",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The AI Agent That Makes Reddit Trust YouDiscussion|Link",
-          "published_at": "2025-11-08T19:59:34"
         },
         {
           "title": "JDoodle.ai",
