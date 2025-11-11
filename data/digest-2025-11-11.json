@@ -1,25 +1,62 @@
 {
   "date": "2025-11-11T00:00:00",
-  "total_items": 55,
+  "total_items": 59,
   "sources": [
-    "CSS-Tricks",
+    "Awwwards",
     "设计达人",
-    "Product Hunt",
-    "A List Apart",
-    "Sidebar",
-    "NN/g (Nielsen Norman Group)",
     "优设网",
+    "Smashing Magazine",
     "Design Milk",
     "UX Planet",
-    "Awwwards",
-    "UX Design CC"
+    "UX Design CC",
+    "Product Hunt",
+    "Sidebar",
+    "CSS-Tricks",
+    "A List Apart",
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2025-11-11T01:51:13.177260",
+  "generated_at": "2025-11-11T12:48:49.273905",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 13,
+      "count": 15,
       "items": [
+        {
+          "title": "When building software became easier with AI, deciding became harder",
+          "url": "https://uxdesign.cc/it-seems-anyone-can-build-software-now-how-do-you-build-the-right-software-182057dfa122?source=rss----138adf9c44c---4",
+          "author": "Gale Robins",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "When you can build a working prototype in an afternoon, the question is no longercan you make it— it’sshould you build it, andwhat should you build.Most founders and teams struggle with those question...",
+          "published_at": "2025-11-11T10:35:34"
+        },
+        {
+          "title": "Internalize the problem before jumping into the solution",
+          "url": "https://uxdesign.cc/internalize-the-problem-before-jumping-into-the-solution-17d6c4af8117?source=rss----138adf9c44c---4",
+          "author": "Andy Bhattacharyya",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "And why history repeats itself over and over again.Sip, Dip and Flip is how the ideal process works.Have you ever been frustrated by an app or website that seems to be working against you? It’s as if ...",
+          "published_at": "2025-11-11T10:32:46"
+        },
+        {
+          "title": "Let designers think",
+          "url": "https://uxdesign.cc/let-designers-think-82721f458b73?source=rss----138adf9c44c---4",
+          "author": "Chris R Becker",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How “Thinking” + “Designing” need to be practiced outside AI.Continue reading on UX Collective »",
+          "published_at": "2025-11-11T10:30:24"
+        },
+        {
+          "title": "Everything I know about behavioral design I learned at Orange Julius",
+          "url": "https://uxdesign.cc/everything-i-know-about-behavioral-design-i-learned-at-orange-julius-bfa8720054f3?source=rss----138adf9c44c---4",
+          "author": "Sam Liberty",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "OK, not really.Continue reading on UX Collective »",
+          "published_at": "2025-11-11T10:27:52"
+        },
         {
           "title": "What we lose when we lose the creative struggle",
           "url": "https://uxdesign.cc/what-we-lose-when-we-lose-the-creative-struggle-09ad3a5df2c9?source=rss----138adf9c44c---4",
@@ -75,24 +112,6 @@
           "published_at": "2025-11-09T16:25:00"
         },
         {
-          "title": "The invisible gap: Designing for users who reconstruct, not just read",
-          "url": "https://uxdesign.cc/the-invisible-gap-designing-for-users-who-reconstruct-not-just-read-deae09b93a93?source=rss----138adf9c44c---4",
-          "author": "Lisa Vorobeva",
-          "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "Understanding the hidden cognitive work behind every interaction with your contentThis article focuses on individuals who use products in English, despite their native language being different — those...",
-          "published_at": "2025-11-08T16:25:40"
-        },
-        {
-          "title": "What the Marble Machine can teach us about design, automation, and creativity",
-          "url": "https://uxdesign.cc/what-the-marble-machine-can-teach-us-about-design-automation-and-creativity-a394ba1563ff?source=rss----138adf9c44c---4",
-          "author": "Ian Batterbee",
-          "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "Even in an automated world, creativity needs imperfection.Continue reading on UX Collective »",
-          "published_at": "2025-11-08T16:23:55"
-        },
-        {
           "title": "Stop being so humble",
           "url": "https://uxplanet.org/stop-being-so-humble-8740b17d21f5?source=rss----819cc2aaeee0---4",
           "author": "Jas Deogan",
@@ -144,15 +163,6 @@
       "count": 6,
       "items": [
         {
-          "title": "Insights Aren’t Outcomes: Research Recommendation Breakage",
-          "url": "https://www.nngroup.com/articles/research-recommendation-breakage/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
-        {
           "title": "Stop Making Your Team Figure Out AI on Their Own",
           "url": "https://www.nngroup.com/articles/ai-research-ops/",
           "author": null,
@@ -191,6 +201,15 @@
         {
           "title": "How AI Works and How Users Think About It: Study Guide",
           "url": "https://www.nngroup.com/articles/ai-functionality-study-guide/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Using AI for UX Work: Study Guide",
+          "url": "https://www.nngroup.com/articles/ai-work-study-guide/",
           "author": null,
           "category": "用户体验研究",
           "source": "NN/g (Nielsen Norman Group)",
@@ -243,8 +262,17 @@
     },
     {
       "category": "网页设计",
-      "count": 13,
+      "count": 14,
       "items": [
+        {
+          "title": "Effectively Monitoring Web Performance",
+          "url": "https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/",
+          "author": "hello@smashingmagazine.com (Matt Zeunert)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "There are lots of tips for [improving your website performance](https://www.debugbear.com/blog/improve-website-performance?utm_campaign=sm-10). But even if you follow all of the advice, are you able t...",
+          "published_at": "2025-11-11T10:00:00"
+        },
         {
           "title": "Design for Amiability: Lessons from Vienna",
           "url": "https://alistapart.com/article/design-for-amiability-lessons-from-vienna/",
@@ -300,6 +328,15 @@
           "published_at": null
         },
         {
+          "title": "Cappen",
+          "url": "https://www.awwwards.com/sites/cappen-4",
+          "author": "Cappen",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Messenger",
           "url": "https://www.awwwards.com/sites/messenger",
           "author": "abeto",
@@ -352,39 +389,39 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "More Nutrition",
-          "url": "https://www.awwwards.com/sites/more-nutrition",
-          "author": "FUTURE THREE®",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 3,
       "items": [
         {
-          "title": "Cal ID",
-          "url": "https://www.producthunt.com/products/cal-id",
-          "author": "Rohan Chaubey",
+          "title": "Pitch AI Actions",
+          "url": "https://www.producthunt.com/products/pitch",
+          "author": "Misha Karpenko",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Schedule and monetize meetings for freeDiscussion|Link",
-          "published_at": "2025-11-09T05:15:30"
+          "summary": "On-brand text and stunning visuals in your presentationsDiscussion|Link",
+          "published_at": "2025-11-10T10:14:28"
         },
         {
-          "title": "Magic MCP by Metorial",
-          "url": "https://www.producthunt.com/products/metorial",
-          "author": "Tobias Herber",
+          "title": "DatagranAuth",
+          "url": "https://www.producthunt.com/products/datagran",
+          "author": "Carlos Mendez",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "600+ integrations for vibe coding, zero config requiredDiscussion|Link",
-          "published_at": "2025-11-09T19:11:53"
+          "summary": "Give AI agents + apps instant access to marketing platformsDiscussion|Link",
+          "published_at": "2025-11-10T20:41:21"
+        },
+        {
+          "title": "Omnilingual ASR",
+          "url": "https://www.producthunt.com/products/meta",
+          "author": "Zac Zuo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Advancing automatic speech recognition for 1,600+ languagesDiscussion|Link",
+          "published_at": "2025-11-11T03:17:15"
         }
       ]
     },
@@ -453,6 +490,24 @@
       "count": 5,
       "items": [
         {
+          "title": "Byte Magazine: a visual archive",
+          "url": "https://byte.tsundoku.io/",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "A zoomable map shows every page of every issue of BYTE: a monthly mainline of the entire personal computing universe.",
+          "published_at": "2025-11-11T12:48:12"
+        },
+        {
+          "title": "The state of AI in 2025",
+          "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "Report by McKinsey on agents, innovation, and transformation—and how companies are in the early stages of capturing value with AI.",
+          "published_at": "2025-11-11T12:46:26"
+        },
+        {
           "title": "Make Maps a real UI component in WordPress",
           "url": "https://bit.ly/side-jd1",
           "author": null,
@@ -478,24 +533,6 @@
           "source": "Sidebar",
           "summary": "How the new Apple TV logo and opening sequence was created.",
           "published_at": "2025-11-10T10:46:43"
-        },
-        {
-          "title": "Game design is simple, actually",
-          "url": "https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "A twelve-step program for understanding game design.",
-          "published_at": "2025-11-10T10:45:31"
-        },
-        {
-          "title": "Build better software to build software better",
-          "url": "https://slack.engineering/build-better-software-to-build-software-better/",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "Combining modern, high-performance build tooling with classic software engineering principles.",
-          "published_at": "2025-11-10T10:44:58"
         }
       ]
     },
