@@ -1,26 +1,26 @@
 {
   "date": "2025-11-13T00:00:00",
-  "total_items": 64,
+  "total_items": 70,
   "sources": [
+    "Smashing Magazine",
     "Design Milk",
-    "Sidebar",
-    "优设网",
-    "UX Design CC",
-    "设计达人",
     "A List Apart",
-    "CSS-Tricks",
+    "UX Planet",
+    "Sidebar",
+    "Product Hunt",
+    "NN/g (Nielsen Norman Group)",
+    "UX Design CC",
     "Intercom Blog",
     "Awwwards",
-    "Smashing Magazine",
-    "Product Hunt",
-    "UX Planet",
-    "NN/g (Nielsen Norman Group)"
+    "设计达人",
+    "优设网",
+    "CSS-Tricks"
   ],
-  "generated_at": "2025-11-13T06:03:53.759312",
+  "generated_at": "2025-11-13T12:50:58.687735",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 16,
+      "count": 17,
       "items": [
         {
           "title": "What designers can learn from Zohran Mamdani's historical campaign",
@@ -111,6 +111,15 @@
           "source": "UX Design CC",
           "summary": "OK, not really.Continue reading on UX Collective »",
           "published_at": "2025-11-11T10:27:52"
+        },
+        {
+          "title": "Creating UI Assets with ChatGPT",
+          "url": "https://uxplanet.org/creating-ui-assets-with-chatgpt-7e7fb0e7f843?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "ChatGPT is a versatile tool that can be used for all kinds of purposes. I’ve already demonstrated how to use it for UI designUI Design with ChatGPT 5And in this article, I want to show you how to gene...",
+          "published_at": "2025-11-13T12:34:37"
         },
         {
           "title": "UI Design with Midjourney",
@@ -299,8 +308,17 @@
     },
     {
       "category": "网页设计",
-      "count": 14,
+      "count": 15,
       "items": [
+        {
+          "title": "Older Tech In The Browser Stack",
+          "url": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
+          "author": "hello@smashingmagazine.com (Bryan Rasmussen)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them...",
+          "published_at": "2025-11-13T08:00:00"
+        },
         {
           "title": "Effectively Monitoring Web Performance",
           "url": "https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/",
@@ -431,43 +449,79 @@
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 8,
       "items": [
         {
-          "title": "Vibe Design by Picsart",
-          "url": "https://www.producthunt.com/products/picsart",
-          "author": "Davit Avoyan",
+          "title": "Nomad Care Map",
+          "url": "https://www.producthunt.com/products/safetywing",
+          "author": "Victor Nourrissat",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn your vibe into layered design by chatting with AIDiscussion|Link",
-          "published_at": "2025-11-10T10:32:20"
+          "summary": "Find trusted medical care around the worldDiscussion|Link",
+          "published_at": "2025-11-10T12:12:21"
         },
         {
-          "title": "Cranston AI",
-          "url": "https://www.producthunt.com/products/cranston-ai",
-          "author": "Sean O'Bannon",
+          "title": "Documenso 2.0.0",
+          "url": "https://www.producthunt.com/products/documenso",
+          "author": "Timur Ercan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI-powered accounting, built like a product company.Discussion|Link",
-          "published_at": "2025-11-12T06:27:40"
+          "summary": "Enterprise-Grade Signature Infrastructure for EveryoneDiscussion|Link",
+          "published_at": "2025-11-11T14:23:01"
         },
         {
-          "title": "Logo.dev",
-          "url": "https://www.producthunt.com/products/logo-dev",
-          "author": "Alex Baldwin",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Reliable logos for any product, instantly.Discussion|Link",
-          "published_at": "2025-11-11T19:42:11"
-        },
-        {
-          "title": "TRAE SOLO",
-          "url": "https://www.producthunt.com/products/trae",
+          "title": "Webjourney",
+          "url": "https://www.producthunt.com/products/webjourney",
           "author": "Kevin William David",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The Responsive Coding AgentDiscussion|Link",
-          "published_at": "2025-11-11T01:03:49"
+          "summary": "Framer that allows you to vibe-codeDiscussion|Link",
+          "published_at": "2025-11-11T17:08:08"
+        },
+        {
+          "title": "GPT-5.1 Instant and Thinking",
+          "url": "https://www.producthunt.com/products/openai",
+          "author": "Chris Messina",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Smarter, more conversational ChatGPT with new personalitiesDiscussion|Link",
+          "published_at": "2025-11-12T19:23:26"
+        },
+        {
+          "title": "Lifter",
+          "url": "https://www.producthunt.com/products/lifter-import-sort",
+          "author": "Serge Benati",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Import. Organize. Simplify.Discussion|Link",
+          "published_at": "2025-11-11T10:33:23"
+        },
+        {
+          "title": "Bunny Shield",
+          "url": "https://www.producthunt.com/products/bunny-net",
+          "author": "fmerian",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Strong CDN security without gatekeepingDiscussion|Link",
+          "published_at": "2025-11-12T09:52:26"
+        },
+        {
+          "title": "Avaturn Live",
+          "url": "https://www.producthunt.com/products/avaturn-live-2",
+          "author": "Sergei Sherman",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "AI avatars 9X faster, 4X expressive range w/, human fidelityDiscussion|Link",
+          "published_at": "2025-11-12T23:45:40"
+        },
+        {
+          "title": "Willow on IOS",
+          "url": "https://www.producthunt.com/products/willow-voice",
+          "author": "Garry Tan",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Write 5x faster with voice dictation now Available on iOSDiscussion|Link",
+          "published_at": "2025-11-11T23:05:02"
         }
       ]
     },
@@ -521,9 +575,9 @@
           "published_at": null
         },
         {
-          "title": "从用完即走到每日必看，麦当劳App只用了一个日历设计",
-          "url": "https://www.uisdc.com/hunter/0221648967.html",
-          "author": "要爆炸的张老三",
+          "title": "一条长视频，微博AI居然自动帮我剪成3条爆款短视频",
+          "url": "https://www.uisdc.com/hunter/0221648339.html",
+          "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
           "summary": null,
@@ -536,49 +590,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Mission, vision, poTAYto, poTAHto",
-          "url": "https://longform.asmartbear.com/mission-vision/",
+          "title": "Bridging product design and AI thinking",
+          "url": "https://uxdesign.cc/from-design-to-direction-bridging-product-design-and-ai-thinking-1d372707472d",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Mission, vision, purpose, BHAG. Are they useful north stars, or academic nonsense?",
-          "published_at": "2025-11-12T12:27:26"
+          "summary": "The shift in product design with the advent of AI and a potential generative experiential future.",
+          "published_at": "2025-11-13T12:30:59"
         },
         {
-          "title": "The authoritarian stack",
-          "url": "https://www.authoritarian-stack.info/",
+          "title": "Claude use cases",
+          "url": "https://claude.com/resources/use-cases",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How tech billionaires are building a post-democratic America — and why Europe is next.",
-          "published_at": "2025-11-12T12:26:50"
+          "summary": "Practical examples across research, writing, coding, analysis, and everyday tasks on how to collaborate with Claude AI.",
+          "published_at": "2025-11-13T12:30:09"
         },
         {
-          "title": "AnimateIcons",
-          "url": "https://animateicons.vercel.app/",
+          "title": "Perspective dataviz",
+          "url": "https://perspective-dev.github.io/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Seamless, animated icons for React—make your interface stand out with beautifully smooth motion and easy customization.",
-          "published_at": "2025-11-12T12:26:09"
+          "summary": "An interactive analytics and data visualization component, especially well-suited for large and/or streaming datasets.",
+          "published_at": "2025-11-13T12:29:21"
         },
         {
-          "title": "Animation that fails safely",
-          "url": "https://adobe.design/stories/leading-design/animation-that-fails-safely-defensive-design-for-motion-sensitive-users",
+          "title": "Building a real game as a designer using AI",
+          "url": "https://tympanus.net/codrops/2025/11/12/blood-sugar-battler-building-a-real-game-as-a-designer-using-ai/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A practical framework for designing and engineering safe, resilient, and inclusive motion.",
-          "published_at": "2025-11-12T12:25:45"
+          "summary": "A look behind a design-first diabetes education game, built by hand-crafted pixel art and powered by an AI that mostly knew what it was doing.",
+          "published_at": "2025-11-13T12:28:13"
         },
         {
-          "title": "The benefits of bubbles",
-          "url": "https://stratechery.com/2025/the-benefits-of-bubbles/",
+          "title": "How design teams are reacting to 10x dev productivity from AI",
+          "url": "https://lukew.com/ff/entry.asp?2133",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "We are in an AI Bubble: the big question is if this bubble will be worth it for the physical infrastructure and coordinated innovation that result?",
-          "published_at": "2025-11-12T12:25:17"
+          "summary": "When software development teams experience huge productivity booms, how do design teams respond?",
+          "published_at": "2025-11-13T12:27:14"
         }
       ]
     },
