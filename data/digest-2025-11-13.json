@@ -2,21 +2,21 @@
   "date": "2025-11-13T00:00:00",
   "total_items": 64,
   "sources": [
-    "Smashing Magazine",
-    "设计达人",
-    "UX Design CC",
-    "Awwwards",
-    "UX Planet",
     "Design Milk",
     "Sidebar",
-    "CSS-Tricks",
-    "NN/g (Nielsen Norman Group)",
+    "优设网",
+    "UX Design CC",
+    "设计达人",
     "A List Apart",
+    "CSS-Tricks",
     "Intercom Blog",
+    "Awwwards",
+    "Smashing Magazine",
     "Product Hunt",
-    "优设网"
+    "UX Planet",
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2025-11-13T01:52:01.969964",
+  "generated_at": "2025-11-13T06:03:53.759312",
   "categories": [
     {
       "category": "用户体验设计",
@@ -173,6 +173,15 @@
       "count": 6,
       "items": [
         {
+          "title": "Insights Aren’t Outcomes: Research Recommendation Breakage",
+          "url": "https://www.nngroup.com/articles/research-recommendation-breakage/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Stop Making Your Team Figure Out AI on Their Own",
           "url": "https://www.nngroup.com/articles/ai-research-ops/",
           "author": null,
@@ -211,15 +220,6 @@
         {
           "title": "How AI Works and How Users Think About It: Study Guide",
           "url": "https://www.nngroup.com/articles/ai-functionality-study-guide/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Using AI for UX Work: Study Guide",
-          "url": "https://www.nngroup.com/articles/ai-work-study-guide/",
           "author": null,
           "category": "用户体验研究",
           "source": "NN/g (Nielsen Norman Group)",
@@ -365,6 +365,15 @@
           "published_at": null
         },
         {
+          "title": "Permian",
+          "url": "https://www.awwwards.com/sites/permian",
+          "author": "HOLOGRAPHIK",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "AVATR VISION XPECTRA",
           "url": "https://www.awwwards.com/sites/avatr-vision-xpectra",
           "author": "Mubien",
@@ -417,15 +426,6 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Kaleida",
-          "url": "https://www.awwwards.com/sites/kaleida",
-          "author": "Fiddle.Digital Design Agency",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -433,6 +433,24 @@
       "category": "产品发现",
       "count": 4,
       "items": [
+        {
+          "title": "Vibe Design by Picsart",
+          "url": "https://www.producthunt.com/products/picsart",
+          "author": "Davit Avoyan",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Turn your vibe into layered design by chatting with AIDiscussion|Link",
+          "published_at": "2025-11-10T10:32:20"
+        },
+        {
+          "title": "Cranston AI",
+          "url": "https://www.producthunt.com/products/cranston-ai",
+          "author": "Sean O'Bannon",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "AI-powered accounting, built like a product company.Discussion|Link",
+          "published_at": "2025-11-12T06:27:40"
+        },
         {
           "title": "Logo.dev",
           "url": "https://www.producthunt.com/products/logo-dev",
@@ -443,15 +461,6 @@
           "published_at": "2025-11-11T19:42:11"
         },
         {
-          "title": "Waldium",
-          "url": "https://www.producthunt.com/products/waldium",
-          "author": "Amrutha Gujjar",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The autonomous blog that writes while you build productDiscussion|Link",
-          "published_at": "2025-11-12T01:00:22"
-        },
-        {
           "title": "TRAE SOLO",
           "url": "https://www.producthunt.com/products/trae",
           "author": "Kevin William David",
@@ -459,15 +468,6 @@
           "source": "Product Hunt",
           "summary": "The Responsive Coding AgentDiscussion|Link",
           "published_at": "2025-11-11T01:03:49"
-        },
-        {
-          "title": "Video Localization by Algebras",
-          "url": "https://www.producthunt.com/products/algebras-ai",
-          "author": "Paul Mit",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Culturally accurate dubbing that feels human (32 languages)Discussion|Link",
-          "published_at": "2025-11-11T22:35:06"
         }
       ]
     },
