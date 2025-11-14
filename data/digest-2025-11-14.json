@@ -2,21 +2,21 @@
   "date": "2025-11-14T00:00:00",
   "total_items": 63,
   "sources": [
-    "Design Milk",
     "UX Design CC",
-    "Intercom Blog",
+    "设计达人",
     "优设网",
     "CSS-Tricks",
-    "Product Hunt",
-    "设计达人",
     "NN/g (Nielsen Norman Group)",
-    "A List Apart",
-    "Sidebar",
     "Awwwards",
     "Smashing Magazine",
-    "UX Planet"
+    "UX Planet",
+    "Intercom Blog",
+    "A List Apart",
+    "Sidebar",
+    "Product Hunt",
+    "Design Milk"
   ],
-  "generated_at": "2025-11-14T01:51:00.779466",
+  "generated_at": "2025-11-14T07:35:30.442645",
   "categories": [
     {
       "category": "用户体验设计",
@@ -338,6 +338,15 @@
           "published_at": null
         },
         {
+          "title": "Marie Antoinette",
+          "url": "https://www.awwwards.com/sites/marie-antoinette",
+          "author": "Local Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Permian",
           "url": "https://www.awwwards.com/sites/permian",
           "author": "HOLOGRAPHIK",
@@ -390,15 +399,6 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "GKC Architecture & Design",
-          "url": "https://www.awwwards.com/sites/gkc-architecture-design",
-          "author": "Locomotive",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -407,13 +407,22 @@
       "count": 6,
       "items": [
         {
-          "title": "GPT-5.1 Instant and Thinking",
-          "url": "https://www.producthunt.com/products/openai",
-          "author": "Chris Messina",
+          "title": "Webjourney",
+          "url": "https://www.producthunt.com/products/webjourney",
+          "author": "Kevin William David",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Smarter, more conversational ChatGPT with new personalitiesDiscussion|Link",
-          "published_at": "2025-11-12T19:23:26"
+          "summary": "Framer that allows you to vibe-codeDiscussion|Link",
+          "published_at": "2025-11-11T17:08:08"
+        },
+        {
+          "title": "Documenso 2.0.0",
+          "url": "https://www.producthunt.com/products/documenso",
+          "author": "Timur Ercan",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Enterprise-Grade Signature Infrastructure for EveryoneDiscussion|Link",
+          "published_at": "2025-11-11T14:23:01"
         },
         {
           "title": "Willow on IOS",
@@ -425,22 +434,13 @@
           "published_at": "2025-11-11T23:05:02"
         },
         {
-          "title": "BookSell",
-          "url": "https://www.producthunt.com/products/booksell",
-          "author": "Gillian Morris",
+          "title": "Avaturn Live",
+          "url": "https://www.producthunt.com/products/avaturn-live-2",
+          "author": "Sergei Sherman",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Book dropshipping for Shopify storesDiscussion|Link",
-          "published_at": "2025-11-12T12:41:45"
-        },
-        {
-          "title": "Doco Agent Mode",
-          "url": "https://www.producthunt.com/products/doco-2",
-          "author": "Jim Zhang",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Autonomous AI agent for Microsoft WordDiscussion|Link",
-          "published_at": "2025-11-11T00:07:28"
+          "summary": "AI avatars 9X faster, 4X expressive range w/, human fidelityDiscussion|Link",
+          "published_at": "2025-11-12T23:45:40"
         },
         {
           "title": "Devpilot",
@@ -452,13 +452,13 @@
           "published_at": "2025-11-11T13:44:00"
         },
         {
-          "title": "Lifter",
-          "url": "https://www.producthunt.com/products/lifter-import-sort",
-          "author": "Serge Benati",
+          "title": "GPT-5.1 Instant and Thinking",
+          "url": "https://www.producthunt.com/products/openai",
+          "author": "Chris Messina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Import. Organize. Simplify.Discussion|Link",
-          "published_at": "2025-11-11T10:33:23"
+          "summary": "Smarter, more conversational ChatGPT with new personalitiesDiscussion|Link",
+          "published_at": "2025-11-12T19:23:26"
         }
       ]
     },
