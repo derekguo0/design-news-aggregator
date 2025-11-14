@@ -1,22 +1,22 @@
 {
   "date": "2025-11-14T00:00:00",
-  "total_items": 63,
+  "total_items": 62,
   "sources": [
-    "UX Design CC",
-    "设计达人",
-    "优设网",
-    "CSS-Tricks",
-    "NN/g (Nielsen Norman Group)",
     "Awwwards",
-    "Smashing Magazine",
-    "UX Planet",
-    "Intercom Blog",
-    "A List Apart",
     "Sidebar",
+    "Design Milk",
+    "CSS-Tricks",
+    "设计达人",
+    "UX Planet",
     "Product Hunt",
-    "Design Milk"
+    "Smashing Magazine",
+    "优设网",
+    "NN/g (Nielsen Norman Group)",
+    "UX Design CC",
+    "A List Apart",
+    "Intercom Blog"
   ],
-  "generated_at": "2025-11-14T07:35:30.442645",
+  "generated_at": "2025-11-14T12:48:03.663081",
   "categories": [
     {
       "category": "用户体验设计",
@@ -407,22 +407,49 @@
       "count": 6,
       "items": [
         {
-          "title": "Webjourney",
-          "url": "https://www.producthunt.com/products/webjourney",
-          "author": "Kevin William David",
+          "title": "AirShare",
+          "url": "https://www.producthunt.com/products/airshare-instant-local-file-sharing",
+          "author": "Jakša Tomović",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Framer that allows you to vibe-codeDiscussion|Link",
-          "published_at": "2025-11-11T17:08:08"
+          "summary": "AirDrop-style file local sharing and across the globeDiscussion|Link",
+          "published_at": "2025-11-12T09:07:45"
         },
         {
-          "title": "Documenso 2.0.0",
-          "url": "https://www.producthunt.com/products/documenso",
-          "author": "Timur Ercan",
+          "title": "MyLens for Youtube",
+          "url": "https://www.producthunt.com/products/mylens-for-youtube",
+          "author": "Ardalan Mirshani",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Enterprise-Grade Signature Infrastructure for EveryoneDiscussion|Link",
-          "published_at": "2025-11-11T14:23:01"
+          "summary": "Turn Youtube Videos into AI Timelines.Discussion|Link",
+          "published_at": "2025-11-13T16:50:50"
+        },
+        {
+          "title": "Group Chats in ChatGPT",
+          "url": "https://www.producthunt.com/products/openai",
+          "author": "Zac Zuo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Collaborate with others & ChatGPT in the same conversationDiscussion|Link",
+          "published_at": "2025-11-14T04:34:36"
+        },
+        {
+          "title": "SIMA 2",
+          "url": "https://www.producthunt.com/products/gemini-1-5-pro",
+          "author": "Chris Messina",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Google's most capable AI agent for virtual 3D worldsDiscussion|Link",
+          "published_at": "2025-11-13T18:36:40"
+        },
+        {
+          "title": "Email Buttons",
+          "url": "https://www.producthunt.com/products/email-buttons",
+          "author": "Zack Ho",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Turn email links into buttons that get clickedDiscussion|Link",
+          "published_at": "2025-11-11T11:50:46"
         },
         {
           "title": "Willow on IOS",
@@ -432,33 +459,6 @@
           "source": "Product Hunt",
           "summary": "Write 5x faster with voice dictation now Available on iOSDiscussion|Link",
           "published_at": "2025-11-11T23:05:02"
-        },
-        {
-          "title": "Avaturn Live",
-          "url": "https://www.producthunt.com/products/avaturn-live-2",
-          "author": "Sergei Sherman",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "AI avatars 9X faster, 4X expressive range w/, human fidelityDiscussion|Link",
-          "published_at": "2025-11-12T23:45:40"
-        },
-        {
-          "title": "Devpilot",
-          "url": "https://www.producthunt.com/products/devpilot-2",
-          "author": "Alankar Chaturvedi",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The AI co-pilot for your entire development lifecycle.Discussion|Link",
-          "published_at": "2025-11-11T13:44:00"
-        },
-        {
-          "title": "GPT-5.1 Instant and Thinking",
-          "url": "https://www.producthunt.com/products/openai",
-          "author": "Chris Messina",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Smarter, more conversational ChatGPT with new personalitiesDiscussion|Link",
-          "published_at": "2025-11-12T19:23:26"
         }
       ]
     },
@@ -524,52 +524,43 @@
     },
     {
       "category": "设计资讯",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "Bridging product design and AI thinking",
-          "url": "https://uxdesign.cc/from-design-to-direction-bridging-product-design-and-ai-thinking-1d372707472d",
+          "title": "To grow, we must forget… but now AI remembers everything",
+          "url": "https://www.doc.cc/articles/we-must-forget",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The shift in product design with the advent of AI and a potential generative experiential future.",
-          "published_at": "2025-11-13T12:30:59"
+          "summary": "AI’s infinite memory could endanger how we think, grow, and imagine. And we can do something about it.",
+          "published_at": "2025-11-14T11:28:02"
         },
         {
-          "title": "Claude use cases",
-          "url": "https://claude.com/resources/use-cases",
+          "title": "A typographic time-splice of Holborn",
+          "url": "https://www.nomadstudio.com/work/f37-holborn",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Practical examples across research, writing, coding, analysis, and everyday tasks on how to collaborate with Claude AI.",
-          "published_at": "2025-11-13T12:30:09"
+          "summary": "A font that's a celebration of one of London’s oldest commercial districts.",
+          "published_at": "2025-11-14T11:27:36"
         },
         {
-          "title": "Perspective dataviz",
-          "url": "https://perspective-dev.github.io/",
+          "title": "Auld English fonts",
+          "url": "https://www.auldenglish.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "An interactive analytics and data visualization component, especially well-suited for large and/or streaming datasets.",
-          "published_at": "2025-11-13T12:29:21"
+          "summary": "Fonts that simulate the experience of reading in olden days, by diverse means.",
+          "published_at": "2025-11-14T11:26:36"
         },
         {
-          "title": "Building a real game as a designer using AI",
-          "url": "https://tympanus.net/codrops/2025/11/12/blood-sugar-battler-building-a-real-game-as-a-designer-using-ai/",
+          "title": "Marketing UX within your organization",
+          "url": "https://boagworld.com/emails/marketing-ux/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A look behind a design-first diabetes education game, built by hand-crafted pixel art and powered by an AI that mostly knew what it was doing.",
-          "published_at": "2025-11-13T12:28:13"
-        },
-        {
-          "title": "How design teams are reacting to 10x dev productivity from AI",
-          "url": "https://lukew.com/ff/entry.asp?2133",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "When software development teams experience huge productivity booms, how do design teams respond?",
-          "published_at": "2025-11-13T12:27:14"
+          "summary": "Guerrilla marketing tactics to raise UX awareness and shift your organization’s culture without a big budget.",
+          "published_at": "2025-11-14T11:26:08"
         }
       ]
     },
