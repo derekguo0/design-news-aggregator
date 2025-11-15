@@ -2,20 +2,20 @@
   "date": "2025-11-15T00:00:00",
   "total_items": 54,
   "sources": [
-    "UX Planet",
     "Design Milk",
-    "A List Apart",
-    "NN/g (Nielsen Norman Group)",
-    "UX Design CC",
-    "Sidebar",
-    "优设网",
-    "Product Hunt",
+    "UX Planet",
     "Smashing Magazine",
+    "优设网",
+    "UX Design CC",
     "设计达人",
+    "Product Hunt",
+    "Sidebar",
     "CSS-Tricks",
+    "NN/g (Nielsen Norman Group)",
+    "A List Apart",
     "Awwwards"
   ],
-  "generated_at": "2025-11-15T01:46:58.132386",
+  "generated_at": "2025-11-15T12:41:52.906149",
   "categories": [
     {
       "category": "用户体验设计",
@@ -190,7 +190,7 @@
     },
     {
       "category": "网页设计",
-      "count": 15,
+      "count": 16,
       "items": [
         {
           "title": "CSS Gamepad API Visual Debugging With CSS Layers",
@@ -265,6 +265,15 @@
           "published_at": null
         },
         {
+          "title": "Amrit Palace",
+          "url": "https://www.awwwards.com/sites/amrit-palace",
+          "author": "Artemii Lebedev",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Marie Antoinette",
           "url": "https://www.awwwards.com/sites/marie-antoinette",
           "author": "Local Studio",
@@ -331,52 +340,43 @@
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "SIMA 2",
-          "url": "https://www.producthunt.com/products/gemini-1-5-pro",
-          "author": "Chris Messina",
+          "title": "ClipboardAI",
+          "url": "https://www.producthunt.com/products/clipboardai-2",
+          "author": "Silas Wolf",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Google's most capable AI agent for virtual 3D worldsDiscussion|Link",
-          "published_at": "2025-11-13T18:36:40"
+          "summary": "Instantly run AI prompts with shortcuts, anywhere.Discussion|Link",
+          "published_at": "2025-11-14T14:08:11"
         },
         {
-          "title": "MyLens for Youtube",
-          "url": "https://www.producthunt.com/products/mylens-for-youtube",
-          "author": "Ardalan Mirshani",
+          "title": "LaunchOS",
+          "url": "https://www.producthunt.com/products/launchos",
+          "author": "Jimmy Cheung",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn Youtube videos into AI timelinesDiscussion|Link",
-          "published_at": "2025-11-13T16:50:50"
+          "summary": "A Launchpad Alternative for macOS 26(Tahoe)Discussion|Link",
+          "published_at": "2025-11-14T11:28:09"
         },
         {
-          "title": "Group Chats in ChatGPT",
-          "url": "https://www.producthunt.com/products/openai",
-          "author": "Zac Zuo",
+          "title": "Proximity Lock System 2.0",
+          "url": "https://www.producthunt.com/products/proximity-lock-system",
+          "author": "Akarsh Jha",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Collaborate with others & ChatGPT in the same conversationDiscussion|Link",
-          "published_at": "2025-11-14T04:34:36"
+          "summary": "Never worry about leaving your computer unlocked again.Discussion|Link",
+          "published_at": "2025-11-14T14:13:59"
         },
         {
-          "title": "AirShare",
-          "url": "https://www.producthunt.com/products/airshare-instant-local-file-sharing",
-          "author": "Jakša Tomović",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "AirDrop-style file local sharing and across the globeDiscussion|Link",
-          "published_at": "2025-11-12T09:07:45"
-        },
-        {
-          "title": "Bunny Shield",
-          "url": "https://www.producthunt.com/products/bunny-net",
+          "title": "GitHub Repo Visibility Analyzer",
+          "url": "https://www.producthunt.com/products/github-repo-visibility-analyzer",
           "author": "fmerian",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Strong CDN security without gatekeepingDiscussion|Link",
-          "published_at": "2025-11-12T09:52:26"
+          "summary": "Make devs notice your repoDiscussion|Link",
+          "published_at": "2025-11-14T15:10:01"
         }
       ]
     },
