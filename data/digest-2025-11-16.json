@@ -1,20 +1,21 @@
 {
   "date": "2025-11-16T00:00:00",
-  "total_items": 44,
+  "total_items": 49,
   "sources": [
-    "Design Milk",
-    "Product Hunt",
-    "设计达人",
-    "A List Apart",
+    "Sidebar",
     "NN/g (Nielsen Norman Group)",
-    "UX Planet",
-    "UX Design CC",
-    "CSS-Tricks",
+    "A List Apart",
+    "设计达人",
+    "Product Hunt",
+    "Design Milk",
+    "Awwwards",
     "Smashing Magazine",
     "优设网",
-    "Sidebar"
+    "UX Design CC",
+    "CSS-Tricks",
+    "UX Planet"
   ],
-  "generated_at": "2025-11-16T01:56:48.131805",
+  "generated_at": "2025-11-16T12:41:47.893053",
   "categories": [
     {
       "category": "用户体验设计",
@@ -162,7 +163,7 @@
     },
     {
       "category": "网页设计",
-      "count": 8,
+      "count": 16,
       "items": [
         {
           "title": "CSS Gamepad API Visual Debugging With CSS Layers",
@@ -235,57 +236,102 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
+        },
+        {
+          "title": "Telkom-OT",
+          "url": "https://www.awwwards.com/sites/telkom-ot",
+          "author": ".RAW",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Amrit Palace",
+          "url": "https://www.awwwards.com/sites/amrit-palace",
+          "author": "Artemii Lebedev",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Marie Antoinette",
+          "url": "https://www.awwwards.com/sites/marie-antoinette",
+          "author": "Local Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Permian",
+          "url": "https://www.awwwards.com/sites/permian",
+          "author": "HOLOGRAPHIK",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "AVATR VISION XPECTRA",
+          "url": "https://www.awwwards.com/sites/avatr-vision-xpectra",
+          "author": "Mubien",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Cappen",
+          "url": "https://www.awwwards.com/sites/cappen-4",
+          "author": "Cappen",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Messenger",
+          "url": "https://www.awwwards.com/sites/messenger",
+          "author": "abeto",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Emele Collab",
+          "url": "https://www.awwwards.com/sites/emele-collab",
+          "author": "Emele Collab",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 2,
       "items": [
         {
-          "title": "Juno digital planner",
-          "url": "https://www.producthunt.com/products/juno-digital-planner",
-          "author": "Adrián de la Rosa",
+          "title": "Prometora",
+          "url": "https://www.producthunt.com/products/prometora",
+          "author": "Rasmus Sørensen",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "All your tasks and events in one calm, offline-first plannerDiscussion|Link",
-          "published_at": "2025-11-14T17:06:05"
+          "summary": "Prompt your marketplaceDiscussion|Link",
+          "published_at": "2025-11-14T15:52:46"
         },
         {
-          "title": "GitHub Repo Visibility Analyzer",
-          "url": "https://www.producthunt.com/products/github-repo-visibility-analyzer",
-          "author": "fmerian",
+          "title": "WoofSheet",
+          "url": "https://www.producthunt.com/products/woofsheet-smart-dog-care-tracker",
+          "author": "John Vitales",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Make devs notice your repoDiscussion|Link",
-          "published_at": "2025-11-14T15:10:01"
-        },
-        {
-          "title": "LaunchOS",
-          "url": "https://www.producthunt.com/products/launchos",
-          "author": "Jimmy Cheung",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "A Launchpad Alternative for macOS 26(Tahoe)Discussion|Link",
-          "published_at": "2025-11-14T11:28:09"
-        },
-        {
-          "title": "ClipboardAI",
-          "url": "https://www.producthunt.com/products/clipboardai-2",
-          "author": "Silas Wolf",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Instantly run AI prompts with shortcuts, anywhere.Discussion|Link",
-          "published_at": "2025-11-14T14:08:11"
-        },
-        {
-          "title": "Proximity Lock System 2.0",
-          "url": "https://www.producthunt.com/products/proximity-lock-system",
-          "author": "Akarsh Jha",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Never worry about leaving your computer unlocked again.Discussion|Link",
-          "published_at": "2025-11-14T14:13:59"
+          "summary": "Dog care made simple: logs, reminders, 3D body mapsDiscussion|Link",
+          "published_at": "2025-11-15T07:26:07"
         }
       ]
     },
@@ -339,8 +385,8 @@
           "published_at": null
         },
         {
-          "title": "手机厂商禁用陀螺仪，为何我们还是会中招摇一摇广告？",
-          "url": "https://www.uisdc.com/hunter/0221649296.html",
+          "title": "让用户爱上Slack！剖析周年纪念Popover设计",
+          "url": "https://www.uisdc.com/hunter/0221649287.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
