@@ -1,25 +1,43 @@
 {
   "date": "2025-11-17T00:00:00",
-  "total_items": 45,
+  "total_items": 51,
   "sources": [
-    "Smashing Magazine",
-    "Product Hunt",
-    "A List Apart",
     "UX Design CC",
-    "设计达人",
-    "Awwwards",
+    "CSS-Tricks",
     "NN/g (Nielsen Norman Group)",
     "Sidebar",
+    "A List Apart",
+    "Smashing Magazine",
+    "优设网",
+    "设计达人",
     "Design Milk",
-    "CSS-Tricks",
-    "优设网"
+    "Awwwards",
+    "Product Hunt"
   ],
-  "generated_at": "2025-11-17T01:57:58.136946",
+  "generated_at": "2025-11-17T12:49:38.198843",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 3,
+      "count": 5,
       "items": [
+        {
+          "title": "Mind the story gap: Why great ideas fail without meaningful narratives",
+          "url": "https://uxdesign.cc/mind-the-story-gap-why-great-ideas-fail-without-meaningful-narratives-3cb5678a40e1?source=rss----138adf9c44c---4",
+          "author": "Ian Batterbee",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How powerful stories turn hidden value into something people can see, feel, and believe in.Continue reading on UX Collective »",
+          "published_at": "2025-11-17T10:22:41"
+        },
+        {
+          "title": "Patterns your brain can’t unsee: Gestalt psychology in design",
+          "url": "https://uxdesign.cc/patterns-your-brain-cant-unsee-gestalt-psychology-in-design-c34d6772fc36?source=rss----138adf9c44c---4",
+          "author": "Maxim Kich",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "They are the invisible grammar behind every interface, the logic that makes visual language readable and coherent.Ebbinghaus illusion— Example created by Maxim KichWelcome, my dear reader! Perhaps, ju...",
+          "published_at": "2025-11-17T10:22:30"
+        },
         {
           "title": "The illusion of unmoderated UX testing",
           "url": "https://uxdesign.cc/the-illusion-of-unmoderated-ux-testing-503137621407?source=rss----138adf9c44c---4",
@@ -210,6 +228,15 @@
           "published_at": null
         },
         {
+          "title": "Lando Norris",
+          "url": "https://www.awwwards.com/sites/lando-norris",
+          "author": "OFF+BRAND.",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Telkom-OT",
           "url": "https://www.awwwards.com/sites/telkom-ot",
           "author": ".RAW",
@@ -271,39 +298,57 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Emele Collab",
-          "url": "https://www.awwwards.com/sites/emele-collab",
-          "author": "Emele Collab",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 5,
       "items": [
         {
-          "title": "Prometora",
-          "url": "https://www.producthunt.com/products/prometora",
-          "author": "Rasmus Sørensen",
+          "title": "sleek.design",
+          "url": "https://www.producthunt.com/products/sleek-design",
+          "author": "Max Prilutskiy",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Prompt your marketplaceDiscussion|Link",
-          "published_at": "2025-11-14T15:52:46"
+          "summary": "Idea to mobile app designs in minutesDiscussion|Link",
+          "published_at": "2025-11-14T13:38:55"
         },
         {
-          "title": "WoofSheet",
-          "url": "https://www.producthunt.com/products/woofsheet-smart-dog-care-tracker",
-          "author": "John Vitales",
+          "title": "IntegrateAPI",
+          "url": "https://www.producthunt.com/products/integrateapi",
+          "author": "Shirrel Ziv",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Dog care made simple: logs, reminders, 3D body mapsDiscussion|Link",
-          "published_at": "2025-11-15T07:26:07"
+          "summary": "Hand-crafted Next.js integration templates. Ready to ship.Discussion|Link",
+          "published_at": "2025-11-17T05:50:44"
+        },
+        {
+          "title": "NeoAgent",
+          "url": "https://www.producthunt.com/products/neoagent",
+          "author": "todot",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "AI Agent to Automate Leads, Appointments & Customer ServiceDiscussion|Link",
+          "published_at": "2025-11-14T14:11:13"
+        },
+        {
+          "title": "AppealSeal",
+          "url": "https://www.producthunt.com/products/appealseal-easy-property-tax-appeal",
+          "author": "Rajiv Ayyangar",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Appeal your home's property tax in minutes to get a refund!Discussion|Link",
+          "published_at": "2025-11-14T20:39:57"
+        },
+        {
+          "title": "Sato Video Player",
+          "url": "https://www.producthunt.com/products/sato-video-player",
+          "author": "Porag Gogoi",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Build custom video players to match your UI without codingDiscussion|Link",
+          "published_at": "2025-11-17T07:05:36"
         }
       ]
     },
@@ -357,8 +402,8 @@
           "published_at": null
         },
         {
-          "title": "饿了么改名前，美团用一场蓝朋友营销梗玩得真6",
-          "url": "https://www.uisdc.com/hunter/0221649546.html",
+          "title": "QQ群的诞生，竟是因为产品经理中午不知道吃什么？",
+          "url": "https://www.uisdc.com/hunter/0221649645.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -369,43 +414,52 @@
     },
     {
       "category": "设计资讯",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "To grow, we must forget… but now AI remembers everything",
-          "url": "https://www.doc.cc/articles/we-must-forget",
+          "title": "Fine-tune your forms & capture more info than ever before",
+          "url": "https://ivyforms.com/?utm_source=sidebar.io&utm_medium=newsletter&utm_campaign=bawoct2025",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "AI’s infinite memory could endanger how we think, grow, and imagine. And we can do something about it.",
-          "published_at": "2025-11-14T11:28:02"
+          "summary": "Build free WordPress forms that are easy to complete – and even easier to track.",
+          "published_at": "2025-11-17T10:39:00"
         },
         {
-          "title": "A typographic time-splice of Holborn",
-          "url": "https://www.nomadstudio.com/work/f37-holborn",
+          "title": "Needy programs",
+          "url": "https://tonsky.me/blog/needy-programs/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A font that's a celebration of one of London’s oldest commercial districts.",
-          "published_at": "2025-11-14T11:27:36"
+          "summary": "We used to use software; now software started to use us.",
+          "published_at": "2025-11-17T10:36:38"
         },
         {
-          "title": "Auld English fonts",
-          "url": "https://www.auldenglish.com/",
+          "title": "Why movies just don't feel \"real\" anymore",
+          "url": "https://www.youtube.com/watch?v=tvwPKBXEOKE",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Fonts that simulate the experience of reading in olden days, by diverse means.",
-          "published_at": "2025-11-14T11:26:36"
+          "summary": "A deep dive into the first principles of movie immersion: perceptual realism, indexicality, haptic visuality, and cinematic qualia.",
+          "published_at": "2025-11-17T10:36:13"
         },
         {
-          "title": "Marketing UX within your organization",
-          "url": "https://boagworld.com/emails/marketing-ux/",
+          "title": "The AI coding trap",
+          "url": "https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Guerrilla marketing tactics to raise UX awareness and shift your organization’s culture without a big budget.",
-          "published_at": "2025-11-14T11:26:08"
+          "summary": "Software development is fundamentally a practice of problem-solving, and so, most of the work is done in your head.",
+          "published_at": "2025-11-17T10:35:05"
+        },
+        {
+          "title": "Why do we need dithering?",
+          "url": "https://typefully.com/DanHollick/why-do-we-need-dithering-Ut7oD4k",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "Before we all mute the word ‘dithering’, here's why we needed to dither digital images in the first place.",
+          "published_at": "2025-11-17T10:34:00"
         }
       ]
     },
