@@ -1,19 +1,20 @@
 {
   "date": "2025-11-17T00:00:00",
-  "total_items": 37,
+  "total_items": 45,
   "sources": [
-    "Sidebar",
     "Smashing Magazine",
-    "NN/g (Nielsen Norman Group)",
-    "优设网",
-    "A List Apart",
-    "Design Milk",
-    "设计达人",
     "Product Hunt",
+    "A List Apart",
     "UX Design CC",
-    "CSS-Tricks"
+    "设计达人",
+    "Awwwards",
+    "NN/g (Nielsen Norman Group)",
+    "Sidebar",
+    "Design Milk",
+    "CSS-Tricks",
+    "优设网"
   ],
-  "generated_at": "2025-11-17T01:52:37.996325",
+  "generated_at": "2025-11-17T01:57:58.136946",
   "categories": [
     {
       "category": "用户体验设计",
@@ -143,7 +144,7 @@
     },
     {
       "category": "网页设计",
-      "count": 7,
+      "count": 15,
       "items": [
         {
           "title": "CSS Gamepad API Visual Debugging With CSS Layers",
@@ -206,6 +207,78 @@
           "category": "网页设计",
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
+          "published_at": null
+        },
+        {
+          "title": "Telkom-OT",
+          "url": "https://www.awwwards.com/sites/telkom-ot",
+          "author": ".RAW",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Amrit Palace",
+          "url": "https://www.awwwards.com/sites/amrit-palace",
+          "author": "Artemii Lebedev",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Marie Antoinette",
+          "url": "https://www.awwwards.com/sites/marie-antoinette",
+          "author": "Local Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Permian",
+          "url": "https://www.awwwards.com/sites/permian",
+          "author": "HOLOGRAPHIK",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "AVATR VISION XPECTRA",
+          "url": "https://www.awwwards.com/sites/avatr-vision-xpectra",
+          "author": "Mubien",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Cappen",
+          "url": "https://www.awwwards.com/sites/cappen-4",
+          "author": "Cappen",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Messenger",
+          "url": "https://www.awwwards.com/sites/messenger",
+          "author": "abeto",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Emele Collab",
+          "url": "https://www.awwwards.com/sites/emele-collab",
+          "author": "Emele Collab",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
           "published_at": null
         }
       ]
