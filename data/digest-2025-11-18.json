@@ -1,19 +1,18 @@
 {
   "date": "2025-11-18T00:00:00",
-  "total_items": 50,
+  "total_items": 51,
   "sources": [
-    "UX Design CC",
-    "设计达人",
     "Sidebar",
-    "Product Hunt",
-    "CSS-Tricks",
-    "A List Apart",
-    "NN/g (Nielsen Norman Group)",
-    "Design Milk",
     "优设网",
-    "Awwwards"
+    "A List Apart",
+    "UX Design CC",
+    "Design Milk",
+    "设计达人",
+    "Product Hunt",
+    "Awwwards",
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2025-11-18T01:49:55.165397",
+  "generated_at": "2025-11-18T12:49:39.388522",
   "categories": [
     {
       "category": "用户体验设计",
@@ -77,8 +76,17 @@
     },
     {
       "category": "用户体验研究",
-      "count": 6,
+      "count": 5,
       "items": [
+        {
+          "title": "Beyond the Primary User: 3 Types of Smart-Home Users",
+          "url": "https://www.nngroup.com/articles/smart-home-users/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
         {
           "title": "Insights Aren’t Outcomes: Research Recommendation Breakage",
           "url": "https://www.nngroup.com/articles/research-recommendation-breakage/",
@@ -109,24 +117,6 @@
         {
           "title": "The Edge Cases that Break Hearts (And Products)",
           "url": "https://www.nngroup.com/articles/edge-cases/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Designing AI Products and Features: Study Guide",
-          "url": "https://www.nngroup.com/articles/designing-ai-study-guide/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "How AI Works and How Users Think About It: Study Guide",
-          "url": "https://www.nngroup.com/articles/ai-functionality-study-guide/",
           "author": null,
           "category": "用户体验研究",
           "source": "NN/g (Nielsen Norman Group)",
@@ -236,6 +226,15 @@
           "published_at": null
         },
         {
+          "title": "Digilab",
+          "url": "https://www.awwwards.com/sites/digilab",
+          "author": "Numbered",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Lando Norris",
           "url": "https://www.awwwards.com/sites/lando-norris",
           "author": "OFF+BRAND.",
@@ -297,48 +296,66 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Messenger",
-          "url": "https://www.awwwards.com/sites/messenger",
-          "author": "abeto",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 6,
       "items": [
         {
-          "title": "YourGPT 2.0",
-          "url": "https://www.producthunt.com/products/yourgpt",
-          "author": "Rohit Joshi",
+          "title": "Tiny Mario",
+          "url": "https://www.producthunt.com/products/tiny-mario",
+          "author": "Diego Dotta",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Powerful Conversational AI Agent Builder PlatformDiscussion|Link",
-          "published_at": "2025-11-16T17:19:14"
+          "summary": "Play the ridiculously tiny Mario ever right in your URL bar.Discussion|Link",
+          "published_at": "2025-11-18T04:48:25"
         },
         {
-          "title": "Anymark",
-          "url": "https://www.producthunt.com/products/anymark",
-          "author": "Artiom Dashinsky",
+          "title": "Nitpicks",
+          "url": "https://www.producthunt.com/products/nitpicks",
+          "author": "Miguel Angel Cabrera Miñagorri",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Get data-backed logos and brandingDiscussion|Link",
-          "published_at": "2025-11-16T07:51:10"
+          "summary": "Automatically fix UI/UX bugs from screen recordingsDiscussion|Link",
+          "published_at": "2025-11-17T17:44:15"
         },
         {
-          "title": "AI Website Builder by beehiiv",
-          "url": "https://www.producthunt.com/products/beehiiv",
-          "author": "Tyler Denk",
+          "title": "Markopolo AI",
+          "url": "https://www.producthunt.com/products/markopolo-ai",
+          "author": "Chris Messina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Build your website in minutes by simply chatting with AI.Discussion|Link",
-          "published_at": "2025-11-17T02:49:55"
+          "summary": "Reach 30–40% more customers with personal outreach at scaleDiscussion|Link",
+          "published_at": "2025-11-17T23:57:31"
+        },
+        {
+          "title": "Super V2",
+          "url": "https://www.producthunt.com/products/super-4",
+          "author": "Christophe Pasquier",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The most accurate search & workflows on company knowledgeDiscussion|Link",
+          "published_at": "2025-11-17T16:16:21"
+        },
+        {
+          "title": "Grok 4.1",
+          "url": "https://www.producthunt.com/products/grok-3",
+          "author": "Zac Zuo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "A new standard in conversational AIDiscussion|Link",
+          "published_at": "2025-11-18T03:32:36"
+        },
+        {
+          "title": "Airstitch",
+          "url": "https://www.producthunt.com/products/airstitch",
+          "author": "Sahil Jagtap",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Turn texts into work done across all your appsDiscussion|Link",
+          "published_at": "2025-11-18T04:51:27"
         }
       ]
     },
@@ -407,49 +424,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Fine-tune your forms & capture more info than ever before",
-          "url": "https://ivyforms.com/?utm_source=sidebar.io&utm_medium=newsletter&utm_campaign=bawoct2025",
+          "title": "Let designers think",
+          "url": "https://uxdesign.cc/let-designers-think-82721f458b73?sk=2b52457a30483bd2868de6052a5e3715",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Build free WordPress forms that are easy to complete – and even easier to track.",
-          "published_at": "2025-11-17T10:39:00"
+          "summary": "How “Thinking” + “Designing” need to be practiced outside AI.",
+          "published_at": "2025-11-18T12:28:22"
         },
         {
-          "title": "Needy programs",
-          "url": "https://tonsky.me/blog/needy-programs/",
+          "title": "Logo API",
+          "url": "https://www.logo.dev/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "We used to use software; now software started to use us.",
-          "published_at": "2025-11-17T10:36:38"
+          "summary": "Get company logos via API in seconds. Access millions of verified brand logos in SVG, PNG & WebP.",
+          "published_at": "2025-11-18T12:27:49"
         },
         {
-          "title": "Why movies just don't feel \"real\" anymore",
-          "url": "https://www.youtube.com/watch?v=tvwPKBXEOKE",
+          "title": "Android dreams",
+          "url": "https://android-dreams.ai/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A deep dive into the first principles of movie immersion: perceptual realism, indexicality, haptic visuality, and cinematic qualia.",
-          "published_at": "2025-11-17T10:36:13"
+          "summary": "A prediction essay for the next 20 years of intelligent robotics.",
+          "published_at": "2025-11-18T12:25:57"
         },
         {
-          "title": "The AI coding trap",
-          "url": "https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap",
+          "title": "In pursuit of democracy",
+          "url": "https://pudding.cool/2025/11/democracy/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Software development is fundamentally a practice of problem-solving, and so, most of the work is done in your head.",
-          "published_at": "2025-11-17T10:35:05"
+          "summary": "Analyzing every mention of ‘democracy’ in the American Congressional Record.",
+          "published_at": "2025-11-18T12:25:13"
         },
         {
-          "title": "Why do we need dithering?",
-          "url": "https://typefully.com/DanHollick/why-do-we-need-dithering-Ut7oD4k",
+          "title": "Good visual design, explained",
+          "url": "https://www.nngroup.com/articles/good-visual-design/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Before we all mute the word ‘dithering’, here's why we needed to dither digital images in the first place.",
-          "published_at": "2025-11-17T10:34:00"
+          "summary": "Align type and elements to a grid, build a clear visual hierarchy, use color intentionally, and stay consistent with every design choice.",
+          "published_at": "2025-11-18T12:24:49"
         }
       ]
     },
@@ -501,21 +518,6 @@
           "source": "设计达人",
           "summary": null,
           "published_at": null
-        }
-      ]
-    },
-    {
-      "category": "前端设计",
-      "count": 1,
-      "items": [
-        {
-          "title": "The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2()",
-          "url": "https://css-tricks.com/the-most-hated-css-feature-asin-acos-atan-and-atan2/",
-          "author": "Juan Diego Rodríguez",
-          "category": "前端设计",
-          "source": "CSS-Tricks",
-          "summary": "If we have a ratio that represents the sine, cosine or tangent of an angle, how can we get the original angle? This is where inverse trigonometric functions come in!The “Most Hated” CSS Feature: asin(...",
-          "published_at": "2025-11-17T14:47:54"
         }
       ]
     }
