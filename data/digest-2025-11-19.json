@@ -1,21 +1,21 @@
 {
   "date": "2025-11-19T00:00:00",
-  "total_items": 60,
+  "total_items": 63,
   "sources": [
     "Design Milk",
-    "Intercom Blog",
-    "A List Apart",
+    "Awwwards",
     "Product Hunt",
-    "优设网",
-    "设计达人",
-    "Sidebar",
-    "NN/g (Nielsen Norman Group)",
-    "UX Design CC",
-    "Smashing Magazine",
     "CSS-Tricks",
-    "Awwwards"
+    "优设网",
+    "UX Design CC",
+    "A List Apart",
+    "Sidebar",
+    "设计达人",
+    "NN/g (Nielsen Norman Group)",
+    "Smashing Magazine",
+    "Intercom Blog"
   ],
-  "generated_at": "2025-11-19T05:36:11.329913",
+  "generated_at": "2025-11-19T12:50:01.834786",
   "categories": [
     {
       "category": "用户体验设计",
@@ -63,7 +63,7 @@
           "author": "Mary Borysova",
           "category": "用户体验设计",
           "source": "UX Design CC",
-          "summary": "Trust me, I’m (not) a robotContinue reading on UX Collective »",
+          "summary": "I trust you not—or How to build trust with AI productsTrust me, I’m (not) a robot.Consensus app trust building mechanismsTrust is one of the most fragile and fundamental basis of any interaction. Sinc...",
           "published_at": "2025-11-18T18:57:14"
         },
         {
@@ -115,11 +115,20 @@
     },
     {
       "category": "用户体验研究",
-      "count": 5,
+      "count": 6,
       "items": [
         {
           "title": "Beyond the Primary User: 3 Types of Smart-Home Users",
           "url": "https://www.nngroup.com/articles/smart-home-users/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Good Visual Design, Explained",
+          "url": "https://www.nngroup.com/articles/good-visual-design/",
           "author": null,
           "category": "用户体验研究",
           "source": "NN/g (Nielsen Norman Group)",
@@ -223,15 +232,6 @@
           "published_at": "2025-11-17T16:00:01"
         },
         {
-          "title": "Intercom is now a Shopify Plus Technology Partner",
-          "url": "https://www.intercom.com/blog/intercom-is-now-a-shopify-plus-technology-partner/",
-          "author": "Gayathri Padmanabhan",
-          "category": "产品设计",
-          "source": "Intercom Blog",
-          "summary": "Intercom is now a Shopify Plus Technology Partner. Learn more about what this partnership means for merchants and what's coming next.",
-          "published_at": "2025-11-18T20:28:30"
-        },
-        {
           "title": "New series: Planning your 2026 customer service organization",
           "url": "https://www.intercom.com/blog/planning-your-2026-customer-service-organization/",
           "author": "Declan Ivory",
@@ -239,6 +239,15 @@
           "source": "Intercom Blog",
           "summary": "Your support org will need to look different in 2026. To help you plan, we’ve created a five-week series outlining the roles, skills, org design, and operating model you’ll need to build a modern, AI-...",
           "published_at": "2025-11-18T19:00:01"
+        },
+        {
+          "title": "Intercom is now a Shopify Plus Technology Partner",
+          "url": "https://www.intercom.com/blog/intercom-is-now-a-shopify-plus-technology-partner/",
+          "author": "Gayathri Padmanabhan",
+          "category": "产品设计",
+          "source": "Intercom Blog",
+          "summary": "Intercom is now a Shopify Plus Technology Partner. Learn more about what this partnership means for merchants and what's coming next.",
+          "published_at": "2025-11-18T18:00:30"
         }
       ]
     },
@@ -385,52 +394,70 @@
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 7,
       "items": [
         {
-          "title": "Grok 4.1",
-          "url": "https://www.producthunt.com/products/grok-3",
+          "title": "Bluedot 2.0",
+          "url": "https://www.producthunt.com/products/bluedot-2",
+          "author": "Dima Eremin",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Bot-free AI notetaker for audio and video captureDiscussion|Link",
+          "published_at": "2025-11-18T19:54:16"
+        },
+        {
+          "title": "Snippets AI",
+          "url": "https://www.producthunt.com/products/snippets-ai",
+          "author": "fmerian",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Advanced AI Prompt ManagerDiscussion|Link",
+          "published_at": "2025-11-18T09:47:14"
+        },
+        {
+          "title": "AI Toolkit by Tiptap",
+          "url": "https://www.producthunt.com/products/tiptap",
+          "author": "Philip Isik",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Build AI that writes IN documents, not next to themDiscussion|Link",
+          "published_at": "2025-11-18T18:56:18"
+        },
+        {
+          "title": "AidaJet",
+          "url": "https://www.producthunt.com/products/aidajet-ai-powered-newsletter-platform",
+          "author": "Girish Bendigiri",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Create, design, schedule and analyze Newsletters with AIDiscussion|Link",
+          "published_at": "2025-11-19T05:29:10"
+        },
+        {
+          "title": "Gemini 3",
+          "url": "https://www.producthunt.com/products/gemini-6",
+          "author": "Ankit Sharma",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "A new era of intelligence with Gemini 3Discussion|Link",
+          "published_at": "2025-11-18T19:22:25"
+        },
+        {
+          "title": "ElevenLabs Image & Video",
+          "url": "https://www.producthunt.com/products/elevenlabs",
           "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A new standard in conversational AIDiscussion|Link",
-          "published_at": "2025-11-18T03:32:36"
+          "summary": "The best audio, image & video models now in one platformDiscussion|Link",
+          "published_at": "2025-11-18T08:05:17"
         },
         {
-          "title": "StenifyAI",
-          "url": "https://www.producthunt.com/products/stenifyai",
-          "author": "Desmond de Moussac",
+          "title": "StopBite",
+          "url": "https://www.producthunt.com/products/stopbite-stop-nail-biting",
+          "author": "Guilermo Olcina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn Chaotic Meetings into Clear Action ItemsDiscussion|Link",
-          "published_at": "2025-11-17T13:55:44"
-        },
-        {
-          "title": "Axis One",
-          "url": "https://www.producthunt.com/products/axis-one",
-          "author": "Michael Jupp",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "ChatGPT in a box. Private and Local AI.Discussion|Link",
-          "published_at": "2025-11-17T09:27:09"
-        },
-        {
-          "title": "Institution",
-          "url": "https://www.producthunt.com/products/institution",
-          "author": "Alankar Chaturvedi",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Automate your startup's bookkeeping & compliance in minutes.Discussion|Link",
-          "published_at": "2025-11-17T08:04:45"
-        },
-        {
-          "title": "Heartbeat Hero",
-          "url": "https://www.producthunt.com/products/heartbeat-hero",
-          "author": "Aiden Forrest",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Easy CPR training & simulation using only an iPhoneDiscussion|Link",
-          "published_at": "2025-11-17T17:20:55"
+          "summary": "Break the nail biting habitDiscussion|Link",
+          "published_at": "2025-11-18T14:36:20"
         }
       ]
     },
@@ -438,6 +465,15 @@
       "category": "设计教程",
       "count": 6,
       "items": [
+        {
+          "title": "断档式领先！2025年最强模型 Gemini 3 Pro 实测",
+          "url": "https://www.uisdc.com/gemini-3-pro",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
         {
           "title": "深度拆解9类B端筛选组件，扒出设计的四大问题（上）",
           "url": "https://www.uisdc.com/filter-design-guide",
@@ -475,15 +511,6 @@
           "published_at": null
         },
         {
-          "title": "作品集平平无奇？4个方法帮你快速提高层次感！",
-          "url": "https://www.uisdc.com/portfolio-polish",
-          "author": "",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
-        },
-        {
           "title": "拍短视频总卡不准点？Instagram是如何解决这个设计难题的",
           "url": "https://www.uisdc.com/hunter/0221649651.html",
           "author": "要爆炸的张老三",
@@ -499,49 +526,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Let designers think",
-          "url": "https://uxdesign.cc/let-designers-think-82721f458b73?sk=2b52457a30483bd2868de6052a5e3715",
+          "title": "All your coworkers are probabilistic too",
+          "url": "https://scatterarrow.com/content/en/all-your-coworkers-are-probabilistic.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How “Thinking” + “Designing” need to be practiced outside AI.",
-          "published_at": "2025-11-18T12:28:22"
+          "summary": "LLMs, humans and the old tricks that still work.",
+          "published_at": "2025-11-19T12:38:09"
         },
         {
-          "title": "Logo API",
-          "url": "https://www.logo.dev/",
+          "title": "What we lose when we lose the creative struggle",
+          "url": "https://uxdesign.cc/what-we-lose-when-we-lose-the-creative-struggle-09ad3a5df2c9?sk=8da5d3e0a79ea2fea9c5689bb893738d",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Get company logos via API in seconds. Access millions of verified brand logos in SVG, PNG & WebP.",
-          "published_at": "2025-11-18T12:27:49"
+          "summary": "How removing friction from creative tools removes the meaning from creative work.",
+          "published_at": "2025-11-19T12:37:27"
         },
         {
-          "title": "Android dreams",
-          "url": "https://android-dreams.ai/",
+          "title": "State of product design",
+          "url": "https://sopd.design/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A prediction essay for the next 20 years of intelligent robotics.",
-          "published_at": "2025-11-18T12:25:57"
+          "summary": "Workflows, burnout, AI impact, career growth, and job market insights across regions and company types.",
+          "published_at": "2025-11-19T12:35:04"
         },
         {
-          "title": "In pursuit of democracy",
-          "url": "https://pudding.cool/2025/11/democracy/",
+          "title": "Best free fonts",
+          "url": "https://bestfreefonts.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Analyzing every mention of ‘democracy’ in the American Congressional Record.",
-          "published_at": "2025-11-18T12:25:13"
+          "summary": "A curated selection of free fonts. Including serif, sans serif, script and monospace.",
+          "published_at": "2025-11-19T12:34:24"
         },
         {
-          "title": "Good visual design, explained",
-          "url": "https://www.nngroup.com/articles/good-visual-design/",
+          "title": "My CSS selector strategy",
+          "url": "https://stuffandnonsense.co.uk/blog/my-css-selector-strategy",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Align type and elements to a grid, build a clear visual hierarchy, use color intentionally, and stay consistent with every design choice.",
-          "published_at": "2025-11-18T12:24:49"
+          "summary": "Writing great CSS is a matter of strategic restraint, not over-specification.",
+          "published_at": "2025-11-19T12:33:49"
         }
       ]
     },
