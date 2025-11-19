@@ -1,21 +1,21 @@
 {
   "date": "2025-11-19T00:00:00",
-  "total_items": 59,
+  "total_items": 60,
   "sources": [
-    "UX Design CC",
-    "A List Apart",
-    "CSS-Tricks",
-    "优设网",
-    "Smashing Magazine",
-    "NN/g (Nielsen Norman Group)",
-    "Sidebar",
-    "Product Hunt",
-    "Awwwards",
-    "Intercom Blog",
     "Design Milk",
-    "设计达人"
+    "Intercom Blog",
+    "A List Apart",
+    "Product Hunt",
+    "优设网",
+    "设计达人",
+    "Sidebar",
+    "NN/g (Nielsen Norman Group)",
+    "UX Design CC",
+    "Smashing Magazine",
+    "CSS-Tricks",
+    "Awwwards"
   ],
-  "generated_at": "2025-11-19T01:50:15.085960",
+  "generated_at": "2025-11-19T05:36:11.329913",
   "categories": [
     {
       "category": "用户体验设计",
@@ -310,6 +310,15 @@
           "published_at": null
         },
         {
+          "title": "Radaville",
+          "url": "https://www.awwwards.com/sites/radaville",
+          "author": "SALT AND PEPPER",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Digilab",
           "url": "https://www.awwwards.com/sites/digilab",
           "author": "Numbered",
@@ -371,49 +380,13 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Cappen",
-          "url": "https://www.awwwards.com/sites/cappen-4",
-          "author": "Cappen",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 5,
       "items": [
-        {
-          "title": "Nitpicks",
-          "url": "https://www.producthunt.com/products/nitpicks",
-          "author": "Miguel Angel Cabrera Miñagorri",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Automatically fix UI/UX bugs from screen recordingsDiscussion|Link",
-          "published_at": "2025-11-17T17:44:15"
-        },
-        {
-          "title": "Super V2",
-          "url": "https://www.producthunt.com/products/super-4",
-          "author": "Christophe Pasquier",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The most accurate search & workflows on company knowledgeDiscussion|Link",
-          "published_at": "2025-11-17T16:16:21"
-        },
-        {
-          "title": "Markopolo AI",
-          "url": "https://www.producthunt.com/products/markopolo-ai",
-          "author": "Chris Messina",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Reach 30–40% more customers with personal outreach at scaleDiscussion|Link",
-          "published_at": "2025-11-17T23:57:31"
-        },
         {
           "title": "Grok 4.1",
           "url": "https://www.producthunt.com/products/grok-3",
@@ -422,6 +395,42 @@
           "source": "Product Hunt",
           "summary": "A new standard in conversational AIDiscussion|Link",
           "published_at": "2025-11-18T03:32:36"
+        },
+        {
+          "title": "StenifyAI",
+          "url": "https://www.producthunt.com/products/stenifyai",
+          "author": "Desmond de Moussac",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Turn Chaotic Meetings into Clear Action ItemsDiscussion|Link",
+          "published_at": "2025-11-17T13:55:44"
+        },
+        {
+          "title": "Axis One",
+          "url": "https://www.producthunt.com/products/axis-one",
+          "author": "Michael Jupp",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "ChatGPT in a box. Private and Local AI.Discussion|Link",
+          "published_at": "2025-11-17T09:27:09"
+        },
+        {
+          "title": "Institution",
+          "url": "https://www.producthunt.com/products/institution",
+          "author": "Alankar Chaturvedi",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Automate your startup's bookkeeping & compliance in minutes.Discussion|Link",
+          "published_at": "2025-11-17T08:04:45"
+        },
+        {
+          "title": "Heartbeat Hero",
+          "url": "https://www.producthunt.com/products/heartbeat-hero",
+          "author": "Aiden Forrest",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Easy CPR training & simulation using only an iPhoneDiscussion|Link",
+          "published_at": "2025-11-17T17:20:55"
         }
       ]
     },
