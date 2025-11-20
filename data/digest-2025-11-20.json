@@ -1,20 +1,20 @@
 {
   "date": "2025-11-20T00:00:00",
-  "total_items": 51,
+  "total_items": 54,
   "sources": [
     "Intercom Blog",
-    "NN/g (Nielsen Norman Group)",
     "Sidebar",
-    "优设网",
+    "Awwwards",
     "Smashing Magazine",
-    "A List Apart",
+    "优设网",
+    "NN/g (Nielsen Norman Group)",
     "Design Milk",
     "Product Hunt",
-    "CSS-Tricks",
+    "A List Apart",
     "设计达人",
-    "Awwwards"
+    "CSS-Tricks"
   ],
-  "generated_at": "2025-11-20T02:34:50.598386",
+  "generated_at": "2025-11-20T12:48:38.174467",
   "categories": [
     {
       "category": "用户体验研究",
@@ -222,6 +222,15 @@
           "published_at": null
         },
         {
+          "title": "Ledger Brandbook",
+          "url": "https://www.awwwards.com/sites/ledger-brandbook",
+          "author": "Ledger",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Radaville",
           "url": "https://www.awwwards.com/sites/radaville",
           "author": "SALT AND PEPPER",
@@ -283,66 +292,84 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "AVATR VISION XPECTRA",
-          "url": "https://www.awwwards.com/sites/avatr-vision-xpectra",
-          "author": "Mubien",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 8,
       "items": [
         {
-          "title": "Bluedot 2.0",
-          "url": "https://www.producthunt.com/products/bluedot-2",
-          "author": "Dima Eremin",
+          "title": "Read AI for Desktop",
+          "url": "https://www.producthunt.com/products/read-ai-for-desktop",
+          "author": "David Shim",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Bot-free AI notetaker for audio and video captureDiscussion|Link",
-          "published_at": "2025-11-18T19:54:16"
+          "summary": "Capture conversations wherever they occurDiscussion|Link",
+          "published_at": "2025-11-17T23:35:11"
         },
         {
-          "title": "StopBite",
-          "url": "https://www.producthunt.com/products/stopbite-stop-nail-biting",
-          "author": "Guilermo Olcina",
+          "title": "Guideflow",
+          "url": "https://www.producthunt.com/products/guideflow",
+          "author": "Alex. Delivet",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Break the nail biting habitDiscussion|Link",
-          "published_at": "2025-11-18T14:36:20"
+          "summary": "The AI Demo Automation platform for SaaSDiscussion|Link",
+          "published_at": "2025-11-20T02:53:19"
         },
         {
-          "title": "Snippets AI",
-          "url": "https://www.producthunt.com/products/snippets-ai",
-          "author": "fmerian",
+          "title": "Flex AI: Your AI Personal Trainer",
+          "url": "https://www.producthunt.com/products/flex-ai-your-ai-personal-trainer",
+          "author": "Amin Niri",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Advanced AI Prompt ManagerDiscussion|Link",
-          "published_at": "2025-11-18T09:47:14"
+          "summary": "Introducing AI form feedback and AI-powered training coach.Discussion|Link",
+          "published_at": "2025-11-18T21:25:18"
         },
         {
-          "title": "Link in Bio by beehiiv",
-          "url": "https://www.producthunt.com/products/beehiiv",
-          "author": "Tyler Denk",
+          "title": "Manus Browser Operator",
+          "url": "https://www.producthunt.com/products/manus",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Build a digital home base for your content and products.Discussion|Link",
-          "published_at": "2025-11-19T04:12:24"
+          "summary": "Any browser can now become an AI browserDiscussion|Link",
+          "published_at": "2025-11-20T02:20:44"
         },
         {
-          "title": "Gemini 3",
-          "url": "https://www.producthunt.com/products/gemini-6",
-          "author": "Ankit Sharma",
+          "title": "Karumi",
+          "url": "https://www.producthunt.com/products/your-ai-demo-agent-24-7",
+          "author": "Garry Tan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Bring any idea to life with multimodal capabilitiesDiscussion|Link",
-          "published_at": "2025-11-18T19:22:25"
+          "summary": "AI agents that deliver personalized product demos, 24/7.Discussion|Link",
+          "published_at": "2025-11-18T22:42:44"
+        },
+        {
+          "title": "Gemini 3 Brand Audit",
+          "url": "https://www.producthunt.com/products/gemini-3-brand-audit",
+          "author": "Thomas Schranz ⛄️",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Find out what Gemini 3 knows about your brandDiscussion|Link",
+          "published_at": "2025-11-19T18:06:52"
+        },
+        {
+          "title": "Magic Mango",
+          "url": "https://www.producthunt.com/products/magic-mango",
+          "author": "Lyorrei Quintão",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The only ad-library marketing teams needDiscussion|Link",
+          "published_at": "2025-11-19T16:02:43"
+        },
+        {
+          "title": "Color Palette Pro",
+          "url": "https://www.producthunt.com/products/color-palette-pro",
+          "author": "Arjav Parikh",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "A synthesizer for coloursDiscussion|Link",
+          "published_at": "2025-11-19T20:41:53"
         }
       ]
     },
@@ -411,6 +438,15 @@
       "count": 5,
       "items": [
         {
+          "title": "What good execution looks like",
+          "url": "https://yusufaytas.com/what-good-execution-looks-like/",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "Quiet execution means low operational noise, clear ownership and stable context, with delivery, reliability and human signals aligned.",
+          "published_at": "2025-11-20T12:47:37"
+        },
+        {
           "title": "All your coworkers are probabilistic too",
           "url": "https://scatterarrow.com/content/en/all-your-coworkers-are-probabilistic.html",
           "author": null,
@@ -445,15 +481,6 @@
           "source": "Sidebar",
           "summary": "A curated selection of free fonts. Including serif, sans serif, script and monospace.",
           "published_at": "2025-11-19T12:34:24"
-        },
-        {
-          "title": "My CSS selector strategy",
-          "url": "https://stuffandnonsense.co.uk/blog/my-css-selector-strategy",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "Writing great CSS is a matter of strategic restraint, not over-specification.",
-          "published_at": "2025-11-19T12:33:49"
         }
       ]
     },
