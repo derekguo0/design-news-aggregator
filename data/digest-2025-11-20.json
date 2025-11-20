@@ -1,20 +1,20 @@
 {
   "date": "2025-11-20T00:00:00",
-  "total_items": 52,
+  "total_items": 51,
   "sources": [
+    "Intercom Blog",
     "NN/g (Nielsen Norman Group)",
-    "Smashing Magazine",
-    "Awwwards",
-    "A List Apart",
-    "设计达人",
-    "优设网",
     "Sidebar",
-    "Product Hunt",
+    "优设网",
+    "Smashing Magazine",
+    "A List Apart",
     "Design Milk",
+    "Product Hunt",
     "CSS-Tricks",
-    "Intercom Blog"
+    "设计达人",
+    "Awwwards"
   ],
-  "generated_at": "2025-11-20T01:48:59.728356",
+  "generated_at": "2025-11-20T02:34:50.598386",
   "categories": [
     {
       "category": "用户体验研究",
@@ -297,7 +297,7 @@
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 5,
       "items": [
         {
           "title": "Bluedot 2.0",
@@ -327,24 +327,6 @@
           "published_at": "2025-11-18T09:47:14"
         },
         {
-          "title": "ElevenLabs Image & Video",
-          "url": "https://www.producthunt.com/products/elevenlabs",
-          "author": "Zac Zuo",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The best audio, image & video models now in one platformDiscussion|Link",
-          "published_at": "2025-11-18T08:05:17"
-        },
-        {
-          "title": "Google Antigravity",
-          "url": "https://www.producthunt.com/products/google-antigravity",
-          "author": "Kiran Vemuri",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Run and monitor several coding agents at once in an IDEDiscussion|Link",
-          "published_at": "2025-11-18T19:37:58"
-        },
-        {
           "title": "Link in Bio by beehiiv",
           "url": "https://www.producthunt.com/products/beehiiv",
           "author": "Tyler Denk",
@@ -352,6 +334,15 @@
           "source": "Product Hunt",
           "summary": "Build a digital home base for your content and products.Discussion|Link",
           "published_at": "2025-11-19T04:12:24"
+        },
+        {
+          "title": "Gemini 3",
+          "url": "https://www.producthunt.com/products/gemini-6",
+          "author": "Ankit Sharma",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Bring any idea to life with multimodal capabilitiesDiscussion|Link",
+          "published_at": "2025-11-18T19:22:25"
         }
       ]
     },
