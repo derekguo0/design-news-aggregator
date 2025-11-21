@@ -1,20 +1,20 @@
 {
   "date": "2025-11-21T00:00:00",
-  "total_items": 52,
+  "total_items": 53,
   "sources": [
-    "Awwwards",
-    "Design Milk",
-    "Product Hunt",
     "NN/g (Nielsen Norman Group)",
-    "Sidebar",
+    "Design Milk",
     "CSS-Tricks",
-    "Smashing Magazine",
     "A List Apart",
-    "优设网",
+    "Intercom Blog",
     "设计达人",
-    "Intercom Blog"
+    "Sidebar",
+    "优设网",
+    "Product Hunt",
+    "Awwwards",
+    "Smashing Magazine"
   ],
-  "generated_at": "2025-11-21T01:49:46.925909",
+  "generated_at": "2025-11-21T07:44:45.042989",
   "categories": [
     {
       "category": "用户体验研究",
@@ -222,6 +222,15 @@
           "published_at": null
         },
         {
+          "title": "Izum.Study",
+          "url": "https://www.awwwards.com/sites/izum-study",
+          "author": "izum-digital",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Ledger Brandbook",
           "url": "https://www.awwwards.com/sites/ledger-brandbook",
           "author": "Ledger",
@@ -283,48 +292,39 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Permian",
-          "url": "https://www.awwwards.com/sites/permian",
-          "author": "HOLOGRAPHIK",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 7,
       "items": [
         {
-          "title": "Karumi",
-          "url": "https://www.producthunt.com/products/your-ai-demo-agent-24-7",
-          "author": "Garry Tan",
+          "title": "Gemini 3 Brand Audit",
+          "url": "https://www.producthunt.com/products/gemini-3-brand-audit",
+          "author": "Thomas Schranz ⛄️",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI agents that deliver personalized product demos, 24/7.Discussion|Link",
-          "published_at": "2025-11-18T22:42:44"
+          "summary": "Find out what Gemini 3 knows about your brandDiscussion|Link",
+          "published_at": "2025-11-19T18:06:52"
         },
         {
-          "title": "Spine Canvas",
-          "url": "https://www.producthunt.com/products/spine-2",
-          "author": "Garry Tan",
+          "title": "Refbox",
+          "url": "https://www.producthunt.com/products/refbox",
+          "author": "Chris Messina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Go beyond chat & collaborate visually across 300+ AI modelsDiscussion|Link",
-          "published_at": "2025-11-19T21:02:19"
+          "summary": "Your floating workspace for inspiration.Discussion|Link",
+          "published_at": "2025-11-18T19:29:20"
         },
         {
-          "title": "Baselight AI",
-          "url": "https://www.producthunt.com/products/baselight",
-          "author": "Jorge M. Soares",
+          "title": "Avallon",
+          "url": "https://www.producthunt.com/products/avallon",
+          "author": "Arjav Parikh",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI that knows the factsDiscussion|Link",
-          "published_at": "2025-11-19T02:06:10"
+          "summary": "AI agents for claims operationsDiscussion|Link",
+          "published_at": "2025-11-19T13:10:26"
         },
         {
           "title": "Color Palette Pro",
@@ -336,22 +336,31 @@
           "published_at": "2025-11-19T20:41:53"
         },
         {
-          "title": "Gemini 3 Brand Audit",
-          "url": "https://www.producthunt.com/products/gemini-3-brand-audit",
-          "author": "Thomas Schranz ⛄️",
+          "title": "Karumi",
+          "url": "https://www.producthunt.com/products/your-ai-demo-agent-24-7",
+          "author": "Garry Tan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Find out what Gemini 3 knows about your brandDiscussion|Link",
-          "published_at": "2025-11-19T18:06:52"
+          "summary": "AI agents that deliver personalized product demos, 24/7.Discussion|Link",
+          "published_at": "2025-11-18T22:42:44"
         },
         {
-          "title": "Avallon",
-          "url": "https://www.producthunt.com/products/avallon",
-          "author": "Arjav Parikh",
+          "title": "Magic Mango",
+          "url": "https://www.producthunt.com/products/magic-mango",
+          "author": "Lyorrei Quintão",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI agents for claims operationsDiscussion|Link",
-          "published_at": "2025-11-19T13:10:26"
+          "summary": "Your marketing team's ad-library for tracking and organizingDiscussion|Link",
+          "published_at": "2025-11-19T16:02:43"
+        },
+        {
+          "title": "Flex AI: Your AI Personal Trainer",
+          "url": "https://www.producthunt.com/products/flex-ai-your-ai-personal-trainer",
+          "author": "Amin Niri",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Introducing AI form feedback and AI-powered training coach.Discussion|Link",
+          "published_at": "2025-11-18T21:25:18"
         }
       ]
     },
@@ -405,9 +414,9 @@
           "published_at": null
         },
         {
-          "title": "解析Apple Books逐行导读：用户体验如何塑造沉浸式阅读？",
-          "url": "https://www.uisdc.com/hunter/0221650106.html",
-          "author": "要爆炸的张老三",
+          "title": "团队协作新神器？ChatGPT变身超级群友帮你做决策",
+          "url": "https://www.uisdc.com/hunter/0221650252.html",
+          "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
           "summary": null,
