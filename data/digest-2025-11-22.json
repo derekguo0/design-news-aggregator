@@ -1,18 +1,17 @@
 {
   "date": "2025-11-22T00:00:00",
-  "total_items": 46,
+  "total_items": 36,
   "sources": [
-    "Smashing Magazine",
-    "优设网",
-    "Awwwards",
-    "Design Milk",
-    "Product Hunt",
     "A List Apart",
+    "Product Hunt",
+    "优设网",
+    "NN/g (Nielsen Norman Group)",
+    "Design Milk",
     "CSS-Tricks",
     "Sidebar",
-    "NN/g (Nielsen Norman Group)"
+    "Smashing Magazine"
   ],
-  "generated_at": "2025-11-22T01:45:53.803102",
+  "generated_at": "2025-11-22T12:41:41.654045",
   "categories": [
     {
       "category": "用户体验研究",
@@ -136,7 +135,7 @@
     },
     {
       "category": "网页设计",
-      "count": 15,
+      "count": 7,
       "items": [
         {
           "title": "Keyframes Tokens: Standardizing Animation Across Projects",
@@ -200,138 +199,48 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
-        },
-        {
-          "title": "Izum.Study",
-          "url": "https://www.awwwards.com/sites/izum-study",
-          "author": "izum-digital",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Ledger Brandbook",
-          "url": "https://www.awwwards.com/sites/ledger-brandbook",
-          "author": "Ledger",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Radaville",
-          "url": "https://www.awwwards.com/sites/radaville",
-          "author": "SALT AND PEPPER",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Digilab",
-          "url": "https://www.awwwards.com/sites/digilab",
-          "author": "Numbered",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Lando Norris",
-          "url": "https://www.awwwards.com/sites/lando-norris",
-          "author": "OFF+BRAND.",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Telkom-OT",
-          "url": "https://www.awwwards.com/sites/telkom-ot",
-          "author": ".RAW",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Amrit Palace",
-          "url": "https://www.awwwards.com/sites/amrit-palace",
-          "author": "Artemii Lebedev",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Marie Antoinette",
-          "url": "https://www.awwwards.com/sites/marie-antoinette",
-          "author": "Local Studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 4,
       "items": [
         {
-          "title": "Browser Cash",
-          "url": "https://www.producthunt.com/products/browser-cash",
-          "author": "Alex Spring",
+          "title": "Side Space 2.0",
+          "url": "https://www.producthunt.com/products/side-space",
+          "author": "Robert Shaw",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The stealthiest browser automation platform for web scrapingDiscussion|Link",
-          "published_at": "2025-11-19T00:00:28"
+          "summary": "#1 AI Assistant for Your TabsDiscussion|Link",
+          "published_at": "2025-11-20T11:45:25"
         },
         {
-          "title": "SAM 3 & 3D",
-          "url": "https://www.producthunt.com/products/meta",
-          "author": "Zac Zuo",
+          "title": "Textable",
+          "url": "https://www.producthunt.com/products/textable-3",
+          "author": "Oskar Sundberg",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Segment anything in images & video. Reconstruct 3D objects.Discussion|Link",
-          "published_at": "2025-11-21T07:26:15"
+          "summary": "Lovable, but Teletext. A full channel from a single prompt.Discussion|Link",
+          "published_at": "2025-11-20T13:36:44"
         },
         {
-          "title": "Mixup",
-          "url": "https://www.producthunt.com/products/mixup",
-          "author": "Chris Messina",
+          "title": "SynthID by Google DeepMind",
+          "url": "https://www.producthunt.com/products/gemini-1-5-pro",
+          "author": "Aleksandar Blazhev",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "creative photo magicDiscussion|Link",
-          "published_at": "2025-11-20T21:08:23"
+          "summary": "Detect AI-generated content with Google’s new watermark toolDiscussion|Link",
+          "published_at": "2025-11-21T19:43:47"
         },
         {
-          "title": "Antigravity for Raycast",
-          "url": "https://www.producthunt.com/products/antigravity-for-raycast",
-          "author": "Carl Kho",
+          "title": "Auto Shutdown",
+          "url": "https://www.producthunt.com/products/auto-shutdown",
+          "author": "Clement",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Keyboard-first control for Google Antigravity IDEDiscussion|Link",
-          "published_at": "2025-11-20T03:13:03"
-        },
-        {
-          "title": "Neat Photo (Beta)",
-          "url": "https://www.producthunt.com/products/neat-photo-beta",
-          "author": "Maximiliano Diaz",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "A daily photo game that teaches you to see differently.Discussion|Link",
-          "published_at": "2025-11-21T07:18:24"
-        },
-        {
-          "title": "Twogether",
-          "url": "https://www.producthunt.com/products/twogether",
-          "author": "Tom De Villiers",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "A shared & synced date idea list for you and your partnerDiscussion|Link",
-          "published_at": "2025-11-19T06:05:51"
+          "summary": "Make Mommy proud, never miss bedtime.Discussion|Link",
+          "published_at": "2025-11-20T23:00:13"
         }
       ]
     },
@@ -339,6 +248,15 @@
       "category": "设计教程",
       "count": 6,
       "items": [
+        {
+          "title": "Nano Banana Pro深度测评！中文字生成和多图融合能力太强了！",
+          "url": "https://www.uisdc.com/nano-banana-pro",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
         {
           "title": "想找简洁干净的无衬线字体？试试这款免费的Projekt Blackbird",
           "url": "https://www.uisdc.com/projekt-blackbird",
@@ -376,17 +294,8 @@
           "published_at": null
         },
         {
-          "title": "顶尖高手出品！如何用AI快速完成用户研究设计？",
-          "url": "https://www.uisdc.com/ai-dominates-ux",
-          "author": "",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "团队协作新神器？ChatGPT变身超级群友帮你做决策",
-          "url": "https://www.uisdc.com/hunter/0221650252.html",
+          "title": "刚开店账户就有12万？美团外卖商家版引导页的翻车现场",
+          "url": "https://www.uisdc.com/hunter/0221650398.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
