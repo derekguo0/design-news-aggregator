@@ -1,32 +1,23 @@
 {
   "date": "2025-11-23T00:00:00",
-  "total_items": 43,
+  "total_items": 44,
   "sources": [
-    "Product Hunt",
     "A List Apart",
     "CSS-Tricks",
-    "NN/g (Nielsen Norman Group)",
-    "Sidebar",
     "Design Milk",
-    "Smashing Magazine",
     "Awwwards",
-    "优设网"
+    "Product Hunt",
+    "Smashing Magazine",
+    "Sidebar",
+    "优设网",
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2025-11-23T02:03:50.759829",
+  "generated_at": "2025-11-23T12:40:40.146439",
   "categories": [
     {
       "category": "用户体验研究",
       "count": 6,
       "items": [
-        {
-          "title": "Workshopping UX Research with Stakeholders",
-          "url": "https://www.nngroup.com/articles/ux-research-workshops/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
         {
           "title": "Beyond the Primary User: 3 Types of Smart-Home Users",
           "url": "https://www.nngroup.com/articles/smart-home-users/",
@@ -66,6 +57,15 @@
         {
           "title": "Good from Afar, But Far from Good: AI Prototyping in Real Design Contexts",
           "url": "https://www.nngroup.com/articles/ai-prototyping/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "The Edge Cases that Break Hearts (And Products)",
+          "url": "https://www.nngroup.com/articles/edge-cases/",
           "author": null,
           "category": "用户体验研究",
           "source": "NN/g (Nielsen Norman Group)",
@@ -202,6 +202,15 @@
           "published_at": null
         },
         {
+          "title": "SofaKnows",
+          "url": "https://www.awwwards.com/sites/sofaknows",
+          "author": "Artem Militonian",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Edoardo Lunardi",
           "url": "https://www.awwwards.com/sites/edoardo-lunardi",
           "author": "Edoardo Lunardi",
@@ -263,48 +272,48 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Amrit Palace",
-          "url": "https://www.awwwards.com/sites/amrit-palace",
-          "author": "Artemii Lebedev",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 4,
       "items": [
         {
-          "title": "Textable",
-          "url": "https://www.producthunt.com/products/textable-3",
-          "author": "Oskar Sundberg",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Lovable, but Teletext. A full channel from a single prompt.Discussion|Link",
-          "published_at": "2025-11-20T13:36:44"
-        },
-        {
-          "title": "SynthID by Google DeepMind",
-          "url": "https://www.producthunt.com/products/gemini-1-5-pro",
+          "title": "Dim Notes",
+          "url": "https://www.producthunt.com/products/dim-notes",
           "author": "Aleksandar Blazhev",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Detect AI-generated content with Google’s new watermark toolDiscussion|Link",
-          "published_at": "2025-11-21T19:43:47"
+          "summary": "Auto-tags your thoughtsDiscussion|Link",
+          "published_at": "2025-11-21T07:22:57"
         },
         {
-          "title": "Auto Shutdown",
-          "url": "https://www.producthunt.com/products/auto-shutdown",
-          "author": "Clement",
+          "title": "SuperIntern Translation",
+          "url": "https://www.producthunt.com/products/superintern",
+          "author": "Etaro Ito",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Make Mommy proud, never miss bedtime.Discussion|Link",
-          "published_at": "2025-11-20T23:00:13"
+          "summary": "Real-time Translation AI, Live Notes & Instant AnswersDiscussion|Link",
+          "published_at": "2025-11-22T08:32:23"
+        },
+        {
+          "title": "Google Nano Banana Pro",
+          "url": "https://www.producthunt.com/products/google-nano-banana-pro",
+          "author": "Jim Engine",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Gemini 3 Pro Image Generator based on Google Nano BananaDiscussion|Link",
+          "published_at": "2025-11-22T11:29:03"
+        },
+        {
+          "title": "Next3 Offload",
+          "url": "https://www.producthunt.com/products/next3-offload",
+          "author": "Jim Raptis",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Reduce image loading time by offloading media to the cloud.Discussion|Link",
+          "published_at": "2025-11-21T07:01:33"
         }
       ]
     },
