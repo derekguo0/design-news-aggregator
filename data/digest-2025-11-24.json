@@ -1,18 +1,18 @@
 {
   "date": "2025-11-24T00:00:00",
-  "total_items": 38,
+  "total_items": 41,
   "sources": [
     "Smashing Magazine",
-    "优设网",
+    "A List Apart",
     "Product Hunt",
+    "优设网",
+    "Design Milk",
+    "CSS-Tricks",
     "NN/g (Nielsen Norman Group)",
     "Sidebar",
-    "A List Apart",
-    "Design Milk",
-    "Awwwards",
-    "CSS-Tricks"
+    "Awwwards"
   ],
-  "generated_at": "2025-11-24T01:57:59.433369",
+  "generated_at": "2025-11-24T12:51:02.518743",
   "categories": [
     {
       "category": "用户体验研究",
@@ -175,6 +175,15 @@
           "published_at": null
         },
         {
+          "title": "Ribbit",
+          "url": "https://www.awwwards.com/sites/ribbit",
+          "author": "Frederik Hansen",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "SofaKnows",
           "url": "https://www.awwwards.com/sites/sofaknows",
           "author": "Artem Militonian",
@@ -236,39 +245,57 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Telkom-OT",
-          "url": "https://www.awwwards.com/sites/telkom-ot",
-          "author": ".RAW",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 5,
       "items": [
         {
-          "title": "SuperIntern Translation",
-          "url": "https://www.producthunt.com/products/superintern",
-          "author": "Etaro Ito",
+          "title": "Superlines AI Search Auditor for ChatGPT",
+          "url": "https://www.producthunt.com/products/superlines-ai-search-auditor-for-chatgpt",
+          "author": "Kimmo Ihanus",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Real-time Translation AI, Live Notes & Instant AnswersDiscussion|Link",
-          "published_at": "2025-11-22T08:32:23"
+          "summary": "Audit any webpage for AI Search in ChatGPTDiscussion|Link",
+          "published_at": "2025-11-23T15:49:53"
         },
         {
-          "title": "Google Nano Banana Pro",
-          "url": "https://www.producthunt.com/products/google-nano-banana-pro",
-          "author": "Jim Engine",
+          "title": "Fluently Accent Guru",
+          "url": "https://www.producthunt.com/products/fluently-ai-english-coach",
+          "author": "Garry Tan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Gemini 3 Pro Image Generator based on Google Nano BananaDiscussion|Link",
-          "published_at": "2025-11-22T11:29:03"
+          "summary": "What accent do you have in English? I will tell in 30sDiscussion|Link",
+          "published_at": "2025-11-21T09:46:54"
+        },
+        {
+          "title": "Synara",
+          "url": "https://www.producthunt.com/products/synara",
+          "author": "Sam Benson",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The developer-first event & invite API that fixes ICS issuesDiscussion|Link",
+          "published_at": "2025-11-23T15:07:02"
+        },
+        {
+          "title": "TilePix",
+          "url": "https://www.producthunt.com/products/tilepix",
+          "author": "Liam Rogers",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "TileSet and TileMap Creation SuiteDiscussion|Link",
+          "published_at": "2025-11-23T15:17:21"
+        },
+        {
+          "title": "Container Diet",
+          "url": "https://www.producthunt.com/products/container-diet",
+          "author": "Plamen Ivanov",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Slim down your Docker images with AI-powered sass. 🐳💅Discussion|Link",
+          "published_at": "2025-11-23T11:32:47"
         }
       ]
     },
@@ -337,49 +364,49 @@
       "count": 5,
       "items": [
         {
-          "title": "What AI is really for",
-          "url": "https://www.chrbutler.com/what-ai-is-really-for",
+          "title": "Amelia Booking for WordPress — Black Friday up to 70%",
+          "url": "https://wpamelia.com/?utm_source=sidebar.io&utm_medium=newsletter&utm_campaign=baw_bf_designers_deals_2025",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Best case: we’re in a bubble. Worst case: the people profiting most know exactly what they’re doing.",
-          "published_at": "2025-11-21T10:10:26"
+          "summary": "80,000+ customers, 4.6★ rating. Automated booking with real-time availability, payments, reminders—15-day money-back guarantee.",
+          "published_at": "2025-11-24T09:08:00"
         },
         {
-          "title": "Open railway map",
-          "url": "https://www.openrailwaymap.org/",
+          "title": "Exposure as a designer",
+          "url": "https://hvpandya.com/exposure",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "An OpenStreetMap-based project for creating a map of the world's railway infrastructure.",
-          "published_at": "2025-11-21T10:09:48"
+          "summary": "For equal amount of design skills, your exposure to the world determines how effective of a designer you can be.",
+          "published_at": "2025-11-24T09:07:13"
         },
         {
-          "title": "David Kelley’s brief but spectacular take on creativity and design",
-          "url": "https://www.pbs.org/newshour/show/david-kelleys-brief-but-spectacular-take-on-creativity-and-design",
+          "title": "The dichotomy of print versus the web",
+          "url": "https://www.baldurbjarnason.com/2025/the-dichotomy-of-print-vs-web/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "David Kelley reflects on the journey that shaped his belief that everyone has the capacity to be creative.",
-          "published_at": "2025-11-21T10:09:03"
+          "summary": "Two very different technologies whose relationship is complicated at best.",
+          "published_at": "2025-11-24T09:06:41"
         },
         {
-          "title": "How pop music fell in love with socialist infographics",
-          "url": "https://www.theguardian.com/artanddesign/2025/nov/19/otto-neurath-isotypes-infographics-album-covers-wien-museum-vienna",
+          "title": "9 startups changing disability tech",
+          "url": "https://mashable.com/article/disability-tech-startup-innovation-remarkable-summit",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "When Austrian philosopher Otto Neurath invented the visual language of Isotypes, it was to democratise education—but ended up impacting way more.",
-          "published_at": "2025-11-21T10:08:05"
+          "summary": "From making brain-computer interfaces affordable to enabling people with low vision to follow live sports.",
+          "published_at": "2025-11-24T09:05:15"
         },
         {
-          "title": "Blame as a service (BaaS)",
-          "url": "https://www.humaninvariant.com/blog/blame",
+          "title": "To be a leader of systems",
+          "url": "https://hazelweakly.me/blog/to-be-a-leader-of-systems/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Productized scapegoating—a reflection.",
-          "published_at": "2025-11-21T10:07:05"
+          "summary": "People who become known for seeing systems often become in charge of them.",
+          "published_at": "2025-11-24T09:04:02"
         }
       ]
     },
