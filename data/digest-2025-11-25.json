@@ -1,22 +1,32 @@
 {
   "date": "2025-11-25T00:00:00",
-  "total_items": 32,
+  "total_items": 41,
   "sources": [
+    "Design Milk",
+    "Awwwards",
+    "Product Hunt",
+    "NN/g (Nielsen Norman Group)",
+    "A List Apart",
     "CSS-Tricks",
     "Sidebar",
     "优设网",
-    "Product Hunt",
-    "Design Milk",
-    "Smashing Magazine",
-    "A List Apart",
-    "NN/g (Nielsen Norman Group)"
+    "Smashing Magazine"
   ],
-  "generated_at": "2025-11-25T02:22:43.780788",
+  "generated_at": "2025-11-25T12:50:29.314446",
   "categories": [
     {
       "category": "用户体验研究",
       "count": 6,
       "items": [
+        {
+          "title": "Workshopping UX Research with Stakeholders",
+          "url": "https://www.nngroup.com/articles/ux-research-workshops/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
         {
           "title": "Beyond the Primary User: 3 Types of Smart-Home Users",
           "url": "https://www.nngroup.com/articles/smart-home-users/",
@@ -56,15 +66,6 @@
         {
           "title": "Good from Afar, But Far from Good: AI Prototyping in Real Design Contexts",
           "url": "https://www.nngroup.com/articles/ai-prototyping/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "The Edge Cases that Break Hearts (And Products)",
-          "url": "https://www.nngroup.com/articles/edge-cases/",
           "author": null,
           "category": "用户体验研究",
           "source": "NN/g (Nielsen Norman Group)",
@@ -117,7 +118,7 @@
     },
     {
       "category": "网页设计",
-      "count": 7,
+      "count": 15,
       "items": [
         {
           "title": "Designing For Stress And Emergency",
@@ -181,39 +182,120 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
+        },
+        {
+          "title": "Ocean",
+          "url": "https://www.awwwards.com/sites/ocean-2",
+          "author": "Cuchillo",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Ribbit",
+          "url": "https://www.awwwards.com/sites/ribbit",
+          "author": "Frederik Hansen",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "SofaKnows",
+          "url": "https://www.awwwards.com/sites/sofaknows",
+          "author": "Artem Militonian",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Edoardo Lunardi",
+          "url": "https://www.awwwards.com/sites/edoardo-lunardi",
+          "author": "Edoardo Lunardi",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Izum.Study",
+          "url": "https://www.awwwards.com/sites/izum-study",
+          "author": "izum-digital",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Ledger Brandbook",
+          "url": "https://www.awwwards.com/sites/ledger-brandbook",
+          "author": "Ledger",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Radaville",
+          "url": "https://www.awwwards.com/sites/radaville",
+          "author": "SALT AND PEPPER",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Digilab",
+          "url": "https://www.awwwards.com/sites/digilab",
+          "author": "Numbered",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 4,
       "items": [
         {
-          "title": "Container Diet",
-          "url": "https://www.producthunt.com/products/container-diet",
-          "author": "Plamen Ivanov",
+          "title": "ReadMeeting",
+          "url": "https://www.producthunt.com/products/readmeeting-2",
+          "author": "Goenji",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Slim down your Docker images with AI-powered sass. 🐳💅Discussion|Link",
-          "published_at": "2025-11-23T11:32:47"
+          "summary": "AI-powered meeting summaries with team collaboration.Discussion|Link",
+          "published_at": "2025-11-24T13:13:41"
         },
         {
-          "title": "Superlines AI Search Auditor for ChatGPT",
-          "url": "https://www.producthunt.com/products/superlines-ai-search-auditor-for-chatgpt",
-          "author": "Kimmo Ihanus",
+          "title": "Loomoz",
+          "url": "https://www.producthunt.com/products/loomoz",
+          "author": "Thibault Bougard",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Audit any webpage for AI Search in ChatGPTDiscussion|Link",
-          "published_at": "2025-11-23T15:49:53"
+          "summary": "Effortless visual feedback & collaboration platformDiscussion|Link",
+          "published_at": "2025-11-25T01:52:46"
         },
         {
-          "title": "TilePix",
-          "url": "https://www.producthunt.com/products/tilepix",
-          "author": "Liam Rogers",
+          "title": "Haxiom",
+          "url": "https://www.producthunt.com/products/haxiom",
+          "author": "Chin Yueh Tao",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "TileSet and TileMap Creation SuiteDiscussion|Link",
-          "published_at": "2025-11-23T15:17:21"
+          "summary": "The Online MD Editor for Collaborative TeamsDiscussion|Link",
+          "published_at": "2025-11-25T07:41:42"
+        },
+        {
+          "title": "Sketch Copenhagen",
+          "url": "https://www.producthunt.com/products/sketch",
+          "author": "Chris Messina",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Liquid Glass redesign, an all-new Inspector, and moreDiscussion|Link",
+          "published_at": "2025-11-25T04:50:21"
         }
       ]
     },
@@ -282,49 +364,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Amelia Booking for WordPress — Black Friday up to 70%",
-          "url": "https://wpamelia.com/?utm_source=sidebar.io&utm_medium=newsletter&utm_campaign=baw_bf_designers_deals_2025",
+          "title": "The Rosetta stone of design engineering",
+          "url": "https://yannglt.com/writing/the-rosetta-stone-of-design-engineering",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "80,000+ customers, 4.6★ rating. Automated booking with real-time availability, payments, reminders—15-day money-back guarantee.",
-          "published_at": "2025-11-24T09:08:00"
+          "summary": "How design and engineering meet, overlap, and translate meaning—and why a shared language is the only way to build real shipping velocity.",
+          "published_at": "2025-11-25T12:41:58"
         },
         {
-          "title": "Exposure as a designer",
-          "url": "https://hvpandya.com/exposure",
+          "title": "FranSans",
+          "url": "https://emilysneddon.com/fransans",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "For equal amount of design skills, your exposure to the world determines how effective of a designer you can be.",
-          "published_at": "2025-11-24T09:07:13"
+          "summary": "A display font based on the destination displays found on some of the light rail vehicles that service the city of San Francisco.",
+          "published_at": "2025-11-25T12:40:47"
         },
         {
-          "title": "The dichotomy of print versus the web",
-          "url": "https://www.baldurbjarnason.com/2025/the-dichotomy-of-print-vs-web/",
+          "title": "Locksmith stickers are annoying, but kind of genius",
+          "url": "https://uxdesign.cc/locksmith-stickers-are-annoying-but-kind-of-genius-85690b7ae045?sk=b375659f4e33df291d1a89a6cf6ad6c8",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Two very different technologies whose relationship is complicated at best.",
-          "published_at": "2025-11-24T09:06:41"
+          "summary": "A masterclass in low-tech, persistent, and surprisingly effective guerrilla marketing.",
+          "published_at": "2025-11-25T12:39:52"
         },
         {
-          "title": "9 startups changing disability tech",
-          "url": "https://mashable.com/article/disability-tech-startup-innovation-remarkable-summit",
+          "title": "“Good engineering management” is a fad",
+          "url": "https://lethain.com/good-eng-mgmt-is-a-fad/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "From making brain-computer interfaces affordable to enabling people with low vision to follow live sports.",
-          "published_at": "2025-11-24T09:05:15"
+          "summary": "As I get older, I increasingly think about whether I’m spending my time the right way to advance my career and my life.",
+          "published_at": "2025-11-25T12:37:39"
         },
         {
-          "title": "To be a leader of systems",
-          "url": "https://hazelweakly.me/blog/to-be-a-leader-of-systems/",
+          "title": "UX is your moat (and you’re ignoring it)",
+          "url": "https://eleganthack.com/ux-is-your-moat-and-youre-ignoring-it/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "People who become known for seeing systems often become in charge of them.",
-          "published_at": "2025-11-24T09:04:02"
+          "summary": "AI companies act like their next model release will make users switch. They announce benchmark improvements like they’re declaring victory.",
+          "published_at": "2025-11-25T12:36:25"
         }
       ]
     },
