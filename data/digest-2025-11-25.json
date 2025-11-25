@@ -1,18 +1,17 @@
 {
   "date": "2025-11-25T00:00:00",
-  "total_items": 41,
+  "total_items": 32,
   "sources": [
-    "A List Apart",
-    "NN/g (Nielsen Norman Group)",
-    "Awwwards",
-    "Design Milk",
-    "优设网",
-    "Sidebar",
     "CSS-Tricks",
+    "Sidebar",
+    "优设网",
+    "Product Hunt",
+    "Design Milk",
     "Smashing Magazine",
-    "Product Hunt"
+    "A List Apart",
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2025-11-25T01:51:39.555349",
+  "generated_at": "2025-11-25T02:22:43.780788",
   "categories": [
     {
       "category": "用户体验研究",
@@ -118,7 +117,7 @@
     },
     {
       "category": "网页设计",
-      "count": 15,
+      "count": 7,
       "items": [
         {
           "title": "Designing For Stress And Emergency",
@@ -182,84 +181,12 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
-        },
-        {
-          "title": "Ribbit",
-          "url": "https://www.awwwards.com/sites/ribbit",
-          "author": "Frederik Hansen",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "SofaKnows",
-          "url": "https://www.awwwards.com/sites/sofaknows",
-          "author": "Artem Militonian",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Edoardo Lunardi",
-          "url": "https://www.awwwards.com/sites/edoardo-lunardi",
-          "author": "Edoardo Lunardi",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Izum.Study",
-          "url": "https://www.awwwards.com/sites/izum-study",
-          "author": "izum-digital",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Ledger Brandbook",
-          "url": "https://www.awwwards.com/sites/ledger-brandbook",
-          "author": "Ledger",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Radaville",
-          "url": "https://www.awwwards.com/sites/radaville",
-          "author": "SALT AND PEPPER",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Digilab",
-          "url": "https://www.awwwards.com/sites/digilab",
-          "author": "Numbered",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Lando Norris",
-          "url": "https://www.awwwards.com/sites/lando-norris",
-          "author": "OFF+BRAND.",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 3,
       "items": [
         {
           "title": "Container Diet",
@@ -278,15 +205,6 @@
           "source": "Product Hunt",
           "summary": "Audit any webpage for AI Search in ChatGPTDiscussion|Link",
           "published_at": "2025-11-23T15:49:53"
-        },
-        {
-          "title": "Synara",
-          "url": "https://www.producthunt.com/products/synara",
-          "author": "Sam Benson",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The developer-first event & invite API that fixes ICS issuesDiscussion|Link",
-          "published_at": "2025-11-23T15:07:02"
         },
         {
           "title": "TilePix",
