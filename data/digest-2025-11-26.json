@@ -1,20 +1,20 @@
 {
   "date": "2025-11-26T00:00:00",
-  "total_items": 48,
+  "total_items": 47,
   "sources": [
-    "CSS-Tricks",
-    "NN/g (Nielsen Norman Group)",
-    "Intercom Blog",
-    "Design Milk",
     "Sidebar",
-    "UX Design CC",
-    "Smashing Magazine",
-    "Product Hunt",
-    "优设网",
+    "Design Milk",
     "Awwwards",
-    "A List Apart"
+    "Intercom Blog",
+    "Smashing Magazine",
+    "A List Apart",
+    "NN/g (Nielsen Norman Group)",
+    "UX Design CC",
+    "Product Hunt",
+    "CSS-Tricks",
+    "优设网"
   ],
-  "generated_at": "2025-11-26T01:51:34.453757",
+  "generated_at": "2025-11-26T05:36:56.170453",
   "categories": [
     {
       "category": "用户体验设计",
@@ -273,6 +273,15 @@
           "published_at": null
         },
         {
+          "title": "The Monolith Project",
+          "url": "https://www.awwwards.com/sites/the-monolith-project",
+          "author": "Ethan Chiu",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Ocean",
           "url": "https://www.awwwards.com/sites/ocean-2",
           "author": "Cuchillo",
@@ -334,48 +343,30 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Digilab",
-          "url": "https://www.awwwards.com/sites/digilab",
-          "author": "Numbered",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 2,
       "items": [
         {
-          "title": "Shinkansen Fuji Seat Finder",
-          "url": "https://www.producthunt.com/products/shinkansen-fuji-seat-finder",
-          "author": "Tsubasa H.",
+          "title": "Claude Opus 4.5",
+          "url": "https://www.producthunt.com/products/claude",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Stop staring at walls. Get the Mt. Fuji seat.Discussion|Link",
-          "published_at": "2025-11-24T01:15:52"
+          "summary": "The best model for coding, agents, and computer useDiscussion|Link",
+          "published_at": "2025-11-25T04:02:57"
         },
         {
-          "title": "Haxiom",
-          "url": "https://www.producthunt.com/products/haxiom",
-          "author": "Chin Yueh Tao",
+          "title": "Speakmac",
+          "url": "https://www.producthunt.com/products/speakmac",
+          "author": "Kiran Jd",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The Online MD Editor for Collaborative TeamsDiscussion|Link",
-          "published_at": "2025-11-25T07:41:42"
-        },
-        {
-          "title": "ReadMeeting",
-          "url": "https://www.producthunt.com/products/readmeeting-2",
-          "author": "Goenji",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "AI-powered meeting summaries with team collaboration.Discussion|Link",
-          "published_at": "2025-11-24T13:13:41"
+          "summary": "The offline dictation macOS should have hadDiscussion|Link",
+          "published_at": "2025-11-24T13:54:27"
         }
       ]
     },
@@ -383,6 +374,15 @@
       "category": "设计教程",
       "count": 6,
       "items": [
+        {
+          "title": "别把Nano Banana Pro当乐子玩！收下这份落地实操指南",
+          "url": "https://www.uisdc.com/nano-banana-pro-7",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
         {
           "title": "体验完Nano Banana Pro，我把Ps卸载了",
           "url": "https://www.uisdc.com/nano-banana-pro-8",
@@ -393,16 +393,7 @@
           "published_at": null
         },
         {
-          "title": "别把 Nano Banana Pro当乐子玩！收下这份落地实操指南",
-          "url": "https://www.uisdc.com/nano-banana-pro-7",
-          "author": "",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "强得离谱！实测Nano Banana Pro：邪修可落地商用功能场景",
+          "title": "强得离谱！7个Nano Banana Pro可落地商用场景实测",
           "url": "https://www.uisdc.com/nano-banana-pro-6",
           "author": "",
           "category": "设计教程",
