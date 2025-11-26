@@ -1,25 +1,34 @@
 {
   "date": "2025-11-26T00:00:00",
-  "total_items": 47,
+  "total_items": 53,
   "sources": [
-    "Sidebar",
-    "Design Milk",
-    "Awwwards",
-    "Intercom Blog",
-    "Smashing Magazine",
-    "A List Apart",
     "NN/g (Nielsen Norman Group)",
-    "UX Design CC",
+    "Design Milk",
     "Product Hunt",
+    "Smashing Magazine",
     "CSS-Tricks",
-    "优设网"
+    "Intercom Blog",
+    "Awwwards",
+    "优设网",
+    "Sidebar",
+    "A List Apart",
+    "UX Design CC"
   ],
-  "generated_at": "2025-11-26T05:36:56.170453",
+  "generated_at": "2025-11-26T12:51:28.336328",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 4,
+      "count": 5,
       "items": [
+        {
+          "title": "What an accessibility conference taught me about designing for all",
+          "url": "https://uxdesign.cc/what-an-accessibility-conference-taught-me-about-designing-for-all-5e371767949e?source=rss----138adf9c44c---4",
+          "author": "Darren Yeo",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "and how understanding human abilities can transform the way we build products and places.Continue reading on UX Collective »",
+          "published_at": "2025-11-26T12:11:06"
+        },
         {
           "title": "Florence Nightingale on vanity metrics",
           "url": "https://uxdesign.cc/florence-nightingale-on-vanity-metrics-3705e128c123?source=rss----138adf9c44c---4",
@@ -348,25 +357,61 @@
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 6,
       "items": [
         {
-          "title": "Claude Opus 4.5",
-          "url": "https://www.producthunt.com/products/claude",
-          "author": "Zac Zuo",
+          "title": "SlopCollector",
+          "url": "https://www.producthunt.com/products/slopcollector",
+          "author": "Samat Kalshabekov",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The best model for coding, agents, and computer useDiscussion|Link",
-          "published_at": "2025-11-25T04:02:57"
+          "summary": "Find the slop in your supabaseDiscussion|Link",
+          "published_at": "2025-11-25T20:23:15"
         },
         {
-          "title": "Speakmac",
-          "url": "https://www.producthunt.com/products/speakmac",
-          "author": "Kiran Jd",
+          "title": "InterviewFlowAI - AI Interviews",
+          "url": "https://www.producthunt.com/products/interviewflowai",
+          "author": "Mukul Munjal",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The offline dictation macOS should have hadDiscussion|Link",
-          "published_at": "2025-11-24T13:54:27"
+          "summary": "AI-powered phone & meet interviews for faster screeningDiscussion|Link",
+          "published_at": "2025-11-23T10:24:48"
+        },
+        {
+          "title": "AskCodi",
+          "url": "https://www.producthunt.com/products/askcodi",
+          "author": "Shreyans Bhansali",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Custom LLMs, without training. Use via openai compatible apiDiscussion|Link",
+          "published_at": "2025-11-24T12:22:56"
+        },
+        {
+          "title": "DemoStudio",
+          "url": "https://www.producthunt.com/products/demostudio",
+          "author": "Bao To",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Recorder & Editor for better-looking product demosDiscussion|Link",
+          "published_at": "2025-11-25T08:55:26"
+        },
+        {
+          "title": "Orion 1.0",
+          "url": "https://www.producthunt.com/products/orion-2",
+          "author": "Chris Messina",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "WebKit. Extensions. Privacy. Check icon Pick all three.Discussion|Link",
+          "published_at": "2025-11-26T06:18:32"
+        },
+        {
+          "title": "Questas",
+          "url": "https://www.producthunt.com/products/questas",
+          "author": "Charlie Clark",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Build interactive stories with AI images and videosDiscussion|Link",
+          "published_at": "2025-11-24T14:52:44"
         }
       ]
     },
@@ -432,43 +477,52 @@
     },
     {
       "category": "设计资讯",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "The Rosetta stone of design engineering",
-          "url": "https://yannglt.com/writing/the-rosetta-stone-of-design-engineering",
+          "title": "Is AI really eating the world?",
+          "url": "https://philippdubach.com/2025/11/23/is-ai-really-eating-the-world/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How design and engineering meet, overlap, and translate meaning—and why a shared language is the only way to build real shipping velocity.",
-          "published_at": "2025-11-25T12:41:58"
+          "summary": "The range of outcomes spans from “just more software” to a single unified intelligence that handles everything.",
+          "published_at": "2025-11-26T12:27:16"
         },
         {
-          "title": "FranSans",
-          "url": "https://emilysneddon.com/fransans",
+          "title": "Color palette pro",
+          "url": "https://colorpalette.pro/?ref=uxdesignweekly&color=rgb%280%25+80%25+100%25%29&paletteType=ana&paletteStyle=square&colorFormat=oklch&effects=0%2C0%2C0%2C0",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A display font based on the destination displays found on some of the light rail vehicles that service the city of San Francisco.",
-          "published_at": "2025-11-25T12:40:47"
+          "summary": "Generate customizable color palettes in advanced color spaces that can be easily shared, downloaded, or exported.",
+          "published_at": "2025-11-26T12:26:21"
         },
         {
-          "title": "“Good engineering management” is a fad",
-          "url": "https://lethain.com/good-eng-mgmt-is-a-fad/",
+          "title": "In the sea of sameness",
+          "url": "https://productidentity.co/p/in-the-sea-of-sameness",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "As I get older, I increasingly think about whether I’m spending my time the right way to advance my career and my life.",
-          "published_at": "2025-11-25T12:37:39"
+          "summary": "Finding a soul in this world seems to be a rare quality these days, especially in software-internet-land.",
+          "published_at": "2025-11-26T12:25:26"
         },
         {
-          "title": "UX is your moat (and you’re ignoring it)",
-          "url": "https://eleganthack.com/ux-is-your-moat-and-youre-ignoring-it/",
+          "title": "Tech predictions for 2026 and beyond",
+          "url": "https://www.allthingsdistributed.com/2025/11/tech-predictions-for-2026-and-beyond.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "AI companies act like their next model release will make users switch. They announce benchmark improvements like they’re declaring victory.",
-          "published_at": "2025-11-25T12:36:25"
+          "summary": "In the coming year, we will begin the transition into a new era of AI in the human loop, not the other way around.",
+          "published_at": "2025-11-26T12:21:37"
+        },
+        {
+          "title": "How we built the v0 iOS app",
+          "url": "https://vercel.com/blog/how-we-built-the-v0-ios-app",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "The v0 engineering team breaks down the challenges and decisions behind building the v0 app for iOS.",
+          "published_at": "2025-11-26T12:20:29"
         }
       ]
     },
