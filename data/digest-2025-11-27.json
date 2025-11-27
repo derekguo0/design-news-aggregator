@@ -1,20 +1,20 @@
 {
   "date": "2025-11-27T00:00:00",
-  "total_items": 51,
+  "total_items": 52,
   "sources": [
-    "Product Hunt",
     "Smashing Magazine",
-    "优设网",
-    "Sidebar",
-    "UX Design CC",
     "CSS-Tricks",
-    "Design Milk",
-    "Intercom Blog",
+    "UX Design CC",
     "Awwwards",
     "NN/g (Nielsen Norman Group)",
+    "优设网",
+    "Product Hunt",
+    "Design Milk",
+    "Intercom Blog",
+    "Sidebar",
     "A List Apart"
   ],
-  "generated_at": "2025-11-27T01:49:58.759296",
+  "generated_at": "2025-11-27T03:41:15.401177",
   "categories": [
     {
       "category": "用户体验设计",
@@ -357,16 +357,25 @@
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "AskCodi",
-          "url": "https://www.producthunt.com/products/askcodi",
-          "author": "Shreyans Bhansali",
+          "title": "SlopCollector",
+          "url": "https://www.producthunt.com/products/slopcollector",
+          "author": "Samat Kalshabekov",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Custom LLMs, without training. Use via openai compatible apiDiscussion|Link",
-          "published_at": "2025-11-24T12:22:56"
+          "summary": "Find the slop in your supabaseDiscussion|Link",
+          "published_at": "2025-11-25T20:23:15"
+        },
+        {
+          "title": "DemoStudio",
+          "url": "https://www.producthunt.com/products/demostudio",
+          "author": "Bao To",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Recorder & Editor for better-looking product demosDiscussion|Link",
+          "published_at": "2025-11-25T08:55:26"
         },
         {
           "title": "Questas",
@@ -378,22 +387,22 @@
           "published_at": "2025-11-24T14:52:44"
         },
         {
-          "title": "Orion 1.0",
-          "url": "https://www.producthunt.com/products/orion-2",
-          "author": "Chris Messina",
+          "title": "ツSupercut for Windows",
+          "url": "https://www.producthunt.com/products/supercut",
+          "author": "David OKuniev",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "WebKit. Extensions. Privacy. Check icon Pick all three.Discussion|Link",
-          "published_at": "2025-11-26T06:18:32"
+          "summary": "The Windows Screen Recorder that won't make you sweat.Discussion|Link",
+          "published_at": "2025-11-25T17:28:39"
         },
         {
-          "title": "Rubber Duck",
-          "url": "https://www.producthunt.com/products/rubber-duck",
-          "author": "Sayuj Suresh",
+          "title": "AskCodi",
+          "url": "https://www.producthunt.com/products/askcodi",
+          "author": "Shreyans Bhansali",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Catch App Store rejection issues before Apple does.Discussion|Link",
-          "published_at": "2025-11-25T12:36:22"
+          "summary": "Custom LLMs, without training. Use via openai compatible apiDiscussion|Link",
+          "published_at": "2025-11-24T12:22:56"
         }
       ]
     },
@@ -447,9 +456,9 @@
           "published_at": null
         },
         {
-          "title": "你的图标只是入口？交管12123把它做成了仪表盘",
-          "url": "https://www.uisdc.com/hunter/0221651007.html",
-          "author": "要爆炸的张老三",
+          "title": "全家桶的终极形态？Project Graph 让你在一个画布里调用 PS、AI 和 Firefly",
+          "url": "https://www.uisdc.com/hunter/0221651081.html",
+          "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
           "summary": null,
