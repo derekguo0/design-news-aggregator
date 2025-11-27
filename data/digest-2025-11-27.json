@@ -1,25 +1,52 @@
 {
   "date": "2025-11-27T00:00:00",
-  "total_items": 52,
+  "total_items": 59,
   "sources": [
-    "Smashing Magazine",
-    "CSS-Tricks",
     "UX Design CC",
     "Awwwards",
     "NN/g (Nielsen Norman Group)",
-    "优设网",
+    "Smashing Magazine",
+    "A List Apart",
     "Product Hunt",
+    "CSS-Tricks",
     "Design Milk",
+    "优设网",
     "Intercom Blog",
-    "Sidebar",
-    "A List Apart"
+    "Sidebar"
   ],
-  "generated_at": "2025-11-27T03:41:15.401177",
+  "generated_at": "2025-11-27T12:50:21.546217",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 5,
+      "count": 8,
       "items": [
+        {
+          "title": "Dawn of the undead peripheral",
+          "url": "https://uxdesign.cc/dawn-of-the-undead-peripheral-f6b2cb55e577?source=rss----138adf9c44c---4",
+          "author": "Neel Dozome",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The saga of making a computer perched on a human face look coolContinue reading on UX Collective »",
+          "published_at": "2025-11-27T12:44:47"
+        },
+        {
+          "title": "The internet needs an AI off switch",
+          "url": "https://uxdesign.cc/the-internet-needs-an-ai-off-switch-3e832e8ad0d0?source=rss----138adf9c44c---4",
+          "author": "Allan MacDonald",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "People want the human internet back.AI Robot getting stuck in a Pinterest filterPinterest’s new AI filter could be the next step in the evolution of the internet. It’s the first major platform to actu...",
+          "published_at": "2025-11-27T12:43:16"
+        },
+        {
+          "title": "Apps have made shopping and dining less accessible, not more",
+          "url": "https://uxdesign.cc/apps-have-made-shopping-and-dining-less-accessible-not-more-4e7497f17d39?source=rss----138adf9c44c---4",
+          "author": "Chris Raymond",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The entire experience has turned into a confusing and frustrating messContinue reading on UX Collective »",
+          "published_at": "2025-11-27T12:41:21"
+        },
         {
           "title": "What an accessibility conference taught me about designing for all",
           "url": "https://uxdesign.cc/what-an-accessibility-conference-taught-me-about-designing-for-all-5e371767949e?source=rss----138adf9c44c---4",
@@ -207,8 +234,17 @@
     },
     {
       "category": "网页设计",
-      "count": 16,
+      "count": 17,
       "items": [
+        {
+          "title": "The Accessibility Problem With Authentication Methods Like CAPTCHA",
+          "url": "https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/",
+          "author": "hello@smashingmagazine.com (Eleanor Hecks)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "CAPTCHAs were meant to keep bots out, but too often, they lock people with disabilities out, too. From image classification to click-based tests, many “human checks” are anything but inclusive. There’...",
+          "published_at": "2025-11-27T10:00:00"
+        },
         {
           "title": "Design System Culture: What It Is And Why It Matters (Excerpt)",
           "url": "https://smashingmagazine.com/2025/11/design-system-culture/",
@@ -282,6 +318,15 @@
           "published_at": null
         },
         {
+          "title": "Glyphic Biotechnologies",
+          "url": "https://www.awwwards.com/sites/glyphic-biotechnologies",
+          "author": "Obys Agency",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "The Monolith Project",
           "url": "https://www.awwwards.com/sites/the-monolith-project",
           "author": "Ethan Chiu",
@@ -343,66 +388,84 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Radaville",
-          "url": "https://www.awwwards.com/sites/radaville",
-          "author": "SALT AND PEPPER",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 8,
       "items": [
         {
-          "title": "SlopCollector",
-          "url": "https://www.producthunt.com/products/slopcollector",
-          "author": "Samat Kalshabekov",
+          "title": "InsightTube",
+          "url": "https://www.producthunt.com/products/insighttube",
+          "author": "Vibrissa",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Find the slop in your supabaseDiscussion|Link",
-          "published_at": "2025-11-25T20:23:15"
+          "summary": "AI insights from YouTube — fast, clear, effortless.Discussion|Link",
+          "published_at": "2025-11-26T14:33:26"
         },
         {
-          "title": "DemoStudio",
-          "url": "https://www.producthunt.com/products/demostudio",
-          "author": "Bao To",
+          "title": "Craft Thanksgiving Release",
+          "url": "https://www.producthunt.com/products/craft-do",
+          "author": "Chris Messina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Recorder & Editor for better-looking product demosDiscussion|Link",
-          "published_at": "2025-11-25T08:55:26"
+          "summary": "Revamped Assistant with MCP, Al, an API and Android BetaDiscussion|Link",
+          "published_at": "2025-11-26T22:33:05"
         },
         {
-          "title": "Questas",
-          "url": "https://www.producthunt.com/products/questas",
-          "author": "Charlie Clark",
+          "title": "AbleMouse",
+          "url": "https://www.producthunt.com/products/ablemouse-control-with-tongue-or-touch",
+          "author": "Alexander Radzhabov",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Build interactive stories with AI images and videosDiscussion|Link",
-          "published_at": "2025-11-24T14:52:44"
+          "summary": "Now works everywhere + MouseCommander: a gesture-driven toolDiscussion|Link",
+          "published_at": "2025-11-26T21:32:22"
         },
         {
-          "title": "ツSupercut for Windows",
-          "url": "https://www.producthunt.com/products/supercut",
-          "author": "David OKuniev",
+          "title": "GLITCHGUESS",
+          "url": "https://www.producthunt.com/products/glitchguess",
+          "author": "Isuru Prabath",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The Windows Screen Recorder that won't make you sweat.Discussion|Link",
-          "published_at": "2025-11-25T17:28:39"
+          "summary": "20 questions in a broken reality.Discussion|Link",
+          "published_at": "2025-11-24T22:08:11"
         },
         {
-          "title": "AskCodi",
-          "url": "https://www.producthunt.com/products/askcodi",
-          "author": "Shreyans Bhansali",
+          "title": "Live Resume",
+          "url": "https://www.producthunt.com/products/live-resume",
+          "author": "Ranvijayy Singh Rathore",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Custom LLMs, without training. Use via openai compatible apiDiscussion|Link",
-          "published_at": "2025-11-24T12:22:56"
+          "summary": "The Resume That Never Gets OldDiscussion|Link",
+          "published_at": "2025-11-27T06:03:55"
+        },
+        {
+          "title": "AstroAlert",
+          "url": "https://www.producthunt.com/products/astroalert-sky-events-in-your-pocket",
+          "author": "Théo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Know exactly when satellites pass above you.Discussion|Link",
+          "published_at": "2025-11-26T09:44:45"
+        },
+        {
+          "title": "Shop with Copilot",
+          "url": "https://www.producthunt.com/products/the-new-microsoft-copilot",
+          "author": "Zac Zuo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Your AI shopping assistant in EdgeDiscussion|Link",
+          "published_at": "2025-11-27T06:24:01"
+        },
+        {
+          "title": "GitHub",
+          "url": "https://www.producthunt.com/products/github-228",
+          "author": "Louis Verstraeten",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "SpacePigeon: Saved Workspaces for macOSDiscussion|Link",
+          "published_at": "2025-11-26T08:24:02"
         }
       ]
     },
