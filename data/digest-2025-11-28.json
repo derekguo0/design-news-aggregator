@@ -2,18 +2,18 @@
   "date": "2025-11-28T00:00:00",
   "total_items": 51,
   "sources": [
-    "Product Hunt",
-    "A List Apart",
-    "Smashing Magazine",
-    "UX Design CC",
-    "Intercom Blog",
     "Design Milk",
-    "优设网",
-    "NN/g (Nielsen Norman Group)",
     "Awwwards",
-    "Sidebar"
+    "Sidebar",
+    "Product Hunt",
+    "UX Design CC",
+    "NN/g (Nielsen Norman Group)",
+    "优设网",
+    "Smashing Magazine",
+    "A List Apart",
+    "Intercom Blog"
   ],
-  "generated_at": "2025-11-28T10:32:50.273888",
+  "generated_at": "2025-11-28T12:49:05.198978",
   "categories": [
     {
       "category": "用户体验设计",
@@ -368,15 +368,6 @@
       "count": 4,
       "items": [
         {
-          "title": "Qoder JetBrains Plugin",
-          "url": "https://www.producthunt.com/products/qoder",
-          "author": "Chris Messina",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Understands your backend's real complexity, not just syntaxDiscussion|Link",
-          "published_at": "2025-11-25T03:19:57"
-        },
-        {
           "title": "Gedd.it",
           "url": "https://www.producthunt.com/products/gedd-it",
           "author": "Ramiro Sugranes",
@@ -402,6 +393,15 @@
           "source": "Product Hunt",
           "summary": "Data analysis platform for Product huntDiscussion|Link",
           "published_at": "2025-11-28T07:58:41"
+        },
+        {
+          "title": "Qoder JetBrains Plugin",
+          "url": "https://www.producthunt.com/products/qoder",
+          "author": "Chris Messina",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Understands your backend's real complexity, not just syntaxDiscussion|Link",
+          "published_at": "2025-11-25T03:19:57"
         }
       ]
     },
