@@ -1,19 +1,19 @@
 {
   "date": "2025-11-28T00:00:00",
-  "total_items": 54,
+  "total_items": 51,
   "sources": [
+    "Product Hunt",
+    "A List Apart",
+    "Smashing Magazine",
+    "UX Design CC",
     "Intercom Blog",
-    "NN/g (Nielsen Norman Group)",
     "Design Milk",
     "优设网",
-    "Smashing Magazine",
-    "A List Apart",
-    "Product Hunt",
-    "Sidebar",
+    "NN/g (Nielsen Norman Group)",
     "Awwwards",
-    "UX Design CC"
+    "Sidebar"
   ],
-  "generated_at": "2025-11-28T01:49:16.351341",
+  "generated_at": "2025-11-28T10:32:50.273888",
   "categories": [
     {
       "category": "用户体验设计",
@@ -290,6 +290,15 @@
           "published_at": null
         },
         {
+          "title": "New Genre Studio",
+          "url": "https://www.awwwards.com/sites/new-genre-studio",
+          "author": "New Genre",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Glyphic Biotechnologies",
           "url": "https://www.awwwards.com/sites/glyphic-biotechnologies",
           "author": "Obys Agency",
@@ -351,84 +360,48 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Ledger Brandbook",
-          "url": "https://www.awwwards.com/sites/ledger-brandbook",
-          "author": "Ledger",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 7,
+      "count": 4,
       "items": [
         {
-          "title": "Elder Care Check",
-          "url": "https://www.producthunt.com/products/elder-care-check",
-          "author": "Sakina",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Seniors verify online health claims using AIDiscussion|Link",
-          "published_at": "2025-11-26T15:31:25"
-        },
-        {
-          "title": "Interachat",
-          "url": "https://www.producthunt.com/products/interachat",
-          "author": "Aravinth Muruganantham",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The future of messaging - Powered by AIDiscussion|Link",
-          "published_at": "2025-11-26T10:13:32"
-        },
-        {
-          "title": "AstroAlert",
-          "url": "https://www.producthunt.com/products/astroalert-sky-events-in-your-pocket",
-          "author": "Théo",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Know exactly when satellites pass above you.Discussion|Link",
-          "published_at": "2025-11-26T09:44:45"
-        },
-        {
-          "title": "Craft Thanksgiving Release",
-          "url": "https://www.producthunt.com/products/craft-do",
+          "title": "Qoder JetBrains Plugin",
+          "url": "https://www.producthunt.com/products/qoder",
           "author": "Chris Messina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Revamped Assistant with MCP, Al, an API and Android BetaDiscussion|Link",
-          "published_at": "2025-11-26T22:33:05"
+          "summary": "Understands your backend's real complexity, not just syntaxDiscussion|Link",
+          "published_at": "2025-11-25T03:19:57"
         },
         {
-          "title": "Links 2.0",
-          "url": "https://www.producthunt.com/products/links-save-all-your-links",
-          "author": "Manuel Carrillo Almoguera",
+          "title": "Gedd.it",
+          "url": "https://www.producthunt.com/products/gedd-it",
+          "author": "Ramiro Sugranes",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Save, organize and find your links faster than everDiscussion|Link",
-          "published_at": "2025-11-25T09:27:47"
+          "summary": "Find Verified Promo Codes for Products You WantDiscussion|Link",
+          "published_at": "2025-11-27T22:09:12"
         },
         {
-          "title": "InsightTube",
-          "url": "https://www.producthunt.com/products/insighttube",
-          "author": "Vibrissa",
+          "title": "FraudLens AI",
+          "url": "https://www.producthunt.com/products/fraudlens-ai",
+          "author": "Rwubakwanayo Olivier",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI insights from YouTube — fast, clear, effortless.Discussion|Link",
-          "published_at": "2025-11-26T14:33:26"
+          "summary": "Detect Fraud Faster with Intelligent AutomationDiscussion|Link",
+          "published_at": "2025-11-27T09:24:40"
         },
         {
-          "title": "Live Resume",
-          "url": "https://www.producthunt.com/products/live-resume",
-          "author": "Ranvijayy Singh Rathore",
+          "title": "Product Huntr",
+          "url": "https://www.producthunt.com/products/product-huntr-2",
+          "author": "Keith Katale",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The Resume That Never Gets OldDiscussion|Link",
-          "published_at": "2025-11-27T06:03:55"
+          "summary": "Data analysis platform for Product huntDiscussion|Link",
+          "published_at": "2025-11-28T07:58:41"
         }
       ]
     },
