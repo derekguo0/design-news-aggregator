@@ -1,23 +1,40 @@
 {
   "date": "2025-11-29T00:00:00",
-  "total_items": 46,
+  "total_items": 39,
   "sources": [
-    "优设网",
-    "NN/g (Nielsen Norman Group)",
-    "A List Apart",
-    "Design Milk",
-    "Smashing Magazine",
-    "Product Hunt",
-    "Awwwards",
     "UX Design CC",
-    "Sidebar"
+    "Design Milk",
+    "优设网",
+    "A List Apart",
+    "Sidebar",
+    "Product Hunt",
+    "NN/g (Nielsen Norman Group)",
+    "Smashing Magazine"
   ],
-  "generated_at": "2025-11-29T01:49:02.486996",
+  "generated_at": "2025-11-29T12:44:44.691230",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 5,
+      "count": 7,
       "items": [
+        {
+          "title": "The product designer’s Lens",
+          "url": "https://uxdesign.cc/the-product-designers-lens-8511246a7984?source=rss----138adf9c44c---4",
+          "author": "Daleen Rabe",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Four tools that product designers use that have nothing to do with FigmaContinue reading on UX Collective »",
+          "published_at": "2025-11-29T06:44:39"
+        },
+        {
+          "title": "The hidden design problem behind every Black Friday deal",
+          "url": "https://uxdesign.cc/the-hidden-design-problem-behind-every-black-friday-deal-26f190e0bf19?source=rss----138adf9c44c---4",
+          "author": "Elvis Hsiao",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How retailers evolved from preventing stampedes to fighting bots, and why fairness at scale is harder than it looksContinue reading on UX Collective »",
+          "published_at": "2025-11-29T06:43:36"
+        },
         {
           "title": "Creativity is dead; long live creativity",
           "url": "https://uxdesign.cc/creativity-is-dead-long-live-creativity-2f02c4243407?source=rss----138adf9c44c---4",
@@ -187,7 +204,7 @@
     },
     {
       "category": "网页设计",
-      "count": 15,
+      "count": 7,
       "items": [
         {
           "title": "The Accessibility Problem With Authentication Methods Like CAPTCHA",
@@ -251,111 +268,30 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
-        },
-        {
-          "title": "New Genre Studio",
-          "url": "https://www.awwwards.com/sites/new-genre-studio",
-          "author": "New Genre",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Glyphic Biotechnologies",
-          "url": "https://www.awwwards.com/sites/glyphic-biotechnologies",
-          "author": "Obys Agency",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "The Monolith Project",
-          "url": "https://www.awwwards.com/sites/the-monolith-project",
-          "author": "Ethan Chiu",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Ocean",
-          "url": "https://www.awwwards.com/sites/ocean-2",
-          "author": "Cuchillo",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Ribbit",
-          "url": "https://www.awwwards.com/sites/ribbit",
-          "author": "Frederik Hansen",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "SofaKnows",
-          "url": "https://www.awwwards.com/sites/sofaknows",
-          "author": "Artem Militonian",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Edoardo Lunardi",
-          "url": "https://www.awwwards.com/sites/edoardo-lunardi",
-          "author": "Edoardo Lunardi",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Izum.Study",
-          "url": "https://www.awwwards.com/sites/izum-study",
-          "author": "izum-digital",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 2,
       "items": [
         {
-          "title": "Product Huntr",
-          "url": "https://www.producthunt.com/products/product-huntr-2",
-          "author": "Keith Katale",
+          "title": "Always-on Meeting AI by SuperIntern",
+          "url": "https://www.producthunt.com/products/superintern",
+          "author": "Etaro Ito",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Data analysis platform for Product huntDiscussion|Link",
-          "published_at": "2025-11-28T07:58:41"
+          "summary": "Live Notes & Translation for Every Meeting — No Bot NeededDiscussion|Link",
+          "published_at": "2025-11-28T07:30:19"
         },
         {
-          "title": "Gedd.it",
-          "url": "https://www.producthunt.com/products/gedd-it",
-          "author": "Ramiro Sugranes",
+          "title": "Suprr",
+          "url": "https://www.producthunt.com/products/suprr",
+          "author": "Artemy Medvedev",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Find Verified Promo Codes for Products You WantDiscussion|Link",
-          "published_at": "2025-11-27T22:09:12"
-        },
-        {
-          "title": "FraudLens AI",
-          "url": "https://www.producthunt.com/products/fraudlens-ai",
-          "author": "Rwubakwanayo Olivier",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Detect Fraud Faster with Intelligent AutomationDiscussion|Link",
-          "published_at": "2025-11-27T09:24:40"
+          "summary": "Customer support directly from TelegramDiscussion|Link",
+          "published_at": "2025-11-26T08:53:11"
         }
       ]
     },
@@ -409,8 +345,8 @@
           "published_at": null
         },
         {
-          "title": "告别枯燥数据！看 tenki.jp 如何把降水概率变成直观行动指令",
-          "url": "https://www.uisdc.com/hunter/0221651137.html",
+          "title": "如何降低AI搜索的使用门槛，抖音画圈交互给了我们答案",
+          "url": "https://www.uisdc.com/hunter/0221651298.html",
           "author": "要爆炸的张老三",
           "category": "设计教程",
           "source": "优设网",
