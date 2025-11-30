@@ -1,17 +1,18 @@
 {
   "date": "2025-11-30T00:00:00",
-  "total_items": 34,
+  "total_items": 45,
   "sources": [
-    "Sidebar",
-    "A List Apart",
-    "UX Design CC",
+    "Product Hunt",
+    "Awwwards",
     "NN/g (Nielsen Norman Group)",
-    "Design Milk",
-    "优设网",
+    "UX Design CC",
+    "A List Apart",
     "Smashing Magazine",
-    "Product Hunt"
+    "Sidebar",
+    "Design Milk",
+    "优设网"
   ],
-  "generated_at": "2025-11-30T02:03:13.935655",
+  "generated_at": "2025-11-30T12:43:35.758993",
   "categories": [
     {
       "category": "用户体验设计",
@@ -159,8 +160,17 @@
     },
     {
       "category": "网页设计",
-      "count": 7,
+      "count": 16,
       "items": [
+        {
+          "title": "A Sparkle Of December Magic (2025 Wallpapers Edition)",
+          "url": "https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "With December just around the corner, how about some new desktop wallpapers to welcome the last month of the year — and the holiday season, if you’re celebrating? Our latest edition of monthly wallpap...",
+          "published_at": "2025-11-30T09:00:00"
+        },
         {
           "title": "The Accessibility Problem With Authentication Methods Like CAPTCHA",
           "url": "https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/",
@@ -223,30 +233,120 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
+        },
+        {
+          "title": "Microsoft AI",
+          "url": "https://www.awwwards.com/sites/microsoft-ai",
+          "author": "Microsoft AI",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Creative Giants",
+          "url": "https://www.awwwards.com/sites/creative-giants",
+          "author": "Phunk Creative",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "New Genre Studio",
+          "url": "https://www.awwwards.com/sites/new-genre-studio",
+          "author": "New Genre",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Glyphic Biotechnologies",
+          "url": "https://www.awwwards.com/sites/glyphic-biotechnologies",
+          "author": "Obys Agency",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "The Monolith Project",
+          "url": "https://www.awwwards.com/sites/the-monolith-project",
+          "author": "Ethan Chiu",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Ocean",
+          "url": "https://www.awwwards.com/sites/ocean-2",
+          "author": "Cuchillo",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Ribbit",
+          "url": "https://www.awwwards.com/sites/ribbit",
+          "author": "Frederik Hansen",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "SofaKnows",
+          "url": "https://www.awwwards.com/sites/sofaknows",
+          "author": "Artem Militonian",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 4,
       "items": [
         {
-          "title": "Mureka O2",
-          "url": "https://www.producthunt.com/products/mureka",
-          "author": "Zac Zuo",
+          "title": "Spacer",
+          "url": "https://www.producthunt.com/products/spacer-3",
+          "author": "Spacer Team",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn ideas into music, faster and in higher qualityDiscussion|Link",
-          "published_at": "2025-11-28T13:17:04"
+          "summary": "Tag-based File ExplorerDiscussion|Link",
+          "published_at": "2025-11-27T13:46:11"
         },
         {
-          "title": "Always-on Meeting AI by SuperIntern",
-          "url": "https://www.producthunt.com/products/superintern",
-          "author": "Etaro Ito",
+          "title": "plok.sh",
+          "url": "https://www.producthunt.com/products/plok-sh",
+          "author": "Eshwaren Manoharen",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Live Notes & Translation for Every Meeting — No Bot NeededDiscussion|Link",
-          "published_at": "2025-11-28T07:30:19"
+          "summary": "Github to blog. Instantly. Free forever.Discussion|Link",
+          "published_at": "2025-11-29T10:58:41"
+        },
+        {
+          "title": "Waylight",
+          "url": "https://www.producthunt.com/products/waylight",
+          "author": "Laith Weinberger",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "ChatGPT, but with context from your tabs, meetings, and docsDiscussion|Link",
+          "published_at": "2025-11-27T20:12:34"
+        },
+        {
+          "title": "RightNow CUDA Editor",
+          "url": "https://www.producthunt.com/products/rightnow-ai",
+          "author": "Jaber Jaber",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "AI code editor for GPU developmentDiscussion|Link",
+          "published_at": "2025-11-29T22:36:51"
         }
       ]
     },
