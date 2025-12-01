@@ -2,17 +2,17 @@
   "date": "2025-12-01T00:00:00",
   "total_items": 41,
   "sources": [
-    "A List Apart",
-    "NN/g (Nielsen Norman Group)",
-    "优设网",
     "Sidebar",
+    "优设网",
     "Product Hunt",
-    "Design Milk",
+    "Awwwards",
     "UX Design CC",
-    "Smashing Magazine",
-    "Awwwards"
+    "A List Apart",
+    "Design Milk",
+    "NN/g (Nielsen Norman Group)",
+    "Smashing Magazine"
   ],
-  "generated_at": "2025-12-01T02:10:16.594896",
+  "generated_at": "2025-12-01T02:11:07.504377",
   "categories": [
     {
       "category": "用户体验设计",
@@ -277,6 +277,15 @@
       "count": 4,
       "items": [
         {
+          "title": "RightNow CUDA Editor",
+          "url": "https://www.producthunt.com/products/rightnow-ai",
+          "author": "Jaber Jaber",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "AI code editor for GPU developmentDiscussion|Link",
+          "published_at": "2025-11-29T22:36:51"
+        },
+        {
           "title": "Ripplica",
           "url": "https://www.producthunt.com/products/ripplica",
           "author": "Bhavesh Jain",
@@ -302,15 +311,6 @@
           "source": "Product Hunt",
           "summary": "Organize your browser tabs with tags and commentsDiscussion|Link",
           "published_at": "2025-11-28T12:08:40"
-        },
-        {
-          "title": "RightNow CUDA Editor",
-          "url": "https://www.producthunt.com/products/rightnow-ai",
-          "author": "Jaber Jaber",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "AI code editor for GPU developmentDiscussion|Link",
-          "published_at": "2025-11-29T22:36:51"
         }
       ]
     },
