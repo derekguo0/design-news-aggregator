@@ -1,23 +1,33 @@
 {
   "date": "2025-12-01T00:00:00",
-  "total_items": 41,
+  "total_items": 51,
   "sources": [
-    "Sidebar",
     "优设网",
-    "Product Hunt",
     "Awwwards",
-    "UX Design CC",
-    "A List Apart",
     "Design Milk",
+    "Sidebar",
+    "UX Design CC",
+    "Product Hunt",
     "NN/g (Nielsen Norman Group)",
-    "Smashing Magazine"
+    "Smashing Magazine",
+    "UX Planet",
+    "A List Apart"
   ],
-  "generated_at": "2025-12-01T02:11:07.504377",
+  "generated_at": "2025-12-01T12:52:11.572218",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 4,
+      "count": 13,
       "items": [
+        {
+          "title": "Design critiques, mandated screen addiction, locksmith stickers, accessibility lessons",
+          "url": "https://uxdesign.cc/design-critiques-mandated-screen-addiction-locksmith-stickers-accessibility-lessons-86accedf1a44?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“A critique is not a governance mechanism, nor is it a group brainstorming session. It’s a necessary collision. It’s the intentional applic...",
+          "published_at": "2025-12-01T10:08:36"
+        },
         {
           "title": "The UX behind screen time guilt",
           "url": "https://uxdesign.cc/the-ux-behind-screen-time-guilt-f4d4dfaca1e8?source=rss----138adf9c44c---4",
@@ -53,6 +63,78 @@
           "source": "UX Design CC",
           "summary": "My shifting view of creativity shows it grows from slow, deliberate practice, experimenting, failing, refining, not from instant results.Continue reading on UX Collective »",
           "published_at": "2025-11-28T15:50:37"
+        },
+        {
+          "title": "Customer Needs: A Simple Guide",
+          "url": "https://uxplanet.org/customer-needs-a-simple-guide-bdd02749912b?source=rss----819cc2aaeee0---4",
+          "author": "Dhananjay Garg",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Why do we care about what customers need?Continue reading on UX Planet »",
+          "published_at": "2025-12-01T11:11:01"
+        },
+        {
+          "title": "Style Guide vs Design System: The One Mistake Killing Your Team’s Speed & Consistency",
+          "url": "https://uxplanet.org/style-guide-vs-design-system-the-one-mistake-killing-your-teams-speed-consistency-b2b6346585c0?source=rss----819cc2aaeee0---4",
+          "author": "Vivek Ramachandran",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "A Guide for Intermediate and Advanced DesignersAs designers progress in their careers, the tools and frameworks we use evolve from basic visual references to comprehensive ecosystems that drive produc...",
+          "published_at": "2025-12-01T11:09:45"
+        },
+        {
+          "title": "New UX/UI + AI Design Tools You Need to Try!",
+          "url": "https://uxplanet.org/new-ux-ui-ai-design-tools-you-need-to-try-8fdcdbe93073?source=rss----819cc2aaeee0---4",
+          "author": "Sergushkin.com",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Photo byShubham DhageonUnsplashEvery month, UX/UI design evolves: new tools emerge that change familiar processes, automate routine tasks, and simplify interface creation. Autumn was no exception, and...",
+          "published_at": "2025-12-01T11:09:34"
+        },
+        {
+          "title": "How India’s Largest Payment App Fixed a Problem with Just a Plus Button",
+          "url": "https://uxplanet.org/how-indias-largest-payment-app-fixed-a-problem-with-just-a-plus-button-8de2b7b89d29?source=rss----819cc2aaeee0---4",
+          "author": "Amish Gadhia",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "A masterclass in micro-UX for designers who want to find and fix invisible frictionPicture this.You’re buying a few things from a local vendor. They tell you the final amount after adding everything o...",
+          "published_at": "2025-12-01T11:07:56"
+        },
+        {
+          "title": "6 Tasks You Can Automate With AI as a Designer",
+          "url": "https://uxplanet.org/6-tasks-you-can-automate-with-ai-as-a-designer-5b9910fd8ab2?source=rss----819cc2aaeee0---4",
+          "author": "Omoraiyewa Samuel",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "A practical guide to using AI to speed up your design process and focus on the work that matters.Continue reading on UX Planet »",
+          "published_at": "2025-12-01T11:07:54"
+        },
+        {
+          "title": "Treat the System: Designing AI for Real Humans",
+          "url": "https://uxplanet.org/treat-the-system-designing-ai-for-real-humans-0199d402fd62?source=rss----819cc2aaeee0---4",
+          "author": "Jas Deogan",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Source:jasdeogan.com“We are healthcare providers. We treat sickness. We identify symptoms. We locate germs… The longer we wait to identify a disorder, the harder it is to treat the disease.”—Major Par...",
+          "published_at": "2025-12-01T11:07:22"
+        },
+        {
+          "title": "Teaming Up With AI — Building a Design Library with ChatGPT + MagicPathAI",
+          "url": "https://uxplanet.org/teaming-up-with-ai-building-a-design-library-with-chatgpt-magicpathai-26f18473b2fa?source=rss----819cc2aaeee0---4",
+          "author": "Lisa Demchenko",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "The shift in how we design: prompts, styles, systems, and a glimpse into the future of design workflows.Continue reading on UX Planet »",
+          "published_at": "2025-12-01T11:07:11"
+        },
+        {
+          "title": "Market analysis for product designers who hate spreadsheets",
+          "url": "https://uxplanet.org/market-analysis-for-product-designers-who-hate-spreadsheets-f9a77474fa22?source=rss----819cc2aaeee0---4",
+          "author": "Dhananjay Garg",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "The backwards way I analyze marketsContinue reading on UX Planet »",
+          "published_at": "2025-12-01T11:06:57"
         }
       ]
     },
@@ -199,6 +281,15 @@
           "published_at": null
         },
         {
+          "title": "Paolo Vendramini",
+          "url": "https://www.awwwards.com/sites/paolo-vendramini",
+          "author": "ET Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Microsoft AI",
           "url": "https://www.awwwards.com/sites/microsoft-ai",
           "author": "Microsoft AI",
@@ -260,57 +351,57 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "SofaKnows",
-          "url": "https://www.awwwards.com/sites/sofaknows",
-          "author": "Artem Militonian",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "RightNow CUDA Editor",
-          "url": "https://www.producthunt.com/products/rightnow-ai",
-          "author": "Jaber Jaber",
+          "title": "NeuralAgent",
+          "url": "https://www.producthunt.com/products/neuralagent",
+          "author": "Khaled Shadid",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI code editor for GPU developmentDiscussion|Link",
-          "published_at": "2025-11-29T22:36:51"
+          "summary": "Your AI Teammate that actually uses your computer.Discussion|Link",
+          "published_at": "2025-11-30T15:41:03"
         },
         {
-          "title": "Ripplica",
-          "url": "https://www.producthunt.com/products/ripplica",
-          "author": "Bhavesh Jain",
+          "title": "The ∞ Bar",
+          "url": "https://www.producthunt.com/products/the-bar",
+          "author": "Deepak Kumar",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Automate any web task with just a simple video.Discussion|Link",
-          "published_at": "2025-11-28T10:29:21"
+          "summary": "Group Chat with visionaries, innovators, and thought leadersDiscussion|Link",
+          "published_at": "2025-12-01T07:04:16"
         },
         {
-          "title": "plok.sh",
-          "url": "https://www.producthunt.com/products/plok-sh",
-          "author": "Eshwaren Manoharen",
+          "title": "Cocoon by Telegram",
+          "url": "https://www.producthunt.com/products/cocoon-8",
+          "author": "Chris Messina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Github to blog. Instantly. Free forever.Discussion|Link",
-          "published_at": "2025-11-29T10:58:41"
+          "summary": "Confidential compute open networkDiscussion|Link",
+          "published_at": "2025-12-01T02:41:12"
         },
         {
-          "title": "Tag my Tab",
-          "url": "https://www.producthunt.com/products/tag-my-tab",
-          "author": "Tafita",
+          "title": "Rephrase",
+          "url": "https://www.producthunt.com/products/rephrase-2",
+          "author": "Albert",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Organize your browser tabs with tags and commentsDiscussion|Link",
-          "published_at": "2025-11-28T12:08:40"
+          "summary": "Fix grammar and format text instantly on MacDiscussion|Link",
+          "published_at": "2025-11-30T13:05:00"
+        },
+        {
+          "title": "Contenov",
+          "url": "https://www.producthunt.com/products/contenov",
+          "author": "David Danciu",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "AI tool turning any topic into an SEO blog brief in minutesDiscussion|Link",
+          "published_at": "2025-11-30T14:32:44"
         }
       ]
     },
@@ -379,49 +470,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Who wins when we filter the open web through an opaque system?",
-          "url": "https://hidde.blog/filtered-open-web/",
+          "title": "Level up your design skills for 2026",
+          "url": "https://bit.ly/side-lab1",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "When people stop visiting websites directly, they're filtering content through an opaque system.",
-          "published_at": "2025-11-28T13:00:39"
+          "summary": "Get $200 off courses for experienced UX and product designers—AI for UX, Advanced Figma, AI Prototyping & more. Sale ends Dec 2.",
+          "published_at": "2025-12-01T10:03:00"
         },
         {
-          "title": "Figma plugin: asciicore.exe",
-          "url": "https://www.figma.com/community/plugin/1238371742775577007/vga-asciicore-exe",
+          "title": "Disagree and let’s see",
+          "url": "https://werd.io/disagree-and-lets-see/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Transform any design into mesmerizing ASCII art masterpieces.",
-          "published_at": "2025-11-28T13:00:03"
+          "summary": "“Disagree and commit” is disingenuous. Here is a better idea.",
+          "published_at": "2025-12-01T10:01:52"
         },
         {
-          "title": "Cosmic UI",
-          "url": "https://www.cosmic-ui.com/",
+          "title": "Chromatic: a colorful daily puzzle game",
+          "url": "https://feyder.co/projects/chromatic/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A curated set of futuristic UI components — reusable, customizable, and framework-friendly.",
-          "published_at": "2025-11-28T12:58:57"
+          "summary": "Sort colors, create gradients, find your daily calm.",
+          "published_at": "2025-12-01T10:01:15"
         },
         {
-          "title": "Bird migration explorer",
-          "url": "https://explorer.audubon.org/en/home",
+          "title": "Using CSS to fix the irradiation illusion",
+          "url": "https://nerdy.dev/adjust-perceived-typepace-weight-for-dark-mode-without-layout-shift",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A guide to the heroic annual journeys made by over 450 bird species, and the challenges they face along the way. Nice dataviz ref.",
-          "published_at": "2025-11-28T12:58:23"
+          "summary": "How to adjust perceived font weight in dark mode without layout shift.",
+          "published_at": "2025-12-01T10:00:37"
         },
         {
-          "title": "Unifying our mobile and desktop domains",
-          "url": "https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/",
+          "title": "Feedback doesn’t scale",
+          "url": "https://another.rodeo/feedback/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How Wikimedia achieved 20% faster mobile response times, improved SEO, and reduced infrastructure load.",
-          "published_at": "2025-11-28T12:57:31"
+          "summary": "Listening is always hard, and it only gets harder at scale.",
+          "published_at": "2025-12-01T10:00:08"
         }
       ]
     }
