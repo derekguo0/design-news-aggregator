@@ -1,25 +1,53 @@
 {
   "date": "2025-12-03T00:00:00",
-  "total_items": 54,
+  "total_items": 63,
   "sources": [
-    "Smashing Magazine",
-    "优设网",
-    "UX Design CC",
-    "Product Hunt",
-    "Design Milk",
-    "NN/g (Nielsen Norman Group)",
-    "Sidebar",
-    "A List Apart",
-    "UX Planet",
     "Intercom Blog",
-    "CSS-Tricks"
+    "Sidebar",
+    "UX Design CC",
+    "NN/g (Nielsen Norman Group)",
+    "CSS-Tricks",
+    "Smashing Magazine",
+    "Design Milk",
+    "UX Planet",
+    "Product Hunt",
+    "A List Apart",
+    "优设网",
+    "Awwwards"
   ],
-  "generated_at": "2025-12-03T01:53:53.251095",
+  "generated_at": "2025-12-03T12:53:01.860096",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 16,
+      "count": 18,
       "items": [
+        {
+          "title": "Designing for signals: how intent & instrumentation shape AI-powered experiences",
+          "url": "https://uxdesign.cc/designing-for-signals-how-intent-instrumentation-shape-ai-powered-experiences-7ed2da879795?source=rss----138adf9c44c---4",
+          "author": "Bradly Zavakos",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "As AI mirrors how we design and learn, our role evolves from creating interfaces to defining the signals that shape intelligent experiences.A quick note before we dive in. This essay continues the thi...",
+          "published_at": "2025-12-03T12:20:53"
+        },
+        {
+          "title": "What do Figma’s updates mean for Design Systems?",
+          "url": "https://uxdesign.cc/what-do-figmas-updates-mean-for-design-systems-323fb0cc8495?source=rss----138adf9c44c---4",
+          "author": "Allie Paschal",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "A shift towards token-first and AI-assisted systemsFigma releases updates at a pace that feels pretty overwhelming. A new feature drops, you learn about the feature, then integrate it into your workfl...",
+          "published_at": "2025-12-03T12:19:15"
+        },
+        {
+          "title": "Why you need design maturity in a product organisation, and how to get it",
+          "url": "https://uxdesign.cc/why-you-need-design-maturity-in-a-product-organisation-and-how-to-get-it-9f45fd4e20c3?source=rss----138adf9c44c---4",
+          "author": "danramsden",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "An exploration of causes, costs and competitive advantages connected to design maturity in product organisationsHigh‑performing product organisations depend on maturity across all disciplines — design...",
+          "published_at": "2025-12-03T12:17:49"
+        },
         {
           "title": "How design leaders use OKRs to win user research budget",
           "url": "https://uxdesign.cc/how-design-leaders-use-okrs-to-win-user-research-budget-559347967da8?source=rss----138adf9c44c---4",
@@ -82,15 +110,6 @@
           "source": "UX Design CC",
           "summary": "Weekly curated resources for designers — thinkers and makers.“A critique is not a governance mechanism, nor is it a group brainstorming session. It’s a necessary collision. It’s the intentional applic...",
           "published_at": "2025-12-01T10:08:36"
-        },
-        {
-          "title": "The UX behind screen time guilt",
-          "url": "https://uxdesign.cc/the-ux-behind-screen-time-guilt-f4d4dfaca1e8?source=rss----138adf9c44c---4",
-          "author": "Fabrizia Ausiello",
-          "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "How digital wellness tools offload responsibility on users instead of fixing the core problemsContinue reading on UX Collective »",
-          "published_at": "2025-11-30T13:25:20"
         },
         {
           "title": "Customer Needs: A Simple Guide",
@@ -297,7 +316,7 @@
     },
     {
       "category": "网页设计",
-      "count": 8,
+      "count": 16,
       "items": [
         {
           "title": "Masonry: Things You Won’t Need A Library For Anymore",
@@ -370,48 +389,111 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
+        },
+        {
+          "title": "House Of Corto",
+          "url": "https://www.awwwards.com/sites/house-of-corto",
+          "author": "FLOT NOIR",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Elliott Mangham",
+          "url": "https://www.awwwards.com/sites/elliott-mangham",
+          "author": "Elliott Mangham",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Paolo Vendramini",
+          "url": "https://www.awwwards.com/sites/paolo-vendramini",
+          "author": "ET Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Microsoft AI",
+          "url": "https://www.awwwards.com/sites/microsoft-ai",
+          "author": "Microsoft AI",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Creative Giants",
+          "url": "https://www.awwwards.com/sites/creative-giants",
+          "author": "Phunk Creative",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "New Genre Studio",
+          "url": "https://www.awwwards.com/sites/new-genre-studio",
+          "author": "New Genre",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Glyphic Biotechnologies",
+          "url": "https://www.awwwards.com/sites/glyphic-biotechnologies",
+          "author": "Obys Agency",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "The Monolith Project",
+          "url": "https://www.awwwards.com/sites/the-monolith-project",
+          "author": "Ethan Chiu",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 3,
       "items": [
         {
-          "title": "X-Design 2.0",
-          "url": "https://www.producthunt.com/products/x-design",
-          "author": "Justin Jincaid",
+          "title": "devlo",
+          "url": "https://www.producthunt.com/products/devlo",
+          "author": "Chris Messina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your creative AI agent for generating branded assetsDiscussion|Link",
-          "published_at": "2025-11-30T14:35:43"
+          "summary": "Build, edit and ship software in one place.Discussion|Link",
+          "published_at": "2025-12-02T01:18:10"
         },
         {
-          "title": "Cleva.io",
-          "url": "https://www.producthunt.com/products/cleva-io",
-          "author": "Jonathon Madytianos",
+          "title": "Smartflow by Userflow",
+          "url": "https://www.producthunt.com/products/userflow-2",
+          "author": "Lauren Smith",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Conversational AI guidance inside your creative tools.Discussion|Link",
-          "published_at": "2025-12-02T02:55:35"
+          "summary": "Create onboarding and UX flows instantly—no codeDiscussion|Link",
+          "published_at": "2025-12-02T16:17:44"
         },
         {
-          "title": "DeepSeek-V3.2",
-          "url": "https://www.producthunt.com/products/deepseek",
-          "author": "Ankit Sharma",
+          "title": "Gleam",
+          "url": "https://www.producthunt.com/products/gleam-4",
+          "author": "Dane Lyons",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Reasoning-first models built for agentsDiscussion|Link",
-          "published_at": "2025-12-01T14:19:52"
-        },
-        {
-          "title": "AroCrypt v0.10.0",
-          "url": "https://www.producthunt.com/products/arocrypt-file-encryption-stegography",
-          "author": "AroCodes",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Now with KYBER quantum safe keys + AES CTR encryptionDiscussion|Link",
-          "published_at": "2025-11-30T13:51:47"
+          "summary": "AI-powered design reviews from 10 expert panelistsDiscussion|Link",
+          "published_at": "2025-12-03T01:17:58"
         }
       ]
     },
@@ -480,49 +562,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Critique",
-          "url": "https://www.doc.cc/syntax/critique",
+          "title": "A dozen years of Work & Co",
+          "url": "https://order.design/project/work-and-co",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "On elevating craft through critical thinking.",
-          "published_at": "2025-12-02T12:32:44"
+          "summary": "Order designed a book with over a decade of digital craft and impact. The work we do and the company we keep.",
+          "published_at": "2025-12-03T12:39:38"
         },
         {
-          "title": "TypingSVG",
-          "url": "https://typingsvg.vercel.app/",
+          "title": "Own a graph",
+          "url": "https://staysaasy.com/strategy/2025/11/25/own-a-graph.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Generate animated typing SVGs with multiline styling, cursor styles, and adjustable typing & delete speeds for full control.",
-          "published_at": "2025-12-02T12:32:07"
+          "summary": "One of the quickest ways to get better at your job is to own a graph.",
+          "published_at": "2025-12-03T12:37:53"
         },
         {
-          "title": "Systems, stables and stars",
-          "url": "https://hvpandya.com/systems-stables-stars",
+          "title": "The key to understanding the world today",
+          "url": "https://bsky.app/profile/bmhughes.bsky.social/post/3m6wc33skm22z",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Why mature organizations still rely on rockstars for critical work, and how systems raise the floor while stars raise the ceiling.",
-          "published_at": "2025-12-02T12:31:14"
+          "summary": "A simple and brilliant analysis of today's conservative discourse.",
+          "published_at": "2025-12-03T12:37:16"
         },
         {
-          "title": "Grid paper",
-          "url": "https://daverupert.com/2025/11/grid-paper/",
+          "title": "AIGA NY unveils new identity",
+          "url": "https://www.creativeboom.com/news/aiga-ny-unveils-new-logo-and-strategic-direction-rooted-in-community-and-new-yorks-creative-energy/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Create and download 7 grids types using different kinds of background gradients.",
-          "published_at": "2025-12-02T12:30:24"
+          "summary": "The largest chapter of AIGA has launched a new identity and strategy designed to strengthen its role as a civic space for design.",
+          "published_at": "2025-12-03T12:35:01"
         },
         {
-          "title": "Durable consumables",
-          "url": "https://travers.fyi/durables",
+          "title": "We should all be Luddites",
+          "url": "https://www.brookings.edu/articles/we-should-all-be-luddites/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How accelerating tech progress compresses the economic lives of objects, and what we lose when fewer things are built to last.",
-          "published_at": "2025-12-02T12:29:16"
+          "summary": "Rehabilitating the idea of Luddites as people concerned with the control and impact of technology.",
+          "published_at": "2025-12-03T12:34:06"
         }
       ]
     },
