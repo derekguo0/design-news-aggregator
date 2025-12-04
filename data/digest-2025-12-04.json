@@ -1,21 +1,20 @@
 {
   "date": "2025-12-04T00:00:00",
-  "total_items": 64,
+  "total_items": 56,
   "sources": [
     "Intercom Blog",
-    "Smashing Magazine",
-    "Awwwards",
-    "A List Apart",
-    "UX Planet",
-    "Product Hunt",
-    "CSS-Tricks",
-    "优设网",
     "Sidebar",
-    "Design Milk",
+    "Product Hunt",
+    "优设网",
+    "CSS-Tricks",
+    "UX Planet",
+    "A List Apart",
+    "UX Design CC",
     "NN/g (Nielsen Norman Group)",
-    "UX Design CC"
+    "Smashing Magazine",
+    "Design Milk"
   ],
-  "generated_at": "2025-12-04T01:54:29.887943",
+  "generated_at": "2025-12-04T12:53:20.282754",
   "categories": [
     {
       "category": "用户体验设计",
@@ -250,7 +249,7 @@
       "count": 7,
       "items": [
         {
-          "title": "A New Office in the Ukraine Emphasizes Comfort in Residential Setting",
+          "title": "A New Office in Ukraine Emphasizes Comfort in Residential Setting",
           "url": "https://design-milk.com/a-new-office-in-the-ukraine-emphasizes-comfort-in-residential-setting/",
           "author": "Anna Zappia",
           "category": "产品设计",
@@ -316,7 +315,7 @@
     },
     {
       "category": "网页设计",
-      "count": 15,
+      "count": 7,
       "items": [
         {
           "title": "Masonry: Things You Won’t Need A Library For Anymore",
@@ -380,78 +379,6 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
-        },
-        {
-          "title": "House Of Corto",
-          "url": "https://www.awwwards.com/sites/house-of-corto",
-          "author": "FLOT NOIR",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Elliott Mangham",
-          "url": "https://www.awwwards.com/sites/elliott-mangham",
-          "author": "Elliott Mangham",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Paolo Vendramini",
-          "url": "https://www.awwwards.com/sites/paolo-vendramini",
-          "author": "ET Studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Microsoft AI",
-          "url": "https://www.awwwards.com/sites/microsoft-ai",
-          "author": "Microsoft AI",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Creative Giants",
-          "url": "https://www.awwwards.com/sites/creative-giants",
-          "author": "Phunk Creative",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "New Genre Studio",
-          "url": "https://www.awwwards.com/sites/new-genre-studio",
-          "author": "New Genre",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Glyphic Biotechnologies",
-          "url": "https://www.awwwards.com/sites/glyphic-biotechnologies",
-          "author": "Obys Agency",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "The Monolith Project",
-          "url": "https://www.awwwards.com/sites/the-monolith-project",
-          "author": "Ethan Chiu",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -460,49 +387,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Mistral 3",
-          "url": "https://www.producthunt.com/products/mistral-7b",
-          "author": "Chris Messina",
+          "title": "Stardrift",
+          "url": "https://www.producthunt.com/products/stardrift",
+          "author": "Garry Tan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A family of frontier open-source multimodal modelsDiscussion|Link",
-          "published_at": "2025-12-02T22:51:20"
+          "summary": "Your Personalized AI Travel PlannerDiscussion|Link",
+          "published_at": "2025-12-03T01:06:49"
         },
         {
-          "title": "Transformers v5",
-          "url": "https://www.producthunt.com/products/hugging-face",
+          "title": "ReliAPI",
+          "url": "https://www.producthunt.com/products/reliapi",
+          "author": "Nick",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Stop losing money on failed OpenAI and Anthropic API calls.Discussion|Link",
+          "published_at": "2025-12-03T13:26:59"
+        },
+        {
+          "title": "TypMo",
+          "url": "https://www.producthunt.com/products/typmo",
+          "author": "Adit Gupta",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Write wireframes. Generate prompts. Ship products.Discussion|Link",
+          "published_at": "2025-12-01T08:37:19"
+        },
+        {
+          "title": "Seedream 4.5",
+          "url": "https://www.producthunt.com/products/seedream-2-0",
           "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The backbone of modern AI, re-engineeredDiscussion|Link",
-          "published_at": "2025-12-03T03:37:55"
+          "summary": "High-fidelity multi-image editing & dense text renderingDiscussion|Link",
+          "published_at": "2025-12-04T06:36:13"
         },
         {
-          "title": "devlo",
-          "url": "https://www.producthunt.com/products/devlo",
-          "author": "Chris Messina",
+          "title": "Gamelabs Studio",
+          "url": "https://www.producthunt.com/products/gamelabs-studio",
+          "author": "Caleb",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Build, edit and ship software in one place.Discussion|Link",
-          "published_at": "2025-12-02T01:18:10"
-        },
-        {
-          "title": "Fellow 5.0",
-          "url": "https://www.producthunt.com/products/fellow-app",
-          "author": "Aydin Mirzaee",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Botless AI meeting notes with MCP and Zapier workflowsDiscussion|Link",
-          "published_at": "2025-12-01T20:46:17"
-        },
-        {
-          "title": "Arcade Creator Studio",
-          "url": "https://www.producthunt.com/products/arcade",
-          "author": "Caroline Clark",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Beautiful, on-brand product stories without the wait.Discussion|Link",
-          "published_at": "2025-12-02T02:07:12"
+          "summary": "Vibe-code your game animations and spritesheetsDiscussion|Link",
+          "published_at": "2025-12-03T21:32:02"
         }
       ]
     },
@@ -558,7 +485,7 @@
         {
           "title": "阿里把进度条装进Tab里，一个组件解决3大用户痛点",
           "url": "https://www.uisdc.com/hunter/0221651992.html",
-          "author": "Blish Han",
+          "author": "大鱼大鱼吖",
           "category": "设计教程",
           "source": "优设网",
           "summary": null,
@@ -571,49 +498,49 @@
       "count": 5,
       "items": [
         {
-          "title": "A dozen years of Work & Co",
-          "url": "https://order.design/project/work-and-co",
+          "title": "On factory tours",
+          "url": "https://www.scopeofwork.net/on-factory-tours/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Order designed a book with over a decade of digital craft and impact. The work we do and the company we keep.",
-          "published_at": "2025-12-03T12:39:38"
+          "summary": "How factory tours connect people to how things are made, despite rising barriers.",
+          "published_at": "2025-12-04T12:05:00"
         },
         {
-          "title": "Own a graph",
-          "url": "https://staysaasy.com/strategy/2025/11/25/own-a-graph.html",
+          "title": "Trends 2026 - Google Drive",
+          "url": "https://drive.google.com/drive/folders/1HlkpNtS61d6lGGKZNeC6FMELvR7hQra8",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "One of the quickest ways to get better at your job is to own a graph.",
-          "published_at": "2025-12-03T12:37:53"
+          "summary": "A drive folder with 2026 Trends reports from multiple companies, consultancies, and research groups.",
+          "published_at": "2025-12-04T12:03:20"
         },
         {
-          "title": "The key to understanding the world today",
-          "url": "https://bsky.app/profile/bmhughes.bsky.social/post/3m6wc33skm22z",
+          "title": "Proper prompts",
+          "url": "https://www.properprompts.ai/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A simple and brilliant analysis of today's conservative discourse.",
-          "published_at": "2025-12-03T12:37:16"
+          "summary": "Streamline your workflow and generate high quality AI assets that you can actually use in real world projects.",
+          "published_at": "2025-12-04T12:02:09"
         },
         {
-          "title": "AIGA NY unveils new identity",
-          "url": "https://www.creativeboom.com/news/aiga-ny-unveils-new-logo-and-strategic-direction-rooted-in-community-and-new-yorks-creative-energy/",
+          "title": "The junior hiring crisis",
+          "url": "https://people-work.io/blog/junior-hiring-crisis/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The largest chapter of AIGA has launched a new identity and strategy designed to strengthen its role as a civic space for design.",
-          "published_at": "2025-12-03T12:35:01"
+          "summary": "AI is removing the apprenticeship ladder. Here’s what that means for students, early-career professionals, and the tech industry’s future.",
+          "published_at": "2025-12-04T12:01:03"
         },
         {
-          "title": "We should all be Luddites",
-          "url": "https://www.brookings.edu/articles/we-should-all-be-luddites/",
+          "title": "Debunking the Alt text character limit",
+          "url": "https://chrisyoong.com/blog/the-100-150-or-200-characters-alt-text-rule-is-a-myth",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Rehabilitating the idea of Luddites as people concerned with the control and impact of technology.",
-          "published_at": "2025-12-03T12:34:06"
+          "summary": "100, 150, or 200? The arbitrary limit can be built into input fields and automated tooling.",
+          "published_at": "2025-12-04T12:00:08"
         }
       ]
     },
