@@ -1,24 +1,25 @@
 {
   "date": "2025-12-05T00:00:00",
-  "total_items": 54,
+  "total_items": 63,
   "sources": [
-    "优设网",
-    "Sidebar",
-    "A List Apart",
+    "Product Hunt",
+    "Smashing Magazine",
+    "CSS-Tricks",
     "NN/g (Nielsen Norman Group)",
     "Intercom Blog",
-    "Smashing Magazine",
     "UX Design CC",
-    "CSS-Tricks",
-    "Design Milk",
     "Awwwards",
-    "Product Hunt"
+    "Sidebar",
+    "Design Milk",
+    "优设网",
+    "UX Planet",
+    "A List Apart"
   ],
-  "generated_at": "2025-12-05T01:55:03.622131",
+  "generated_at": "2025-12-05T12:50:52.138595",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 10,
+      "count": 18,
       "items": [
         {
           "title": "Silicon clay: how AI is reshaping UX design",
@@ -109,6 +110,78 @@
           "source": "UX Design CC",
           "summary": "How outdated decision logics are undermining Labour’s ambitions for a mission-driven government.Image credit:Virpi OinonenGiven Labour won the last general election on the promise of national renewal ...",
           "published_at": "2025-12-02T12:42:23"
+        },
+        {
+          "title": "What Gemini 3 Pro Changes About Product Design",
+          "url": "https://uxplanet.org/what-gemini-3-pro-changes-about-product-design-59397efbc527?source=rss----819cc2aaeee0---4",
+          "author": "Fanny",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Last Tuesday, I watched a designer at a design tools company sketch a FigJam interface on paper, snap a photo, and ask an AI model to build it. Twelve seconds later, they had a working prototype with ...",
+          "published_at": "2025-12-05T11:55:30"
+        },
+        {
+          "title": "TaxBuddy, Making Taxes Feel Less Taxing",
+          "url": "https://uxplanet.org/taxbuddy-making-taxes-feel-less-taxing-912c5fee72e0?source=rss----819cc2aaeee0---4",
+          "author": "Surya Narayan K V",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Simplifying financial complexity through intuitive UX and Visual Design.Project SummaryWhen we first began working on TaxBuddy, the goal was simple — to make the process of filing taxes feel less inti...",
+          "published_at": "2025-12-05T11:54:53"
+        },
+        {
+          "title": "Case study: Improving home office experience",
+          "url": "https://uxplanet.org/improving-home-office-experience-a-ux-case-study-f61d121601b0?source=rss----819cc2aaeee0---4",
+          "author": "Sana Zafeer",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "source:freepikHey, Thanks for landing here, wish you an interesting & informative read!This is a “Design Thinking” based case study. To enhance the Home Office experience of target users, before we ho...",
+          "published_at": "2025-12-05T11:54:52"
+        },
+        {
+          "title": "Overcoming Silos",
+          "url": "https://uxplanet.org/overcoming-silos-f3e8bfc9a923?source=rss----819cc2aaeee0---4",
+          "author": "Pedro Canhenha",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "One of the first articles I wrote was on the topic ofcollaboration(you can read ithere). That was almost 10 years ago. At the time I had been working in the Technology/Software world for 5 years, afte...",
+          "published_at": "2025-12-05T11:54:52"
+        },
+        {
+          "title": "What most teams misunderstand about the European Accessibility Act",
+          "url": "https://uxplanet.org/what-most-teams-misunderstand-about-the-european-accessibility-act-994d1a54efa9?source=rss----819cc2aaeee0---4",
+          "author": "Matthaios Mantzios",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Most digital teams feel pretty confident when the topic of accessibility comes up. Someone added alt text to a hero image. Someone else…Continue reading on UX Planet »",
+          "published_at": "2025-12-05T11:54:52"
+        },
+        {
+          "title": "Design in the Age of AI: From Execution to thought work the honest truth no one wants to say out…",
+          "url": "https://uxplanet.org/design-in-the-age-of-ai-from-execution-to-thought-work-the-honest-truth-no-one-wants-to-say-out-90dbd81474d4?source=rss----819cc2aaeee0---4",
+          "author": "A Woman In Design",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "I was experimenting with Bolt, Cursor, and Figma Make. I wasn’t trying to prove a point, just testing and exploring.Continue reading on UX Planet »",
+          "published_at": "2025-12-05T11:54:50"
+        },
+        {
+          "title": "5 Books to Read This Winter (Designers Edition)",
+          "url": "https://uxplanet.org/5-books-to-read-this-winter-designers-edition-5ca5795bba30?source=rss----819cc2aaeee0---4",
+          "author": "Arpit Chandak",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Winter is the perfect time to curl up with a good book, sip on some hot cocoa (or coffee, if you’re me), and get smarter.Continue reading on UX Planet »",
+          "published_at": "2025-12-05T11:54:50"
+        },
+        {
+          "title": "Where (and Why) We Really Need AI in the UX Workflow",
+          "url": "https://uxplanet.org/where-and-why-we-really-need-ai-in-the-ux-workflow-74c2c1eab679?source=rss----819cc2aaeee0---4",
+          "author": "Anna \"Manjuna\" Nikitina",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "The ProblemBecause of my passion for AI tools, I often find myself in conversations with designers, leaders, and ones who are just starting their journey in UX and product design. Almost everyone asks...",
+          "published_at": "2025-12-05T11:54:50"
         }
       ]
     },
@@ -309,6 +382,15 @@
           "published_at": null
         },
         {
+          "title": "TitanGate Equity",
+          "url": "https://www.awwwards.com/sites/titangate-equity",
+          "author": "Somefolk®",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "DaVincii",
           "url": "https://www.awwwards.com/sites/davincii",
           "author": "The First The Last",
@@ -370,48 +452,57 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Glyphic Biotechnologies",
-          "url": "https://www.awwwards.com/sites/glyphic-biotechnologies",
-          "author": "Obys Agency",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 5,
       "items": [
         {
-          "title": "ReliAPI",
-          "url": "https://www.producthunt.com/products/reliapi",
-          "author": "Nick",
+          "title": "Kalycs",
+          "url": "https://www.producthunt.com/products/kalycs",
+          "author": "Abdullah Talat Alzariqi",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Stop losing money on failed OpenAI and Anthropic API calls.Discussion|Link",
-          "published_at": "2025-12-03T13:26:59"
+          "summary": "AI File Search & Organization on mac (local-first)Discussion|Link",
+          "published_at": "2025-12-03T18:56:43"
         },
         {
-          "title": "Unosend",
-          "url": "https://www.producthunt.com/products/unosend",
-          "author": "Venkat Nangedda",
+          "title": "CogniMemo",
+          "url": "https://www.producthunt.com/products/cognimemo",
+          "author": "Volkan Çetin",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Send transactional + marketing email w/ 99.9% deliverabilityDiscussion|Link",
-          "published_at": "2025-12-03T11:17:16"
+          "summary": "AI that remembers, learns, and evolvesDiscussion|Link",
+          "published_at": "2025-12-04T19:51:53"
         },
         {
-          "title": "Stardrift",
-          "url": "https://www.producthunt.com/products/stardrift",
-          "author": "Garry Tan",
+          "title": "Better Logger",
+          "url": "https://www.producthunt.com/products/better-logger",
+          "author": "Nedim",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your Personalized AI Travel PlannerDiscussion|Link",
-          "published_at": "2025-12-03T01:06:49"
+          "summary": "Modern MacOS Log viewer for iOS developers with MCP supportDiscussion|Link",
+          "published_at": "2025-12-04T12:27:06"
+        },
+        {
+          "title": "AI Talk Coach",
+          "url": "https://www.producthunt.com/products/ai-talk-coach",
+          "author": "José Sottomayor",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Your personal communication coach!Discussion|Link",
+          "published_at": "2025-12-04T08:04:34"
+        },
+        {
+          "title": "Bugster",
+          "url": "https://www.producthunt.com/products/bugster",
+          "author": "fmerian",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Claude Code for testing with AI E2E tests from your terminalDiscussion|Link",
+          "published_at": "2025-12-03T12:59:06"
         }
       ]
     },
@@ -477,52 +568,43 @@
     },
     {
       "category": "设计资讯",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "On factory tours",
-          "url": "https://www.scopeofwork.net/on-factory-tours/",
+          "title": "121 brands that matter in 2025",
+          "url": "https://www.fastcompany.com/brands-that-matter/list",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How factory tours connect people to how things are made, despite rising barriers.",
-          "published_at": "2025-12-04T12:05:00"
+          "summary": "Companies that have demonstrated an ability to connect their business to their fans and culture more broadly.",
+          "published_at": "2025-12-05T12:27:10"
         },
         {
-          "title": "Trends 2026 - Google Drive",
-          "url": "https://drive.google.com/drive/folders/1HlkpNtS61d6lGGKZNeC6FMELvR7hQra8",
+          "title": "10 usability heuristics & AI principles",
+          "url": "https://emesstyle.com/usability/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A drive folder with 2026 Trends reports from multiple companies, consultancies, and research groups.",
-          "published_at": "2025-12-04T12:03:20"
+          "summary": "Master usability heuristics and AI design principles through interactive examples.",
+          "published_at": "2025-12-05T12:26:09"
         },
         {
-          "title": "Proper prompts",
-          "url": "https://www.properprompts.ai/",
+          "title": "It’s hard to feel the AGI",
+          "url": "https://tensorlabbet.com/2025/11/30/hard-to-feel-agi/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Streamline your workflow and generate high quality AI assets that you can actually use in real world projects.",
-          "published_at": "2025-12-04T12:02:09"
+          "summary": "A reality check from leading researchers.",
+          "published_at": "2025-12-05T12:25:36"
         },
         {
-          "title": "The junior hiring crisis",
-          "url": "https://people-work.io/blog/junior-hiring-crisis/",
+          "title": "Can you make toast messages accessible?",
+          "url": "https://adamsilver.io/blog/can-you-make-toast-messages-accessible/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "AI is removing the apprenticeship ladder. Here’s what that means for students, early-career professionals, and the tech industry’s future.",
-          "published_at": "2025-12-04T12:01:03"
-        },
-        {
-          "title": "Debunking the Alt text character limit",
-          "url": "https://chrisyoong.com/blog/the-100-150-or-200-characters-alt-text-rule-is-a-myth",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "100, 150, or 200? The arbitrary limit can be built into input fields and automated tooling.",
-          "published_at": "2025-12-04T12:00:08"
+          "summary": "Toast notifications are fundamentally inaccessible and should be abandoned rather than improved. Here’s why.",
+          "published_at": "2025-12-05T12:23:55"
         }
       ]
     },
