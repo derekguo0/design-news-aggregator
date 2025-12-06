@@ -1,20 +1,20 @@
 {
   "date": "2025-12-06T00:00:00",
-  "total_items": 61,
+  "total_items": 60,
   "sources": [
-    "Product Hunt",
-    "优设网",
-    "Sidebar",
-    "Design Milk",
-    "UX Planet",
-    "UX Design CC",
     "CSS-Tricks",
     "A List Apart",
+    "Sidebar",
+    "Design Milk",
+    "Awwwards",
     "Smashing Magazine",
+    "Product Hunt",
     "NN/g (Nielsen Norman Group)",
-    "Awwwards"
+    "优设网",
+    "UX Planet",
+    "UX Design CC"
   ],
-  "generated_at": "2025-12-06T01:48:10.916167",
+  "generated_at": "2025-12-06T12:44:29.142149",
   "categories": [
     {
       "category": "用户体验设计",
@@ -363,6 +363,15 @@
           "published_at": null
         },
         {
+          "title": "Quiet Cubes",
+          "url": "https://www.awwwards.com/sites/quiet-cubes",
+          "author": "ADELT Agency",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "TitanGate Equity",
           "url": "https://www.awwwards.com/sites/titangate-equity",
           "author": "Somefolk®",
@@ -424,66 +433,48 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "New Genre Studio",
-          "url": "https://www.awwwards.com/sites/new-genre-studio",
-          "author": "New Genre",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "Google Workspace Studio",
-          "url": "https://www.producthunt.com/products/google",
-          "author": "Aleksandar Blazhev",
+          "title": "Browser Use Skills",
+          "url": "https://www.producthunt.com/products/browser-use",
+          "author": "Saurav Panda",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Build your AI agent in minutes to delegate the daily grindDiscussion|Link",
-          "published_at": "2025-12-04T09:18:32"
+          "summary": "Turn any website into a reliable API with 1 promptDiscussion|Link",
+          "published_at": "2025-12-05T13:11:52"
         },
         {
-          "title": "Gemini 3 Deep Think by Google",
-          "url": "https://www.producthunt.com/products/gemini-3-deep-think-by-google",
-          "author": "Aleksandar Blazhev",
+          "title": "Proofly",
+          "url": "https://www.producthunt.com/products/proofly-on-device-ai-proofreader",
+          "author": "Önder Ceylan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Google’s best model for logical thinking and understandingDiscussion|Link",
-          "published_at": "2025-12-04T19:23:51"
+          "summary": "Private AI proofreading that runs 100% on your deviceDiscussion|Link",
+          "published_at": "2025-12-05T09:46:23"
         },
         {
-          "title": "Index for ChatGPT",
-          "url": "https://www.producthunt.com/products/index-for-chatgpt",
-          "author": "Shantanu Bahadure",
+          "title": "Eureka",
+          "url": "https://www.producthunt.com/products/eureka-4",
+          "author": "kent no",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Auto table of contents for long ChatGPT conversationsDiscussion|Link",
-          "published_at": "2025-12-04T12:07:44"
+          "summary": "Turn any knowledge into an explorable visual map, AI-poweredDiscussion|Link",
+          "published_at": "2025-12-05T19:17:58"
         },
         {
-          "title": "Antigravity",
-          "url": "https://www.producthunt.com/products/antigravity",
-          "author": "Zac Zuo",
+          "title": "Linkie",
+          "url": "https://www.producthunt.com/products/linkie-2",
+          "author": "Kristijan Drača",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The world's first 8K 360° droneDiscussion|Link",
-          "published_at": "2025-12-05T01:43:21"
-        },
-        {
-          "title": "CogniMemo",
-          "url": "https://www.producthunt.com/products/cognimemo",
-          "author": "Volkan Çetin",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "AI that remembers, learns, and evolvesDiscussion|Link",
-          "published_at": "2025-12-04T19:51:53"
+          "summary": "Your link-in-bio platformDiscussion|Link",
+          "published_at": "2025-12-06T00:09:36"
         }
       ]
     },
