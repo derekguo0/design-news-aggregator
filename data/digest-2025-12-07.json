@@ -1,20 +1,20 @@
 {
   "date": "2025-12-07T00:00:00",
-  "total_items": 56,
+  "total_items": 55,
   "sources": [
     "UX Planet",
-    "A List Apart",
-    "优设网",
-    "Smashing Magazine",
-    "NN/g (Nielsen Norman Group)",
-    "Awwwards",
-    "Product Hunt",
-    "UX Design CC",
     "CSS-Tricks",
+    "NN/g (Nielsen Norman Group)",
+    "优设网",
+    "Awwwards",
+    "A List Apart",
     "Sidebar",
-    "Design Milk"
+    "UX Design CC",
+    "Design Milk",
+    "Product Hunt",
+    "Smashing Magazine"
   ],
-  "generated_at": "2025-12-07T02:03:28.333786",
+  "generated_at": "2025-12-07T12:43:08.298559",
   "categories": [
     {
       "category": "用户体验设计",
@@ -336,6 +336,15 @@
           "published_at": null
         },
         {
+          "title": "Jacques + Cie",
+          "url": "https://www.awwwards.com/sites/jacques-cie",
+          "author": "Mambo Mambo",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Quiet Cubes",
           "url": "https://www.awwwards.com/sites/quiet-cubes",
           "author": "ADELT Agency",
@@ -397,48 +406,30 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Creative Giants",
-          "url": "https://www.awwwards.com/sites/creative-giants",
-          "author": "Phunk Creative",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 2,
       "items": [
         {
-          "title": "Browser Use Skills",
-          "url": "https://www.producthunt.com/products/browser-use",
-          "author": "Saurav Panda",
+          "title": "There",
+          "url": "https://www.producthunt.com/products/there-c8f71fe3-71b4-4633-8d40-584e4c7e40e8",
+          "author": "Sen Lin",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn any website into a reliable API with 1 promptDiscussion|Link",
-          "published_at": "2025-12-05T13:11:52"
+          "summary": "🪐 Your cosmic compass through the galaxyDiscussion|Link",
+          "published_at": "2025-12-06T14:03:28"
         },
         {
-          "title": "Proofly",
-          "url": "https://www.producthunt.com/products/proofly-on-device-ai-proofreader",
-          "author": "Önder Ceylan",
+          "title": "PowerWash Simulator",
+          "url": "https://www.producthunt.com/products/powerwash-simulator",
+          "author": "Chris Messina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Private AI proofreading that runs 100% on your deviceDiscussion|Link",
-          "published_at": "2025-12-05T09:46:23"
-        },
-        {
-          "title": "Eureka",
-          "url": "https://www.producthunt.com/products/eureka-4",
-          "author": "kent no",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Turn any knowledge into an explorable visual map, AI-poweredDiscussion|Link",
-          "published_at": "2025-12-05T19:17:58"
+          "summary": "The original clean, on any screenDiscussion|Link",
+          "published_at": "2025-12-05T04:52:23"
         }
       ]
     },
