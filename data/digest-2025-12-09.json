@@ -1,25 +1,34 @@
 {
   "date": "2025-12-09T00:00:00",
-  "total_items": 45,
+  "total_items": 49,
   "sources": [
+    "Intercom Blog",
+    "CSS-Tricks",
     "Sidebar",
+    "Awwwards",
+    "A List Apart",
     "Product Hunt",
     "优设网",
-    "Smashing Magazine",
     "Design Milk",
-    "A List Apart",
-    "CSS-Tricks",
     "NN/g (Nielsen Norman Group)",
-    "Intercom Blog",
-    "Awwwards",
-    "UX Design CC"
+    "UX Design CC",
+    "Smashing Magazine"
   ],
-  "generated_at": "2025-12-09T01:54:39.170440",
+  "generated_at": "2025-12-09T12:52:46.307982",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 2,
+      "count": 3,
       "items": [
+        {
+          "title": "How to approach creating design alternatives in a sustainable way",
+          "url": "https://uxdesign.cc/how-to-approach-creating-design-alternatives-in-a-sustainable-way-197c6b875f0a?source=rss----138adf9c44c---4",
+          "author": "Kai Wong",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The rule of 3 in design isn’t feasible anymore, unless you do thisContinue reading on UX Collective »",
+          "published_at": "2025-12-09T12:44:10"
+        },
         {
           "title": "Is there such a thing as mindful scrolling?",
           "url": "https://uxdesign.cc/is-there-such-a-thing-as-mindful-scrolling-0852ab37c404?source=rss----138adf9c44c---4",
@@ -102,7 +111,7 @@
     },
     {
       "category": "产品设计",
-      "count": 6,
+      "count": 7,
       "items": [
         {
           "title": "Studio Nilasha’s Monochrome Villa Finds Warmth in Restraint",
@@ -141,6 +150,15 @@
           "published_at": "2025-12-08T14:00:04"
         },
         {
+          "title": "2026 customer service planning series: Vol. 04",
+          "url": "https://www.intercom.com/blog/establish-systems-and-structure-that-sustain-ai-performance/",
+          "author": "Declan Ivory",
+          "category": "产品设计",
+          "source": "Intercom Blog",
+          "summary": "Learn how to build an operating model where every resolution improves the system, so that fewer issues repeat, quality compounds, and support becomes more scalable over time.",
+          "published_at": "2025-12-09T12:00:17"
+        },
+        {
           "title": "Intercom achieves AIUC-1 certification: A new standard for trust in AI Agents",
           "url": "https://www.intercom.com/blog/intercom-achieves-aiuc-1-certification/",
           "author": "Thibault Candebat",
@@ -162,8 +180,17 @@
     },
     {
       "category": "网页设计",
-      "count": 15,
+      "count": 16,
       "items": [
+        {
+          "title": "State, Logic, And Native Power: CSS Wrapped 2025",
+          "url": "https://smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/",
+          "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "CSS Wrapped 2025 is out! We’re entering a world where CSS can increasingly handle logic, state, and complex interactions once reserved for JavaScript. Here is an unpacking of the standout highlights a...",
+          "published_at": "2025-12-09T10:00:00"
+        },
         {
           "title": "How UX Professionals Can Lead AI Strategy",
           "url": "https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/",
@@ -228,6 +255,15 @@
           "published_at": null
         },
         {
+          "title": "norgram.co",
+          "url": "https://www.awwwards.com/sites/norgram-co",
+          "author": "Norgram",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "The Spark",
           "url": "https://www.awwwards.com/sites/the-spark",
           "author": "The Digital Panda",
@@ -289,57 +325,57 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Paolo Vendramini",
-          "url": "https://www.awwwards.com/sites/paolo-vendramini",
-          "author": "ET Studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Jsfxr Pro",
-          "url": "https://www.producthunt.com/products/jsfxr-pro",
-          "author": "Chris McCormick",
+          "title": "GLM-4.6V",
+          "url": "https://www.producthunt.com/products/z-ai",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "8-Bit retro sound fx generatorDiscussion|Link",
-          "published_at": "2025-12-08T02:08:15"
+          "summary": "Open-source multimodal model with native tool useDiscussion|Link",
+          "published_at": "2025-12-09T02:36:23"
         },
         {
-          "title": "BrowserBook",
-          "url": "https://www.producthunt.com/products/browserbook",
-          "author": "Chris Schlaepfer",
+          "title": "Kerno",
+          "url": "https://www.producthunt.com/products/kerno",
+          "author": "Karim Traiaia",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The Browser Automation IDEDiscussion|Link",
-          "published_at": "2025-12-06T21:34:09"
+          "summary": "Testing Co-Pilot for Backend EngineersDiscussion|Link",
+          "published_at": "2025-12-07T11:10:57"
         },
         {
-          "title": "CirtusAI",
-          "url": "https://www.producthunt.com/products/cirtusai",
-          "author": "Sid Fan",
+          "title": "Lyria Camera by Google DeepMind",
+          "url": "https://www.producthunt.com/products/lyria-camera-by-google-deepmind",
+          "author": "Aleksandar Blazhev",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The Universal Identity & Asset Wallet for the AI Era.Discussion|Link",
-          "published_at": "2025-12-07T10:08:18"
+          "summary": "Turn your camera into a musical instrumentDiscussion|Link",
+          "published_at": "2025-12-08T16:34:06"
         },
         {
-          "title": "Draftly",
-          "url": "https://www.producthunt.com/products/draftly-6",
-          "author": "Rayane",
+          "title": "Kortex",
+          "url": "https://www.producthunt.com/products/kortex-2",
+          "author": "Yaksh Gandhi",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn plain English into editable UI components & designsDiscussion|Link",
-          "published_at": "2025-12-07T21:28:31"
+          "summary": "Organize, import + export NotebookLM sources with a clickDiscussion|Link",
+          "published_at": "2025-12-09T02:07:45"
+        },
+        {
+          "title": "WarpGrep",
+          "url": "https://www.producthunt.com/products/morph-apply-ai-edits-to-files-fast",
+          "author": "Tejas Bhakta",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Remove context rot + improve code searchDiscussion|Link",
+          "published_at": "2025-12-09T00:21:12"
         }
       ]
     },
@@ -393,8 +429,8 @@
           "published_at": null
         },
         {
-          "title": "当功能入口遇上轮播设计，阿里通义万相做出了1+1>2的体验",
-          "url": "https://www.uisdc.com/hunter/0221652564.html",
+          "title": "停车图标弱爆了？看高德地图如何用3D拟真模型重构停车UI",
+          "url": "https://www.uisdc.com/hunter/0221652727.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -407,6 +443,24 @@
       "category": "设计资讯",
       "count": 5,
       "items": [
+        {
+          "title": "What does it mean to be a designer in the age of AI?",
+          "url": "https://www.figma.com/blog/double-click-what-does-it-mean-to-be-a-designer-in-the-age-of-ai/",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "As workflows shift what happens to job titles—and the ways of working and sense of identity that comes with them?",
+          "published_at": "2025-12-09T12:51:49"
+        },
+        {
+          "title": "Generating utility classes from design tokens using style dictionary",
+          "url": "https://www.alwaystwisted.com/articles/a-design-tokens-workflow-part-13",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "Seamless design-to-development workflows and collaboration, including snowflakes.",
+          "published_at": "2025-12-09T12:51:06"
+        },
         {
           "title": "Designing Design Systems Book",
           "url": "https://bit.ly/side-dds1",
@@ -433,24 +487,6 @@
           "source": "Sidebar",
           "summary": "Huge swathes of human knowledge are missing from the internet. By definition, generative AI is shockingly ignorant too.",
           "published_at": "2025-12-08T08:00:00"
-        },
-        {
-          "title": "Apple unveils the winners of the 2025 App Store Awards",
-          "url": "https://www.apple.com/newsroom/2025/12/apple-unveils-the-winners-of-the-2025-app-store-awards/",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "Recognizing 17 apps and games for their technical ingenuity and lasting cultural impact.",
-          "published_at": "2025-12-08T08:00:00"
-        },
-        {
-          "title": "The math of why you can’t focus at work",
-          "url": "https://justoffbyone.com/posts/math-of-why-you-cant-focus-at-work/",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "Interruptions, recovery time, and task size: three numbers that determine if you’ll get real work done.",
-          "published_at": "2025-12-08T07:00:00"
         }
       ]
     },
