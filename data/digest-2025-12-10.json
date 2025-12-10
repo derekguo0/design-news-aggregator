@@ -1,20 +1,21 @@
 {
   "date": "2025-12-10T00:00:00",
-  "total_items": 49,
+  "total_items": 58,
   "sources": [
-    "UX Planet",
-    "Design Milk",
-    "NN/g (Nielsen Norman Group)",
-    "CSS-Tricks",
-    "UX Design CC",
-    "A List Apart",
-    "Smashing Magazine",
-    "优设网",
     "Sidebar",
     "Product Hunt",
-    "Intercom Blog"
+    "Design Milk",
+    "A List Apart",
+    "Smashing Magazine",
+    "Awwwards",
+    "NN/g (Nielsen Norman Group)",
+    "Intercom Blog",
+    "CSS-Tricks",
+    "UX Design CC",
+    "UX Planet",
+    "优设网"
   ],
-  "generated_at": "2025-12-10T01:57:04.556368",
+  "generated_at": "2025-12-10T07:27:45.666601",
   "categories": [
     {
       "category": "用户体验设计",
@@ -216,7 +217,7 @@
     },
     {
       "category": "网页设计",
-      "count": 9,
+      "count": 17,
       "items": [
         {
           "title": "Accessible UX Research, eBook Now Available For Download",
@@ -298,22 +299,85 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
+        },
+        {
+          "title": "Seventeen",
+          "url": "https://www.awwwards.com/sites/seventeen",
+          "author": "Malvah",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "norgram.co",
+          "url": "https://www.awwwards.com/sites/norgram-co",
+          "author": "Norgram",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "The Spark",
+          "url": "https://www.awwwards.com/sites/the-spark",
+          "author": "The Digital Panda",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Jacques + Cie",
+          "url": "https://www.awwwards.com/sites/jacques-cie",
+          "author": "Mambo Mambo",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Quiet Cubes",
+          "url": "https://www.awwwards.com/sites/quiet-cubes",
+          "author": "ADELT Agency",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "TitanGate Equity",
+          "url": "https://www.awwwards.com/sites/titangate-equity",
+          "author": "Somefolk®",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "DaVincii",
+          "url": "https://www.awwwards.com/sites/davincii",
+          "author": "The First The Last",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "House Of Corto",
+          "url": "https://www.awwwards.com/sites/house-of-corto",
+          "author": "FLOT NOIR",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 7,
       "items": [
-        {
-          "title": "Cosmic AI Agents",
-          "url": "https://www.producthunt.com/products/cosmic",
-          "author": "Tony Spiro",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Autonomous AI that builds, writes, and ships for you.Discussion|Link",
-          "published_at": "2025-12-08T22:06:19"
-        },
         {
           "title": "Lyria Camera by Google DeepMind",
           "url": "https://www.producthunt.com/products/lyria-camera-by-google-deepmind",
@@ -324,22 +388,13 @@
           "published_at": "2025-12-08T16:34:06"
         },
         {
-          "title": "EpsteinGPT",
-          "url": "https://www.producthunt.com/products/epsteingpt",
-          "author": "Ryan Kashi",
+          "title": "Kortex",
+          "url": "https://www.producthunt.com/products/kortex-2",
+          "author": "Yaksh Gandhi",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "ChatGPT connected to the Epstein FilesDiscussion|Link",
-          "published_at": "2025-12-09T01:22:32"
-        },
-        {
-          "title": "Kerno",
-          "url": "https://www.producthunt.com/products/kerno",
-          "author": "Karim Traiaia",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Testing Co-Pilot for Backend EngineersDiscussion|Link",
-          "published_at": "2025-12-07T11:10:57"
+          "summary": "Organize, import + export NotebookLM sources with a clickDiscussion|Link",
+          "published_at": "2025-12-09T02:07:45"
         },
         {
           "title": "GLM-4.6V",
@@ -351,13 +406,40 @@
           "published_at": "2025-12-09T02:36:23"
         },
         {
-          "title": "Kortex",
-          "url": "https://www.producthunt.com/products/kortex-2",
-          "author": "Yaksh Gandhi",
+          "title": "TubeGuide",
+          "url": "https://www.producthunt.com/products/tubeguide",
+          "author": "Robin Gustafsson",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Organize, import + export NotebookLM sources with a clickDiscussion|Link",
-          "published_at": "2025-12-09T02:07:45"
+          "summary": "Convert YouTube to step-by-step notesDiscussion|Link",
+          "published_at": "2025-12-08T15:18:51"
+        },
+        {
+          "title": "Kerno",
+          "url": "https://www.producthunt.com/products/kerno",
+          "author": "Karim Traiaia",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Testing Co-Pilot for Backend EngineersDiscussion|Link",
+          "published_at": "2025-12-07T11:10:57"
+        },
+        {
+          "title": "EpsteinGPT",
+          "url": "https://www.producthunt.com/products/epsteingpt",
+          "author": "Ryan Kashi",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "ChatGPT connected to the Epstein FilesDiscussion|Link",
+          "published_at": "2025-12-09T01:22:32"
+        },
+        {
+          "title": "WarpGrep",
+          "url": "https://www.producthunt.com/products/morph-apply-ai-edits-to-files-fast",
+          "author": "Tejas Bhakta",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Remove context rot + improve code searchDiscussion|Link",
+          "published_at": "2025-12-09T00:21:12"
         }
       ]
     },
