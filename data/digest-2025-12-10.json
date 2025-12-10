@@ -1,26 +1,44 @@
 {
   "date": "2025-12-10T00:00:00",
-  "total_items": 58,
+  "total_items": 56,
   "sources": [
-    "Sidebar",
-    "Product Hunt",
-    "Design Milk",
-    "A List Apart",
-    "Smashing Magazine",
-    "Awwwards",
-    "NN/g (Nielsen Norman Group)",
     "Intercom Blog",
+    "Design Milk",
+    "优设网",
+    "Awwwards",
     "CSS-Tricks",
+    "Smashing Magazine",
+    "A List Apart",
+    "NN/g (Nielsen Norman Group)",
     "UX Design CC",
     "UX Planet",
-    "优设网"
+    "Sidebar",
+    "Product Hunt"
   ],
-  "generated_at": "2025-12-10T07:27:45.666601",
+  "generated_at": "2025-12-10T12:53:17.426373",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 5,
+      "count": 7,
       "items": [
+        {
+          "title": "Addressing the design-engineering gap with AI coding tools",
+          "url": "https://uxdesign.cc/productionizing-design-prototypes-addressing-the-design-engineering-gap-with-ai-coding-tools-fb3924f83da1?source=rss----138adf9c44c---4",
+          "author": "Pratheep Kumar Chelladurai",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How shadow repos and data layer helped me move from design handoffs to working prototypes that ship in hoursOver the past few months, I have noticed a quiet shift in how we build products. You start n...",
+          "published_at": "2025-12-10T09:53:23"
+        },
+        {
+          "title": "Building systems that strengthen product discovery judgment",
+          "url": "https://uxdesign.cc/building-systems-that-strengthen-product-discovery-judgment-984aafbc839a?source=rss----138adf9c44c---4",
+          "author": "Gale Robins",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Moving from accidental learning to deliberate capability development.Diagram created by author using Google Gemini AI text-to-image creatorThe retrospective felt like a breakthrough. The team diagnose...",
+          "published_at": "2025-12-10T09:47:36"
+        },
         {
           "title": "The business is the only stakeholder that matters",
           "url": "https://uxdesign.cc/the-business-is-the-only-stakeholder-that-matters-c0fbb110d632?source=rss----138adf9c44c---4",
@@ -225,7 +243,7 @@
           "author": "hello@smashingmagazine.com (Ari Stiles)",
           "category": "网页设计",
           "source": "Smashing Magazine",
-          "summary": "eBook versions of “Accessible UX Research,” a new Smashing Book by Michele A. Williams, are now available for download! Which means soon the book will go to the printer. Order the eBook for instant do...",
+          "summary": "We’ve got exciting news! eBook versions of “Accessible UX Research,” a new Smashing Book by Michele A. Williams, are now available for download! Which means soon the book will go to the printer. Order...",
           "published_at": "2025-12-09T16:00:00"
         },
         {
@@ -376,70 +394,43 @@
     },
     {
       "category": "产品发现",
-      "count": 7,
+      "count": 4,
       "items": [
         {
-          "title": "Lyria Camera by Google DeepMind",
-          "url": "https://www.producthunt.com/products/lyria-camera-by-google-deepmind",
-          "author": "Aleksandar Blazhev",
+          "title": "ShowYourWork",
+          "url": "https://www.producthunt.com/products/showyourwork",
+          "author": "Gboyega Ofi",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn your camera into a musical instrumentDiscussion|Link",
-          "published_at": "2025-12-08T16:34:06"
+          "summary": "Upload a problem, get a handwritten solutionDiscussion|Link",
+          "published_at": "2025-12-10T02:16:32"
         },
         {
-          "title": "Kortex",
-          "url": "https://www.producthunt.com/products/kortex-2",
-          "author": "Yaksh Gandhi",
+          "title": "Vectorly",
+          "url": "https://www.producthunt.com/products/vectorly-3",
+          "author": "Dima Vremenko",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Organize, import + export NotebookLM sources with a clickDiscussion|Link",
-          "published_at": "2025-12-09T02:07:45"
+          "summary": "Get web data behind clicks, searches, user interactionsDiscussion|Link",
+          "published_at": "2025-12-09T18:28:52"
         },
         {
-          "title": "GLM-4.6V",
-          "url": "https://www.producthunt.com/products/z-ai",
-          "author": "Zac Zuo",
+          "title": "Rep by Clarify",
+          "url": "https://www.producthunt.com/products/clarify-6",
+          "author": "Chris Messina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Open-source multimodal model with native tool useDiscussion|Link",
-          "published_at": "2025-12-09T02:36:23"
+          "summary": "A personal sales agent that helps you close more dealsDiscussion|Link",
+          "published_at": "2025-12-10T00:54:53"
         },
         {
-          "title": "TubeGuide",
-          "url": "https://www.producthunt.com/products/tubeguide",
-          "author": "Robin Gustafsson",
+          "title": "ZeroHz",
+          "url": "https://www.producthunt.com/products/zerohz-2",
+          "author": "nerd_makr",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Convert YouTube to step-by-step notesDiscussion|Link",
-          "published_at": "2025-12-08T15:18:51"
-        },
-        {
-          "title": "Kerno",
-          "url": "https://www.producthunt.com/products/kerno",
-          "author": "Karim Traiaia",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Testing Co-Pilot for Backend EngineersDiscussion|Link",
-          "published_at": "2025-12-07T11:10:57"
-        },
-        {
-          "title": "EpsteinGPT",
-          "url": "https://www.producthunt.com/products/epsteingpt",
-          "author": "Ryan Kashi",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "ChatGPT connected to the Epstein FilesDiscussion|Link",
-          "published_at": "2025-12-09T01:22:32"
-        },
-        {
-          "title": "WarpGrep",
-          "url": "https://www.producthunt.com/products/morph-apply-ai-edits-to-files-fast",
-          "author": "Tejas Bhakta",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Remove context rot + improve code searchDiscussion|Link",
-          "published_at": "2025-12-09T00:21:12"
+          "summary": "Lofi music + ambient sounds + timer that lives on your MacDiscussion|Link",
+          "published_at": "2025-12-10T06:49:06"
         }
       ]
     },
@@ -505,52 +496,43 @@
     },
     {
       "category": "设计资讯",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "The best album covers of 2025",
-          "url": "https://www.wallpaper.com/art/music/best-album-artwork-2025",
+          "title": "Public design systems are worth it",
+          "url": "https://pjonori.blog/posts/public-design-systems-are-worth-it/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A plethora of new releases this year look as good as they sound. Here’s Wallpaper's top ten.",
-          "published_at": "2025-12-09T12:54:44"
+          "summary": "It’s incredibly valuable to make a design system available to all–no matter what the bean-counters say.",
+          "published_at": "2025-12-10T12:15:54"
         },
         {
-          "title": "Martin Parr could make a chip shop as mighty as a cathedral",
-          "url": "https://www.theguardian.com/artanddesign/2025/dec/07/mundane-magnificent-martin-parr-chip-shop-cathedral-cheese-sandwich-britishness",
+          "title": "Website inspo gallery",
+          "url": "https://www.inspo.page/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A brilliantly human photographer who celebrated the overlooked, finding beauty the mundane.",
-          "published_at": "2025-12-09T12:54:05"
+          "summary": "Inspirateion curated at the component level. Browse UI patterns, layouts, animations, and more.",
+          "published_at": "2025-12-10T12:15:17"
         },
         {
-          "title": "AI CEO",
-          "url": "https://replaceyourboss.ai/",
+          "title": "The barcode as a design object",
+          "url": "https://pangrampangram.com/blogs/journal/barcode",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Algorithmic thought leadership, with instant decisions, and zero ego. Replace your boss before they replace you.",
-          "published_at": "2025-12-09T12:53:12"
+          "summary": "Very few graphic inventions have shaped the visual landscape of our everyday lives as quietly and ubiquitously as the barcode.",
+          "published_at": "2025-12-10T12:14:39"
         },
         {
-          "title": "What does it mean to be a designer in the age of AI?",
-          "url": "https://www.figma.com/blog/double-click-what-does-it-mean-to-be-a-designer-in-the-age-of-ai/",
+          "title": "Icons in menus everywhere",
+          "url": "https://blog.jim-nielsen.com/2025/icons-in-menus/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "As workflows shift what happens to job titles—and the ways of working and sense of identity that comes with them?",
-          "published_at": "2025-12-09T12:51:49"
-        },
-        {
-          "title": "Generating utility classes from design tokens using style dictionary",
-          "url": "https://www.alwaystwisted.com/articles/a-design-tokens-workflow-part-13",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "Seamless design-to-development workflows and collaboration, including snowflakes.",
-          "published_at": "2025-12-09T12:51:06"
+          "summary": "For those who do not accept the philosophy of “put an icon in every menu item by default”.",
+          "published_at": "2025-12-10T12:11:48"
         }
       ]
     },
