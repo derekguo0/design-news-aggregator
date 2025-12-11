@@ -2,20 +2,20 @@
   "date": "2025-12-11T00:00:00",
   "total_items": 60,
   "sources": [
-    "UX Design CC",
-    "Product Hunt",
+    "Awwwards",
+    "Intercom Blog",
     "NN/g (Nielsen Norman Group)",
-    "CSS-Tricks",
+    "Sidebar",
     "优设网",
     "Smashing Magazine",
-    "Intercom Blog",
-    "Awwwards",
-    "Sidebar",
     "A List Apart",
-    "UX Planet",
-    "Design Milk"
+    "CSS-Tricks",
+    "Design Milk",
+    "Product Hunt",
+    "UX Design CC",
+    "UX Planet"
   ],
-  "generated_at": "2025-12-11T01:58:12.714405",
+  "generated_at": "2025-12-11T06:21:17.643013",
   "categories": [
     {
       "category": "用户体验设计",
@@ -31,12 +31,12 @@
           "published_at": "2025-12-10T22:19:47"
         },
         {
-          "title": "Amazon’s roach motel",
+          "title": "The dark pattern that cost Amazon $2.5 billion",
           "url": "https://uxdesign.cc/amazons-roach-motel-4fc7a9d1fc31?source=rss----138adf9c44c---4",
           "author": "Allan MacDonald",
           "category": "用户体验设计",
           "source": "UX Design CC",
-          "summary": "How a dark pattern becomes a billion-dollar liabilityImage of a big ol’ roach motel manager, representing AmazonWith the holidays around the corner, I’ve been on an online shopping spree, and recently...",
+          "summary": "How dark patterns are actually becoming legal liabilitiesImage of a big ol’ roach motel manager, representing AmazonWith the holidays around the corner, I’ve been on an online shopping spree, and rece...",
           "published_at": "2025-12-10T19:27:51"
         },
         {
@@ -424,24 +424,6 @@
       "count": 4,
       "items": [
         {
-          "title": "SnapTodo",
-          "url": "https://www.producthunt.com/products/snaptodo",
-          "author": "Minkyu Lee",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "A weekly planner that automatically schedules your todosDiscussion|Link",
-          "published_at": "2025-12-08T08:55:47"
-        },
-        {
-          "title": "ShowYourWork",
-          "url": "https://www.producthunt.com/products/showyourwork",
-          "author": "Gboyega Ofi",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Upload a problem, get a handwritten solutionDiscussion|Link",
-          "published_at": "2025-12-10T02:16:32"
-        },
-        {
           "title": "Basedash Autopilot",
           "url": "https://www.producthunt.com/products/basedash",
           "author": "Max Musing",
@@ -451,13 +433,31 @@
           "published_at": "2025-12-10T01:04:26"
         },
         {
-          "title": "Sceptrum",
-          "url": "https://www.producthunt.com/products/sceptrum",
-          "author": "s aditya",
+          "title": "Devstral 2",
+          "url": "https://www.producthunt.com/products/mistral-7b",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Offline-first dashboard with auto-sync on WiFi connectionDiscussion|Link",
-          "published_at": "2025-12-09T08:46:48"
+          "summary": "SOTA open-source agentic coding models and CLI agentDiscussion|Link",
+          "published_at": "2025-12-10T07:04:57"
+        },
+        {
+          "title": "SnapTodo",
+          "url": "https://www.producthunt.com/products/snaptodo",
+          "author": "Minkyu Lee",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "A weekly planner that automatically schedules your todosDiscussion|Link",
+          "published_at": "2025-12-08T08:55:47"
+        },
+        {
+          "title": "Rep by Clarify",
+          "url": "https://www.producthunt.com/products/clarify-6",
+          "author": "Chris Messina",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "A personal sales agent that helps you close more dealsDiscussion|Link",
+          "published_at": "2025-12-10T00:54:53"
         }
       ]
     },
