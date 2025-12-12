@@ -1,21 +1,21 @@
 {
   "date": "2025-12-12T00:00:00",
-  "total_items": 57,
+  "total_items": 58,
   "sources": [
+    "NN/g (Nielsen Norman Group)",
     "Sidebar",
-    "UX Planet",
     "Smashing Magazine",
-    "Intercom Blog",
+    "Product Hunt",
+    "Awwwards",
     "优设网",
     "Design Milk",
-    "A List Apart",
+    "UX Planet",
     "CSS-Tricks",
-    "Product Hunt",
-    "NN/g (Nielsen Norman Group)",
     "UX Design CC",
-    "Awwwards"
+    "A List Apart",
+    "Intercom Blog"
   ],
-  "generated_at": "2025-12-12T01:57:17.027707",
+  "generated_at": "2025-12-12T12:52:09.962270",
   "categories": [
     {
       "category": "用户体验设计",
@@ -124,17 +124,8 @@
     },
     {
       "category": "用户体验研究",
-      "count": 6,
+      "count": 5,
       "items": [
-        {
-          "title": "Prompt to Design Interfaces: Why Vague Prompts Fail and How to Fix Them",
-          "url": "https://www.nngroup.com/articles/vague-prototyping/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
         {
           "title": "What Users Value Most in Smart Homes and How to Design for It",
           "url": "https://www.nngroup.com/articles/smart-homes-user-value/",
@@ -328,6 +319,15 @@
           "published_at": null
         },
         {
+          "title": "Shopify Supply | Performance Pack",
+          "url": "https://www.awwwards.com/sites/shopify-supply-performance-pack",
+          "author": "Shopify Design",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Seventeen",
           "url": "https://www.awwwards.com/sites/seventeen",
           "author": "Malvah",
@@ -380,57 +380,66 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "DaVincii",
-          "url": "https://www.awwwards.com/sites/davincii",
-          "author": "The First The Last",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 6,
       "items": [
         {
-          "title": "Macaly 3.0",
-          "url": "https://www.producthunt.com/products/macaly",
-          "author": "Juraj Mihalik",
+          "title": "Agent Starter Pack",
+          "url": "https://www.producthunt.com/products/agent-starter-pack",
+          "author": "Elia Secchi",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The best editing experience in vibe-codingDiscussion|Link",
-          "published_at": "2025-12-10T10:00:16"
+          "summary": "Production Agents in Google Cloud in MinutesDiscussion|Link",
+          "published_at": "2025-12-11T18:50:41"
         },
         {
-          "title": "The Almanac",
-          "url": "https://www.producthunt.com/products/the-almanac",
-          "author": "Rohan Sharma",
+          "title": "Kaily",
+          "url": "https://www.producthunt.com/products/kaily",
+          "author": "Sreeraman M G",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Look up people and how they connectDiscussion|Link",
-          "published_at": "2025-12-10T08:33:11"
+          "summary": "AI agent that helps, solves, and closes. All day, every dayDiscussion|Link",
+          "published_at": "2025-12-12T05:03:36"
         },
         {
-          "title": "Runathon AI",
-          "url": "https://www.producthunt.com/products/runathon-ai",
-          "author": "Kürşat Keskin",
+          "title": "Google Mixboard 2.0",
+          "url": "https://www.producthunt.com/products/mixboard-2-0",
+          "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI Coach That Builds and Adapts Your Running PlanDiscussion|Link",
-          "published_at": "2025-12-10T23:13:00"
+          "summary": "Now w/ Nano Banana Pro, new file types & multi-board projectDiscussion|Link",
+          "published_at": "2025-12-09T16:39:16"
         },
         {
-          "title": "Odies AI Coworkers",
-          "url": "https://www.producthunt.com/products/odies-ai-coworkers",
-          "author": "Aditya Gopal Ganguly",
+          "title": "Gemini Deep Research Agent",
+          "url": "https://www.producthunt.com/products/gemini-6",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Smart, caring companions that literally live on your screenDiscussion|Link",
-          "published_at": "2025-12-10T07:49:59"
+          "summary": "The best research agent is open for devsDiscussion|Link",
+          "published_at": "2025-12-12T06:12:15"
+        },
+        {
+          "title": "Deskmark",
+          "url": "https://www.producthunt.com/products/deskmark",
+          "author": "Kenny Wang",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Add watermark to desktopDiscussion|Link",
+          "published_at": "2025-12-11T11:50:33"
+        },
+        {
+          "title": "Cruise Pirate",
+          "url": "https://www.producthunt.com/products/cruise-pirate",
+          "author": "Erik Kirkegaard",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The first AI native travel agency that sells cruisesDiscussion|Link",
+          "published_at": "2025-12-10T17:27:03"
         }
       ]
     },
@@ -499,49 +508,49 @@
       "count": 5,
       "items": [
         {
-          "title": "8bitcn/ui",
-          "url": "https://www.8bitcn.com/",
+          "title": "AI can write your code; It can’t do your job",
+          "url": "https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A collection of 8-bit styled components for your next project.",
-          "published_at": "2025-12-11T12:17:48"
+          "summary": "The companies building AI are spending billions to acquire engineers, not replace them. Here’s why your job is safer than you think.",
+          "published_at": "2025-12-12T12:32:19"
         },
         {
-          "title": "Laptop sticker art",
-          "url": "https://stickertop.art/",
+          "title": "AI-powered design style explorer",
+          "url": "https://www.designprompts.dev/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A unique collection of laptops adorned with creative stickers from around the world.",
-          "published_at": "2025-12-11T12:17:12"
+          "summary": "Explore 31+ design styles rendered from the same data. Get AI-ready prompts to recreate any aesthetic in your own projects.",
+          "published_at": "2025-12-12T12:31:37"
         },
         {
-          "title": "The role of the ‘lang’ attribute",
-          "url": "https://htmhell.dev/adventcalendar/2025/6/",
+          "title": "Book.sv",
+          "url": "https://book.sv/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A collection of bad practices in HTML, copied from real websites.",
-          "published_at": "2025-12-11T12:16:25"
+          "summary": "Input books you've read and receive recommendations on what to read next from an AI model.",
+          "published_at": "2025-12-12T12:31:02"
         },
         {
-          "title": "Size of life",
-          "url": "https://neal.fun/size-of-life/",
+          "title": "Prompt to design interfaces",
+          "url": "https://www.nngroup.com/articles/vague-prototyping/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Compare the size of living things, in a nicely designed experience.",
-          "published_at": "2025-12-11T12:15:45"
+          "summary": "Create better AI-prototyping designs by using precise visual keywords, references, analysis, as well as mock data and code snippets.",
+          "published_at": "2025-12-12T12:30:23"
         },
         {
-          "title": "Estimates: a necessary evil?",
-          "url": "https://thorsell.io/2025/12/07/estimates.html",
+          "title": "Stop asking users what they want; start watching what they do",
+          "url": "https://renderghost.leaflet.pub/3m75kss5jfs2z",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Estimates come in various disguises, but when you peek under the trench coat there is always the same old question.",
-          "published_at": "2025-12-11T12:14:41"
+          "summary": "People’s opinions about themselves and the things they use rarely match real behavior.",
+          "published_at": "2025-12-12T12:29:51"
         }
       ]
     },
