@@ -1,19 +1,19 @@
 {
   "date": "2025-12-13T00:00:00",
-  "total_items": 50,
+  "total_items": 49,
   "sources": [
-    "UX Planet",
-    "Sidebar",
-    "NN/g (Nielsen Norman Group)",
-    "Product Hunt",
-    "CSS-Tricks",
-    "Awwwards",
-    "A List Apart",
-    "优设网",
     "Design Milk",
+    "UX Planet",
+    "NN/g (Nielsen Norman Group)",
+    "Awwwards",
+    "Product Hunt",
+    "优设网",
+    "Sidebar",
+    "CSS-Tricks",
+    "A List Apart",
     "UX Design CC"
   ],
-  "generated_at": "2025-12-13T01:51:07.835493",
+  "generated_at": "2025-12-13T12:45:52.078784",
   "categories": [
     {
       "category": "用户体验设计",
@@ -272,6 +272,15 @@
           "published_at": null
         },
         {
+          "title": "MAX MILKIN Portfolio",
+          "url": "https://www.awwwards.com/sites/max-milkin-portfolio",
+          "author": "Olha Lazarieva",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Shopify Supply | Performance Pack",
           "url": "https://www.awwwards.com/sites/shopify-supply-performance-pack",
           "author": "Shopify Design",
@@ -324,30 +333,30 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "TitanGate Equity",
-          "url": "https://www.awwwards.com/sites/titangate-equity",
-          "author": "Somefolk®",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 3,
       "items": [
         {
-          "title": "LoadFast",
-          "url": "https://www.producthunt.com/products/loadfast-snippet-expander",
-          "author": "Vidur Saini",
+          "title": "PocketCorder",
+          "url": "https://www.producthunt.com/products/pocketcorder-code-on-the-go",
+          "author": "Shingo Irie",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A text Expander for Mac - type 3 keys, expand 300 wordsDiscussion|Link",
-          "published_at": "2025-12-11T15:24:58"
+          "summary": "Remote control your mac from smartphoneDiscussion|Link",
+          "published_at": "2025-12-13T00:34:25"
+        },
+        {
+          "title": "Visual Editor",
+          "url": "https://www.producthunt.com/products/cursor",
+          "author": "Ben Lang",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Edit web apps visually in the Cursor BrowserDiscussion|Link",
+          "published_at": "2025-12-11T15:05:34"
         },
         {
           "title": "Kaily",
@@ -357,24 +366,6 @@
           "source": "Product Hunt",
           "summary": "AI agent that helps, solves, and closes. All day, every dayDiscussion|Link",
           "published_at": "2025-12-12T05:03:36"
-        },
-        {
-          "title": "Gemini Deep Research Agent",
-          "url": "https://www.producthunt.com/products/gemini-6",
-          "author": "Zac Zuo",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The best research agent is open for devsDiscussion|Link",
-          "published_at": "2025-12-12T06:12:15"
-        },
-        {
-          "title": "GPT-5.2",
-          "url": "https://www.producthunt.com/products/openai",
-          "author": "Chris Messina",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Frontier model for professional work and long-running agentsDiscussion|Link",
-          "published_at": "2025-12-11T20:26:36"
         }
       ]
     },
@@ -428,9 +419,9 @@
           "published_at": null
         },
         {
-          "title": "ChatGPT新增5种对话风格，终于不用每次都敲提示词了",
-          "url": "https://www.uisdc.com/hunter/0221653127.html",
-          "author": "要爆炸的张老三",
+          "title": "为什么我总是找不到有道词典？聊聊那些打破用户肌肉记忆的设计",
+          "url": "https://www.uisdc.com/hunter/0221653223.html",
+          "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
           "summary": null,
