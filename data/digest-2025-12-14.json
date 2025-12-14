@@ -1,19 +1,19 @@
 {
   "date": "2025-12-14T00:00:00",
-  "total_items": 43,
+  "total_items": 44,
   "sources": [
-    "UX Planet",
-    "Sidebar",
     "Design Milk",
-    "CSS-Tricks",
-    "A List Apart",
-    "UX Design CC",
-    "NN/g (Nielsen Norman Group)",
     "Awwwards",
+    "UX Planet",
+    "NN/g (Nielsen Norman Group)",
+    "CSS-Tricks",
+    "Sidebar",
     "Product Hunt",
-    "优设网"
+    "优设网",
+    "A List Apart",
+    "UX Design CC"
   ],
-  "generated_at": "2025-12-14T02:04:01.460154",
+  "generated_at": "2025-12-14T12:46:05.174363",
   "categories": [
     {
       "category": "用户体验设计",
@@ -236,6 +236,15 @@
           "published_at": null
         },
         {
+          "title": "KOKUYO",
+          "url": "https://www.awwwards.com/sites/kokuyo",
+          "author": "mount inc.",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "MAX MILKIN Portfolio",
           "url": "https://www.awwwards.com/sites/max-milkin-portfolio",
           "author": "Olha Lazarieva",
@@ -288,22 +297,31 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Quiet Cubes",
-          "url": "https://www.awwwards.com/sites/quiet-cubes",
-          "author": "ADELT Agency",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 3,
       "items": [
+        {
+          "title": "Sidemail MCP",
+          "url": "https://www.producthunt.com/products/sidemail-io",
+          "author": "Kristyna Vrbova",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Let AI agents write & manage your SaaS emailsDiscussion|Link",
+          "published_at": "2025-12-11T08:48:28"
+        },
+        {
+          "title": "BlazorOcticons",
+          "url": "https://www.producthunt.com/products/blazorocticons",
+          "author": "Evgeniy Kosjakov",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The easiest way to use GitHub Octicons in your Blazor appsDiscussion|Link",
+          "published_at": "2025-12-13T11:55:48"
+        },
         {
           "title": "PocketCorder",
           "url": "https://www.producthunt.com/products/pocketcorder-code-on-the-go",
@@ -312,15 +330,6 @@
           "source": "Product Hunt",
           "summary": "Remote control your mac from smartphoneDiscussion|Link",
           "published_at": "2025-12-13T00:34:25"
-        },
-        {
-          "title": "Vibary",
-          "url": "https://www.producthunt.com/products/vibary",
-          "author": "Rand",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "What if every book was a unique website?Discussion|Link",
-          "published_at": "2025-12-11T11:49:36"
         }
       ]
     },
