@@ -1,23 +1,68 @@
 {
   "date": "2025-12-15T00:00:00",
-  "total_items": 38,
+  "total_items": 45,
   "sources": [
-    "A List Apart",
-    "Sidebar",
-    "Product Hunt",
-    "Awwwards",
-    "CSS-Tricks",
-    "Design Milk",
     "UX Design CC",
+    "Awwwards",
     "优设网",
+    "Sidebar",
+    "CSS-Tricks",
+    "Product Hunt",
+    "Design Milk",
+    "A List Apart",
     "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2025-12-15T02:39:55.871808",
+  "generated_at": "2025-12-15T12:55:14.983984",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 3,
+      "count": 8,
       "items": [
+        {
+          "title": "Perplexity and NotebookLM don’t use better AI—they use better intelligence flow architecture",
+          "url": "https://uxdesign.cc/perplexity-and-notebooklm-dont-use-better-ai-they-use-better-intelligence-flow-architecture-ace59eeda531?source=rss----138adf9c44c---4",
+          "author": "Adrian Levy",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "What product designers can learn from how they design intelligence flows.Everyone thinks Perplexity and NotebookLM succeed because they use “better AI.”They don’t.They use the same models as everyone ...",
+          "published_at": "2025-12-15T12:26:05"
+        },
+        {
+          "title": "So your AI wants a personality",
+          "url": "https://uxdesign.cc/so-your-ai-wants-a-personality-9cbb47e07dd7?source=rss----138adf9c44c---4",
+          "author": "Sharang Sharma",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Emerging personality patterns that drive differentiation in AI productsContinue reading on UX Collective »",
+          "published_at": "2025-12-15T12:25:16"
+        },
+        {
+          "title": "Developers aren’t the enemy",
+          "url": "https://uxdesign.cc/developers-arent-the-enemy-ddf76b1593dd?source=rss----138adf9c44c---4",
+          "author": "Daniel Berryhill",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Don’t demonize those that can help you provide more accessible content.Continue reading on UX Collective »",
+          "published_at": "2025-12-15T12:24:44"
+        },
+        {
+          "title": "Why feature roadmaps don’t work for early-stage startups",
+          "url": "https://uxdesign.cc/why-feature-roadmaps-dont-work-for-early-stage-startups-9360d392758b?source=rss----138adf9c44c---4",
+          "author": "Ankush Gupta",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The comfort and the cost of knowing what’s next.An example of a feature-based roadmapImagine this scenario:You are working with a passionate founder. They want to build a product which they are super ...",
+          "published_at": "2025-12-15T12:22:51"
+        },
+        {
+          "title": "New navigation paradigms, ChatGPT talks too much, AI coding tools",
+          "url": "https://uxdesign.cc/new-navigation-paradigms-chatgpt-talks-too-much-ai-coding-tools-3502d92723d7?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“To navigate is to read the world in order to move through it, whether it means scanning a crowd to find a familiar face, deciphering the l...",
+          "published_at": "2025-12-15T12:21:48"
+        },
         {
           "title": "Sustainable growth flowchart",
           "url": "https://uxdesign.cc/sustainable-growth-flowchart-7436e687037d?source=rss----138adf9c44c---4",
@@ -49,8 +94,17 @@
     },
     {
       "category": "用户体验研究",
-      "count": 5,
+      "count": 6,
       "items": [
+        {
+          "title": "Prompt to Design Interfaces: Why Vague Prompts Fail and How to Fix Them",
+          "url": "https://www.nngroup.com/articles/vague-prototyping/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
         {
           "title": "What Users Value Most in Smart Homes and How to Design for It",
           "url": "https://www.nngroup.com/articles/smart-homes-user-value/",
@@ -256,25 +310,34 @@
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 3,
       "items": [
         {
-          "title": "BlazorOcticons",
-          "url": "https://www.producthunt.com/products/blazorocticons",
-          "author": "Evgeniy Kosjakov",
+          "title": "RSTGameTranslation",
+          "url": "https://www.producthunt.com/products/rstgametranslation",
+          "author": "Thành Phạm",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The easiest way to use GitHub Octicons in your Blazor appsDiscussion|Link",
-          "published_at": "2025-12-13T11:55:48"
+          "summary": "Real-time screen translator for any gameDiscussion|Link",
+          "published_at": "2025-12-15T02:58:10"
         },
         {
-          "title": "PocketCorder",
-          "url": "https://www.producthunt.com/products/pocketcorder-code-on-the-go",
-          "author": "Shingo Irie",
+          "title": "Foretoken AI",
+          "url": "https://www.producthunt.com/products/foretoken-ai",
+          "author": "Nathan Wangidjaja",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Remote control your mac from smartphoneDiscussion|Link",
-          "published_at": "2025-12-13T00:34:25"
+          "summary": "AI-native engineer hiring via real-work simulationsDiscussion|Link",
+          "published_at": "2025-12-14T18:18:36"
+        },
+        {
+          "title": "Little Answers",
+          "url": "https://www.producthunt.com/products/little-answers",
+          "author": "Guilherme Campos",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Help parents explain the world, one question at a timeDiscussion|Link",
+          "published_at": "2025-12-12T13:18:26"
         }
       ]
     },
@@ -343,49 +406,49 @@
       "count": 5,
       "items": [
         {
-          "title": "AI can write your code; It can’t do your job",
-          "url": "https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/",
+          "title": "Readymag Websites of the Year 2025 winners announced",
+          "url": "https://bit.ly/side-mag1",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The companies building AI are spending billions to acquire engineers, not replace them. Here’s why your job is safer than you think.",
-          "published_at": "2025-12-12T12:32:19"
+          "summary": "Check out the winning projects selected by the design community and expert jury from Porto Rocha, Pentagram, and Studio Dumbar.",
+          "published_at": "2025-12-15T12:43:00"
         },
         {
-          "title": "AI-powered design style explorer",
-          "url": "https://www.designprompts.dev/",
+          "title": "On the consumption of AI-generated content at scale",
+          "url": "https://www.sh-reya.com/blog/consumption-ai-scale/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Explore 31+ design styles rendered from the same data. Get AI-ready prompts to recreate any aesthetic in your own projects.",
-          "published_at": "2025-12-12T12:31:37"
+          "summary": "“I might be going insane because half of what I read now sounds like ChatGPT.”",
+          "published_at": "2025-12-15T12:41:49"
         },
         {
-          "title": "Book.sv",
-          "url": "https://book.sv/",
+          "title": "The best movie posters of the year 2025",
+          "url": "https://www.creativereview.co.uk/movie-posters-of-the-year-2025/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Input books you've read and receive recommendations on what to read next from an AI model.",
-          "published_at": "2025-12-12T12:31:02"
+          "summary": "Daniel Benneworth-Gray picks his favourite movie posters of 2025, from Frankenstein to Pillion, Sentimental Value to Hard Truths.",
+          "published_at": "2025-12-15T12:41:04"
         },
         {
-          "title": "Prompt to design interfaces",
-          "url": "https://www.nngroup.com/articles/vague-prototyping/",
+          "title": "Cyberspace.online",
+          "url": "https://cyberspace.online/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Create better AI-prototyping designs by using precise visual keywords, references, analysis, as well as mock data and code snippets.",
-          "published_at": "2025-12-12T12:30:23"
+          "summary": "Social media de-imagined. A quiet corner of the internet where you can think, write, read and connect. Like how the internet was supposed to be.",
+          "published_at": "2025-12-15T12:39:54"
         },
         {
-          "title": "Stop asking users what they want; start watching what they do",
-          "url": "https://renderghost.leaflet.pub/3m75kss5jfs2z",
+          "title": "Hardware is a fruit",
+          "url": "https://www.notboring.co/p/hardware-is-a-fruit",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "People’s opinions about themselves and the things they use rarely match real behavior.",
-          "published_at": "2025-12-12T12:29:51"
+          "summary": "One of the tensions at the heart of capitalism: trying to do the “right thing” is disadvantageous.",
+          "published_at": "2025-12-15T12:39:04"
         }
       ]
     },
