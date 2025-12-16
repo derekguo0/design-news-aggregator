@@ -1,24 +1,33 @@
 {
   "date": "2025-12-16T00:00:00",
-  "total_items": 47,
+  "total_items": 55,
   "sources": [
-    "优设网",
-    "NN/g (Nielsen Norman Group)",
-    "UX Planet",
+    "UX Design CC",
     "Sidebar",
-    "A List Apart",
-    "Product Hunt",
+    "UX Planet",
     "CSS-Tricks",
     "Design Milk",
     "Awwwards",
-    "UX Design CC"
+    "NN/g (Nielsen Norman Group)",
+    "Product Hunt",
+    "优设网",
+    "A List Apart"
   ],
-  "generated_at": "2025-12-16T01:57:57.858369",
+  "generated_at": "2025-12-16T12:53:45.429975",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 9,
+      "count": 17,
       "items": [
+        {
+          "title": "Why cleaner design slides aren’t the answer to getting your team to buy in",
+          "url": "https://uxdesign.cc/why-cleaner-design-slides-arent-the-answer-to-getting-your-team-to-buy-in-1ccb203e29a0?source=rss----138adf9c44c---4",
+          "author": "Kai Wong",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Information is cheap, but attention is expensive: why design presentations failContinue reading on UX Collective »",
+          "published_at": "2025-12-16T12:14:16"
+        },
         {
           "title": "Lower the surprise: Applying The free energy principle to UX",
           "url": "https://uxdesign.cc/lower-the-surprise-applying-the-free-energy-principle-to-ux-0e557d122b81?source=rss----138adf9c44c---4",
@@ -92,13 +101,76 @@
           "published_at": "2025-12-13T17:46:26"
         },
         {
-          "title": "Google Gemini’s Most Overlooked (and valuable) Feature",
-          "url": "https://uxplanet.org/google-geminis-most-overlooked-and-valuable-feature-72c1172da0f7?source=rss----819cc2aaeee0---4",
-          "author": "Nick Babich",
+          "title": "Data-intensive apps for work don’t need to be UX-hostile and butt-ugly",
+          "url": "https://uxplanet.org/data-intensive-apps-for-work-dont-need-to-be-ux-hostile-and-butt-ugly-80fb0f4e524c?source=rss----819cc2aaeee0---4",
+          "author": "Ultan Ó Broin",
           "category": "用户体验设计",
           "source": "UX Planet",
-          "summary": "Gemini Canvas and how it benefits product designContinue reading on UX Planet »",
-          "published_at": "2025-12-15T13:57:25"
+          "summary": "Why are data-intensive apps in enterprise, healthcare, and the public sector so unusable and scary-looking?Proven design techniques such as user research, information architecture, design patterns, an...",
+          "published_at": "2025-12-16T11:32:37"
+        },
+        {
+          "title": "Part I: From scenic to semantic",
+          "url": "https://uxplanet.org/part-i-from-scenic-to-semantic-9fd2cea428cd?source=rss----819cc2aaeee0---4",
+          "author": "Doug Cook",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Designing in the age of intelligenceThe foundational shift driving a three part series. Scenic design guides users through structured paths. Semantic design interprets and responds to intent.For decad...",
+          "published_at": "2025-12-16T11:32:35"
+        },
+        {
+          "title": "UX portfolio: Using craft and AI to rise beyond the crowd",
+          "url": "https://uxplanet.org/ux-portfolio-using-craft-and-ai-to-rise-beyond-the-crowd-f2b49b280914?source=rss----819cc2aaeee0---4",
+          "author": "Marcos Rezende",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "After reviewing many UX portfolios, a consistent pattern emerges: the strongest examples rely less on decoration and more on reasoning…Continue reading on UX Planet »",
+          "published_at": "2025-12-16T11:32:08"
+        },
+        {
+          "title": "Distraction Tax in Digital Products",
+          "url": "https://uxplanet.org/distraction-tax-in-digital-products-381c90f2d698?source=rss----819cc2aaeee0---4",
+          "author": "Pradipto Chakrabarty",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Measuring how notifications, motion loading, infinite scroll, and dense layouts quietly increase errors, time, and cognitive loadPhoto byBudka DamdinsurenonUnsplash“Distraction” is usually treated lik...",
+          "published_at": "2025-12-16T11:31:54"
+        },
+        {
+          "title": "How AI “remembers”, and what it means for you as a builder — Part 1",
+          "url": "https://uxplanet.org/how-ai-remembers-and-what-it-means-for-you-as-a-builder-part-1-50d044bdaaee?source=rss----819cc2aaeee0---4",
+          "author": "Krisztina Szerovay",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "AI BASICSHow AI “remembers”, and what it means for you as a builder — Part 1How context works and why it matters: an introduction for designers and developersYour aim as a builder designer or develope...",
+          "published_at": "2025-12-16T11:31:40"
+        },
+        {
+          "title": "Why Your “Out of Stock” State is Losing You Users",
+          "url": "https://uxplanet.org/why-your-out-of-stock-state-is-losing-you-users-7df7b87cfd9a?source=rss----819cc2aaeee0---4",
+          "author": "Amish Gadhia",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "How theOn appkeeps users in ‘active buying mode’ when inventory runs outWe have all been there.You are browsing a store on your phone. You finally find the perfect pair of running shoes. The model loo...",
+          "published_at": "2025-12-16T11:31:24"
+        },
+        {
+          "title": "The Book Every Designer Should Read in the AI era",
+          "url": "https://uxplanet.org/the-book-every-designer-should-read-lessons-from-julie-zhuos-the-making-of-a-manager-34d16163d502?source=rss----819cc2aaeee0---4",
+          "author": "Bonnie",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Lessons from Julie Zhuo’s ‘The Making of a Manager’I picked upThe Making of a Managerthis December, six years after its release. I expected a dated management primer. What I found instead was a playbo...",
+          "published_at": "2025-12-16T11:31:13"
+        },
+        {
+          "title": "VJ Parivaar , Designing a Digital Home That Feels Like Family",
+          "url": "https://uxplanet.org/vj-parivaar-designing-a-digital-home-that-feels-like-family-742fb479c55b?source=rss----819cc2aaeee0---4",
+          "author": "Surya Narayan K V",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "VJ Parivaar, Designing a Digital Home That Feels Like FamilyHow we turned post-purchase chaos into clarity — one screen at a time.✨TL;DR — The Comic Strip VersionBuying a home is magical. Managing ita...",
+          "published_at": "2025-12-16T11:30:56"
         }
       ]
     },
@@ -206,7 +278,7 @@
     },
     {
       "category": "网页设计",
-      "count": 13,
+      "count": 12,
       "items": [
         {
           "title": "Design for Amiability: Lessons from Vienna",
@@ -315,39 +387,48 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "The Spark",
-          "url": "https://www.awwwards.com/sites/the-spark",
-          "author": "The Digital Panda",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 4,
       "items": [
         {
-          "title": "BetterWrite",
-          "url": "https://www.producthunt.com/products/betterwrite",
-          "author": "Ronit Raj",
+          "title": "Readever",
+          "url": "https://www.producthunt.com/products/readever",
+          "author": "Aleksandar Blazhev",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Minimalist writing editor with vim modeDiscussion|Link",
-          "published_at": "2025-12-15T06:47:11"
+          "summary": "Read books with Elon Musk, Steve Jobs, or anyone you chooseDiscussion|Link",
+          "published_at": "2025-12-15T11:07:45"
         },
         {
-          "title": "Foretoken AI",
-          "url": "https://www.producthunt.com/products/foretoken-ai",
-          "author": "Nathan Wangidjaja",
+          "title": "Wavedash",
+          "url": "https://www.producthunt.com/products/wavedash",
+          "author": "Garry Tan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI-native engineer hiring via real-work simulationsDiscussion|Link",
-          "published_at": "2025-12-14T18:18:36"
+          "summary": "A browser-first marketplace for PC gamesDiscussion|Link",
+          "published_at": "2025-12-14T04:02:07"
+        },
+        {
+          "title": "Varchive",
+          "url": "https://www.producthunt.com/products/varchive",
+          "author": "Chris Messina",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "A showcase for AI-assisted builds, inspiration, and how-tosDiscussion|Link",
+          "published_at": "2025-12-15T23:47:08"
+        },
+        {
+          "title": "NexaSDK for Mobile",
+          "url": "https://www.producthunt.com/products/nexasdk-for-mobile",
+          "author": "Kevin William David",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Easiest solution to deploy multimodal AI to mobileDiscussion|Link",
+          "published_at": "2025-12-14T06:50:19"
         }
       ]
     },
@@ -413,52 +494,43 @@
     },
     {
       "category": "设计资讯",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "Readymag Websites of the Year 2025 winners announced",
-          "url": "https://bit.ly/side-mag1",
+          "title": "What actually makes you senior",
+          "url": "https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Check out the winning projects selected by the design community and expert jury from Porto Rocha, Pentagram, and Studio Dumbar.",
-          "published_at": "2025-12-15T12:43:00"
+          "summary": "The one skill that separates senior folks from everyone else isn’t technical. It’s the ability to take ambiguous problems and make them concrete.",
+          "published_at": "2025-12-16T12:33:16"
         },
         {
-          "title": "On the consumption of AI-generated content at scale",
-          "url": "https://www.sh-reya.com/blog/consumption-ai-scale/",
+          "title": "Facilitating AI adoption at Imprint",
+          "url": "https://lethain.com/company-ai-adoption/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "“I might be going insane because half of what I read now sounds like ChatGPT.”",
-          "published_at": "2025-12-15T12:41:49"
+          "summary": "A side-quest for every engineering leader in the current era.",
+          "published_at": "2025-12-16T12:31:33"
         },
         {
-          "title": "The best movie posters of the year 2025",
-          "url": "https://www.creativereview.co.uk/movie-posters-of-the-year-2025/",
+          "title": "Designing Gotham",
+          "url": "https://frerejones.com/blog/designing-gotham",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Daniel Benneworth-Gray picks his favourite movie posters of 2025, from Frankenstein to Pillion, Sentimental Value to Hard Truths.",
-          "published_at": "2025-12-15T12:41:04"
+          "summary": "The story behind the Gotham type family.",
+          "published_at": "2025-12-16T12:30:44"
         },
         {
-          "title": "Cyberspace.online",
-          "url": "https://cyberspace.online/",
+          "title": "How to load CSS (fast)",
+          "url": "https://calendar.perfplanet.com/2025/how-to-load-css-fast/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Social media de-imagined. A quiet corner of the internet where you can think, write, read and connect. Like how the internet was supposed to be.",
-          "published_at": "2025-12-15T12:39:54"
-        },
-        {
-          "title": "Hardware is a fruit",
-          "url": "https://www.notboring.co/p/hardware-is-a-fruit",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "One of the tensions at the heart of capitalism: trying to do the “right thing” is disadvantageous.",
-          "published_at": "2025-12-15T12:39:04"
+          "summary": "Loading styles on the web is something that looks trivial at first. But if you wanted to load CSS fast, all of the sudden you run into trouble...",
+          "published_at": "2025-12-16T12:30:18"
         }
       ]
     },
