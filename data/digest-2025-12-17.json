@@ -2,19 +2,19 @@
   "date": "2025-12-17T00:00:00",
   "total_items": 58,
   "sources": [
-    "Sidebar",
+    "Design Milk",
+    "优设网",
     "UX Planet",
-    "NN/g (Nielsen Norman Group)",
     "A List Apart",
     "Product Hunt",
-    "优设网",
-    "Design Milk",
-    "Intercom Blog",
+    "Sidebar",
     "UX Design CC",
-    "CSS-Tricks",
-    "Awwwards"
+    "NN/g (Nielsen Norman Group)",
+    "Intercom Blog",
+    "Awwwards",
+    "CSS-Tricks"
   ],
-  "generated_at": "2025-12-17T01:53:24.420664",
+  "generated_at": "2025-12-17T04:21:51.170506",
   "categories": [
     {
       "category": "用户体验设计",
@@ -423,6 +423,15 @@
       "count": 3,
       "items": [
         {
+          "title": "Readever",
+          "url": "https://www.producthunt.com/products/readever",
+          "author": "Aleksandar Blazhev",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Read books with Elon Musk, Steve Jobs, or anyone you chooseDiscussion|Link",
+          "published_at": "2025-12-15T11:07:45"
+        },
+        {
           "title": "NexaSDK for Mobile",
           "url": "https://www.producthunt.com/products/nexasdk-for-mobile",
           "author": "Kevin William David",
@@ -430,15 +439,6 @@
           "source": "Product Hunt",
           "summary": "Easiest solution to deploy multimodal AI to mobileDiscussion|Link",
           "published_at": "2025-12-14T06:50:19"
-        },
-        {
-          "title": "Varchive",
-          "url": "https://www.producthunt.com/products/varchive",
-          "author": "Chris Messina",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "A showcase for AI-assisted builds, inspiration, and how-tosDiscussion|Link",
-          "published_at": "2025-12-15T23:47:08"
         },
         {
           "title": "CLI Manager",
