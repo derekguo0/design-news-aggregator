@@ -1,26 +1,35 @@
 {
   "date": "2025-12-18T00:00:00",
-  "total_items": 63,
+  "total_items": 64,
   "sources": [
-    "Smashing Magazine",
     "NN/g (Nielsen Norman Group)",
-    "Intercom Blog",
-    "CSS-Tricks",
-    "UX Design CC",
     "Design Milk",
+    "Smashing Magazine",
+    "UX Design CC",
     "Awwwards",
     "Product Hunt",
+    "CSS-Tricks",
     "优设网",
-    "Sidebar",
     "A List Apart",
-    "UX Planet"
+    "UX Planet",
+    "Intercom Blog",
+    "Sidebar"
   ],
-  "generated_at": "2025-12-18T01:53:55.129027",
+  "generated_at": "2025-12-18T12:52:00.983679",
   "categories": [
     {
       "category": "用户体验设计",
       "count": 18,
       "items": [
+        {
+          "title": "Keep making (AI will not save you)",
+          "url": "https://uxdesign.cc/keep-making-ai-will-not-save-you-402023b808fc?source=rss----138adf9c44c---4",
+          "author": "Chris R Becker",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Why growing your conceptual abilities via sketching and idea generation will help you compete with AI and against AI.Continue reading on UX Collective »",
+          "published_at": "2025-12-18T12:19:09"
+        },
         {
           "title": "3 color contrast mistakes designers still make",
           "url": "https://uxdesign.cc/3-color-contrast-mistakes-designers-still-make-68cc224735b3?source=rss----138adf9c44c---4",
@@ -103,15 +112,6 @@
           "published_at": "2025-12-15T12:22:51"
         },
         {
-          "title": "New navigation paradigms, ChatGPT talks too much, AI coding tools",
-          "url": "https://uxdesign.cc/new-navigation-paradigms-chatgpt-talks-too-much-ai-coding-tools-3502d92723d7?source=rss----138adf9c44c---4",
-          "author": "Fabricio Teixeira",
-          "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "Weekly curated resources for designers — thinkers and makers.“To navigate is to read the world in order to move through it, whether it means scanning a crowd to find a familiar face, deciphering the l...",
-          "published_at": "2025-12-15T12:21:48"
-        },
-        {
           "title": "ChatGPT Images for Product Designers",
           "url": "https://uxplanet.org/chatgpt-images-for-product-designers-86e241503f92?source=rss----819cc2aaeee0---4",
           "author": "Nick Babich",
@@ -187,17 +187,8 @@
     },
     {
       "category": "用户体验研究",
-      "count": 6,
+      "count": 5,
       "items": [
-        {
-          "title": "Explainable AI in Chat Interfaces",
-          "url": "https://www.nngroup.com/articles/explainable-ai/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
         {
           "title": "Top 10 UX Articles of 2025",
           "url": "https://www.nngroup.com/articles/top-articles-2025/",
@@ -382,6 +373,15 @@
           "published_at": null
         },
         {
+          "title": "Lusano",
+          "url": "https://www.awwwards.com/sites/lusano",
+          "author": "CUSP",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Obys' Design Books",
           "url": "https://www.awwwards.com/sites/obys-design-books",
           "author": "Obys Agency",
@@ -425,57 +425,66 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Seventeen",
-          "url": "https://www.awwwards.com/sites/seventeen",
-          "author": "Malvah",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 6,
       "items": [
         {
-          "title": "Kraa 1.0",
-          "url": "https://www.producthunt.com/products/kraa",
-          "author": "Lev Miseri",
+          "title": "LightBuddy",
+          "url": "https://www.producthunt.com/products/lightbuddy",
+          "author": "Chris Messina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The writing app for everythingDiscussion|Link",
-          "published_at": "2025-12-16T17:44:50"
+          "summary": "Look better on video calls using the screen you already haveDiscussion|Link",
+          "published_at": "2025-12-17T23:34:14"
         },
         {
-          "title": "ChatGPT Images",
-          "url": "https://www.producthunt.com/products/openai",
-          "author": "Zac Zuo",
+          "title": "Brill",
+          "url": "https://www.producthunt.com/products/brill",
+          "author": "Addison Schultz",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Powered by GPT Image 1.5: Faster, smarter, preciseDiscussion|Link",
-          "published_at": "2025-12-17T01:48:35"
+          "summary": "Language at your fingertipsDiscussion|Link",
+          "published_at": "2025-12-17T13:03:07"
         },
         {
-          "title": "Wan 2.6",
-          "url": "https://www.producthunt.com/products/wan-2-2",
-          "author": "Ankit Sharma",
+          "title": "Shadow",
+          "url": "https://www.producthunt.com/products/shadow-4",
+          "author": "Ben Lang",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The next era of multimodal AI for creators is hereDiscussion|Link",
-          "published_at": "2025-12-16T15:29:28"
+          "summary": "AI that sees, listens, and understands every meetingDiscussion|Link",
+          "published_at": "2025-12-15T06:05:01"
         },
         {
-          "title": "Picser 2.0",
-          "url": "https://www.producthunt.com/products/picser-2",
-          "author": "Eric Cai",
+          "title": "Image Object Removal API",
+          "url": "https://www.producthunt.com/products/replicate-2",
+          "author": "Bikash Pokharel",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Native macOS image viewer with tags & slideshowDiscussion|Link",
-          "published_at": "2025-12-17T03:32:12"
+          "summary": "Remove unwanted objects from images in secondsDiscussion|Link",
+          "published_at": "2025-12-17T18:02:19"
+        },
+        {
+          "title": "TimeTuna",
+          "url": "https://www.producthunt.com/products/bookva-ai",
+          "author": "Pavel Kucherbaev",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "If Calendly had gorgeous video backgroundsDiscussion|Link",
+          "published_at": "2025-12-17T11:12:26"
+        },
+        {
+          "title": "Voice Mate - AI powered Voicemail",
+          "url": "https://www.producthunt.com/products/voice-mate-ai-powered",
+          "author": "Peter van Doorn",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Missed calls answered, summarized, and delivered instantlyDiscussion|Link",
+          "published_at": "2025-12-17T20:15:08"
         }
       ]
     },
@@ -544,49 +553,49 @@
       "count": 5,
       "items": [
         {
-          "title": "What’s going on here, with this human?",
-          "url": "https://grahamduncan.blog/whats-going-on-here/",
+          "title": "Ideas aren’t getting harder to find",
+          "url": "https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Recommendations about candidate selection based on thousands of assessments and a somewhat obsessive interest in the topic.",
-          "published_at": "2025-12-17T12:40:56"
+          "summary": "For half a decade we’ve been worrying that ideas are getting harder to find. In fact, they might just be harder to sell.",
+          "published_at": "2025-12-18T12:34:41"
         },
         {
-          "title": "Merry Christmas, America",
-          "url": "https://merrychristmas.gov/",
+          "title": "Billionaire migration: an interactive map",
+          "url": "https://wesleystubenbord.com/viz/billionaire-migration-map/migration-map.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Celebrate Christmas together with a look at America’s rich history of design.",
-          "published_at": "2025-12-17T12:39:44"
+          "summary": "An interactive map of city-level migration flows for 3,146 billionaires from birth to most recent residence.",
+          "published_at": "2025-12-18T12:33:51"
         },
         {
-          "title": "Pinterest predicts: top trends for 2026",
-          "url": "https://business.pinterest.com/en-gb/pinterest-predicts/",
+          "title": "Case study: Figma Sites",
+          "url": "https://play.studio/work/figma-sites",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Emerging trends across all categories… and unlimited possibilities for using them.",
-          "published_at": "2025-12-17T12:38:55"
+          "summary": "Figma came to Play Studio to help debut one of their latest products, Figma Sites, including a highly visual template gallery.",
+          "published_at": "2025-12-18T12:32:23"
         },
         {
-          "title": "Notable book covers of 2025",
-          "url": "https://www.casualoptimist.com/blog/2025/12/10/notable-book-covers-of-2025/",
+          "title": "Explainable AI in chat interfaces",
+          "url": "https://www.nngroup.com/articles/explainable-ai/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Trends and highlights from this year's most unique book covers.",
-          "published_at": "2025-12-17T12:37:51"
+          "summary": "Explanation text in AI chat interfaces is intended to help users understand AI outputs, but current practices fall short of that goal.",
+          "published_at": "2025-12-18T12:31:31"
         },
         {
-          "title": "How musicals use motifs to tell stories",
-          "url": "https://pudding.cool/2025/12/motifs/",
+          "title": "When machines pay machines",
+          "url": "https://www.msuiche.com/posts/when-machines-pay-machines-the-economics-of-agentic-ai/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Explore motifs from Hamilton, Wicked, and Les Misérables.",
-          "published_at": "2025-12-17T12:36:50"
+          "summary": "The internet was built with a missing piece. Three decades later, that vision is finally materializing.",
+          "published_at": "2025-12-18T12:31:08"
         }
       ]
     },
