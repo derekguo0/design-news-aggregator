@@ -1,26 +1,35 @@
 {
   "date": "2025-12-19T00:00:00",
-  "total_items": 59,
+  "total_items": 63,
   "sources": [
-    "Intercom Blog",
-    "UX Planet",
-    "A List Apart",
+    "Product Hunt",
     "优设网",
+    "UX Planet",
     "UX Design CC",
-    "Smashing Magazine",
-    "Awwwards",
-    "CSS-Tricks",
     "NN/g (Nielsen Norman Group)",
     "Design Milk",
-    "Product Hunt",
-    "Sidebar"
+    "Smashing Magazine",
+    "Sidebar",
+    "Intercom Blog",
+    "Awwwards",
+    "A List Apart",
+    "CSS-Tricks"
   ],
-  "generated_at": "2025-12-19T01:57:03.327074",
+  "generated_at": "2025-12-19T12:50:12.252281",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 14,
+      "count": 15,
       "items": [
+        {
+          "title": "Why AI is exposing design’s craft crisis",
+          "url": "https://uxdesign.cc/why-ai-is-exposing-designs-craft-crisis-434bcb652848?source=rss----138adf9c44c---4",
+          "author": "Dolphia",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "AI didn’t create the craft crisis in design — it exposed the technical literacy gap that’s been eroding strategic influence for over a decade.Dylan Field at Figma 2024 Config (Source:Figma blog)AtFigm...",
+          "published_at": "2025-12-19T12:14:40"
+        },
         {
           "title": "Designing the 3 layers of AI context",
           "url": "https://uxdesign.cc/designing-the-3-layers-of-ai-context-9a35a5f6e63a?source=rss----138adf9c44c---4",
@@ -151,8 +160,26 @@
     },
     {
       "category": "用户体验研究",
-      "count": 5,
+      "count": 6,
       "items": [
+        {
+          "title": "Web UX: Study Guide",
+          "url": "https://www.nngroup.com/articles/web-ux-study-guide/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Explainable AI in Chat Interfaces",
+          "url": "https://www.nngroup.com/articles/explainable-ai/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
         {
           "title": "Top 10 UX Articles of 2025",
           "url": "https://www.nngroup.com/articles/top-articles-2025/",
@@ -183,15 +210,6 @@
         {
           "title": "Designing Effective Contextual Menus: 10 Guidelines",
           "url": "https://www.nngroup.com/articles/contextual-menus-guidelines/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Get the Responses You Want: Designing Diary Study Entries",
-          "url": "https://www.nngroup.com/articles/diary-study-entries/",
           "author": null,
           "category": "用户体验研究",
           "source": "NN/g (Nielsen Norman Group)",
@@ -271,8 +289,17 @@
     },
     {
       "category": "网页设计",
-      "count": 13,
+      "count": 15,
       "items": [
+        {
+          "title": "How To Measure The Impact Of Features",
+          "url": "https://smashingmagazine.com/2025/12/how-measure-impact-features-tars/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "Meet TARS — a simple, repeatable, and meaningful UX metric designed specifically to track the performance of product features. Upcoming part of theMeasure UX & Design Impact(use the code 🎟IMPACTto sav...",
+          "published_at": "2025-12-19T10:00:00"
+        },
         {
           "title": "Smashing Animations Part 7: Recreating Toon Text With CSS And SVG",
           "url": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
@@ -337,6 +364,15 @@
           "published_at": null
         },
         {
+          "title": "Motto XX",
+          "url": "https://www.awwwards.com/sites/motto-xx",
+          "author": "Motto",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Lusano",
           "url": "https://www.awwwards.com/sites/lusano",
           "author": "CUSP",
@@ -397,58 +433,58 @@
       "count": 6,
       "items": [
         {
-          "title": "Pill Mom",
-          "url": "https://www.producthunt.com/products/pill-mom",
-          "author": "Ben LeBlond",
+          "title": "Evidence",
+          "url": "https://www.producthunt.com/products/evidence",
+          "author": "Sean Hughes",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Never miss a dose againDiscussion|Link",
-          "published_at": "2025-12-18T04:08:12"
+          "summary": "A modern dev workflow for your most important data productsDiscussion|Link",
+          "published_at": "2025-12-19T03:47:26"
         },
         {
-          "title": "Sip Savvy",
-          "url": "https://www.producthunt.com/products/sip-savvy",
-          "author": "Taylor Robinette",
+          "title": "EduRev (Education Revolution)",
+          "url": "https://www.producthunt.com/products/edurev-education-revolution",
+          "author": "Hardik Dhamija",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Find Hidden Gems on Any Wine ListDiscussion|Link",
-          "published_at": "2025-12-17T07:28:18"
+          "summary": "Netflix for EducationDiscussion|Link",
+          "published_at": "2025-12-18T15:19:48"
         },
         {
-          "title": "Monocle 3.0 for macOS",
-          "url": "https://www.producthunt.com/products/monocle-clear-workspace-clear-mind",
-          "author": "Dominik Kandravý",
+          "title": "GitStory",
+          "url": "https://www.producthunt.com/products/gitstory-2",
+          "author": "Vishal",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Noise-cancelling for your  screen now with cursor shakeDiscussion|Link",
-          "published_at": "2025-12-17T16:39:03"
+          "summary": "Turn your GitHub commits into a cinematic storyDiscussion|Link",
+          "published_at": "2025-12-18T09:50:07"
         },
         {
-          "title": "Voice Mate - AI powered Voicemail",
-          "url": "https://www.producthunt.com/products/voice-mate-ai-powered",
-          "author": "Peter van Doorn",
+          "title": "SAM Audio",
+          "url": "https://www.producthunt.com/products/meta",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Missed calls answered, summarized, and delivered instantlyDiscussion|Link",
-          "published_at": "2025-12-17T20:15:08"
+          "summary": "Segment any sound with text, visual, or time promptsDiscussion|Link",
+          "published_at": "2025-12-19T06:31:45"
         },
         {
-          "title": "LightBuddy",
-          "url": "https://www.producthunt.com/products/lightbuddy",
-          "author": "Chris Messina",
+          "title": "Vurge",
+          "url": "https://www.producthunt.com/products/vurge-ai-data-extraction",
+          "author": "rahul",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Look better on video calls using the screen you already haveDiscussion|Link",
-          "published_at": "2025-12-17T23:34:14"
+          "summary": "It's like Clay but in Google SheetsDiscussion|Link",
+          "published_at": "2025-12-18T18:54:54"
         },
         {
-          "title": "Image Object Removal API",
-          "url": "https://www.producthunt.com/products/replicate-2",
-          "author": "Bikash Pokharel",
+          "title": "LocaleX",
+          "url": "https://www.producthunt.com/products/localex-app-localizer",
+          "author": "rıza erdi karakus",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Remove unwanted objects from images in secondsDiscussion|Link",
-          "published_at": "2025-12-17T18:02:19"
+          "summary": "Localize your apps with AI-powered auto translationDiscussion|Link",
+          "published_at": "2025-12-18T14:24:47"
         }
       ]
     },
@@ -517,49 +553,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Ideas aren’t getting harder to find",
-          "url": "https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find",
+          "title": "The art of vibe design",
+          "url": "https://www.ivan.codes/blog/the-art-of-vibe-design",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "For half a decade we’ve been worrying that ideas are getting harder to find. In fact, they might just be harder to sell.",
-          "published_at": "2025-12-18T12:34:41"
+          "summary": "The distance between \"I want this\" and \"this exists\" was measured in weeks, budgets, and expertise you didn't have.",
+          "published_at": "2025-12-19T12:26:32"
         },
         {
-          "title": "Billionaire migration: an interactive map",
-          "url": "https://wesleystubenbord.com/viz/billionaire-migration-map/migration-map.html",
+          "title": "Case study: Hogwarts rebrand",
+          "url": "https://clarelewisillustration.co.uk/visual-branding/hogwarts-school-of-witchcraft-wizardry/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "An interactive map of city-level migration flows for 3,146 billionaires from birth to most recent residence.",
-          "published_at": "2025-12-18T12:33:51"
+          "summary": "What would it look like if Hogwarts were reimagined for a new generation?",
+          "published_at": "2025-12-19T12:25:31"
         },
         {
-          "title": "Case study: Figma Sites",
-          "url": "https://play.studio/work/figma-sites",
+          "title": "Prototypes are the new PRDs",
+          "url": "https://www.figma.com/blog/prototypes-are-the-new-prds/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Figma came to Play Studio to help debut one of their latest products, Figma Sites, including a highly visual template gallery.",
-          "published_at": "2025-12-18T12:32:23"
+          "summary": "Inside Figma Make, product managers are pressure-testing assumptions early, building momentum, and rallying teams around something tangible.",
+          "published_at": "2025-12-19T12:24:41"
         },
         {
-          "title": "Explainable AI in chat interfaces",
-          "url": "https://www.nngroup.com/articles/explainable-ai/",
+          "title": "How to win titular metagames",
+          "url": "https://taylor.town/how-to-title",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Explanation text in AI chat interfaces is intended to help users understand AI outputs, but current practices fall short of that goal.",
-          "published_at": "2025-12-18T12:31:31"
+          "summary": "Good titles permit readers to quickly estimate the relative value of articles, essays, videos, etc. Everybody wins when titles are accurate.",
+          "published_at": "2025-12-19T12:24:08"
         },
         {
-          "title": "When machines pay machines",
-          "url": "https://www.msuiche.com/posts/when-machines-pay-machines-the-economics-of-agentic-ai/",
+          "title": "A little bit uncomfortable",
+          "url": "https://thekernel.news/articles/a-little-bit-uncomfortable/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The internet was built with a missing piece. Three decades later, that vision is finally materializing.",
-          "published_at": "2025-12-18T12:31:08"
+          "summary": "When I realized there was no real way to move on in that career I loved without having to present my work to audiences.",
+          "published_at": "2025-12-19T12:23:18"
         }
       ]
     },
