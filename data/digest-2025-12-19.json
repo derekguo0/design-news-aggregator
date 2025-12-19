@@ -2,20 +2,20 @@
   "date": "2025-12-19T00:00:00",
   "total_items": 59,
   "sources": [
-    "Smashing Magazine",
-    "NN/g (Nielsen Norman Group)",
-    "A List Apart",
-    "Product Hunt",
-    "UX Planet",
-    "Awwwards",
-    "优设网",
-    "Sidebar",
     "Intercom Blog",
-    "Design Milk",
+    "UX Planet",
+    "A List Apart",
+    "优设网",
+    "UX Design CC",
+    "Smashing Magazine",
+    "Awwwards",
     "CSS-Tricks",
-    "UX Design CC"
+    "NN/g (Nielsen Norman Group)",
+    "Design Milk",
+    "Product Hunt",
+    "Sidebar"
   ],
-  "generated_at": "2025-12-19T01:44:33.168086",
+  "generated_at": "2025-12-19T01:57:03.327074",
   "categories": [
     {
       "category": "用户体验设计",
@@ -415,13 +415,22 @@
           "published_at": "2025-12-17T07:28:18"
         },
         {
-          "title": "TimeTuna",
-          "url": "https://www.producthunt.com/products/bookva-ai",
-          "author": "Pavel Kucherbaev",
+          "title": "Monocle 3.0 for macOS",
+          "url": "https://www.producthunt.com/products/monocle-clear-workspace-clear-mind",
+          "author": "Dominik Kandravý",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "If Calendly had gorgeous video backgroundsDiscussion|Link",
-          "published_at": "2025-12-17T11:12:26"
+          "summary": "Noise-cancelling for your  screen now with cursor shakeDiscussion|Link",
+          "published_at": "2025-12-17T16:39:03"
+        },
+        {
+          "title": "Voice Mate - AI powered Voicemail",
+          "url": "https://www.producthunt.com/products/voice-mate-ai-powered",
+          "author": "Peter van Doorn",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Missed calls answered, summarized, and delivered instantlyDiscussion|Link",
+          "published_at": "2025-12-17T20:15:08"
         },
         {
           "title": "LightBuddy",
@@ -433,22 +442,13 @@
           "published_at": "2025-12-17T23:34:14"
         },
         {
-          "title": "Netlify AI Gateway",
-          "url": "https://www.producthunt.com/products/netlify",
-          "author": "Gehrig",
+          "title": "Image Object Removal API",
+          "url": "https://www.producthunt.com/products/replicate-2",
+          "author": "Bikash Pokharel",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Use AI models without managing keys or billingDiscussion|Link",
-          "published_at": "2025-12-17T17:53:33"
-        },
-        {
-          "title": "Voice Mate - AI powered Voicemail",
-          "url": "https://www.producthunt.com/products/voice-mate-ai-powered",
-          "author": "Peter van Doorn",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Missed calls answered, summarized, and delivered instantlyDiscussion|Link",
-          "published_at": "2025-12-17T20:15:08"
+          "summary": "Remove unwanted objects from images in secondsDiscussion|Link",
+          "published_at": "2025-12-17T18:02:19"
         }
       ]
     },
