@@ -2,24 +2,33 @@
   "date": "2025-12-20T00:00:00",
   "total_items": 53,
   "sources": [
-    "优设网",
-    "CSS-Tricks",
-    "A List Apart",
     "Sidebar",
-    "NN/g (Nielsen Norman Group)",
-    "UX Planet",
+    "Product Hunt",
     "Awwwards",
     "Design Milk",
-    "Product Hunt",
+    "CSS-Tricks",
+    "A List Apart",
+    "NN/g (Nielsen Norman Group)",
     "UX Design CC",
-    "Smashing Magazine"
+    "Smashing Magazine",
+    "UX Planet",
+    "优设网"
   ],
-  "generated_at": "2025-12-20T01:51:02.666664",
+  "generated_at": "2025-12-20T12:45:35.314361",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 7,
+      "count": 8,
       "items": [
+        {
+          "title": "The “normal” AI bubble",
+          "url": "https://uxdesign.cc/the-ordinary-ai-bubble-7b03d120d630?source=rss----138adf9c44c---4",
+          "author": "Neel Dozome",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The banal truth behind the brewing financial crisis in technologyContinue reading on UX Collective »",
+          "published_at": "2025-12-20T09:37:26"
+        },
         {
           "title": "Why AI is exposing design’s craft crisis",
           "url": "https://uxdesign.cc/why-ai-is-exposing-designs-craft-crisis-434bcb652848?source=rss----138adf9c44c---4",
@@ -282,6 +291,15 @@
           "published_at": null
         },
         {
+          "title": "The House of Wonders",
+          "url": "https://www.awwwards.com/sites/the-house-of-wonders",
+          "author": "makemepulse",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Motto XX",
           "url": "https://www.awwwards.com/sites/motto-xx",
           "author": "Motto",
@@ -334,66 +352,48 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Shopify Supply | Performance Pack",
-          "url": "https://www.awwwards.com/sites/shopify-supply-performance-pack",
-          "author": "Shopify Design",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "EduRev (Education Revolution)",
-          "url": "https://www.producthunt.com/products/edurev-education-revolution",
-          "author": "Hardik Dhamija",
+          "title": "NoteGPT",
+          "url": "https://www.producthunt.com/products/notegpt-com",
+          "author": "Paul Mit",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Netflix for EducationDiscussion|Link",
-          "published_at": "2025-12-18T15:19:48"
+          "summary": "Your summary AI note taker for meetings, videos & everythingDiscussion|Link",
+          "published_at": "2025-12-18T22:38:20"
         },
         {
-          "title": "Vurge",
-          "url": "https://www.producthunt.com/products/vurge-ai-data-extraction",
-          "author": "rahul",
+          "title": "cto bench",
+          "url": "https://www.producthunt.com/products/cto-new",
+          "author": "Michael Ludden",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "It's like Clay but in Google SheetsDiscussion|Link",
-          "published_at": "2025-12-18T18:54:54"
+          "summary": "The ground truth code agent benchmarkDiscussion|Link",
+          "published_at": "2025-12-19T17:16:42"
         },
         {
-          "title": "Quickleap",
-          "url": "https://www.producthunt.com/products/quickleap",
-          "author": "Dishant Sharma",
+          "title": "NOIZ AI",
+          "url": "https://www.producthunt.com/products/noiz-studio",
+          "author": "Chris Messina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Domain redirecting service without hassle.Discussion|Link",
-          "published_at": "2025-12-18T18:59:58"
+          "summary": "Use emoji to to voice season's greetings with emotionDiscussion|Link",
+          "published_at": "2025-12-17T11:50:50"
         },
         {
-          "title": "Evidence Embedded Analytics",
-          "url": "https://www.producthunt.com/products/evidence",
-          "author": "Sean Hughes",
+          "title": "VoiceNotes",
+          "url": "https://www.producthunt.com/products/voicenotes-2",
+          "author": "Pranav Pathak",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A modern dev workflow for your most important data productsDiscussion|Link",
-          "published_at": "2025-12-19T03:47:26"
-        },
-        {
-          "title": "SAM Audio",
-          "url": "https://www.producthunt.com/products/meta",
-          "author": "Zac Zuo",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Segment any sound with text, visual, or time promptsDiscussion|Link",
-          "published_at": "2025-12-19T06:31:45"
+          "summary": "One tap record with live transcription + automatic cleanupDiscussion|Link",
+          "published_at": "2025-12-18T09:13:28"
         }
       ]
     },
