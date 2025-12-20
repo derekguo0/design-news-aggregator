@@ -1,0 +1,545 @@
+{
+  "date": "2025-12-20T00:00:00",
+  "total_items": 53,
+  "sources": [
+    "优设网",
+    "CSS-Tricks",
+    "A List Apart",
+    "Sidebar",
+    "NN/g (Nielsen Norman Group)",
+    "UX Planet",
+    "Awwwards",
+    "Design Milk",
+    "Product Hunt",
+    "UX Design CC",
+    "Smashing Magazine"
+  ],
+  "generated_at": "2025-12-20T01:51:02.666664",
+  "categories": [
+    {
+      "category": "用户体验设计",
+      "count": 7,
+      "items": [
+        {
+          "title": "Why AI is exposing design’s craft crisis",
+          "url": "https://uxdesign.cc/why-ai-is-exposing-designs-craft-crisis-434bcb652848?source=rss----138adf9c44c---4",
+          "author": "Dolphia",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "AI didn’t create the craft crisis in design — it exposed the technical literacy gap that’s been eroding strategic influence for over a decade.Dylan Field at Figma 2024 Config (Source:Figma blog)AtFigm...",
+          "published_at": "2025-12-19T12:14:40"
+        },
+        {
+          "title": "Designing the 3 layers of AI context",
+          "url": "https://uxdesign.cc/designing-the-3-layers-of-ai-context-9a35a5f6e63a?source=rss----138adf9c44c---4",
+          "author": "Sen Lin",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "A UX framework for structuring library, conversation, and memory in LLM interfacesContinue reading on UX Collective »",
+          "published_at": "2025-12-18T21:20:21"
+        },
+        {
+          "title": "Keep making (AI will not save you)",
+          "url": "https://uxdesign.cc/keep-making-ai-will-not-save-you-402023b808fc?source=rss----138adf9c44c---4",
+          "author": "Chris R Becker",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Why growing your conceptual abilities via sketching and idea generation will help you compete with AI and against AI.Continue reading on UX Collective »",
+          "published_at": "2025-12-18T12:19:09"
+        },
+        {
+          "title": "3 color contrast mistakes designers still make",
+          "url": "https://uxdesign.cc/3-color-contrast-mistakes-designers-still-make-68cc224735b3?source=rss----138adf9c44c---4",
+          "author": "Allie Paschal",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "WCAG color contrast is more than just textMost designers know the basics of web accessibility and color contrast. We’ve memorized that “normal text” (24 CSS pixels and below) needs to meet a 4.5:1 con...",
+          "published_at": "2025-12-17T12:14:03"
+        },
+        {
+          "title": "You’re Using ChatGPT 5 Wrong",
+          "url": "https://uxplanet.org/youre-using-chatgpt-5-wrong-ebf0e4f80255?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "3 Practical Ways to Get the Most Out of ChatGPT 5.2Continue reading on UX Planet »",
+          "published_at": "2025-12-18T14:29:45"
+        },
+        {
+          "title": "ChatGPT Images for Product Designers",
+          "url": "https://uxplanet.org/chatgpt-images-for-product-designers-86e241503f92?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "3 Great Use-Cases for Product PeopleContinue reading on UX Planet »",
+          "published_at": "2025-12-17T17:54:38"
+        },
+        {
+          "title": "Product Research with AI",
+          "url": "https://uxplanet.org/product-research-with-ai-108a1141729c?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Many people in the product community, including myself, actively share their experiences using AI tools to build products. However, far…Continue reading on UX Planet »",
+          "published_at": "2025-12-17T13:31:17"
+        }
+      ]
+    },
+    {
+      "category": "用户体验研究",
+      "count": 6,
+      "items": [
+        {
+          "title": "Web UX: Study Guide",
+          "url": "https://www.nngroup.com/articles/web-ux-study-guide/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Explainable AI in Chat Interfaces",
+          "url": "https://www.nngroup.com/articles/explainable-ai/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Top 10 UX Articles of 2025",
+          "url": "https://www.nngroup.com/articles/top-articles-2025/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Prompt to Design Interfaces: Why Vague Prompts Fail and How to Fix Them",
+          "url": "https://www.nngroup.com/articles/vague-prototyping/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "What Users Value Most in Smart Homes and How to Design for It",
+          "url": "https://www.nngroup.com/articles/smart-homes-user-value/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Designing Effective Contextual Menus: 10 Guidelines",
+          "url": "https://www.nngroup.com/articles/contextual-menus-guidelines/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        }
+      ]
+    },
+    {
+      "category": "产品设计",
+      "count": 6,
+      "items": [
+        {
+          "title": "Top 10 Friday Five Posts of 2025",
+          "url": "https://design-milk.com/top-10-friday-five-posts-of-2025/",
+          "author": "Joseph Sgambati III",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Design Milk's top Friday Five posts of 2025 showcase a global mix of artists, architects, and makers with their inspiring, contemporary creativity.",
+          "published_at": "2025-12-19T16:00:10"
+        },
+        {
+          "title": "The Penguin x MOEBE Book Stand Helps You Keep Your Place",
+          "url": "https://design-milk.com/the-penguin-x-moebe-book-stand-helps-you-keep-your-place/",
+          "author": "Aria Lee",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Keep your place and keep your peace with the Penguin x MOEBE Book Stand, available in four colors as a bookend, book stand, and bookmark.",
+          "published_at": "2025-12-19T15:00:44"
+        },
+        {
+          "title": "F5: Brent Buck on Beach Glass, a Stone Tool, Charred Wood + More",
+          "url": "https://design-milk.com/f5-brent-buck-on-beach-glass-a-stone-tool-charred-wood-more/",
+          "author": "Anna Zappia",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Brooklyn-based architect Brent Buck shares his love of beach glass, charred wood, a stone tool, and more, in this Friday Five.",
+          "published_at": "2025-12-19T14:00:19"
+        },
+        {
+          "title": "Top 10 Commercial Posts of 2025",
+          "url": "https://design-milk.com/top-10-commercial-posts-of-2025/",
+          "author": "Vy Yang",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "From a tiny coffee shop to a 60,000-seat stadium, Design Milk's best commercial posts of 2025 showed just how expansive great design can be.",
+          "published_at": "2025-12-18T17:00:26"
+        },
+        {
+          "title": "Kohler Unveils New Pearlized Finish in Harry Nuriev Installation",
+          "url": "https://design-milk.com/kohler-unveils-new-pearlized-finish-in-harry-nuriev-installation/",
+          "author": "Aria Lee",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Kohler debuts its Pearlized finish in a Harry Nuriev installation, transforming ceramic surfaces into a luminous, immersive experience.",
+          "published_at": "2025-12-18T16:00:03"
+        },
+        {
+          "title": "Take 5: Refractions in Glass, Illusions in Fiber, & Bench for Books",
+          "url": "https://design-milk.com/take-5-refractions-in-glass-illusions-in-fiber-bench-for-books/",
+          "author": "Aria Lee",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Senior Editor Aria Lee returns to Take 5 with a holographic pillow, a bench that holds books, sprayed paper pulp lamps, and more.",
+          "published_at": "2025-12-18T15:00:20"
+        }
+      ]
+    },
+    {
+      "category": "网页设计",
+      "count": 15,
+      "items": [
+        {
+          "title": "How To Measure The Impact Of Features",
+          "url": "https://smashingmagazine.com/2025/12/how-measure-impact-features-tars/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "Meet TARS — a simple, repeatable, and meaningful UX metric designed specifically to track the performance of product features. Upcoming part of theMeasure UX & Design Impact(use the code 🎟IMPACTto sav...",
+          "published_at": "2025-12-19T10:00:00"
+        },
+        {
+          "title": "Smashing Animations Part 7: Recreating Toon Text With CSS And SVG",
+          "url": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
+          "author": "hello@smashingmagazine.com (Andy Clarke)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles](https://stuffandnonsense.co.uk/toon-text/index.ht...",
+          "published_at": "2025-12-17T10:00:00"
+        },
+        {
+          "title": "Design for Amiability: Lessons from Vienna",
+          "url": "https://alistapart.com/article/design-for-amiability-lessons-from-vienna/",
+          "author": "by Mark Bernstein",
+          "category": "网页设计",
+          "source": "A List Apart",
+          "summary": "Today’s web is not always an amiable place. Sites greet you with a popover that demands assent to their cookie policy, and leave you with Taboola ads promising “One Weird Trick!” to cure your ailments...",
+          "published_at": null
+        },
+        {
+          "title": "Design Dialects: Breaking the Rules, Not the System",
+          "url": "https://alistapart.com/article/design-dialects-breaking-the-rules-not-the-system/",
+          "author": "by Michel Ferreira",
+          "category": "网页设计",
+          "source": "A List Apart",
+          "summary": "\"Language is not merely a set of unrelated sounds, clauses, rules, and meanings; it is a totally coherent system bound to context and behavior.\"— Kenneth L. PikeThe web has accents. So should our desi...",
+          "published_at": null
+        },
+        {
+          "title": "An Holistic Framework for Shared Design Leadership",
+          "url": "https://alistapart.com/article/an-holistic-framework-for-shared-design-leadership/",
+          "author": "by Michel Ferreira",
+          "category": "网页设计",
+          "source": "A List Apart",
+          "summary": "Picture this: You’re in a meeting room at your tech company, and two people are having what looks like the same conversation about the same design problem. One is talking about whether the team has th...",
+          "published_at": null
+        },
+        {
+          "title": "From Beta to Bedrock: Build Products that Stick.",
+          "url": "https://alistapart.com/article/from-beta-to-bedrock-build-products-that-stick/",
+          "author": "by Liam Nugent",
+          "category": "网页设计",
+          "source": "A List Apart",
+          "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
+          "published_at": null
+        },
+        {
+          "title": "User Research Is Storytelling",
+          "url": "https://alistapart.com/article/user-research-is-storytelling/",
+          "author": "by Gerry Duffy",
+          "category": "网页设计",
+          "source": "A List Apart",
+          "summary": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things t...",
+          "published_at": null
+        },
+        {
+          "title": "To Ignite a Personalization Practice, Run this Prepersonalization Workshop",
+          "url": "https://alistapart.com/article/prepersonalization-workshop/",
+          "author": "by Colin Eagan, Jeffrey MacIntyre",
+          "category": "网页设计",
+          "source": "A List Apart",
+          "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
+          "published_at": null
+        },
+        {
+          "title": "Motto XX",
+          "url": "https://www.awwwards.com/sites/motto-xx",
+          "author": "Motto",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Lusano",
+          "url": "https://www.awwwards.com/sites/lusano",
+          "author": "CUSP",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Obys' Design Books",
+          "url": "https://www.awwwards.com/sites/obys-design-books",
+          "author": "Obys Agency",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Freshman",
+          "url": "https://www.awwwards.com/sites/freshman",
+          "author": "DashDigital",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "KOKUYO",
+          "url": "https://www.awwwards.com/sites/kokuyo",
+          "author": "mount inc.",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "MAX MILKIN Portfolio",
+          "url": "https://www.awwwards.com/sites/max-milkin-portfolio",
+          "author": "Olha Lazarieva",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Shopify Supply | Performance Pack",
+          "url": "https://www.awwwards.com/sites/shopify-supply-performance-pack",
+          "author": "Shopify Design",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        }
+      ]
+    },
+    {
+      "category": "产品发现",
+      "count": 5,
+      "items": [
+        {
+          "title": "EduRev (Education Revolution)",
+          "url": "https://www.producthunt.com/products/edurev-education-revolution",
+          "author": "Hardik Dhamija",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Netflix for EducationDiscussion|Link",
+          "published_at": "2025-12-18T15:19:48"
+        },
+        {
+          "title": "Vurge",
+          "url": "https://www.producthunt.com/products/vurge-ai-data-extraction",
+          "author": "rahul",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "It's like Clay but in Google SheetsDiscussion|Link",
+          "published_at": "2025-12-18T18:54:54"
+        },
+        {
+          "title": "Quickleap",
+          "url": "https://www.producthunt.com/products/quickleap",
+          "author": "Dishant Sharma",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Domain redirecting service without hassle.Discussion|Link",
+          "published_at": "2025-12-18T18:59:58"
+        },
+        {
+          "title": "Evidence Embedded Analytics",
+          "url": "https://www.producthunt.com/products/evidence",
+          "author": "Sean Hughes",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "A modern dev workflow for your most important data productsDiscussion|Link",
+          "published_at": "2025-12-19T03:47:26"
+        },
+        {
+          "title": "SAM Audio",
+          "url": "https://www.producthunt.com/products/meta",
+          "author": "Zac Zuo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Segment any sound with text, visual, or time promptsDiscussion|Link",
+          "published_at": "2025-12-19T06:31:45"
+        }
+      ]
+    },
+    {
+      "category": "设计教程",
+      "count": 6,
+      "items": [
+        {
+          "title": "如何通过行为设计模型提升用户留存？来看这篇超全总结！",
+          "url": "https://www.uisdc.com/fogg-behavior-model-2",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "封神还是踩坑？设计师实测 Nano/即梦/豆包3个常用生图平台",
+          "url": "https://www.uisdc.com/ai-art-tools",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "实测阿里万相 2.6：一张图生成15秒分镜大片，还有角色扮演功能！",
+          "url": "https://www.uisdc.com/wanxiang-2-6-review",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "超多案例！深度解析对齐与信息层级2个知识点",
+          "url": "https://www.uisdc.com/mastering-layout-logic",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "想找高级感？试试这款自带贵族基因的专业衬线体",
+          "url": "https://www.uisdc.com/patrizia",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "只需3步，你的微信聊天列表瞬间变成双语学习素材",
+          "url": "https://www.uisdc.com/hunter/0221653817.html",
+          "author": "龙爪槐守望者",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        }
+      ]
+    },
+    {
+      "category": "设计资讯",
+      "count": 5,
+      "items": [
+        {
+          "title": "The art of vibe design",
+          "url": "https://www.ivan.codes/blog/the-art-of-vibe-design",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "The distance between \"I want this\" and \"this exists\" was measured in weeks, budgets, and expertise you didn't have.",
+          "published_at": "2025-12-19T12:26:32"
+        },
+        {
+          "title": "Case study: Hogwarts rebrand",
+          "url": "https://clarelewisillustration.co.uk/visual-branding/hogwarts-school-of-witchcraft-wizardry/",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "What would it look like if Hogwarts were reimagined for a new generation?",
+          "published_at": "2025-12-19T12:25:31"
+        },
+        {
+          "title": "Prototypes are the new PRDs",
+          "url": "https://www.figma.com/blog/prototypes-are-the-new-prds/",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "Inside Figma Make, product managers are pressure-testing assumptions early, building momentum, and rallying teams around something tangible.",
+          "published_at": "2025-12-19T12:24:41"
+        },
+        {
+          "title": "How to win titular metagames",
+          "url": "https://taylor.town/how-to-title",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "Good titles permit readers to quickly estimate the relative value of articles, essays, videos, etc. Everybody wins when titles are accurate.",
+          "published_at": "2025-12-19T12:24:08"
+        },
+        {
+          "title": "A little bit uncomfortable",
+          "url": "https://thekernel.news/articles/a-little-bit-uncomfortable/",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "When I realized there was no real way to move on in that career I loved without having to present my work to audiences.",
+          "published_at": "2025-12-19T12:23:18"
+        }
+      ]
+    },
+    {
+      "category": "前端设计",
+      "count": 3,
+      "items": [
+        {
+          "title": "Masonry Layout is Now grid-lanes",
+          "url": "https://css-tricks.com/masonry-layout-is-now-grid-lanes/",
+          "author": "Sunkanmi Fafowora",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "It's settled! A new CSSdisplayproperty keyword calledgrid-laneswill trigger a masonry layout mode.Masonry Layout is Now grid-lanesoriginally published onCSS-Tricks, which is part of theDigitalOceanfam...",
+          "published_at": "2025-12-19T16:08:28"
+        },
+        {
+          "title": "Search CSS-Tricks Raycast Extension",
+          "url": "https://css-tricks.com/search-css-tricks-raycast-extension/",
+          "author": "Geoff Graham",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "Jelte Lagendijk built a Raycast extension for searching CSS-Tricks articles where you simply type and a get a solid set of real-time results.Search CSS-Tricks Raycast Extensionoriginally published onC...",
+          "published_at": "2025-12-18T15:34:23"
+        },
+        {
+          "title": "Responsive List of Avatars Using Modern CSS (Part 2)",
+          "url": "https://css-tricks.com/responsive-list-of-avatars-using-modern-css-part-2/",
+          "author": "Temani Afif",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "In this article, we follow up the work we did to create responsive rows of circular images in a previous article by arranging the images around a circle with a clean hover effect.Responsive List of Av...",
+          "published_at": "2025-12-17T15:21:34"
+        }
+      ]
+    }
+  ]
+}
