@@ -2,24 +2,42 @@
   "date": "2025-12-21T00:00:00",
   "total_items": 48,
   "sources": [
-    "Design Milk",
+    "Product Hunt",
     "CSS-Tricks",
+    "Awwwards",
+    "Sidebar",
+    "A List Apart",
+    "Design Milk",
     "UX Design CC",
-    "Smashing Magazine",
-    "NN/g (Nielsen Norman Group)",
     "优设网",
     "UX Planet",
-    "A List Apart",
-    "Sidebar",
-    "Awwwards",
-    "Product Hunt"
+    "NN/g (Nielsen Norman Group)",
+    "Smashing Magazine"
   ],
-  "generated_at": "2025-12-21T02:03:51.190334",
+  "generated_at": "2025-12-21T12:46:39.590512",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 5,
+      "count": 7,
       "items": [
+        {
+          "title": "Technology as a design material: Designing with sensors",
+          "url": "https://uxdesign.cc/technology-as-a-design-material-designing-with-sensors-cd56e3c9dfb9?source=rss----138adf9c44c---4",
+          "author": "Filipe Nzongo",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Making invisible visible through designContinue reading on UX Collective »",
+          "published_at": "2025-12-21T12:24:14"
+        },
+        {
+          "title": "Error messages — a guide for people who never write",
+          "url": "https://uxdesign.cc/error-messages-a-guide-for-people-who-never-write-28206fcbdf4d?source=rss----138adf9c44c---4",
+          "author": "Rita Kind-Envy",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Meet the P.A.I.N. way to write good errors.Continue reading on UX Collective »",
+          "published_at": "2025-12-21T12:22:35"
+        },
         {
           "title": "The “normal” AI bubble",
           "url": "https://uxdesign.cc/the-ordinary-ai-bubble-7b03d120d630?source=rss----138adf9c44c---4",
@@ -255,6 +273,15 @@
           "published_at": null
         },
         {
+          "title": "12 Mil",
+          "url": "https://www.awwwards.com/sites/12-mil",
+          "author": "Contra Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "The House of Wonders",
           "url": "https://www.awwwards.com/sites/the-house-of-wonders",
           "author": "makemepulse",
@@ -307,30 +334,21 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "MAX MILKIN Portfolio",
-          "url": "https://www.awwwards.com/sites/max-milkin-portfolio",
-          "author": "Olha Lazarieva",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 2,
       "items": [
         {
-          "title": "cto bench",
-          "url": "https://www.producthunt.com/products/cto-new",
-          "author": "Michael Ludden",
+          "title": "MyLens for Chrome",
+          "url": "https://www.producthunt.com/products/mylensai-chrome",
+          "author": "Ardalan Mirshani",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The ground truth code agent benchmarkDiscussion|Link",
-          "published_at": "2025-12-19T17:16:42"
+          "summary": "Your AI visualization partner, right in your browser.Discussion|Link",
+          "published_at": "2025-12-20T20:51:01"
         },
         {
           "title": "NoteGPT",
@@ -340,24 +358,6 @@
           "source": "Product Hunt",
           "summary": "Your summary AI note taker for meetings, videos & everythingDiscussion|Link",
           "published_at": "2025-12-18T22:38:20"
-        },
-        {
-          "title": "LocaleX",
-          "url": "https://www.producthunt.com/products/localex-app-localizer",
-          "author": "rıza erdi karakus",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Localize your apps with AI-powered auto translationDiscussion|Link",
-          "published_at": "2025-12-18T14:24:47"
-        },
-        {
-          "title": "EduRev (Education Revolution)",
-          "url": "https://www.producthunt.com/products/edurev-education-revolution",
-          "author": "Hardik Dhamija",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Netflix for EducationDiscussion|Link",
-          "published_at": "2025-12-18T15:19:48"
         }
       ]
     },
