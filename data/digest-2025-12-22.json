@@ -1,18 +1,19 @@
 {
   "date": "2025-12-22T00:00:00",
-  "total_items": 40,
+  "total_items": 41,
   "sources": [
-    "Design Milk",
-    "A List Apart",
-    "UX Design CC",
     "NN/g (Nielsen Norman Group)",
-    "Sidebar",
-    "Smashing Magazine",
+    "CSS-Tricks",
     "优设网",
+    "Sidebar",
+    "Product Hunt",
+    "UX Design CC",
     "Awwwards",
-    "Product Hunt"
+    "A List Apart",
+    "Smashing Magazine",
+    "Design Milk"
   ],
-  "generated_at": "2025-12-22T02:03:08.129505",
+  "generated_at": "2025-12-22T02:28:31.661528",
   "categories": [
     {
       "category": "用户体验设计",
@@ -413,6 +414,21 @@
           "source": "Sidebar",
           "summary": "When I realized there was no real way to move on in that career I loved without having to present my work to audiences.",
           "published_at": "2025-12-19T12:23:18"
+        }
+      ]
+    },
+    {
+      "category": "前端设计",
+      "count": 1,
+      "items": [
+        {
+          "title": "Masonry Layout is Now grid-lanes",
+          "url": "https://css-tricks.com/masonry-layout-is-now-grid-lanes/",
+          "author": "Sunkanmi Fafowora",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "It's settled! A new CSSdisplayproperty keyword calledgrid-laneswill trigger a masonry layout mode.Masonry Layout is Now grid-lanesoriginally published onCSS-Tricks, which is part of theDigitalOceanfam...",
+          "published_at": "2025-12-19T16:08:28"
         }
       ]
     }
