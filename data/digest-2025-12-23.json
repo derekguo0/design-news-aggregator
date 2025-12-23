@@ -2,16 +2,16 @@
   "date": "2025-12-23T00:00:00",
   "total_items": 38,
   "sources": [
+    "NN/g (Nielsen Norman Group)",
+    "CSS-Tricks",
+    "Product Hunt",
     "Sidebar",
     "A List Apart",
     "优设网",
-    "UX Design CC",
     "Design Milk",
-    "NN/g (Nielsen Norman Group)",
-    "CSS-Tricks",
-    "Product Hunt"
+    "UX Design CC"
   ],
-  "generated_at": "2025-12-23T01:43:13.433668",
+  "generated_at": "2025-12-23T01:58:53.664281",
   "categories": [
     {
       "category": "用户体验设计",
@@ -240,15 +240,6 @@
       "count": 5,
       "items": [
         {
-          "title": "Sprout",
-          "url": "https://www.producthunt.com/products/sprout-76",
-          "author": "Elio Raineri",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "A kanban board that feels at home on your MacDiscussion|Link",
-          "published_at": "2025-12-20T16:08:43"
-        },
-        {
           "title": "Claude in Chrome",
           "url": "https://www.producthunt.com/products/claude",
           "author": "Chris Messina",
@@ -258,6 +249,33 @@
           "published_at": "2025-12-20T03:25:26"
         },
         {
+          "title": "Sprout",
+          "url": "https://www.producthunt.com/products/sprout-76",
+          "author": "Elio Raineri",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "A kanban board that feels at home on your MacDiscussion|Link",
+          "published_at": "2025-12-20T16:08:43"
+        },
+        {
+          "title": "ArkTabs",
+          "url": "https://www.producthunt.com/products/arktabs-spotlight-tabs-manager-browser",
+          "author": "Nabeel Hashmi",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Spotlight style tab manager with fuzzy search & live previewDiscussion|Link",
+          "published_at": "2025-12-21T04:45:54"
+        },
+        {
+          "title": "Tessera Designer",
+          "url": "https://www.producthunt.com/products/tessera-designer",
+          "author": "Dennis Müller",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Make seamless pattern tiles to download and useDiscussion|Link",
+          "published_at": "2025-12-21T11:48:15"
+        },
+        {
           "title": "Mistral OCR 3",
           "url": "https://www.producthunt.com/products/mistral-7b",
           "author": "Zac Zuo",
@@ -265,24 +283,6 @@
           "source": "Product Hunt",
           "summary": "Accurate OCR for notes, forms, tables and handwritingDiscussion|Link",
           "published_at": "2025-12-22T07:31:36"
-        },
-        {
-          "title": "ConnectMachine",
-          "url": "https://www.producthunt.com/products/connectmachine-2",
-          "author": "Rohan Chaubey",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "A private AI agent that manages your network and connectionsDiscussion|Link",
-          "published_at": "2025-12-21T06:15:48"
-        },
-        {
-          "title": "Qwen-Image-Layered",
-          "url": "https://www.producthunt.com/products/qwen3",
-          "author": "Zac Zuo",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Turn flat images into multi-layer editable assetsDiscussion|Link",
-          "published_at": "2025-12-22T07:08:07"
         }
       ]
     },
