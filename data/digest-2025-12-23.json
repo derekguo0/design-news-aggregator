@@ -1,22 +1,41 @@
 {
   "date": "2025-12-23T00:00:00",
-  "total_items": 38,
+  "total_items": 42,
   "sources": [
-    "NN/g (Nielsen Norman Group)",
-    "CSS-Tricks",
-    "Product Hunt",
-    "Sidebar",
-    "A List Apart",
-    "优设网",
     "Design Milk",
-    "UX Design CC"
+    "优设网",
+    "CSS-Tricks",
+    "A List Apart",
+    "Smashing Magazine",
+    "Product Hunt",
+    "UX Design CC",
+    "NN/g (Nielsen Norman Group)",
+    "Sidebar"
   ],
-  "generated_at": "2025-12-23T01:58:53.664281",
+  "generated_at": "2025-12-23T12:53:10.355913",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 6,
+      "count": 8,
       "items": [
+        {
+          "title": "A sharp tool can still ruin the cut",
+          "url": "https://uxdesign.cc/a-sharp-tool-can-still-ruin-the-cut-b1014292335d?source=rss----138adf9c44c---4",
+          "author": "José Torre",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "When AI answers before you understand.I never decided to go all in on AI, it just kept showing up.At first, in small, practical ways. Generating content for design mocks or writing simple scripts to a...",
+          "published_at": "2025-12-23T07:37:24"
+        },
+        {
+          "title": "A product manager’s 48 reflections on 2025",
+          "url": "https://uxdesign.cc/a-product-managers-48-reflections-on-2025-207b512396a1?source=rss----138adf9c44c---4",
+          "author": "Adrian H. Raudaschl",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "and why I’ve been making Bob Dylan songs about Sonic the HedgehogEnd of 2025 Reflections. illustration by author.In 2025, AI stopped feeling like just a tool to me and started to feel more like a mirr...",
+          "published_at": "2025-12-23T07:35:40"
+        },
         {
           "title": "AI won’t save you, color contrast mistakes, the 3 layers of AI context",
           "url": "https://uxdesign.cc/ai-wont-save-you-color-contrast-mistakes-the-3-layers-of-ai-context-b9af7626f74d?source=rss----138adf9c44c---4",
@@ -177,8 +196,17 @@
     },
     {
       "category": "网页设计",
-      "count": 6,
+      "count": 7,
       "items": [
+        {
+          "title": "Giving Users A Voice Through Virtual Personas",
+          "url": "https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.",
+          "published_at": "2025-12-23T10:00:00"
+        },
         {
           "title": "Design for Amiability: Lessons from Vienna",
           "url": "https://alistapart.com/article/design-for-amiability-lessons-from-vienna/",
@@ -240,49 +268,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Claude in Chrome",
-          "url": "https://www.producthunt.com/products/claude",
-          "author": "Chris Messina",
+          "title": "AbleMouse AI edition",
+          "url": "https://www.producthunt.com/products/ablemouse-control-with-tongue-or-touch",
+          "author": "Alexander Radzhabov",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Let Claude see, click, type, and navigate in your browserDiscussion|Link",
-          "published_at": "2025-12-20T03:25:26"
+          "summary": "Open-source AI cursor control with computer visionDiscussion|Link",
+          "published_at": "2025-12-22T13:53:45"
         },
         {
-          "title": "Sprout",
-          "url": "https://www.producthunt.com/products/sprout-76",
-          "author": "Elio Raineri",
+          "title": "Vibe Pocket",
+          "url": "https://www.producthunt.com/products/vibe-pocket-run-cli-ai-agents-anywhere",
+          "author": "Ubeydullah Coban",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A kanban board that feels at home on your MacDiscussion|Link",
-          "published_at": "2025-12-20T16:08:43"
+          "summary": "Run AI agents like Claude Code, Codex, Opencode on mobileDiscussion|Link",
+          "published_at": "2025-12-21T21:16:36"
         },
         {
-          "title": "ArkTabs",
-          "url": "https://www.producthunt.com/products/arktabs-spotlight-tabs-manager-browser",
-          "author": "Nabeel Hashmi",
+          "title": "Filio",
+          "url": "https://www.producthunt.com/products/filio",
+          "author": "Max M. Roozbahani",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Spotlight style tab manager with fuzzy search & live previewDiscussion|Link",
-          "published_at": "2025-12-21T04:45:54"
+          "summary": "Jobsite photo tracking with geo tags and AI notesDiscussion|Link",
+          "published_at": "2025-12-22T23:53:42"
         },
         {
-          "title": "Tessera Designer",
-          "url": "https://www.producthunt.com/products/tessera-designer",
-          "author": "Dennis Müller",
+          "title": "/agent by Firecrawl",
+          "url": "https://www.producthunt.com/products/extract-by-firecrawl",
+          "author": "Eric Ciarla",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Make seamless pattern tiles to download and useDiscussion|Link",
-          "published_at": "2025-12-21T11:48:15"
+          "summary": "Gather structured data wherever it lives on the webDiscussion|Link",
+          "published_at": "2025-12-22T15:08:30"
         },
         {
-          "title": "Mistral OCR 3",
-          "url": "https://www.producthunt.com/products/mistral-7b",
-          "author": "Zac Zuo",
+          "title": "Super Agents by ClickUp",
+          "url": "https://www.producthunt.com/products/clickup",
+          "author": "KP",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Accurate OCR for notes, forms, tables and handwritingDiscussion|Link",
-          "published_at": "2025-12-22T07:31:36"
+          "summary": "Tag, message, + manage AI agents across your daily workflowsDiscussion|Link",
+          "published_at": "2025-12-22T20:44:36"
         }
       ]
     },
@@ -348,43 +376,52 @@
     },
     {
       "category": "设计资讯",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Big Files, Beautiful Delivery—50% Off Forever",
-          "url": "https://bit.ly/side-fil1",
+          "title": "Design is more than code",
+          "url": "https://linear.app/now/design-is-more-than-code",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Stop fighting email limits. Send big files with FileSplash and showcase your brand on every delivery. Use code SIDEBAR50 for 50% off.",
-          "published_at": "2025-12-22T08:15:24"
+          "summary": "Design as a search, not a pipeline. How tools carry opinions, and how those opinions shape what feels “reasonable” to attempt.",
+          "published_at": "2025-12-23T08:41:01"
         },
         {
-          "title": "They have to be able to talk about us without us",
-          "url": "https://www.anildash.com/2025/12/05/talk-about-us-without-us/",
+          "title": "Activist handbook",
+          "url": "https://activisthandbook.org/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Is it simply impossible to effectively tell a story at scale if you don’t have massive resources?",
-          "published_at": "2025-12-22T08:14:36"
+          "summary": "Learn how to become a social activist, plan a political campaign strategy, and start a grassroots movement.",
+          "published_at": "2025-12-23T08:40:19"
         },
         {
-          "title": "Hard problems are still hard",
-          "url": "https://www.figma.com/blog/hard-problems-are-still-hard/",
+          "title": "Case study: Maple’s voice AI research",
+          "url": "https://the-brandidentity.com/project/hex-builds-a-sound-wave-typography-system-for-maples-voice-ai-research",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Figma designer–turned–product manager Nikolas Klein worked on building prototyping tools for seven years. Then AI changed the game.",
-          "published_at": "2025-12-22T08:13:43"
+          "summary": "HEX builds a sound wave typography system for Maple’s voice AI research.",
+          "published_at": "2025-12-23T08:39:48"
         },
         {
-          "title": "V-archive",
-          "url": "https://varchive.ai/apps",
+          "title": "Library of time",
+          "url": "https://libraryoftime.xyz/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Varchive is a showcase of AI-assisted builds, inspiration, and how-tos. Itself assisted by AI.",
-          "published_at": "2025-12-22T08:13:04"
+          "summary": "All of the unique ways different people chose to satisfy one of humanity's most universal curiosities.",
+          "published_at": "2025-12-23T08:38:32"
+        },
+        {
+          "title": "The changing drivers of LLM adoption",
+          "url": "https://epochai.substack.com/p/the-changing-drivers-of-llm-adoption",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "Public data as well as our original polling suggest LLM adoption is roughly on trend, but the underlying drivers are shifting.",
+          "published_at": "2025-12-23T08:37:13"
         }
       ]
     },
