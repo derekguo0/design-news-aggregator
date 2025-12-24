@@ -1,25 +1,34 @@
 {
   "date": "2025-12-24T00:00:00",
-  "total_items": 54,
+  "total_items": 55,
   "sources": [
-    "Design Milk",
-    "UX Planet",
-    "Awwwards",
-    "Smashing Magazine",
-    "Sidebar",
-    "Product Hunt",
-    "NN/g (Nielsen Norman Group)",
     "优设网",
-    "UX Design CC",
     "CSS-Tricks",
-    "A List Apart"
+    "NN/g (Nielsen Norman Group)",
+    "Product Hunt",
+    "A List Apart",
+    "UX Design CC",
+    "Smashing Magazine",
+    "Design Milk",
+    "Awwwards",
+    "UX Planet",
+    "Sidebar"
   ],
-  "generated_at": "2025-12-24T06:01:38.027717",
+  "generated_at": "2025-12-24T12:50:49.301005",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 10,
+      "count": 11,
       "items": [
+        {
+          "title": "Design leaders need to jam with their teams",
+          "url": "https://uxdesign.cc/design-leaders-need-to-jam-with-their-teams-3e05fabd4c38?source=rss----138adf9c44c---4",
+          "author": "Jon Daiello",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How business management killed craft apprenticeshipVictor Wooten is my all-time favorite bassist. But, it’s not only because of his amazing playing skills. It’s also his philosophy of teaching music.H...",
+          "published_at": "2025-12-24T07:17:58"
+        },
         {
           "title": "The consequences of inaction: One of the best arguments for design",
           "url": "https://uxdesign.cc/the-consequences-of-inaction-one-of-the-best-arguments-for-design-ec08750f4703?source=rss----138adf9c44c---4",
@@ -375,43 +384,52 @@
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "/agent by Firecrawl",
-          "url": "https://www.producthunt.com/products/extract-by-firecrawl",
-          "author": "Eric Ciarla",
+          "title": "Voice Studio Companion",
+          "url": "https://www.producthunt.com/products/voice-studio-companion",
+          "author": "Developer Unite",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Gather structured data wherever it lives on the webDiscussion|Link",
-          "published_at": "2025-12-22T15:08:30"
+          "summary": "Drag & drop voice generator toolDiscussion|Link",
+          "published_at": "2025-12-23T10:25:50"
         },
         {
-          "title": "Filio",
-          "url": "https://www.producthunt.com/products/filio",
-          "author": "Max M. Roozbahani",
+          "title": "Launch Shots",
+          "url": "https://www.producthunt.com/products/launch-shots",
+          "author": "Ajay Sivan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Jobsite photo tracking with geo tags and AI notesDiscussion|Link",
-          "published_at": "2025-12-22T23:53:42"
+          "summary": "Create stunning App/Play Store screenshots in minutesDiscussion|Link",
+          "published_at": "2025-12-23T08:36:55"
         },
         {
-          "title": "AbleMouse AI edition",
-          "url": "https://www.producthunt.com/products/ablemouse-control-with-tongue-or-touch",
-          "author": "Alexander Radzhabov",
+          "title": "WalletWallet",
+          "url": "https://www.producthunt.com/products/walletwallet",
+          "author": "Alen Todorov",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Open-source AI cursor control with computer visionDiscussion|Link",
-          "published_at": "2025-12-22T13:53:45"
+          "summary": "Create Apple Wallet passes for unsupported cardsDiscussion|Link",
+          "published_at": "2025-12-23T21:31:48"
         },
         {
-          "title": "Super Agents by ClickUp",
-          "url": "https://www.producthunt.com/products/clickup",
-          "author": "KP",
+          "title": "ShipAddons",
+          "url": "https://www.producthunt.com/products/shipaddons",
+          "author": "Manuel Napoli",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Tag, message, + manage AI agents across your daily workflowsDiscussion|Link",
-          "published_at": "2025-12-22T20:44:36"
+          "summary": "Ship Google Workspace add-ons without the setup painDiscussion|Link",
+          "published_at": "2025-12-23T13:30:48"
+        },
+        {
+          "title": "Nano Banana Playground",
+          "url": "https://www.producthunt.com/products/nano-banana-playground",
+          "author": "fmerian",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Playground for Nano Banana image generation and editingDiscussion|Link",
+          "published_at": "2025-12-23T12:47:16"
         }
       ]
     },
@@ -477,52 +495,43 @@
     },
     {
       "category": "设计资讯",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "Design is more than code",
-          "url": "https://linear.app/now/design-is-more-than-code",
+          "title": "Managing creative highs and lows",
+          "url": "https://thecreativeindependent.com/people/musician-carlyn-bezic-jane-inc-on-managing-creative-highs-and-lows/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Design as a search, not a pipeline. How tools carry opinions, and how those opinions shape what feels “reasonable” to attempt.",
-          "published_at": "2025-12-23T08:41:01"
+          "summary": "Musician Carlyn Bezic discusses the power of an alter-ego, deriving liberation from near-death experiences, and anticipating limitations.",
+          "published_at": "2025-12-24T07:45:43"
         },
         {
-          "title": "Activist handbook",
-          "url": "https://activisthandbook.org/",
+          "title": "A year of vibes",
+          "url": "https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Learn how to become a social activist, plan a political campaign strategy, and start a grassroots movement.",
-          "published_at": "2025-12-23T08:40:19"
+          "summary": "A personal recap of 2025 and a year of a new style of engineering.",
+          "published_at": "2025-12-24T07:45:07"
         },
         {
-          "title": "Case study: Maple’s voice AI research",
-          "url": "https://the-brandidentity.com/project/hex-builds-a-sound-wave-typography-system-for-maples-voice-ai-research",
+          "title": "You can’t opt-out of accessibility",
+          "url": "https://vale.rocks/posts/accessibility-importance",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "HEX builds a sound wave typography system for Maple’s voice AI research.",
-          "published_at": "2025-12-23T08:39:48"
+          "summary": "Shiny exclusion all the way down.",
+          "published_at": "2025-12-24T07:44:35"
         },
         {
-          "title": "Library of time",
-          "url": "https://libraryoftime.xyz/",
+          "title": "The shape of artificial intelligence",
+          "url": "https://www.thealgorithmicbridge.com/p/the-shape-of-artificial-intelligence",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "All of the unique ways different people chose to satisfy one of humanity's most universal curiosities.",
-          "published_at": "2025-12-23T08:38:32"
-        },
-        {
-          "title": "The changing drivers of LLM adoption",
-          "url": "https://epochai.substack.com/p/the-changing-drivers-of-llm-adoption",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "Public data as well as our original polling suggest LLM adoption is roughly on trend, but the underlying drivers are shifting.",
-          "published_at": "2025-12-23T08:37:13"
+          "summary": "They say the shape of things only becomes legible at a distance.",
+          "published_at": "2025-12-24T07:44:03"
         }
       ]
     },
