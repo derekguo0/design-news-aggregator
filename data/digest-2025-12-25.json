@@ -1,25 +1,34 @@
 {
   "date": "2025-12-25T00:00:00",
-  "total_items": 53,
+  "total_items": 56,
   "sources": [
-    "Awwwards",
-    "优设网",
-    "UX Planet",
     "A List Apart",
-    "CSS-Tricks",
-    "Smashing Magazine",
-    "Sidebar",
     "Design Milk",
+    "Awwwards",
+    "UX Planet",
+    "UX Design CC",
+    "Smashing Magazine",
     "Product Hunt",
-    "NN/g (Nielsen Norman Group)",
-    "UX Design CC"
+    "Sidebar",
+    "CSS-Tricks",
+    "优设网",
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2025-12-25T02:16:47.679186",
+  "generated_at": "2025-12-25T12:50:15.428831",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 9,
+      "count": 10,
       "items": [
+        {
+          "title": "Contrails and tiny text will probably kill us",
+          "url": "https://uxdesign.cc/contrails-and-tiny-text-will-probably-kill-us-e0e03f1b6821?source=rss----138adf9c44c---4",
+          "author": "Rita Kind-Envy",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Contrails’ potential—the totally unnoticed, yet the only small text worth reading, and why everyone missed it.Continue reading on UX Collective »",
+          "published_at": "2025-12-25T11:41:20"
+        },
         {
           "title": "Design leaders need to jam with their teams",
           "url": "https://uxdesign.cc/design-leaders-need-to-jam-with-their-teams-3e05fabd4c38?source=rss----138adf9c44c---4",
@@ -291,6 +300,15 @@
           "published_at": null
         },
         {
+          "title": "Tesoro",
+          "url": "https://www.awwwards.com/sites/tesoro-1",
+          "author": "Jordan Gilroy",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Ousmane Dembélé ⏤ Ballon d'Or",
           "url": "https://www.awwwards.com/sites/ousmane-dembele-ballon-dor",
           "author": "FLOT NOIR",
@@ -352,57 +370,57 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Obys' Design Books",
-          "url": "https://www.awwwards.com/sites/obys-design-books",
-          "author": "Obys Agency",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "Nano Banana Playground",
-          "url": "https://www.producthunt.com/products/nano-banana-playground",
-          "author": "fmerian",
+          "title": "Press Pitch",
+          "url": "https://www.producthunt.com/products/press-pitch",
+          "author": "Rashid Khasanov",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Playground for Nano Banana image generation and editingDiscussion|Link",
-          "published_at": "2025-12-23T12:47:16"
+          "summary": "Generate a ready-to-send pitch for journalists in seconds.Discussion|Link",
+          "published_at": "2025-12-24T18:27:54"
         },
         {
-          "title": "Launch Shots",
-          "url": "https://www.producthunt.com/products/launch-shots",
-          "author": "Ajay Sivan",
+          "title": "Dvina",
+          "url": "https://www.producthunt.com/products/dvina-2",
+          "author": "Jan Omer ODABAS",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Create stunning App/Play Store screenshots in minutesDiscussion|Link",
-          "published_at": "2025-12-23T08:36:55"
+          "summary": "Private AI that connects 120+ apps and your live databasesDiscussion|Link",
+          "published_at": "2025-12-24T00:09:47"
         },
         {
-          "title": "Voice Studio Companion",
-          "url": "https://www.producthunt.com/products/voice-studio-companion",
-          "author": "Developer Unite",
+          "title": "PurrrrrFocus Pomodoro",
+          "url": "https://www.producthunt.com/products/purrrrrfocus-pomodoro",
+          "author": "louis chen",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Drag & drop voice generator toolDiscussion|Link",
-          "published_at": "2025-12-23T10:25:50"
+          "summary": "Turn focus into a delightful journey with cute cat companionDiscussion|Link",
+          "published_at": "2025-12-24T10:22:38"
         },
         {
-          "title": "Santa Videos",
-          "url": "https://www.producthunt.com/products/creatorkit",
-          "author": "Kevin Natanzon",
+          "title": "DiffSense",
+          "url": "https://www.producthunt.com/products/diffsense",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Bring Santa to life with AIDiscussion|Link",
-          "published_at": "2025-12-24T07:46:02"
+          "summary": "Local AI git commit generator for Apple SiliconDiscussion|Link",
+          "published_at": "2025-12-22T13:21:38"
+        },
+        {
+          "title": "Reddit Summarizer",
+          "url": "https://www.producthunt.com/products/reddit-summarizer",
+          "author": "Martin Machava",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Summarize long Reddit threads with one clickDiscussion|Link",
+          "published_at": "2025-12-24T20:48:07"
         },
         {
           "title": "WalletWallet",
@@ -477,43 +495,52 @@
     },
     {
       "category": "设计资讯",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Managing creative highs and lows",
-          "url": "https://thecreativeindependent.com/people/musician-carlyn-bezic-jane-inc-on-managing-creative-highs-and-lows/",
+          "title": "Six surprising illustration trends for 2026",
+          "url": "https://www.creativeboom.com/inspiration/six-surprising-illustration-trends-for-2026/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Musician Carlyn Bezic discusses the power of an alter-ego, deriving liberation from near-death experiences, and anticipating limitations.",
-          "published_at": "2025-12-24T07:45:43"
+          "summary": "Creative Boom asked a selection of artists and their representatives to cast their minds ahead and visualize what’s in store for the next 12 months.",
+          "published_at": "2025-12-25T11:50:21"
         },
         {
-          "title": "A year of vibes",
-          "url": "https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/",
+          "title": "Can design make you healthier?",
+          "url": "https://www.wallpaper.com/architecture/architecture-and-wellness",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A personal recap of 2025 and a year of a new style of engineering.",
-          "published_at": "2025-12-24T07:45:07"
+          "summary": "Our built environment can have a direct impact on physical and mental wellbeing. How are architects creating spaces that support health and humanity?",
+          "published_at": "2025-12-25T11:49:47"
         },
         {
-          "title": "You can’t opt-out of accessibility",
-          "url": "https://vale.rocks/posts/accessibility-importance",
+          "title": "Programming principles for self taught front-end developers",
+          "url": "https://piccalil.li/blog/programming-principles-for-self-taught-front-end-developers/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Shiny exclusion all the way down.",
-          "published_at": "2025-12-24T07:44:35"
+          "summary": "The majority of us are a bunch of self taught people with rather spotty knowledge and that’s fine. What's missing?",
+          "published_at": "2025-12-25T11:49:12"
         },
         {
-          "title": "The shape of artificial intelligence",
-          "url": "https://www.thealgorithmicbridge.com/p/the-shape-of-artificial-intelligence",
+          "title": "Dialog view transitions",
+          "url": "https://medienbaecker.com/articles/dialog-view-transitions",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "They say the shape of things only becomes legible at a distance.",
-          "published_at": "2025-12-24T07:44:03"
+          "summary": "Combining view transitions and the dialog element—possible?",
+          "published_at": "2025-12-25T11:48:36"
+        },
+        {
+          "title": "What jobs are made of",
+          "url": "https://thomwolf.substack.com/p/what-jobs-are-made-of",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "Judgment, agency, and the limits of AI benchmarks.",
+          "published_at": "2025-12-25T11:48:08"
         }
       ]
     },
