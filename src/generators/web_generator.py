@@ -2,6 +2,7 @@
 网页生成器
 将设计资讯转换为静态HTML页面
 """
+import os
 import json
 import shutil
 from datetime import datetime, date
@@ -193,7 +194,8 @@ class WebGenerator:
                 'categories': digest.categories,
                 'total_items': total_articles,  # 修正变量名
                 'categories_count': len(digest.categories),
-                'sources_count': len(sources)
+                'sources_count': len(sources),
+                'google_analytics_id': os.getenv('GOOGLE_ANALYTICS_ID')  # Google Analytics ID
             }
             
             # 渲染HTML
@@ -263,7 +265,8 @@ class WebGenerator:
                     'title': "Design Drip - 每日设计动态汇总",
                     'description': f"Design Drip汇聚全球设计资讯，每日更新。已收集{total_items}条来自{len(all_sources)}个优质设计网站的资讯",
                     'keywords': "设计资讯,设计师,创意,Dribbble,Behance,Design Milk,工业设计,建筑设计,Design Drip"
-                }
+                },
+                'google_analytics_id': os.getenv('GOOGLE_ANALYTICS_ID')  # Google Analytics ID
             }
             
             html_content = template.render(**template_data)
@@ -322,7 +325,8 @@ class WebGenerator:
                     'title': "资讯归档 - Design Drip",
                     'description': f"Design Drip设计资讯历史归档，共{len(all_digests)}天的资讯记录",
                     'keywords': "设计资讯归档,历史资讯,设计师,Design Drip"
-                }
+                },
+                'google_analytics_id': os.getenv('GOOGLE_ANALYTICS_ID')  # Google Analytics ID
             }
             
             html_content = template.render(**template_data)
