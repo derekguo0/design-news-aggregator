@@ -1,20 +1,19 @@
 {
   "date": "2025-12-26T00:00:00",
-  "total_items": 51,
+  "total_items": 43,
   "sources": [
-    "优设网",
-    "UX Design CC",
+    "Product Hunt",
     "Sidebar",
-    "Awwwards",
+    "CSS-Tricks",
+    "UX Planet",
+    "优设网",
+    "Design Milk",
     "Smashing Magazine",
     "A List Apart",
-    "Design Milk",
-    "CSS-Tricks",
-    "NN/g (Nielsen Norman Group)",
-    "Product Hunt",
-    "UX Planet"
+    "UX Design CC",
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2025-12-26T01:57:38.573061",
+  "generated_at": "2025-12-26T02:30:18.326251",
   "categories": [
     {
       "category": "用户体验设计",
@@ -207,7 +206,7 @@
     },
     {
       "category": "网页设计",
-      "count": 15,
+      "count": 7,
       "items": [
         {
           "title": "Giving Users A Voice Through Virtual Personas",
@@ -271,78 +270,6 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
-        },
-        {
-          "title": "Tesoro",
-          "url": "https://www.awwwards.com/sites/tesoro-1",
-          "author": "Jordan Gilroy",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Ousmane Dembélé ⏤ Ballon d'Or",
-          "url": "https://www.awwwards.com/sites/ousmane-dembele-ballon-dor",
-          "author": "FLOT NOIR",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "The Creative Website Manual™",
-          "url": "https://www.awwwards.com/sites/the-creative-website-manualtm",
-          "author": "Huy Nguyen",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "StringTune",
-          "url": "https://www.awwwards.com/sites/stringtune",
-          "author": "Fiddle.Digital Design Agency",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "12 Mil",
-          "url": "https://www.awwwards.com/sites/12-mil",
-          "author": "Contra Studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "The House of Wonders",
-          "url": "https://www.awwwards.com/sites/the-house-of-wonders",
-          "author": "makemepulse",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Motto XX",
-          "url": "https://www.awwwards.com/sites/motto-xx",
-          "author": "Motto",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Lusano",
-          "url": "https://www.awwwards.com/sites/lusano",
-          "author": "CUSP",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -350,6 +277,24 @@
       "category": "产品发现",
       "count": 5,
       "items": [
+        {
+          "title": "Dvina",
+          "url": "https://www.producthunt.com/products/dvina-2",
+          "author": "Jan Omer ODABAS",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Private AI that connects 120+ apps and your live databasesDiscussion|Link",
+          "published_at": "2025-12-24T00:09:47"
+        },
+        {
+          "title": "PurrrrrFocus Pomodoro",
+          "url": "https://www.producthunt.com/products/purrrrrfocus-pomodoro",
+          "author": "louis chen",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Turn focus into a delightful journey with cute cat companionDiscussion|Link",
+          "published_at": "2025-12-24T10:22:38"
+        },
         {
           "title": "Reddit Summarizer",
           "url": "https://www.producthunt.com/products/reddit-summarizer",
@@ -369,31 +314,13 @@
           "published_at": "2025-12-24T18:27:54"
         },
         {
-          "title": "PurrrrrFocus Pomodoro",
-          "url": "https://www.producthunt.com/products/purrrrrfocus-pomodoro",
-          "author": "louis chen",
+          "title": "Launch Shots",
+          "url": "https://www.producthunt.com/products/launch-shots",
+          "author": "Ajay Sivan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn focus into a delightful journey with cute cat companionDiscussion|Link",
-          "published_at": "2025-12-24T10:22:38"
-        },
-        {
-          "title": "Dvina",
-          "url": "https://www.producthunt.com/products/dvina-2",
-          "author": "Jan Omer ODABAS",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Private AI that connects 120+ apps and your live databasesDiscussion|Link",
-          "published_at": "2025-12-24T00:09:47"
-        },
-        {
-          "title": "ooml.io",
-          "url": "https://www.producthunt.com/products/ooml-io",
-          "author": "EmoryFinn",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Offline-first Loom-like video recording app for macOSDiscussion|Link",
-          "published_at": "2025-12-23T12:35:41"
+          "summary": "Create stunning App/Play Store screenshots in minutesDiscussion|Link",
+          "published_at": "2025-12-23T08:36:55"
         }
       ]
     },
