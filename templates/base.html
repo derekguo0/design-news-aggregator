@@ -16,8 +16,42 @@
     <meta property="og:type" content="website">
     <meta property="og:locale" content="zh_CN">
     
+    <!-- SEO Enhancements -->
+    {% if base_url and page_path %}
+    <link rel="canonical" href="{{ base_url }}{{ page_path }}">
+    <meta property="og:url" content="{{ base_url }}{{ page_path }}">
+    {% endif %}
+    <meta name="robots" content="index, follow">
+    <meta name="googlebot" content="index, follow">
+    
+    <!-- Open Graph Image -->
+    <meta property="og:image" content="https://design-news-aggregator.vercel.app/static/images/og-image.png">
+    <meta name="twitter:image" content="https://design-news-aggregator.vercel.app/static/images/og-image.png">
+    <meta name="twitter:card" content="summary_large_image">
+    
     <!-- Favicon -->
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🎨%3C/text%3E%3C/svg%3E">
+    
+    <!-- Structured Data (JSON-LD) -->
+    {% block structured_data %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Design Drip",
+      "url": "{{ base_url or 'https://design-news-aggregator.vercel.app' }}",
+      "description": "{{ meta.description if meta else '汇聚全球设计资讯，每日更新' }}",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Design Drip",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://design-news-aggregator.vercel.app/logo.png"
+        }
+      }
+    }
+    </script>
+    {% endblock %}
     
     <!-- Google Analytics 4 -->
     {% if google_analytics_id %}
@@ -463,7 +497,7 @@
     <footer class="footer">
         <div class="container">
 
-            <p>&copy; {{ generated_at.year if generated_at else 2025 }} Design Drip. 汇聚全球设计动态.</p>
+            <p>&copy; {{ generated_at.year if generated_at else 2025 }} Design Drip. 汇聚全球设计动态. | <a href="/sitemap.xml">网站地图</a></p>
             <p style="font-size: 0.8rem; margin-top: 0.5rem;">
                 {% if generated_at %}
                     最后更新: {{ generated_at.strftime('%Y年%m月%d日 %H:%M') }}

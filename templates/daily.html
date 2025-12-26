@@ -6,6 +6,39 @@
 
 {% block keywords %}设计资讯,设计师,创意,Design Drip,{{ date.strftime('%Y年%m月%d日') }}{% endblock %}
 
+{% block structured_data %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Design Drip - {{ date.strftime('%Y年%m月%d日') }}设计资讯",
+  "description": "Design Drip - {{ date.strftime('%Y年%m月%d日') }}设计资讯汇总，共{{ total_items }}条来自{{ sources_count }}个优质设计网站的资讯",
+  "url": "https://design-news-aggregator.vercel.app/daily-{{ date.strftime('%Y-%m-%d') }}.html",
+  "datePublished": "{{ date.isoformat() }}",
+  "mainEntity": {
+    "@type": "ItemList",
+    "numberOfItems": {{ total_items }},
+    "itemListElement": [
+      {% set count = 0 %}
+      {% for category in categories %}
+        {% for item in category.items %}
+          {% if count < 10 %}
+          {
+            "@type": "ListItem",
+            "position": {{ count + 1 }},
+            "url": "{{ item.url }}",
+            "name": "{{ item.title | replace('"', '\\"') }}"
+          }{% if count < 9 %},{% endif %}
+          {% set count = count + 1 %}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+    ]
+  }
+}
+</script>
+{% endblock %}
+
 {% block extra_head %}
 <style>
 /* 筛选器固定样式 */

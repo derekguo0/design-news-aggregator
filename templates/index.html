@@ -162,6 +162,36 @@ section[id] {
 </style>
 {% endblock %}
 
+{% block structured_data %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Design Drip - 每日设计动态汇总",
+  "description": "汇聚全球设计资讯，每日更新。已收集{{ stats.total_items }}条来自{{ stats.total_sources }}个优质设计网站的资讯",
+  "url": "https://design-news-aggregator.vercel.app/",
+  "about": {
+    "@type": "Thing",
+    "name": "设计资讯聚合"
+  },
+  "mainEntity": {
+    "@type": "ItemList",
+    "numberOfItems": {{ latest_items|length }},
+    "itemListElement": [
+      {% for item in latest_items[:10] %}
+      {
+        "@type": "ListItem",
+        "position": {{ loop.index }},
+        "url": "{{ item.url }}",
+        "name": "{{ item.title | replace('"', '\\"') }}"
+      }{% if not loop.last %},{% endif %}
+      {% endfor %}
+    ]
+  }
+}
+</script>
+{% endblock %}
+
 {% block content %}
 <!-- Hero Section - Tailwind UI Style -->
         <div class="relative bg-gradient-to-br from-indigo-50 via-white to-purple-50">

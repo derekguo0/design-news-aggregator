@@ -195,7 +195,9 @@ class WebGenerator:
                 'total_items': total_articles,  # 修正变量名
                 'categories_count': len(digest.categories),
                 'sources_count': len(sources),
-                'google_analytics_id': os.getenv('GOOGLE_ANALYTICS_ID', 'G-0CBGM51K1P')  # 使用环境变量或默认 ID
+                'google_analytics_id': os.getenv('GOOGLE_ANALYTICS_ID', 'G-0CBGM51K1P'),  # 使用环境变量或默认 ID
+                'base_url': 'https://design-news-aggregator.vercel.app',
+                'page_path': f'/daily-{digest.date.strftime("%Y-%m-%d")}.html'
             }
             
             # 渲染HTML
@@ -266,7 +268,9 @@ class WebGenerator:
                     'description': f"Design Drip汇聚全球设计资讯，每日更新。已收集{total_items}条来自{len(all_sources)}个优质设计网站的资讯",
                     'keywords': "设计资讯,设计师,创意,Dribbble,Behance,Design Milk,工业设计,建筑设计,Design Drip"
                 },
-                'google_analytics_id': os.getenv('GOOGLE_ANALYTICS_ID', 'G-0CBGM51K1P')  # 使用环境变量或默认 ID
+                'google_analytics_id': os.getenv('GOOGLE_ANALYTICS_ID', 'G-0CBGM51K1P'),  # 使用环境变量或默认 ID
+                'base_url': 'https://design-news-aggregator.vercel.app',
+                'page_path': '/'
             }
             
             html_content = template.render(**template_data)
@@ -326,7 +330,9 @@ class WebGenerator:
                     'description': f"Design Drip设计资讯历史归档，共{len(all_digests)}天的资讯记录",
                     'keywords': "设计资讯归档,历史资讯,设计师,Design Drip"
                 },
-                'google_analytics_id': os.getenv('GOOGLE_ANALYTICS_ID', 'G-0CBGM51K1P')  # 使用环境变量或默认 ID
+                'google_analytics_id': os.getenv('GOOGLE_ANALYTICS_ID', 'G-0CBGM51K1P'),  # 使用环境变量或默认 ID
+                'base_url': 'https://design-news-aggregator.vercel.app',
+                'page_path': '/archive.html'
             }
             
             html_content = template.render(**template_data)
@@ -361,7 +367,7 @@ class WebGenerator:
         except Exception as e:
             logger.error(f"复制静态文件失败: {e}")
     
-    def generate_sitemap(self, all_digests: List[DailyDigest], base_url: str = "https://your-domain.com") -> str:
+    def generate_sitemap(self, all_digests: List[DailyDigest], base_url: str = "https://design-news-aggregator.vercel.app") -> str:
         """生成网站地图"""
         try:
             sitemap_content = [
@@ -412,7 +418,7 @@ class WebGenerator:
             logger.error(f"生成网站地图失败: {e}")
             raise
     
-    def generate_rss_feed(self, recent_digests: List[DailyDigest], base_url: str = "https://your-domain.com") -> str:
+    def generate_rss_feed(self, recent_digests: List[DailyDigest], base_url: str = "https://design-news-aggregator.vercel.app") -> str:
         """生成RSS订阅源"""
         try:
             rss_content = [
@@ -455,7 +461,7 @@ class WebGenerator:
             logger.error(f"生成RSS订阅源失败: {e}")
             raise
     
-    def generate_complete_site(self, digest: DailyDigest, recent_digests: List[DailyDigest] = None, base_url: str = "https://your-domain.com"):
+    def generate_complete_site(self, digest: DailyDigest, recent_digests: List[DailyDigest] = None, base_url: str = "https://design-news-aggregator.vercel.app"):
         """生成完整网站"""
         logger.info("开始生成完整网站")
         

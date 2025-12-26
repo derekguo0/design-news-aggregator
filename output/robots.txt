@@ -8,7 +8,7 @@ Allow: /
 Disallow: /api/
 
 # Sitemap 位置
-Sitemap: https://design-news-aggregator-smoky.vercel.app/sitemap.xml
+Sitemap: https://design-news-aggregator.vercel.app/sitemap.xml
 
 # 爬取延迟（可选，对友好的爬虫生效）
 Crawl-delay: 1
