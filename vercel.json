@@ -22,6 +22,14 @@
           "dest": "/api/env_test.py"
         },
     {
+      "src": "/sitemap.xml",
+      "dest": "/output/sitemap.xml"
+    },
+    {
+      "src": "/rss.xml",
+      "dest": "/output/rss.xml"
+    },
+    {
       "src": "/(.*)",
       "dest": "/output/$1"
     }
