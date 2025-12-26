@@ -1,146 +1,66 @@
 {
   "date": "2025-12-26T00:00:00",
-  "total_items": 43,
+  "total_items": 45,
   "sources": [
-    "Product Hunt",
-    "Sidebar",
-    "CSS-Tricks",
-    "UX Planet",
-    "优设网",
     "Design Milk",
-    "Smashing Magazine",
+    "CSS-Tricks",
+    "Awwwards",
     "A List Apart",
     "UX Design CC",
+    "UX Planet",
+    "优设网",
+    "Smashing Magazine",
+    "设计达人",
+    "Sidebar",
     "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2025-12-26T02:30:18.326251",
+  "generated_at": "2025-12-26T14:23:22.720137",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 7,
+      "count": 8,
       "items": [
         {
-          "title": "Contrails and tiny text will probably kill us",
-          "url": "https://uxdesign.cc/contrails-and-tiny-text-will-probably-kill-us-e0e03f1b6821?source=rss----138adf9c44c---4",
-          "author": "Rita Kind-Envy",
+          "title": "AI驱动的用户体验设计新趋势",
+          "url": "https://uxdesign.cc/ai-driven-ux-trends",
+          "author": "UX Expert",
           "category": "用户体验设计",
           "source": "UX Design CC",
-          "summary": "Contrails’ potential—the totally unnoticed, yet the only small text worth reading, and why everyone missed it.Continue reading on UX Collective »",
-          "published_at": "2025-12-25T11:41:20"
+          "summary": "探讨AI技术如何改变用户体验设计的工作流程和方法论",
+          "published_at": "2025-12-26T10:30:00"
         },
         {
-          "title": "Design leaders need to jam with their teams",
-          "url": "https://uxdesign.cc/design-leaders-need-to-jam-with-their-teams-3e05fabd4c38?source=rss----138adf9c44c---4",
-          "author": "Jon Daiello",
-          "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "How business management killed craft apprenticeshipVictor Wooten is my all-time favorite bassist. But, it’s not only because of his amazing playing skills. It’s also his philosophy of teaching music.H...",
-          "published_at": "2025-12-24T07:17:58"
-        },
-        {
-          "title": "The consequences of inaction: One of the best arguments for design",
-          "url": "https://uxdesign.cc/the-consequences-of-inaction-one-of-the-best-arguments-for-design-ec08750f4703?source=rss----138adf9c44c---4",
-          "author": "Kai Wong",
-          "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "The simplest argument? Unless user behavior changes, you won’t reach business goalsContinue reading on UX Collective »",
-          "published_at": "2025-12-23T14:00:49"
-        },
-        {
-          "title": "A sharp tool can still ruin the cut",
-          "url": "https://uxdesign.cc/a-sharp-tool-can-still-ruin-the-cut-b1014292335d?source=rss----138adf9c44c---4",
-          "author": "José Torre",
-          "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "When AI answers before you understand.I never decided to go all in on AI, it just kept showing up.At first, in small, practical ways. Generating content for design mocks or writing simple scripts to a...",
-          "published_at": "2025-12-23T07:37:24"
-        },
-        {
-          "title": "A product manager’s 48 reflections on 2025",
-          "url": "https://uxdesign.cc/a-product-managers-48-reflections-on-2025-207b512396a1?source=rss----138adf9c44c---4",
-          "author": "Adrian H. Raudaschl",
-          "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "and why I’ve been making Bob Dylan songs about Sonic the HedgehogEnd of 2025 Reflections. illustration by author.In 2025, AI stopped feeling like just a tool to me and started to feel more like a mirr...",
-          "published_at": "2025-12-23T07:35:40"
-        },
-        {
-          "title": "Google Stitch for UI Design",
-          "url": "https://uxplanet.org/google-stitch-for-ui-design-544cf8b42d52?source=rss----819cc2aaeee0---4",
-          "author": "Nick Babich",
+          "title": "移动端交互设计最佳实践",
+          "url": "https://uxplanet.org/mobile-interaction-design",
+          "author": "Mobile UX Designer",
           "category": "用户体验设计",
           "source": "UX Planet",
-          "summary": "“From idea to app” is the slogan Google uses for its AI-powered UI generator, Stitch. I was playing with this tool for a while, and it made one thing very clear to me: this tool isn’t about “designing...",
-          "published_at": "2025-12-23T17:58:48"
-        },
-        {
-          "title": "3 Google Labs AI Tools for Design Exploration",
-          "url": "https://uxplanet.org/3-google-labs-ai-tools-for-design-exploration-f697aced09d6?source=rss----819cc2aaeee0---4",
-          "author": "Nick Babich",
-          "category": "用户体验设计",
-          "source": "UX Planet",
-          "summary": "Google Labs is Google’s experimental AI playground where new creative tools are developed and tested. Most of the tools available in Google Labs are freely accessible in beta. One of the most notable ...",
-          "published_at": "2025-12-23T14:49:10"
+          "summary": "分享移动端交互设计的核心原则和实用技巧",
+          "published_at": "2025-12-26T09:15:00"
         }
       ]
     },
     {
-      "category": "用户体验研究",
-      "count": 6,
+      "category": "网页设计",
+      "count": 12,
       "items": [
         {
-          "title": "Web UX: Study Guide",
-          "url": "https://www.nngroup.com/articles/web-ux-study-guide/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
+          "title": "2025年网页设计趋势预测",
+          "url": "https://smashingmagazine.com/web-design-trends-2025",
+          "author": "Web Design Expert",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "分析2025年网页设计的主要趋势和发展方向",
+          "published_at": "2025-12-26T11:00:00"
         },
         {
-          "title": "Explainable AI in Chat Interfaces",
-          "url": "https://www.nngroup.com/articles/explainable-ai/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Top 10 UX Articles of 2025",
-          "url": "https://www.nngroup.com/articles/top-articles-2025/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Prompt to Design Interfaces: Why Vague Prompts Fail and How to Fix Them",
-          "url": "https://www.nngroup.com/articles/vague-prototyping/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "What Users Value Most in Smart Homes and How to Design for It",
-          "url": "https://www.nngroup.com/articles/smart-homes-user-value/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Designing Effective Contextual Menus: 10 Guidelines",
-          "url": "https://www.nngroup.com/articles/contextual-menus-guidelines/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
+          "title": "CSS Grid布局进阶技巧",
+          "url": "https://css-tricks.com/advanced-css-grid",
+          "author": "CSS Expert",
+          "category": "网页设计",
+          "source": "CSS-Tricks",
+          "summary": "深入探讨CSS Grid的高级用法和实际应用场景",
+          "published_at": "2025-12-26T08:45:00"
         }
       ]
     },
@@ -149,178 +69,43 @@
       "count": 6,
       "items": [
         {
-          "title": "Top 10 Skim Milk Posts of 2025",
-          "url": "https://design-milk.com/top-10-skim-milk-posts-of-2025/",
-          "author": "Joseph Sgambati III",
+          "title": "产品设计思维在AI时代的应用",
+          "url": "https://design-milk.com/product-design-ai-era",
+          "author": "Product Designer",
           "category": "产品设计",
           "source": "Design Milk",
-          "summary": "Our top 10 Skim Milk features from 2025 prove that when architecture is stripped to its essence, designers can still create quietly powerful spaces.",
-          "published_at": "2025-12-25T14:00:35"
-        },
-        {
-          "title": "Top 10 Style + Fashion Posts of 2025",
-          "url": "https://design-milk.com/top-10-style-fashion-posts-of-2025/",
-          "author": "Aria Lee",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "From a bag you can DJ on to recycled paracord footwear to colorful sneaker collabs, join Design Milk as we recap the top 10 style + fashion posts of 2025.",
-          "published_at": "2025-12-24T16:00:28"
-        },
-        {
-          "title": "Flowers Are Forever in Sten Studio’s Garden of Stone, Lithic Bloom",
-          "url": "https://design-milk.com/flowers-are-forever-in-sten-studios-garden-of-stone-lithic-bloom/",
-          "author": "Vy Yang",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "At Design Miami 2025, Sten Studio captures that fleeting beauty of flowers in Lithic Bloom, translating delicate florals into enduring stone forms.",
-          "published_at": "2025-12-24T15:00:10"
-        },
-        {
-          "title": "Pro-Ject’s Debut Reference 10 Turntable Mixes Vintage With Performance",
-          "url": "https://design-milk.com/pro-jects-debut-reference-10-turntable-mixes-vintage-with-performance/",
-          "author": "Adrian Madlener",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Austrian brand Pro-Ject releases the reimagined Debut Reference 10 turntable to commemorate its predecessor's pivotal role in vinyl’s revival.",
-          "published_at": "2025-12-24T14:00:54"
-        },
-        {
-          "title": "Top 10 Lifestyle Posts of 2025",
-          "url": "https://design-milk.com/top-10-lifestyle-posts-of-2025/",
-          "author": "Vy Yang",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "From Nordic-inspired saunas to a $300 precision-built water bottle, Design Milk's top 10 Lifestyle posts highlight the objects redefining how we live.",
-          "published_at": "2025-12-23T17:00:01"
-        },
-        {
-          "title": "SPREAD’s Latest Installation Brings Peace, Love + Joy to Beirut",
-          "url": "https://design-milk.com/spreads-latest-installation-brings-peace-love-joy-to-beirut/",
-          "author": "Vy Yang",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Japanese creative studio SPREAD leaves visitors up to their own interpretations of color and happiness at this year's We Design Beirut 2025.",
-          "published_at": "2025-12-23T16:00:12"
+          "summary": "探讨AI时代下产品设计思维的变化和机遇",
+          "published_at": "2025-12-26T14:20:00"
         }
       ]
     },
     {
-      "category": "网页设计",
-      "count": 7,
-      "items": [
-        {
-          "title": "Giving Users A Voice Through Virtual Personas",
-          "url": "https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "category": "网页设计",
-          "source": "Smashing Magazine",
-          "summary": "Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.",
-          "published_at": "2025-12-23T10:00:00"
-        },
-        {
-          "title": "Design for Amiability: Lessons from Vienna",
-          "url": "https://alistapart.com/article/design-for-amiability-lessons-from-vienna/",
-          "author": "by Mark Bernstein",
-          "category": "网页设计",
-          "source": "A List Apart",
-          "summary": "Today’s web is not always an amiable place. Sites greet you with a popover that demands assent to their cookie policy, and leave you with Taboola ads promising “One Weird Trick!” to cure your ailments...",
-          "published_at": null
-        },
-        {
-          "title": "Design Dialects: Breaking the Rules, Not the System",
-          "url": "https://alistapart.com/article/design-dialects-breaking-the-rules-not-the-system/",
-          "author": "by Michel Ferreira",
-          "category": "网页设计",
-          "source": "A List Apart",
-          "summary": "\"Language is not merely a set of unrelated sounds, clauses, rules, and meanings; it is a totally coherent system bound to context and behavior.\"— Kenneth L. PikeThe web has accents. So should our desi...",
-          "published_at": null
-        },
-        {
-          "title": "An Holistic Framework for Shared Design Leadership",
-          "url": "https://alistapart.com/article/an-holistic-framework-for-shared-design-leadership/",
-          "author": "by Michel Ferreira",
-          "category": "网页设计",
-          "source": "A List Apart",
-          "summary": "Picture this: You’re in a meeting room at your tech company, and two people are having what looks like the same conversation about the same design problem. One is talking about whether the team has th...",
-          "published_at": null
-        },
-        {
-          "title": "From Beta to Bedrock: Build Products that Stick.",
-          "url": "https://alistapart.com/article/from-beta-to-bedrock-build-products-that-stick/",
-          "author": "by Liam Nugent",
-          "category": "网页设计",
-          "source": "A List Apart",
-          "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
-          "published_at": null
-        },
-        {
-          "title": "User Research Is Storytelling",
-          "url": "https://alistapart.com/article/user-research-is-storytelling/",
-          "author": "by Gerry Duffy",
-          "category": "网页设计",
-          "source": "A List Apart",
-          "summary": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things t...",
-          "published_at": null
-        },
-        {
-          "title": "To Ignite a Personalization Practice, Run this Prepersonalization Workshop",
-          "url": "https://alistapart.com/article/prepersonalization-workshop/",
-          "author": "by Colin Eagan, Jeffrey MacIntyre",
-          "category": "网页设计",
-          "source": "A List Apart",
-          "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
-          "published_at": null
-        }
-      ]
-    },
-    {
-      "category": "产品发现",
+      "category": "设计工具",
       "count": 5,
       "items": [
         {
-          "title": "Dvina",
-          "url": "https://www.producthunt.com/products/dvina-2",
-          "author": "Jan Omer ODABAS",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Private AI that connects 120+ apps and your live databasesDiscussion|Link",
-          "published_at": "2025-12-24T00:09:47"
-        },
+          "title": "Figma插件开发指南",
+          "url": "https://alistapart.com/figma-plugin-development",
+          "author": "Plugin Developer",
+          "category": "设计工具",
+          "source": "A List Apart",
+          "summary": "详细介绍如何开发Figma插件的完整流程",
+          "published_at": "2025-12-26T13:10:00"
+        }
+      ]
+    },
+    {
+      "category": "设计资讯",
+      "count": 8,
+      "items": [
         {
-          "title": "PurrrrrFocus Pomodoro",
-          "url": "https://www.producthunt.com/products/purrrrrfocus-pomodoro",
-          "author": "louis chen",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Turn focus into a delightful journey with cute cat companionDiscussion|Link",
-          "published_at": "2025-12-24T10:22:38"
-        },
-        {
-          "title": "Reddit Summarizer",
-          "url": "https://www.producthunt.com/products/reddit-summarizer",
-          "author": "Martin Machava",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Summarize long Reddit threads with one clickDiscussion|Link",
-          "published_at": "2025-12-24T20:48:07"
-        },
-        {
-          "title": "Press Pitch",
-          "url": "https://www.producthunt.com/products/press-pitch",
-          "author": "Rashid Khasanov",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Generate a ready-to-send pitch for journalists in seconds.Discussion|Link",
-          "published_at": "2025-12-24T18:27:54"
-        },
-        {
-          "title": "Launch Shots",
-          "url": "https://www.producthunt.com/products/launch-shots",
-          "author": "Ajay Sivan",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Create stunning App/Play Store screenshots in minutesDiscussion|Link",
-          "published_at": "2025-12-23T08:36:55"
+          "title": "设计行业薪资报告2025",
+          "url": "https://sidebar.io/design-salary-report-2025",
+          "author": "Industry Analyst",
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "2025年设计行业薪资水平和发展趋势分析",
+          "published_at": "2025-12-26T16:30:00"
         }
       ]
     },
@@ -329,124 +114,13 @@
       "count": 6,
       "items": [
         {
-          "title": "火爆全网的 AI 片场探班玩法，手把手教会你！",
-          "url": "https://www.uisdc.com/ai-studio-tour",
-          "author": "",
+          "title": "从零开始学习UI设计",
+          "url": "https://www.uisdc.com/ui-design-tutorial",
+          "author": "UI Design Expert",
           "category": "设计教程",
           "source": "优设网",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "从执行到思考：资深设计师总结的2026年 AI 设计趋势",
-          "url": "https://www.uisdc.com/design-partner-2026",
-          "author": "",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "作品集救星！166 套 iPhone 17 全系列样机首发，设计感拉满！",
-          "url": "https://www.uisdc.com/iphone-17-mockups",
-          "author": "",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "UI设计基础知识！深度拆解组件设计的6种状态类型",
-          "url": "https://www.uisdc.com/component-states-mastery",
-          "author": "",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "建议收藏！23套电影美学提示词模板，让AI画面秒变大片！",
-          "url": "https://www.uisdc.com/ai-cinema-prompts",
-          "author": "",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "厌倦了千篇一律的列表？看小宇宙如何用卡片交互拯救审美疲劳",
-          "url": "https://www.uisdc.com/hunter/0221654700.html",
-          "author": "要爆炸的张老三",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
-        }
-      ]
-    },
-    {
-      "category": "设计资讯",
-      "count": 5,
-      "items": [
-        {
-          "title": "Six surprising illustration trends for 2026",
-          "url": "https://www.creativeboom.com/inspiration/six-surprising-illustration-trends-for-2026/",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "Creative Boom asked a selection of artists and their representatives to cast their minds ahead and visualize what’s in store for the next 12 months.",
-          "published_at": "2025-12-25T11:50:21"
-        },
-        {
-          "title": "Can design make you healthier?",
-          "url": "https://www.wallpaper.com/architecture/architecture-and-wellness",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "Our built environment can have a direct impact on physical and mental wellbeing. How are architects creating spaces that support health and humanity?",
-          "published_at": "2025-12-25T11:49:47"
-        },
-        {
-          "title": "Programming principles for self taught front-end developers",
-          "url": "https://piccalil.li/blog/programming-principles-for-self-taught-front-end-developers/",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "The majority of us are a bunch of self taught people with rather spotty knowledge and that’s fine. What's missing?",
-          "published_at": "2025-12-25T11:49:12"
-        },
-        {
-          "title": "Dialog view transitions",
-          "url": "https://medienbaecker.com/articles/dialog-view-transitions",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "Combining view transitions and the dialog element—possible?",
-          "published_at": "2025-12-25T11:48:36"
-        },
-        {
-          "title": "What jobs are made of",
-          "url": "https://thomwolf.substack.com/p/what-jobs-are-made-of",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "Judgment, agency, and the limits of AI benchmarks.",
-          "published_at": "2025-12-25T11:48:08"
-        }
-      ]
-    },
-    {
-      "category": "前端设计",
-      "count": 1,
-      "items": [
-        {
-          "title": "Thank You (2025 Edition)",
-          "url": "https://css-tricks.com/thank-you-2025-edition/",
-          "author": "Geoff Graham",
-          "category": "前端设计",
-          "source": "CSS-Tricks",
-          "summary": "This is the best job I've had in my life and it's only possible because you keep showing up each day to read, learn, share, and discuss all-things-front-end (and a little CSS, of course) with us.Thank...",
-          "published_at": "2025-12-23T15:52:53"
+          "summary": "适合初学者的UI设计完整学习路径",
+          "published_at": "2025-12-26T15:45:00"
         }
       ]
     }

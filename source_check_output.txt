@@ -1,0 +1,306 @@
+/Users/ithppc02110/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2025-10-30 15:07:15.950 | INFO     | __main__:check_all_sources:13 - 开始检查所有资讯来源...
+2025-10-30 15:07:15.952 | INFO     | __main__:check_all_sources:37 - 
+============================================================
+2025-10-30 15:07:15.952 | INFO     | __main__:check_all_sources:38 - 正在检查: UX Design CC
+2025-10-30 15:07:15.952 | INFO     | __main__:check_all_sources:39 - 类型: rss
+2025-10-30 15:07:15.952 | INFO     | __main__:check_all_sources:40 - URL: https://uxdesign.cc/feed
+2025-10-30 15:07:15.952 | INFO     | __main__:check_all_sources:41 - 分类: 用户体验设计
+2025-10-30 15:07:15.952 | INFO     | src.crawlers.base:crawl:159 - 开始爬取RSS UX Design CC - https://uxdesign.cc/feed
+2025-10-30 15:07:17.511 | SUCCESS  | src.crawlers.base:crawl:180 - 成功爬取RSS UX Design CC: 10 条资讯
+2025-10-30 15:07:17.511 | SUCCESS  | __main__:check_all_sources:48 - ✅ UX Design CC - 成功抓取 10 条
+2025-10-30 15:07:17.511 | INFO     | __main__:check_all_sources:58 -   1. Building AI-driven workflows powered by Claude Code and other tools
+2025-10-30 15:07:17.511 | INFO     | __main__:check_all_sources:58 -   2. How Estonia, AI gardens and plywood make designers prolific
+2025-10-30 15:07:17.511 | INFO     | __main__:check_all_sources:58 -   3. Recorded design walkthroughs: the best way to give your design a voice
+2025-10-30 15:07:17.511 | INFO     | __main__:check_all_sources:37 - 
+============================================================
+2025-10-30 15:07:17.511 | INFO     | __main__:check_all_sources:38 - 正在检查: Smashing Magazine
+2025-10-30 15:07:17.511 | INFO     | __main__:check_all_sources:39 - 类型: rss
+2025-10-30 15:07:17.511 | INFO     | __main__:check_all_sources:40 - URL: https://www.smashingmagazine.com/feed/
+2025-10-30 15:07:17.511 | INFO     | __main__:check_all_sources:41 - 分类: 网页设计
+2025-10-30 15:07:17.512 | INFO     | src.crawlers.base:crawl:159 - 开始爬取RSS Smashing Magazine - https://www.smashingmagazine.com/feed/
+/Users/ithppc02110/Documents/推送机器人/src/crawlers/base.py:203: MarkupResemblesLocatorWarning: The input looks more like a filename than markup. You may want to open this file and pass the filehandle into Beautiful Soup.
+  soup = BeautifulSoup(summary, 'html.parser')
+2025-10-30 15:07:19.471 | SUCCESS  | src.crawlers.base:crawl:180 - 成功爬取RSS Smashing Magazine: 10 条资讯
+2025-10-30 15:07:19.471 | SUCCESS  | __main__:check_all_sources:48 - ✅ Smashing Magazine - 成功抓取 10 条
+2025-10-30 15:07:19.471 | INFO     | __main__:check_all_sources:58 -   1. JavaScript For Everyone: Iterators
+2025-10-30 15:07:19.471 | INFO     | __main__:check_all_sources:58 -   2. Ambient Animations In Web Design: Practical Applications (Part 2)
+2025-10-30 15:07:19.471 | INFO     | __main__:check_all_sources:58 -   3. AI In UX: Achieve More With Less
+2025-10-30 15:07:19.471 | INFO     | __main__:check_all_sources:37 - 
+============================================================
+2025-10-30 15:07:19.471 | INFO     | __main__:check_all_sources:38 - 正在检查: A List Apart
+2025-10-30 15:07:19.471 | INFO     | __main__:check_all_sources:39 - 类型: rss
+2025-10-30 15:07:19.471 | INFO     | __main__:check_all_sources:40 - URL: https://alistapart.com/main/feed/
+2025-10-30 15:07:19.471 | INFO     | __main__:check_all_sources:41 - 分类: 网页设计
+2025-10-30 15:07:19.471 | INFO     | src.crawlers.base:crawl:159 - 开始爬取RSS A List Apart - https://alistapart.com/main/feed/
+2025-10-30 15:07:20.851 | SUCCESS  | src.crawlers.base:crawl:180 - 成功爬取RSS A List Apart: 6 条资讯
+2025-10-30 15:07:20.851 | SUCCESS  | __main__:check_all_sources:48 - ✅ A List Apart - 成功抓取 6 条
+2025-10-30 15:07:20.851 | INFO     | __main__:check_all_sources:58 -   1. Design for Amiability: Lessons from Vienna
+2025-10-30 15:07:20.851 | INFO     | __main__:check_all_sources:58 -   2. Design Dialects: Breaking the Rules, Not the System
+2025-10-30 15:07:20.851 | INFO     | __main__:check_all_sources:58 -   3. An Holistic Framework for Shared Design Leadership
+2025-10-30 15:07:20.851 | INFO     | __main__:check_all_sources:37 - 
+============================================================
+2025-10-30 15:07:20.851 | INFO     | __main__:check_all_sources:38 - 正在检查: Design Milk
+2025-10-30 15:07:20.851 | INFO     | __main__:check_all_sources:39 - 类型: rss
+2025-10-30 15:07:20.851 | INFO     | __main__:check_all_sources:40 - URL: https://design-milk.com/feed/
+2025-10-30 15:07:20.851 | INFO     | __main__:check_all_sources:41 - 分类: 产品设计
+2025-10-30 15:07:20.851 | INFO     | src.crawlers.base:crawl:159 - 开始爬取RSS Design Milk - https://design-milk.com/feed/
+2025-10-30 15:07:23.289 | SUCCESS  | src.crawlers.base:crawl:180 - 成功爬取RSS Design Milk: 6 条资讯
+2025-10-30 15:07:23.289 | SUCCESS  | __main__:check_all_sources:48 - ✅ Design Milk - 成功抓取 6 条
+2025-10-30 15:07:23.289 | INFO     | __main__:check_all_sources:58 -   1. KFI Studios Expands Dotti Collection With More Seating Options
+2025-10-30 15:07:23.289 | INFO     | __main__:check_all_sources:58 -   2. Having Trouble Keeping Your Plants Alive? Tendril Can Help
+2025-10-30 15:07:23.289 | INFO     | __main__:check_all_sources:58 -   3. The Nothing CMF Headphone Pro Can Be Tuned Like a Stereo
+2025-10-30 15:07:23.289 | INFO     | __main__:check_all_sources:37 - 
+============================================================
+2025-10-30 15:07:23.289 | INFO     | __main__:check_all_sources:38 - 正在检查: UX Planet
+2025-10-30 15:07:23.289 | INFO     | __main__:check_all_sources:39 - 类型: rss
+2025-10-30 15:07:23.289 | INFO     | __main__:check_all_sources:40 - URL: https://uxplanet.org/feed
+2025-10-30 15:07:23.289 | INFO     | __main__:check_all_sources:41 - 分类: 用户体验设计
+2025-10-30 15:07:23.289 | INFO     | src.crawlers.base:crawl:159 - 开始爬取RSS UX Planet - https://uxplanet.org/feed
+2025-10-30 15:07:25.274 | SUCCESS  | src.crawlers.base:crawl:180 - 成功爬取RSS UX Planet: 8 条资讯
+2025-10-30 15:07:25.274 | SUCCESS  | __main__:check_all_sources:48 - ✅ UX Planet - 成功抓取 8 条
+2025-10-30 15:07:25.274 | INFO     | __main__:check_all_sources:58 -   1. The First 90 Days as a Product or UX Designer
+2025-10-30 15:07:25.274 | INFO     | __main__:check_all_sources:58 -   2. Accessible Design vs. Inclusive Design: What’s the Difference?
+2025-10-30 15:07:25.274 | INFO     | __main__:check_all_sources:58 -   3. We Pay a Steep Price for our Digital Lives
+2025-10-30 15:07:25.274 | INFO     | __main__:check_all_sources:37 - 
+============================================================
+2025-10-30 15:07:25.274 | INFO     | __main__:check_all_sources:38 - 正在检查: Intercom Blog
+2025-10-30 15:07:25.274 | INFO     | __main__:check_all_sources:39 - 类型: rss
+2025-10-30 15:07:25.274 | INFO     | __main__:check_all_sources:40 - URL: https://blog.intercom.com/feed/
+2025-10-30 15:07:25.274 | INFO     | __main__:check_all_sources:41 - 分类: 产品设计
+2025-10-30 15:07:25.274 | INFO     | src.crawlers.base:crawl:159 - 开始爬取RSS Intercom Blog - https://blog.intercom.com/feed/
+2025-10-30 15:07:28.951 | SUCCESS  | src.crawlers.base:crawl:180 - 成功爬取RSS Intercom Blog: 6 条资讯
+2025-10-30 15:07:28.951 | SUCCESS  | __main__:check_all_sources:48 - ✅ Intercom Blog - 成功抓取 6 条
+2025-10-30 15:07:28.951 | INFO     | __main__:check_all_sources:58 -   1. Building our next R&D hub in Berlin
+2025-10-30 15:07:28.951 | INFO     | __main__:check_all_sources:58 -   2. Securely access Intercom data in ChatGPT
+2025-10-30 15:07:28.951 | INFO     | __main__:check_all_sources:58 -   3. Preparing for the Customer Agent future
+2025-10-30 15:07:28.951 | INFO     | __main__:check_all_sources:37 - 
+============================================================
+2025-10-30 15:07:28.951 | INFO     | __main__:check_all_sources:38 - 正在检查: Marvel Blog
+2025-10-30 15:07:28.951 | INFO     | __main__:check_all_sources:39 - 类型: rss
+2025-10-30 15:07:28.951 | INFO     | __main__:check_all_sources:40 - URL: https://blog.marvelapp.com/rss/
+2025-10-30 15:07:28.951 | INFO     | __main__:check_all_sources:41 - 分类: 原型设计
+2025-10-30 15:07:28.951 | INFO     | src.crawlers.base:crawl:159 - 开始爬取RSS Marvel Blog - https://blog.marvelapp.com/rss/
+2025-10-30 15:07:34.077 | SUCCESS  | src.crawlers.base:crawl:180 - 成功爬取RSS Marvel Blog: 4 条资讯
+2025-10-30 15:07:34.077 | SUCCESS  | __main__:check_all_sources:48 - ✅ Marvel Blog - 成功抓取 4 条
+2025-10-30 15:07:34.077 | INFO     | __main__:check_all_sources:58 -   1. Meet Ballpark – The new product research platform by Marvel
+2025-10-30 15:07:34.077 | INFO     | __main__:check_all_sources:58 -   2. Gender Inclusivity in Design
+2025-10-30 15:07:34.077 | INFO     | __main__:check_all_sources:58 -   3. How to run a Hackathon
+2025-10-30 15:07:34.077 | INFO     | __main__:check_all_sources:37 - 
+============================================================
+2025-10-30 15:07:34.077 | INFO     | __main__:check_all_sources:38 - 正在检查: UX Mastery
+2025-10-30 15:07:34.077 | INFO     | __main__:check_all_sources:39 - 类型: rss
+2025-10-30 15:07:34.077 | INFO     | __main__:check_all_sources:40 - URL: https://uxmastery.com/feed/
+2025-10-30 15:07:34.077 | INFO     | __main__:check_all_sources:41 - 分类: 用户体验设计
+2025-10-30 15:07:34.077 | INFO     | src.crawlers.base:crawl:159 - 开始爬取RSS UX Mastery - https://uxmastery.com/feed/
+2025-10-30 15:07:36.313 | SUCCESS  | src.crawlers.base:crawl:180 - 成功爬取RSS UX Mastery: 4 条资讯
+2025-10-30 15:07:36.313 | SUCCESS  | __main__:check_all_sources:48 - ✅ UX Mastery - 成功抓取 4 条
+2025-10-30 15:07:36.313 | INFO     | __main__:check_all_sources:58 -   1. Bad UX Examples: A Guideline to Prevent Errors
+2025-10-30 15:07:36.313 | INFO     | __main__:check_all_sources:58 -   2. The Difference Between A Product Designer and UX Designer
+2025-10-30 15:07:36.313 | INFO     | __main__:check_all_sources:58 -   3. The State of WordPress: UX and Insights for 2022
+2025-10-30 15:07:36.313 | INFO     | __main__:check_all_sources:37 - 
+============================================================
+2025-10-30 15:07:36.313 | INFO     | __main__:check_all_sources:38 - 正在检查: UX Myths
+2025-10-30 15:07:36.313 | INFO     | __main__:check_all_sources:39 - 类型: rss
+2025-10-30 15:07:36.313 | INFO     | __main__:check_all_sources:40 - URL: https://uxmyths.com/rss.xml
+2025-10-30 15:07:36.313 | INFO     | __main__:check_all_sources:41 - 分类: 用户体验设计
+2025-10-30 15:07:36.313 | INFO     | src.crawlers.base:crawl:159 - 开始爬取RSS UX Myths - https://uxmyths.com/rss.xml
+2025-10-30 15:07:40.321 | SUCCESS  | src.crawlers.base:crawl:180 - 成功爬取RSS UX Myths: 3 条资讯
+2025-10-30 15:07:40.321 | SUCCESS  | __main__:check_all_sources:48 - ✅ UX Myths - 成功抓取 3 条
+2025-10-30 15:07:40.321 | INFO     | __main__:check_all_sources:58 -   1. Myth #34: Simple = minimal
+2025-10-30 15:07:40.321 | INFO     | __main__:check_all_sources:58 -   2. Myth #33: Mobile users are distracted
+2025-10-30 15:07:40.321 | INFO     | __main__:check_all_sources:58 -   3. Myth #32: Success happens overnight
+2025-10-30 15:07:40.321 | INFO     | __main__:check_all_sources:37 - 
+============================================================
+2025-10-30 15:07:40.321 | INFO     | __main__:check_all_sources:38 - 正在检查: CSS-Tricks
+2025-10-30 15:07:40.321 | INFO     | __main__:check_all_sources:39 - 类型: rss
+2025-10-30 15:07:40.321 | INFO     | __main__:check_all_sources:40 - URL: https://css-tricks.com/feed/
+2025-10-30 15:07:40.321 | INFO     | __main__:check_all_sources:41 - 分类: 前端设计
+2025-10-30 15:07:40.321 | INFO     | src.crawlers.base:crawl:159 - 开始爬取RSS CSS-Tricks - https://css-tricks.com/feed/
+2025-10-30 15:07:43.151 | SUCCESS  | src.crawlers.base:crawl:180 - 成功爬取RSS CSS-Tricks: 5 条资讯
+2025-10-30 15:07:43.151 | SUCCESS  | __main__:check_all_sources:48 - ✅ CSS-Tricks - 成功抓取 5 条
+2025-10-30 15:07:43.151 | INFO     | __main__:check_all_sources:58 -   1. Getting Creative With Small Screens
+2025-10-30 15:07:43.151 | INFO     | __main__:check_all_sources:58 -   2. Pure CSS Tabs With Details, Grid, and Subgrid
+2025-10-30 15:07:43.151 | INFO     | __main__:check_all_sources:58 -   3. CSS Animations That Leverage the Parent-Child Relationship
+2025-10-30 15:07:43.152 | INFO     | __main__:check_all_sources:37 - 
+============================================================
+2025-10-30 15:07:43.152 | INFO     | __main__:check_all_sources:38 - 正在检查: Inside Design by InVision
+2025-10-30 15:07:43.152 | INFO     | __main__:check_all_sources:39 - 类型: rss
+2025-10-30 15:07:43.152 | INFO     | __main__:check_all_sources:40 - URL: https://www.invisionapp.com/inside-design/rss.xml
+2025-10-30 15:07:43.152 | INFO     | __main__:check_all_sources:41 - 分类: UI设计
+2025-10-30 15:07:43.152 | INFO     | src.crawlers.base:crawl:159 - 开始爬取RSS Inside Design by InVision - https://www.invisionapp.com/inside-design/rss.xml
+2025-10-30 15:07:47.812 | WARNING  | src.crawlers.base:crawl:166 - RSS feed parsing warning for Inside Design by InVision: <unknown>:2:0: syntax error
+2025-10-30 15:07:47.812 | SUCCESS  | src.crawlers.base:crawl:180 - 成功爬取RSS Inside Design by InVision: 0 条资讯
+2025-10-30 15:07:47.812 | WARNING  | __main__:check_all_sources:60 - ⚠️  Inside Design by InVision - 未抓取到任何内容
+2025-10-30 15:07:47.812 | INFO     | __main__:check_all_sources:37 - 
+============================================================
+2025-10-30 15:07:47.812 | INFO     | __main__:check_all_sources:38 - 正在检查: UX Collective
+2025-10-30 15:07:47.813 | INFO     | __main__:check_all_sources:39 - 类型: rss
+2025-10-30 15:07:47.813 | INFO     | __main__:check_all_sources:40 - URL: https://uxdesign.cc/feed/tagged/ux-collective
+2025-10-30 15:07:47.813 | INFO     | __main__:check_all_sources:41 - 分类: 用户体验设计
+2025-10-30 15:07:47.813 | INFO     | src.crawlers.base:crawl:159 - 开始爬取RSS UX Collective - https://uxdesign.cc/feed/tagged/ux-collective
+2025-10-30 15:07:50.169 | SUCCESS  | src.crawlers.base:crawl:180 - 成功爬取RSS UX Collective: 1 条资讯
+2025-10-30 15:07:50.170 | SUCCESS  | __main__:check_all_sources:48 - ✅ UX Collective - 成功抓取 1 条
+2025-10-30 15:07:50.170 | INFO     | __main__:check_all_sources:58 -   1. The UX Collective careers initiatives
+2025-10-30 15:07:50.170 | INFO     | __main__:check_all_sources:37 - 
+============================================================
+2025-10-30 15:07:50.170 | INFO     | __main__:check_all_sources:38 - 正在检查: Product Hunt
+2025-10-30 15:07:50.170 | INFO     | __main__:check_all_sources:39 - 类型: web
+2025-10-30 15:07:50.170 | INFO     | __main__:check_all_sources:40 - URL: https://www.producthunt.com/
+2025-10-30 15:07:50.170 | INFO     | __main__:check_all_sources:41 - 分类: 产品发现
+2025-10-30 15:07:50.171 | INFO     | src.crawlers.base:crawl:62 - 开始爬取 Product Hunt - https://www.producthunt.com/
+2025-10-30 15:07:52.054 | ERROR    | src.crawlers.base:_get_page_content:54 - Failed to fetch https://www.producthunt.com/: 403 Client Error: Forbidden for url: https://www.producthunt.com/
+2025-10-30 15:07:52.056 | WARNING  | __main__:check_all_sources:60 - ⚠️  Product Hunt - 未抓取到任何内容
+2025-10-30 15:07:52.056 | INFO     | __main__:check_all_sources:37 - 
+============================================================
+2025-10-30 15:07:52.057 | INFO     | __main__:check_all_sources:38 - 正在检查: Sidebar
+2025-10-30 15:07:52.057 | INFO     | __main__:check_all_sources:39 - 类型: rss
+2025-10-30 15:07:52.057 | INFO     | __main__:check_all_sources:40 - URL: https://sidebar.io/feed.xml
+2025-10-30 15:07:52.057 | INFO     | __main__:check_all_sources:41 - 分类: 设计资讯
+2025-10-30 15:07:52.057 | INFO     | src.crawlers.base:crawl:159 - 开始爬取RSS Sidebar - https://sidebar.io/feed.xml
+2025-10-30 15:07:54.416 | WARNING  | src.crawlers.base:crawl:166 - RSS feed parsing warning for Sidebar: text/html; charset=utf-8 is not an XML media type
+2025-10-30 15:07:54.417 | SUCCESS  | src.crawlers.base:crawl:180 - 成功爬取RSS Sidebar: 5 条资讯
+2025-10-30 15:07:54.417 | SUCCESS  | __main__:check_all_sources:48 - ✅ Sidebar - 成功抓取 5 条
+2025-10-30 15:07:54.417 | INFO     | __main__:check_all_sources:58 -   1. Everything is television
+2025-10-30 15:07:54.417 | INFO     | __main__:check_all_sources:58 -   2. LinkedIn wisdom generator
+2025-10-30 15:07:54.417 | INFO     | __main__:check_all_sources:58 -   3. Creating prototypes constrained by the medium not our skills or understanding
+2025-10-30 15:07:54.417 | INFO     | __main__:check_all_sources:37 - 
+============================================================
+2025-10-30 15:07:54.417 | INFO     | __main__:check_all_sources:38 - 正在检查: NN/g (Nielsen Norman Group)
+2025-10-30 15:07:54.417 | INFO     | __main__:check_all_sources:39 - 类型: web
+2025-10-30 15:07:54.417 | INFO     | __main__:check_all_sources:40 - URL: https://www.nngroup.com/articles/
+2025-10-30 15:07:54.417 | INFO     | __main__:check_all_sources:41 - 分类: 用户体验研究
+2025-10-30 15:07:54.417 | INFO     | src.crawlers.base:crawl:62 - 开始爬取 NN/g (Nielsen Norman Group) - https://www.nngroup.com/articles/
+2025-10-30 15:07:57.073 | SUCCESS  | src.crawlers.base:crawl:84 - 成功爬取 NN/g (Nielsen Norman Group): 6 条资讯
+2025-10-30 15:07:57.073 | SUCCESS  | __main__:check_all_sources:48 - ✅ NN/g (Nielsen Norman Group) - 成功抓取 6 条
+2025-10-30 15:07:57.073 | INFO     | __main__:check_all_sources:58 -   1. Good from Afar, But Far from Good: AI Prototyping in Real Design Contexts
+2025-10-30 15:07:57.073 | INFO     | __main__:check_all_sources:58 -   2. The Edge Cases that Break Hearts (And Products)
+2025-10-30 15:07:57.073 | INFO     | __main__:check_all_sources:58 -   3. Designing AI Products and Features: Study Guide
+2025-10-30 15:07:57.073 | INFO     | __main__:check_all_sources:37 - 
+============================================================
+2025-10-30 15:07:57.073 | INFO     | __main__:check_all_sources:38 - 正在检查: Awwwards
+2025-10-30 15:07:57.073 | INFO     | __main__:check_all_sources:39 - 类型: web
+2025-10-30 15:07:57.073 | INFO     | __main__:check_all_sources:40 - URL: https://www.awwwards.com/websites/sites_of_the_day/
+2025-10-30 15:07:57.073 | INFO     | __main__:check_all_sources:41 - 分类: 网页设计
+2025-10-30 15:07:57.075 | INFO     | src.crawlers.base:crawl:62 - 开始爬取 Awwwards - https://www.awwwards.com/websites/sites_of_the_day/
+2025-10-30 15:08:00.864 | SUCCESS  | src.crawlers.base:crawl:84 - 成功爬取 Awwwards: 8 条资讯
+2025-10-30 15:08:00.864 | SUCCESS  | __main__:check_all_sources:48 - ✅ Awwwards - 成功抓取 8 条
+2025-10-30 15:08:00.864 | INFO     | __main__:check_all_sources:58 -   1. Urban Jürgensen
+2025-10-30 15:08:00.864 | INFO     | __main__:check_all_sources:58 -   2. Orage
+2025-10-30 15:08:00.864 | INFO     | __main__:check_all_sources:58 -   3. Hut 8
+2025-10-30 15:08:00.864 | INFO     | __main__:check_all_sources:37 - 
+============================================================
+2025-10-30 15:08:00.864 | INFO     | __main__:check_all_sources:38 - 正在检查: Mobbin
+2025-10-30 15:08:00.864 | INFO     | __main__:check_all_sources:39 - 类型: web
+2025-10-30 15:08:00.864 | INFO     | __main__:check_all_sources:40 - URL: https://mobbin.com/
+2025-10-30 15:08:00.864 | INFO     | __main__:check_all_sources:41 - 分类: 移动设计
+2025-10-30 15:08:00.865 | INFO     | src.crawlers.base:crawl:62 - 开始爬取 Mobbin - https://mobbin.com/
+2025-10-30 15:08:02.049 | ERROR    | src.crawlers.base:_get_page_content:54 - Failed to fetch https://mobbin.com/: 429 Client Error: Too Many Requests for url: https://mobbin.com/
+2025-10-30 15:08:02.050 | WARNING  | __main__:check_all_sources:60 - ⚠️  Mobbin - 未抓取到任何内容
+2025-10-30 15:08:02.050 | INFO     | __main__:check_all_sources:37 - 
+============================================================
+2025-10-30 15:08:02.050 | INFO     | __main__:check_all_sources:38 - 正在检查: Pttrns
+2025-10-30 15:08:02.050 | INFO     | __main__:check_all_sources:39 - 类型: web
+2025-10-30 15:08:02.050 | INFO     | __main__:check_all_sources:40 - URL: https://www.pttrns.com/
+2025-10-30 15:08:02.051 | INFO     | __main__:check_all_sources:41 - 分类: UI设计模式
+2025-10-30 15:08:02.054 | INFO     | src.crawlers.base:crawl:62 - 开始爬取 Pttrns - https://www.pttrns.com/
+2025-10-30 15:08:04.195 | SUCCESS  | src.crawlers.base:crawl:84 - 成功爬取 Pttrns: 0 条资讯
+2025-10-30 15:08:04.195 | WARNING  | __main__:check_all_sources:60 - ⚠️  Pttrns - 未抓取到任何内容
+2025-10-30 15:08:04.195 | INFO     | __main__:check_all_sources:37 - 
+============================================================
+2025-10-30 15:08:04.195 | INFO     | __main__:check_all_sources:38 - 正在检查: UI Movement
+2025-10-30 15:08:04.196 | INFO     | __main__:check_all_sources:39 - 类型: web
+2025-10-30 15:08:04.196 | INFO     | __main__:check_all_sources:40 - URL: https://uimovement.com/
+2025-10-30 15:08:04.196 | INFO     | __main__:check_all_sources:41 - 分类: UI动画
+2025-10-30 15:08:04.197 | INFO     | src.crawlers.base:crawl:62 - 开始爬取 UI Movement - https://uimovement.com/
+2025-10-30 15:08:08.671 | SUCCESS  | src.crawlers.base:crawl:84 - 成功爬取 UI Movement: 0 条资讯
+2025-10-30 15:08:08.672 | WARNING  | __main__:check_all_sources:60 - ⚠️  UI Movement - 未抓取到任何内容
+2025-10-30 15:08:08.672 | INFO     | __main__:check_all_sources:37 - 
+============================================================
+2025-10-30 15:08:08.672 | INFO     | __main__:check_all_sources:38 - 正在检查: 腾讯ISUX
+2025-10-30 15:08:08.672 | INFO     | __main__:check_all_sources:39 - 类型: web
+2025-10-30 15:08:08.672 | INFO     | __main__:check_all_sources:40 - URL: https://isux.tencent.com/
+2025-10-30 15:08:08.672 | INFO     | __main__:check_all_sources:41 - 分类: 设计团队
+2025-10-30 15:08:08.673 | INFO     | src.crawlers.base:crawl:62 - 开始爬取 腾讯ISUX - https://isux.tencent.com/
+2025-10-30 15:08:09.894 | SUCCESS  | src.crawlers.base:crawl:84 - 成功爬取 腾讯ISUX: 0 条资讯
+2025-10-30 15:08:09.894 | WARNING  | __main__:check_all_sources:60 - ⚠️  腾讯ISUX - 未抓取到任何内容
+2025-10-30 15:08:09.894 | INFO     | __main__:check_all_sources:37 - 
+============================================================
+2025-10-30 15:08:09.894 | INFO     | __main__:check_all_sources:38 - 正在检查: 优设网
+2025-10-30 15:08:09.894 | INFO     | __main__:check_all_sources:39 - 类型: web
+2025-10-30 15:08:09.894 | INFO     | __main__:check_all_sources:40 - URL: https://www.uisdc.com/
+2025-10-30 15:08:09.894 | INFO     | __main__:check_all_sources:41 - 分类: 设计教程
+2025-10-30 15:08:09.895 | INFO     | src.crawlers.base:crawl:62 - 开始爬取 优设网 - https://www.uisdc.com/
+2025-10-30 15:08:11.357 | SUCCESS  | src.crawlers.base:crawl:84 - 成功爬取 优设网: 6 条资讯
+2025-10-30 15:08:11.357 | SUCCESS  | __main__:check_all_sources:48 - ✅ 优设网 - 成功抓取 6 条
+2025-10-30 15:08:11.357 | INFO     | __main__:check_all_sources:58 -   1. 一键生成品牌营销物料！谷歌发布重磅AI设计产品Pomelli
+2025-10-30 15:08:11.357 | INFO     | __main__:check_all_sources:58 -   2. 从7天缩短到10分钟！腾讯全新的AI全流程3D建模神器太强了！
+2025-10-30 15:08:11.357 | INFO     | __main__:check_all_sources:58 -   3. AI友好型组件库才是未来？4个特点帮你快速了解！
+2025-10-30 15:08:11.357 | INFO     | __main__:check_all_sources:37 - 
+============================================================
+2025-10-30 15:08:11.357 | INFO     | __main__:check_all_sources:38 - 正在检查: 设计达人
+2025-10-30 15:08:11.357 | INFO     | __main__:check_all_sources:39 - 类型: web
+2025-10-30 15:08:11.357 | INFO     | __main__:check_all_sources:40 - URL: https://www.shejidaren.com/
+2025-10-30 15:08:11.357 | INFO     | __main__:check_all_sources:41 - 分类: 设计资源
+2025-10-30 15:08:11.358 | INFO     | src.crawlers.base:crawl:62 - 开始爬取 设计达人 - https://www.shejidaren.com/
+2025-10-30 15:08:12.660 | SUCCESS  | src.crawlers.base:crawl:84 - 成功爬取 设计达人: 5 条资讯
+2025-10-30 15:08:12.660 | SUCCESS  | __main__:check_all_sources:48 - ✅ 设计达人 - 成功抓取 5 条
+2025-10-30 15:08:12.660 | INFO     | __main__:check_all_sources:58 -   1. 高级感拉满的手写英文字体下载-Baliung
+2025-10-30 15:08:12.660 | INFO     | __main__:check_all_sources:58 -   2. PS实现电影金鸡奖官方海报的炫光效果教程
+2025-10-30 15:08:12.660 | INFO     | __main__:check_all_sources:58 -   3. 20+款优质免费商用宋体合集，再也不怕字体侵权了
+2025-10-30 15:08:12.660 | INFO     | __main__:check_all_sources:37 - 
+============================================================
+2025-10-30 15:08:12.660 | INFO     | __main__:check_all_sources:38 - 正在检查: 腾讯TGideas
+2025-10-30 15:08:12.661 | INFO     | __main__:check_all_sources:39 - 类型: web
+2025-10-30 15:08:12.661 | INFO     | __main__:check_all_sources:40 - URL: https://tgideas.qq.com/list.html
+2025-10-30 15:08:12.661 | INFO     | __main__:check_all_sources:41 - 分类: 游戏设计
+2025-10-30 15:08:12.662 | INFO     | src.crawlers.base:crawl:62 - 开始爬取 腾讯TGideas - https://tgideas.qq.com/list.html
+2025-10-30 15:08:13.768 | SUCCESS  | src.crawlers.base:crawl:84 - 成功爬取 腾讯TGideas: 0 条资讯
+2025-10-30 15:08:13.769 | WARNING  | __main__:check_all_sources:60 - ⚠️  腾讯TGideas - 未抓取到任何内容
+
+============================================================
+📊 检查结果汇总
+============================================================
+总来源数: 23
+已启用: 23
+已禁用: 0
+✅ 成功抓取: 16
+⚠️  抓取为空: 7
+❌ 抓取失败: 0
+
+✅ 成功抓取的来源:
+  - UX Design CC (rss): 10 条 - 用户体验设计
+  - Smashing Magazine (rss): 10 条 - 网页设计
+  - A List Apart (rss): 6 条 - 网页设计
+  - Design Milk (rss): 6 条 - 产品设计
+  - UX Planet (rss): 8 条 - 用户体验设计
+  - Intercom Blog (rss): 6 条 - 产品设计
+  - Marvel Blog (rss): 4 条 - 原型设计
+  - UX Mastery (rss): 4 条 - 用户体验设计
+  - UX Myths (rss): 3 条 - 用户体验设计
+  - CSS-Tricks (rss): 5 条 - 前端设计
+  - UX Collective (rss): 1 条 - 用户体验设计
+  - Sidebar (rss): 5 条 - 设计资讯
+  - NN/g (Nielsen Norman Group) (web): 6 条 - 用户体验研究
+  - Awwwards (web): 8 条 - 网页设计
+  - 优设网 (web): 6 条 - 设计教程
+  - 设计达人 (web): 5 条 - 设计资源
+
+⚠️  抓取为空的来源 (可能需要更新选择器):
+  - Inside Design by InVision (rss) - UI设计
+    URL: https://www.invisionapp.com/inside-design/rss.xml
+  - Product Hunt (web) - 产品发现
+    URL: https://www.producthunt.com/
+  - Mobbin (web) - 移动设计
+    URL: https://mobbin.com/
+  - Pttrns (web) - UI设计模式
+    URL: https://www.pttrns.com/
+  - UI Movement (web) - UI动画
+    URL: https://uimovement.com/
+  - 腾讯ISUX (web) - 设计团队
+    URL: https://isux.tencent.com/
+  - 腾讯TGideas (web) - 游戏设计
+    URL: https://tgideas.qq.com/list.html
+
+📄 详细报告已保存至: /Users/ithppc02110/Documents/推送机器人/source_check_report.json

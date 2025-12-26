@@ -1,0 +1,84 @@
+{
+  "timestamp": "2025-10-10T14:35:46.589127",
+  "environment": {
+    "python_version": "3.9.6 (default, Mar 29 2024, 10:51:09) \n[Clang 15.0.0 (clang-1500.3.9.4)]",
+    "working_directory": "/Users/ithppc02110/Documents/推送机器人",
+    "key_files": {
+      "api/refresh.py": "exists",
+      "actions_refresh.py": "exists",
+      ".github/workflows/deploy.yml": "exists",
+      "config/sources.json": "exists",
+      "templates/base.html": "exists",
+      "vercel.json": "exists"
+    },
+    "dependencies": "installed"
+  },
+  "api": {
+    "local": {},
+    "production": {
+      "/api/health": {
+        "status": 200,
+        "accessible": true
+      },
+      "/api/status": {
+        "status": 200,
+        "accessible": true
+      },
+      "/api/debug": {
+        "status": 200,
+        "accessible": true
+      }
+    }
+  },
+  "github": {
+    "workflow_file": true,
+    "repository_accessible": true,
+    "recent_runs": [
+      {
+        "status": "failure",
+        "created_at": "2025-10-10T06:30:43Z"
+      },
+      {
+        "status": "failure",
+        "created_at": "2025-10-10T01:42:32Z"
+      },
+      {
+        "status": "failure",
+        "created_at": "2025-10-09T12:46:25Z"
+      },
+      {
+        "status": "failure",
+        "created_at": "2025-10-09T01:42:05Z"
+      },
+      {
+        "status": "failure",
+        "created_at": "2025-10-08T12:46:43Z"
+      }
+    ]
+  },
+  "issues": [
+    {
+      "severity": "high",
+      "component": "github_actions",
+      "message": "GitHub Actions运行失败: 2025-10-10T06:30:43Z"
+    },
+    {
+      "severity": "high",
+      "component": "github_actions",
+      "message": "GitHub Actions运行失败: 2025-10-10T01:42:32Z"
+    },
+    {
+      "severity": "high",
+      "component": "github_actions",
+      "message": "GitHub Actions运行失败: 2025-10-09T12:46:25Z"
+    }
+  ],
+  "recommendations": [
+    "配置GitHub Token: 在Vercel环境变量中添加GITHUB_TOKEN",
+    "配置Vercel部署密钥: 在GitHub Secrets中添加VERCEL_TOKEN, ORG_ID, PROJECT_ID",
+    "查看详细配置指南: VERCEL_GITHUB_TOKEN_SETUP.md 和 GITHUB_SECRETS_修复指南.md",
+    "运行测试脚本验证修复: python3 test_api_simple.py",
+    "查看完整文档: 使用指南.md"
+  ],
+  "overall_status": "warning"
+}
