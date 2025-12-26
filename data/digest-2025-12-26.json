@@ -1,20 +1,20 @@
 {
   "date": "2025-12-26T00:00:00",
-  "total_items": 51,
+  "total_items": 48,
   "sources": [
-    "A List Apart",
-    "Design Milk",
-    "Sidebar",
     "Product Hunt",
     "优设网",
-    "CSS-Tricks",
+    "A List Apart",
+    "Sidebar",
     "Awwwards",
-    "Smashing Magazine",
+    "Design Milk",
+    "CSS-Tricks",
     "UX Design CC",
+    "NN/g (Nielsen Norman Group)",
     "UX Planet",
-    "NN/g (Nielsen Norman Group)"
+    "Smashing Magazine"
   ],
-  "generated_at": "2025-12-26T06:52:20.859400",
+  "generated_at": "2025-12-26T12:50:26.068182",
   "categories": [
     {
       "category": "用户体验设计",
@@ -348,52 +348,25 @@
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 2,
       "items": [
         {
-          "title": "Press Pitch",
-          "url": "https://www.producthunt.com/products/press-pitch",
-          "author": "Rashid Khasanov",
+          "title": "Tubeletter",
+          "url": "https://www.producthunt.com/products/tubeletter",
+          "author": "Hakeem",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Generate a ready-to-send pitch for journalists in seconds.Discussion|Link",
-          "published_at": "2025-12-24T18:27:54"
+          "summary": "Turn Youtube vides into newslettersDiscussion|Link",
+          "published_at": "2025-12-24T18:04:00"
         },
         {
-          "title": "Dvina",
-          "url": "https://www.producthunt.com/products/dvina-2",
-          "author": "Jan Omer ODABAS",
+          "title": "CrowdSynthetic",
+          "url": "https://www.producthunt.com/products/crowdsynthetic-ai-crowd-safety",
+          "author": "Manikandan Jayaprakash",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Private AI that connects 120+ apps and your live databasesDiscussion|Link",
-          "published_at": "2025-12-24T00:09:47"
-        },
-        {
-          "title": "Reddit Summarizer",
-          "url": "https://www.producthunt.com/products/reddit-summarizer",
-          "author": "Martin Machava",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Summarize long Reddit threads with one clickDiscussion|Link",
-          "published_at": "2025-12-24T20:48:07"
-        },
-        {
-          "title": "PurrrrrFocus Pomodoro",
-          "url": "https://www.producthunt.com/products/purrrrrfocus-pomodoro",
-          "author": "louis chen",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Turn focus into a delightful journey with cute cat companionDiscussion|Link",
-          "published_at": "2025-12-24T10:22:38"
-        },
-        {
-          "title": "Santa Videos",
-          "url": "https://www.producthunt.com/products/creatorkit",
-          "author": "Kevin Natanzon",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Bring Santa to life with AIDiscussion|Link",
-          "published_at": "2025-12-24T07:46:02"
+          "summary": "Predict crowd congestion before it happensDiscussion|Link",
+          "published_at": "2025-12-26T05:29:53"
         }
       ]
     },
@@ -462,49 +435,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Six surprising illustration trends for 2026",
-          "url": "https://www.creativeboom.com/inspiration/six-surprising-illustration-trends-for-2026/",
+          "title": "Nobody knows how large software products work",
+          "url": "https://www.seangoedecke.com/nobody-knows-how-software-products-work/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Creative Boom asked a selection of artists and their representatives to cast their minds ahead and visualize what’s in store for the next 12 months.",
-          "published_at": "2025-12-25T11:50:21"
+          "summary": "Sometimes there are zero people at the organization who can answer complex questions about how the product works.",
+          "published_at": "2025-12-26T10:02:30"
         },
         {
-          "title": "Can design make you healthier?",
-          "url": "https://www.wallpaper.com/architecture/architecture-and-wellness",
+          "title": "Rebuilding graphs for accessibility",
+          "url": "https://blog.khanacademy.org/rebuilding-graphs-for-accessibility-inside-khan-academys-inclusive-designrebuilding-graphs-for-accessibility-inside-khan-academys-inclusive-design/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Our built environment can have a direct impact on physical and mental wellbeing. How are architects creating spaces that support health and humanity?",
-          "published_at": "2025-12-25T11:49:47"
+          "summary": "How Khan Academy rebuilt its graphing tools to be accessible for all learners—including those using screen readers, keyboards, and assistive tech.",
+          "published_at": "2025-12-26T10:01:30"
         },
         {
-          "title": "Programming principles for self taught front-end developers",
-          "url": "https://piccalil.li/blog/programming-principles-for-self-taught-front-end-developers/",
+          "title": "The designer’s playbook for AI products",
+          "url": "https://medium.com/design-bootcamp/the-designers-playbook-for-ai-products-4549c3d1b648",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The majority of us are a bunch of self taught people with rather spotty knowledge and that’s fine. What's missing?",
-          "published_at": "2025-12-25T11:49:12"
+          "summary": "Research, case studies, and experiments to figure out what actually works when it comes to AI.",
+          "published_at": "2025-12-26T10:00:55"
         },
         {
-          "title": "Dialog view transitions",
-          "url": "https://medienbaecker.com/articles/dialog-view-transitions",
+          "title": "Convert words to time",
+          "url": "https://wordstotime.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Combining view transitions and the dialog element—possible?",
-          "published_at": "2025-12-25T11:48:36"
+          "summary": "Quickly convert the number of words in a talk, presentation, or speech to how many minutes it will take to read.",
+          "published_at": "2025-12-26T09:59:43"
         },
         {
-          "title": "What jobs are made of",
-          "url": "https://thomwolf.substack.com/p/what-jobs-are-made-of",
+          "title": "Avoid mini-frameworks",
+          "url": "https://laike9m.com/blog/avoid-mini-frameworks,171/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Judgment, agency, and the limits of AI benchmarks.",
-          "published_at": "2025-12-25T11:48:08"
+          "summary": "One pattern comes along again and again, causing endless pain for developers, that is, creating mini-frameworks.",
+          "published_at": "2025-12-26T09:59:06"
         }
       ]
     },
