@@ -2,30 +2,21 @@
   "date": "2025-12-28T00:00:00",
   "total_items": 40,
   "sources": [
-    "Design Milk",
     "Sidebar",
+    "Design Milk",
     "Awwwards",
     "优设网",
-    "Product Hunt",
     "UX Design CC",
+    "NN/g (Nielsen Norman Group)",
     "A List Apart",
-    "NN/g (Nielsen Norman Group)"
+    "Product Hunt"
   ],
-  "generated_at": "2025-12-28T02:09:20.919871",
+  "generated_at": "2025-12-28T12:48:34.802649",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 3,
+      "count": 2,
       "items": [
-        {
-          "title": "If slamming AI makes your mornings better, let me serve you a fresh cup",
-          "url": "https://uxdesign.cc/if-slamming-ai-makes-your-mornings-better-let-me-serve-you-a-fresh-cup-b5050778a1fe?source=rss----138adf9c44c---4",
-          "author": "Rita Kind-Envy",
-          "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "What can one learn from a disaster called GitHub Copilot?Continue reading on UX Collective »",
-          "published_at": "2025-12-27T07:22:43"
-        },
         {
           "title": "How PMs can vibe code to build stronger requirements",
           "url": "https://uxdesign.cc/how-pms-can-vibe-code-to-build-stronger-requirements-11faeedb5274?source=rss----138adf9c44c---4",
@@ -189,6 +180,15 @@
           "published_at": null
         },
         {
+          "title": "Superlocal Design Festival 25",
+          "url": "https://www.awwwards.com/sites/superlocal-design-festival-25",
+          "author": "++hellohello",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Artiom Yakushev",
           "url": "https://www.awwwards.com/sites/artiom-yakushev",
           "author": "Artiom Yakushev",
@@ -250,57 +250,57 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "The House of Wonders",
-          "url": "https://www.awwwards.com/sites/the-house-of-wonders",
-          "author": "makemepulse",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Xteink X4",
-          "url": "https://www.producthunt.com/products/xteink-x4",
-          "author": "Gabe Perez",
+          "title": "Optivault",
+          "url": "https://www.producthunt.com/products/optivault-ai-financial-advisor-app",
+          "author": "ayman",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Ultra light, magnetic E-reader that attaches to your phoneDiscussion|Link",
-          "published_at": "2025-12-27T07:53:52"
+          "summary": "AI financial advisor that optimizes your money and budget.Discussion|Link",
+          "published_at": "2025-12-27T12:06:59"
         },
         {
-          "title": "Product Hunt Wrapped 2025",
-          "url": "https://www.producthunt.com/products/product-hunt-wrapped-2025",
-          "author": "Zac Zuo",
+          "title": "Linkeddit",
+          "url": "https://www.producthunt.com/products/linkeddit",
+          "author": "Om Patel",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your 2025 maker journey, visualized.Discussion|Link",
-          "published_at": "2025-12-25T10:48:00"
+          "summary": "Find Your Next Customers on Reddit Who Are Ready To Buy NowDiscussion|Link",
+          "published_at": "2025-12-28T00:28:02"
         },
         {
-          "title": "ZapZipped",
-          "url": "https://www.producthunt.com/products/zapzipped",
-          "author": "João Vitor Martins",
+          "title": "VibrantSnap",
+          "url": "https://www.producthunt.com/products/vibrantsnap",
+          "author": "Healsha",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your WhatsApp groups, wrapped - now with DNA & top momentsDiscussion|Link",
-          "published_at": "2025-12-26T15:47:36"
+          "summary": "Create & Share Videos That ConvertDiscussion|Link",
+          "published_at": "2025-12-27T12:15:21"
         },
         {
-          "title": "CrowdSynthetic",
-          "url": "https://www.producthunt.com/products/crowdsynthetic-ai-crowd-safety",
-          "author": "Manikandan Jayaprakash",
+          "title": "Meetings Wrapped",
+          "url": "https://www.producthunt.com/products/meetings-wrapped",
+          "author": "Sagar Chauhan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Predict crowd congestion before it happensDiscussion|Link",
-          "published_at": "2025-12-26T05:29:53"
+          "summary": "Meetings that could have been emails analyzed & visualized.Discussion|Link",
+          "published_at": "2025-12-26T18:23:33"
+        },
+        {
+          "title": "StandBy Mode Pro",
+          "url": "https://www.producthunt.com/products/standby-mode-pro",
+          "author": "Wesley Jonathan Marcolino",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Turn your Android into a Smart Display while chargingDiscussion|Link",
+          "published_at": "2025-12-27T19:51:02"
         }
       ]
     },
