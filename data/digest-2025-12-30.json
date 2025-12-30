@@ -1,18 +1,17 @@
 {
   "date": "2025-12-30T00:00:00",
-  "total_items": 44,
+  "total_items": 35,
   "sources": [
     "UX Design CC",
-    "Awwwards",
     "优设网",
-    "A List Apart",
     "Sidebar",
-    "Design Milk",
     "NN/g (Nielsen Norman Group)",
-    "UX Planet",
-    "Product Hunt"
+    "Design Milk",
+    "Product Hunt",
+    "A List Apart",
+    "UX Planet"
   ],
-  "generated_at": "2025-12-30T01:59:15.861649",
+  "generated_at": "2025-12-30T08:00:10.238218",
   "categories": [
     {
       "category": "用户体验设计",
@@ -142,7 +141,7 @@
     },
     {
       "category": "网页设计",
-      "count": 14,
+      "count": 6,
       "items": [
         {
           "title": "Design for Amiability: Lessons from Vienna",
@@ -197,85 +196,49 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
-        },
-        {
-          "title": "MindMarket",
-          "url": "https://www.awwwards.com/sites/mindmarket",
-          "author": "Louis Paquet",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Superlocal Design Festival 25",
-          "url": "https://www.awwwards.com/sites/superlocal-design-festival-25",
-          "author": "++hellohello",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Artiom Yakushev",
-          "url": "https://www.awwwards.com/sites/artiom-yakushev",
-          "author": "Artiom Yakushev",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Paris by Emily",
-          "url": "https://www.awwwards.com/sites/paris-by-emily",
-          "author": "LOOP",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Tesoro",
-          "url": "https://www.awwwards.com/sites/tesoro-1",
-          "author": "Jordan Gilroy",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Ousmane Dembélé ⏤ Ballon d'Or",
-          "url": "https://www.awwwards.com/sites/ousmane-dembele-ballon-dor",
-          "author": "FLOT NOIR",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "The Creative Website Manual™",
-          "url": "https://www.awwwards.com/sites/the-creative-website-manualtm",
-          "author": "Huy Nguyen",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "StringTune",
-          "url": "https://www.awwwards.com/sites/stringtune",
-          "author": "Fiddle.Digital Design Agency",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 7,
+      "count": 6,
       "items": [
+        {
+          "title": "Molmo 2",
+          "url": "https://www.producthunt.com/products/allen-institute-of-artificial-intelligence",
+          "author": "Zac Zuo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "SOTA video understanding, pointing, and tracking VLMDiscussion|Link",
+          "published_at": "2025-12-29T04:00:12"
+        },
+        {
+          "title": "Plannotator",
+          "url": "https://www.producthunt.com/products/plannotator",
+          "author": "Michael",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Annotate, review, and share Claude Code plans. (Plugin/Hook)Discussion|Link",
+          "published_at": "2025-12-29T03:59:07"
+        },
+        {
+          "title": "BetaCircle",
+          "url": "https://www.producthunt.com/products/betacircle",
+          "author": "Cristian Tarquini",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Get 12 android testers for 14 days in Closed TestingDiscussion|Link",
+          "published_at": "2025-12-28T17:42:37"
+        },
+        {
+          "title": "ExtraBar",
+          "url": "https://www.producthunt.com/products/extrabar",
+          "author": "Asaf Mazuz",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Build precise Mac actions and trigger them from the barDiscussion|Link",
+          "published_at": "2025-12-28T15:14:24"
+        },
         {
           "title": "BizCard",
           "url": "https://www.producthunt.com/products/bizcard-3",
@@ -293,51 +256,6 @@
           "source": "Product Hunt",
           "summary": "Chrome extension for NotebookLM productivity utilitiesDiscussion|Link",
           "published_at": "2025-12-29T03:24:18"
-        },
-        {
-          "title": "InstallKit",
-          "url": "https://www.producthunt.com/products/installkit",
-          "author": "Srujan Gurram",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Set up your new Mac in minutes, not hours.Discussion|Link",
-          "published_at": "2025-12-28T19:39:50"
-        },
-        {
-          "title": "BetaCircle",
-          "url": "https://www.producthunt.com/products/betacircle",
-          "author": "Cristian Tarquini",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Get 12 android testers for 14 days in Closed TestingDiscussion|Link",
-          "published_at": "2025-12-28T17:42:37"
-        },
-        {
-          "title": "Plannotator",
-          "url": "https://www.producthunt.com/products/plannotator",
-          "author": "Michael",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Annotate, review, and share Claude Code plans. (Plugin/Hook)Discussion|Link",
-          "published_at": "2025-12-29T03:59:07"
-        },
-        {
-          "title": "Dropstone",
-          "url": "https://www.producthunt.com/products/dropstone-2",
-          "author": "Santosh Arron",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The Recursive Swarm IDE. 10,000 Agents in one tabDiscussion|Link",
-          "published_at": "2025-12-27T00:58:25"
-        },
-        {
-          "title": "ExtraBar",
-          "url": "https://www.producthunt.com/products/extrabar",
-          "author": "Asaf Mazuz",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Build precise Mac actions and trigger them from the barDiscussion|Link",
-          "published_at": "2025-12-28T15:14:24"
         }
       ]
     },
