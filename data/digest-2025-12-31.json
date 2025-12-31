@@ -1,19 +1,19 @@
 {
   "date": "2025-12-31T00:00:00",
-  "total_items": 47,
+  "total_items": 48,
   "sources": [
-    "Awwwards",
-    "Sidebar",
     "UX Design CC",
-    "优设网",
-    "Product Hunt",
+    "Awwwards",
     "A List Apart",
-    "Smashing Magazine",
     "UX Planet",
     "Design Milk",
-    "NN/g (Nielsen Norman Group)"
+    "NN/g (Nielsen Norman Group)",
+    "Sidebar",
+    "Product Hunt",
+    "优设网",
+    "Smashing Magazine"
   ],
-  "generated_at": "2025-12-31T02:51:44.997273",
+  "generated_at": "2025-12-31T12:51:23.229870",
   "categories": [
     {
       "category": "用户体验设计",
@@ -245,6 +245,15 @@
           "published_at": null
         },
         {
+          "title": "Sunday",
+          "url": "https://www.awwwards.com/sites/sunday",
+          "author": "Standard Projects",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Inversa",
           "url": "https://www.awwwards.com/sites/inversa",
           "author": "Exo Ape",
@@ -306,75 +315,75 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "The Creative Website Manual™",
-          "url": "https://www.awwwards.com/sites/the-creative-website-manualtm",
-          "author": "Huy Nguyen",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 7,
       "items": [
         {
-          "title": "Gitdocs",
-          "url": "https://www.producthunt.com/products/gitdocs-ai",
-          "author": "Abhas Kumar Sinha",
+          "title": "Vidcard",
+          "url": "https://www.producthunt.com/products/vidcard",
+          "author": "Vidcard",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Generate production-ready README files from your GitHub repoDiscussion|Link",
-          "published_at": "2025-12-29T18:39:35"
+          "summary": "The World's First Video Business Card—Be UnforgettableDiscussion|Link",
+          "published_at": "2025-12-30T12:10:45"
         },
         {
-          "title": "Brief My Meeting",
-          "url": "https://www.producthunt.com/products/brief-my-meeting",
-          "author": "Elie Steinbock",
+          "title": "wink-cursor",
+          "url": "https://www.producthunt.com/products/wink-cursor",
+          "author": "Anjali Chauhan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI meeting briefs delivered to your inbox. Open sourceDiscussion|Link",
-          "published_at": "2025-12-30T00:34:36"
+          "summary": "A lightweight smiley cursor with \"winks\" on clickDiscussion|Link",
+          "published_at": "2025-12-29T19:14:30"
         },
         {
-          "title": "FunKey 3.0",
-          "url": "https://www.producthunt.com/products/funkey-3-0",
-          "author": "it0sh",
+          "title": "Notchie",
+          "url": "https://www.producthunt.com/products/notchie",
+          "author": "Adam Mortka",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Satisfying mechanical keys + mouse click sounds to your MacDiscussion|Link",
-          "published_at": "2025-12-30T05:56:37"
+          "summary": "A teleprompter that lives in your Macbook's notchDiscussion|Link",
+          "published_at": "2025-12-31T00:15:33"
         },
         {
-          "title": "Chatterbox Turbo",
-          "url": "https://www.producthunt.com/products/resemble-clone",
-          "author": "Zac Zuo",
+          "title": "Imajourn",
+          "url": "https://www.producthunt.com/products/numatics",
+          "author": "Fabin Rasheed",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Fast, expressive, open source TTS with native watermarkingDiscussion|Link",
-          "published_at": "2025-12-30T02:50:31"
+          "summary": "We are now on the Apple App Store with multiple new featuresDiscussion|Link",
+          "published_at": "2025-12-30T16:12:18"
         },
         {
-          "title": "Pokepath TD",
-          "url": "https://www.producthunt.com/products/pokepath-td-pokemon-tower-defense-game",
-          "author": "alan",
+          "title": "Running Form Analysis App",
+          "url": "https://www.producthunt.com/products/running-form-analysis-web-app",
+          "author": "Royce Lu",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Pokémon-inspired tower defense with long-term progressionDiscussion|Link",
-          "published_at": "2025-12-29T07:56:33"
+          "summary": "Upload a short side-view clip, get actionable form feedbackDiscussion|Link",
+          "published_at": "2025-12-31T07:34:07"
         },
         {
-          "title": "AudioPriorityBar",
-          "url": "https://www.producthunt.com/products/audioprioritybar",
-          "author": "Gabe Perez",
+          "title": "Trip Replay",
+          "url": "https://www.producthunt.com/products/trip-replay",
+          "author": "Sait Furkan Teke",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Priority-based audio switching for macOS menu barDiscussion|Link",
-          "published_at": "2025-12-29T09:23:45"
+          "summary": "Turn your travels into stunning videosDiscussion|Link",
+          "published_at": "2025-12-31T06:45:53"
+        },
+        {
+          "title": "Inspiration by Mind Dock",
+          "url": "https://www.producthunt.com/products/product-hunt-launch-kit-for-ai-data-map",
+          "author": "Yang Qu",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Live AI trends from HuggingFace, ArXiv, GitHub, and moreDiscussion|Link",
+          "published_at": "2025-12-29T22:55:44"
         }
       ]
     },
@@ -402,7 +411,7 @@
         },
         {
           "title": "主流BI+AI产品深度解析：如何用功能与体验收拢不确定性（上）",
-          "url": "https://www.uisdc.com/taming-ai-uncertainty",
+          "url": "https://www.uisdc.com/taming-ai-uncertainty-2",
           "author": "",
           "category": "设计教程",
           "source": "优设网",
