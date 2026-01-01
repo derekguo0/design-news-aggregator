@@ -1,24 +1,34 @@
 {
   "date": "2026-01-01T00:00:00",
-  "total_items": 42,
+  "total_items": 52,
   "sources": [
-    "优设网",
-    "UX Planet",
     "Design Milk",
     "NN/g (Nielsen Norman Group)",
-    "A List Apart",
-    "CSS-Tricks",
-    "Sidebar",
+    "UX Design CC",
     "Product Hunt",
     "Smashing Magazine",
-    "UX Design CC"
+    "A List Apart",
+    "Sidebar",
+    "Awwwards",
+    "CSS-Tricks",
+    "UX Planet",
+    "优设网"
   ],
-  "generated_at": "2026-01-01T02:10:22.149443",
+  "generated_at": "2026-01-01T12:51:20.724156",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 9,
+      "count": 10,
       "items": [
+        {
+          "title": "Well, thats a wrap…",
+          "url": "https://uxdesign.cc/well-thats-a-wrap-9e04820ac1fb?source=rss----138adf9c44c---4",
+          "author": "Allan MacDonald",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Why designing for ongoing reflection mattersImage of a character unpleasantly gift wrappedIt’s that time of year again where apps confidently tell us who we are. This year, Spotify informed me that I’...",
+          "published_at": "2026-01-01T12:14:43"
+        },
         {
           "title": "Reliability by design",
           "url": "https://uxdesign.cc/reliability-by-design-designing-trustworthy-ai-for-healthcare-products-13a078d53bb0?source=rss----138adf9c44c---4",
@@ -197,7 +207,7 @@
     },
     {
       "category": "网页设计",
-      "count": 7,
+      "count": 15,
       "items": [
         {
           "title": "How To Design For (And With) Deaf People",
@@ -261,30 +271,129 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
+        },
+        {
+          "title": "Glenn Catteeuw - Portfolio",
+          "url": "https://www.awwwards.com/sites/glenn-catteeuw-portfolio-1",
+          "author": "Glenn Catteeuw",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Sunday",
+          "url": "https://www.awwwards.com/sites/sunday",
+          "author": "Standard Projects",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Inversa",
+          "url": "https://www.awwwards.com/sites/inversa",
+          "author": "Exo Ape",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "MindMarket",
+          "url": "https://www.awwwards.com/sites/mindmarket",
+          "author": "Louis Paquet",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Superlocal Design Festival 25",
+          "url": "https://www.awwwards.com/sites/superlocal-design-festival-25",
+          "author": "++hellohello",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Artiom Yakushev",
+          "url": "https://www.awwwards.com/sites/artiom-yakushev",
+          "author": "Artiom Yakushev",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Paris by Emily",
+          "url": "https://www.awwwards.com/sites/paris-by-emily",
+          "author": "LOOP",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Tesoro",
+          "url": "https://www.awwwards.com/sites/tesoro-1",
+          "author": "Jordan Gilroy",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 7,
       "items": [
         {
-          "title": "Vidcard",
-          "url": "https://www.producthunt.com/products/vidcard",
-          "author": "Vidcard",
+          "title": "Qwen-Image-2512",
+          "url": "https://www.producthunt.com/products/qwen3",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The World's First Video Business Card—Be UnforgettableDiscussion|Link",
-          "published_at": "2025-12-30T12:10:45"
+          "summary": "SOTA open-source T2I model with even greater realismDiscussion|Link",
+          "published_at": "2025-12-31T11:52:49"
         },
         {
-          "title": "Trip Replay",
-          "url": "https://www.producthunt.com/products/trip-replay",
-          "author": "Sait Furkan Teke",
+          "title": "Friendware",
+          "url": "https://www.producthunt.com/products/friendware",
+          "author": "Jared Stivala",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn your travels into stunning videosDiscussion|Link",
-          "published_at": "2025-12-31T06:45:53"
+          "summary": "Tab-to-complete everywhere on MacOSDiscussion|Link",
+          "published_at": "2025-12-31T02:32:08"
+        },
+        {
+          "title": "OnlyHate",
+          "url": "https://www.producthunt.com/products/onlyhate",
+          "author": "Gio Staniell Belolo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Filter out toxic positivity from social commentsDiscussion|Link",
+          "published_at": "2025-12-30T17:13:38"
+        },
+        {
+          "title": "intnt",
+          "url": "https://www.producthunt.com/products/intnt",
+          "author": "Aniket",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Your life visualized as 1080 monthsDiscussion|Link",
+          "published_at": "2025-12-30T11:03:27"
+        },
+        {
+          "title": "Its Hover",
+          "url": "https://www.producthunt.com/products/its-hover",
+          "author": "Abhijit Jha",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Icons that move and react mirroring user intentDiscussion|Link",
+          "published_at": "2025-12-31T17:01:20"
         },
         {
           "title": "Inspiration by Mind Dock",
@@ -296,15 +405,6 @@
           "published_at": "2025-12-29T22:55:44"
         },
         {
-          "title": "wink-cursor",
-          "url": "https://www.producthunt.com/products/wink-cursor",
-          "author": "Anjali Chauhan",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "A lightweight smiley cursor with \"winks\" on clickDiscussion|Link",
-          "published_at": "2025-12-29T19:14:30"
-        },
-        {
           "title": "Notchie",
           "url": "https://www.producthunt.com/products/notchie",
           "author": "Adam Mortka",
@@ -312,15 +412,6 @@
           "source": "Product Hunt",
           "summary": "A teleprompter that lives in your Macbook's notchDiscussion|Link",
           "published_at": "2025-12-31T00:15:33"
-        },
-        {
-          "title": "Imajourn",
-          "url": "https://www.producthunt.com/products/numatics",
-          "author": "Fabin Rasheed",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "We are now on the Apple App Store with multiple new featuresDiscussion|Link",
-          "published_at": "2025-12-30T16:12:18"
         }
       ]
     },
