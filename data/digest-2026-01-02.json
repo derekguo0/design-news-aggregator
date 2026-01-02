@@ -1,25 +1,43 @@
 {
   "date": "2026-01-02T00:00:00",
-  "total_items": 47,
+  "total_items": 50,
   "sources": [
-    "优设网",
+    "Smashing Magazine",
+    "A List Apart",
     "Awwwards",
-    "Product Hunt",
+    "优设网",
     "UX Design CC",
-    "CSS-Tricks",
+    "Design Milk",
+    "Sidebar",
     "UX Planet",
     "NN/g (Nielsen Norman Group)",
-    "Design Milk",
-    "A List Apart",
-    "Smashing Magazine",
-    "Sidebar"
+    "Product Hunt",
+    "CSS-Tricks"
   ],
-  "generated_at": "2026-01-02T02:01:08.986949",
+  "generated_at": "2026-01-02T12:50:21.602603",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 7,
+      "count": 9,
       "items": [
+        {
+          "title": "A Nano Banana with color theory",
+          "url": "https://uxdesign.cc/a-nano-banana-with-color-theory-da9608277e4e?source=rss----138adf9c44c---4",
+          "author": "Theresa-Marie Rhyne",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Using Google Gemini to build an Accessible Perceptual Uniform TriadContinue reading on UX Collective »",
+          "published_at": "2026-01-02T12:16:35"
+        },
+        {
+          "title": "10 UX design shifts you can’t ignore in 2026",
+          "url": "https://uxdesign.cc/10-ux-design-shifts-you-cant-ignore-in-2026-8f0da1c6741d?source=rss----138adf9c44c---4",
+          "author": "Arin Bhowmick",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Another year, another wave of “What to expect in 2026” guides. I’m sure you’ve already scrolled through a few.In this article, the first one I’ll be publishing this year, I won’t make bold predictions...",
+          "published_at": "2026-01-02T12:15:29"
+        },
         {
           "title": "Well, thats a wrap…",
           "url": "https://uxdesign.cc/well-thats-a-wrap-9e04820ac1fb?source=rss----138adf9c44c---4",
@@ -62,7 +80,7 @@
           "author": "Darren Yeo",
           "category": "用户体验设计",
           "source": "UX Design CC",
-          "summary": "Reflections on the 2025 DNDA Summit and Don Norman’s vision for the next era of design, community, and artificiality.Continue reading on UX Collective »",
+          "summary": "Reflections on the 2025 DNDA Summit and Don Norman’s vision for the next era of design, community, and artificiality.At 90 years old, the “Godfather of UX” isn’t slowing down. Don Norman shares why ou...",
           "published_at": "2025-12-30T12:16:33"
         },
         {
@@ -315,58 +333,58 @@
       "count": 6,
       "items": [
         {
-          "title": "OnlyHate",
-          "url": "https://www.producthunt.com/products/onlyhate",
-          "author": "Gio Staniell Belolo",
+          "title": "Griply 2026",
+          "url": "https://www.producthunt.com/products/griply",
+          "author": "Amber Haccou",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Filter out toxic positivity from social commentsDiscussion|Link",
-          "published_at": "2025-12-30T17:13:38"
+          "summary": "Achieve your goals with a goal-oriented task managerDiscussion|Link",
+          "published_at": "2025-12-30T08:52:18"
         },
         {
-          "title": "intnt",
-          "url": "https://www.producthunt.com/products/intnt",
-          "author": "Aniket",
+          "title": "CalPal",
+          "url": "https://www.producthunt.com/products/calpal-3",
+          "author": "Siddarth Kengadaran",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your life visualized as 1080 monthsDiscussion|Link",
-          "published_at": "2025-12-30T11:03:27"
+          "summary": "The notebook calculator that thinks for you (now with AI).Discussion|Link",
+          "published_at": "2026-01-01T08:50:28"
         },
         {
-          "title": "Friendware",
-          "url": "https://www.producthunt.com/products/friendware",
-          "author": "Jared Stivala",
+          "title": "Supaguard",
+          "url": "https://www.producthunt.com/products/supaguard",
+          "author": "Vikas Anil Sharma",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Tab-to-complete everywhere on MacOSDiscussion|Link",
-          "published_at": "2025-12-31T02:32:08"
+          "summary": "Scan, Detect & Protect Your Supabase DataDiscussion|Link",
+          "published_at": "2026-01-01T11:45:42"
         },
         {
-          "title": "Its Hover",
-          "url": "https://www.producthunt.com/products/its-hover",
-          "author": "Abhijit Jha",
+          "title": "HappyMail",
+          "url": "https://www.producthunt.com/products/happymail",
+          "author": "Happymail",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Icons that move and react mirroring user intentDiscussion|Link",
-          "published_at": "2025-12-31T17:01:20"
+          "summary": "We made email simple againDiscussion|Link",
+          "published_at": "2026-01-01T14:15:22"
         },
         {
-          "title": "Qwen-Image-2512",
-          "url": "https://www.producthunt.com/products/qwen3",
-          "author": "Zac Zuo",
+          "title": "SoftReveal — Reveal less. Engage more.",
+          "url": "https://www.producthunt.com/products/softreveal-reveal-less-engage-more",
+          "author": "Triet Bui",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "SOTA open-source T2I model with even greater realismDiscussion|Link",
-          "published_at": "2025-12-31T11:52:49"
+          "summary": "Hide Content, Reveal on ClickDiscussion|Link",
+          "published_at": "2026-01-01T08:35:08"
         },
         {
-          "title": "Trip Replay",
-          "url": "https://www.producthunt.com/products/trip-replay",
-          "author": "Sait Furkan Teke",
+          "title": "Blober.io",
+          "url": "https://www.producthunt.com/products/blober-io",
+          "author": "Kabue Charles",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn your travels into stunning videosDiscussion|Link",
-          "published_at": "2025-12-31T06:45:53"
+          "summary": "The easiest way to transfer files between cloud providers.Discussion|Link",
+          "published_at": "2026-01-01T14:07:27"
         }
       ]
     },
@@ -432,43 +450,52 @@
     },
     {
       "category": "设计资讯",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Back to the starting line",
-          "url": "https://world.hey.com/jorge/back-to-the-starting-line-b9a3a1c1",
+          "title": "The rise of industrial software",
+          "url": "https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Programming with AI is still in its infancy, and yet it has already redefined what programming will be about in the immediate future.",
-          "published_at": "2025-12-30T12:39:33"
+          "summary": "AI coding is making available paths of production which are cheaper, faster, and increasingly disconnected from the expertise of humans.",
+          "published_at": "2026-01-02T12:32:31"
         },
         {
-          "title": "Why are people starting to sound like ChatGPT?",
-          "url": "https://www.youtube.com/watch?v=ZkXrTHpnQrQ",
+          "title": "A sharp tool can still ruin the cut",
+          "url": "https://uxdesign.cc/a-sharp-tool-can-still-ruin-the-cut-b1014292335d",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Algorithms and AI don't just show us reality — they warp it in ways that benefit platforms built to exploit people for profit.",
-          "published_at": "2025-12-30T12:38:55"
+          "summary": "When AI answers before you understand.",
+          "published_at": "2026-01-02T12:31:46"
         },
         {
-          "title": "What I learned from Don Norman",
-          "url": "https://uxdesign.cc/from-hcd-to-hcd-what-i-learned-from-don-norman-24a3cdf79c4c?sk=0947655bbf1861bdea3353105c41f48e",
+          "title": "Balance of power",
+          "url": "https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Reflections on the 2025 DNDA Summit and Don Norman’s vision for the next era of design, community, and artificiality.",
-          "published_at": "2025-12-30T12:38:13"
+          "summary": "We like progress—whether in technology, economy or culture—but we fear the most powerful generators of such progress.",
+          "published_at": "2026-01-02T12:30:59"
         },
         {
-          "title": "Vibe coding a bookshelf with Claude Code",
-          "url": "https://balajmarius.com/writings/vibe-coding-a-bookshelf-with-claude-code/",
+          "title": "The guide to design",
+          "url": "https://start.uxdesign.cc/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A side project that went viral on Hacker News recently.",
-          "published_at": "2025-12-30T12:37:41"
+          "summary": "A self-guided class to help you get started in UX and answer key questions about craft, design, and career.",
+          "published_at": "2026-01-02T12:30:06"
+        },
+        {
+          "title": "10 ideas for 2026",
+          "url": "https://shreyasdoshi.substack.com/p/10-ideas-for-2026",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "Thinking is the foundation of everything we do and, for most of us that foundation has many cracks.",
+          "published_at": "2026-01-02T12:29:39"
         }
       ]
     },
