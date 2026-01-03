@@ -1,19 +1,19 @@
 {
   "date": "2026-01-03T00:00:00",
-  "total_items": 45,
+  "total_items": 46,
   "sources": [
-    "UX Planet",
-    "Product Hunt",
-    "Design Milk",
-    "UX Design CC",
     "优设网",
-    "NN/g (Nielsen Norman Group)",
-    "CSS-Tricks",
     "A List Apart",
+    "Product Hunt",
+    "UX Planet",
+    "UX Design CC",
+    "Awwwards",
+    "CSS-Tricks",
     "Sidebar",
-    "Awwwards"
+    "NN/g (Nielsen Norman Group)",
+    "Design Milk"
   ],
-  "generated_at": "2026-01-03T01:54:48.511497",
+  "generated_at": "2026-01-03T12:48:08.845961",
   "categories": [
     {
       "category": "用户体验设计",
@@ -218,6 +218,15 @@
           "published_at": null
         },
         {
+          "title": "The Pendragon Cycle",
+          "url": "https://www.awwwards.com/sites/the-pendragon-cycle",
+          "author": "Format-3",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Find Your Love",
           "url": "https://www.awwwards.com/sites/find-your-love",
           "author": "Decimal",
@@ -279,66 +288,66 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Paris by Emily",
-          "url": "https://www.awwwards.com/sites/paris-by-emily",
-          "author": "LOOP",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "vibecoder.date",
-          "url": "https://www.producthunt.com/products/vibecoder-date",
-          "author": "AJ Gonzalez",
+          "title": "Ultracite v7",
+          "url": "https://www.producthunt.com/products/ultracite",
+          "author": "fmerian",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Find who you vibe with, git commit to loveDiscussion|Link",
-          "published_at": "2026-01-02T07:05:54"
+          "summary": "Opinionated, zero-config code linter and formatterDiscussion|Link",
+          "published_at": "2026-01-02T22:11:23"
         },
         {
-          "title": "Resell AI",
-          "url": "https://www.producthunt.com/products/resell-ai",
-          "author": "faris",
+          "title": "DaysAround",
+          "url": "https://www.producthunt.com/products/daysaround",
+          "author": "Vlad Stan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Reselling workflow with market-based price suggestionsDiscussion|Link",
-          "published_at": "2026-01-01T18:53:09"
+          "summary": "Track every country you've ever been to. Privately.Discussion|Link",
+          "published_at": "2026-01-02T22:57:50"
         },
         {
-          "title": "CalPal",
-          "url": "https://www.producthunt.com/products/calpal-3",
-          "author": "Siddarth Kengadaran",
+          "title": "Still",
+          "url": "https://www.producthunt.com/products/still-write-for-yourself",
+          "author": "Nicolas Gonzalez",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The notebook calculator that thinks for you (now with AI).Discussion|Link",
-          "published_at": "2026-01-01T08:50:28"
+          "summary": "A private space to think, write, and slow downDiscussion|Link",
+          "published_at": "2026-01-02T20:44:04"
         },
         {
-          "title": "HappyMail",
-          "url": "https://www.producthunt.com/products/happymail",
-          "author": "Happymail",
+          "title": "Mnexium AI",
+          "url": "https://www.producthunt.com/products/mnexium-ai",
+          "author": "marius ndini",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "We made email simple againDiscussion|Link",
-          "published_at": "2026-01-01T14:15:22"
+          "summary": "Persistent, structured memory for AI AgentsDiscussion|Link",
+          "published_at": "2026-01-02T20:57:26"
         },
         {
-          "title": "Reword",
-          "url": "https://www.producthunt.com/products/reword",
-          "author": "Sambhav Jain",
+          "title": "Stenox",
+          "url": "https://www.producthunt.com/products/stenox",
+          "author": "Gedeon Isezerano",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Rewrite messages without leaving your workflowDiscussion|Link",
-          "published_at": "2026-01-01T19:26:03"
+          "summary": "Your voice, perfectly transcribed in every app & browserDiscussion|Link",
+          "published_at": "2026-01-03T07:45:02"
+        },
+        {
+          "title": "docc2json",
+          "url": "https://www.producthunt.com/products/docc2json",
+          "author": "Nedim",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Turn Apple DocC output into a web-friendly SDK JSON schemaDiscussion|Link",
+          "published_at": "2026-01-01T17:00:26"
         }
       ]
     },
