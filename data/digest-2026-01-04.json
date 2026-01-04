@@ -1,17 +1,17 @@
 {
   "date": "2026-01-04T00:00:00",
-  "total_items": 42,
+  "total_items": 43,
   "sources": [
-    "A List Apart",
+    "NN/g (Nielsen Norman Group)",
     "Awwwards",
-    "UX Planet",
     "Sidebar",
+    "UX Planet",
     "Product Hunt",
-    "UX Design CC",
     "优设网",
-    "NN/g (Nielsen Norman Group)"
+    "A List Apart",
+    "UX Design CC"
   ],
-  "generated_at": "2026-01-04T05:54:23.538119",
+  "generated_at": "2026-01-04T12:49:09.606506",
   "categories": [
     {
       "category": "用户体验设计",
@@ -267,52 +267,61 @@
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "FrickFrack",
-          "url": "https://www.producthunt.com/products/frickfrack",
-          "author": "Rob Laltrello",
+          "title": "Nutgrafe",
+          "url": "https://www.producthunt.com/products/nutgrafe",
+          "author": "Patrick",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "a minimalist social media experienceDiscussion|Link",
-          "published_at": "2026-01-02T13:21:56"
+          "summary": "The news, reduced to what matters.Discussion|Link",
+          "published_at": "2026-01-04T01:25:55"
         },
         {
-          "title": "Mnexium AI",
-          "url": "https://www.producthunt.com/products/mnexium-ai",
-          "author": "marius ndini",
+          "title": "Scaloom AI",
+          "url": "https://www.producthunt.com/products/scaloom-ai",
+          "author": "Lionel Lakson",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Persistent, structured memory for AI AgentsDiscussion|Link",
-          "published_at": "2026-01-02T20:57:26"
+          "summary": "Reddit marketing made-easy toolDiscussion|Link",
+          "published_at": "2026-01-03T14:47:36"
         },
         {
-          "title": "Stenox",
-          "url": "https://www.producthunt.com/products/stenox",
-          "author": "Gedeon Isezerano",
+          "title": "Joodle",
+          "url": "https://www.producthunt.com/products/joodle-journaling-with-doodle",
+          "author": "Li Yuxuan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your voice, perfectly transcribed in every app & browserDiscussion|Link",
-          "published_at": "2026-01-03T07:45:02"
+          "summary": "Turn years of memories into personal doodlesDiscussion|Link",
+          "published_at": "2026-01-04T07:17:45"
         },
         {
-          "title": "Ultracite v7",
-          "url": "https://www.producthunt.com/products/ultracite",
-          "author": "fmerian",
+          "title": "DaysAround",
+          "url": "https://www.producthunt.com/products/daysaround",
+          "author": "Vlad Stan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Opinionated, zero-config code linter and formatterDiscussion|Link",
-          "published_at": "2026-01-02T22:11:23"
+          "summary": "Track every country you've ever been to. Privately.Discussion|Link",
+          "published_at": "2026-01-02T22:57:50"
         },
         {
-          "title": "Still",
-          "url": "https://www.producthunt.com/products/still-write-for-yourself",
-          "author": "Nicolas Gonzalez",
+          "title": "Fluxer",
+          "url": "https://www.producthunt.com/products/fluxer",
+          "author": "Hampus Kraft",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A private space to think, write, and slow downDiscussion|Link",
-          "published_at": "2026-01-02T20:44:04"
+          "summary": "Open-source Discord-like instant messaging & VoIP platformDiscussion|Link",
+          "published_at": "2026-01-03T04:09:17"
+        },
+        {
+          "title": "Notchification",
+          "url": "https://www.producthunt.com/products/notchification",
+          "author": "Alexander Kvamme",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Compilation and Claude progress bars in your mac's notch!Discussion|Link",
+          "published_at": "2026-01-02T18:00:08"
         }
       ]
     },
