@@ -1,17 +1,17 @@
 {
   "date": "2026-01-04T00:00:00",
-  "total_items": 43,
+  "total_items": 42,
   "sources": [
+    "A List Apart",
+    "Awwwards",
+    "UX Planet",
+    "Sidebar",
     "Product Hunt",
     "UX Design CC",
     "优设网",
-    "UX Planet",
-    "NN/g (Nielsen Norman Group)",
-    "Awwwards",
-    "A List Apart",
-    "Sidebar"
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2026-01-04T02:11:05.678310",
+  "generated_at": "2026-01-04T05:54:23.538119",
   "categories": [
     {
       "category": "用户体验设计",
@@ -192,6 +192,15 @@
           "published_at": null
         },
         {
+          "title": "Vogue Business | Archrival",
+          "url": "https://www.awwwards.com/sites/vogue-business-archrival",
+          "author": "Noomo Agency",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "The Pendragon Cycle",
           "url": "https://www.awwwards.com/sites/the-pendragon-cycle",
           "author": "Format-3",
@@ -253,57 +262,39 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Artiom Yakushev",
-          "url": "https://www.awwwards.com/sites/artiom-yakushev",
-          "author": "Artiom Yakushev",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "youtube-mcp-server",
-          "url": "https://www.producthunt.com/products/youtube-mcp-server",
-          "author": "mourad ghafiri",
+          "title": "FrickFrack",
+          "url": "https://www.producthunt.com/products/frickfrack",
+          "author": "Rob Laltrello",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "MCP server for YouTube video transcription and metadata.Discussion|Link",
-          "published_at": "2026-01-03T06:29:37"
+          "summary": "a minimalist social media experienceDiscussion|Link",
+          "published_at": "2026-01-02T13:21:56"
         },
         {
-          "title": "DaysAround",
-          "url": "https://www.producthunt.com/products/daysaround",
-          "author": "Vlad Stan",
+          "title": "Mnexium AI",
+          "url": "https://www.producthunt.com/products/mnexium-ai",
+          "author": "marius ndini",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Track every country you've ever been to. Privately.Discussion|Link",
-          "published_at": "2026-01-02T22:57:50"
+          "summary": "Persistent, structured memory for AI AgentsDiscussion|Link",
+          "published_at": "2026-01-02T20:57:26"
         },
         {
-          "title": "Still",
-          "url": "https://www.producthunt.com/products/still-write-for-yourself",
-          "author": "Nicolas Gonzalez",
+          "title": "Stenox",
+          "url": "https://www.producthunt.com/products/stenox",
+          "author": "Gedeon Isezerano",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A private space to think, write, and slow downDiscussion|Link",
-          "published_at": "2026-01-02T20:44:04"
-        },
-        {
-          "title": "Fluxer",
-          "url": "https://www.producthunt.com/products/fluxer",
-          "author": "Hampus Kraft",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Open-source Discord-like instant messaging & VoIP platformDiscussion|Link",
-          "published_at": "2026-01-03T04:09:17"
+          "summary": "Your voice, perfectly transcribed in every app & browserDiscussion|Link",
+          "published_at": "2026-01-03T07:45:02"
         },
         {
           "title": "Ultracite v7",
@@ -315,13 +306,13 @@
           "published_at": "2026-01-02T22:11:23"
         },
         {
-          "title": "Notchification",
-          "url": "https://www.producthunt.com/products/notchification",
-          "author": "Alexander Kvamme",
+          "title": "Still",
+          "url": "https://www.producthunt.com/products/still-write-for-yourself",
+          "author": "Nicolas Gonzalez",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Compilation and Claude progress bars in your mac's notch!Discussion|Link",
-          "published_at": "2026-01-02T18:00:08"
+          "summary": "A private space to think, write, and slow downDiscussion|Link",
+          "published_at": "2026-01-02T20:44:04"
         }
       ]
     },
