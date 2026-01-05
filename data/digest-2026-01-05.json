@@ -1,21 +1,59 @@
 {
   "date": "2026-01-05T00:00:00",
-  "total_items": 32,
+  "total_items": 44,
   "sources": [
-    "NN/g (Nielsen Norman Group)",
-    "优设网",
     "UX Design CC",
+    "优设网",
+    "Awwwards",
     "A List Apart",
-    "Product Hunt",
+    "NN/g (Nielsen Norman Group)",
     "Sidebar",
-    "UX Planet"
+    "UX Planet",
+    "Product Hunt",
+    "Intercom Blog"
   ],
-  "generated_at": "2026-01-05T08:34:30.278498",
+  "generated_at": "2026-01-05T12:55:29.135917",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 5,
+      "count": 9,
       "items": [
+        {
+          "title": "What good writing looks like",
+          "url": "https://uxdesign.cc/what-good-writing-looks-like-ca02f45045ed?source=rss----138adf9c44c---4",
+          "author": "Rita Kind-Envy",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The essential (micro) copy rules I used at Google.Continue reading on UX Collective »",
+          "published_at": "2026-01-05T12:17:12"
+        },
+        {
+          "title": "The Apple-Sony special relationship",
+          "url": "https://uxdesign.cc/the-apple-sony-special-relationship-3fa78c3b308f?source=rss----138adf9c44c---4",
+          "author": "Neel Dozome",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Getting to the bottom of why Apple products pair so naturally with SonyContinue reading on UX Collective »",
+          "published_at": "2026-01-05T12:16:06"
+        },
+        {
+          "title": "How the tools we use change the products we design",
+          "url": "https://uxdesign.cc/how-the-tools-we-use-change-the-products-we-design-9117e021dac8?source=rss----138adf9c44c---4",
+          "author": "Adir SL",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "“The medium is the message” — Marshall McLuhanBackground art by Pierre-Auguste Renoir, 1876.Every era of product design on the web brings with it new design tools, these tools change how we design web...",
+          "published_at": "2026-01-05T12:15:09"
+        },
+        {
+          "title": "Algorithmic atelier, escaping AI sludge, vibe code for PMs, 10 UX shifts for 2026",
+          "url": "https://uxdesign.cc/algorithmic-atelier-escaping-ai-sludge-vibe-code-for-pms-10-ux-shifts-for-2026-75d9d3d72a6c?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“To understand this moment, we must contextualise AI within the history of artistic tools and conceptual shifts, while simultaneously confr...",
+          "published_at": "2026-01-05T12:14:01"
+        },
         {
           "title": "Truth and certainty",
           "url": "https://uxdesign.cc/truth-and-certainty-c7a838135e28?source=rss----138adf9c44c---4",
@@ -124,8 +162,23 @@
       ]
     },
     {
+      "category": "产品设计",
+      "count": 1,
+      "items": [
+        {
+          "title": "New research: Customer service team evolution",
+          "url": "https://www.intercom.com/blog/new-research-customer-service-team-evolution/",
+          "author": "Emiliano Melchiorre",
+          "category": "产品设计",
+          "source": "Intercom Blog",
+          "summary": "Our latest research shows that customer service teams are undergoing significant change as a result of implementing AI tools and broader technological shifts. Learn more about how they're evolving.",
+          "published_at": "2026-01-05T09:00:44"
+        }
+      ]
+    },
+    {
       "category": "网页设计",
-      "count": 6,
+      "count": 14,
       "items": [
         {
           "title": "Design for Amiability: Lessons from Vienna",
@@ -180,31 +233,85 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
+        },
+        {
+          "title": "Omega My Little Secret",
+          "url": "https://www.awwwards.com/sites/omega-my-little-secret",
+          "author": "Immersive Garden",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Vogue Business | Archrival",
+          "url": "https://www.awwwards.com/sites/vogue-business-archrival",
+          "author": "Noomo Agency",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "The Pendragon Cycle",
+          "url": "https://www.awwwards.com/sites/the-pendragon-cycle",
+          "author": "Format-3",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Find Your Love",
+          "url": "https://www.awwwards.com/sites/find-your-love",
+          "author": "Decimal",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Glenn Catteeuw - Portfolio",
+          "url": "https://www.awwwards.com/sites/glenn-catteeuw-portfolio-1",
+          "author": "Glenn Catteeuw",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Sunday",
+          "url": "https://www.awwwards.com/sites/sunday",
+          "author": "Standard Projects",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Inversa",
+          "url": "https://www.awwwards.com/sites/inversa",
+          "author": "Exo Ape",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "MindMarket",
+          "url": "https://www.awwwards.com/sites/mindmarket",
+          "author": "Louis Paquet",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 3,
       "items": [
-        {
-          "title": "Invoce.ai",
-          "url": "https://www.producthunt.com/products/invoce-ai",
-          "author": "Atmiya Jadvani",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Chat with AI to create invoices in secondsDiscussion|Link",
-          "published_at": "2026-01-03T19:57:44"
-        },
-        {
-          "title": "Drylendar",
-          "url": "https://www.producthunt.com/products/drylendar-the-drinking-calendar",
-          "author": "Chris Messina",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Track drinks to create a motivating calendar day after day!Discussion|Link",
-          "published_at": "2026-01-02T22:31:59"
-        },
         {
           "title": "Dashly",
           "url": "https://www.producthunt.com/products/dashly-3",
@@ -215,13 +322,22 @@
           "published_at": "2026-01-05T02:48:57"
         },
         {
-          "title": "Weather mini for Apple Watch",
-          "url": "https://www.producthunt.com/products/weather-mini",
-          "author": "Kai",
+          "title": "Opttab",
+          "url": "https://www.producthunt.com/products/opttab",
+          "author": "Arda Ulusoy",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Meet Weather mini 3, smart weather cards on your wrist.Discussion|Link",
-          "published_at": "2026-01-04T07:40:31"
+          "summary": "Manage your presence in AI searchDiscussion|Link",
+          "published_at": "2026-01-02T15:00:59"
+        },
+        {
+          "title": "Drylendar",
+          "url": "https://www.producthunt.com/products/drylendar-the-drinking-calendar",
+          "author": "Chris Messina",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Track drinks to create a motivating calendar day after day!Discussion|Link",
+          "published_at": "2026-01-02T22:31:59"
         }
       ]
     },
@@ -290,49 +406,49 @@
       "count": 5,
       "items": [
         {
-          "title": "The rise of industrial software",
-          "url": "https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software",
+          "title": "Uncode: Creative Multiuse & WooCommerce Theme",
+          "url": "https://bit.ly/side-baw1",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "AI coding is making available paths of production which are cheaper, faster, and increasingly disconnected from the expertise of humans.",
-          "published_at": "2026-01-02T12:32:31"
+          "summary": "Top-rated WordPress theme (4.89★) with Wireframe with 800+ section templates, WooCommerce features, and standout creative demos.",
+          "published_at": "2026-01-05T12:33:00"
         },
         {
-          "title": "A sharp tool can still ruin the cut",
-          "url": "https://uxdesign.cc/a-sharp-tool-can-still-ruin-the-cut-b1014292335d",
+          "title": "The next thing will not be big",
+          "url": "https://blog.glyph.im/2026/01/the-next-thing-will-not-be-big.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "When AI answers before you understand.",
-          "published_at": "2026-01-02T12:31:46"
+          "summary": "So we are all — collectively, culturally — looking for the Next Big Thing, and we keep not finding it.",
+          "published_at": "2026-01-05T12:31:24"
         },
         {
-          "title": "Balance of power",
-          "url": "https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html",
+          "title": "Predictions for journalism 2026",
+          "url": "https://www.niemanlab.org/collection/predictions-2026/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "We like progress—whether in technology, economy or culture—but we fear the most powerful generators of such progress.",
-          "published_at": "2026-01-02T12:30:59"
+          "summary": "Each year, NiemanLab asks some of the smartest people in digital media what they think is coming in the year ahead.",
+          "published_at": "2026-01-05T12:28:25"
         },
         {
-          "title": "The guide to design",
-          "url": "https://start.uxdesign.cc/",
+          "title": "font.fish",
+          "url": "https://font.fish/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A self-guided class to help you get started in UX and answer key questions about craft, design, and career.",
-          "published_at": "2026-01-02T12:30:06"
+          "summary": "A browser tool for spatially exploring thousands of fonts.",
+          "published_at": "2026-01-05T12:27:32"
         },
         {
-          "title": "10 ideas for 2026",
-          "url": "https://shreyasdoshi.substack.com/p/10-ideas-for-2026",
+          "title": "The enshittifinancial crisis",
+          "url": "https://www.wheresyoured.at/the-enshittifinancial-crisis/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Thinking is the foundation of everything we do and, for most of us that foundation has many cracks.",
-          "published_at": "2026-01-02T12:29:39"
+          "summary": "The horrifying result of 15+ years of steering the tech industry away from solving actual problems in pursuit of eternal growth.",
+          "published_at": "2026-01-05T12:27:05"
         }
       ]
     }
