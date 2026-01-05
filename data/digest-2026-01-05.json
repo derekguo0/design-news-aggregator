@@ -1,17 +1,16 @@
 {
   "date": "2026-01-05T00:00:00",
-  "total_items": 42,
+  "total_items": 32,
   "sources": [
-    "Sidebar",
-    "Awwwards",
-    "优设网",
-    "A List Apart",
-    "UX Design CC",
-    "UX Planet",
     "NN/g (Nielsen Norman Group)",
-    "Product Hunt"
+    "优设网",
+    "UX Design CC",
+    "A List Apart",
+    "Product Hunt",
+    "Sidebar",
+    "UX Planet"
   ],
-  "generated_at": "2026-01-05T02:10:52.328133",
+  "generated_at": "2026-01-05T08:34:30.278498",
   "categories": [
     {
       "category": "用户体验设计",
@@ -126,7 +125,7 @@
     },
     {
       "category": "网页设计",
-      "count": 14,
+      "count": 6,
       "items": [
         {
           "title": "Design for Amiability: Lessons from Vienna",
@@ -181,138 +180,48 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
-        },
-        {
-          "title": "Vogue Business | Archrival",
-          "url": "https://www.awwwards.com/sites/vogue-business-archrival",
-          "author": "Noomo Agency",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "The Pendragon Cycle",
-          "url": "https://www.awwwards.com/sites/the-pendragon-cycle",
-          "author": "Format-3",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Find Your Love",
-          "url": "https://www.awwwards.com/sites/find-your-love",
-          "author": "Decimal",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Glenn Catteeuw - Portfolio",
-          "url": "https://www.awwwards.com/sites/glenn-catteeuw-portfolio-1",
-          "author": "Glenn Catteeuw",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Sunday",
-          "url": "https://www.awwwards.com/sites/sunday",
-          "author": "Standard Projects",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Inversa",
-          "url": "https://www.awwwards.com/sites/inversa",
-          "author": "Exo Ape",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "MindMarket",
-          "url": "https://www.awwwards.com/sites/mindmarket",
-          "author": "Louis Paquet",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Superlocal Design Festival 25",
-          "url": "https://www.awwwards.com/sites/superlocal-design-festival-25",
-          "author": "++hellohello",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 4,
       "items": [
         {
-          "title": "Nutgrafe",
-          "url": "https://www.producthunt.com/products/nutgrafe",
-          "author": "Patrick",
+          "title": "Invoce.ai",
+          "url": "https://www.producthunt.com/products/invoce-ai",
+          "author": "Atmiya Jadvani",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The news, reduced to what matters.Discussion|Link",
-          "published_at": "2026-01-04T01:25:55"
+          "summary": "Chat with AI to create invoices in secondsDiscussion|Link",
+          "published_at": "2026-01-03T19:57:44"
         },
         {
-          "title": "Scaloom AI",
-          "url": "https://www.producthunt.com/products/scaloom-ai",
-          "author": "Lionel Lakson",
+          "title": "Drylendar",
+          "url": "https://www.producthunt.com/products/drylendar-the-drinking-calendar",
+          "author": "Chris Messina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Reddit marketing made-easy toolDiscussion|Link",
-          "published_at": "2026-01-03T14:47:36"
+          "summary": "Track drinks to create a motivating calendar day after day!Discussion|Link",
+          "published_at": "2026-01-02T22:31:59"
         },
         {
-          "title": "Joodle",
-          "url": "https://www.producthunt.com/products/joodle-journaling-with-doodle",
-          "author": "Li Yuxuan",
+          "title": "Dashly",
+          "url": "https://www.producthunt.com/products/dashly-3",
+          "author": "mantiqo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn years of memories into personal doodlesDiscussion|Link",
-          "published_at": "2026-01-04T07:17:45"
+          "summary": "Turn your new tab into a dashboard.Discussion|Link",
+          "published_at": "2026-01-05T02:48:57"
         },
         {
-          "title": "Mnexium AI",
-          "url": "https://www.producthunt.com/products/mnexium-ai",
-          "author": "marius ndini",
+          "title": "Weather mini for Apple Watch",
+          "url": "https://www.producthunt.com/products/weather-mini",
+          "author": "Kai",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Persistent, structured memory for AI AgentsDiscussion|Link",
-          "published_at": "2026-01-02T20:57:26"
-        },
-        {
-          "title": "Fluxer",
-          "url": "https://www.producthunt.com/products/fluxer",
-          "author": "Hampus Kraft",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Open-source Discord-like instant messaging & VoIP platformDiscussion|Link",
-          "published_at": "2026-01-03T04:09:17"
-        },
-        {
-          "title": "DaysAround",
-          "url": "https://www.producthunt.com/products/daysaround",
-          "author": "Vlad Stan",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Track every country you've ever been to. Privately.Discussion|Link",
-          "published_at": "2026-01-02T22:57:50"
+          "summary": "Meet Weather mini 3, smart weather cards on your wrist.Discussion|Link",
+          "published_at": "2026-01-04T07:40:31"
         }
       ]
     },
