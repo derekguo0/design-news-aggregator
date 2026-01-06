@@ -1,18 +1,17 @@
 {
   "date": "2026-01-06T00:00:00",
-  "total_items": 44,
+  "total_items": 37,
   "sources": [
+    "优设网",
     "A List Apart",
-    "Design Milk",
+    "Intercom Blog",
     "Product Hunt",
     "NN/g (Nielsen Norman Group)",
-    "优设网",
     "Sidebar",
-    "Awwwards",
-    "Intercom Blog",
+    "Design Milk",
     "UX Design CC"
   ],
-  "generated_at": "2026-01-06T02:00:54.043478",
+  "generated_at": "2026-01-06T02:49:11.785756",
   "categories": [
     {
       "category": "用户体验设计",
@@ -187,7 +186,7 @@
     },
     {
       "category": "网页设计",
-      "count": 14,
+      "count": 6,
       "items": [
         {
           "title": "Design for Amiability: Lessons from Vienna",
@@ -242,93 +241,21 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
-        },
-        {
-          "title": "Omega My Little Secret",
-          "url": "https://www.awwwards.com/sites/omega-my-little-secret",
-          "author": "Immersive Garden",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Vogue Business | Archrival",
-          "url": "https://www.awwwards.com/sites/vogue-business-archrival",
-          "author": "Noomo Agency",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "The Pendragon Cycle",
-          "url": "https://www.awwwards.com/sites/the-pendragon-cycle",
-          "author": "Format-3",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Find Your Love",
-          "url": "https://www.awwwards.com/sites/find-your-love",
-          "author": "Decimal",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Glenn Catteeuw - Portfolio",
-          "url": "https://www.awwwards.com/sites/glenn-catteeuw-portfolio-1",
-          "author": "Glenn Catteeuw",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Sunday",
-          "url": "https://www.awwwards.com/sites/sunday",
-          "author": "Standard Projects",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Inversa",
-          "url": "https://www.awwwards.com/sites/inversa",
-          "author": "Exo Ape",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "MindMarket",
-          "url": "https://www.awwwards.com/sites/mindmarket",
-          "author": "Louis Paquet",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 3,
       "items": [
         {
-          "title": "Dashly",
-          "url": "https://www.producthunt.com/products/dashly-3",
-          "author": "mantiqo",
+          "title": "Invoce.ai",
+          "url": "https://www.producthunt.com/products/invoce-ai",
+          "author": "Atmiya Jadvani",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn your new tab into a dashboard.Discussion|Link",
-          "published_at": "2026-01-05T02:48:57"
+          "summary": "Chat with AI to create invoices in secondsDiscussion|Link",
+          "published_at": "2026-01-03T19:57:44"
         },
         {
           "title": "Weather mini for Apple Watch",
@@ -338,6 +265,15 @@
           "source": "Product Hunt",
           "summary": "Meet Weather mini 3, smart weather cards on your wrist.Discussion|Link",
           "published_at": "2026-01-04T07:40:31"
+        },
+        {
+          "title": "Dashly",
+          "url": "https://www.producthunt.com/products/dashly-3",
+          "author": "mantiqo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Turn your new tab into a dashboard.Discussion|Link",
+          "published_at": "2026-01-05T02:48:57"
         }
       ]
     },
