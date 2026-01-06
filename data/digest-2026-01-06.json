@@ -1,22 +1,41 @@
 {
   "date": "2026-01-06T00:00:00",
-  "total_items": 37,
+  "total_items": 48,
   "sources": [
-    "优设网",
-    "A List Apart",
-    "Intercom Blog",
-    "Product Hunt",
     "NN/g (Nielsen Norman Group)",
+    "Product Hunt",
+    "A List Apart",
+    "UX Design CC",
     "Sidebar",
+    "优设网",
+    "Awwwards",
     "Design Milk",
-    "UX Design CC"
+    "Intercom Blog"
   ],
-  "generated_at": "2026-01-06T02:49:11.785756",
+  "generated_at": "2026-01-06T12:53:19.277553",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 6,
+      "count": 8,
       "items": [
+        {
+          "title": "If your confidence is at an all-time low in design, try this",
+          "url": "https://uxdesign.cc/if-your-confidence-is-at-an-all-time-low-in-design-try-this-b4b071161e74?source=rss----138adf9c44c---4",
+          "author": "Kai Wong",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How writing can help tackle self-confidence issues in designContinue reading on UX Collective »",
+          "published_at": "2026-01-06T12:22:56"
+        },
+        {
+          "title": "Beyond conversations: natural language as interaction influencer",
+          "url": "https://uxdesign.cc/beyond-conversations-natural-language-as-interaction-influencer-8b39ed123c39?source=rss----138adf9c44c---4",
+          "author": "Pratheep Kumar Chelladurai",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "From chat to canvas to control panel: Understanding natural language interaction patternsFor much of the history of software, users had to build a mental model of the system before they could use it e...",
+          "published_at": "2026-01-06T12:21:18"
+        },
         {
           "title": "Why you can’t fix your iPhone, and how the entire tech industry learned to profit from it",
           "url": "https://uxdesign.cc/why-you-cant-fix-your-iphone-and-how-the-entire-tech-industry-learned-to-profit-from-it-f11b34b643d3?source=rss----138adf9c44c---4",
@@ -186,7 +205,7 @@
     },
     {
       "category": "网页设计",
-      "count": 6,
+      "count": 14,
       "items": [
         {
           "title": "Design for Amiability: Lessons from Vienna",
@@ -241,39 +260,120 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
+        },
+        {
+          "title": "Prototype",
+          "url": "https://www.awwwards.com/sites/prototype-3",
+          "author": "Beaucoup.",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Omega My Little Secret",
+          "url": "https://www.awwwards.com/sites/omega-my-little-secret",
+          "author": "Immersive Garden",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Vogue Business | Archrival",
+          "url": "https://www.awwwards.com/sites/vogue-business-archrival",
+          "author": "Noomo Agency",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "The Pendragon Cycle",
+          "url": "https://www.awwwards.com/sites/the-pendragon-cycle",
+          "author": "Format-3",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Find Your Love",
+          "url": "https://www.awwwards.com/sites/find-your-love",
+          "author": "Decimal",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Glenn Catteeuw - Portfolio",
+          "url": "https://www.awwwards.com/sites/glenn-catteeuw-portfolio-1",
+          "author": "Glenn Catteeuw",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Sunday",
+          "url": "https://www.awwwards.com/sites/sunday",
+          "author": "Standard Projects",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Inversa",
+          "url": "https://www.awwwards.com/sites/inversa",
+          "author": "Exo Ape",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 4,
       "items": [
         {
-          "title": "Invoce.ai",
-          "url": "https://www.producthunt.com/products/invoce-ai",
-          "author": "Atmiya Jadvani",
+          "title": "O/Page Website Builder",
+          "url": "https://www.producthunt.com/products/o-page-website-builder",
+          "author": "Aldi Fajar Budiman Putra",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Chat with AI to create invoices in secondsDiscussion|Link",
-          "published_at": "2026-01-03T19:57:44"
+          "summary": "The AI Website Builder You Actually Own. No Subscriptions.Discussion|Link",
+          "published_at": "2026-01-05T08:49:19"
         },
         {
-          "title": "Weather mini for Apple Watch",
-          "url": "https://www.producthunt.com/products/weather-mini",
-          "author": "Kai",
+          "title": "Okara Reddit Agent",
+          "url": "https://www.producthunt.com/products/okara",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Meet Weather mini 3, smart weather cards on your wrist.Discussion|Link",
-          "published_at": "2026-01-04T07:40:31"
+          "summary": "An agent that monitors, curates & writes authentic commentsDiscussion|Link",
+          "published_at": "2026-01-05T06:00:21"
         },
         {
-          "title": "Dashly",
-          "url": "https://www.producthunt.com/products/dashly-3",
-          "author": "mantiqo",
+          "title": "Paper",
+          "url": "https://www.producthunt.com/products/paper-jorunaling-space",
+          "author": "Ziko Sichinava",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn your new tab into a dashboard.Discussion|Link",
-          "published_at": "2026-01-05T02:48:57"
+          "summary": "A 200-page digital notebook for journaling and writingDiscussion|Link",
+          "published_at": "2026-01-03T13:45:30"
+        },
+        {
+          "title": "Fundraising Readiness",
+          "url": "https://www.producthunt.com/products/fundraising-readiness",
+          "author": "Rashid Khasanov",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Check how ready your startup is to raise capitalDiscussion|Link",
+          "published_at": "2026-01-05T22:28:19"
         }
       ]
     },
@@ -342,49 +442,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Uncode: Creative Multiuse & WooCommerce Theme",
-          "url": "https://bit.ly/side-baw1",
+          "title": "You can’t design software you don’t work on",
+          "url": "https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Top-rated WordPress theme (4.89★) with Wireframe with 800+ section templates, WooCommerce features, and standout creative demos.",
-          "published_at": "2026-01-05T12:33:00"
+          "summary": "Generic software design advice is typically useless for most practical software design problems.",
+          "published_at": "2026-01-06T12:42:03"
         },
         {
-          "title": "The next thing will not be big",
-          "url": "https://blog.glyph.im/2026/01/the-next-thing-will-not-be-big.html",
+          "title": "Motion folios",
+          "url": "https://www.motionfolios.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "So we are all — collectively, culturally — looking for the Next Big Thing, and we keep not finding it.",
-          "published_at": "2026-01-05T12:31:24"
+          "summary": "A curated collection of motion design portfolios and studios built to inspire designers.",
+          "published_at": "2026-01-06T12:41:19"
         },
         {
-          "title": "Predictions for journalism 2026",
-          "url": "https://www.niemanlab.org/collection/predictions-2026/",
+          "title": "Archivio Grafica Italiana",
+          "url": "https://www.archiviograficaitaliana.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Each year, NiemanLab asks some of the smartest people in digital media what they think is coming in the year ahead.",
-          "published_at": "2026-01-05T12:28:25"
+          "summary": "A systematic digital archive dedicated to the Italian graphic design heritage.",
+          "published_at": "2026-01-06T12:40:49"
         },
         {
-          "title": "font.fish",
-          "url": "https://font.fish/",
+          "title": "Why federated design systems keep failing",
+          "url": "https://www.shaunbent.co.uk/blog/why-federated-design-systems-keep-failing/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A browser tool for spatially exploring thousands of fonts.",
-          "published_at": "2026-01-05T12:27:32"
+          "summary": "Where they broke down, and why centralized models usually work better.",
+          "published_at": "2026-01-06T12:40:14"
         },
         {
-          "title": "The enshittifinancial crisis",
-          "url": "https://www.wheresyoured.at/the-enshittifinancial-crisis/",
+          "title": "Why RSS matters",
+          "url": "https://werd.io/why-rss-matters/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The horrifying result of 15+ years of steering the tech industry away from solving actual problems in pursuit of eternal growth.",
-          "published_at": "2026-01-05T12:27:05"
+          "summary": "The future of the web depends on simple, open standards.",
+          "published_at": "2026-01-06T12:39:14"
         }
       ]
     }
