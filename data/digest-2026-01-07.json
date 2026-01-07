@@ -1,23 +1,32 @@
 {
   "date": "2026-01-07T00:00:00",
-  "total_items": 50,
+  "total_items": 52,
   "sources": [
-    "Intercom Blog",
+    "UX Design CC",
+    "Design Milk",
     "Sidebar",
     "NN/g (Nielsen Norman Group)",
-    "Design Milk",
-    "UX Design CC",
-    "优设网",
+    "Product Hunt",
+    "Intercom Blog",
     "Awwwards",
-    "A List Apart",
-    "Product Hunt"
+    "优设网",
+    "A List Apart"
   ],
-  "generated_at": "2026-01-07T09:21:44.929016",
+  "generated_at": "2026-01-07T12:54:43.994618",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 7,
+      "count": 8,
       "items": [
+        {
+          "title": "Same, but new: UX Research in the age of LLMs",
+          "url": "https://uxdesign.cc/same-same-but-new-ux-research-in-the-age-of-llms-36285d007845?source=rss----138adf9c44c---4",
+          "author": "Connor Joyce",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How researchers can define quality, guide prompts, and shape the value of AI outputs.AI agents, synthetic users, deep research, staying relevant as a UX researcher can feel like a challenge that reset...",
+          "published_at": "2026-01-07T12:13:35"
+        },
         {
           "title": "If your confidence is at an all-time low in design, try this",
           "url": "https://uxdesign.cc/if-your-confidence-is-at-an-all-time-low-in-design-try-this-b4b071161e74?source=rss----138adf9c44c---4",
@@ -346,17 +355,8 @@
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 6,
       "items": [
-        {
-          "title": "AgentNotch",
-          "url": "https://www.producthunt.com/products/agentnotch",
-          "author": "Nedim",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Real-time AI coding assistant telemetry in your Mac's notchDiscussion|Link",
-          "published_at": "2026-01-05T20:58:30"
-        },
         {
           "title": "Dessix",
           "url": "https://www.producthunt.com/products/dessix-2",
@@ -367,22 +367,31 @@
           "published_at": "2026-01-05T15:28:43"
         },
         {
-          "title": "LEGO SMART Play",
-          "url": "https://www.producthunt.com/products/lego-jurassic-world",
-          "author": "Zac Zuo",
+          "title": "Conversation API",
+          "url": "https://www.producthunt.com/products/amarsia",
+          "author": "Anuj Kapasia",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Bringing LEGO creations to life like never beforeDiscussion|Link",
-          "published_at": "2026-01-07T04:28:45"
+          "summary": "Build chatbots with memory using just an APIDiscussion|Link",
+          "published_at": "2026-01-06T09:23:41"
         },
         {
-          "title": "Claw Executive OS",
-          "url": "https://www.producthunt.com/products/claw-executive-os",
-          "author": "Sean P.",
+          "title": "Market Terminal™",
+          "url": "https://www.producthunt.com/products/market-terminal-2",
+          "author": "Adam",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Digital chief of staff that automates your files with AIDiscussion|Link",
-          "published_at": "2026-01-04T05:14:06"
+          "summary": "Wall Street‑style market terminal to track tradesDiscussion|Link",
+          "published_at": "2026-01-05T09:48:48"
+        },
+        {
+          "title": "Too Many Buttons",
+          "url": "https://www.producthunt.com/products/too-many-buttons",
+          "author": "Chirag Patel",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Only one button works. Every other click is chaos.Discussion|Link",
+          "published_at": "2026-01-07T06:41:51"
         },
         {
           "title": "Planelo",
@@ -392,6 +401,15 @@
           "source": "Product Hunt",
           "summary": "The idea-first hub for developersDiscussion|Link",
           "published_at": "2026-01-06T22:21:55"
+        },
+        {
+          "title": "LEGO SMART Play",
+          "url": "https://www.producthunt.com/products/lego-jurassic-world",
+          "author": "Zac Zuo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Bringing LEGO creations to life like never beforeDiscussion|Link",
+          "published_at": "2026-01-07T04:28:45"
         }
       ]
     },
@@ -460,49 +478,49 @@
       "count": 5,
       "items": [
         {
-          "title": "You can’t design software you don’t work on",
-          "url": "https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/",
+          "title": "Ideas are cheap, execution is cheaper",
+          "url": "https://davekiss.com/blog/ideas-are-cheap-execution-is-cheaper",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Generic software design advice is typically useless for most practical software design problems.",
-          "published_at": "2026-01-06T12:42:03"
+          "summary": "In a world where ideas are cheap and software is cheaper, what truly matters now?",
+          "published_at": "2026-01-07T12:33:02"
         },
         {
-          "title": "Motion folios",
-          "url": "https://www.motionfolios.com/",
+          "title": "Whole Earth index",
+          "url": "https://wholeearth.info/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A curated collection of motion design portfolios and studios built to inspire designers.",
-          "published_at": "2026-01-06T12:41:19"
+          "summary": "A nearly-complete archive of Whole Earth publications, published by Stewart Brand and the POINT Foundation between 1968 and 2002.",
+          "published_at": "2026-01-07T12:32:36"
         },
         {
-          "title": "Archivio Grafica Italiana",
-          "url": "https://www.archiviograficaitaliana.com/",
+          "title": "Its hover",
+          "url": "https://www.itshover.com/icons",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A systematic digital archive dedicated to the Italian graphic design heritage.",
-          "published_at": "2026-01-06T12:40:49"
+          "summary": "Animated icons that move with intent.",
+          "published_at": "2026-01-07T12:31:37"
         },
         {
-          "title": "Why federated design systems keep failing",
-          "url": "https://www.shaunbent.co.uk/blog/why-federated-design-systems-keep-failing/",
+          "title": "The Moylan arrow",
+          "url": "https://jarango.com/2026/01/06/the-moylan-arrow-ia-lessons-for-ai-powered-systems/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Where they broke down, and why centralized models usually work better.",
-          "published_at": "2026-01-06T12:40:14"
+          "summary": "How traditional structural principles can inform the design of AI-powered products and services.",
+          "published_at": "2026-01-07T12:31:10"
         },
         {
-          "title": "Why RSS matters",
-          "url": "https://werd.io/why-rss-matters/",
+          "title": "Your resolution isn’t the problem; your measurement is",
+          "url": "https://eleganthack.com/your-resolution-isnt-the-problem-your-measurement-is/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The future of the web depends on simple, open standards.",
-          "published_at": "2026-01-06T12:39:14"
+          "summary": "It’s January, and millions of people have made the same resolution: “Eat better.” By February, most will have abandoned it.",
+          "published_at": "2026-01-07T12:30:36"
         }
       ]
     }
