@@ -1,19 +1,18 @@
 {
   "date": "2026-01-07T00:00:00",
-  "total_items": 53,
+  "total_items": 50,
   "sources": [
-    "Design Milk",
-    "NN/g (Nielsen Norman Group)",
-    "A List Apart",
     "Intercom Blog",
-    "Product Hunt",
     "Sidebar",
-    "Awwwards",
+    "NN/g (Nielsen Norman Group)",
+    "Design Milk",
     "UX Design CC",
     "优设网",
-    "设计达人"
+    "Awwwards",
+    "A List Apart",
+    "Product Hunt"
   ],
-  "generated_at": "2026-01-07T02:00:48.814046",
+  "generated_at": "2026-01-07T09:21:44.929016",
   "categories": [
     {
       "category": "用户体验设计",
@@ -272,6 +271,15 @@
           "published_at": null
         },
         {
+          "title": "Dime MTL",
+          "url": "https://www.awwwards.com/sites/dime-mtl",
+          "author": "REF Digital",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Prototype",
           "url": "https://www.awwwards.com/sites/prototype-3",
           "author": "Beaucoup.",
@@ -333,48 +341,57 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Inversa",
-          "url": "https://www.awwwards.com/sites/inversa",
-          "author": "Exo Ape",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 5,
       "items": [
         {
-          "title": "Block Cart",
-          "url": "https://www.producthunt.com/products/block-cart",
-          "author": "Caleb Moseley",
+          "title": "AgentNotch",
+          "url": "https://www.producthunt.com/products/agentnotch",
+          "author": "Nedim",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn Notion into your ecommerce source of truthDiscussion|Link",
-          "published_at": "2026-01-05T22:18:09"
+          "summary": "Real-time AI coding assistant telemetry in your Mac's notchDiscussion|Link",
+          "published_at": "2026-01-05T20:58:30"
         },
         {
-          "title": "MemoryBubble",
-          "url": "https://www.producthunt.com/products/memorybubble",
-          "author": "Ceelog",
+          "title": "Dessix",
+          "url": "https://www.producthunt.com/products/dessix-2",
+          "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Pop Bubbles To clean your Mac's memoryDiscussion|Link",
-          "published_at": "2026-01-05T02:55:28"
+          "summary": "Visual workspace to capture, organize, and create with AIDiscussion|Link",
+          "published_at": "2026-01-05T15:28:43"
         },
         {
-          "title": "PDF Generator in ChatGPT",
-          "url": "https://www.producthunt.com/products/pdf-generator-in-chatgpt",
-          "author": "Pulkit Agarwal",
+          "title": "LEGO SMART Play",
+          "url": "https://www.producthunt.com/products/lego-jurassic-world",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Latex to PDF app in ChatGPT App store via Apps SDKDiscussion|Link",
-          "published_at": "2026-01-05T09:59:03"
+          "summary": "Bringing LEGO creations to life like never beforeDiscussion|Link",
+          "published_at": "2026-01-07T04:28:45"
+        },
+        {
+          "title": "Claw Executive OS",
+          "url": "https://www.producthunt.com/products/claw-executive-os",
+          "author": "Sean P.",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Digital chief of staff that automates your files with AIDiscussion|Link",
+          "published_at": "2026-01-04T05:14:06"
+        },
+        {
+          "title": "Planelo",
+          "url": "https://www.producthunt.com/products/planelo",
+          "author": "David Tereba",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The idea-first hub for developersDiscussion|Link",
+          "published_at": "2026-01-06T22:21:55"
         }
       ]
     },
@@ -486,57 +503,6 @@
           "source": "Sidebar",
           "summary": "The future of the web depends on simple, open standards.",
           "published_at": "2026-01-06T12:39:14"
-        }
-      ]
-    },
-    {
-      "category": "设计资源",
-      "count": 5,
-      "items": [
-        {
-          "title": "9个天价 Logo 居然要花几个亿？ 背后藏着怎样的设计哲学？",
-          "url": "https://www.shejidaren.com/9-ge-tianjialogo.html",
-          "author": null,
-          "category": "设计资源",
-          "source": "设计达人",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "即梦AI直出艺术字提示词分享",
-          "url": "https://www.shejidaren.com/ji-meng-ai-yi-shu-zi-ti-shi-ci.html",
-          "author": null,
-          "category": "设计资源",
-          "source": "设计达人",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "如何做好海报中的文字排版？附AI软件文字间距设置技巧分享",
-          "url": "https://www.shejidaren.com/ru-he-zuo-hao-hai-bao-zhong-de-wen-zi-pai-ban-fu-ai-ruan.html",
-          "author": null,
-          "category": "设计资源",
-          "source": "设计达人",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "2026 平面设计 10 大趋势！从宋式风雅到未来赛博，审美风向全掌握",
-          "url": "https://www.shejidaren.com/2026-ping-mian-she-ji-10-da-qu-shi.html",
-          "author": null,
-          "category": "设计资源",
-          "source": "设计达人",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "文字版式这么排，让海报秒出高级感！",
-          "url": "https://www.shejidaren.com/wen-zi-ban-shi-zhe-me-pai.html",
-          "author": null,
-          "category": "设计资源",
-          "source": "设计达人",
-          "summary": null,
-          "published_at": null
         }
       ]
     }
