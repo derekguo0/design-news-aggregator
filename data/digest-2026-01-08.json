@@ -1,19 +1,20 @@
 {
   "date": "2026-01-08T00:00:00",
-  "total_items": 44,
+  "total_items": 56,
   "sources": [
+    "Smashing Magazine",
+    "优设网",
+    "UX Design CC",
+    "NN/g (Nielsen Norman Group)",
+    "A List Apart",
+    "Design Milk",
     "Product Hunt",
     "Sidebar",
-    "Smashing Magazine",
     "CSS-Tricks",
-    "A List Apart",
-    "NN/g (Nielsen Norman Group)",
-    "Intercom Blog",
-    "UX Design CC",
-    "Design Milk",
-    "优设网"
+    "Awwwards",
+    "Intercom Blog"
   ],
-  "generated_at": "2026-01-08T02:01:38.250194",
+  "generated_at": "2026-01-08T11:53:01.336067",
   "categories": [
     {
       "category": "用户体验设计",
@@ -242,8 +243,17 @@
     },
     {
       "category": "网页设计",
-      "count": 7,
+      "count": 16,
       "items": [
+        {
+          "title": "Penpot Is Experimenting With MCP Servers For AI-Powered Design Workflows",
+          "url": "https://smashingmagazine.com/2026/01/penpot-experimenting-mcp-servers-ai-powered-design-workflows/",
+          "author": "hello@smashingmagazine.com (Daniel Schwarz)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "[Penpot](https://penpot.app/?utm_source=SmashingMagazine&utm_medium=Article&utm_campaign=MCPserver) is experimenting with MCP (Model Context Protocol) servers, which could lead to designers and develo...",
+          "published_at": "2026-01-08T08:00:00"
+        },
         {
           "title": "Pivoting Your Career Without Starting From Scratch",
           "url": "https://smashingmagazine.com/2026/01/pivoting-career-without-starting-from-scratch/",
@@ -306,30 +316,129 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
+        },
+        {
+          "title": "Slush",
+          "url": "https://www.awwwards.com/sites/slush",
+          "author": "HOLOGRAPHIK",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Dime MTL",
+          "url": "https://www.awwwards.com/sites/dime-mtl",
+          "author": "REF Digital",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Prototype",
+          "url": "https://www.awwwards.com/sites/prototype-3",
+          "author": "Beaucoup.",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Omega My Little Secret",
+          "url": "https://www.awwwards.com/sites/omega-my-little-secret",
+          "author": "Immersive Garden",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Vogue Business | Archrival",
+          "url": "https://www.awwwards.com/sites/vogue-business-archrival",
+          "author": "Noomo Agency",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "The Pendragon Cycle",
+          "url": "https://www.awwwards.com/sites/the-pendragon-cycle",
+          "author": "Format-3",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Find Your Love",
+          "url": "https://www.awwwards.com/sites/find-your-love",
+          "author": "Decimal",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Glenn Catteeuw - Portfolio",
+          "url": "https://www.awwwards.com/sites/glenn-catteeuw-portfolio-1",
+          "author": "Glenn Catteeuw",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 5,
       "items": [
         {
-          "title": "Droppy",
-          "url": "https://www.producthunt.com/products/droppy-3",
-          "author": "Jordy",
+          "title": "NexTalk",
+          "url": "https://www.producthunt.com/products/nextalk",
+          "author": "Decker",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Notch Shelf, Floating Basket & Clipboard Manager for macOSDiscussion|Link",
-          "published_at": "2026-01-06T11:21:51"
+          "summary": "The missing voice input for Linux. Beautiful Private OfflineDiscussion|Link",
+          "published_at": "2026-01-07T08:17:33"
         },
         {
-          "title": "Too Many Buttons",
-          "url": "https://www.producthunt.com/products/too-many-buttons",
-          "author": "Chirag Patel",
+          "title": "PingPrompt",
+          "url": "https://www.producthunt.com/products/pingprompt",
+          "author": "Gabriel Nascimento",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Only one button works. Every other click is chaos.Discussion|Link",
-          "published_at": "2026-01-07T06:41:51"
+          "summary": "Organize prompts, track changes, and iterate faster.Discussion|Link",
+          "published_at": "2026-01-07T07:49:32"
+        },
+        {
+          "title": "Adventory",
+          "url": "https://www.producthunt.com/products/adventory",
+          "author": "Ugo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The indie ad markeplace to sell or find ad spotsDiscussion|Link",
+          "published_at": "2026-01-07T10:37:27"
+        },
+        {
+          "title": "Livedocs",
+          "url": "https://www.producthunt.com/products/livedocs-2",
+          "author": "Garry Tan",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The general data agentDiscussion|Link",
+          "published_at": "2026-01-07T23:36:13"
+        },
+        {
+          "title": "ChatGPT Health",
+          "url": "https://www.producthunt.com/products/openai",
+          "author": "Chris Messina",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "ChatGPT designed for health and wellnessDiscussion|Link",
+          "published_at": "2026-01-07T23:53:27"
         }
       ]
     },
