@@ -1,19 +1,19 @@
 {
   "date": "2026-01-09T00:00:00",
-  "total_items": 53,
+  "total_items": 54,
   "sources": [
-    "Product Hunt",
-    "Design Milk",
     "Smashing Magazine",
+    "NN/g (Nielsen Norman Group)",
+    "Sidebar",
+    "Design Milk",
     "Awwwards",
+    "CSS-Tricks",
     "优设网",
     "UX Design CC",
-    "NN/g (Nielsen Norman Group)",
-    "CSS-Tricks",
     "A List Apart",
-    "Sidebar"
+    "Product Hunt"
   ],
-  "generated_at": "2026-01-09T12:04:28.934161",
+  "generated_at": "2026-01-09T12:53:22.740943",
   "categories": [
     {
       "category": "用户体验设计",
@@ -356,17 +356,8 @@
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 7,
       "items": [
-        {
-          "title": "Gmail in the Gemini Era",
-          "url": "https://www.producthunt.com/products/google",
-          "author": "Zac Zuo",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Ask your inbox anything to get summaries, drafts, & moreDiscussion|Link",
-          "published_at": "2026-01-09T03:52:48"
-        },
         {
           "title": "Dabble me",
           "url": "https://www.producthunt.com/products/dabble-me-private-email-journaling",
@@ -386,13 +377,40 @@
           "published_at": "2026-01-08T21:43:28"
         },
         {
-          "title": "Chirpz Agent",
-          "url": "https://www.producthunt.com/products/chirpz-for-literature-discovery",
-          "author": "Sina Tayebati",
+          "title": "Gmail in the Gemini Era",
+          "url": "https://www.producthunt.com/products/google",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Smartest way to discover unseen literatureDiscussion|Link",
-          "published_at": "2026-01-08T19:53:10"
+          "summary": "Ask your inbox anything to get summaries, drafts, & moreDiscussion|Link",
+          "published_at": "2026-01-09T03:52:48"
+        },
+        {
+          "title": "Kuulto",
+          "url": "https://www.producthunt.com/products/kuulto-the-terminal-reimagined",
+          "author": "Selcuk Sarikoz",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Use /ai to organize files, convert image formats, and moreDiscussion|Link",
+          "published_at": "2026-01-08T23:50:44"
+        },
+        {
+          "title": "Repo Prompt",
+          "url": "https://www.producthunt.com/products/repo-prompt",
+          "author": "Chris Messina",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Automate assembling the perfect context for your projectDiscussion|Link",
+          "published_at": "2026-01-07T02:49:14"
+        },
+        {
+          "title": "AI SmartTalk",
+          "url": "https://www.producthunt.com/products/ai-smarttalk",
+          "author": "Odran Husson",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "No-code AI agents for any channel in minutesDiscussion|Link",
+          "published_at": "2026-01-08T10:43:25"
         },
         {
           "title": "Owl Browser",
@@ -402,15 +420,6 @@
           "source": "Product Hunt",
           "summary": "Undetectable browser automation that behaves like a userDiscussion|Link",
           "published_at": "2026-01-08T17:05:55"
-        },
-        {
-          "title": "Shipper Visual Edit",
-          "url": "https://www.producthunt.com/products/shipper-now",
-          "author": "Ch David",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Edit apps visually in 1 click without having to prompt fixesDiscussion|Link",
-          "published_at": "2026-01-08T14:27:56"
         }
       ]
     },
@@ -479,49 +488,49 @@
       "count": 5,
       "items": [
         {
-          "title": "It’s hard to justify Tahoe icons",
-          "url": "https://tonsky.me/blog/tahoe-icons/",
+          "title": "Humans \"in the loop\"",
+          "url": "https://draganbabic.com/blog/steam-steel-and-infinite-minds-by-ivan-zhao/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Looking at the first principles of icon design—and how Apple failed to apply all of them in macOS Tahoe.",
-          "published_at": "2026-01-08T13:12:44"
+          "summary": "As soon as people are out of the trenches of their work, their motivation for the quality of said work deteriorates.",
+          "published_at": "2026-01-09T12:27:05"
         },
         {
-          "title": "bikemap.nyc",
-          "url": "https://bikemap.nyc/",
+          "title": "Judgment from the ground up",
+          "url": "https://vaughntan.org/jrjudgment",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Visualization of the entire history of Citi Bike, the largest bike-sharing system in the US.",
-          "published_at": "2026-01-08T13:12:22"
+          "summary": "Critical thinking is foundational for making decisions that require subjective judgment.",
+          "published_at": "2026-01-09T12:25:55"
         },
         {
-          "title": "AI Design Field Guide",
-          "url": "https://www.aidesignfieldguide.com/",
+          "title": "Tool UI",
+          "url": "https://www.tool-ui.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Learn techniques from the designers behind OpenAI, Anthropic, Figma, Notion & more.",
-          "published_at": "2026-01-08T13:11:39"
+          "summary": "Beautiful UI components for AI tool calls.",
+          "published_at": "2026-01-09T12:25:14"
         },
         {
-          "title": "Software is culture",
-          "url": "https://www.figma.com/blog/software-is-culture/",
+          "title": "Life happens at 1x speed",
+          "url": "https://terriblesoftware.org/2026/01/08/life-happens-at-1x-speed/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "To understand what’s next as software grows more intelligent, we look back on 20 years of interaction design.",
-          "published_at": "2026-01-08T13:11:01"
+          "summary": "Why I stopped consuming content at 2x speed, and the simple rule that changed how I listen to everything.",
+          "published_at": "2026-01-09T12:24:48"
         },
         {
-          "title": "The done list",
-          "url": "https://tomtunguz.com/coding-kanban/",
+          "title": "More efficiency, more demand",
+          "url": "https://mikefisher.substack.com/p/more-efficiency-more-demand",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How the disappearing middle of work changes everything about planning & productivity.",
-          "published_at": "2026-01-08T13:10:26"
+          "summary": "The future of software engineers and data scientists is bright.",
+          "published_at": "2026-01-09T12:23:30"
         }
       ]
     },
