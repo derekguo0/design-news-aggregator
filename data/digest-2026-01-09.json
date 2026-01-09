@@ -1,19 +1,19 @@
 {
   "date": "2026-01-09T00:00:00",
-  "total_items": 52,
+  "total_items": 53,
   "sources": [
+    "Product Hunt",
     "Design Milk",
-    "Sidebar",
-    "Awwwards",
-    "A List Apart",
     "Smashing Magazine",
+    "Awwwards",
+    "优设网",
     "UX Design CC",
     "NN/g (Nielsen Norman Group)",
     "CSS-Tricks",
-    "Product Hunt",
-    "优设网"
+    "A List Apart",
+    "Sidebar"
   ],
-  "generated_at": "2026-01-09T02:02:13.298260",
+  "generated_at": "2026-01-09T12:04:28.934161",
   "categories": [
     {
       "category": "用户体验设计",
@@ -25,7 +25,7 @@
           "author": "Jason Kogan",
           "category": "用户体验设计",
           "source": "UX Design CC",
-          "summary": "I treated my board game like a product. How UX practices and “killing my darlings” improved its UI, simplified the game, and maxed the fun!Continue reading on UX Collective »",
+          "summary": "I treated my board game like a product and used UX practices to improve its UI—simplifying the game and maxing the fun.As a User Experience (UX) professional, it’s hard to ignore the correlation betwe...",
           "published_at": "2026-01-08T23:03:23"
         },
         {
@@ -281,6 +281,15 @@
           "published_at": null
         },
         {
+          "title": "Estrela",
+          "url": "https://www.awwwards.com/sites/estrela",
+          "author": "Malvah",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Slush",
           "url": "https://www.awwwards.com/sites/slush",
           "author": "HOLOGRAPHIK",
@@ -342,66 +351,66 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Glenn Catteeuw - Portfolio",
-          "url": "https://www.awwwards.com/sites/glenn-catteeuw-portfolio-1",
-          "author": "Glenn Catteeuw",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "Livedocs",
-          "url": "https://www.producthunt.com/products/livedocs-2",
-          "author": "Garry Tan",
+          "title": "Gmail in the Gemini Era",
+          "url": "https://www.producthunt.com/products/google",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The general data agentDiscussion|Link",
-          "published_at": "2026-01-07T23:36:13"
+          "summary": "Ask your inbox anything to get summaries, drafts, & moreDiscussion|Link",
+          "published_at": "2026-01-09T03:52:48"
         },
         {
-          "title": "Awesome Gemini Prompts",
-          "url": "https://www.producthunt.com/products/awesome-gemini-prompts",
-          "author": "Faych",
+          "title": "Dabble me",
+          "url": "https://www.producthunt.com/products/dabble-me-private-email-journaling",
+          "author": "Paul Arterburn",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The Ultimate Open Source Library for Gemini & NanoDiscussion|Link",
-          "published_at": "2026-01-08T02:13:47"
+          "summary": "Email prompts where replies become your journal entriesDiscussion|Link",
+          "published_at": "2026-01-08T23:07:20"
         },
         {
-          "title": "PingPrompt",
-          "url": "https://www.producthunt.com/products/pingprompt",
-          "author": "Gabriel Nascimento",
+          "title": "Promptsy",
+          "url": "https://www.producthunt.com/products/promptsy",
+          "author": "Levi Smith",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Organize prompts, track changes, and iterate faster.Discussion|Link",
-          "published_at": "2026-01-07T07:49:32"
+          "summary": "Create, save, and share promptsDiscussion|Link",
+          "published_at": "2026-01-08T21:43:28"
         },
         {
-          "title": "Biker 2.0: Bicycle track & maintain",
-          "url": "https://www.producthunt.com/products/biker-track-maintain-repair",
-          "author": "Temian Mihai",
+          "title": "Chirpz Agent",
+          "url": "https://www.producthunt.com/products/chirpz-for-literature-discovery",
+          "author": "Sina Tayebati",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Bike AI garage: track and maintain bicycle partsDiscussion|Link",
-          "published_at": "2026-01-07T14:28:08"
+          "summary": "Smartest way to discover unseen literatureDiscussion|Link",
+          "published_at": "2026-01-08T19:53:10"
         },
         {
-          "title": "Alias Bot",
-          "url": "https://www.producthunt.com/products/alias-bot",
-          "author": "Sanket Nadhani",
+          "title": "Owl Browser",
+          "url": "https://www.producthunt.com/products/owl-browser",
+          "author": "Fakrul H. Sarker",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Replace repeated @mentions in Slack with channel aliasesDiscussion|Link",
-          "published_at": "2026-01-07T14:18:25"
+          "summary": "Undetectable browser automation that behaves like a userDiscussion|Link",
+          "published_at": "2026-01-08T17:05:55"
+        },
+        {
+          "title": "Shipper Visual Edit",
+          "url": "https://www.producthunt.com/products/shipper-now",
+          "author": "Ch David",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Edit apps visually in 1 click without having to prompt fixesDiscussion|Link",
+          "published_at": "2026-01-08T14:27:56"
         }
       ]
     },
