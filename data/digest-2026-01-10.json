@@ -1,20 +1,20 @@
 {
   "date": "2026-01-10T00:00:00",
-  "total_items": 57,
+  "total_items": 53,
   "sources": [
-    "Awwwards",
-    "A List Apart",
-    "Smashing Magazine",
-    "Product Hunt",
-    "UX Planet",
-    "优设网",
-    "UX Design CC",
-    "Sidebar",
-    "Design Milk",
     "CSS-Tricks",
-    "NN/g (Nielsen Norman Group)"
+    "Sidebar",
+    "优设网",
+    "UX Planet",
+    "Design Milk",
+    "UX Design CC",
+    "NN/g (Nielsen Norman Group)",
+    "Smashing Magazine",
+    "Awwwards",
+    "Product Hunt",
+    "A List Apart"
   ],
-  "generated_at": "2026-01-10T01:58:05.236186",
+  "generated_at": "2026-01-10T12:48:19.397784",
   "categories": [
     {
       "category": "用户体验设计",
@@ -309,6 +309,15 @@
           "published_at": null
         },
         {
+          "title": "IntegratedBio",
+          "url": "https://www.awwwards.com/sites/integratedbio",
+          "author": "Elliott Mangham",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Estrela",
           "url": "https://www.awwwards.com/sites/estrela",
           "author": "Malvah",
@@ -370,84 +379,39 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Find Your Love",
-          "url": "https://www.awwwards.com/sites/find-your-love",
-          "author": "Decimal",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 7,
+      "count": 3,
       "items": [
         {
-          "title": "Repo Prompt",
-          "url": "https://www.producthunt.com/products/repo-prompt",
-          "author": "Chris Messina",
+          "title": "HtmlDrag",
+          "url": "https://www.producthunt.com/products/htmldrag",
+          "author": "Bowen Tu",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Automate assembling the perfect context for your projectDiscussion|Link",
-          "published_at": "2026-01-07T02:49:14"
+          "summary": "A freeform canvas for any HTML (no grids, no wireframes)Discussion|Link",
+          "published_at": "2026-01-07T06:06:16"
         },
         {
-          "title": "Chirpz Agent",
-          "url": "https://www.producthunt.com/products/chirpz-for-literature-discovery",
-          "author": "Sina Tayebati",
+          "title": "Burner Note",
+          "url": "https://www.producthunt.com/products/burner-note",
+          "author": "Primer",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Smartest way to discover unseen literatureDiscussion|Link",
-          "published_at": "2026-01-08T19:53:10"
+          "summary": "Zero knowledge self destructing notesDiscussion|Link",
+          "published_at": "2026-01-10T00:22:30"
         },
         {
-          "title": "Owl Browser",
-          "url": "https://www.producthunt.com/products/owl-browser",
-          "author": "Fakrul H. Sarker",
+          "title": "SkreenPro",
+          "url": "https://www.producthunt.com/products/skreenpro",
+          "author": "Abbas Aga",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Undetectable browser automation that behaves like a userDiscussion|Link",
-          "published_at": "2026-01-08T17:05:55"
-        },
-        {
-          "title": "Kuulto",
-          "url": "https://www.producthunt.com/products/kuulto-the-terminal-reimagined",
-          "author": "Selcuk Sarikoz",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Use /ai to organize files, convert image formats, and moreDiscussion|Link",
-          "published_at": "2026-01-08T23:50:44"
-        },
-        {
-          "title": "P402.io",
-          "url": "https://www.producthunt.com/products/p402-io",
-          "author": "Zeshan Ahmad",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Route, verify, and settle paid API calls with clear tracesDiscussion|Link",
-          "published_at": "2026-01-08T11:48:02"
-        },
-        {
-          "title": "Dabble me",
-          "url": "https://www.producthunt.com/products/dabble-me-private-email-journaling",
-          "author": "Paul Arterburn",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Email prompts where replies become your journal entriesDiscussion|Link",
-          "published_at": "2026-01-08T23:07:20"
-        },
-        {
-          "title": "AI SmartTalk",
-          "url": "https://www.producthunt.com/products/ai-smarttalk",
-          "author": "Odran Husson",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "No-code AI agents for any channel in minutesDiscussion|Link",
-          "published_at": "2026-01-08T10:43:25"
+          "summary": "Screenshot Editing. Open Source. Free. Powerful.Discussion|Link",
+          "published_at": "2026-01-09T16:12:13"
         }
       ]
     },
