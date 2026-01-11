@@ -1,18 +1,19 @@
 {
   "date": "2026-01-11T00:00:00",
-  "total_items": 41,
+  "total_items": 49,
   "sources": [
-    "A List Apart",
-    "优设网",
-    "Smashing Magazine",
-    "Sidebar",
     "UX Design CC",
-    "UX Planet",
     "Product Hunt",
+    "Sidebar",
+    "UX Planet",
+    "优设网",
     "Design Milk",
-    "NN/g (Nielsen Norman Group)"
+    "NN/g (Nielsen Norman Group)",
+    "Smashing Magazine",
+    "A List Apart",
+    "Awwwards"
   ],
-  "generated_at": "2026-01-11T02:11:24.048334",
+  "generated_at": "2026-01-11T12:49:39.080324",
   "categories": [
     {
       "category": "用户体验设计",
@@ -214,7 +215,7 @@
     },
     {
       "category": "网页设计",
-      "count": 7,
+      "count": 15,
       "items": [
         {
           "title": "Penpot Is Experimenting With MCP Servers For AI-Powered Design Workflows",
@@ -278,6 +279,78 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
+        },
+        {
+          "title": "OGAKI",
+          "url": "https://www.awwwards.com/sites/ogaki",
+          "author": "ToyFight",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "IntegratedBio",
+          "url": "https://www.awwwards.com/sites/integratedbio",
+          "author": "Elliott Mangham",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Estrela",
+          "url": "https://www.awwwards.com/sites/estrela",
+          "author": "Malvah",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Slush",
+          "url": "https://www.awwwards.com/sites/slush",
+          "author": "HOLOGRAPHIK",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Dime MTL",
+          "url": "https://www.awwwards.com/sites/dime-mtl",
+          "author": "REF Digital",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Prototype",
+          "url": "https://www.awwwards.com/sites/prototype-3",
+          "author": "Beaucoup.",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Omega My Little Secret",
+          "url": "https://www.awwwards.com/sites/omega-my-little-secret",
+          "author": "Immersive Garden",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Vogue Business | Archrival",
+          "url": "https://www.awwwards.com/sites/vogue-business-archrival",
+          "author": "Noomo Agency",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
@@ -286,31 +359,31 @@
       "count": 3,
       "items": [
         {
-          "title": "Burner Note",
-          "url": "https://www.producthunt.com/products/burner-note",
-          "author": "Primer",
+          "title": "Bit Sketchy!",
+          "url": "https://www.producthunt.com/products/bit-sketchy-party-game",
+          "author": "Oliver Sanasi",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Zero knowledge self destructing notesDiscussion|Link",
-          "published_at": "2026-01-10T00:22:30"
+          "summary": "A simple drawing party game where no skill is requiredDiscussion|Link",
+          "published_at": "2026-01-09T13:45:55"
         },
         {
-          "title": "SkreenPro",
-          "url": "https://www.producthunt.com/products/skreenpro",
-          "author": "Abbas Aga",
+          "title": "Lexie",
+          "url": "https://www.producthunt.com/products/lexie",
+          "author": "Vadim Drobinin",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Screenshot Editing. Open Source. Free. Powerful.Discussion|Link",
-          "published_at": "2026-01-09T16:12:13"
+          "summary": "A Tamagotchi that turns language practice into a gameDiscussion|Link",
+          "published_at": "2026-01-10T04:23:47"
         },
         {
-          "title": "AI SmartTalk",
-          "url": "https://www.producthunt.com/products/ai-smarttalk",
-          "author": "Odran Husson",
+          "title": "Funding Goal",
+          "url": "https://www.producthunt.com/products/funding-goal",
+          "author": "Rashid Khasanov",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "No-code AI agents for any channel in minutesDiscussion|Link",
-          "published_at": "2026-01-08T10:43:25"
+          "summary": "Calculate how much you should raise and whyDiscussion|Link",
+          "published_at": "2026-01-09T21:26:18"
         }
       ]
     },
