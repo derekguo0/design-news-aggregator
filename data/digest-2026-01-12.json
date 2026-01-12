@@ -2,24 +2,33 @@
   "date": "2026-01-12T00:00:00",
   "total_items": 58,
   "sources": [
-    "Awwwards",
-    "Sidebar",
-    "Product Hunt",
-    "UX Design CC",
-    "A List Apart",
-    "少数派",
-    "NN/g (Nielsen Norman Group)",
     "人人都是产品经理",
-    "优设网",
+    "NN/g (Nielsen Norman Group)",
+    "A List Apart",
+    "Sidebar",
+    "UX Design CC",
     "UX Planet",
+    "优设网",
+    "Awwwards",
+    "Product Hunt",
+    "少数派",
     "Design Milk"
   ],
-  "generated_at": "2026-01-12T03:16:23.669789",
+  "generated_at": "2026-01-12T12:56:19.690387",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 9,
+      "count": 11,
       "items": [
+        {
+          "title": "Escaping AI sludge, Figma Make prompts, UX for board games",
+          "url": "https://uxdesign.cc/escaping-ai-sludge-figma-make-prompts-ux-for-board-games-e227457975d8?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“AI is now omnipresent in our workflows, but it’s come at a cost: a sea of sameness. Lately, products have begun to look and feel homogeneo...",
+          "published_at": "2026-01-12T12:22:09"
+        },
         {
           "title": "A Green Book for AI Apps",
           "url": "https://uxdesign.cc/a-green-book-for-ai-apps-7d32cc173eb0?source=rss----138adf9c44c---4",
@@ -55,6 +64,15 @@
           "source": "UX Design CC",
           "summary": "Evaluation, judgment, and the erosion of professional knowledgeContinue reading on UX Collective »",
           "published_at": "2026-01-10T18:50:44"
+        },
+        {
+          "title": "Top 3 Prompting Frameworks for Design Ideation",
+          "url": "https://uxplanet.org/top-3-prompting-frameworks-for-design-ideation-4835f33185f6?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "The quality of AI output is a reflection of the quality of your prompts. In this article, I’m sharing 3 reusable prompting frameworks that…Continue reading on UX Planet »",
+          "published_at": "2026-01-12T12:04:14"
         },
         {
           "title": "What to do when your manager is not around",
@@ -105,17 +123,8 @@
     },
     {
       "category": "用户体验研究",
-      "count": 6,
+      "count": 5,
       "items": [
-        {
-          "title": "Humanizing AI Is a Trap",
-          "url": "https://www.nngroup.com/articles/humanizing-ai/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
         {
           "title": "Why Most Product Teams Aren't Really Empowered",
           "url": "https://www.nngroup.com/articles/teams-arent-empowered/",
@@ -195,49 +204,49 @@
           "published_at": "2026-01-09T14:00:15"
         },
         {
-          "title": "如何理解“用户需求”和“产品需求”？",
-          "url": "https://www.woshipm.com/share/6303426.html",
-          "author": "我很好奇WHY",
+          "title": "红杉印度押注900万美金，这家AI公司如何让千亿美元市场研究行业\"秒变高效\"？",
+          "url": "https://www.woshipm.com/share/6323579.html",
+          "author": "深思圈",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "用户需求与产品需求之间的鸿沟如何跨越？本文通过经典案例揭示用户声音与行为的不一致性，深度剖析产品经理必须具备的用户力、商业力和落地力三重洞察。“用户需求”是一个很模糊的词汇，很多时候你的团队成员会用“用户需求”来绑架你，说这是用户想要的，你必须得实现，美其名曰要尊重用户。但事实真的如此吗？不一定！因为你所谓的“用户需求”可能仅仅是用户声音，你不仅要听用户说了什么，还要看他做了什么。结合声音数据和行...",
-          "published_at": "2026-01-12T02:44:16"
+          "summary": "一个1400亿美元的传统行业正在经历AI驱动的效率革命。Metaforms通过AI agent技术将市场研究流程中的问卷编码、数据验证等重复性工作自动化，将完成时间缩短85-90%。这家获得红杉印度900万美元投资的初创公司，不仅帮助全球顶级研究机构提升产能，更重新定义了人机协作的研究模式。本文深度解析其技术架构、商业模式及对传统行业AI化的启示。你有没有想过，一个看似传统的行业能在20年内几乎没...",
+          "published_at": "2026-01-12T08:55:03"
         },
         {
-          "title": "做了 3 年产品经理后，我才慢慢看清这几个现实规则",
-          "url": "https://www.woshipm.com/share/6323176.html",
-          "author": "panda",
+          "title": "01 认知篇：6年小红书运营经验，全写在这了",
+          "url": "https://www.woshipm.com/operate/6323578.html",
+          "author": "叁斤",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "产品经理的光环背后，往往是无数次的妥协与权衡。从‘润滑剂’角色到向上管理，从数据迷信到资源取舍，这篇文章揭示了7条血泪凝结的生存法则。当你不再执着于完美方案，反而能把事情推得更远。你不是CEO，但你确实要为结果负责。刚入行那会儿，我也相信一句话：“产品经理是产品的 CEO。”三年后回头看，只能说——这句话没骗人，但它少说了一半。你确实要为结果负责，但你几乎没有任何真正的决策权。下面这 7 条，是我...",
-          "published_at": "2026-01-12T02:41:47"
+          "summary": "6年小红书运营实战揭示流量与生意的本质差异。从万赞笔记被拒投到低流量内容成功接单，作者用亲身经历验证了从博主思维到生意思维的转变。本文深度解析搜索流量、铁杆粉丝积累和资产搭建三大核心认知，为内容创作者提供从流量操盘手到资产搭建者的转型路径。2021年，我做了个零食号和家居号，有很多笔记点赞都过万了。我拿着万粉的账号去接广告，被品牌方拒绝了。比较熟悉的PR跟我说：你这粉丝全是凑热闹的，没有投放价值。...",
+          "published_at": "2026-01-12T08:53:11"
         },
         {
-          "title": "AI 玩具热潮下的真实需求与产品反思",
-          "url": "https://www.woshipm.com/ai/6322979.html",
-          "author": "怡伶设计心理",
+          "title": "案例锦囊：AI 产品中的“人性化”设计！",
+          "url": "https://www.woshipm.com/share/6323577.html",
+          "author": "元尧",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI玩具在中国市场看似火热，却普遍陷入同质化与低留存的尴尬困境。本文从依恋理论与用户研究出发，犀利指出行业将‘陪伴’简化为‘对话’的根本误区，揭示乐高、芭比等经典玩具的长期价值密码，为AI玩具如何突破技术炫技、构建真实情感连接提供破局路径。在中国市场，AI 玩具正在经历一轮由技术叙事、资本预期与消费焦虑共同推动的高速扩张。从AI毛绒玩具到桌面陪伴桌宠，从“情绪价值”到“智能对话”，AI 玩具被反复...",
-          "published_at": "2026-01-12T02:38:49"
+          "summary": "AI产品的设计核心正在从技术导向转向人性化体验。本文通过ChatGPT的年度回顾、Gemini的个性化对话、Android的智能通知等15个前沿案例，系统解析了个性化定制、多产品互通、低操作门槛三大设计策略如何让AI工具真正理解用户需求，实现从“能用”到“懂用”的体验升级。在 AI 时代做产品设计时，“人性化” 体验依旧是不变的主旨，核心目标是让设计回归用户本身，在合理应用新技术的同时，尊重用户的...",
+          "published_at": "2026-01-12T08:50:47"
         },
         {
-          "title": "以《孙子兵法》核心思想驭产品经理团队管理",
-          "url": "https://www.woshipm.com/zhichang/6323117.html",
-          "author": "咔嗒库栗",
+          "title": "最靠谱的员工往往都成了消耗品",
+          "url": "https://www.woshipm.com/share/6323576.html",
+          "author": "简谙",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "《孙子兵法》的精髓与产品团队管理竟有惊人的共通之处！本文打破常规思维框架，从战略层的‘道法’根基、执行层的‘将兵’激活到战术层的‘谋势变’优化，层层拆解如何用2500年前的军事智慧打造高效自驱的产品团队。你会看到‘上下同欲’如何破解团队内耗，‘择人任势’怎样实现1+1>3，以及如何用‘不战而屈人之兵’的终极境界解放管理者的双手。《孙子兵法》的核心不是“战”，而是“不战而屈人之兵”的全局运筹思维，是...",
-          "published_at": "2026-01-12T02:29:47"
+          "summary": "职场中那些最靠谱的员工往往陷入\"能者多劳\"的恶性循环。本文通过A、B两位产品经理的鲜明对比，揭示了责任心强、能力出众的员工如何成为组织中最容易被消耗的资源。从\"靠谱\"标签的双面性到管理者资源分配的逻辑缺陷，深入剖析了健康组织生态的构建之道，并为打工人提供了守住边界、实现价值可视化的实用策略。我们公司有个研发部门，部门经理为了控制预算，7个产品只放了两个产品经理：分别是产品经理A和B。A 2024年...",
+          "published_at": "2026-01-12T08:46:34"
         },
         {
-          "title": "如何成为一名优秀的AI 产品负责人？",
-          "url": "https://www.woshipm.com/ai/6323118.html",
-          "author": "柳星聊产品",
+          "title": "我只花了一天时间，就用AI复刻了当年微信最火的打飞机游戏",
+          "url": "https://www.woshipm.com/share/6323575.html",
+          "author": "彩云sky",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "2026年的AI浪潮已从技术探索转向产业标配，产品经理的职场定位面临关键分水岭。本文犀利剖析AI产品负责人必备的三大思维转变——从技术崇拜到场景拆解，从追求确定到驾驭不确定性，从功能实现到商业平衡，为那些渴望突破执行层、真正扛起AI产品战略责任的从业者提供进阶指南。2026 年刚开始，AI 圈已经足够热闹。一边是马斯克反复提及 AGI 时间点，另一边是智谱、MiniMax 等公司陆续走向资本市场，...",
-          "published_at": "2026-01-12T02:16:03"
+          "summary": "AI正在重新定义游戏开发的效率边界。仅用一天时间，通过Gemini的智能辅助，一个非专业开发者成功复刻了微信经典的打飞机游戏，并迭代了数十个版本。本文详细拆解了从策划提示词生成、代码编写到移动端适配的完整流程，展现了AI如何将产品想法快速转化为可玩性极高的交互体验。当年微信为了突出“和朋友们一起玩游戏”的概念，在2013年8月5.0版本做了一个特别经典的开屏小游戏，就是打飞机（经典飞机大战）。这个...",
+          "published_at": "2026-01-12T08:43:13"
         }
       ]
     },
@@ -297,6 +306,15 @@
           "category": "网页设计",
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
+          "published_at": null
+        },
+        {
+          "title": "Max Mara - Untamed Heroine",
+          "url": "https://www.awwwards.com/sites/max-mara-untamed-heroine",
+          "author": "Adoratorio Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
           "published_at": null
         },
         {
@@ -361,57 +379,39 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Vogue Business | Archrival",
-          "url": "https://www.awwwards.com/sites/vogue-business-archrival",
-          "author": "Noomo Agency",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 3,
       "items": [
         {
-          "title": "Terramind Nucleus",
-          "url": "https://www.producthunt.com/products/terramind-search",
-          "author": "Agrim",
+          "title": "Corgi Insurance",
+          "url": "https://www.producthunt.com/products/corgi-insurance",
+          "author": "Josh Jung",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "IDE that *still* works with Claude Code & Antigravity subDiscussion|Link",
-          "published_at": "2026-01-09T09:15:43"
+          "summary": "Modular coverage for startups: CGL, D&O, Tech E&O, CyberDiscussion|Link",
+          "published_at": "2026-01-12T06:20:50"
         },
         {
-          "title": "Funding Goal",
-          "url": "https://www.producthunt.com/products/funding-goal",
-          "author": "Rashid Khasanov",
+          "title": "Drift",
+          "url": "https://www.producthunt.com/products/drift-6",
+          "author": "Divik Arora",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Calculate how much you should raise and whyDiscussion|Link",
-          "published_at": "2026-01-09T21:26:18"
+          "summary": "Screen recorder desktop app with cursor zoom effectDiscussion|Link",
+          "published_at": "2026-01-11T12:40:31"
         },
         {
-          "title": "Lexie",
-          "url": "https://www.producthunt.com/products/lexie",
-          "author": "Vadim Drobinin",
+          "title": "Adject v1.5",
+          "url": "https://www.producthunt.com/products/adject",
+          "author": "Saljug Mahmudlu",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A Tamagotchi that turns language practice into a gameDiscussion|Link",
-          "published_at": "2026-01-10T04:23:47"
-        },
-        {
-          "title": "Meme? Yes",
-          "url": "https://www.producthunt.com/products/meme-yes",
-          "author": "Eren",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Stop Alt-Tabbing. The fastest way to find memes.Discussion|Link",
-          "published_at": "2026-01-10T11:38:46"
+          "summary": "Create hyper-realistic product images & videos instantlyDiscussion|Link",
+          "published_at": "2026-01-11T19:09:33"
         }
       ]
     },
@@ -480,49 +480,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Humans \"in the loop\"",
-          "url": "https://draganbabic.com/blog/steam-steel-and-infinite-minds-by-ivan-zhao/",
+          "title": "Vibe Coding Camp: build real products with AI",
+          "url": "https://bit.ly/side-lab2",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "As soon as people are out of the trenches of their work, their motivation for the quality of said work deteriorates.",
-          "published_at": "2026-01-09T12:27:05"
+          "summary": "A hands-on program for designers and PMs who want to actually build—using Cursor, Supabase, Vercel, and AI-first workflows.",
+          "published_at": "2026-01-12T12:31:00"
         },
         {
-          "title": "Judgment from the ground up",
-          "url": "https://vaughntan.org/jrjudgment",
+          "title": "Try to take my position",
+          "url": "https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Critical thinking is foundational for making decisions that require subjective judgment.",
-          "published_at": "2026-01-09T12:25:55"
+          "summary": "\"You want to get promoted? Try to take my position.\" Here's why this was the best career advice ever.",
+          "published_at": "2026-01-12T12:30:01"
         },
         {
-          "title": "Tool UI",
-          "url": "https://www.tool-ui.com/",
+          "title": "Hacker News book map",
+          "url": "https://hnbooks.pieterma.es/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Beautiful UI components for AI tool calls.",
-          "published_at": "2026-01-09T12:25:14"
+          "summary": "The 1000 most popular books on Hacker News visualized on an interactive map.",
+          "published_at": "2026-01-12T12:28:47"
         },
         {
-          "title": "Life happens at 1x speed",
-          "url": "https://terriblesoftware.org/2026/01/08/life-happens-at-1x-speed/",
+          "title": "World map of human ideas",
+          "url": "https://ideas.zudiay.me/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Why I stopped consuming content at 2x speed, and the simple rule that changed how I listen to everything.",
-          "published_at": "2026-01-09T12:24:48"
+          "summary": "Explore the birthplaces of ideas that shaped civilization.",
+          "published_at": "2026-01-12T12:28:13"
         },
         {
-          "title": "More efficiency, more demand",
-          "url": "https://mikefisher.substack.com/p/more-efficiency-more-demand",
+          "title": "Humanizing AI is a trap",
+          "url": "https://www.nngroup.com/articles/humanizing-ai/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The future of software engineers and data scientists is bright.",
-          "published_at": "2026-01-09T12:23:30"
+          "summary": "LLMs humanize by design. Adding personality/emotion amplifies risk. Design real tools, not fake friends.",
+          "published_at": "2026-01-12T12:27:34"
         }
       ]
     },
@@ -530,6 +530,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "派评 | 近期值得关注的 App",
+          "url": "https://sspai.com/post/105387",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "published_at": "2026-01-12T09:46:42"
+        },
+        {
+          "title": "冬天，在济州岛跨年",
+          "url": "https://sspai.com/post/105267",
+          "author": "bakamio",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "published_at": "2026-01-12T07:00:37"
+        },
+        {
+          "title": "当我尝试修复一台十年前的 ThinkPad E40……",
+          "url": "https://sspai.com/post/104522",
+          "author": "Sigmund",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "能做的事情还有很多。但是这一切值得吗？查看全文",
+          "published_at": "2026-01-12T03:02:05"
+        },
         {
           "title": "派早报：国务院开展外卖市场竞争调查评估",
           "url": "https://sspai.com/post/105357",
@@ -556,33 +583,6 @@
           "source": "少数派",
           "summary": "有「大头」陪伴的这几天，更像是未来，却发生在当下。这台机器狗的完成度已经不是尝鲜产品的水平。我真的想让「大头」陪我过年，当然我也愿意把它一直带在身边。查看全文",
           "published_at": "2026-01-10T03:00:00"
-        },
-        {
-          "title": "本周看什么 | 最近值得一看的 9 部作品",
-          "url": "https://sspai.com/post/105298",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "📅本周新预告《复仇者联盟5》新预告电影《复仇者联盟5：毁灭日》陆续发布两支新贴片预告，分别宣布雷神和X战警回归。罗素兄弟执导，克里斯·海姆斯沃斯、伊恩·麦克莱恩、帕特里克·斯图尔特、克里斯·埃文斯、小 ...查看全文",
-          "published_at": "2026-01-09T10:05:16"
-        },
-        {
-          "title": "与胃里的「老房客」正确相处：了解幽门螺杆菌",
-          "url": "https://sspai.com/prime/story/helicobacter-pylori-explained",
-          "author": "叁思Santh",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "2005年，诺贝尔生理学或医学奖颁给了两位澳大利亚医生——BarryJ.Marshall和RobinWarren，以表彰他们发现了幽门螺杆菌（Helicobacterpylori）。这个发现在今天听起 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "published_at": "2026-01-09T08:36:48"
-        },
-        {
-          "title": "动态磁贴消亡史",
-          "url": "https://sspai.com/post/105188",
-          "author": "StephenFang",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "动态磁贴没有墓碑。它在系统转型中悄悄退场，仿佛从未存在过。查看全文",
-          "published_at": "2026-01-09T07:11:14"
         }
       ]
     }
