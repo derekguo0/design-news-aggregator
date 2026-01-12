@@ -219,9 +219,9 @@
       "type": "web",
       "category": "设计资源",
       "selectors": {
-        "item": "article section.post",
-        "title": ".title a",
-        "link": ".title a",
+        "item": "article.post",
+        "title": "h2.entry-title a",
+        "link": "h2.entry-title a",
         "image": ".wp-post-image",
         "author": ".author"
       },
@@ -241,6 +241,22 @@
         "author": ".author"
       },
       "enabled": false,
+      "limit": 5
+    },
+    {
+      "name": "少数派",
+      "url": "https://sspai.com/feed",
+      "type": "rss",
+      "category": "数字生活",
+      "enabled": true,
+      "limit": 6
+    },
+    {
+      "name": "人人都是产品经理",
+      "url": "http://www.woshipm.com/feed",
+      "type": "rss",
+      "category": "产品设计",
+      "enabled": true,
       "limit": 5
     }
   ]
