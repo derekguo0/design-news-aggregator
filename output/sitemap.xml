@@ -3,16 +3,23 @@
 
     <url>
         <loc>https://design-news-aggregator.vercel.app/</loc>
-        <lastmod>2026-01-12</lastmod>
+        <lastmod>2026-01-13</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://design-news-aggregator.vercel.app/archive.html</loc>
-        <lastmod>2026-01-12</lastmod>
+        <lastmod>2026-01-13</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://design-news-aggregator.vercel.app/daily-2026-01-13.html</loc>
+        <lastmod>2026-01-13</lastmod>
+        <changefreq>never</changefreq>
+        <priority>0.6</priority>
     </url>
 
     <url>
