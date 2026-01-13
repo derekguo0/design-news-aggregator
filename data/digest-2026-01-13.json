@@ -1,26 +1,54 @@
 {
   "date": "2026-01-13T00:00:00",
-  "total_items": 53,
+  "total_items": 64,
   "sources": [
+    "Awwwards",
+    "CSS-Tricks",
+    "UX Planet",
     "UX Design CC",
     "优设网",
     "Sidebar",
-    "Product Hunt",
-    "NN/g (Nielsen Norman Group)",
-    "CSS-Tricks",
+    "Design Milk",
     "少数派",
     "人人都是产品经理",
-    "Smashing Magazine",
+    "NN/g (Nielsen Norman Group)",
     "A List Apart",
-    "Design Milk",
-    "UX Planet"
+    "Smashing Magazine",
+    "Product Hunt"
   ],
-  "generated_at": "2026-01-13T10:13:08.457419",
+  "generated_at": "2026-01-13T12:56:13.481939",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 9,
+      "count": 12,
       "items": [
+        {
+          "title": "The dilemma of agency in design",
+          "url": "https://uxdesign.cc/the-dilemma-of-agency-in-design-0f50bd93cc8d?source=rss----138adf9c44c---4",
+          "author": "Martin Tomitsch",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "What it takes to overcome obstacles and drive positive impact inside systems that resist change.Illustration bySh8peshifters/ Source:designingtomorrowbook.comOver the past years, I’ve spoken with many...",
+          "published_at": "2026-01-13T12:22:41"
+        },
+        {
+          "title": "How can you ensure paying customers don’t worsen the new user experience?",
+          "url": "https://uxdesign.cc/how-can-you-ensure-paying-customers-dont-worsen-the-new-user-experience-dbd2dcddfb3c?source=rss----138adf9c44c---4",
+          "author": "Kai Wong",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The eternal challenge of B2B Design, and how reframes can helpContinue reading on UX Collective »",
+          "published_at": "2026-01-13T12:21:45"
+        },
+        {
+          "title": "Designers as agent orchestrators: what I learnt shipping with AI in 2025",
+          "url": "https://uxdesign.cc/designers-as-agent-orchestrators-what-i-learnt-shipping-with-ai-in-2025-3b1bf30048a3?source=rss----138adf9c44c---4",
+          "author": "Benhur Senabathi",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Designers hold the best qualities to get refine AI outputs that’s needed for building successful productsTraditionally we’ve shied away from building because the chasm to go from designing to shipping...",
+          "published_at": "2026-01-13T12:19:39"
+        },
         {
           "title": "Your product is a theme park",
           "url": "https://uxdesign.cc/your-product-is-a-theme-park-0b5dcbe066c2?source=rss----138adf9c44c---4",
@@ -106,8 +134,17 @@
     },
     {
       "category": "用户体验研究",
-      "count": 5,
+      "count": 6,
       "items": [
+        {
+          "title": "Humanizing AI Is a Trap",
+          "url": "https://www.nngroup.com/articles/humanizing-ai/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
         {
           "title": "Why Most Product Teams Aren't Really Empowered",
           "url": "https://www.nngroup.com/articles/teams-arent-empowered/",
@@ -244,7 +281,7 @@
     },
     {
       "category": "网页设计",
-      "count": 7,
+      "count": 15,
       "items": [
         {
           "title": "UX And Product Designer’s Career Paths In 2026",
@@ -308,30 +345,111 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
+        },
+        {
+          "title": "Lightship",
+          "url": "https://www.awwwards.com/sites/lightship-1",
+          "author": "Locomotive",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Max Mara - Untamed Heroine",
+          "url": "https://www.awwwards.com/sites/max-mara-untamed-heroine",
+          "author": "Adoratorio Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "OGAKI",
+          "url": "https://www.awwwards.com/sites/ogaki",
+          "author": "ToyFight",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "IntegratedBio",
+          "url": "https://www.awwwards.com/sites/integratedbio",
+          "author": "Elliott Mangham",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Estrela",
+          "url": "https://www.awwwards.com/sites/estrela",
+          "author": "Malvah",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Slush",
+          "url": "https://www.awwwards.com/sites/slush",
+          "author": "HOLOGRAPHIK",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Dime MTL",
+          "url": "https://www.awwwards.com/sites/dime-mtl",
+          "author": "REF Digital",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Prototype",
+          "url": "https://www.awwwards.com/sites/prototype-3",
+          "author": "Beaucoup.",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "Hivinq",
-          "url": "https://www.producthunt.com/products/hivinq",
-          "author": "Vishal DS",
+          "title": "Cowork",
+          "url": "https://www.producthunt.com/products/cowork",
+          "author": "Aleksandar Blazhev",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Copilot for customer support in SlackDiscussion|Link",
-          "published_at": "2026-01-13T04:36:13"
+          "summary": "Turn Claude into your digital coworkerDiscussion|Link",
+          "published_at": "2026-01-12T20:35:38"
         },
         {
-          "title": "The AI Revenue Engine",
-          "url": "https://www.producthunt.com/products/ai-powered-form-that-fills-itself",
-          "author": "Adel Burieva",
+          "title": "Alpine",
+          "url": "https://www.producthunt.com/products/alpine",
+          "author": "Caleb Meredith",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "GTM infrastructure for agent builders to scale and monetize.Discussion|Link",
-          "published_at": "2026-01-12T16:25:11"
+          "summary": "All your work in one place: docs, tasks, chat, AI and moreDiscussion|Link",
+          "published_at": "2026-01-12T12:26:44"
+        },
+        {
+          "title": "Voquill",
+          "url": "https://www.producthunt.com/products/voquill",
+          "author": "Josiah Saunders",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The open source WisprFlow alternativeDiscussion|Link",
+          "published_at": "2026-01-12T15:41:38"
         },
         {
           "title": "TypingMate",
@@ -341,24 +459,6 @@
           "source": "Product Hunt",
           "summary": "Create AI Shortcuts and use anywhere on your iPhoneDiscussion|Link",
           "published_at": "2026-01-13T03:01:19"
-        },
-        {
-          "title": "Recent.dev",
-          "url": "https://www.producthunt.com/products/recent-dev",
-          "author": "Dima Grossman",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Real-time changelog updates for your favorite toolsDiscussion|Link",
-          "published_at": "2026-01-13T07:05:06"
-        },
-        {
-          "title": "WebTerm",
-          "url": "https://www.producthunt.com/products/webterm",
-          "author": "Dai Aoki",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "A browser terminal sandbox for learning CLI without fearDiscussion|Link",
-          "published_at": "2026-01-12T08:49:21"
         }
       ]
     },
@@ -427,49 +527,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Vibe Coding Camp: build real products with AI",
-          "url": "https://bit.ly/side-lab2",
+          "title": "Don’t fall into the anti-AI hype",
+          "url": "https://antirez.com/news/158",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A hands-on program for designers and PMs who want to actually build—using Cursor, Supabase, Vercel, and AI-first workflows.",
-          "published_at": "2026-01-12T12:31:00"
+          "summary": "It does not matter if AI companies will not be able to get their money back and the stock market will crash.",
+          "published_at": "2026-01-13T12:37:56"
         },
         {
-          "title": "Try to take my position",
-          "url": "https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/",
+          "title": "Evil Charts",
+          "url": "https://evilcharts.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "\"You want to get promoted? Try to take my position.\" Here's why this was the best career advice ever.",
-          "published_at": "2026-01-12T12:30:01"
+          "summary": "A library of beautiful charts components that are easy to use and customize, built with Tailwind CSS and React.",
+          "published_at": "2026-01-13T12:36:45"
         },
         {
-          "title": "Hacker News book map",
-          "url": "https://hnbooks.pieterma.es/",
+          "title": "Sounds on the web",
+          "url": "https://www.userinterface.wiki/sounds-on-the-web",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The 1000 most popular books on Hacker News visualized on an interactive map.",
-          "published_at": "2026-01-12T12:28:47"
+          "summary": "Sound is the forgotten sense in web design. Used well, it adds feedback, personality, and presence that visuals alone cannot achieve.",
+          "published_at": "2026-01-13T12:35:58"
         },
         {
-          "title": "World map of human ideas",
-          "url": "https://ideas.zudiay.me/",
+          "title": "KODO-7 — UI Odyssey",
+          "url": "https://www.kodo7.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Explore the birthplaces of ideas that shaped civilization.",
-          "published_at": "2026-01-12T12:28:13"
+          "summary": "Create sci-fi terminal animations. Pure type. No ornaments.",
+          "published_at": "2026-01-13T12:35:32"
         },
         {
-          "title": "Humanizing AI is a trap",
-          "url": "https://www.nngroup.com/articles/humanizing-ai/",
+          "title": "Agent design patterns",
+          "url": "https://rlancemartin.github.io/2026/01/09/agent_design/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "LLMs humanize by design. Adding personality/emotion amplifies risk. Design real tools, not fake friends.",
-          "published_at": "2026-01-12T12:27:34"
+          "summary": "Effective agent design largely boils down to context management.",
+          "published_at": "2026-01-13T12:34:43"
         }
       ]
     },
