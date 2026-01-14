@@ -1,22 +1,22 @@
 {
   "date": "2026-01-14T00:00:00",
-  "total_items": 68,
+  "total_items": 69,
   "sources": [
-    "人人都是产品经理",
-    "A List Apart",
-    "少数派",
     "UX Planet",
-    "UX Design CC",
+    "人人都是产品经理",
     "Product Hunt",
-    "Sidebar",
-    "Awwwards",
-    "NN/g (Nielsen Norman Group)",
-    "优设网",
-    "Smashing Magazine",
+    "CSS-Tricks",
     "Design Milk",
-    "CSS-Tricks"
+    "优设网",
+    "UX Design CC",
+    "A List Apart",
+    "NN/g (Nielsen Norman Group)",
+    "少数派",
+    "Smashing Magazine",
+    "Sidebar",
+    "Awwwards"
   ],
-  "generated_at": "2026-01-14T03:41:24.988508",
+  "generated_at": "2026-01-14T12:55:54.330422",
   "categories": [
     {
       "category": "用户体验设计",
@@ -260,56 +260,65 @@
           "published_at": "2026-01-12T16:00:37"
         },
         {
-          "title": "关于我转生成为小红书创始人这档子事儿——产品历史课（2）",
-          "url": "https://www.woshipm.com/it/6320263.html",
-          "author": "绿毛虫",
+          "title": "APMS性能监测服务 精准匹配多行业场景需求",
+          "url": "https://www.woshipm.com/share/6325250.html",
+          "author": "华为开发者联盟",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "小红书如何在内容社区赛道中凭借高度克制的产品决策突破重围？本文将深度剖析小红书从一份PDF起步到200亿美金估值的成长历程，揭秘其三次关键破局背后的产品哲学，以及如何在商业化浪潮中坚守社区灵魂。作为曾经的小红书产品经理，我对于小红书的感情是复杂的。在内容社区赛道，小红书是个独特的存在。它没有顶级用户规模，不搞激进商业化，甚至长期保持低调，但在 2021-2022 年强调收缩的时代背景下，却拿到了2...",
-          "published_at": "2026-01-14T03:26:20"
+          "summary": "应用性能监测服务（APMS）是华为AppGallery Connect（AGC）面向鸿蒙开发者推出的官方现网质量解决方案，核心聚焦应用稳定性与性能监测，能精准捕捉崩溃（CPP CRASH/JS ERROR）、应用无响应（AppFreeze）等问题，同步覆盖启动耗时、页面加载、帧率、耗电等核心性能指标，通过“零成本接入+高效率分析”，助力开发者快速发现、定位并解决质量痛点，实现应用体验质的飞跃。多行...",
+          "published_at": "2026-01-14T12:03:46"
         },
         {
-          "title": "AI的入口变革与供给爆炸将重塑互联网产业逻辑",
-          "url": "https://www.woshipm.com/ai/6324493.html",
-          "author": "庄帅",
+          "title": "一文看懂“AB实验”：统计学原理，实验设计，业务应用",
+          "url": "https://www.woshipm.com/share/6325236.html",
+          "author": "接地气的陈老师",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI Agent与AIGC正掀起一场颠覆性的产业革命，从流量入口到内容供给全面重构互联网生态。超级Agent入口之争已白热化，谷歌、阿里、字节等巨头纷纷布局；AIGC则在游戏、影视领域掀起产能变革，推动内容产业向零边际成本生产迈进。本文将深度解析这场由技术驱动的商业逻辑迁移，揭示未来五年的关键投资锚点与风险暗礁。我们正站在互联网产业一场结构性变革的起点。2026年，人工智能将彻底超越“技术基建”的...",
-          "published_at": "2026-01-14T03:21:41"
+          "summary": "AB实验作为因果推断的黄金法则，通过随机分组精准剥离变量影响，成为数据驱动决策的核心工具。本文从统计学原理切入，系统解析实验设计要点、靠谱实验标准及结果解读陷阱，结合典型业务场景，帮助产品经理科学验证假设，规避常见误区，提升产品迭代效率。AB实验（ABtest）是一个让很多同学云里雾里的东西。网上太多文章都在讲统计学公式，但是：1、为什么非得是AB实验？2、哪些业务场景适合用AB实验？3、业务该怎...",
+          "published_at": "2026-01-14T11:40:22"
         },
         {
-          "title": "【车机交互重构】别在车里刷APP了：2026智能座舱的终局，是“应用商店的消亡”",
-          "url": "https://www.woshipm.com/ucd/6324468.html",
-          "author": "OpenAIer",
+          "title": "5年产品经理如何进阶成长",
+          "url": "https://www.woshipm.com/share/6325206.html",
+          "author": "YTY",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "汽车智能座舱正在经历一场从APP堆砌到服务无感的革命。2026年的车机不再需要50个图标，而是通过Agentic AI和原子化服务实现Zero-Layer交互——当你觉得累，座椅自动放平；下雨时，关窗提示主动浮现。这场变革正淘汰着那些把iPad逻辑简单移植到车机的'伪创新'，本文深度剖析智能座舱如何从'人找应用'进化为'服务找人'的新范式。如果你的车机屏幕上还趴着 50 个密密麻麻的 APP 图标...",
-          "published_at": "2026-01-14T03:21:19"
+          "summary": "当产品经理步入五年职业分水岭，单纯执行已无法突破成长瓶颈。本文基于阿里P7、字节3-1能力模型，系统拆解如何通过深度思考、商业思维与影响力构建三大维度实现进阶。从复盘式思考到ROI分析，从非授权领导力到721学习法则，为中级产品人提供一套可落地的转型方法论。产品经理在0-3年，拼的是执行力、原型细致度和文档逻辑，3-5年，拼的是独立负责模块的能力、数据分析的能力，那5年之后呢？5年左右工作经验的产...",
+          "published_at": "2026-01-14T11:23:41"
         },
         {
-          "title": "颠覆与重构：当货代公司只剩下 6 个“超级人类”与一群 AI 智能体",
-          "url": "https://www.woshipm.com/ai/6324494.html",
-          "author": "天涯轩",
+          "title": "传统产品经理 vs AI产品经理：到底有哪些区别？",
+          "url": "https://www.woshipm.com/ai/6325181.html",
+          "author": "伍德安思壮",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在内卷极致的货代行业，降本增效已成老生常谈。但如果我们将步子迈得更大一点——不是简单的流程自动化，而是用 AI Agent（智能体）彻底重构组织架构呢？本文将展开一场思想实验：设想一家货代公司，每个核心岗位（销售、操作、报关、仓储、拖车、财务）只保留一名“超级人类”作为指挥官，其余工作全部由 AI 智能体矩阵接管。这不仅是效率的提升，更是对传统货代生产关系的根本性颠覆。引言：被“人海战术”困住的货...",
-          "published_at": "2026-01-14T03:19:59"
+          "summary": "当AI技术重构产品生态，产品经理角色正裂变为两条截然不同的职业路径。传统产品经理深耕C端用户体验与商业变现，而AI产品经理专注B端技术落地与效率提升。本文从服务对象、能力模型到工作流程，系统剖析两者在思维模式、技能要求与协作方式上的本质差异，为从业者提供清晰的转型路线图。在AI技术如潮水般席卷各行各业的今天，产品经理这个岗位正迎来一场深刻的身份分化。一边是深耕移动互联网时代的“传统产品经理”，另一...",
+          "published_at": "2026-01-14T11:15:26"
         },
         {
-          "title": "喂饭级提示词公开！帮B站UP主写视频简介和弹幕引导",
-          "url": "https://www.woshipm.com/ai/6324481.html",
-          "author": "抖知书",
+          "title": "从工具到伙伴，我们如何用 AI 重塑留学申请体验",
+          "url": "https://www.woshipm.com/ai/6325145.html",
+          "author": "ETU Design",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "B站UP主们常常在视频发布的最后一步卡壳——如何写出吸引人的简介和有效的弹幕引导？这不仅影响点击率，更关乎视频的互动与推荐。现在，一个强大的AI提示词工具横空出世，它能化身顶级B站策略师，帮你一键解决六大创作痛点，从流量算法到情感共振，全方位提升视频表现。各位奋战在B站一线的UP主们，你们是否也常常遇到这样的“创作最终话”难题：耗费了无数心血精心制作的视频，终于到了发布前的最后一步——写简介和设置...",
-          "published_at": "2026-01-14T03:17:52"
+          "summary": "当留学申请遇上AI技术，iOffer.AI如何从冰冷工具蜕变为智能伙伴？本文通过真实案例，揭秘其通过透明化推理逻辑、分阶段任务架构及情感化IP设计，系统性解决信息过载与情绪焦虑，实现从碎片化服务到全程陪伴的体验重塑，为教育科技领域提供创新范本。01 项目背景：当留学服务遇见 AI，打造可信赖的智能留学伙伴留学申请是一个典型的高复杂度、高情绪负荷、长周期的服务场景。它横跨 1-3 年的决策链条，涵盖...",
+          "published_at": "2026-01-14T11:01:49"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 15,
+      "count": 16,
       "items": [
+        {
+          "title": "Smashing Animations Part 8: Theming Animations Using CSS Relative Colour",
+          "url": "https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/",
+          "author": "hello@smashingmagazine.com (Andy Clarke)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/) shares practical techniques for using them to th...",
+          "published_at": "2026-01-14T10:00:00"
+        },
         {
           "title": "UX And Product Designer’s Career Paths In 2026",
           "url": "https://smashingmagazine.com/2026/01/ux-product-designer-career-paths/",
@@ -374,6 +383,15 @@
           "published_at": null
         },
         {
+          "title": "UNESCO Stolen Objects Museum",
+          "url": "https://www.awwwards.com/sites/unesco-stolen-objects-museum",
+          "author": "makemepulse",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Lightship",
           "url": "https://www.awwwards.com/sites/lightship-1",
           "author": "Locomotive",
@@ -435,15 +453,6 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Prototype",
-          "url": "https://www.awwwards.com/sites/prototype-3",
-          "author": "Beaucoup.",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -452,49 +461,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Hivinq",
-          "url": "https://www.producthunt.com/products/hivinq",
-          "author": "Vishal DS",
+          "title": "Vellum",
+          "url": "https://www.producthunt.com/products/vellum-ai",
+          "author": "Garry Tan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Copilot for customer support in SlackDiscussion|Link",
-          "published_at": "2026-01-13T04:36:13"
+          "summary": "Build AI agents using plain English to do your boring tasksDiscussion|Link",
+          "published_at": "2026-01-12T15:23:25"
         },
         {
-          "title": "WebTerm",
-          "url": "https://www.producthunt.com/products/webterm",
-          "author": "Dai Aoki",
+          "title": "Simpl.",
+          "url": "https://www.producthunt.com/products/simpl-4",
+          "author": "Charlie Clark",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A browser terminal sandbox for learning CLI without fearDiscussion|Link",
-          "published_at": "2026-01-12T08:49:21"
+          "summary": "A pleasant Postgres browser for working with real dataDiscussion|Link",
+          "published_at": "2026-01-12T21:19:58"
         },
         {
-          "title": "Bookmarkify",
-          "url": "https://www.producthunt.com/products/bookmarkify-2",
-          "author": "Ivan Salim",
+          "title": "TabDog",
+          "url": "https://www.producthunt.com/products/tabdog",
+          "author": "Sung",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Collect websites, images, and videos into visual boardsDiscussion|Link",
-          "published_at": "2026-01-13T01:32:42"
+          "summary": "macOS menu bar app for managing browser tabs and appsDiscussion|Link",
+          "published_at": "2026-01-13T12:13:07"
         },
         {
-          "title": "Cowork",
-          "url": "https://www.producthunt.com/products/claude",
-          "author": "Aleksandar Blazhev",
+          "title": "Tidey",
+          "url": "https://www.producthunt.com/products/tidey-clean-your-desktop-in-seconds",
+          "author": "Salih",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn Claude into your digital coworkerDiscussion|Link",
-          "published_at": "2026-01-12T20:35:38"
+          "summary": "A tiny Mac app that helps you clean your desktop messDiscussion|Link",
+          "published_at": "2026-01-13T14:52:54"
         },
         {
-          "title": "Recent.dev",
-          "url": "https://www.producthunt.com/products/recent-dev",
-          "author": "Dima Grossman",
+          "title": "Taphouse",
+          "url": "https://www.producthunt.com/products/taphouse",
+          "author": "Athanasios Chonias",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Real-time changelog updates for your favorite toolsDiscussion|Link",
-          "published_at": "2026-01-13T07:05:06"
+          "summary": "The missing GUI for HomebrewDiscussion|Link",
+          "published_at": "2026-01-13T20:11:24"
         }
       ]
     },
@@ -548,7 +557,7 @@
           "published_at": null
         },
         {
-          "title": "设计师的噩梦终结：让Claude自动整理你那几百个「未命名」文件",
+          "title": "设计师的噩梦终结：让Claude自动整理你那几百个未命名文件",
           "url": "https://www.uisdc.com/hunter/0221656830.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
@@ -563,49 +572,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Don’t fall into the anti-AI hype",
-          "url": "https://antirez.com/news/158",
+          "title": "The invisible work",
+          "url": "https://hvpandya.com/invisible-work",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "It does not matter if AI companies will not be able to get their money back and the stock market will crash.",
-          "published_at": "2026-01-13T12:37:56"
+          "summary": "The coordination work that holds projects together disappears the moment it works.",
+          "published_at": "2026-01-14T12:20:23"
         },
         {
-          "title": "Evil Charts",
-          "url": "https://evilcharts.com/",
+          "title": "KCTL case study",
+          "url": "https://www.superkeen.studio/work/kctl",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A library of beautiful charts components that are easy to use and customize, built with Tailwind CSS and React.",
-          "published_at": "2026-01-13T12:36:45"
+          "summary": "Taking pride in a Brooklyn nonprofit.",
+          "published_at": "2026-01-14T12:19:27"
         },
         {
-          "title": "Sounds on the web",
-          "url": "https://www.userinterface.wiki/sounds-on-the-web",
+          "title": "Oilwell: Meditate through the meltdown",
+          "url": "https://oilwell.app/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Sound is the forgotten sense in web design. Used well, it adds feedback, personality, and presence that visuals alone cannot achieve.",
-          "published_at": "2026-01-13T12:35:58"
+          "summary": "A wellness app to help you embrace climate chaos, created by Edelman, Oil and Gas PR.",
+          "published_at": "2026-01-14T12:18:54"
         },
         {
-          "title": "KODO-7 — UI Odyssey",
-          "url": "https://www.kodo7.com/",
+          "title": "Manufacturing as code is the future, and the future is now",
+          "url": "https://fangpenlin.com/posts/2026/01/12/manufacturing-as-code-is-the-future/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Create sci-fi terminal animations. Pure type. No ornaments.",
-          "published_at": "2026-01-13T12:35:32"
+          "summary": "When you realize that the physical form of objects can be defined by digital bits, it opens up unbounded possibilities.",
+          "published_at": "2026-01-14T12:18:16"
         },
         {
-          "title": "Agent design patterns",
-          "url": "https://rlancemartin.github.io/2026/01/09/agent_design/",
+          "title": "21 lessons from 14 years at Google",
+          "url": "https://addyosmani.com/blog/21-lessons/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Effective agent design largely boils down to context management.",
-          "published_at": "2026-01-13T12:34:43"
+          "summary": "Lessons learned from 14 years of engineering at Google, focusing on what truly matters beyond just writing great code.",
+          "published_at": "2026-01-14T12:16:20"
         }
       ]
     },
@@ -628,6 +637,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "我们是如何学习的？关于学习的 N 个「关键词」",
+          "url": "https://sspai.com/post/105224",
+          "author": "知道分子吴先先",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "published_at": "2026-01-14T09:40:40"
+        },
+        {
+          "title": "IGN 盘点 | 2026 年最值得期待的游戏作品",
+          "url": "https://sspai.com/post/105437",
+          "author": "IGN中国",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "本文编译自IGNUS相关内容，原作者MaxScoville、翻译Zoe、编辑KamuiYe，少数派经IGN中国授权转载，仅对文章格式略作调整。阅读原文>新年快乐，或者说是新年的前夕，又或者是……你阅读 ...查看全文",
+          "published_at": "2026-01-14T07:48:05"
+        },
+        {
+          "title": "让送的路由器重焕新生：兆能讯通 ZN-M2 固件编译指南",
+          "url": "https://sspai.com/post/105287",
+          "author": "爱拼安小匠",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "兆能讯通M2，如此强悍、性价比如此之高，且可玩性又如此之强的 WiFi6 路由器，可遇而不可求。查看全文",
+          "published_at": "2026-01-14T03:30:30"
+        },
         {
           "title": "派早报：Apple 推出 Apple Creator Studio",
           "url": "https://sspai.com/post/105434",
@@ -654,33 +690,6 @@
           "source": "少数派",
           "summary": "语音输入法对我们来说已经不是什么新鲜事了，从早年间的讯飞输入法、Apple自带输入法，到今年微信输入法和豆包输入法更新支持了语音输入功能，使用语音输入法的人越来越多。不过这些语音输入法希望实现的目标都 ...查看全文",
           "published_at": "2026-01-13T07:22:30"
-        },
-        {
-          "title": "译文｜Tahoe 的图标令人难评",
-          "url": "https://sspai.com/post/105394",
-          "author": "克莱德",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Apple 成功地在一个操作系统版本中集齐了图标设计中的常见错误。查看全文",
-          "published_at": "2026-01-13T03:00:00"
-        },
-        {
-          "title": "派早报：Google 公布 UCP 通用商务协议等",
-          "url": "https://sspai.com/post/105403",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "少数派的近期动态年末「夯」一下！少数派2025年度盘点正式上线。少数派会员年终福利来袭，引荐比例限时上调至15%，邀请好友享85折入会优惠。参与活动好玩又实用，还有迪士尼授权配件可选，少数派「扭扭宝」 ...查看全文",
-          "published_at": "2026-01-13T00:23:05"
-        },
-        {
-          "title": "派评 | 近期值得关注的 App",
-          "url": "https://sspai.com/post/105387",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
-          "published_at": "2026-01-12T09:46:42"
         }
       ]
     }
