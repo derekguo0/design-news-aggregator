@@ -1,27 +1,36 @@
 {
   "date": "2026-01-16T00:00:00",
-  "total_items": 66,
+  "total_items": 69,
   "sources": [
-    "UX Design CC",
-    "NN/g (Nielsen Norman Group)",
-    "A List Apart",
-    "CSS-Tricks",
-    "Awwwards",
-    "Design Milk",
-    "Product Hunt",
-    "少数派",
-    "Smashing Magazine",
-    "优设网",
     "UX Planet",
+    "Smashing Magazine",
+    "UX Design CC",
     "人人都是产品经理",
-    "Sidebar"
+    "CSS-Tricks",
+    "优设网",
+    "Design Milk",
+    "Awwwards",
+    "A List Apart",
+    "Sidebar",
+    "少数派",
+    "Product Hunt",
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2026-01-16T02:02:49.372216",
+  "generated_at": "2026-01-16T12:53:57.752114",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 11,
+      "count": 12,
       "items": [
+        {
+          "title": "Beyond chat: 8 core user intents driving AI interaction",
+          "url": "https://uxdesign.cc/beyond-chat-8-core-user-intents-driving-ai-interaction-4f573685938a?source=rss----138adf9c44c---4",
+          "author": "Taras Bakusevych",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Intent-first framework you can use to design purpose-built AI experiencesThis essay was originally published on mySubstack Syntax Stream, where I write about principles of human–AI interaction.The maj...",
+          "published_at": "2026-01-16T12:19:13"
+        },
         {
           "title": "Building technology products is easy, but we made it complicated",
           "url": "https://uxdesign.cc/building-technology-products-is-easy-but-we-made-it-complicated-7f709039e7b8?source=rss----138adf9c44c---4",
@@ -242,49 +251,49 @@
           "published_at": "2026-01-14T16:00:21"
         },
         {
-          "title": "小红书如何从小众攻略做到全网种草顶流？",
-          "url": "https://www.woshipm.com/it/6325625.html",
-          "author": "铭航创想",
+          "title": "给大模型排名！两个博士一年干出17亿美金AI独角兽",
+          "url": "https://www.woshipm.com/ai/6326553.html",
+          "author": "硅基观察Pro",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从一份简单的PDF购物攻略到全球10亿用户的生活方式平台，小红书完成了史诗级蜕变。本文将深度拆解其四次关键转型：如何从工具变社区、从危机中强化真实基因、借短视频引爆种草经济，最终构建起商业与内容平衡的生态帝国。打开手机，想入护肤品先翻小红书看测评，计划旅行先搜小红书找攻略，就连吃什么、穿什么，都得先在小红书上“抄抄作业”——这已经成了当代年轻人的日常。谁能想到，如今火遍全网的种草圣地，最初只是个帮...",
-          "published_at": "2026-01-16T01:27:51"
+          "summary": "当传统AI评测体系陷入刷榜困境，LMArena用匿名对战模式重构了大模型评估逻辑。这个由两位博士创立的平台通过数千万次用户投票，将模型能力评判权交还给真实使用场景。从免费竞技场到年化收入3000万美元的B端服务，其估值飙升至17亿美元的背后，是行业对动态评估体系的迫切需求。AI模型能力争议从2025吵到2026，一家靠“给模型打分”的公司率先跑成了独角兽。本月，随着一笔1.5亿美元融资的落定，AI...",
+          "published_at": "2026-01-16T10:59:26"
         },
         {
-          "title": "2026年达人营销的系统进化论：从“游击队”到“集团军”",
-          "url": "https://www.woshipm.com/share/6325060.html",
-          "author": "布兰德老白",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "达人营销正经历一场从单点爆破到协同作战的革命。随着平台算法的升级和用户对营销的免疫，传统的‘抢头部、铺KOC’模式正在失效。未来的竞争将围绕‘达人矩阵’展开，四大层级——明星艺人、头部达人、腰部达人和KOC——各司其职，协同作战。本文将深入解析如何构建高效达人矩阵，并通过三大经典战役案例，揭示品牌如何在2026年的内容战场上建立护城河。如果说过去三年，品牌做达人营销的核心是“抢头部、铺KOC”；那...",
-          "published_at": "2026-01-16T01:27:39"
-        },
-        {
-          "title": "估值13亿美元，语音AI界的新晋独角兽，拿1.3亿美元融资“不务正业”去做餐饮了？",
-          "url": "https://www.woshipm.com/share/6325712.html",
+          "title": "“死了么”出海撞上美国“前辈”，2000万用户每日签到，上线近10年",
+          "url": "https://www.woshipm.com/share/6326543.html",
           "author": "扬帆出海",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当语音AI独角兽Deepgram完成1.3亿美元融资后，却意外收购AI点餐项目进军餐饮业。这家估值13亿美元的公司从语音转录工具转型为多场景解决方案商，直面塔可钟AI点餐失误等行业痛点。其技术不仅能处理复杂口音与背景噪音，更通过角色化语音模板实现拟人化交互，重新定义语音AI的落地边界。美国当地时间1月13日，语音AI公司Deepgram宣布完成1.3亿美元C轮融资，由AVP领投，Alkeon、In...",
-          "published_at": "2026-01-15T11:03:55"
+          "summary": "当“死了么”以Demumu之名进军海外市场，这款千元成本的签到应用直面的是运营近十年的美国前辈Snug Safety。本文通过对比分析两款产品的用户画像、服务机制与商业化路径，揭示文化差异对产品设计的深层影响。从邮件提醒到人工调度，从青年安全感到老年关怀，独居经济在全球市场正呈现截然不同的演化逻辑。2026年1月8日，网友发现，一款名为“死了么”付费App在国内iOS商店开始冲榜。其主要功能为“每...",
+          "published_at": "2026-01-16T10:40:06"
         },
         {
-          "title": "章泽天抢了播客主播们的饭碗？",
-          "url": "https://www.woshipm.com/share/6325699.html",
-          "author": "郭静",
+          "title": "为什么AI不是泡沫：a16z创始人关于需求、投资和判断的深度思考",
+          "url": "https://www.woshipm.com/ai/6326535.html",
+          "author": "深思圈",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当章泽天入驻小宇宙两天斩获11.5万订阅，播客圈掀起'抢饭碗'的焦虑。但名人入场真会挤压普通创作者空间吗？本文犀利指出，内容行业本质是增量竞争，章泽天们反而为小众领域带来破圈流量。关键在于创作者能否守住内容差异化的核心命门，而非陷入存量市场的零和博弈。拥有“名人”背景的章泽天进入播客行业，让不少播客从业者感到了危机，如果她这种“名人”都跑来做播客的话，另外一些普普通通没有背景、没有资源的播客主播该...",
-          "published_at": "2026-01-15T10:58:13"
+          "summary": "当AI估值飙升引发泡沫质疑时，a16z创始人Ben Horowitz从需求本质给出了截然不同的答案。这位顶级风投掌舵人指出，当前AI热潮的特殊性在于前所未有的真实需求强度，而非单纯的技术炒作。本文深度解析其关于团队管理、垂直化策略与市场判断的独到见解，揭示AI作为新计算平台将催生更多赢家的底层逻辑。如果有人告诉你，现在的AI热潮只是另一个泡沫，你会相信吗？估值飙升、资金涌入、每个人都在谈论AI，这...",
+          "published_at": "2026-01-16T10:18:23"
         },
         {
-          "title": "我vibe coding了个轻量资产管家「Z 世代记账达人」",
-          "url": "https://www.woshipm.com/ai/6324933.html",
-          "author": "CW3",
+          "title": "用AI把简历里的隐藏人脉挖出来，拿下Offer也没那么难嘛",
+          "url": "https://www.woshipm.com/ai/6326533.html",
+          "author": "卡尔的AI沃茨",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "技术平权的时代正在到来，不懂代码也能将产品想法落地！本文作者通过AI驱动的vibe coding模式，从0到1打造了「Z世代记账达人」小程序，实现了自然语言记账、资产可视化等核心功能。文章揭秘了如何用Trae起demo、Cursor迭代开发的实战经验，更分享了非技术人员避坑Git管理的血泪教训，为产品人提供了一条快速实现想件的AI捷径。Vibe coding 世代来临，技术平权的浪潮真的来了！曾经...",
-          "published_at": "2026-01-15T09:00:08"
+          "summary": "当传统招聘平台还在用A4纸简历筛选人才时，DINQ通过AI技术重构了人才评估逻辑。这款产品将散落在GitHub、arXiv等平台的真实产出聚合为人脉图谱和职业画像，用项目协作关系替代传统弱连接。本文深度解析其如何通过动态知识图谱实现从「简历匹配」到「能力验证」的跨越，为招聘行业带来全新解决方案。脉脉和领英估计大家至少用过其中一个吧，Boss直聘，前程无忧，智联招聘，牛客网内推也至少被其中一个破防过...",
+          "published_at": "2026-01-16T10:12:16"
+        },
+        {
+          "title": "别让界面背叛战略：用“概念模型”锁定用户体验的底层逻辑",
+          "url": "https://www.woshipm.com/share/6326475.html",
+          "author": "设绘闲人",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "当精美界面无法传递战略意图时，问题往往出在底层逻辑的断裂。概念模型作为连接战略与用户体验的关键枢纽，通过四步法将商业约束转化为用户可理解的心智解决方案。本文以顺风车场景为例，详解如何从匹配用户认知进阶到塑造新心智模型，帮助设计师摆脱“美工”困境，真正掌握产品设计的底层话语权。回想一下，作为设计师的你是否在工作中曾经经历过以下类似的场景：1、用心打磨的再精美的界面，用户上线体验后却仍感觉一脸茫然？2...",
+          "published_at": "2026-01-16T09:37:14"
         }
       ]
     },
@@ -356,6 +365,15 @@
           "published_at": null
         },
         {
+          "title": "Language Explorer",
+          "url": "https://www.awwwards.com/sites/language-explorer",
+          "author": "Hook",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Breakthrough Energy",
           "url": "https://www.awwwards.com/sites/breakthrough-energy",
           "author": "Resn",
@@ -417,57 +435,66 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Slush",
-          "url": "https://www.awwwards.com/sites/slush",
-          "author": "HOLOGRAPHIK",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 6,
       "items": [
         {
-          "title": "WizzyPoke",
-          "url": "https://www.producthunt.com/products/wizzypoke",
-          "author": "Wizzy",
+          "title": "Stracti",
+          "url": "https://www.producthunt.com/products/stractiai",
+          "author": "Jordan Brown",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Instant vibration alerts across all browser tabs.Discussion|Link",
-          "published_at": "2026-01-14T11:32:49"
+          "summary": "Build AI game bots with no code requiredDiscussion|Link",
+          "published_at": "2026-01-15T23:56:33"
         },
         {
-          "title": "StackPatch",
-          "url": "https://www.producthunt.com/products/stackpatch",
-          "author": "Darshit",
+          "title": "LocalMark Studio",
+          "url": "https://www.producthunt.com/products/localmark-studio",
+          "author": "Karthik Ponnam",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Patch authentication into your Next.js app with one commandDiscussion|Link",
-          "published_at": "2026-01-14T19:15:00"
+          "summary": "A fast, local-first Markdown editor for real work.Discussion|Link",
+          "published_at": "2026-01-16T02:09:31"
         },
         {
-          "title": "GitHub Space Shooter",
-          "url": "https://www.producthunt.com/products/github-space-shooter",
-          "author": "Zane Chen",
+          "title": "1Code",
+          "url": "https://www.producthunt.com/products/1code-cursor-like-ui-for-claude-code",
+          "author": "Serafim",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Visualizes GitHub contribution graphs as a Space ShooterDiscussion|Link",
-          "published_at": "2026-01-15T01:15:02"
+          "summary": "Open source Cursor-like UI for Claude CodeDiscussion|Link",
+          "published_at": "2026-01-15T19:37:57"
         },
         {
-          "title": "Cursor AI Mobile",
-          "url": "https://www.producthunt.com/products/cursor-mobile-remote-ide",
-          "author": "Андрей Романюк",
+          "title": "Serro (Early Access)",
+          "url": "https://www.producthunt.com/products/serro-early-access",
+          "author": "Heena Barhate",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Сontrol Cursor AI directly from your iPhoneDiscussion|Link",
-          "published_at": "2026-01-14T17:07:41"
+          "summary": "Temporal knowledge graphs for fast moving engineering teamsDiscussion|Link",
+          "published_at": "2026-01-14T16:33:45"
+        },
+        {
+          "title": "Dynamic Content by beehiiv",
+          "url": "https://www.producthunt.com/products/beehiiv",
+          "author": "Tyler Denk",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Now you can tailor a single newsletter for every readerDiscussion|Link",
+          "published_at": "2026-01-16T04:02:52"
+        },
+        {
+          "title": "Lekh AI",
+          "url": "https://www.producthunt.com/products/lekh-ai-private-ai-on-your-device",
+          "author": "Kaila Consulting Inc",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Private, offline AI for iPhone, and iPadDiscussion|Link",
+          "published_at": "2026-01-15T20:33:52"
         }
       ]
     },
@@ -536,49 +563,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Hello, computer",
-          "url": "https://spyglass.org/vocal-computing-ai/",
+          "title": "Humanity as differentiator",
+          "url": "https://staticmade.com/2026/01/14/humanity-as-differentiator/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "With AI and an appetite for new hardware, vocal computing seems primed to take off. For real this time.",
-          "published_at": "2026-01-15T12:58:39"
+          "summary": "NRF 2026 wasn’t billed as a “retail & AI” conference, but that’s exactly what it was.",
+          "published_at": "2026-01-16T12:31:04"
         },
         {
-          "title": "Very Good Components",
-          "url": "https://www.goodcomponents.io/",
+          "title": "Designers as agent orchestrators",
+          "url": "https://uxdesign.cc/designers-as-agent-orchestrators-what-i-learnt-shipping-with-ai-in-2025-3b1bf30048a3",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A curated collection of HTML UI components ready to drop into your next project.",
-          "published_at": "2026-01-15T12:57:53"
+          "summary": "Designers hold the best qualities to get refine AI outputs that’s needed for building successful products.",
+          "published_at": "2026-01-16T12:30:28"
         },
         {
-          "title": "How to know if that job will crush your soul",
-          "url": "https://www.anildash.com/2026/01/12/will-that-job-crush-your-soul/",
+          "title": "Detail",
+          "url": "https://detail.design/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Aspiring towards roles that enable us to do our best work, to have the biggest impact, and to live according to our values.",
-          "published_at": "2026-01-15T12:57:29"
+          "summary": "A curated study of the tiny design decisions that make products feel right.",
+          "published_at": "2026-01-16T12:29:57"
         },
         {
-          "title": "Linkedin Job Title Maxxing",
-          "url": "https://jobtitlemaxxing.com/",
+          "title": "Software as fast fashion",
+          "url": "https://tante.cc/2026/01/15/software-as-fast-fashion/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Turn perfectly normal jobs into fully maxxed-out LinkedIn headlines. Recruiter-ready. Meaning, optional.",
-          "published_at": "2026-01-15T12:56:35"
+          "summary": "Clothes have never been cheaper. Same thing is happening with software.",
+          "published_at": "2026-01-16T12:29:17"
         },
         {
-          "title": "The Intelligence Curse",
-          "url": "https://intelligence-curse.ai/",
+          "title": "What I’m seeing for UX as we move into 2026",
+          "url": "https://boagworld.com/emails/2026/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "This series examines the incoming crisis of human irrelevance and provides a map towards a future where people remain the masters of their destiny.",
-          "published_at": "2026-01-15T12:55:59"
+          "summary": "Not predictions. Just what I’m noticing among the UX professionals I work with right now.",
+          "published_at": "2026-01-16T12:28:35"
         }
       ]
     },
@@ -611,6 +638,33 @@
       "count": 6,
       "items": [
         {
+          "title": "本周看什么 | 最近值得一看的 11 部作品",
+          "url": "https://sspai.com/post/105504",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "📅本周新预告《葬送的芙莉莲第二季》正式预告1月11日，TV动画《葬送的芙莉莲第二季》发布了正式预告，宣布OP由Mrs.GREENAPPLE演唱，将于1月16日开始播出。本作改编自山田钟人、阿部司的同名 ...查看全文",
+          "published_at": "2026-01-16T09:45:03"
+        },
+        {
+          "title": "从技术选型重识 Apple Intelligence：为什么 Apple 如此设计 AI？",
+          "url": "https://sspai.com/post/105008",
+          "author": "Neighbor_Z",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "剥离营销术语、探索 Apple Intelligence 的底层技术架构。查看全文",
+          "published_at": "2026-01-16T07:00:01"
+        },
+        {
+          "title": "从理论、方法到工具，一套科学的时间精力待办管理系统：TimeGPT",
+          "url": "https://sspai.com/post/104549",
+          "author": "风尘噗噗啊",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "published_at": "2026-01-16T03:40:38"
+        },
+        {
           "title": "派早报：iQOO 发布 iQOO Z11 Turbo 手机、大疆发布 DJI RS 5 轻量商拍稳定器等",
           "url": "https://sspai.com/post/105494",
           "author": "少数派编辑部",
@@ -636,33 +690,6 @@
           "source": "少数派",
           "summary": "光追、DLSS、帧生成等技术是如何提升游戏体验的？它的出现改变了什么，又解决了哪些问题？查看全文",
           "published_at": "2026-01-15T06:30:02"
-        },
-        {
-          "title": "Apple Pay 公布 2025 年成绩单，迎来入华十周年大更新",
-          "url": "https://sspai.com/post/105462",
-          "author": "waychane",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "自2014年推出以来，ApplePay已经从最初替代实体钱包的电子支付体验，发展成为了如今覆盖商品交易、身份认证、出行场景的电子钱包服务平台。除了基础的交易功能，我们可以用HomeKey解锁家门、用C ...查看全文",
-          "published_at": "2026-01-15T03:07:53"
-        },
-        {
-          "title": "派早报：SK 海力士称并未有计划退出消费级存储器市场等",
-          "url": "https://sspai.com/post/105459",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "市场监管总局依法对携程集团有限公司立案调查，影石发布网络摄像头 Link 2 Pro 系列等。查看全文",
-          "published_at": "2026-01-15T00:53:33"
-        },
-        {
-          "title": "我们是如何学习的？关于学习的 N 个「关键词」",
-          "url": "https://sspai.com/post/105224",
-          "author": "知道分子吴先先",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "published_at": "2026-01-14T09:40:40"
         }
       ]
     }
