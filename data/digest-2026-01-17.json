@@ -1,27 +1,35 @@
 {
   "date": "2026-01-17T00:00:00",
-  "total_items": 73,
+  "total_items": 65,
   "sources": [
-    "UX Planet",
-    "CSS-Tricks",
-    "Awwwards",
-    "优设网",
-    "Design Milk",
-    "NN/g (Nielsen Norman Group)",
-    "Product Hunt",
-    "Sidebar",
-    "Smashing Magazine",
-    "少数派",
+    "人人都是产品经理",
     "A List Apart",
+    "少数派",
     "UX Design CC",
-    "人人都是产品经理"
+    "Smashing Magazine",
+    "UX Planet",
+    "Product Hunt",
+    "优设网",
+    "Sidebar",
+    "Design Milk",
+    "Awwwards",
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2026-01-17T01:56:49.230190",
+  "generated_at": "2026-01-17T12:48:32.519910",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 14,
+      "count": 15,
       "items": [
+        {
+          "title": "The case for the uncertain AI: Why chatbots should say “I’m not sure”",
+          "url": "https://uxdesign.cc/the-case-for-the-uncertain-ai-why-chatbots-should-say-im-not-sure-8d8b4d2bab89?source=rss----138adf9c44c---4",
+          "author": "Alexandre Tempel",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Why chatbots should admit uncertainty. An analysis of RLHF, tokenization, and the future of transparency in Artificial Intelligence.Continue reading on UX Collective »",
+          "published_at": "2026-01-17T10:42:31"
+        },
         {
           "title": "When tools pretend to be people",
           "url": "https://uxdesign.cc/when-tools-pretend-to-be-people-4283748d33e1?source=rss----138adf9c44c---4",
@@ -127,7 +135,7 @@
           "author": "Lila",
           "category": "用户体验设计",
           "source": "UX Planet",
-          "summary": "Most of us don’t trust businesses based on one source anymore, especially for services where trust matters. We’re all bombarded with marketing and have built up a resistance to any single source claim...",
+          "summary": "Under the Longan Tree — How People Validate Trust Across Channels (Part 2)https://medium.com/media/ef052d2b2528bc68d29b06f46be8c397/hrefInPart 1,I covered the market research and who books professiona...",
           "published_at": "2026-01-16T13:50:45"
         },
         {
@@ -269,49 +277,49 @@
           "published_at": "2026-01-15T15:00:39"
         },
         {
-          "title": "产品架构图怎么画？附14个高质量架构图",
-          "url": "https://www.woshipm.com/share/6325930.html",
-          "author": "歪斯Wise",
+          "title": "平台产品经理：构建的是生态系统，而不仅仅是产品",
+          "url": "https://www.woshipm.com/pmd/6326378.html",
+          "author": "噜噜猫",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "产品架构如同建筑的骨架，决定了产品的扩展性与生命力。本文用房屋建造的生动比喻，拆解产品架构从业务抽象到功能落地的完整逻辑，揭秘如何通过层级划分、边界定义与优先级管理，构建支撑业务目标的产品体系。01 产品架构是什么？由产品抽象而成的模块化、层次化的架构，体现不同层级内外的交互关系，包含功能模块的组合、数据和信息的流转。用于传递产品的业务流程、发展方向以及产品的设计思路。俗话说：不会做饭的产品不是好...",
-          "published_at": "2026-01-17T01:32:40"
+          "summary": "从UI微调走向生态构建，从功能优化转向底层逻辑设计，平台型PM（Platform PM）正在成为行业新宠。本文深度剖析应用型PM的职业天花板，并给出从业务PM转型为生态架构师的实战路径——在这个AI重塑一切的时代，如何通过基础设施布局赢得职业长跑。在互联网的下半场，产品经理圈子里弥漫着一种集体焦虑。大厂在“瘦身”，不少曾经负责核心业务的 PM 发现，当红利消失、补贴停止，自己引以为傲的“增长策略”...",
+          "published_at": "2026-01-17T08:28:04"
         },
         {
-          "title": "给大模型排名！两个博士一年干出17亿美金AI独角兽",
-          "url": "https://www.woshipm.com/ai/6326553.html",
-          "author": "硅基观察Pro",
+          "title": "产品经理的效率革命：利用 Agent Skills，我把 3 小时的竞品调研压缩到了 5 分钟",
+          "url": "https://www.woshipm.com/ai/6326618.html",
+          "author": "世乡",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当传统AI评测体系陷入刷榜困境，LMArena用匿名对战模式重构了大模型评估逻辑。这个由两位博士创立的平台通过数千万次用户投票，将模型能力评判权交还给真实使用场景。从免费竞技场到年化收入3000万美元的B端服务，其估值飙升至17亿美元的背后，是行业对动态评估体系的迫切需求。AI模型能力争议从2025吵到2026，一家靠“给模型打分”的公司率先跑成了独角兽。本月，随着一笔1.5亿美元融资的落定，AI...",
-          "published_at": "2026-01-16T10:59:26"
+          "summary": "当AI从聊天工具进化成数字员工，产品经理的生存法则正被彻底改写。本文深度拆解Agent Skills的革命性突破，从情报搜集到数据分析再到流程自动化，揭秘如何让AI长出“手”和“脚”，帮你将3小时脏活压缩到5分钟。更关键的是，掌握Skill Engineering能力将成为未来PM的核心竞争力。昨天凌晨 1 点，我盯着屏幕上密密麻麻的 50 个浏览器标签页，陷入了深深的自我怀疑。老板要在明早 9 ...",
+          "published_at": "2026-01-17T08:22:30"
         },
         {
-          "title": "“死了么”出海撞上美国“前辈”，2000万用户每日签到，上线近10年",
-          "url": "https://www.woshipm.com/share/6326543.html",
-          "author": "扬帆出海",
+          "title": "深度复盘“死了么”：情绪价值爆火后，工具产品的商业化“生死劫”",
+          "url": "https://www.woshipm.com/operate/6326554.html",
+          "author": "panda",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当“死了么”以Demumu之名进军海外市场，这款千元成本的签到应用直面的是运营近十年的美国前辈Snug Safety。本文通过对比分析两款产品的用户画像、服务机制与商业化路径，揭示文化差异对产品设计的深层影响。从邮件提醒到人工调度，从青年安全感到老年关怀，独居经济在全球市场正呈现截然不同的演化逻辑。2026年1月8日，网友发现，一款名为“死了么”付费App在国内iOS商店开始冲榜。其主要功能为“每...",
-          "published_at": "2026-01-16T10:40:06"
+          "summary": "一款名为'死了么'的App以黑色幽默的方式切中独居人群的安全焦虑，迅速引爆社交网络。这款'手搓经济'下的现象级产品，用极简功能撬动1.23亿独居人群的情绪价值，却面临商业模式的四重天花板。本文将深入剖析情绪驱动型产品的生命周期规律，拆解从'网红'到'恒星'的商业化三级火箭模型，为产品经理提供穿越周期的实战思考框架。2026开年，朋友圈就被一个名字有点黑色幽默的App刷屏了，叫“死了么”。作为一名互...",
+          "published_at": "2026-01-17T08:13:51"
         },
         {
-          "title": "为什么AI不是泡沫：a16z创始人关于需求、投资和判断的深度思考",
-          "url": "https://www.woshipm.com/ai/6326535.html",
-          "author": "深思圈",
+          "title": "全新增长公式：用风控串联信贷增长与经营的全局方法论",
+          "url": "https://www.woshipm.com/operate/6326368.html",
+          "author": "尼采的灯",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI估值飙升引发泡沫质疑时，a16z创始人Ben Horowitz从需求本质给出了截然不同的答案。这位顶级风投掌舵人指出，当前AI热潮的特殊性在于前所未有的真实需求强度，而非单纯的技术炒作。本文深度解析其关于团队管理、垂直化策略与市场判断的独到见解，揭示AI作为新计算平台将催生更多赢家的底层逻辑。如果有人告诉你，现在的AI热潮只是另一个泡沫，你会相信吗？估值飙升、资金涌入、每个人都在谈论AI，这...",
-          "published_at": "2026-01-16T10:18:23"
+          "summary": "在互联网信贷业务中，传统的风控模式正面临效率瓶颈——前端高成本获客，后端仅有少数用户完成放款，导致利润压力剧增。本文将揭示如何通过风控前置策略重构业务链路，实现获客成本降低16%、运营成本缩减38%的实战效果。在互联网信贷的常规业务流中，我们往往沿着既有路径依赖开展获客：信息流投放获取下载与点击，用户“点击—下载—未进件”后再用策略短信/外呼召回；少部分用户回流进件后进入风控审核，通常只有约 10...",
+          "published_at": "2026-01-17T07:25:36"
         },
         {
-          "title": "用AI把简历里的隐藏人脉挖出来，拿下Offer也没那么难嘛",
-          "url": "https://www.woshipm.com/ai/6326533.html",
-          "author": "卡尔的AI沃茨",
+          "title": "做了这么久产品，我才发现：AI 是被我们“用废”的",
+          "url": "https://www.woshipm.com/ai/6326631.html",
+          "author": "尤里卡高",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当传统招聘平台还在用A4纸简历筛选人才时，DINQ通过AI技术重构了人才评估逻辑。这款产品将散落在GitHub、arXiv等平台的真实产出聚合为人脉图谱和职业画像，用项目协作关系替代传统弱连接。本文深度解析其如何通过动态知识图谱实现从「简历匹配」到「能力验证」的跨越，为招聘行业带来全新解决方案。脉脉和领英估计大家至少用过其中一个吧，Boss直聘，前程无忧，智联招聘，牛客网内推也至少被其中一个破防过...",
-          "published_at": "2026-01-16T10:12:16"
+          "summary": "AI的强大能力常常被我们的提问方式所限制。当产品经理用简单的是非题与AI对话时，得到的往往是平庸的答案。本文将揭示如何通过重构提问方式，释放AI的真正潜力，让你与AI的对话从执行层跃升至战略思考层。不是 AI 不行，是我们把它问傻了这事儿得从一个挺普通的问题说起。那天我对着 AI，随口问了一句：是不是我们的提问方式，限制了 AI 的输出效果？当时真没想太多。就是那种——你盯着屏幕，总觉得哪不对，但...",
+          "published_at": "2026-01-17T06:22:28"
         }
       ]
     },
@@ -383,6 +391,15 @@
           "published_at": null
         },
         {
+          "title": "Paper Tiger",
+          "url": "https://www.awwwards.com/sites/paper-tiger",
+          "author": "Paper Tiger",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Language Explorer",
           "url": "https://www.awwwards.com/sites/language-explorer",
           "author": "Hook",
@@ -444,75 +461,21 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Estrela",
-          "url": "https://www.awwwards.com/sites/estrela",
-          "author": "Malvah",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 1,
       "items": [
         {
-          "title": "TranslateGemma",
-          "url": "https://www.producthunt.com/products/translategemma",
-          "author": "Aleksandar Blazhev",
+          "title": "StealthHound",
+          "url": "https://www.producthunt.com/products/stealthhound",
+          "author": "Akarsh Jha",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Open translation on Google models, supporting 55 languagesDiscussion|Link",
-          "published_at": "2026-01-15T18:22:03"
-        },
-        {
-          "title": "Festiveo",
-          "url": "https://www.producthunt.com/products/festiveo-your-music-festival-companion",
-          "author": "Festiveo",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Discover festivals, plan your trips, and never miss a beatDiscussion|Link",
-          "published_at": "2026-01-15T12:23:32"
-        },
-        {
-          "title": "Lekh AI",
-          "url": "https://www.producthunt.com/products/lekh-ai-private-ai-on-your-device",
-          "author": "Kaila Consulting Inc",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Private, offline AI for iPhone, and iPadDiscussion|Link",
-          "published_at": "2026-01-15T20:33:52"
-        },
-        {
-          "title": "1Code",
-          "url": "https://www.producthunt.com/products/1code-cursor-like-ui-for-claude-code",
-          "author": "Serafim",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Open source Cursor-like UI for Claude CodeDiscussion|Link",
-          "published_at": "2026-01-15T19:37:57"
-        },
-        {
-          "title": "Dynamic Content by beehiiv",
-          "url": "https://www.producthunt.com/products/beehiiv",
-          "author": "Tyler Denk",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Now you can tailor a single newsletter for every readerDiscussion|Link",
-          "published_at": "2026-01-16T04:02:52"
-        },
-        {
-          "title": "ChatGPT Translate",
-          "url": "https://www.producthunt.com/products/chatgpt-translate",
-          "author": "Hiten Shah",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Translate with ChatGPTDiscussion|Link",
-          "published_at": "2026-01-15T20:32:42"
+          "summary": "Your browser's blind spots, Exposed.Discussion|Link",
+          "published_at": "2026-01-15T11:57:11"
         }
       ]
     },
@@ -628,51 +591,18 @@
       ]
     },
     {
-      "category": "前端设计",
-      "count": 4,
-      "items": [
-        {
-          "title": "HTTP Archive 2025 Web Almanac",
-          "url": "https://css-tricks.com/http-archive-2025-web-almanac/",
-          "author": "Geoff Graham",
-          "category": "前端设计",
-          "source": "CSS-Tricks",
-          "summary": "I love me some good web research reports.I’m a sucker for them.HTTP Archive’s Web Almanac is one report I look forward to every year, and I know I’m not alone there. It’s one of those highly-anticipat...",
-          "published_at": "2026-01-16T17:30:43"
-        },
-        {
-          "title": "“I Heart CSS” DailyDev Squad",
-          "url": "https://css-tricks.com/i-heart-css-dailydev-squad/",
-          "author": "Geoff Graham",
-          "category": "前端设计",
-          "source": "CSS-Tricks",
-          "summary": "If you’re reading this, chances are you already have some sort of way that you’re following when we publish new content, whether that’sRSS,Bluesky,Mastodon, or what have you. But I know a lot of folks...",
-          "published_at": "2026-01-16T14:46:24"
-        },
-        {
-          "title": "What’s !important #3: Popover Context Menus, @scope, New Web Platform Features, and More",
-          "url": "https://css-tricks.com/whats-important-3/",
-          "author": "Daniel Schwarz",
-          "category": "前端设计",
-          "source": "CSS-Tricks",
-          "summary": "The developer community hasn’t wasted any time kicking off 2026 with some really great articles, demos, and insights. Firefox 147 and Chrome 144 also shipped, and while they’re not jam-packed with fea...",
-          "published_at": "2026-01-15T15:08:58"
-        },
-        {
-          "title": "Playing With CodePen slideVars",
-          "url": "https://css-tricks.com/playing-with-codepen-slidevars/",
-          "author": "Geoff Graham",
-          "category": "前端设计",
-          "source": "CSS-Tricks",
-          "summary": "Super cool new CodePen feature alert! You've probably seen a bunch of \"interactive\" demos that let you changed values on the fly from a UI panel embedded directly in the demo.Playing With CodePen slid...",
-          "published_at": "2026-01-14T14:59:07"
-        }
-      ]
-    },
-    {
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "Matrix 圆桌 | 少数派们的 13 张 2025 年度新专辑",
+          "url": "https://sspai.com/post/105413",
+          "author": "Matrix机器人",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "一年过去，来听听大家都在听什么歌吧。查看全文",
+          "published_at": "2026-01-17T07:00:00"
+        },
         {
           "title": "本周看什么 | 最近值得一看的 11 部作品",
           "url": "https://sspai.com/post/105504",
@@ -717,15 +647,6 @@
           "source": "少数派",
           "summary": "很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有商务内 ...查看全文",
           "published_at": "2026-01-15T09:32:11"
-        },
-        {
-          "title": "科普 | 高帧率、好画质的「光追」是如何实现的？",
-          "url": "https://sspai.com/post/83522",
-          "author": "广陵止息",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "光追、DLSS、帧生成等技术是如何提升游戏体验的？它的出现改变了什么，又解决了哪些问题？查看全文",
-          "published_at": "2026-01-15T06:30:02"
         }
       ]
     }
