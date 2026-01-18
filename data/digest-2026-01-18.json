@@ -1,21 +1,21 @@
 {
   "date": "2026-01-18T00:00:00",
-  "total_items": 66,
+  "total_items": 68,
   "sources": [
     "UX Design CC",
-    "人人都是产品经理",
-    "Awwwards",
-    "Design Milk",
-    "NN/g (Nielsen Norman Group)",
     "少数派",
-    "Sidebar",
-    "Product Hunt",
+    "人人都是产品经理",
     "CSS-Tricks",
     "UX Planet",
+    "A List Apart",
+    "Design Milk",
     "优设网",
-    "A List Apart"
+    "Sidebar",
+    "NN/g (Nielsen Norman Group)",
+    "Product Hunt",
+    "Awwwards"
   ],
-  "generated_at": "2026-01-18T02:09:40.269119",
+  "generated_at": "2026-01-18T12:48:32.090991",
   "categories": [
     {
       "category": "用户体验设计",
@@ -268,49 +268,49 @@
           "published_at": "2026-01-15T15:00:39"
         },
         {
-          "title": "马斯克：“教育无用论” 当AI全知，我们该怎么拿出竞争力？",
-          "url": "https://www.woshipm.com/ai/6326313.html",
-          "author": "刘三同志",
+          "title": "从商业问题到智能决策：逻辑回归的完整产品化实战",
+          "url": "https://www.woshipm.com/share/6326744.html",
+          "author": "宇智行",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "马斯克抛出了一个极具压迫感的论断：从知识体系到医学院教育，从社会分工到货币逻辑，人类文明将被 AI 彻底重构这番“超音速海啸”般的预言，让无数中产阶级脊背发凉。 但这并不是终局。如果我们剥离掉科幻滤镜，会发现马斯克只说对了一半——他看到了存量的被替代，却忽略了增量的不可知。一、知识分两种：AI 会的和 AI 不会的马斯克在访谈中自信地表示，随着算力的指数级增长，AI将在极短的时间内超越人类群体智慧...",
-          "published_at": "2026-01-18T01:51:23"
+          "summary": "知识付费平台如何用逻辑回归破解转化率难题？本文将带你深入AI产品化的实战场景，从商业痛点的数据化定义到特征工程的业务直觉运用，揭示如何将简单的算法转化为精准的增长引擎。重点剖析逻辑回归的可解释性优势、特征交互的深层价值，以及在精确率与召回率之间的关键业务权衡。今天我们以“逻辑回归”这个看似基础的算法为支点，撬动AI产品化的完整流程。这不是一篇算法教程，而是一次产品经理如何用AI思维解决商业问题的实...",
+          "published_at": "2026-01-18T08:28:51"
         },
         {
-          "title": "它连“AI”都算不上，却完成了今年最成功的一次“AI产品实验”",
-          "url": "https://www.woshipm.com/it/6326517.html",
-          "author": "智品趣谈",
+          "title": "碰瓷、争议与流量：“死了么” APP 的爆火三步曲",
+          "url": "https://www.woshipm.com/it/6326727.html",
+          "author": "沣源",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "一款仅靠“签到”功能冲上付费榜首的极简应用，为何能从“智商税”质疑中突围？这款产品将独居安全的宏大叙事压缩为单一动作验证，用8元买断制完成教科书级的需求测试。本文从产品验证逻辑出发，揭示AI时代如何用最‘笨’的设计获取最真实的市场信号。看似“智商税”，实则是一次科学的需求验证最近，朋友圈和各大社群被一个名字略显怪诞的应用刷屏了这款应用功能极其简陋，主界面几乎只有一个“签到”按钮，名字还带着冷峻的黑...",
-          "published_at": "2026-01-18T00:54:03"
+          "summary": "一款名为“死了么”的APP以黑色幽默命名和极简功能设计，成功引爆社交网络，登顶App Store付费榜。这款主打“独居安全”的应用，仅凭打卡提醒功能就撬动千万估值，背后是经济下行期的“痛点经济”与社交传播的完美结合。本文将深度剖析其爆火路径，揭示从产品设计到话题营销的完整逻辑链。近日，一款名为“死了么”的APP迅速走红网络，成功登顶App Store工具类付费排行榜榜首。该APP创始人最初计划以1...",
+          "published_at": "2026-01-18T07:15:36"
         },
         {
-          "title": "平台产品经理：构建的是生态系统，而不仅仅是产品",
-          "url": "https://www.woshipm.com/pmd/6326378.html",
-          "author": "噜噜猫",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "从UI微调走向生态构建，从功能优化转向底层逻辑设计，平台型PM（Platform PM）正在成为行业新宠。本文深度剖析应用型PM的职业天花板，并给出从业务PM转型为生态架构师的实战路径——在这个AI重塑一切的时代，如何通过基础设施布局赢得职业长跑。在互联网的下半场，产品经理圈子里弥漫着一种集体焦虑。大厂在“瘦身”，不少曾经负责核心业务的 PM 发现，当红利消失、补贴停止，自己引以为傲的“增长策略”...",
-          "published_at": "2026-01-17T08:28:04"
-        },
-        {
-          "title": "产品经理的效率革命：利用 Agent Skills，我把 3 小时的竞品调研压缩到了 5 分钟",
-          "url": "https://www.woshipm.com/ai/6326618.html",
+          "title": "2026 开年王炸！阿里重构 AI 赛道，普通产品经理的下一个万亿风口藏在这里",
+          "url": "https://www.woshipm.com/ai/6326638.html",
           "author": "世乡",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI从聊天工具进化成数字员工，产品经理的生存法则正被彻底改写。本文深度拆解Agent Skills的革命性突破，从情报搜集到数据分析再到流程自动化，揭秘如何让AI长出“手”和“脚”，帮你将3小时脏活压缩到5分钟。更关键的是，掌握Skill Engineering能力将成为未来PM的核心竞争力。昨天凌晨 1 点，我盯着屏幕上密密麻麻的 50 个浏览器标签页，陷入了深深的自我怀疑。老板要在明早 9 ...",
-          "published_at": "2026-01-17T08:22:30"
+          "summary": "当科技圈陷入AI泡沫焦虑时，阿里悄然投下深水炸弹——B-OS业务操作系统。这套系统不再比拼模型参数，而是通过打通支付流、物流流、工作流，构建起完整的业务上下文图谱。本文将深度解析阿里如何重构AI游戏规则，以及产品经理如何在新时代抓住万亿级市场机会。引言：当所有人都在谈论泡沫时，阿里扔下了深水炸弹2026 年 1 月，当整个科技圈还在为“AI 应用为何赚不到钱”而焦虑，甚至开始唱衰“AI 泡沫破裂”...",
+          "published_at": "2026-01-18T06:10:35"
         },
         {
-          "title": "深度复盘“死了么”：情绪价值爆火后，工具产品的商业化“生死劫”",
-          "url": "https://www.woshipm.com/operate/6326554.html",
-          "author": "panda",
+          "title": "老板说”去分析一下竞品”，90%的人第一步就做错了",
+          "url": "https://www.woshipm.com/ai/6326705.html",
+          "author": "青蓝色的海",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "一款名为'死了么'的App以黑色幽默的方式切中独居人群的安全焦虑，迅速引爆社交网络。这款'手搓经济'下的现象级产品，用极简功能撬动1.23亿独居人群的情绪价值，却面临商业模式的四重天花板。本文将深入剖析情绪驱动型产品的生命周期规律，拆解从'网红'到'恒星'的商业化三级火箭模型，为产品经理提供穿越周期的实战思考框架。2026开年，朋友圈就被一个名字有点黑色幽默的App刷屏了，叫“死了么”。作为一名互...",
-          "published_at": "2026-01-17T08:13:51"
+          "summary": "在AI产品疯狂迭代的当下，竞品评测已从可选项变为必答题。本文揭示AI行业特有的三大特性如何让竞品分析成为产品经理的核心技能，拆解评测工作带来的三层战略价值——从市场定位、产品优化到风险预判，更独家分享如何为不同角色定制评测报告。在这场没有终点的AI军备竞赛中，不看竞品的产品经理终将被淘汰。为什么我认为AI产品经理必须会做竞品评测？我越来越觉得，做AI产品和做传统互联网产品有一个本质区别：传统产品你...",
+          "published_at": "2026-01-18T05:12:36"
+        },
+        {
+          "title": "幻觉并不是错误：LLM 的概率宇宙，试图消灭幻觉才是AI商业落地的真问题",
+          "url": "https://www.woshipm.com/ai/6326708.html",
+          "author": "Mio的AI商业观察",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "AI幻觉并非技术缺陷，而是生成式模型的核心特征。本文从概率、温度参数到向量空间的底层逻辑，揭示了为何企业不该追求完全消除AI幻觉，而应学会驾驭这种'硅基创造力'。你将获得重新定义AI项目目标、建立可控幻觉管道的方法论，理解为何商业场景中某些‘错误’比‘正确’更具价值。很多AI落地的企业，都犯了同一个错：试图让AI像数据库一样永远正确。当我们的客户抱怨AI胡说八道，当我们的项目因幻觉问题而受阻，我们...",
+          "published_at": "2026-01-18T04:08:47"
         }
       ]
     },
@@ -370,6 +370,15 @@
           "category": "网页设计",
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
+          "published_at": null
+        },
+        {
+          "title": "Midlife Engineering",
+          "url": "https://www.awwwards.com/sites/midlife-engineering",
+          "author": "Lee Black",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
           "published_at": null
         },
         {
@@ -434,22 +443,31 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "IntegratedBio",
-          "url": "https://www.awwwards.com/sites/integratedbio",
-          "author": "Elliott Mangham",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 1,
+      "count": 3,
       "items": [
+        {
+          "title": "Cloudchipr",
+          "url": "https://www.producthunt.com/products/cloudchipr",
+          "author": "Kiran Bharambe",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Cloud costs observability,management and automation platformDiscussion|Link",
+          "published_at": "2026-01-17T17:44:01"
+        },
+        {
+          "title": "OMEGA Ω™",
+          "url": "https://www.producthunt.com/products/omega-fastest-lightest-browser-ever",
+          "author": "Michel Valenzuela",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "3.6MB browser that never tracks, profiles, or sells dataDiscussion|Link",
+          "published_at": "2026-01-15T13:56:12"
+        },
         {
           "title": "StealthHound",
           "url": "https://www.producthunt.com/products/stealthhound",
@@ -610,6 +628,15 @@
       "count": 6,
       "items": [
         {
+          "title": "App+1｜它和你的 Pixel 更配，宛如原生的网速显示工具",
+          "url": "https://sspai.com/post/104972",
+          "author": "Mystery0",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "无论你是想体验一个纯净的网速显示工具，还是对 AI 辅助开发的代码质量感兴趣，都欢迎来试一试 Pixel Meter。查看全文",
+          "published_at": "2026-01-18T06:21:37"
+        },
+        {
           "title": "Matrix 圆桌 | 少数派们的 13 张 2025 年度新专辑",
           "url": "https://sspai.com/post/105413",
           "author": "Matrix机器人",
@@ -653,15 +680,6 @@
           "source": "少数派",
           "summary": "联发科发布天玑 9500s 和天玑 8500 芯片，菲律宾对华免签等。查看全文",
           "published_at": "2026-01-16T00:55:36"
-        },
-        {
-          "title": "新玩意 233｜少数派的编辑们最近买了啥？",
-          "url": "https://sspai.com/post/105458",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有商务内 ...查看全文",
-          "published_at": "2026-01-15T09:32:11"
         }
       ]
     }
