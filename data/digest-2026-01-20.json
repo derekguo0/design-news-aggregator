@@ -1,19 +1,20 @@
 {
   "date": "2026-01-20T00:00:00",
-  "total_items": 52,
+  "total_items": 60,
   "sources": [
-    "人人都是产品经理",
-    "UX Planet",
     "优设网",
-    "A List Apart",
-    "Product Hunt",
     "Sidebar",
-    "Design Milk",
-    "NN/g (Nielsen Norman Group)",
     "UX Design CC",
-    "少数派"
+    "人人都是产品经理",
+    "少数派",
+    "Product Hunt",
+    "UX Planet",
+    "Design Milk",
+    "Awwwards",
+    "A List Apart",
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2026-01-20T02:03:00.147787",
+  "generated_at": "2026-01-20T02:07:55.934791",
   "categories": [
     {
       "category": "用户体验设计",
@@ -194,6 +195,33 @@
           "published_at": "2026-01-19T14:00:48"
         },
         {
+          "title": "品牌定位三重门：告别拍脑袋，定位的底层逻辑与实践路径",
+          "url": "https://www.woshipm.com/it/6328479.html",
+          "author": "小僧鲲鲲",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "当定位理论被泛化为营销界的口头禅，其战略内核正在被数百页分析报告和老板的直觉决策所稀释。本文从特劳特的心智占位到波特的竞争格局，系统拆解品牌定位的三重逻辑：认知品牌地位是边界，洞察市场错位是机会，锁定心智中的'一针之地'才是穿越同质化红海的终极壁垒。通过元气森林、农夫山泉等案例，揭示如何用最小成本占据最大心智份额的战略思维。当“定位”沦为日常口语中的高频词，从街头小店的“装修定位”到个人求职的“职...",
+          "published_at": "2026-01-20T01:52:39"
+        },
+        {
+          "title": "“观止KANO”：AI时代的需求洞察新范式——将KANO模型深度融入结构化场景分析",
+          "url": "https://www.woshipm.com/ai/6327159.html",
+          "author": "高乐 AI",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "在AI技术爆发的今天，产品经理们常常陷入‘有锤子没钉子’的困境。本文提出‘观止KANO’场景分析法，将传统KANO模型与动态场景相结合，为AI产品决策提供全新思考框架。从定义、洞察到决策、协同，这套方法论帮助团队在AI的混沌中找到清晰路径。最近团队里总有一种氛围，挺奇特的，一半是火焰，一半是海水。火焰是大家对各种新出来的AI模型兴奋得不行，每天群里都在转各种酷炫的演示，感觉未来就在眼前。海水呢，就...",
+          "published_at": "2026-01-20T01:41:28"
+        },
+        {
+          "title": "黑客增长：用“AARRR试验”驱动品牌运营增长",
+          "url": "https://www.woshipm.com/share/6325308.html",
+          "author": "北东",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "黑客增长绝非简单的裂变或广告投放，而是一套完整的试验系统。本文将彻底拆解AARRR模型五大战场，从获潜客到推荐的每个环节，提供可立即落地的工具清单、操作步骤与行业案例。无论你是增长负责人还是产品经理，都能在这里找到对抗增长焦虑的实战解决方案。这篇文章将带你从概念到实战，把黑客增长拆解成可执行、可落地、可放大的步骤。过去几年，「黑客增长」被频繁提及，但很多企业理解错误：有人以为是裂变玩法，有人以为是...",
+          "published_at": "2026-01-20T01:39:36"
+        },
+        {
           "title": "再谈高德地图对路痴用户的价值",
           "url": "https://www.woshipm.com/share/6328470.html",
           "author": "豆芽悟",
@@ -210,39 +238,12 @@
           "source": "人人都是产品经理",
           "summary": "Coze Skills的发布正在重塑AI应用开发范式。这项新功能让开发者能够通过自然语言快速创建技能，并支持一键部署到技能商店实现变现。本文以抖音视频解析和公众号文章转换两个实战案例，深入解析Skills功能如何降低开发门槛，同时探讨技能商店生态对行业Know-how复用的革命性意义。前阵子去扣子的闭门分享会，就有拿到 Coze Skills 的内测。今天扣子也正式推出了 Skills 技能，及技...",
           "published_at": "2026-01-20T01:04:41"
-        },
-        {
-          "title": "如何判断USB设备是否是存储设备？",
-          "url": "https://www.woshipm.com/share/6328197.html",
-          "author": "华为开发者联盟",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "本问答帖原创发布在华为开发者联盟社区，欢迎开发者前往论坛提问交流。使用usbManager.getDevices获取所有的USB设备信息，如何判断是否是存储设备？是通过USBEndpoint类型中的type字段吗？解决方案：判断USB设备是否为U盘（大容量存储设备）不能仅通过USBEndpoint的type字段（批量传输类型）来确定。应通过设备类代码（class code） 字段组合来识别。具体判...",
-          "published_at": "2026-01-19T11:04:05"
-        },
-        {
-          "title": "如何判断H5页面是通过HarmonyOS的webview打开的？",
-          "url": "https://www.woshipm.com/share/6328195.html",
-          "author": "华为开发者联盟",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "本问答帖原创发布在华为开发者联盟社区，欢迎开发者前往论坛提问交流。如何判断H5页面是通过HarmonyOS的webview打开的，userAgent是否包含特定字符？解决方案：HarmonyOS的webview自带的userAgent 如下：Mozilla/5.0 (Phone; OpenHarmony 5.0) AppleWebKit/537.36 (KHTML, like Gecko) Chr...",
-          "published_at": "2026-01-19T11:02:45"
-        },
-        {
-          "title": "如何开发锁屏卡片？",
-          "url": "https://www.woshipm.com/share/6328191.html",
-          "author": "华为开发者联盟",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "本问答帖原创发布在华为开发者联盟社区，欢迎开发者前往论坛提问交流。锁屏卡片的开发文档没有详细的教程，只有一些配置信息，不知道怎么去开发。解决方案：锁屏卡片UI开发可以参考ArkTS卡片开发文档，卡片开发好后按照锁屏卡片开发指导文档中的步骤申请锁屏卡片开放能力并在form_config.json配置文件中配置renderingMode和supportDimensions字段即可。注意：锁屏卡片只支持...",
-          "published_at": "2026-01-19T11:01:11"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 6,
+      "count": 14,
       "items": [
         {
           "title": "Design for Amiability: Lessons from Vienna",
@@ -297,6 +298,78 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
+        },
+        {
+          "title": "Shopify Live Globe 2025",
+          "url": "https://www.awwwards.com/sites/shopify-live-globe-2025",
+          "author": "Shopify Design",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Midlife Engineering",
+          "url": "https://www.awwwards.com/sites/midlife-engineering",
+          "author": "Lee Black",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Paper Tiger",
+          "url": "https://www.awwwards.com/sites/paper-tiger",
+          "author": "Paper Tiger",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Language Explorer",
+          "url": "https://www.awwwards.com/sites/language-explorer",
+          "author": "Hook",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Breakthrough Energy",
+          "url": "https://www.awwwards.com/sites/breakthrough-energy",
+          "author": "Resn",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "UNESCO Stolen Objects Museum",
+          "url": "https://www.awwwards.com/sites/unesco-stolen-objects-museum",
+          "author": "makemepulse",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Lightship",
+          "url": "https://www.awwwards.com/sites/lightship-1",
+          "author": "Locomotive",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Max Mara - Untamed Heroine",
+          "url": "https://www.awwwards.com/sites/max-mara-untamed-heroine",
+          "author": "Adoratorio Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
@@ -305,6 +378,15 @@
       "count": 6,
       "items": [
         {
+          "title": "NotchDrop",
+          "url": "https://www.producthunt.com/products/notchdrop",
+          "author": "Muhammad Saddam Nur",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "A Dynamic Island experience for your Mac notchDiscussion|Link",
+          "published_at": "2026-01-18T16:58:21"
+        },
+        {
           "title": "21st Fund",
           "url": "https://www.producthunt.com/products/21st-fund",
           "author": "Udit",
@@ -312,33 +394,6 @@
           "source": "Product Hunt",
           "summary": "Agentic Grant Discovery for FoundersDiscussion|Link",
           "published_at": "2026-01-19T06:09:04"
-        },
-        {
-          "title": "Tofu Maps",
-          "url": "https://www.producthunt.com/products/tofu-maps",
-          "author": "Ruslan Fatikhov",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Create personal maps you can share without accountsDiscussion|Link",
-          "published_at": "2026-01-19T06:02:21"
-        },
-        {
-          "title": "Updatest",
-          "url": "https://www.producthunt.com/products/updatest",
-          "author": "Chris Messina",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Your new home for Mac updates.Discussion|Link",
-          "published_at": "2026-01-17T22:13:34"
-        },
-        {
-          "title": "Coderrr",
-          "url": "https://www.producthunt.com/products/coderrr",
-          "author": "Akash Nath",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Open source CLI-first AI coding companionDiscussion|Link",
-          "published_at": "2026-01-19T05:17:07"
         },
         {
           "title": "flins",
@@ -350,13 +405,31 @@
           "published_at": "2026-01-19T02:14:17"
         },
         {
-          "title": "LiveSyncDesk",
-          "url": "https://www.producthunt.com/products/livesyncdesk",
-          "author": "LiveSyncDesk",
+          "title": "Coderrr",
+          "url": "https://www.producthunt.com/products/coderrr",
+          "author": "Akash Nath",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Real time collaboration with a mobile synchronized boardDiscussion|Link",
-          "published_at": "2026-01-18T14:51:09"
+          "summary": "Open source CLI-first AI coding companionDiscussion|Link",
+          "published_at": "2026-01-19T05:17:07"
+        },
+        {
+          "title": "Honter",
+          "url": "https://www.producthunt.com/products/honter",
+          "author": "Axel M",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Run design projects like a studio, even if you’re soloDiscussion|Link",
+          "published_at": "2026-01-19T02:12:06"
+        },
+        {
+          "title": "Updatest",
+          "url": "https://www.producthunt.com/products/updatest",
+          "author": "Chris Messina",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Your new home for Mac updates.Discussion|Link",
+          "published_at": "2026-01-17T22:13:34"
         }
       ]
     },
