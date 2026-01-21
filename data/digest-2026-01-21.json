@@ -1,26 +1,35 @@
 {
   "date": "2026-01-21T00:00:00",
-  "total_items": 61,
+  "total_items": 62,
   "sources": [
-    "人人都是产品经理",
-    "Smashing Magazine",
-    "优设网",
-    "NN/g (Nielsen Norman Group)",
     "Awwwards",
+    "NN/g (Nielsen Norman Group)",
     "UX Design CC",
     "A List Apart",
-    "少数派",
-    "UX Planet",
-    "Design Milk",
+    "Sidebar",
+    "优设网",
     "Product Hunt",
-    "Sidebar"
+    "人人都是产品经理",
+    "Design Milk",
+    "UX Planet",
+    "少数派",
+    "Smashing Magazine"
   ],
-  "generated_at": "2026-01-21T02:20:10.660692",
+  "generated_at": "2026-01-21T12:58:47.295047",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 9,
+      "count": 10,
       "items": [
+        {
+          "title": "What makes generated UI worth keeping?",
+          "url": "https://uxdesign.cc/what-makes-generated-ui-worth-keeping-96b44ade04a1?source=rss----138adf9c44c---4",
+          "author": "Allie Paschal",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How brand, data, and reuse help ideas move past the demo phaseMusic platform screens vibe coded with various AI tools like Anima and UizardAs designers, we know there are many tools at our disposal to...",
+          "published_at": "2026-01-21T11:03:44"
+        },
         {
           "title": "How a 2,500-year-old story explains why UX findings get ignored",
           "url": "https://uxdesign.cc/how-a-2-500-year-old-story-explains-why-ux-findings-get-ignored-6a62451c302d?source=rss----138adf9c44c---4",
@@ -223,49 +232,49 @@
           "published_at": "2026-01-19T16:00:04"
         },
         {
-          "title": "涨薪 30%！转型 AI 产品经理的正确方法，0经验直接复制！",
-          "url": "https://www.woshipm.com/it/6329437.html",
-          "author": "起点课堂",
+          "title": "鸿蒙开发：一键更新，让应用无需提交应用市场即可下载安装",
+          "url": "https://www.woshipm.com/share/6330349.html",
+          "author": "程序员一鸣",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI时代，AI产品经理成为科技行业的香饽饽。很多人想转型AI产品经理，但都纠结于：AI产品经理技术要求那么高，适合自己吗？没有AI产品经验面试能过吗？那么，AI产品经理究竟是做什么的？转型要做哪些准备？本文将为你一一解答。AI产品经理刚火那会儿，刚做产品1年的月月就规划了自己的转型计划，然后用3个月时间成功更换赛道，转战AI产品经理，涨薪30%。问及她有什么上岸秘诀？她也复盘总结了3个踩坑经验和正...",
-          "published_at": "2026-01-21T02:12:43"
+          "summary": "HarmonyOSNEXT以后，一直想做一件事情，那就是如何让鸿蒙打出的包，可以像Android安装apk那样简单便捷！如今，经过多天的开发，测试，验证，一个便捷的插件终于开发完毕，它只有一个特点，那就是一键打包上传，并最终生成下载地址和二维码，可以让您更灵活的发布版本和限定测试范围，助您提前发现问题，及时修复问题和优化版本体验。插件开发背景截止到当下，如何让打出的包安装到真机设备中进行测试，目前...",
+          "published_at": "2026-01-21T12:27:50"
         },
         {
-          "title": "5E模型如何度量下一代AI产品",
-          "url": "https://www.woshipm.com/ai/6327301.html",
-          "author": "Aaron_陈忠良",
+          "title": "Agent Skills 终极指南：入门、精通、预测",
+          "url": "https://www.woshipm.com/ai/6330260.html",
+          "author": "一泽Eze",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "GPT-4o等多模态模型的崛起正在重塑AI产品的交互范式，从冰冷指令执行转向人类式心智交互。本文深度重构经典的5E体验模型，揭示如何穿透自然语言模糊性、实现认知卸载、构建人格化吸引力，为AI产品经理提供下一代交互设计的核心方法论。随着GPT-4o等多模态模型的爆发，AI产品正经历从“指令执行型”向“心智交互型”的代际跃迁。用户不再满足于AI作为一个冷冰冰的效率工具，而是期待其具备类似人类的感知与意...",
-          "published_at": "2026-01-21T02:10:37"
+          "summary": "Claude Skills正悄然重塑AI应用开发的游戏规则——无需代码，仅凭自然语言文档就能打造专业级Agent。从PDF处理到品牌设计，从智能写作到个性化伴侣，一个Skill包就能解锁通用Agent的垂直能力。本文深度解析Skills的底层原理与技术优势，带你看懂这种模块化扩展如何实现零门槛开发、灵活应对复杂场景，以及为何它可能成为下一代AI产品的标配范式。Claude Skills 的价值，还...",
+          "published_at": "2026-01-21T11:29:00"
         },
         {
-          "title": "别再用“感觉”做营销了：一套让老板拍掌、让增长可复制的量化与追踪系统方法",
-          "url": "https://www.woshipm.com/share/6327517.html",
-          "author": "北东",
+          "title": "深度解读大语言模型 (LLM) 训练全链路，看这篇文章就够了！",
+          "url": "https://www.woshipm.com/ai/6327438.html",
+          "author": "智品趣谈",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "营销不再是玄学，而是可以被精确量化的工程体系。本文深度拆解三层营销方法论（结果层、执行层、系统层），提供12个黄金执行指标和6张关键报表，教你用数据证明营销价值，从执行者蜕变为决策者。如果你做市场三年以上，一定听过这句话：“我也说不清，但我感觉这个方案不太对。”我要先说一个不太讨喜、但极其重要的结论：所有靠“感觉”判断效果的营销，本质都是不专业的。不是你不努力，也不是团队不执行，而是——你在用一种...",
-          "published_at": "2026-01-21T02:09:29"
+          "summary": "ChatGPT等通用大语言模型为何在专业场景频频'翻车'？本文将深度剖析LLM从'全能博士生'到'资深老员工'的蜕变之路，揭示数据驱动的微调训练如何为AI注入行业灵魂，并提供从数据构建到模型选择的完整落地方法论。为什么 ChatGPT 这种“大神”到了具体业务里经常“翻车”？企业在引入通用大语言模型时，常常会遇到一系列令人沮丧的现象：客服AI听不懂行业“黑话”导致理解偏差，法务AI写不出符合格式要...",
+          "published_at": "2026-01-21T08:59:14"
         },
         {
-          "title": "涨薪 3K：产品经理如何 3 天入门 SQL？",
-          "url": "https://www.woshipm.com/share/6329428.html",
-          "author": "好夕雷",
+          "title": "2B供应链平台：运营与落地实践的一些反思",
+          "url": "https://www.woshipm.com/pd/6329676.html",
+          "author": "硬核马克",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当数据驱动决策成为产品经理的核心竞争力，SQL查询能力正成为薪资分水岭的关键指标。本文通过练中学、粗略学、干中学的三段式学习法，结合SQL之母等零门槛工具，拆解从SELECT基础查询到多表关联的实战路径，帮助产品经理在3天内建立自主数据分析能力，实现职场价值跃迁。最近产品群里有人问：“怎么用 Navicat？”我潜水一会才知道，原来他在准备产品面试，临时抱佛脚学 SQL。所以今天写一篇 SQL 入...",
-          "published_at": "2026-01-21T02:05:47"
+          "summary": "供应链平台的数字化转型正面临前所未有的挑战。当信息差红利消失、价格内卷成为常态，纯线上撮合模式已难以为继。本文通过半年实战复盘，深度剖析B2B撮合平台的价值重构路径——从账期、履约到服务的硬核升级，揭示线下运营与关键供应商背靠背合作的破局之道，为深陷转型困境的供应链从业者提供实战思考。又做了半年供应链。到了年底，对自己的业务做一些总结。这半年我们在做什么？简单直白来说，做的最多的还是交易撮合，只不...",
+          "published_at": "2026-01-21T08:59:06"
         },
         {
-          "title": "从性能超越到生态卡位——解读美团LongCat-2601的“江湖地位”",
-          "url": "https://www.woshipm.com/ai/6327457.html",
-          "author": "姚小姚",
+          "title": "Vibe Coding：从0到0.5，互联网产品创新的“新基建”与人才范式转移",
+          "url": "https://www.woshipm.com/ai/6329654.html",
+          "author": "北笙",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "LongCat-2601的横空出世颠覆了AI行业的竞争格局。这款主打工具调用能力与智能体泛化的开源模型，不仅在多项关键评测中超越闭源标杆，更以极低部署成本为企业级应用带来全新选择。本文将深度解析其背后的业务场景优势与开源战略布局，揭示本地生活巨头如何用实战经验锻造出AI界的“数字员工”。01 一鸣惊人，它到底强在哪最近AI圈子又被点燃了，主角不是那些我们耳熟能详的硅谷巨头，也不是国内几家已经杀成红...",
-          "published_at": "2026-01-21T01:59:50"
+          "summary": "Vibe Coding正在悄然重塑互联网行业的底层逻辑，它不再是简单的代码辅助工具，而是一场人机协作范式的革命。从产品构思到实现，这支'全栈智能体军团'让创新成本从'按月计算'骤降至'按天完成'，产品经理正在从文档撰写者转型为AI编排者。本文将深入解析这种新型生产关系如何突破传统研发流程的边界，以及从业者该如何构建'意图工程'这一核心能力护城河。最近总在想一个事，咱们这行，是不是又到了一个十字路口...",
+          "published_at": "2026-01-21T08:58:58"
         }
       ]
     },
@@ -337,6 +346,15 @@
           "published_at": null
         },
         {
+          "title": "Bruno's Portfolio",
+          "url": "https://www.awwwards.com/sites/brunos-portfolio",
+          "author": "Bruno Simon",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Jesko Jets",
           "url": "https://www.awwwards.com/sites/jesko-jets",
           "author": "The First The Last",
@@ -398,15 +416,6 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Lightship",
-          "url": "https://www.awwwards.com/sites/lightship-1",
-          "author": "Locomotive",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -415,31 +424,31 @@
       "count": 3,
       "items": [
         {
-          "title": "Trace",
-          "url": "https://www.producthunt.com/products/trace-23",
-          "author": "Tarun Tomar",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "F**k The Algorithm. Make Your OwnDiscussion|Link",
-          "published_at": "2026-01-19T10:05:47"
-        },
-        {
-          "title": "Stroke",
-          "url": "https://www.producthunt.com/products/stroke",
-          "author": "abhisheksingh",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Animate SVGs. Beautifully.Discussion|Link",
-          "published_at": "2026-01-19T09:57:05"
-        },
-        {
-          "title": "Evernote v11",
-          "url": "https://www.producthunt.com/products/evernote",
+          "title": "FastMCP 3.0",
+          "url": "https://www.producthunt.com/products/fastmcp",
           "author": "Chris Messina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your second brain, leveled up.Discussion|Link",
-          "published_at": "2026-01-20T07:08:05"
+          "summary": "The fast, Pythonic way to build MCP servers and clientsDiscussion|Link",
+          "published_at": "2026-01-21T02:31:44"
+        },
+        {
+          "title": "Art Network",
+          "url": "https://www.producthunt.com/products/art-network",
+          "author": "Adam Cooper",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "A social network for the art communityDiscussion|Link",
+          "published_at": "2026-01-20T13:20:10"
+        },
+        {
+          "title": "RelateDB",
+          "url": "https://www.producthunt.com/products/relatedb",
+          "author": "Karthik Ponnam",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Offline-first database schema designer in your browserDiscussion|Link",
+          "published_at": "2026-01-20T08:39:43"
         }
       ]
     },
@@ -508,49 +517,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Cold storage",
-          "url": "https://zeldman.com/2026/01/02/cold-storage/",
+          "title": "On coding agents and the future of design",
+          "url": "https://veen.com/jeff/archives/coding-agents-design.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Good UX is what companies do when they have to. A company that has your stuff locked away doesn’t have to.",
-          "published_at": "2026-01-20T12:20:09"
+          "summary": "How Claude Code is showing us what apps may become.",
+          "published_at": "2026-01-21T11:56:23"
         },
         {
-          "title": "Anacyclosis: the cycle of political revolution",
-          "url": "https://anacyclosis.info/",
+          "title": "How browsers work",
+          "url": "https://howbrowserswork.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "An interactive visualization of Polybius’s theory of anacyclosis—the cyclical succession of political regimes.",
-          "published_at": "2026-01-20T12:18:50"
+          "summary": "A guide for engineers and curious people who use the web every day, but never built a mental model of how browsers work.",
+          "published_at": "2026-01-21T11:55:54"
         },
         {
-          "title": "Creating your own opportunities",
-          "url": "https://terriblesoftware.org/2026/01/05/creating-your-own-opportunities/",
+          "title": "The hardest working font in Manhattan",
+          "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The best career opportunities don’t necessarily come from your manager. They come from seeing potential in the boring work already on your plate.",
-          "published_at": "2026-01-20T12:17:56"
+          "summary": "A story of a 150-year-old font you have never heard of – and one you probably saw earlier today.",
+          "published_at": "2026-01-21T11:55:10"
         },
         {
-          "title": "I want my MTV",
-          "url": "https://wantmymtv.vercel.app/",
+          "title": "The copyrightability of fonts revisited",
+          "url": "https://matthewbutterick.com/chron/the-copyrightability-of-fonts-revisited.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Celebrating 44 years of continuous music videos. Stream classic music videos 24/7.",
-          "published_at": "2026-01-20T12:17:24"
+          "summary": "How many existing regis­tra­tions of font copy­rights might be vulner­able to attacks during liti­ga­tion?",
+          "published_at": "2026-01-21T11:54:36"
         },
         {
-          "title": "Usability heuristics and competition in games",
-          "url": "https://uxdesign.cc/usability-heuristics-and-competition-in-games-707cac36ff12",
+          "title": "Friction by design",
+          "url": "https://carlbarenbrug.com/friction",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "When a game’s UI does not meet these expectations, it negatively affects the entire experience. Сompetition drives progress (or burnout).",
-          "published_at": "2026-01-20T12:16:49"
+          "summary": "What gets lost when everything is effortless?",
+          "published_at": "2026-01-21T11:53:01"
         }
       ]
     },
@@ -558,6 +567,42 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "再谈 .DS_Store：兼论 Windows 与 macOS Finder 的布局理念差异",
+          "url": "https://sspai.com/prime/story/on-dsstore",
+          "author": "Neighbor_Z",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "引你是否在Windows与macOS之间频繁切换工作、互传数据？你是否拥有NAS并且局域网内同时存在Mac和PC访问其资源？或者，你是否拥有一位使用Mac的朋友、同事、同学，并使用储存介质在他们的Ma ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "published_at": "2026-01-21T10:27:21"
+        },
+        {
+          "title": "让背单词像「抽卡」一样快乐：我设计了一台「美食盲盒机」",
+          "url": "https://sspai.com/post/105408",
+          "author": "Pyacark",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "published_at": "2026-01-21T09:30:02"
+        },
+        {
+          "title": "5 款替代品，找回 LaunchPad 的快捷",
+          "url": "https://sspai.com/post/105471",
+          "author": "Vanilla",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "macOS Tahoe 毫无征兆地砍掉了 LaunchPad，好在这 5 款第三方应用可以为你找回这份便捷。查看全文",
+          "published_at": "2026-01-21T07:00:00"
+        },
+        {
+          "title": "致敬好剧新姿势：纯代码从零复刻 Pluribus 片头动画",
+          "url": "https://sspai.com/post/105365",
+          "author": "小雨姑娘",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "published_at": "2026-01-21T03:23:36"
+        },
         {
           "title": "派早报：索尼宣布与 TCL 成立合资公司、Ayaneo 发布 Konkr Fit 掌机等",
           "url": "https://sspai.com/post/105628",
@@ -575,42 +620,6 @@
           "source": "少数派",
           "summary": "这是 2026 年我送给自己的新年礼物——突破身为一个运营原定能力边界的礼物。查看全文",
           "published_at": "2026-01-20T09:30:00"
-        },
-        {
-          "title": "从雪地陷车到撞围栏：境外租车自驾复盘与避坑攻略",
-          "url": "https://sspai.com/post/105575",
-          "author": "许万里Alva",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "把我租车踩过的坑和觉得值得注意的经验分享给大家。查看全文",
-          "published_at": "2026-01-20T06:58:45"
-        },
-        {
-          "title": "冬天也不用裹成球，这是你需要了解的冬季穿衣指南",
-          "url": "https://sspai.com/post/93614",
-          "author": "烟酸Niacin",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "你必须要知道的秋衣外穿和 ECWCS 穿衣系统的细节。查看全文",
-          "published_at": "2026-01-20T03:06:39"
-        },
-        {
-          "title": "派早报：荣耀发布 Magic8 Pro Air 等",
-          "url": "https://sspai.com/post/105600",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "安克与飞书联合推出安克 AI 录音豆，小红书上线社区公约 2.0 等。查看全文",
-          "published_at": "2026-01-20T00:25:17"
-        },
-        {
-          "title": "派评 | 近期值得关注的 App",
-          "url": "https://sspai.com/post/105585",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
-          "published_at": "2026-01-19T09:48:38"
         }
       ]
     }
