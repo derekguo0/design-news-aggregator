@@ -1,27 +1,45 @@
 {
   "date": "2026-01-23T00:00:00",
-  "total_items": 66,
+  "total_items": 70,
   "sources": [
-    "Design Milk",
+    "A List Apart",
+    "CSS-Tricks",
     "优设网",
-    "Sidebar",
+    "NN/g (Nielsen Norman Group)",
     "少数派",
     "人人都是产品经理",
     "UX Design CC",
-    "NN/g (Nielsen Norman Group)",
+    "Awwwards",
+    "Sidebar",
     "Product Hunt",
     "Smashing Magazine",
-    "A List Apart",
-    "UX Planet",
-    "Awwwards",
-    "CSS-Tricks"
+    "Design Milk",
+    "UX Planet"
   ],
-  "generated_at": "2026-01-23T02:02:01.829752",
+  "generated_at": "2026-01-23T12:56:14.897511",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 10,
+      "count": 13,
       "items": [
+        {
+          "title": "How I stopped worrying and learned to love the terminal",
+          "url": "https://uxdesign.cc/how-i-stopped-worrying-and-learned-to-love-the-terminal-c8914be0e306?source=rss----138adf9c44c---4",
+          "author": "Pablo Stanley",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "From a designer who started using the CLI instead of traditional design toolsContinue reading on UX Collective »",
+          "published_at": "2026-01-23T12:21:04"
+        },
+        {
+          "title": "Field notes from building a ChatGPT app as a non-technical builder",
+          "url": "https://uxdesign.cc/field-notes-from-building-a-chatgpt-app-as-a-non-technical-builder-2b2b1201b65e?source=rss----138adf9c44c---4",
+          "author": "Flora Ghnassia",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "What it really takes to build a product inside ChatGPT while the ecosystem is still forming (and without an engineering team)Building in a space that doesn’t exist yetA ChatGPT app isn’t an app in the...",
+          "published_at": "2026-01-23T12:20:47"
+        },
         {
           "title": "Today’s organisations don’t have an AI problem — they have a thinking problem",
           "url": "https://uxdesign.cc/todays-organisations-don-t-have-an-ai-problem-they-have-a-thinking-problem-4ed649c063e8?source=rss----138adf9c44c---4",
@@ -93,6 +111,15 @@
           "source": "UX Design CC",
           "summary": "Design principles for AI in complex systems.Source: Artnet.comToday we are at the cusp of revolutions in artificial intelligence, autonomous vehicles, renewable energy, and biotechnology. Each brings ...",
           "published_at": "2026-01-20T12:09:54"
+        },
+        {
+          "title": "Can Figma Make Replace Your Design Docs?",
+          "url": "https://uxplanet.org/can-figma-make-replace-your-design-docs-e9c3847209d1?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "How Figma Make can generate 5 real design artefactsContinue reading on UX Planet »",
+          "published_at": "2026-01-23T12:33:04"
         },
         {
           "title": "Google AI Studio for Product Designers",
@@ -233,49 +260,49 @@
           "published_at": "2026-01-21T15:00:44"
         },
         {
-          "title": "条漫消失了，为什么？",
-          "url": "https://www.woshipm.com/share/6331369.html",
-          "author": "寻空",
+          "title": "我总结了一份面向消费医疗的“6423增长协作飞轮”模式",
+          "url": "https://www.woshipm.com/share/6331545.html",
+          "author": "林裕虎",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从匡扶摇、天才小熊猫到局部气候调查组，曾经刷屏的图文叙事正被短视频洪流冲刷殆尽。本文深度剖析条漫衰落的三大核心动因：短视频的算法降维打击、品牌预算从品效转向效果广告、以及内容生产效率的致命倒挂。这不仅是一场媒介迭代，更折射出当代注意力经济的残酷逻辑与叙事节奏的永久变迁。你上一次，完整看完一条条漫是什么时候？我试着在记忆里翻找。手指划过屏幕，那些曾经占据大半屏、需要耐心下拉的图文故事，似乎已被无限下...",
-          "published_at": "2026-01-23T01:52:54"
+          "summary": "运动康复诊所如何借鉴贝壳ACN模式实现渠道管理升级？关键在于将长链路的康复服务拆解为可量化节点，重构激励体系。本文深度剖析ACN模式在医疗场景的适应性改造，提出6423协作飞轮模型，解决线索归属、分段激励与跨团队协作等核心痛点，让康复价值分配回归全链路贡献。上一篇文章讲到了SCRM是消费医疗渠道管理的基石，那贝壳的ACN分成模式放到运动康复诊所的渠道管理中能否行得通。结论可以说得很直接，理念很适用...",
+          "published_at": "2026-01-23T09:13:32"
         },
         {
-          "title": "货代SaaS实战：运输管理（TMS）怎么做，才能把提派、轨迹与结算做成闭环？",
-          "url": "https://www.woshipm.com/pd/6331299.html",
-          "author": "天涯轩",
+          "title": "别内耗，进心流",
+          "url": "https://www.woshipm.com/share/6331539.html",
+          "author": "ViWaViWa",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在货代行业，“运输管理”常被误解为一个“派车工具”。但真正决定交付体验与毛利的，是从调度计划到提货/派送执行、在途轨迹、POD证据链，再到自动计费与对账同步的端到端闭环。本文结合一个典型的集装箱拖车提派场景，拆解货代TMS的产品边界与关键设计：任务池与约束、状态机与里程碑、证据链与验真、异常与合规、以及费用与结算如何做到可追溯、可协同、可复盘。一、为什么货代的运输管理“难做”？难点不在派车，在不确...",
-          "published_at": "2026-01-23T01:32:11"
+          "summary": "焦虑时代，游戏设计如何成为治愈心灵的良药？心流模型揭示了挑战与技能的动态平衡是缓解焦虑的关键。《风之旅人》通过极简交互与非语言社交，为玩家打造了一个没有评价压力的避风港。本文将拆解游戏背后的心流机制，探索产品设计如何重构用户的掌控感与心理韧性。在不确定性倍增的当下，“焦虑”已成为现代人的高频词汇 。从产品设计的视角看，焦虑的本质往往源于“控制感的缺失”：当个体面对的任务难度远超其技能水平，且反馈周...",
+          "published_at": "2026-01-23T07:09:19"
         },
         {
-          "title": "大模型的数据清洗，不是删删改改那么简单",
-          "url": "https://www.woshipm.com/ai/6331145.html",
-          "author": "为了罐罐",
+          "title": "产品经理的行业洞察新范式：AI 与智能体工具链的赋能",
+          "url": "https://www.woshipm.com/ai/6331430.html",
+          "author": "K姐",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "作为AI产品经理，我们常聚焦于大模型的功能迭代、场景落地，却容易忽略一个底层真相：大模型的能力上限，从来不是算法，而是训练数据。就像优秀的厨师离不开新鲜食材，高性能大模型的背后，必然有经过严格筛选、整理的干净数据——这就是数据清洗，大模型的食材预处理环节，也是AI产品经理必须吃透的核心基础。很多产品经理对数据清洗的理解停留在删除错误数据，但对于大模型而言，数据清洗的核心的是让数据适配模型训练需求，...",
-          "published_at": "2026-01-23T01:30:36"
+          "summary": "AI正在颠覆传统行业研究的范式，从信息洪流中提炼关键洞察不再是产品经理的噩梦。新一代AI搜索引擎不仅能回答复杂问题，更能通过智能体(Gem)实现自动化行业分析，将医疗、消费电子等领域的全球动态转化为结构化简报。本文揭示如何用Gemini打造专属分析系统，让产品经理专注于决策而非信息检索。十年前，我带团队做行业研究时，常常遇到一个尴尬的场景：我们每天沉浸在海量资讯里，却依然无法回答一个关键问题——“...",
+          "published_at": "2026-01-23T06:04:49"
         },
         {
-          "title": "AI不是阶层跨越的通天绳，也不会塑造新寒门",
-          "url": "https://www.woshipm.com/ai/6331221.html",
-          "author": "谢璞笔记",
+          "title": "AI浪潮中的产品生存指南：重新定义你的核心战场",
+          "url": "https://www.woshipm.com/ai/6330707.html",
+          "author": "彭丹萍",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI正在重塑教育的底层逻辑，从作业辅导到思维培养，这场技术革命正在引发家庭关系、教育公平与学习本质的深层变革。当AI成为‘赛博家教’，家长如何避免制造‘数字盆景’？当技术红利被包装成阶层焦虑，教育又该如何回归人性本质？本文深度剖析AI与教育的碰撞，揭示这场效率与人性拉锯战中的机遇与陷阱。我最近在思考一个问题：女儿上学后让不让她用AI辅助学习？刚好看到由阿里千问举办的一场线下圆桌会议，会议的主题就是...",
-          "published_at": "2026-01-23T01:30:17"
+          "summary": "AI工具正在颠覆产品经理的传统工作边界，从市场调研到原型设计，效率提升的背后是职业能力的全面重构。本文将揭示产品经理如何从功能规划者转型为问题架构师，并构建AI增强的能力金字塔，在这场变革中抢占先机。去年，一位在互联网大厂工作了八年的高级产品经理告诉我，他团队里新来的应届生，借助AI工具在一周内完成了一个原本需要两周的产品分析报告，且逻辑清晰、数据翔实。他第一次感受到的，不是效率提升的喜悦，而是背...",
+          "published_at": "2026-01-23T05:48:06"
         },
         {
-          "title": "回顾2025年中国AIGC领域年度变迁：AI训练师成落地核心引擎",
-          "url": "https://www.woshipm.com/ai/6309073.html",
-          "author": "冒泡泡",
+          "title": "跨境支付入门（四）：从一张真实的国际信用卡讲起，读懂跨境收单中的卡信息",
+          "url": "https://www.woshipm.com/share/6331416.html",
+          "author": "Amour",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "2025年中国AIGC领域经历了从技术狂欢到价值落地的关键转型，AI训练师这一新兴职业成为连接技术与商业的核心纽带。本文深度剖析了技术竞争、应用格局、产业生态和人才市场的四大变迁，揭示了AI训练师在需求翻译、数据打磨、效果闭环和跨域协同中的核心价值，展现了AIGC商业化落地的全新图景。回望2025年，中国AIGC领域完成了从“技术狂欢”到“价值落地”的关键跃迁。年初仍聚焦于大模型参数竞赛、技术可行...",
-          "published_at": "2026-01-23T01:28:56"
+          "summary": "信用卡在跨境支付中远不止是一张塑料卡片，它是一组决定交易命运的关键数据。本文将深入拆解国际信用卡的卡号结构、BIN码的隐藏信息，以及系统如何通过这些字段完成风控判断、通道选择和结算路径决策，揭示跨境收单系统中那些被默认却至关重要的底层逻辑。在前三篇中，我们已经从整体视角，介绍了跨境支付中的角色、Pay-in 的收款方式，以及 Pay-out 的核心形态。从这一篇开始，我们把视角聚焦到具体的国际信用...",
+          "published_at": "2026-01-23T03:57:41"
         }
       ]
     },
@@ -356,6 +383,15 @@
           "published_at": null
         },
         {
+          "title": "Naked City Films",
+          "url": "https://www.awwwards.com/sites/naked-city-films",
+          "author": "SavoirFaire©",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "IRONHILL",
           "url": "https://www.awwwards.com/sites/ironhill",
           "author": "Uncommon",
@@ -417,66 +453,75 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Breakthrough Energy",
-          "url": "https://www.awwwards.com/sites/breakthrough-energy",
-          "author": "Resn",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 7,
       "items": [
         {
-          "title": "Doclific",
-          "url": "https://www.producthunt.com/products/doclific",
-          "author": "Luke",
+          "title": "DropTidy",
+          "url": "https://www.producthunt.com/products/droptidy",
+          "author": "Tomáš Dračka",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Documentation that lives with your codeDiscussion|Link",
-          "published_at": "2026-01-22T02:47:58"
+          "summary": "Remove sensitive photo data, 100% client-side & zero uploadsDiscussion|Link",
+          "published_at": "2026-01-22T20:41:48"
         },
         {
-          "title": "Coda by Conductor Quantum",
-          "url": "https://www.producthunt.com/products/conductor-quantum",
-          "author": "Brandon Severin",
+          "title": "Krisp Mobile Call Recorder",
+          "url": "https://www.producthunt.com/products/krisp",
+          "author": "Asti Pili",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Solving problems using quantum computing & natural languageDiscussion|Link",
-          "published_at": "2026-01-21T19:06:32"
+          "summary": "Record outgoing calls and get transcripts + AI notesDiscussion|Link",
+          "published_at": "2026-01-21T13:29:02"
         },
         {
-          "title": "AbleMouse Beyond Switch Edition",
-          "url": "https://www.producthunt.com/products/ablemouse-control-with-tongue-or-touch",
-          "author": "Alexander Radzhabov",
+          "title": "1Setter",
+          "url": "https://www.producthunt.com/products/1setter",
+          "author": "JosephChi",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Full PC control for the paralyzed via one micro-movement.Discussion|Link",
-          "published_at": "2026-01-21T08:33:32"
+          "summary": "One-click system settings for macOSDiscussion|Link",
+          "published_at": "2026-01-22T14:42:42"
         },
         {
-          "title": "StoryChief AI Canvas",
-          "url": "https://www.producthunt.com/products/storychief-io",
-          "author": "Valeri Potchekailov",
+          "title": "Preloop",
+          "url": "https://www.producthunt.com/products/preloop",
+          "author": "Dimitris Moraitis",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A canvas to create + publish full marketing campaigns w/ AIDiscussion|Link",
-          "published_at": "2026-01-21T15:14:05"
+          "summary": "The MCP Governance LayerDiscussion|Link",
+          "published_at": "2026-01-20T14:59:59"
         },
         {
-          "title": "Clippy, but on Steroids",
-          "url": "https://www.producthunt.com/products/clippy-on-cocaine",
-          "author": "Max Prokopp",
+          "title": "PrivacyPal",
+          "url": "https://www.producthunt.com/products/privacypal-3",
+          "author": "Shayra Antia",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "\"Hey Siri\" with MCP calls and local LLMDiscussion|Link",
-          "published_at": "2026-01-21T08:16:20"
+          "summary": "The Browser Extension for AI Governance & Security.Discussion|Link",
+          "published_at": "2026-01-22T19:54:25"
+        },
+        {
+          "title": "Forge Agent",
+          "url": "https://www.producthunt.com/products/rightnow-ai",
+          "author": "Jaber Jaber",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Swarm Agents That Turn Slow PyTorch Into Fast GPU KernelsDiscussion|Link",
+          "published_at": "2026-01-23T00:24:44"
+        },
+        {
+          "title": "Kids Cash Register",
+          "url": "https://www.producthunt.com/products/kids-cash-register",
+          "author": "Nic Hansen",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "A POS system for kids to play pretend restaurant/shopping.Discussion|Link",
+          "published_at": "2026-01-22T08:17:19"
         }
       ]
     },
@@ -542,52 +587,43 @@
     },
     {
       "category": "设计资讯",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "Software as clay on the wheel",
-          "url": "https://dri.es/software-as-clay-on-the-wheel",
+          "title": "A social filesystem",
+          "url": "https://overreacted.io/a-social-filesystem/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "You're shaping the code or text the way a potter shapes clay: push a little, spin the wheel, look, push again.",
-          "published_at": "2026-01-22T12:49:28"
+          "summary": "Formats over apps.",
+          "published_at": "2026-01-23T12:31:28"
         },
         {
-          "title": "Gemini AI Visual Design",
-          "url": "https://design.google/library/gemini-ai-visual-design",
+          "title": "Web safe 2k16",
+          "url": "https://websafe2k16.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How Google designers use gradients, motion, and foundational shapes to build trust and intuition within Gemini.",
-          "published_at": "2026-01-22T12:48:37"
+          "summary": "A literary/graphic project exploring our memories of the pre-broadband Internet and related technologies.",
+          "published_at": "2026-01-23T12:29:39"
         },
         {
-          "title": "Liquid Glass CSS Generator",
-          "url": "https://aethercss.lovable.app/",
+          "title": "Building a toast component",
+          "url": "https://emilkowal.ski/ui/building-a-toast-component",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Create liquid glass, glassmorphism and neumorphism CSS effects with this free online generator.",
-          "published_at": "2026-01-22T12:47:58"
+          "summary": "How I built Sonner, an opinionated toast library for React used by milions.",
+          "published_at": "2026-01-23T12:28:46"
         },
         {
-          "title": "AI and the Next Economy",
-          "url": "https://www.oreilly.com/radar/ai-and-the-next-economy/",
+          "title": "Junior developers in the Age of AI",
+          "url": "https://thoughtfuleng.substack.com/p/junior-developers-in-the-age-of-ai",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The narrative from the AI labs is dazzling: build AGI, unlock astonishing productivity, and watch GDP surge.",
-          "published_at": "2026-01-22T12:47:21"
-        },
-        {
-          "title": "Claude’s Constitution",
-          "url": "https://www.anthropic.com/constitution",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "Anthropic is an AI safety and research company that’s working to build reliable, interpretable, and steerable AI systems.",
-          "published_at": "2026-01-22T12:46:39"
+          "summary": "Companies are ditching junior engineers en masse. They’ll tell you it’s because AI writes better code. They’re right...but also missing the point.",
+          "published_at": "2026-01-23T12:27:57"
         }
       ]
     },
@@ -610,6 +646,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "本周看什么 | 最近值得一看的 11 部作品",
+          "url": "https://sspai.com/post/105709",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "📅本周新预告《花绿青绽放的黎明》正式预告1月22日，动画电影《花绿青绽放的黎明》发布了正式预告，将于3月6日在日本上映。四宫义俊执导、编剧，AsmikAce、StudioOutrigger、MiyuP ...查看全文",
+          "published_at": "2026-01-23T09:50:59"
+        },
+        {
+          "title": "吃真实的食物：聊聊最新的美国膳食指南（2025-2030 年版）",
+          "url": "https://sspai.com/post/105475",
+          "author": "叁思Santh",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "吃得健康从来都不是一件轻松的事。查看全文",
+          "published_at": "2026-01-23T07:00:00"
+        },
+        {
+          "title": "一日一技 | 老 Mac 系统恢复指北",
+          "url": "https://sspai.com/post/105578",
+          "author": "SamWanng",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "不能用 Wi-Fi 和 U 盘恢复系统的 Mac，你还能试试这个重装方法。查看全文",
+          "published_at": "2026-01-23T03:30:01"
+        },
         {
           "title": "派早报：realme 真我发布新品、Xbox 应用登陆 Arm PC 等",
           "url": "https://sspai.com/post/105695",
@@ -636,33 +699,6 @@
           "source": "少数派",
           "summary": "它是液态的、半透明的、甚至在初期是极度消耗资源的，没错，它就是 Mac OS X。查看全文",
           "published_at": "2026-01-22T07:00:00"
-        },
-        {
-          "title": "将设计装进耳朵：少数派×飞傲联名 CD 机盖板设计大赛",
-          "url": "https://sspai.com/post/105630",
-          "author": "听歌的水獭",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "有没有想过，一张你亲手设计的「画」，可以被放在无数人的客厅、书房、卧室，伴随着音乐每天被看见、被触摸、被爱不释手？查看全文",
-          "published_at": "2026-01-22T03:00:00"
-        },
-        {
-          "title": "再谈 .DS_Store：兼论 Windows 与 macOS Finder 的布局理念差异",
-          "url": "https://sspai.com/prime/story/on-dsstore",
-          "author": "Neighbor_Z",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "本文希望从 .DS_Store 出发，基于与 Windows 平台下的类似文件 Desktop.ini 和 Thumbs.db 的对比，论述 Finder 与 Windows 资源管理器在某些设计方面的差异。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "published_at": "2026-01-21T10:27:21"
-        },
-        {
-          "title": "让背单词像「抽卡」一样快乐：我设计了一台「美食盲盒机」",
-          "url": "https://sspai.com/post/105408",
-          "author": "Pyacark",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "published_at": "2026-01-21T09:30:02"
         }
       ]
     }
