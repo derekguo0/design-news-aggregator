@@ -1,22 +1,22 @@
 {
   "date": "2026-01-24T00:00:00",
-  "total_items": 68,
+  "total_items": 66,
   "sources": [
-    "UX Planet",
-    "Design Milk",
-    "Product Hunt",
-    "Smashing Magazine",
-    "Awwwards",
-    "优设网",
-    "少数派",
-    "UX Design CC",
-    "A List Apart",
-    "NN/g (Nielsen Norman Group)",
-    "人人都是产品经理",
+    "CSS-Tricks",
     "Sidebar",
-    "CSS-Tricks"
+    "NN/g (Nielsen Norman Group)",
+    "Smashing Magazine",
+    "少数派",
+    "Design Milk",
+    "UX Planet",
+    "人人都是产品经理",
+    "A List Apart",
+    "Product Hunt",
+    "优设网",
+    "Awwwards",
+    "UX Design CC"
   ],
-  "generated_at": "2026-01-24T01:58:38.021019",
+  "generated_at": "2026-01-24T12:49:50.185049",
   "categories": [
     {
       "category": "用户体验设计",
@@ -251,49 +251,49 @@
           "published_at": "2026-01-22T16:00:23"
         },
         {
-          "title": "我总结了一份面向消费医疗的“6423增长协作飞轮”模式",
-          "url": "https://www.woshipm.com/share/6331545.html",
-          "author": "林裕虎",
+          "title": "做了十几个 AI 智能体（Agent）之后总结的 19 条经验",
+          "url": "https://www.woshipm.com/share/6332228.html",
+          "author": "Aaron",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "运动康复诊所如何借鉴贝壳ACN模式实现渠道管理升级？关键在于将长链路的康复服务拆解为可量化节点，重构激励体系。本文深度剖析ACN模式在医疗场景的适应性改造，提出6423协作飞轮模型，解决线索归属、分段激励与跨团队协作等核心痛点，让康复价值分配回归全链路贡献。上一篇文章讲到了SCRM是消费医疗渠道管理的基石，那贝壳的ACN分成模式放到运动康复诊所的渠道管理中能否行得通。结论可以说得很直接，理念很适用...",
-          "published_at": "2026-01-23T09:13:32"
+          "summary": "大厂风控产品经理结合客诉、风险分析等实战场景，戳破 Agent 落地的认知误区 —— 其并非简单拼接知识库与工作流，核心难点在于解决不确定性、规避 badcase，实现稳定可控的交付。并从业务需求、知识库搭建到运营落地，总结出 19 条直击痛点的实操解法。主职工作是大厂做风控产品经理，工作中做了客诉、风险分析、策略生成、规则模板等智能体，自己独立也做了很多内容自动化、内容分析的智能体。很多人以为 ...",
+          "published_at": "2026-01-24T12:40:30"
         },
         {
-          "title": "别内耗，进心流",
-          "url": "https://www.woshipm.com/share/6331539.html",
-          "author": "ViWaViWa",
+          "title": "写文章找配图太麻烦，于是我给自己捏了个配图助手Skills",
+          "url": "https://www.woshipm.com/share/6332220.html",
+          "author": "云舒",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "焦虑时代，游戏设计如何成为治愈心灵的良药？心流模型揭示了挑战与技能的动态平衡是缓解焦虑的关键。《风之旅人》通过极简交互与非语言社交，为玩家打造了一个没有评价压力的避风港。本文将拆解游戏背后的心流机制，探索产品设计如何重构用户的掌控感与心理韧性。在不确定性倍增的当下，“焦虑”已成为现代人的高频词汇 。从产品设计的视角看，焦虑的本质往往源于“控制感的缺失”：当个体面对的任务难度远超其技能水平，且反馈周...",
-          "published_at": "2026-01-23T07:09:19"
+          "summary": "写文找图、AI 生图流程繁琐成创作痛点，作者云舒据此开发出配图助手 skills，适配 Claude Code、Codex 等工具，还详细梳理了该技能的下载、配置、安装全流程与五步出图法，以分步确认的设计规避返工成本，且可持续迭代优化，完美解决内容创作配图的提效需求。大家好呀，我是在AI里实践的云舒，最近沉浸在Skills的海洋里，今天想来跟大家分享一下我的配图助手skills。对我来说写文章最烦...",
+          "published_at": "2026-01-24T12:27:52"
         },
         {
-          "title": "产品经理的行业洞察新范式：AI 与智能体工具链的赋能",
-          "url": "https://www.woshipm.com/ai/6331430.html",
-          "author": "K姐",
+          "title": "大模型的“视觉盲区”：为何智力超群却输给了6岁小孩？",
+          "url": "https://www.woshipm.com/ai/6331905.html",
+          "author": "图灵共振",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI正在颠覆传统行业研究的范式，从信息洪流中提炼关键洞察不再是产品经理的噩梦。新一代AI搜索引擎不仅能回答复杂问题，更能通过智能体(Gem)实现自动化行业分析，将医疗、消费电子等领域的全球动态转化为结构化简报。本文揭示如何用Gemini打造专属分析系统，让产品经理专注于决策而非信息检索。十年前，我带团队做行业研究时，常常遇到一个尴尬的场景：我们每天沉浸在海量资讯里，却依然无法回答一个关键问题——“...",
-          "published_at": "2026-01-23T06:04:49"
+          "summary": "当前AI在视觉理解上的短板令人震惊：能解高等数学难题的模型，竟在儿童视觉测试中败给六岁孩童。本文将深度剖析AI视觉盲区的四大核心缺陷，从架构瓶颈到训练偏科，揭示为何‘聪明’的AI却‘看不清’世界，并探讨如何为AI装上真正的‘眼睛’。第一章：引子：一场“博士”与“六岁童”的扎心对决上周在办公室做了个特别有意思的实验，我们把最新的大模型和我同事家刚上幼儿园的孩子拉到一起，来了场特殊的“智力竞赛”。你猜...",
+          "published_at": "2026-01-24T08:31:32"
         },
         {
-          "title": "AI浪潮中的产品生存指南：重新定义你的核心战场",
-          "url": "https://www.woshipm.com/ai/6330707.html",
-          "author": "彭丹萍",
+          "title": "AI 赋能的用户研究：构建更快、更准、更深的用户洞察体系",
+          "url": "https://www.woshipm.com/ai/6332104.html",
+          "author": "ETU Design",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI工具正在颠覆产品经理的传统工作边界，从市场调研到原型设计，效率提升的背后是职业能力的全面重构。本文将揭示产品经理如何从功能规划者转型为问题架构师，并构建AI增强的能力金字塔，在这场变革中抢占先机。去年，一位在互联网大厂工作了八年的高级产品经理告诉我，他团队里新来的应届生，借助AI工具在一周内完成了一个原本需要两周的产品分析报告，且逻辑清晰、数据翔实。他第一次感受到的，不是效率提升的喜悦，而是背...",
-          "published_at": "2026-01-23T05:48:06"
+          "summary": "AI正在重构用户研究的底层逻辑，从项目制周期转向实时化洞察。Maze报告显示，74%的团队已应用AI工具实现数据分析、转录摘要等环节的自动化，效率提升超50%。本文深度解析AI作为执行者、副驾驶、协作者的三重角色，探讨如何通过人机协同将用户研究从支持职能升级为战略引擎。人工智能正在加速应用在用户研究的各个环节。如何在工作中落地 AI 能力，让研究变得更高效、更可信、更有深度，正成为 UX 团队绕不...",
+          "published_at": "2026-01-24T06:46:06"
         },
         {
-          "title": "跨境支付入门（四）：从一张真实的国际信用卡讲起，读懂跨境收单中的卡信息",
-          "url": "https://www.woshipm.com/share/6331416.html",
-          "author": "Amour",
+          "title": "电商客服智能体RAG搭建实战：从0到1的产品经理视角",
+          "url": "https://www.woshipm.com/ai/6332066.html",
+          "author": "洋洋",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "信用卡在跨境支付中远不止是一张塑料卡片，它是一组决定交易命运的关键数据。本文将深入拆解国际信用卡的卡号结构、BIN码的隐藏信息，以及系统如何通过这些字段完成风控判断、通道选择和结算路径决策，揭示跨境收单系统中那些被默认却至关重要的底层逻辑。在前三篇中，我们已经从整体视角，介绍了跨境支付中的角色、Pay-in 的收款方式，以及 Pay-out 的核心形态。从这一篇开始，我们把视角聚焦到具体的国际信用...",
-          "published_at": "2026-01-23T03:57:41"
+          "summary": "电商客服智能体的构建远不止于简单调用大模型API。当面对商品参数、退换货政策、订单状态等具体问题时，RAG架构如何通过知识库检索、精准Prompt设计和混合检索策略，实现回答的准确性与可控性？本文从零开始拆解电商客服RAG系统的完整搭建过程，涵盖知识库建设、检索优化到成本控制的全链路实战经验。当接到一个需求：搭建电商客服智能体，要求能准确回答商品咨询、订单查询、售后政策等问题。技术方案评审时，算法...",
+          "published_at": "2026-01-24T06:44:01"
         }
       ]
     },
@@ -365,6 +365,15 @@
           "published_at": null
         },
         {
+          "title": "Weekend Max Mara Holiday Edit",
+          "url": "https://www.awwwards.com/sites/weekend-max-mara-holiday-edit",
+          "author": "MONOGRID",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Naked City Films",
           "url": "https://www.awwwards.com/sites/naked-city-films",
           "author": "SavoirFaire©",
@@ -426,39 +435,21 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Language Explorer",
-          "url": "https://www.awwwards.com/sites/language-explorer",
-          "author": "Hook",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 3,
       "items": [
         {
-          "title": "DropTidy",
-          "url": "https://www.producthunt.com/products/droptidy",
-          "author": "Tomáš Dračka",
+          "title": "GetThis",
+          "url": "https://www.producthunt.com/products/getthis",
+          "author": "Sawyer Lee",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Remove sensitive photo data, 100% client-side & zero uploadsDiscussion|Link",
-          "published_at": "2026-01-22T20:41:48"
-        },
-        {
-          "title": "Roam FM",
-          "url": "https://www.producthunt.com/products/roam-fm",
-          "author": "Xheldon Cao",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Roam the world by tuning into global radio stationsDiscussion|Link",
-          "published_at": "2026-01-22T16:54:04"
+          "summary": "Generate tasks from voice, text, or screenshots.Discussion|Link",
+          "published_at": "2026-01-23T13:37:46"
         },
         {
           "title": "Qwen3-TTS",
@@ -470,22 +461,13 @@
           "published_at": "2026-01-22T13:49:24"
         },
         {
-          "title": "1Setter",
-          "url": "https://www.producthunt.com/products/1setter",
-          "author": "JosephChi",
+          "title": "PayPing",
+          "url": "https://www.producthunt.com/products/payping",
+          "author": "Muhammad Anas",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "One-click system settings for macOSDiscussion|Link",
-          "published_at": "2026-01-22T14:42:42"
-        },
-        {
-          "title": "World API by World Labs",
-          "url": "https://www.producthunt.com/products/marble-by-world-labs",
-          "author": "Zac Zuo",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Programmable 3D worlds powered by MarbleDiscussion|Link",
-          "published_at": "2026-01-22T12:28:08"
+          "summary": "All your recurring payments in one placeDiscussion|Link",
+          "published_at": "2026-01-22T05:43:44"
         }
       ]
     },
@@ -629,6 +611,15 @@
       "count": 6,
       "items": [
         {
+          "title": "地产人勇闯科技圈：在少数派造物的 180 天",
+          "url": "https://sspai.com/post/105679",
+          "author": "工作很忙中年人",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "你们都说未来属于超级个体，我们三个传统行业的中年人，真的信了……查看全文",
+          "published_at": "2026-01-24T07:00:00"
+        },
+        {
           "title": "本周看什么 | 最近值得一看的 11 部作品",
           "url": "https://sspai.com/post/105709",
           "author": "少数派编辑部",
@@ -672,15 +663,6 @@
           "source": "少数派",
           "summary": "如果我在一座城市只有 8 小时的停留时间，我还会强逼自己把所有想看完的都看过再离开吗？于是断断续续定了一些周末单日往返旅行，开启了对这种旅行模式的探索。查看全文",
           "published_at": "2026-01-22T09:30:07"
-        },
-        {
-          "title": "Mac 视觉史（四）：用动效交互为 Mac OS X 附魔",
-          "url": "https://sspai.com/post/105410",
-          "author": "陈子木",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "它是液态的、半透明的、甚至在初期是极度消耗资源的，没错，它就是 Mac OS X。查看全文",
-          "published_at": "2026-01-22T07:00:00"
         }
       ]
     }
