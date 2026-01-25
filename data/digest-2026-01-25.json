@@ -2,21 +2,21 @@
   "date": "2026-01-25T00:00:00",
   "total_items": 67,
   "sources": [
-    "UX Design CC",
+    "Product Hunt",
+    "A List Apart",
+    "Sidebar",
     "人人都是产品经理",
     "优设网",
-    "A List Apart",
-    "Design Milk",
-    "Awwwards",
     "UX Planet",
-    "CSS-Tricks",
-    "Product Hunt",
-    "Sidebar",
-    "少数派",
+    "UX Design CC",
     "Smashing Magazine",
-    "NN/g (Nielsen Norman Group)"
+    "Awwwards",
+    "CSS-Tricks",
+    "NN/g (Nielsen Norman Group)",
+    "少数派",
+    "Design Milk"
   ],
-  "generated_at": "2026-01-25T02:13:48.279430",
+  "generated_at": "2026-01-25T12:51:25.866302",
   "categories": [
     {
       "category": "用户体验设计",
@@ -260,6 +260,15 @@
           "published_at": "2026-01-22T16:00:23"
         },
         {
+          "title": "MiniMax Agent 初体验",
+          "url": "https://www.woshipm.com/ai/6332177.html",
+          "author": "弗洛伊德",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "MiniMax Agent 桌面端的发布带来了 AI 产品经理工作效率的革命性提升。从精准的意图识别到透明的执行过程，再到结构化输出与本地化存储，这款工具展现了智能代理的全新应用范式。本文将深度解析其核心功能在产品经理日常工作场景中的实际价值与潜在边界。MiniMax Agent 桌面端发布后，我第一时间进行了下载安装。打开应用后，界面的设计让我印象深刻——深色模式、极简布局、中央是核心的对话交互...",
+          "published_at": "2026-01-25T02:44:45"
+        },
+        {
           "title": "AI漫剧：是短剧的“降级替代”，还是内容产业的“降维打击”？",
           "url": "https://www.woshipm.com/ai/6332105.html",
           "author": "AI漫步",
@@ -294,15 +303,6 @@
           "source": "人人都是产品经理",
           "summary": "很多人困惑数据分析报告满是同比环比，该如何讲好故事并引发业务和领导重视？其实数据报告分监控、评估、诊断、建议四类，每类的叙事逻辑和核心方法截然不同，做好报告的关键从不是文采，而是贴合业务的数据分析基础工作。人们总说“做数据分析报告就是讲故事”。可明明处理的数据是一对同比，环比，怎么它就变成故事了？又怎么引起业务和领导的重视？今天一文讲清楚。要注意的是，数据报告分作：监控、评估、诊断、建议四大类，每...",
           "published_at": "2026-01-24T14:44:10"
-        },
-        {
-          "title": "意图识别是决定 AI 产品是智能还是智障的关键",
-          "url": "https://www.woshipm.com/share/6332297.html",
-          "author": "骆齐",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "同样调用顶尖大模型 API，AI 产品体验却天差地别，核心差距从不在模型本身，而在意图识别的深度。本文拆解大厂 AI 产品经理的核心方法论，讲透意图识别的三层架构，剖析关键词匹配的致命问题，给出避坑指南，指出真正的 AI 智能是让机器适配人类，于无形处满足用户显性、隐性甚至潜在的需求。在大模型热潮席卷全球的今天，我们习惯了谈论参数规模、谈论算力、谈论涌现能力。但作为一名长期穿梭在AI产品一线的从业...",
-          "published_at": "2026-01-24T14:36:27"
         }
       ]
     },
@@ -374,6 +374,15 @@
           "published_at": null
         },
         {
+          "title": "Etienne Planeix",
+          "url": "https://www.awwwards.com/sites/etienne-planeix",
+          "author": "Etienne Planeix",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Weekend Max Mara Holiday Edit",
           "url": "https://www.awwwards.com/sites/weekend-max-mara-holiday-edit",
           "author": "MONOGRID",
@@ -435,15 +444,6 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Paper Tiger",
-          "url": "https://www.awwwards.com/sites/paper-tiger",
-          "author": "Paper Tiger",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -452,6 +452,33 @@
       "count": 4,
       "items": [
         {
+          "title": "Thumbfa.st",
+          "url": "https://www.producthunt.com/products/thumbfa-st",
+          "author": "Melvyn",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Midjourney for YouTube Thumbnails—your face, every timeDiscussion|Link",
+          "published_at": "2026-01-24T05:21:48"
+        },
+        {
+          "title": "Pola Browser",
+          "url": "https://www.producthunt.com/products/pola-browser",
+          "author": "Matteo Ricupero",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Productivity, your wayDiscussion|Link",
+          "published_at": "2026-01-24T12:39:41"
+        },
+        {
+          "title": "Liquid Timer v2",
+          "url": "https://www.producthunt.com/products/liquidtimers",
+          "author": "Kev",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "New styles, more customization and optimizes performance.Discussion|Link",
+          "published_at": "2026-01-24T21:29:01"
+        },
+        {
           "title": "GetThis",
           "url": "https://www.producthunt.com/products/getthis",
           "author": "Sawyer Lee",
@@ -459,33 +486,6 @@
           "source": "Product Hunt",
           "summary": "Generate tasks from voice, text, or screenshots.Discussion|Link",
           "published_at": "2026-01-23T13:37:46"
-        },
-        {
-          "title": "Kids Cash Register",
-          "url": "https://www.producthunt.com/products/kids-cash-register",
-          "author": "Nic Hansen",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "A POS system for kids to play pretend restaurant/shopping.Discussion|Link",
-          "published_at": "2026-01-22T08:17:19"
-        },
-        {
-          "title": "AgentEcho",
-          "url": "https://www.producthunt.com/products/agentecho",
-          "author": "Gustavo Ramirez",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Annotate any webpage UI and export feedback as MarkdownDiscussion|Link",
-          "published_at": "2026-01-22T17:26:09"
-        },
-        {
-          "title": "Roam FM",
-          "url": "https://www.producthunt.com/products/roam-fm",
-          "author": "Xheldon Cao",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Roam the world by tuning into global radio stationsDiscussion|Link",
-          "published_at": "2026-01-22T16:54:04"
         }
       ]
     },
@@ -539,8 +539,8 @@
           "published_at": null
         },
         {
-          "title": "为什么12306上东北车次有个雪字标签？",
-          "url": "https://www.uisdc.com/hunter/0221658035.html",
+          "title": "如果导航终点没开门怎么办？腾讯地图用小程序预约终结了尴尬",
+          "url": "https://www.uisdc.com/hunter/0221658162.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -620,6 +620,15 @@
       "count": 6,
       "items": [
         {
+          "title": "从 triple j 到「字母汤」：澳洲音乐电台指北",
+          "url": "https://sspai.com/post/105482",
+          "author": "bakamio",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "人未至，但耳朵可以先过去「溜达溜达」。查看全文",
+          "published_at": "2026-01-25T06:17:04"
+        },
+        {
           "title": "地产人勇闯科技圈：在少数派造物的 180 天",
           "url": "https://sspai.com/post/105679",
           "author": "工作很忙中年人",
@@ -663,15 +672,6 @@
           "source": "少数派",
           "summary": "索尼发布 LinkBuds Clip 开放式耳机、Adobe 将支持把 PDF 转换成播客等。查看全文",
           "published_at": "2026-01-23T00:46:18"
-        },
-        {
-          "title": "尝试了几次周末一日游，我和「害怕看不完」的想法和解了",
-          "url": "https://sspai.com/post/105568",
-          "author": "鸿苓",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "如果我在一座城市只有 8 小时的停留时间，我还会强逼自己把所有想看完的都看过再离开吗？于是断断续续定了一些周末单日往返旅行，开启了对这种旅行模式的探索。查看全文",
-          "published_at": "2026-01-22T09:30:07"
         }
       ]
     }
