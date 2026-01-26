@@ -1,0 +1,633 @@
+{
+  "date": "2026-01-26T00:00:00",
+  "total_items": 62,
+  "sources": [
+    "A List Apart",
+    "优设网",
+    "UX Design CC",
+    "Design Milk",
+    "NN/g (Nielsen Norman Group)",
+    "人人都是产品经理",
+    "Sidebar",
+    "CSS-Tricks",
+    "Product Hunt",
+    "少数派",
+    "UX Planet",
+    "Awwwards"
+  ],
+  "generated_at": "2026-01-26T02:12:23.170198",
+  "categories": [
+    {
+      "category": "用户体验设计",
+      "count": 11,
+      "items": [
+        {
+          "title": "How top companies are using AI in their design workflows",
+          "url": "https://uxdesign.cc/how-top-companies-are-using-ai-in-their-design-workflows-d10ec40fb6af?source=rss----138adf9c44c---4",
+          "author": "Punit Chawla",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Using AI in UX design, Interactions, Motion, & Marketing.Recently top companies have publicly come out to share their processes implemented by senior designers and entire creative teams. Some notable ...",
+          "published_at": "2026-01-23T18:38:10"
+        },
+        {
+          "title": "How I stopped worrying and learned to love the terminal",
+          "url": "https://uxdesign.cc/how-i-stopped-worrying-and-learned-to-love-the-terminal-c8914be0e306?source=rss----138adf9c44c---4",
+          "author": "Pablo Stanley",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "From a designer who started using the CLI instead of traditional design toolsContinue reading on UX Collective »",
+          "published_at": "2026-01-23T12:21:04"
+        },
+        {
+          "title": "Field notes from building a ChatGPT app as a non-technical builder",
+          "url": "https://uxdesign.cc/field-notes-from-building-a-chatgpt-app-as-a-non-technical-builder-2b2b1201b65e?source=rss----138adf9c44c---4",
+          "author": "Flora Ghnassia",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "What it really takes to build a product inside ChatGPT while the ecosystem is still forming (and without an engineering team)Building in a space that doesn’t exist yetA ChatGPT app isn’t an app in the...",
+          "published_at": "2026-01-23T12:20:47"
+        },
+        {
+          "title": "Gemini + NotebookLM = ❤️",
+          "url": "https://uxplanet.org/gemini-notebooklm-%EF%B8%8F-f62c35c47fa5?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Connecting NotebookLM to Gemini to streamline product design processContinue reading on UX Planet »",
+          "published_at": "2026-01-25T20:37:24"
+        },
+        {
+          "title": "Figma + Claude for Design System Tasks",
+          "url": "https://uxplanet.org/figma-claude-for-design-system-tasks-58c00eb82d90?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Design systems break not because designers don’t care but because maintaining consistency at scale is genuinely hard. Tokens drift, naming…Continue reading on UX Planet »",
+          "published_at": "2026-01-24T20:25:57"
+        },
+        {
+          "title": "AI killed your job. Evolve.",
+          "url": "https://uxplanet.org/ai-killed-your-job-evolve-d7b08756b721?source=rss----819cc2aaeee0---4",
+          "author": "Amos Wagon",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Your specialization is becoming a commodity. Prepare for change.The future of roles in technology, from software developers and UX designers to tech writers and security experts, is fundamentally chan...",
+          "published_at": "2026-01-24T18:34:34"
+        },
+        {
+          "title": "From Design to Code: Copiloting the Future of Design Systems",
+          "url": "https://uxplanet.org/from-design-to-code-copiloting-the-future-of-design-systems-769734f2ab48?source=rss----819cc2aaeee0---4",
+          "author": "Jim Chung",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "How AI agents are changing where rigor lives and redefining the role of design system leaders.As a design system leader who has architected and operationalized an enterprise system for a multinational...",
+          "published_at": "2026-01-24T18:34:28"
+        },
+        {
+          "title": "When is it ethical to present AI generated ideas",
+          "url": "https://uxplanet.org/when-is-it-ethical-to-present-ai-generated-ideas-c22c8304cfea?source=rss----819cc2aaeee0---4",
+          "author": "Lisa Demchenko",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Why AI belongs behind the scenes in early UX workContinue reading on UX Planet »",
+          "published_at": "2026-01-24T18:34:24"
+        },
+        {
+          "title": "Why Does Using AI Feel Like Cheating when It’s Actually Like Google Maps?",
+          "url": "https://uxplanet.org/why-does-using-ai-feel-like-cheating-when-its-actually-like-google-maps-9504df6282da?source=rss----819cc2aaeee0---4",
+          "author": "Dylan Seychell",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "AI is giving us an opportunity to rethink decision-making in education, work and beyond.TL;DR: Using AI is like using Google Maps: the technology excels atprediction(analysing data and forecasting rou...",
+          "published_at": "2026-01-24T18:34:17"
+        },
+        {
+          "title": "How UX personas made our AI training data more inclusive",
+          "url": "https://uxplanet.org/how-ux-personas-made-our-ai-training-data-more-inclusive-07a4ef572f0e?source=rss----819cc2aaeee0---4",
+          "author": "Chinwe Uzegbu",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Plus a practical framework you can adapt.Image Credit: Andy Kelly on UnsplashIn my recent AI training role, introducing a single UX persona changed how the entire team wrote queries.My role was straig...",
+          "published_at": "2026-01-24T18:33:41"
+        },
+        {
+          "title": "How to Be the Solo Designer in the Room (and Not Lose Your Mind)",
+          "url": "https://uxplanet.org/how-to-be-the-solo-designer-in-the-room-and-not-lose-your-mind-3cfd62b4c352?source=rss----819cc2aaeee0---4",
+          "author": "A Woman In Design",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "What I learned navigating power dynamics, gender bias, and impossible trade-offs as the only designer in the roomContinue reading on UX Planet »",
+          "published_at": "2026-01-24T18:33:32"
+        }
+      ]
+    },
+    {
+      "category": "用户体验研究",
+      "count": 6,
+      "items": [
+        {
+          "title": "User Panels 101",
+          "url": "https://www.nngroup.com/articles/user-panels-101/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Why So Many Info Tips Are Bad (and How to Make Them Better)",
+          "url": "https://www.nngroup.com/articles/info-tips-bad/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "State of UX 2026: Design Deeper to Differentiate",
+          "url": "https://www.nngroup.com/articles/state-of-ux-2026/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "UX Hiring: Insights from a Design Recruiter",
+          "url": "https://www.nngroup.com/articles/ux-hiring-insights/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Humanizing AI Is a Trap",
+          "url": "https://www.nngroup.com/articles/humanizing-ai/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Why Most Product Teams Aren't Really Empowered",
+          "url": "https://www.nngroup.com/articles/teams-arent-empowered/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        }
+      ]
+    },
+    {
+      "category": "产品设计",
+      "count": 9,
+      "items": [
+        {
+          "title": "These Lamp-Tapestries Are Rooted in Basket-Weaving Traditions in Ghana",
+          "url": "https://design-milk.com/these-lamp-tapestries-are-rooted-in-basket-weaving-traditions-in-ghana/",
+          "author": "Vy Yang",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Drawing from Frafra weaving traditions in northern Ghana, the Gurunsi collection by PET Lamps use woven tapestries to shape light and shadow.",
+          "published_at": "2026-01-23T17:00:07"
+        },
+        {
+          "title": "How Ray Chen Simplified Custom Window Treatments at TWOPAGES",
+          "url": "https://design-milk.com/how-ray-chen-simplified-custom-window-treatments-at-twopages/",
+          "author": "Hayley Arsenault",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Chen frames TWOPAGES as “a human-centric technology company,\" from its tools and workflow through fulfillment.",
+          "published_at": "2026-01-23T16:00:38"
+        },
+        {
+          "title": "LAYER + MAZZU Put the Traditional Camping Mattress to Shame",
+          "url": "https://design-milk.com/layer-mazzu-put-the-traditional-camping-mattress-to-shame/",
+          "author": "Adrian Madlener",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "LAYER and MAZZU launch new sustainable, foam-free mattress ideal for off-grid comfort camping but also for temporary guests staying over.",
+          "published_at": "2026-01-23T15:00:21"
+        },
+        {
+          "title": "F5: Vivian Chiu on Joyce Lin, Sylvie Rosenthal, Meg Callahan + More",
+          "url": "https://design-milk.com/f5-vivian-chiu-on-joyce-lin-sylvie-rosenthal-meg-callahan-more/",
+          "author": "Anna Zappia",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Richmond-based artist Vivian Chiu shares some of her favorite artists, from Yuri Kobayashi to Joyce Lin, and more, in this Friday Five.",
+          "published_at": "2026-01-23T14:00:07"
+        },
+        {
+          "title": "SaaS已死：a16z 拆解 AI Native 时代的三大“新护城河”，产品经理的思维必须重构",
+          "url": "https://www.woshipm.com/ai/6332109.html",
+          "author": "AI漫步",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "当硅谷顶级风投 a16z 喊出“软件正在侵蚀劳动力（Software is Eating Labor）”时，传统的 SaaS 逻辑——卖账号、卖工具、卖效率，正在全线崩塌。在 a16z 最新发布的趋势预测中，AI Native 时代不再关乎“功能叠加”，而是一场关于“价值交付”的彻底重构。作为产品经理，如果你的思维还停留在“怎么设计更好用的 CRM 仪表盘”，那么你可能正在被时代抛弃。一、 范式转...",
+          "published_at": "2026-01-26T01:49:40"
+        },
+        {
+          "title": "敏感数据不是雷区，是你的产品护城河",
+          "url": "https://www.woshipm.com/share/6332128.html",
+          "author": "AI产品星",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "在数据驱动的产品时代，合规与信任已成为产品设计的核心命题。本文深度剖析产品经理如何跳出传统思维，将数据合规转化为信任资产，从透明化设计、可控性交互到克制化策略，提供一套可落地的实战框架。如果你正困于法务要求、用户体验与业务增长的三角博弈，这篇系统性解决方案将为你打开新思路。很多产品经理在做数据相关需求时，都会下意识把“合规”当成一道不得不跨过去的坎。它意味着更多评审、更复杂的流程、更重的交互，也常...",
+          "published_at": "2026-01-26T00:48:38"
+        },
+        {
+          "title": "2026年小红书7个经营趋势",
+          "url": "https://www.woshipm.com/share/6332534.html",
+          "author": "江河聊营销",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "2026 年小红书运营的经营成本逐步走高，单点运营的红利也彻底消退，行业正式迈入精细化、系统化的竞争新阶段。结合今年服务客户的实战经验，我总结出 7 大核心运营趋势，从流量构建、内容创作到全渠道落地，全方位为商家明晰布局方向，实现小红书的高效经营。2026年在小红书如何运营？会不会经营成本越来越高？我们应该如何布局？结合今年服务客户经验，我总结大概有这7个趋势。趋势一：单点运营优势逐步失效过去我们...",
+          "published_at": "2026-01-25T14:35:17"
+        },
+        {
+          "title": "IPD流程落地：为什么要采用产品线模式？",
+          "url": "https://www.woshipm.com/share/6332533.html",
+          "author": "产品人卫朋",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "产品线是 IPD 的核心基础概念，企业导入 IPD 前需先理清自身的产品管理模式。本文以中华美食集团为具象示例，对比拆解产品部、事业部、产品线三种管理模式的运作逻辑与问题，解析其对应企业不同发展阶段，讲透产品线模式的核心价值，让 IPD 导入更具指向性。在IPD中，产品线是一个基础概念。包括战略规划、市场管理、产品规划，很多也都是围绕产品线展开的。所以当你决定是否全面引入IPD流程时，首先要想一下...",
+          "published_at": "2026-01-25T14:32:26"
+        },
+        {
+          "title": "2026，AI才是真革命",
+          "url": "https://www.woshipm.com/ai/6332531.html",
+          "author": "王智远",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "AI 狂奔三年后正式迈入审计元年，行业核心转向算账看 ROI 与实际交付力，C 端流量火热却陷付费难题，B 端重实效却遇 AI 生产力悖论，新物种更因旧模式束缚、成本倒挂难产，而中美落地差异的核心是中国未还清数字化旧债。AI猛冲三年，今年总算走进了它的「审计元年」。审ROI、核交付能力；看看热闹的日活背后，到底能掏出多少真金白银；说实话，今年聊 AI，绕来绕去核心就一个字：钱。这就是一场全网级的「...",
+          "published_at": "2026-01-25T14:25:12"
+        }
+      ]
+    },
+    {
+      "category": "网页设计",
+      "count": 14,
+      "items": [
+        {
+          "title": "Design for Amiability: Lessons from Vienna",
+          "url": "https://alistapart.com/article/design-for-amiability-lessons-from-vienna/",
+          "author": "by Mark Bernstein",
+          "category": "网页设计",
+          "source": "A List Apart",
+          "summary": "Today’s web is not always an amiable place. Sites greet you with a popover that demands assent to their cookie policy, and leave you with Taboola ads promising “One Weird Trick!” to cure your ailments...",
+          "published_at": null
+        },
+        {
+          "title": "Design Dialects: Breaking the Rules, Not the System",
+          "url": "https://alistapart.com/article/design-dialects-breaking-the-rules-not-the-system/",
+          "author": "by Michel Ferreira",
+          "category": "网页设计",
+          "source": "A List Apart",
+          "summary": "\"Language is not merely a set of unrelated sounds, clauses, rules, and meanings; it is a totally coherent system bound to context and behavior.\"— Kenneth L. PikeThe web has accents. So should our desi...",
+          "published_at": null
+        },
+        {
+          "title": "An Holistic Framework for Shared Design Leadership",
+          "url": "https://alistapart.com/article/an-holistic-framework-for-shared-design-leadership/",
+          "author": "by Michel Ferreira",
+          "category": "网页设计",
+          "source": "A List Apart",
+          "summary": "Picture this: You’re in a meeting room at your tech company, and two people are having what looks like the same conversation about the same design problem. One is talking about whether the team has th...",
+          "published_at": null
+        },
+        {
+          "title": "From Beta to Bedrock: Build Products that Stick.",
+          "url": "https://alistapart.com/article/from-beta-to-bedrock-build-products-that-stick/",
+          "author": "by Liam Nugent",
+          "category": "网页设计",
+          "source": "A List Apart",
+          "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
+          "published_at": null
+        },
+        {
+          "title": "User Research Is Storytelling",
+          "url": "https://alistapart.com/article/user-research-is-storytelling/",
+          "author": "by Gerry Duffy",
+          "category": "网页设计",
+          "source": "A List Apart",
+          "summary": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things t...",
+          "published_at": null
+        },
+        {
+          "title": "To Ignite a Personalization Practice, Run this Prepersonalization Workshop",
+          "url": "https://alistapart.com/article/prepersonalization-workshop/",
+          "author": "by Colin Eagan, Jeffrey MacIntyre",
+          "category": "网页设计",
+          "source": "A List Apart",
+          "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
+          "published_at": null
+        },
+        {
+          "title": "Etienne Planeix",
+          "url": "https://www.awwwards.com/sites/etienne-planeix",
+          "author": "Etienne Planeix",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Weekend Max Mara Holiday Edit",
+          "url": "https://www.awwwards.com/sites/weekend-max-mara-holiday-edit",
+          "author": "MONOGRID",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Naked City Films",
+          "url": "https://www.awwwards.com/sites/naked-city-films",
+          "author": "SavoirFaire©",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "IRONHILL",
+          "url": "https://www.awwwards.com/sites/ironhill",
+          "author": "Uncommon",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Bruno's Portfolio",
+          "url": "https://www.awwwards.com/sites/brunos-portfolio",
+          "author": "Bruno Simon",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Jesko Jets",
+          "url": "https://www.awwwards.com/sites/jesko-jets",
+          "author": "The First The Last",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Shopify Live Globe 2025",
+          "url": "https://www.awwwards.com/sites/shopify-live-globe-2025",
+          "author": "Shopify Design",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Midlife Engineering",
+          "url": "https://www.awwwards.com/sites/midlife-engineering",
+          "author": "Lee Black",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        }
+      ]
+    },
+    {
+      "category": "产品发现",
+      "count": 4,
+      "items": [
+        {
+          "title": "Liquid Timer v2",
+          "url": "https://www.producthunt.com/products/liquidtimers",
+          "author": "Kev",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "New styles, more customization and optimizes performance.Discussion|Link",
+          "published_at": "2026-01-24T21:29:01"
+        },
+        {
+          "title": "Pola Browser",
+          "url": "https://www.producthunt.com/products/pola-browser",
+          "author": "Matteo Ricupero",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Productivity, your wayDiscussion|Link",
+          "published_at": "2026-01-24T12:39:41"
+        },
+        {
+          "title": "Thumbfa.st",
+          "url": "https://www.producthunt.com/products/thumbfa-st",
+          "author": "Melvyn",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Midjourney for YouTube Thumbnails—your face, every timeDiscussion|Link",
+          "published_at": "2026-01-24T05:21:48"
+        },
+        {
+          "title": "GetThis",
+          "url": "https://www.producthunt.com/products/getthis",
+          "author": "Sawyer Lee",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Generate tasks from voice, text, or screenshots.Discussion|Link",
+          "published_at": "2026-01-23T13:37:46"
+        }
+      ]
+    },
+    {
+      "category": "设计教程",
+      "count": 6,
+      "items": [
+        {
+          "title": "我们花了两天时间，终于造出了能自我进化的Skills管理器",
+          "url": "https://www.uisdc.com/skills-5",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "第二波！2026年1月精选实用设计干货合集",
+          "url": "https://www.uisdc.com/2026-1-design-resources-vol2",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "AI时代的设计师何去何从？一个设计师失败的创业复盘 (三)",
+          "url": "https://www.uisdc.com/the-designers-awakening-3",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "一文带你上手 Skills！教你构建可复用的 AI 能力体系",
+          "url": "https://www.uisdc.com/skills-ai",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "美团联合创始人王慧文：为什么产品经理要成为 π 型人才？",
+          "url": "https://www.uisdc.com/pm-4",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "九毛九透明菜单火了，UI设计竟然成了化解预制菜危机的公关利器",
+          "url": "https://www.uisdc.com/hunter/0221658168.html",
+          "author": "龙爪槐守望者",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        }
+      ]
+    },
+    {
+      "category": "设计资讯",
+      "count": 4,
+      "items": [
+        {
+          "title": "A social filesystem",
+          "url": "https://overreacted.io/a-social-filesystem/",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "Formats over apps.",
+          "published_at": "2026-01-23T12:31:28"
+        },
+        {
+          "title": "Web safe 2k16",
+          "url": "https://websafe2k16.com/",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "A literary/graphic project exploring our memories of the pre-broadband Internet and related technologies.",
+          "published_at": "2026-01-23T12:29:39"
+        },
+        {
+          "title": "Building a toast component",
+          "url": "https://emilkowal.ski/ui/building-a-toast-component",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "How I built Sonner, an opinionated toast library for React used by milions.",
+          "published_at": "2026-01-23T12:28:46"
+        },
+        {
+          "title": "Junior developers in the Age of AI",
+          "url": "https://thoughtfuleng.substack.com/p/junior-developers-in-the-age-of-ai",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "Companies are ditching junior engineers en masse. They’ll tell you it’s because AI writes better code. They’re right...but also missing the point.",
+          "published_at": "2026-01-23T12:27:57"
+        }
+      ]
+    },
+    {
+      "category": "前端设计",
+      "count": 2,
+      "items": [
+        {
+          "title": "Responsive Hexagon Grid Using Modern CSS",
+          "url": "https://css-tricks.com/responsive-hexagon-grid-using-modern-css/",
+          "author": "Temani Afif",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "A while back, Temani tacked a repeating grid of hexagon shapes. Well, he's updated it with modern CSS features that result in fewer magic numbers. And it's impressive!Responsive Hexagon Grid Using Mod...",
+          "published_at": "2026-01-23T14:39:56"
+        },
+        {
+          "title": "Open Props @custom-media Recipes",
+          "url": "https://css-tricks.com/open-props-custom-media-recipes/",
+          "author": "Geoff Graham",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "The@custom-mediaat-rule has landed in Firefox Nightly! I couldn’t find it in therelease notesbutAdam Argyle’s on the beatnoting that it’s behind a flag for now.Look forlayout.css.custom-media.enabledI...",
+          "published_at": "2026-01-23T13:00:00"
+        }
+      ]
+    },
+    {
+      "category": "数字生活",
+      "count": 6,
+      "items": [
+        {
+          "title": "派早报：高铁客服和专家回应「高铁二氧化碳超标」",
+          "url": "https://sspai.com/post/105741",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "高铁客服和专家回应「高铁二氧化碳超标」因不堪 AI 骚扰，cURL 将终止漏洞赏金计划联通推出「果粉」卡套餐微软证实向 FBI 移交 BitLocker 加密密钥Meta 裁员引发「VR 寒冬」担忧初代宝可梦成为流行 AI 测试方法看看就行的小道消息少数派的近期动态你可能错过的好文章查看全文",
+          "published_at": "2026-01-26T00:57:40"
+        },
+        {
+          "title": "从 triple j 到「字母汤」：澳洲音乐电台指北",
+          "url": "https://sspai.com/post/105482",
+          "author": "bakamio",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "人未至，但耳朵可以先过去「溜达溜达」。查看全文",
+          "published_at": "2026-01-25T06:17:04"
+        },
+        {
+          "title": "地产人勇闯科技圈：在少数派造物的 180 天",
+          "url": "https://sspai.com/post/105679",
+          "author": "工作很忙中年人",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "你们都说未来属于超级个体，我们三个传统行业的中年人，真的信了……查看全文",
+          "published_at": "2026-01-24T07:00:00"
+        },
+        {
+          "title": "本周看什么 | 最近值得一看的 11 部作品",
+          "url": "https://sspai.com/post/105709",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "📅本周新预告《花绿青绽放的黎明》正式预告1月22日，动画电影《花绿青绽放的黎明》发布了正式预告，将于3月6日在日本上映。四宫义俊执导、编剧，AsmikAce、StudioOutrigger、MiyuP ...查看全文",
+          "published_at": "2026-01-23T09:50:59"
+        },
+        {
+          "title": "吃真实的食物：聊聊最新的美国膳食指南（2025-2030 年版）",
+          "url": "https://sspai.com/post/105475",
+          "author": "叁思Santh",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "吃得健康从来都不是一件轻松的事。查看全文",
+          "published_at": "2026-01-23T07:00:00"
+        },
+        {
+          "title": "一日一技 | 老 Mac 系统恢复指北",
+          "url": "https://sspai.com/post/105578",
+          "author": "SamWanng",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "不能用 Wi-Fi 和 U 盘恢复系统的 Mac，你还能试试这个重装方法。查看全文",
+          "published_at": "2026-01-23T03:30:01"
+        }
+      ]
+    }
+  ]
+}
