@@ -1,21 +1,21 @@
 {
   "date": "2026-01-26T00:00:00",
-  "total_items": 62,
+  "total_items": 61,
   "sources": [
-    "A List Apart",
     "优设网",
-    "UX Design CC",
-    "Design Milk",
-    "NN/g (Nielsen Norman Group)",
-    "人人都是产品经理",
-    "Sidebar",
-    "CSS-Tricks",
-    "Product Hunt",
-    "少数派",
     "UX Planet",
-    "Awwwards"
+    "UX Design CC",
+    "A List Apart",
+    "Awwwards",
+    "NN/g (Nielsen Norman Group)",
+    "Sidebar",
+    "少数派",
+    "人人都是产品经理",
+    "Design Milk",
+    "CSS-Tricks",
+    "Product Hunt"
   ],
-  "generated_at": "2026-01-26T02:12:23.170198",
+  "generated_at": "2026-01-26T04:45:48.905833",
   "categories": [
     {
       "category": "用户体验设计",
@@ -223,49 +223,49 @@
           "published_at": "2026-01-23T14:00:07"
         },
         {
-          "title": "SaaS已死：a16z 拆解 AI Native 时代的三大“新护城河”，产品经理的思维必须重构",
-          "url": "https://www.woshipm.com/ai/6332109.html",
-          "author": "AI漫步",
+          "title": "当确定性消失：AI产品经理如何应对“从Flow到Context”的范式转移？",
+          "url": "https://www.woshipm.com/ai/6332495.html",
+          "author": "余量思考",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当硅谷顶级风投 a16z 喊出“软件正在侵蚀劳动力（Software is Eating Labor）”时，传统的 SaaS 逻辑——卖账号、卖工具、卖效率，正在全线崩塌。在 a16z 最新发布的趋势预测中，AI Native 时代不再关乎“功能叠加”，而是一场关于“价值交付”的彻底重构。作为产品经理，如果你的思维还停留在“怎么设计更好用的 CRM 仪表盘”，那么你可能正在被时代抛弃。一、 范式转...",
-          "published_at": "2026-01-26T01:49:40"
+          "summary": "妙鸭相机的火爆曾让张月光站上巅峰，但他却在风口浪尖转身离去。这位前阿里产品经理创立的沐言智语迅速成为AI赛道新贵，但他直言妙鸭并非真正的AI原生产品。本文深度剖析从互联网时代的流程设计到AI原生时代的上下文设计这一范式革命，揭示单向门法则如何成为检验AI产品的黄金标准，以及产品经理核心竞争力正在发生的根本性转移。2023年，妙鸭相机的火焰照亮了整个中国AI界，但它的创造者张月光却在最炙手可热的时刻...",
+          "published_at": "2026-01-26T03:44:51"
         },
         {
-          "title": "敏感数据不是雷区，是你的产品护城河",
-          "url": "https://www.woshipm.com/share/6332128.html",
-          "author": "AI产品星",
+          "title": "别再用 DAU 骗自己了：AI 原生产品的 5 个核心数据指标",
+          "url": "https://www.woshipm.com/data-analysis/6332713.html",
+          "author": "图灵共振",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在数据驱动的产品时代，合规与信任已成为产品设计的核心命题。本文深度剖析产品经理如何跳出传统思维，将数据合规转化为信任资产，从透明化设计、可控性交互到克制化策略，提供一套可落地的实战框架。如果你正困于法务要求、用户体验与业务增长的三角博弈，这篇系统性解决方案将为你打开新思路。很多产品经理在做数据相关需求时，都会下意识把“合规”当成一道不得不跨过去的坎。它意味着更多评审、更复杂的流程、更重的交互，也常...",
-          "published_at": "2026-01-26T00:48:38"
+          "summary": "DAU不再适用于衡量AI产品的成功，这篇文章揭示了5个关键指标——从Token价值转化率(LTV-T)到提示词摩擦效率(PFE)，帮助你真正评估AI产品是否在创造价值而非浪费算力。通过真实案例和数据分析，作者分享了如何量化用户惊喜时刻、降低产品不友好度、提升任务闭环触发率的实操方法论。前言：为什么 DAU 在 AI 时代失效了？最近和几个做AI产品的朋友聊天，发现大家还在用移动互联网那套指标看数据...",
+          "published_at": "2026-01-26T03:39:09"
         },
         {
-          "title": "2026年小红书7个经营趋势",
-          "url": "https://www.woshipm.com/share/6332534.html",
-          "author": "江河聊营销",
+          "title": "从数据到模型：AI产品的技术链路拆解（数据-特征-模型-部署-迭代）",
+          "url": "https://www.woshipm.com/ai/6319769.html",
+          "author": "why",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "2026 年小红书运营的经营成本逐步走高，单点运营的红利也彻底消退，行业正式迈入精细化、系统化的竞争新阶段。结合今年服务客户的实战经验，我总结出 7 大核心运营趋势，从流量构建、内容创作到全渠道落地，全方位为商家明晰布局方向，实现小红书的高效经营。2026年在小红书如何运营？会不会经营成本越来越高？我们应该如何布局？结合今年服务客户经验，我总结大概有这7个趋势。趋势一：单点运营优势逐步失效过去我们...",
-          "published_at": "2026-01-25T14:35:17"
+          "summary": "AI产品的成败往往取决于技术链路的每个环节如何精密配合。从数据采集到模型部署，再到持续迭代，这条‘生命线’上的任何疏漏都可能导致产品失效。本文深度拆解AI产品落地的五大核心环节，揭秘产品经理如何跨越技术鸿沟，在数据合规、特征工程与模型调优等关键节点发挥决策价值。在上一篇文章中，我们厘清了机器学习、深度学习与大模型的底层逻辑，建立了AI技术的基础认知。而对于AI产品经理来说，仅懂技术概念不够，更要掌...",
+          "published_at": "2026-01-26T03:29:19"
         },
         {
-          "title": "IPD流程落地：为什么要采用产品线模式？",
-          "url": "https://www.woshipm.com/share/6332533.html",
-          "author": "产品人卫朋",
+          "title": "数据分析方法：阶段选择与知识重构",
+          "url": "https://www.woshipm.com/data-analysis/6332543.html",
+          "author": "KK的慢变量",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "产品线是 IPD 的核心基础概念，企业导入 IPD 前需先理清自身的产品管理模式。本文以中华美食集团为具象示例，对比拆解产品部、事业部、产品线三种管理模式的运作逻辑与问题，解析其对应企业不同发展阶段，讲透产品线模式的核心价值，让 IPD 导入更具指向性。在IPD中，产品线是一个基础概念。包括战略规划、市场管理、产品规划，很多也都是围绕产品线展开的。所以当你决定是否全面引入IPD流程时，首先要想一下...",
-          "published_at": "2026-01-25T14:32:26"
+          "summary": "数据分析不再是工具技能的比拼，而是思维方式的革命。从16世纪伦敦瘟疫时期的统计学萌芽，到AI时代的智能决策系统，数据分析始终在挑战人类认知的边界。本文将揭示一套贯穿历史、业务与技术的数据分析思维框架，帮助你在信息洪流中精准锚定问题本质，用结构化思维撬动商业决策的价值杠杆。在信息爆炸的时代，数据分析已从一个专业岗位演变为一种通用能力。然而，许多人掌握了Excel、SQL、Python等工具，面对实际...",
+          "published_at": "2026-01-26T03:21:07"
         },
         {
-          "title": "2026，AI才是真革命",
-          "url": "https://www.woshipm.com/ai/6332531.html",
-          "author": "王智远",
+          "title": "从管理岗位的经典面试题破解思维模式",
+          "url": "https://www.woshipm.com/share/6332467.html",
+          "author": "给我磨墨",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI 狂奔三年后正式迈入审计元年，行业核心转向算账看 ROI 与实际交付力，C 端流量火热却陷付费难题，B 端重实效却遇 AI 生产力悖论，新物种更因旧模式束缚、成本倒挂难产，而中美落地差异的核心是中国未还清数字化旧债。AI猛冲三年，今年总算走进了它的「审计元年」。审ROI、核交付能力；看看热闹的日活背后，到底能掏出多少真金白银；说实话，今年聊 AI，绕来绕去核心就一个字：钱。这就是一场全网级的「...",
-          "published_at": "2026-01-25T14:25:12"
+          "summary": "思维的维度决定了解决问题的层次。从零维的点状专注，到一维的战略路径，再到二维的全局视角，直至三维的颠覆式创新与四维的时间洞察，每一种思维方式都能带来不同的突破。本文通过生动案例与思维实验，揭示了如何在不同维度下重构问题解法，助你在职场与人生中实现认知跃迁。多种思维方式什么是零维思维？所谓“零维”，其实就是一个点。这个点可以是你掌握的一项技能，也可以是你想要达成的一个具体目标。这种思维方式，就是典型...",
+          "published_at": "2026-01-26T03:10:06"
         }
       ]
     },
@@ -403,16 +403,16 @@
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 3,
       "items": [
         {
-          "title": "Liquid Timer v2",
-          "url": "https://www.producthunt.com/products/liquidtimers",
-          "author": "Kev",
+          "title": "Thumbfa.st",
+          "url": "https://www.producthunt.com/products/thumbfa-st",
+          "author": "Melvyn",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "New styles, more customization and optimizes performance.Discussion|Link",
-          "published_at": "2026-01-24T21:29:01"
+          "summary": "Midjourney for YouTube Thumbnails—your face, every timeDiscussion|Link",
+          "published_at": "2026-01-24T05:21:48"
         },
         {
           "title": "Pola Browser",
@@ -424,22 +424,13 @@
           "published_at": "2026-01-24T12:39:41"
         },
         {
-          "title": "Thumbfa.st",
-          "url": "https://www.producthunt.com/products/thumbfa-st",
-          "author": "Melvyn",
+          "title": "Liquid Timer v2",
+          "url": "https://www.producthunt.com/products/liquidtimers",
+          "author": "Kev",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Midjourney for YouTube Thumbnails—your face, every timeDiscussion|Link",
-          "published_at": "2026-01-24T05:21:48"
-        },
-        {
-          "title": "GetThis",
-          "url": "https://www.producthunt.com/products/getthis",
-          "author": "Sawyer Lee",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Generate tasks from voice, text, or screenshots.Discussion|Link",
-          "published_at": "2026-01-23T13:37:46"
+          "summary": "New styles, more customization and optimizes performance.Discussion|Link",
+          "published_at": "2026-01-24T21:29:01"
         }
       ]
     },
@@ -574,6 +565,15 @@
       "count": 6,
       "items": [
         {
+          "title": "NAS 自部署 TrendRadar：搭建基于 AI 的热点情报站",
+          "url": "https://sspai.com/post/105506",
+          "author": "噩梦飘雷",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "像 TrendRadar 这类应用，或许才是许多公司和工作室采购 NAS 的原因之一。NAS 并非只能在家用环境中保存照片、挂挂 PT，更是能通过持久稳定工作，帮助用户圈出一块清醒的自留地，把实现各种功能的主动权重新握在自己手里。查看全文",
+          "published_at": "2026-01-26T03:36:45"
+        },
+        {
           "title": "派早报：高铁客服和专家回应「高铁二氧化碳超标」",
           "url": "https://sspai.com/post/105741",
           "author": "少数派编辑部",
@@ -617,15 +617,6 @@
           "source": "少数派",
           "summary": "吃得健康从来都不是一件轻松的事。查看全文",
           "published_at": "2026-01-23T07:00:00"
-        },
-        {
-          "title": "一日一技 | 老 Mac 系统恢复指北",
-          "url": "https://sspai.com/post/105578",
-          "author": "SamWanng",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "不能用 Wi-Fi 和 U 盘恢复系统的 Mac，你还能试试这个重装方法。查看全文",
-          "published_at": "2026-01-23T03:30:01"
         }
       ]
     }
