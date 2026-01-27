@@ -1,26 +1,46 @@
 {
   "date": "2026-01-27T00:00:00",
-  "total_items": 56,
+  "total_items": 67,
   "sources": [
-    "少数派",
     "UX Design CC",
-    "NN/g (Nielsen Norman Group)",
-    "UX Planet",
-    "人人都是产品经理",
-    "Intercom Blog",
-    "Design Milk",
     "CSS-Tricks",
-    "优设网",
-    "A List Apart",
+    "Smashing Magazine",
     "Product Hunt",
-    "Sidebar"
+    "Awwwards",
+    "A List Apart",
+    "少数派",
+    "Sidebar",
+    "优设网",
+    "人人都是产品经理",
+    "NN/g (Nielsen Norman Group)",
+    "Design Milk",
+    "Intercom Blog",
+    "UX Planet"
   ],
-  "generated_at": "2026-01-27T08:35:26.085833",
+  "generated_at": "2026-01-27T12:59:40.708131",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 12,
+      "count": 14,
       "items": [
+        {
+          "title": "Stop Burying Your Impact: Why Most UX Storytelling Advice Falls Flat",
+          "url": "https://uxdesign.cc/stop-burying-your-impact-why-most-ux-storytelling-advice-falls-flat-0ff864039b0b?source=rss----138adf9c44c---4",
+          "author": "Kai Wong",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Fiction story frameworks aren’t effective for telling a UX storyContinue reading on UX Collective »",
+          "published_at": "2026-01-27T12:27:26"
+        },
+        {
+          "title": "Spatial vibe coding: prototyping immersive reality with AI",
+          "url": "https://uxdesign.cc/spatial-vibe-coding-prototyping-immersive-reality-with-ai-c2b99fd4cd84?source=rss----138adf9c44c---4",
+          "author": "Albertmauri",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Vibe coding is the buzzword of the moment, and for good reason , AI tools have given product designers a massive new superpower. They have turned us all into “makers.”In this article, I’ll show how I ...",
+          "published_at": "2026-01-27T12:25:32"
+        },
         {
           "title": "AI won’t (re)generate your focus",
           "url": "https://uxdesign.cc/ai-wont-re-generate-your-focus-6a3453b057d7?source=rss----138adf9c44c---4",
@@ -56,6 +76,15 @@
           "source": "UX Design CC",
           "summary": "In 2026, I’m predicting that designing for intent, Machine Experience (MX) design, designing better prompts, and AI generated Design…Continue reading on UX Collective »",
           "published_at": "2026-01-26T10:28:29"
+        },
+        {
+          "title": "Nano Banana Pro for Graphic Designer",
+          "url": "https://uxplanet.org/nano-banana-pro-for-graphic-designer-1e2d864a48ca?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "10 Practical Use CasesContinue reading on UX Planet »",
+          "published_at": "2026-01-27T12:12:21"
         },
         {
           "title": "NotebookLM: 5 Tips & Tricks to Maximize Efficiency",
@@ -119,15 +148,6 @@
           "source": "UX Planet",
           "summary": "AI is giving us an opportunity to rethink decision-making in education, work and beyond.TL;DR: Using AI is like using Google Maps: the technology excels atprediction(analysing data and forecasting rou...",
           "published_at": "2026-01-24T18:34:17"
-        },
-        {
-          "title": "How UX personas made our AI training data more inclusive",
-          "url": "https://uxplanet.org/how-ux-personas-made-our-ai-training-data-more-inclusive-07a4ef572f0e?source=rss----819cc2aaeee0---4",
-          "author": "Chinwe Uzegbu",
-          "category": "用户体验设计",
-          "source": "UX Planet",
-          "summary": "Plus a practical framework you can adapt.Image Credit: Andy Kelly on UnsplashIn my recent AI training role, introducing a single UX persona changed how the entire team wrote queries.My role was straig...",
-          "published_at": "2026-01-24T18:33:41"
         }
       ]
     },
@@ -232,8 +252,17 @@
           "published_at": "2026-01-26T22:33:21"
         },
         {
+          "title": "数字智能是否会取代生物智能？——辛顿最新演讲的沉痛叩问末日警示，作为AI产品经理的思考",
+          "url": "https://www.woshipm.com/ai/6333520.html",
+          "author": "小嘉带你聊模型",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "AI教父杰弗里·辛顿的最新演讲再次敲响警钟：数字智能正在以惊人的速度进化，它们不仅掌握了勒索、伪装等高阶博弈能力，更展现出远超人类的进化效率。从AI模型为自保而勒索人类，到军用AI在战场上的杀戮决策，辛顿用一系列震撼案例揭示了数字智能取代生物智能的真实风险。这位奠基人呼吁全球协作开发“母性AI”，否则人类或将面临10%-20%的灭绝概率。78岁的杰弗里·辛顿，这位手握图灵奖与诺贝尔奖的“AI教父”...",
+          "published_at": "2026-01-27T09:05:24"
+        },
+        {
           "title": "ClawdBot爆火，首家零员工公司诞生",
-          "url": "https://www.woshipm.com/share/6333951.html",
+          "url": "https://www.woshipm.com/ai/6333951.html",
           "author": "产品海豚湾",
           "category": "产品设计",
           "source": "人人都是产品经理",
@@ -241,7 +270,7 @@
           "published_at": "2026-01-27T07:51:21"
         },
         {
-          "title": "老板说”分析一下竞品的Deep Research”，我交出了这份报告",
+          "title": "老板说“分析一下竞品的Deep Research”，我交出了这份报告",
           "url": "https://www.woshipm.com/ai/6333818.html",
           "author": "青蓝色的海",
           "category": "产品设计",
@@ -266,22 +295,22 @@
           "source": "人人都是产品经理",
           "summary": "AI硬件的落地远比想象中复杂。从云端算力的私有化部署革命，到边缘推理如何通过NPU芯片实现毫秒级响应，再到终端AI的角色定位，本文将用最直白的语言拆解26年硬件元年的底层逻辑。通过三个关键维度的深度剖析，带你穿透技术迷雾看清AI硬件落地的真实路径。今天终于开始去挖掘一直想研究的AI硬件，心血来潮让Gemini生成了一份《AI硬件行业报告》然后第一个标题就研究了将近40分钟，还没算内容……应该很多人...",
           "published_at": "2026-01-27T07:01:09"
-        },
-        {
-          "title": "2025年终总结：一个产品总监在智慧水利与农业深水区的2025“生存实录”",
-          "url": "https://www.woshipm.com/ai/6333839.html",
-          "author": "噜噜猫",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "2025年，ToG业务的空气里少了一些“PPT的清香”，多了一些“验收的焦灼”。大家都说ToG难，难在需求像雾、项目像山。作为一名带队5人、在58个项目评估和10多个系统里摸爬滚打了一整年的产品总监，我决定撕开那些高大上的名词，聊聊我们在智慧水利与农业深水区里，是怎么跟“伪需求”掐架，又怎么跟“真业务”死磕的。一、角色错位：总监不是“大产品经理”，是“全能翻译官”很多人觉得产品总监就是定定方向、批...",
-          "published_at": "2026-01-27T06:58:29"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 6,
+      "count": 15,
       "items": [
+        {
+          "title": "Unstacking CSS Stacking Contexts",
+          "url": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
+          "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly ...",
+          "published_at": "2026-01-27T10:00:00"
+        },
         {
           "title": "Design for Amiability: Lessons from Vienna",
           "url": "https://alistapart.com/article/design-for-amiability-lessons-from-vienna/",
@@ -335,6 +364,78 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
+        },
+        {
+          "title": "OCCUPY",
+          "url": "https://www.awwwards.com/sites/occupy",
+          "author": "Una Huang",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Bécane Paris",
+          "url": "https://www.awwwards.com/sites/becane-paris",
+          "author": "Period • Paris",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Etienne Planeix",
+          "url": "https://www.awwwards.com/sites/etienne-planeix",
+          "author": "Etienne Planeix",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Weekend Max Mara Holiday Edit",
+          "url": "https://www.awwwards.com/sites/weekend-max-mara-holiday-edit",
+          "author": "MONOGRID",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Naked City Films",
+          "url": "https://www.awwwards.com/sites/naked-city-films",
+          "author": "SavoirFaire©",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "IRONHILL",
+          "url": "https://www.awwwards.com/sites/ironhill",
+          "author": "Uncommon",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Bruno's Portfolio",
+          "url": "https://www.awwwards.com/sites/brunos-portfolio",
+          "author": "Bruno Simon",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Jesko Jets",
+          "url": "https://www.awwwards.com/sites/jesko-jets",
+          "author": "The First The Last",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
@@ -342,33 +443,6 @@
       "category": "产品发现",
       "count": 5,
       "items": [
-        {
-          "title": "AcceptMyApp",
-          "url": "https://www.producthunt.com/products/acceptmyapp",
-          "author": "Alexandre Grisey",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Spot iOS app issues before App Store reviewDiscussion|Link",
-          "published_at": "2026-01-26T10:29:54"
-        },
-        {
-          "title": "Delos Mail",
-          "url": "https://www.producthunt.com/products/delos",
-          "author": "Godelieve Cougoureux",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Delos AI drafts your replies and organizes your emailsDiscussion|Link",
-          "published_at": "2026-01-26T14:43:30"
-        },
-        {
-          "title": "Scout Out",
-          "url": "https://www.producthunt.com/products/scout-out-2",
-          "author": "Nolan Rossi",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "AI generated proposals for residential construction projectsDiscussion|Link",
-          "published_at": "2026-01-26T21:24:02"
-        },
         {
           "title": "The Password App",
           "url": "https://www.producthunt.com/products/the-password-app",
@@ -379,13 +453,40 @@
           "published_at": "2026-01-24T08:10:36"
         },
         {
-          "title": "Outtalent",
-          "url": "https://www.producthunt.com/products/outtalent",
-          "author": "Eldar",
+          "title": "Jotform AI Chatbot for Canva",
+          "url": "https://www.producthunt.com/products/jotform",
+          "author": "Aytekin",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Get more interviews. Get better offers.Discussion|Link",
-          "published_at": "2026-01-25T06:12:50"
+          "summary": "Bring Canva designs to life with an embedded AI chatbotDiscussion|Link",
+          "published_at": "2026-01-26T10:26:27"
+        },
+        {
+          "title": "Clawdbot",
+          "url": "https://www.producthunt.com/products/clawdbot-2",
+          "author": "Cruise Chen",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The AI that actually does thingsDiscussion|Link",
+          "published_at": "2026-01-26T13:53:14"
+        },
+        {
+          "title": "Analog Reader",
+          "url": "https://www.producthunt.com/products/analog-reader",
+          "author": "Lucas Schiavini",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "turn your favorite newsletters into a printable newspaperDiscussion|Link",
+          "published_at": "2026-01-25T15:33:46"
+        },
+        {
+          "title": "Timeless",
+          "url": "https://www.producthunt.com/products/timeos",
+          "author": "Tommy Barav",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The first action-taker, NOT a note-takerDiscussion|Link",
+          "published_at": "2026-01-26T08:08:51"
         }
       ]
     },
@@ -454,49 +555,49 @@
       "count": 5,
       "items": [
         {
-          "title": "From prompt to several wireframe variations <10 seconds",
-          "url": "https://bit.ly/side-uxp1",
+          "title": "CTA hierarchy in the wild",
+          "url": "https://blog.jim-nielsen.com/2026/cta-hierarchy/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "UX Pilot AI speeds your design process by turning text or sketches into UX/UI. Sync with Figma, upload guidelines, and start 100% for free.",
-          "published_at": "2026-01-26T12:25:00"
+          "summary": "Writing about the big beautiful mess that is making things for the world wide web.",
+          "published_at": "2026-01-27T12:36:40"
         },
         {
-          "title": "Privacy is a value we can lose",
-          "url": "https://blog.avas.space/privacy-values/",
+          "title": "Bugs Apple loves",
+          "url": "https://www.bugsappleloves.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "We’re taking data protection and privacy rights for granted.",
-          "published_at": "2026-01-26T12:24:10"
+          "summary": "Bugs Apple won’t fix. Why else would they keep them around for so long? We did the math.",
+          "published_at": "2026-01-27T12:36:04"
         },
         {
-          "title": "The persistence of decay",
-          "url": "https://www.youtube.com/watch?v=Yqz3h6RF_7I",
+          "title": "Stroke: animate SVGs",
+          "url": "https://stroke.abhii.space/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A funeral for a lighthouse, a sermon in fungus, our vanishing digital media, and the arrow of time.",
-          "published_at": "2026-01-26T12:23:43"
+          "summary": "Create hand-drawn SVG animations for logos, signatures, and illustrations.",
+          "published_at": "2026-01-27T12:35:40"
         },
         {
-          "title": "Visualrambling.space",
-          "url": "https://visualrambling.space/",
+          "title": "Building the brain of your accessibility AI",
+          "url": "https://www.last-child.com/build-ai-brain-a11y.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Just a place to ramble visually.",
-          "published_at": "2026-01-26T12:23:07"
+          "summary": "How accessibility leaders can build trusted, scalable AI assistants by curating the right standards, documentation, and institutional knowledge.",
+          "published_at": "2026-01-27T12:35:06"
         },
         {
-          "title": "The context collapse problem",
-          "url": "https://codegood.co/writing/context-collapse-problem",
+          "title": "Death to scroll fade",
+          "url": "https://dbushell.com/2026/01/09/death-to-scroll-fade/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "AI coding tools amplify whatever they can access. In codebases where institutional knowledge lives in engineers’ heads only, AI amplifies nothing.",
-          "published_at": "2026-01-26T12:22:34"
+          "summary": "Fade what? Everything! Make everything fade into view! It’s too static, you know? Make it pop!",
+          "published_at": "2026-01-27T12:34:25"
         }
       ]
     },
@@ -519,6 +620,15 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "社区速递 127 | 派友的 12 月剁手清单、8 年不换电池的温湿度计",
+          "url": "https://sspai.com/post/105807",
+          "author": "Matrix机器人",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。🖊️季度创作 ...查看全文",
+          "published_at": "2026-01-27T08:48:20"
+        },
         {
           "title": "软件工程师的 AI Coding 进化论",
           "url": "https://sspai.com/post/105584",
@@ -563,15 +673,6 @@
           "source": "少数派",
           "summary": "在 WWDC25 的主题演讲上，Apple 提到 iPadOS 26（同时适用于 iOS 26）提供了一个新的后台 API。这个 API 旨在为计算密集型任务提供后台能力，调用时会显示一个实时活动（Live Activity），让用户了解并完全控制当前运行的内容。而到了 iOS 26.1，新的「相册后台备份」API 还允许第三方应用在后台上传照片等资源文件。由此观察，iOS 的后台机制，似乎已经相...",
           "published_at": "2026-01-26T07:46:07"
-        },
-        {
-          "title": "Kindle Paperwhite 3 杂谈：为什么它是我高中生涯最值的电子产品？",
-          "url": "https://sspai.com/post/105685",
-          "author": "Haoo_7",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "对于高中生来说，在还不能够完全掌握自己的生活之前，KPW3也许是他第一次尝试用科技手段解决传统问题的美好体验。查看全文",
-          "published_at": "2026-01-26T07:24:45"
         }
       ]
     }
