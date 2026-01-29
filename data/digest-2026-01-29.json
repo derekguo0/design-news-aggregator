@@ -2,22 +2,22 @@
   "date": "2026-01-29T00:00:00",
   "total_items": 71,
   "sources": [
-    "优设网",
-    "CSS-Tricks",
     "UX Planet",
-    "少数派",
+    "人人都是产品经理",
     "Design Milk",
+    "CSS-Tricks",
     "Awwwards",
-    "Product Hunt",
-    "UX Design CC",
     "Smashing Magazine",
-    "NN/g (Nielsen Norman Group)",
+    "少数派",
     "A List Apart",
+    "优设网",
     "Sidebar",
+    "UX Design CC",
+    "NN/g (Nielsen Norman Group)",
     "Intercom Blog",
-    "人人都是产品经理"
+    "Product Hunt"
   ],
-  "generated_at": "2026-01-29T02:27:01.585964",
+  "generated_at": "2026-01-29T06:26:14.088574",
   "categories": [
     {
       "category": "用户体验设计",
@@ -279,31 +279,31 @@
           "published_at": "2026-01-26T22:33:21"
         },
         {
-          "title": "AI产品经理必读，DeepSeek最新论文：当AI学会不思考，一个改变游戏规则的发现",
-          "url": "https://www.woshipm.com/ai/6335175.html",
-          "author": "Blues",
+          "title": "喂饭级教程！用阿里云三步完成Clawdbot部署",
+          "url": "https://www.woshipm.com/ai/6335288.html",
+          "author": "沃垠AI",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "DeepSeek的最新研究揭示了AI架构设计的重大突破：通过引入条件记忆模块，让AI学会区分需要深度思考的复杂问题和可直接检索的固定知识。这项技术不仅将事实查询响应速度提升至近乎瞬时，更意外地释放了模型的推理潜力——记忆模块接管基础模式识别后，注意力机制能专注全局理解，使长文本处理和多步骤推理能力获得质的飞跃。本文从产品视角深入解析这一架构革新如何重构AI系统的效率边界。上周，有一位做AI客服的朋...",
-          "published_at": "2026-01-29T02:07:09"
+          "summary": "Clawdbot（现名Moltbot）作为开源AI助手正在重新定义人机协作模式。这款在GitHub上狂揽80K星标的工具支持本地部署，能够通过钉钉、QQ等平台实现7×24小时自动化任务处理。本文以阿里云为例，详细拆解从服务器租用、模型配置到钉钉集成的完整部署流程，帮助产品经理快速掌握这一革命性AI代理的落地方法。这几天，Clawdbot实在太火爆了，已经在Github上狂飙80K Star。过去三...",
+          "published_at": "2026-01-29T03:59:01"
         },
         {
-          "title": "新发布的Kimi K2.5是AI界的“老实人”？——实测后我的4点思考",
-          "url": "https://www.woshipm.com/share/6335174.html",
-          "author": "卫夕",
+          "title": "按下‘紧急’暂停键：四象限分析法的批判、进化与重塑",
+          "url": "https://www.woshipm.com/share/6335127.html",
+          "author": "云端写信",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Kimi K2.5的发布标志着AI模型从技术炫技转向实用主义的重要转折。这款原生多模态模型在视觉理解、代码生成与Agent集群协作上展现出的工程化能力，正在重新定义生产力工具的边界。本文通过国际象棋解析、家具安装指导、演唱会歌手识别等实测案例，深入剖析Kimi K2.5如何用‘老实人’式的可靠表现解决实际场景中的复杂问题。前几天，Kimi的朋友神秘兮兮地说：卫老师，我们准备发最新的Kimi K2....",
-          "published_at": "2026-01-29T02:01:16"
+          "summary": "四象限法曾是产品经理的时间管理神器，却在互联网行业的动态战场中频频失效。为何紧急需求总能绑架优质时间？为何同象限内的决策依然陷入权力博弈？本文深度剖析经典工具的三大陷阱，并提出一套融合经济理性、用户价值和实现杠杆的'价值标尺'体系，教你从救火队员蜕变为战略指挥官。不知道你是不是也这样，每天早上眼睛一睁，还没到公司，手机上的各种提示音就开始轮番轰炸。运营的同学发来一个“紧急”需求，说有个活动明天就要...",
+          "published_at": "2026-01-29T02:34:35"
         },
         {
-          "title": "面试必问！为啥面试官非要你有产品思维？",
-          "url": "https://www.woshipm.com/share/6334763.html",
-          "author": "阿龙是产品经理",
+          "title": "Agent Skill到底是什么“奇技淫巧”？令大厂趋之若鹜",
+          "url": "https://www.woshipm.com/ai/6335067.html",
+          "author": "刘三同志",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "产品经理的核心竞争力究竟在哪里？资深面试官揭秘评估产品思维的三大黄金标准：目标思维决定战略高度，策略思维检验执行深度，场景思维验证用户价值。本文将拆解那些让90%候选人折戟的致命问题，以及顶尖产品人如何用结构化思维征服面试官。我面过上百个产品经理，其实最核心的就是考察他们的产品思维，一个没有产品思维的产品经理我是肯定不会要的。那什么是产品思维呢？就是保证你的产品方案有理有据的思维过程与决策方式。我...",
-          "published_at": "2026-01-29T01:52:31"
+          "summary": "AI工具的使用远非简单提示词就能搞定，频繁的重复指令与低效的上下文管理已成为用户痛点。Agent Skill的出现彻底改变了这一局面——它将复杂的规则、文档与工具打包成AI的\"肌肉记忆\"，让用户从\"调教者\"变身为\"管理者\"。本文深度剖析Agent Skill的工作原理，揭示它如何通过渐进式披露机制解决Token浪费、知识幻觉等核心问题，并解读大厂布局背后的生态野心。当我每次用AI写代码、做设计、写...",
+          "published_at": "2026-01-29T02:33:55"
         }
       ]
     },
@@ -375,6 +375,15 @@
           "published_at": null
         },
         {
+          "title": "FOLLOW.ART",
+          "url": "https://www.awwwards.com/sites/follow-art",
+          "author": "Vide Infra",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Sleep Well Creative",
           "url": "https://www.awwwards.com/sites/sleep-well-creative",
           "author": "Victor Work",
@@ -436,15 +445,6 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Bruno's Portfolio",
-          "url": "https://www.awwwards.com/sites/brunos-portfolio",
-          "author": "Bruno Simon",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -453,22 +453,22 @@
       "count": 6,
       "items": [
         {
-          "title": "NetNewsWire 7",
-          "url": "https://www.producthunt.com/products/netnewswire-7",
-          "author": "Chris Messina",
+          "title": "DunSocial",
+          "url": "https://www.producthunt.com/products/dunsocial",
+          "author": "Ritheesh BS",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Free and open source RSS reader for Mac, iPhone, and iPadDiscussion|Link",
-          "published_at": "2026-01-28T05:55:25"
+          "summary": "Social post writer that learns your tone + schedules for youDiscussion|Link",
+          "published_at": "2026-01-28T06:22:50"
         },
         {
-          "title": "DevLensPro",
-          "url": "https://www.producthunt.com/products/devlenspro",
-          "author": "Gareth - Agentik OS",
+          "title": "Komo Playbook",
+          "url": "https://www.producthunt.com/products/komo-search",
+          "author": "Angela Wu",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI-powered debugging for Claude Code. Point, click, fixDiscussion|Link",
-          "published_at": "2026-01-27T09:55:38"
+          "summary": "Turn your expertise into AI agents that work 24/7Discussion|Link",
+          "published_at": "2026-01-26T22:35:21"
         },
         {
           "title": "CleanRoll AI",
@@ -489,22 +489,22 @@
           "published_at": "2026-01-27T08:23:17"
         },
         {
-          "title": "DunSocial",
-          "url": "https://www.producthunt.com/products/dunsocial",
-          "author": "Ritheesh BS",
+          "title": "dumppp",
+          "url": "https://www.producthunt.com/products/dumppp",
+          "author": "Masatoshi Koeda",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Social post writer that learns your tone + schedules for youDiscussion|Link",
-          "published_at": "2026-01-28T06:22:50"
+          "summary": ".5s capture app that sends your notes straight into NotionDiscussion|Link",
+          "published_at": "2026-01-28T07:26:46"
         },
         {
-          "title": "Komo Playbook",
-          "url": "https://www.producthunt.com/products/komo-search",
-          "author": "Angela Wu",
+          "title": "What’s in that direction?",
+          "url": "https://www.producthunt.com/products/what-s-in-that-direction",
+          "author": "Lena Berding",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn your expertise into AI agents that work 24/7Discussion|Link",
-          "published_at": "2026-01-26T22:35:21"
+          "summary": "A compass that shows landmarks, sunrise/sunset + golden hourDiscussion|Link",
+          "published_at": "2026-01-27T09:54:08"
         }
       ]
     },
@@ -657,6 +657,15 @@
       "count": 6,
       "items": [
         {
+          "title": "你的隐私你做主，所有人都应该知道的 9 个 iPhone 隐私保护技巧",
+          "url": "https://sspai.com/post/99910",
+          "author": "Tp",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "这篇文章整理了一些能够让你更好地保护 iPhone 数据和隐私安全的技巧，希望能对你有所帮助。查看全文",
+          "published_at": "2026-01-29T03:31:39"
+        },
+        {
           "title": "派早报：Apple Creator Studio 正式上线、Kimi K2.5 模型发布等",
           "url": "https://sspai.com/post/105850",
           "author": "少数派编辑部",
@@ -700,15 +709,6 @@
           "source": "少数派",
           "summary": "更多直播专属礼遇，1 月 29 日（周四）晚 19 点 30 分欢迎前来直播间选购。查看全文",
           "published_at": "2026-01-28T03:30:00"
-        },
-        {
-          "title": "派早报：森海塞尔发布两款 USB-C 有线耳机等",
-          "url": "https://sspai.com/post/105830",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Sonos 发布多通道功率放大器 Amp Multi、Bigme 大我发布 B10 彩墨屏办公本等。查看全文",
-          "published_at": "2026-01-28T00:17:04"
         }
       ]
     }
