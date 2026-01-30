@@ -1,28 +1,37 @@
 {
   "date": "2026-01-30T00:00:00",
-  "total_items": 64,
+  "total_items": 70,
   "sources": [
-    "NN/g (Nielsen Norman Group)",
-    "Intercom Blog",
-    "少数派",
-    "Sidebar",
-    "Awwwards",
-    "A List Apart",
-    "人人都是产品经理",
-    "Design Milk",
-    "UX Planet",
     "Smashing Magazine",
-    "Product Hunt",
-    "优设网",
+    "Sidebar",
+    "少数派",
+    "人人都是产品经理",
+    "Awwwards",
+    "Intercom Blog",
+    "Design Milk",
+    "UX Design CC",
     "CSS-Tricks",
-    "UX Design CC"
+    "优设网",
+    "A List Apart",
+    "UX Planet",
+    "Product Hunt",
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2026-01-30T06:56:33.247286",
+  "generated_at": "2026-01-30T13:04:28.201991",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 10,
+      "count": 11,
       "items": [
+        {
+          "title": "Thinking clearly while everything speeds up",
+          "url": "https://uxdesign.cc/thinking-clearly-while-everything-speeds-up-af5399ac0f7f?source=rss----138adf9c44c---4",
+          "author": "Maria Taneva",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "It’s a crazy time to be alive, let alone be a UX designer.Continue reading on UX Collective »",
+          "published_at": "2026-01-30T12:13:32"
+        },
         {
           "title": "Beyond the waterfall state: why missions need a different decision-making architecture",
           "url": "https://uxdesign.cc/beyond-the-waterfall-state-why-missions-need-a-different-decision-making-architecture-d81fadb93106?source=rss----138adf9c44c---4",
@@ -243,49 +252,49 @@
           "published_at": "2026-01-28T18:04:01"
         },
         {
-          "title": "Clawdbot/Moltbot风波启示录：AI产品经理的“进阶”必修课",
-          "url": "https://www.woshipm.com/ai/6335856.html",
-          "author": "panda",
+          "title": "拒绝假大空，几句话讲清楚skills",
+          "url": "https://www.woshipm.com/ai/6333945.html",
+          "author": "viktor",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Clawdbot的开源项目一夜爆红，却在短短几天内遭遇品牌危机、安全漏洞与金融投机的三重打击。这场从技术狂欢到信任崩塌的戏剧性转折，揭示了Agent时代产品经理必须直面的品牌管理、安全设计与生态治理难题。本文将深度剖析这场风波背后的产品管理教训，为即将到来的AI助理时代提供关键警示。2026年的开年，科技圈像是被投入了一颗深水炸弹，而引爆它的，是一只小龙虾。一个名为Clawdbot的开源项目，几乎...",
-          "published_at": "2026-01-30T06:46:19"
+          "summary": "AI时代技能焦虑正在席卷每个从业者——今天苦练的绝活明天可能就被模型迭代淘汰。本文犀利指出技能投资的黄金法则：与其死磕注定贬值的『体力型』技能，不如打造能随AI进化增值的『逻辑型』Skills资产。作者深度拆解高保值Skills的四大底层架构，教你成为定义规则的『AI架构师』而非可替代的『人肉执行者』。最近Skills获得一塌糊涂，但是很多小伙伴都有一个共同疑问。那就是：「这玩意儿值不值学？模型迭...",
+          "published_at": "2026-01-30T10:15:52"
         },
         {
-          "title": "Claude Cowork 产品深度分析：从“助手”到“同事”，AI Agent 如何重塑办公协作新范式？",
-          "url": "https://www.woshipm.com/ai/6335767.html",
-          "author": "于小鱼",
+          "title": "供应链金融（卖家视角）：核心企业的角色、权责与利益全景解析",
+          "url": "https://www.woshipm.com/ai/6336037.html",
+          "author": "EVE的星球",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Claude Cowork 的出现正在颠覆传统AI助手的边界，让它从被动应答转向主动执行复杂任务。这款由Anthropic推出的创新产品，通过赋予AI本地文件系统的读写权限与自主规划能力，使其真正成为能并肩作战的“数字同事”。本文将深入解析这款产品如何重构办公协作范式，并探讨AI Agent赛道未来的竞争格局与可能性。一、引言：当 AI 不再满足于“对话”，而是开始“动手”近年来，以大语言模型（L...",
-          "published_at": "2026-01-30T06:37:09"
+          "summary": "供应链金融的核心企业，尤其是兼具卖家身份时，凭借信用穿透、交易中枢和风险兜底三重角色，成为破解中小企业融资难的关键。本文从B端产品实操视角，深入剖析核心企业的核心角色、义务与风险，为从业者提供落地参考与设计思路。作为资深B端供应链金融产品经理，在多年实操中深刻体会到：供应链金融的核心是“信用穿透”，而核心企业（尤其当核心企业同时承担卖家角色时），正是这份信用的“发源地”，也是串联资方、下游中小企业...",
+          "published_at": "2026-01-30T10:06:57"
         },
         {
-          "title": "用 Agent Skills 重构你的职业竞争力",
-          "url": "https://www.woshipm.com/ai/6335503.html",
-          "author": "兔主任发现",
+          "title": "Moltbot 部署教程并接入飞书",
+          "url": "https://www.woshipm.com/ai/6335977.html",
+          "author": "LucianaiB",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI时代的产品定义正在被彻底重构——Agent Skills（智能体技能）将成为下一代产品的核心竞争壁垒。从GUI设计到API调用，从功能堆砌到能力抽象，AI产品经理的工作范式正经历革命性转变。本文深度拆解技能化转型的底层逻辑，揭示如何将传统业务编译为AI可执行的原子能力，以及产品架构师在这场变革中必须掌握的三种新能力。在AI圈子里摸爬滚打的这一年，尤其是从一名和像素死磕的资深设计师，转型为在逻辑...",
-          "published_at": "2026-01-30T06:30:35"
+          "summary": "Moltbot的爆火绝非偶然，它突破了传统AI助手只能动口不能动手的局限，直接赋予AI操作系统级权限，让它能像真人一样执行复杂任务。从整理文件到撰写文章，这款拥有超级权限的Agent正在重新定义数字助理的边界。本文将深入剖析其工作原理、潜在风险，并提供详细的Windows部署与飞书集成指南，带你一窥AI执行力的未来。今天我们不聊虚的，聊点“危险”又迷人的东西。为什么Moltbot爆火？先说说为什么...",
+          "published_at": "2026-01-30T10:03:44"
         },
         {
-          "title": "会员数突破3亿！吊打传统会员玩法！华住这招“积分货币化”太狠了",
-          "url": "https://www.woshipm.com/share/6335803.html",
-          "author": "晏涛三寿",
+          "title": "账务核心的核算、架构、产品",
+          "url": "https://www.woshipm.com/pd/6336019.html",
+          "author": "刚哥",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "华住集团正在重新定义会员积分的价值。通过与金融巨头的战略合作，华住将积分转化为可在多场景流通的'生活货币'，实现从酒店消费到城市生活的无缝衔接。这一创新玩法不仅打破了行业壁垒，更为企业提供了用户资产货币化的全新思路。本文深度解析华住会员体系的进化路径，揭示积分经济背后的商业逻辑。在 2025 华住伙伴大会上，华住集团创始人季琦说了一句话：再给 20 年，不做第一我们都不好意思。乍一听，这像是一句狂...",
-          "published_at": "2026-01-30T05:56:17"
+          "summary": "账务核心作为支付系统的基石，融合了会计核算、高性能架构与产品设计三大维度。本文从核算原理切入，深入解析资金与账簿分离、实时与缓冲记账机制，并拆解收款、退款、付款等典型交易的账务核算流程。通过领域模型与业务架构图例，展现账务科目设置、分户账映射、期末总账核算等核心设计，为支付产品与研发人员提供一套完整的账务系统实践框架。账务核心可以说是支付系统的皇冠，因为你既要懂会计核算，又要懂技术、还要实现高性能...",
+          "published_at": "2026-01-30T07:50:41"
         },
         {
-          "title": "AI时代，财务产品经理的核心是判断力与业务能力",
-          "url": "https://www.woshipm.com/share/6335795.html",
-          "author": "业财老曾",
+          "title": "DeepSeek+时刻来了：Hilight让营销视频告别“抽奖式”生成",
+          "url": "https://www.woshipm.com/ai/6335928.html",
+          "author": "Aine",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI正重塑财务领域的价值链条，财务产品经理的角色也从功能设计转向核心决策。本文深入剖析AI时代下财务产品经理必须具备的两大不可替代能力：对业财逻辑的解耦能力和在AI边界与真实需求间的精准判断力，揭示如何通过战略视野成为企业数智化转型的关键推手。在AI与数智化浪潮的驱动下，AI已能自动完成记账、出表、核销，财务职能正经历从“价值守护”向“价值创造”的颠覆性变革，财务产品经理的核心价值早已脱离“工具功...",
-          "published_at": "2026-01-30T05:55:16"
+          "summary": "Hilight AI通过多智能体架构与慢思考机制，重新定义了AI营销视频的生产范式。该系统以跨帧一致性为核心突破点，构建了从商品理解、素材处理到多镜头协同的完整工业化流程。本文深度解析其如何通过知识图谱、N宫格输入、数字人强约束等创新技术，实现电商营销视频从'可用'到'商用'的质变。营销视频生成：一个价值极高，却长期缺少好用产品的 AI 赛道如果回看近几年 AI 的演进路径，我们会发现一条正在逐渐...",
+          "published_at": "2026-01-30T07:13:43"
         }
       ]
     },
@@ -432,34 +441,70 @@
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 7,
       "items": [
         {
-          "title": "LiquidFetch",
-          "url": "https://www.producthunt.com/products/liquidfetch",
-          "author": "Marcin Krzywonos",
+          "title": "Lost Post",
+          "url": "https://www.producthunt.com/products/lost-post-worldwide-question-of-the-day",
+          "author": "Aaron Heth",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Beautiful visual system fetch for macOSDiscussion|Link",
-          "published_at": "2026-01-28T11:21:57"
+          "summary": "The whole world is asked and answers a single questionDiscussion|Link",
+          "published_at": "2026-01-27T15:54:14"
         },
         {
-          "title": "Willow on Windows",
-          "url": "https://www.producthunt.com/products/willow-voice",
+          "title": "Emra / Always on Transcription and PTT",
+          "url": "https://www.producthunt.com/products/emra",
+          "author": "Jarren Rocks",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Type with your voice and always-on transcriptionDiscussion|Link",
+          "published_at": "2026-01-30T07:57:24"
+        },
+        {
+          "title": "Superagent from Airtable",
+          "url": "https://www.producthunt.com/products/superagent-from-airtable",
+          "author": "Chris Messina",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The multi-agent system that delivers finished workDiscussion|Link",
+          "published_at": "2026-01-29T17:09:37"
+        },
+        {
+          "title": "Cntrl Bridge",
+          "url": "https://www.producthunt.com/products/cntrl-bridge",
+          "author": "azaek",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Turn your Windows/macOS computer into a scriptable serverDiscussion|Link",
+          "published_at": "2026-01-29T18:57:25"
+        },
+        {
+          "title": "Geekflare API",
+          "url": "https://www.producthunt.com/products/geekflare-api",
+          "author": "Chandan Kumar",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Scrape, Screenshot, and extract LLM-ready dataDiscussion|Link",
+          "published_at": "2026-01-29T20:00:28"
+        },
+        {
+          "title": "Kokori",
+          "url": "https://www.producthunt.com/products/kokori",
+          "author": "Jack Callow",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Transform text to speech with a powerful macOS appDiscussion|Link",
+          "published_at": "2026-01-29T14:33:23"
+        },
+        {
+          "title": "Webhound Reports",
+          "url": "https://www.producthunt.com/products/webhound",
           "author": "Garry Tan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Write anywhere on your computer. By voice.Discussion|Link",
-          "published_at": "2026-01-28T00:02:34"
-        },
-        {
-          "title": "The Prompting Company",
-          "url": "https://www.producthunt.com/products/the-prompting-company",
-          "author": "Garry Tan",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "SEO is dead. Be the product cited by ChatGPT.Discussion|Link",
-          "published_at": "2026-01-29T06:26:47"
+          "summary": "Deep research that scales with your budgetDiscussion|Link",
+          "published_at": "2026-01-28T00:19:06"
         }
       ]
     },
@@ -525,43 +570,52 @@
     },
     {
       "category": "设计资讯",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Sometimes your job is to stay the hell out of the way",
-          "url": "https://randsinrepose.com/archives/sometimes-your-job-is-to-stay-the-hell-out-of-the-way/",
+          "title": "The word “Computer” meant human (at some point)",
+          "url": "https://iterativewonders.com/2026/01/27/the-word-computer-meant-human-at-some-point/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A take on the mythical 10x engineer, except that they aren’t a myth.",
-          "published_at": "2026-01-29T12:48:39"
+          "summary": "Originally named after the person it was meant to replace.",
+          "published_at": "2026-01-30T12:20:40"
         },
         {
-          "title": "The hidden history of women game designers",
-          "url": "https://daily.jstor.org/the-hidden-history-of-women-game-designers/",
+          "title": "Artvee",
+          "url": "https://artvee.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Nineteenth-century women turned music lessons into interactive entertainment, complete with spinning wheels and ivory counters.",
-          "published_at": "2026-01-29T12:47:34"
+          "summary": "Discover the best in Classical & Modern Art. Browse and download high-resolution, public domain Paintings, Drawings, Illustrations and Posters.",
+          "published_at": "2026-01-30T12:19:14"
         },
         {
-          "title": "Rage Check",
-          "url": "https://www.ragecheck.com/",
+          "title": "Ease Master",
+          "url": "https://easemaster.satisui.xyz/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Analyze articles and social posts for manipulative language patterns, fear-mongering, and engagement bait.",
-          "published_at": "2026-01-29T12:47:03"
+          "summary": "Generate production-ready code for CSS, Tailwind, Framer Motion, and GSAP. Visualize Bezier curves and Spring physics side-by-side.",
+          "published_at": "2026-01-30T12:17:41"
         },
         {
-          "title": "How an accessibility designer adds keyboard shortcuts to a web app",
-          "url": "https://ericwbailey.website/published/how-an-accessibility-designer-adds-keyboard-shortcuts-to-a-web-app/",
+          "title": "Accessibility for Everyone",
+          "url": "https://accessibilityforeveryone.site/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Keyboard shortcuts occupy a strange area for web design.",
-          "published_at": "2026-01-29T12:46:31"
+          "summary": "Read the book online for free.",
+          "published_at": "2026-01-30T12:16:39"
+        },
+        {
+          "title": "A deep dive into ASCII rendering",
+          "url": "https://alexharri.com/blog/ascii-rendering",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "A look at how I used shape vectors to achieve sharp, high-quality ASCII rendering.",
+          "published_at": "2026-01-30T12:16:13"
         }
       ]
     },
@@ -594,6 +648,33 @@
       "count": 6,
       "items": [
         {
+          "title": "别只练力量和心肺，人生下半场拼的是肌肉爆发力",
+          "url": "https://sspai.com/prime/story/a-guide-to-muscle-explosive-power",
+          "author": "举铁的马里奥",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "今天这篇文章，就来聊聊，肌肉爆发力究竟是什么？它为何对长寿如此重要？以及普通人该如何科学训练爆发力？查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "published_at": "2026-01-30T10:16:30"
+        },
+        {
+          "title": "本周看什么 | 最近值得一看的 8 部作品",
+          "url": "https://sspai.com/post/105907",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "📅本周新预告《攻壳机动队THEGHOSTINTHESHELL》首支预告1月30日，TV动画《攻壳机动队THEGHOSTINTHESHELL》发布了首支预告，定档7月开始播出。木村翔马执导，圆城塔编剧， ...查看全文",
+          "published_at": "2026-01-30T10:04:47"
+        },
+        {
+          "title": "停更但好用的 DriveDroid：把 Android 手机变成 USB 启动盘",
+          "url": "https://sspai.com/post/104564",
+          "author": "so1ar",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "编注：本文为少数派12月主题征稿活动中「可惜！那些好用但停更了的App」主题入选投稿之一，我们将在日后开展更多不同领域和话题的征稿活动，敬请留意。前言作为一个将ArchLinux作为主力系统使用多年的 ...查看全文",
+          "published_at": "2026-01-30T07:00:00"
+        },
+        {
           "title": "你真的是记性不好吗？关于记忆和遗忘的常见误区",
           "url": "https://sspai.com/post/105677",
           "author": "知道分子吴先先",
@@ -619,33 +700,6 @@
           "source": "少数派",
           "summary": "很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有商务内 ...查看全文",
           "published_at": "2026-01-29T09:07:26"
-        },
-        {
-          "title": "左手 Tana，右手 Heptabase：为什么我两个都要？",
-          "url": "https://sspai.com/post/105622",
-          "author": "5key",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "知识管理的终点并不是建立一个完美的系统，而是让自己成为一个更清晰的思考者。工具只是起点，思考才是终点。查看全文",
-          "published_at": "2026-01-29T06:13:25"
-        },
-        {
-          "title": "你的隐私你做主，所有人都应该知道的 9 个 iPhone 隐私保护技巧",
-          "url": "https://sspai.com/post/99910",
-          "author": "Tp",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "这篇文章整理了一些能够让你更好地保护 iPhone 数据和隐私安全的技巧，希望能对你有所帮助。查看全文",
-          "published_at": "2026-01-29T03:31:39"
-        },
-        {
-          "title": "派早报：Apple Creator Studio 正式上线、Kimi K2.5 模型发布等",
-          "url": "https://sspai.com/post/105850",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "英伟达正式推出 RTX Remix Logic、英特尔 XeSS 3 多帧生成功能正式推送等。查看全文",
-          "published_at": "2026-01-29T00:49:05"
         }
       ]
     }
