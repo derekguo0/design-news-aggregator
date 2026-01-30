@@ -1,23 +1,23 @@
 {
   "date": "2026-01-30T00:00:00",
-  "total_items": 63,
+  "total_items": 64,
   "sources": [
-    "Smashing Magazine",
-    "优设网",
-    "Awwwards",
+    "NN/g (Nielsen Norman Group)",
     "Intercom Blog",
-    "A List Apart",
-    "CSS-Tricks",
-    "Product Hunt",
     "少数派",
-    "UX Design CC",
-    "人人都是产品经理",
     "Sidebar",
+    "Awwwards",
+    "A List Apart",
+    "人人都是产品经理",
     "Design Milk",
     "UX Planet",
-    "NN/g (Nielsen Norman Group)"
+    "Smashing Magazine",
+    "Product Hunt",
+    "优设网",
+    "CSS-Tricks",
+    "UX Design CC"
   ],
-  "generated_at": "2026-01-30T02:26:37.519960",
+  "generated_at": "2026-01-30T06:56:33.247286",
   "categories": [
     {
       "category": "用户体验设计",
@@ -243,49 +243,49 @@
           "published_at": "2026-01-28T18:04:01"
         },
         {
-          "title": "跨境支付入门（五）：一文理解信用卡授权、预授权、增量授权与 Capture",
-          "url": "https://www.woshipm.com/share/6335408.html",
-          "author": "Amour",
+          "title": "Clawdbot/Moltbot风波启示录：AI产品经理的“进阶”必修课",
+          "url": "https://www.woshipm.com/ai/6335856.html",
+          "author": "panda",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "支付系统的核心逻辑藏在Authorization与Capture的设计细节中。本文深度解析信用卡交易的两种处理模型，从0元授权到增量授权，从拒付保护期到多次Capture的实现，带你穿透Visa/Mastercard规则迷雾，掌握支付系统设计的底层逻辑。在做收单系统、支付网关或风控，经常会遇到这些问题：0 元授权和预授权是什么？为什么 Capture 之后不能再发增量授权？Mastercard 为...",
-          "published_at": "2026-01-30T01:26:13"
+          "summary": "Clawdbot的开源项目一夜爆红，却在短短几天内遭遇品牌危机、安全漏洞与金融投机的三重打击。这场从技术狂欢到信任崩塌的戏剧性转折，揭示了Agent时代产品经理必须直面的品牌管理、安全设计与生态治理难题。本文将深度剖析这场风波背后的产品管理教训，为即将到来的AI助理时代提供关键警示。2026年的开年，科技圈像是被投入了一颗深水炸弹，而引爆它的，是一只小龙虾。一个名为Clawdbot的开源项目，几乎...",
+          "published_at": "2026-01-30T06:46:19"
         },
         {
-          "title": "病历质检优化实践",
-          "url": "https://www.woshipm.com/share/6333480.html",
-          "author": "里奥",
+          "title": "Claude Cowork 产品深度分析：从“助手”到“同事”，AI Agent 如何重塑办公协作新范式？",
+          "url": "https://www.woshipm.com/ai/6335767.html",
+          "author": "于小鱼",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "医疗AI系统的架构迭代正经历从野蛮生长到精细设计的转变。本文以口腔诊疗场景为例，深度拆解如何通过中间件路由、RAG规则解耦和思维链编排三大技术方案，将原本臃肿的百节点系统重构为灵活高效的智能引擎，实现从'病种爆炸'到'零代码维护'的跨越式升级。一、早期架构回顾在项目初期，为了快速验证业务逻辑，产品同学采用了基于条件分支的“硬编码”模式。1.1 早期架构图1.2 早期架构的痛点1.节点爆炸：每新增一...",
-          "published_at": "2026-01-30T01:25:04"
+          "summary": "Claude Cowork 的出现正在颠覆传统AI助手的边界，让它从被动应答转向主动执行复杂任务。这款由Anthropic推出的创新产品，通过赋予AI本地文件系统的读写权限与自主规划能力，使其真正成为能并肩作战的“数字同事”。本文将深入解析这款产品如何重构办公协作范式，并探讨AI Agent赛道未来的竞争格局与可能性。一、引言：当 AI 不再满足于“对话”，而是开始“动手”近年来，以大语言模型（L...",
+          "published_at": "2026-01-30T06:37:09"
         },
         {
-          "title": "BA 生存指南：如何快速了解新项目？",
-          "url": "https://www.woshipm.com/share/6335387.html",
-          "author": "七姑娘",
+          "title": "用 Agent Skills 重构你的职业竞争力",
+          "url": "https://www.woshipm.com/ai/6335503.html",
+          "author": "兔主任发现",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "BA（业务分析师）的角色在项目中至关重要，但初次面对新项目时的‘认知断层’往往让人手足无措。本文通过一套从宏观到微观的三步认知方法，教你如何快速建立行业知识、剖析客户画像、锚定项目目标，从‘门外汉’迅速转变为‘内行’，在短时间内掌握新项目的核心要素。前一天，我被通知要加入一个新项目。第二天，就被直接拉到客户现场出差。我们安排了一场项目启动会，讨论这次合作的目标、范围和基本安排。可直到会议开始前，除...",
-          "published_at": "2026-01-30T01:17:45"
+          "summary": "AI时代的产品定义正在被彻底重构——Agent Skills（智能体技能）将成为下一代产品的核心竞争壁垒。从GUI设计到API调用，从功能堆砌到能力抽象，AI产品经理的工作范式正经历革命性转变。本文深度拆解技能化转型的底层逻辑，揭示如何将传统业务编译为AI可执行的原子能力，以及产品架构师在这场变革中必须掌握的三种新能力。在AI圈子里摸爬滚打的这一年，尤其是从一名和像素死磕的资深设计师，转型为在逻辑...",
+          "published_at": "2026-01-30T06:30:35"
         },
         {
-          "title": "搞定这两个工具，让你玩转AI的效率翻倍！",
-          "url": "https://www.woshipm.com/share/6334813.html",
-          "author": "全栈小北",
+          "title": "会员数突破3亿！吊打传统会员玩法！华住这招“积分货币化”太狠了",
+          "url": "https://www.woshipm.com/share/6335803.html",
+          "author": "晏涛三寿",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "环境配置的噩梦是否曾让你痛不欲生？Python的pip地狱与Node.js版本冲突堪称开发者两大天敌。本文深度解析uv和nvm这对神器组合——前者是Python环境管理的终极方案，后者实现Node.js版本的随心切换，让你彻底告别无效报错与重复安装的恶性循环，将更多精力投入真正的AI开发与创造。你是不是也有过这样的经历？在网上上看到一个酷炫的MCP，或者一个实用的Skill，再或者在GitHub发...",
-          "published_at": "2026-01-30T01:15:50"
+          "summary": "华住集团正在重新定义会员积分的价值。通过与金融巨头的战略合作，华住将积分转化为可在多场景流通的'生活货币'，实现从酒店消费到城市生活的无缝衔接。这一创新玩法不仅打破了行业壁垒，更为企业提供了用户资产货币化的全新思路。本文深度解析华住会员体系的进化路径，揭示积分经济背后的商业逻辑。在 2025 华住伙伴大会上，华住集团创始人季琦说了一句话：再给 20 年，不做第一我们都不好意思。乍一听，这像是一句狂...",
+          "published_at": "2026-01-30T05:56:17"
         },
         {
-          "title": "亚马逊裁员1.6万人的产品复盘：PRD 已死，PM 进入“全栈价值”保卫战",
-          "url": "https://www.woshipm.com/share/6335320.html",
-          "author": "噜噜猫",
+          "title": "AI时代，财务产品经理的核心是判断力与业务能力",
+          "url": "https://www.woshipm.com/share/6335795.html",
+          "author": "业财老曾",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "2026年1月28日，路透社披露了亚马逊新一轮1.6万人的裁员计划。作为产品经理，如果你只看到“大厂缩编”的寒气，那说明你的职业敏感度还在初级阶段。结合路透社披露的 AWS 和零售部门重组细节，这其实是一场针对“功能堆砌型 PM”和“文档传声筒”的精准清理。在 AI 彻底穿透组织架构的今天，产品经理的定义正在发生翻天覆地的变化。一、需求神话的破灭：当“增长”不再能掩盖“组织肥大”在“人人都是产品经...",
-          "published_at": "2026-01-30T01:12:55"
+          "summary": "AI正重塑财务领域的价值链条，财务产品经理的角色也从功能设计转向核心决策。本文深入剖析AI时代下财务产品经理必须具备的两大不可替代能力：对业财逻辑的解耦能力和在AI边界与真实需求间的精准判断力，揭示如何通过战略视野成为企业数智化转型的关键推手。在AI与数智化浪潮的驱动下，AI已能自动完成记账、出表、核销，财务职能正经历从“价值守护”向“价值创造”的颠覆性变革，财务产品经理的核心价值早已脱离“工具功...",
+          "published_at": "2026-01-30T05:55:16"
         }
       ]
     },
@@ -357,6 +357,15 @@
           "published_at": null
         },
         {
+          "title": "Pedestal",
+          "url": "https://www.awwwards.com/sites/pedestal",
+          "author": "Good City",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "FOLLOW.ART",
           "url": "https://www.awwwards.com/sites/follow-art",
           "author": "Vide Infra",
@@ -418,22 +427,22 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "IRONHILL",
-          "url": "https://www.awwwards.com/sites/ironhill",
-          "author": "Uncommon",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 3,
       "items": [
+        {
+          "title": "LiquidFetch",
+          "url": "https://www.producthunt.com/products/liquidfetch",
+          "author": "Marcin Krzywonos",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Beautiful visual system fetch for macOSDiscussion|Link",
+          "published_at": "2026-01-28T11:21:57"
+        },
         {
           "title": "Willow on Windows",
           "url": "https://www.producthunt.com/products/willow-voice",
@@ -444,13 +453,13 @@
           "published_at": "2026-01-28T00:02:34"
         },
         {
-          "title": "Silkwave",
-          "url": "https://www.producthunt.com/products/silkwave",
-          "author": "Bakhshi Mnatsakanyan",
+          "title": "The Prompting Company",
+          "url": "https://www.producthunt.com/products/the-prompting-company",
+          "author": "Garry Tan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Chat, record & transcribe on-device in a single workspaceDiscussion|Link",
-          "published_at": "2026-01-28T10:31:33"
+          "summary": "SEO is dead. Be the product cited by ChatGPT.Discussion|Link",
+          "published_at": "2026-01-29T06:26:47"
         }
       ]
     },
@@ -585,6 +594,15 @@
       "count": 6,
       "items": [
         {
+          "title": "你真的是记性不好吗？关于记忆和遗忘的常见误区",
+          "url": "https://sspai.com/post/105677",
+          "author": "知道分子吴先先",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "虽然我们每天都把记忆、遗忘这些词挂在嘴边，但记忆实际上不是一种单一的能力，而遗忘也不是一件全然的坏事。查看全文",
+          "published_at": "2026-01-30T03:13:23"
+        },
+        {
           "title": "派早报：小米发布 REDMI Turbo 5 系列手机等",
           "url": "https://sspai.com/post/105895",
           "author": "少数派编辑部",
@@ -628,15 +646,6 @@
           "source": "少数派",
           "summary": "英伟达正式推出 RTX Remix Logic、英特尔 XeSS 3 多帧生成功能正式推送等。查看全文",
           "published_at": "2026-01-29T00:49:05"
-        },
-        {
-          "title": "将专业创作工具交到更多人手中：Apple Creator Studio 你也许想了解的那些事",
-          "url": "https://sspai.com/post/105823",
-          "author": "waychane",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Apple 推出全新创意工具套装服务，你会考虑订阅吗？查看全文",
-          "published_at": "2026-01-28T14:17:58"
         }
       ]
     }
