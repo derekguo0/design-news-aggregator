@@ -1,28 +1,55 @@
 {
   "date": "2026-01-31T00:00:00",
-  "total_items": 65,
+  "total_items": 66,
   "sources": [
-    "Smashing Magazine",
-    "Intercom Blog",
-    "UX Planet",
-    "UX Design CC",
-    "Awwwards",
-    "Product Hunt",
-    "人人都是产品经理",
-    "少数派",
-    "优设网",
-    "Sidebar",
     "Design Milk",
-    "CSS-Tricks",
+    "A List Apart",
+    "Product Hunt",
+    "Smashing Magazine",
+    "优设网",
+    "UX Planet",
+    "Intercom Blog",
+    "人人都是产品经理",
     "NN/g (Nielsen Norman Group)",
-    "A List Apart"
+    "Sidebar",
+    "CSS-Tricks",
+    "少数派",
+    "UX Design CC",
+    "Awwwards"
   ],
-  "generated_at": "2026-01-31T02:22:27.983238",
+  "generated_at": "2026-01-31T12:56:40.817971",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 7,
+      "count": 10,
       "items": [
+        {
+          "title": "Beyond the Double Diamond: Integrating Leavitt’s Diamond into UX",
+          "url": "https://uxdesign.cc/beyond-the-double-diamond-integrating-leavitts-diamond-into-ux-e581b6d0a799?source=rss----138adf9c44c---4",
+          "author": "Darren Yeo",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Moving from “feature factories” to systems architectureContinue reading on UX Collective »",
+          "published_at": "2026-01-31T12:21:47"
+        },
+        {
+          "title": "When design stops asking why and starts asking “can AI do it?”",
+          "url": "https://uxdesign.cc/when-design-stops-asking-why-and-starts-asking-can-ai-do-it-625c9a5d9c68?source=rss----138adf9c44c---4",
+          "author": "Dolphia",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "When design stops asking why and starts asking, “Can AI do it?”This advice is why designers are quietly losing strategic influence. We optimized AI interfaces for confidence. Organizations learned tha...",
+          "published_at": "2026-01-31T12:21:42"
+        },
+        {
+          "title": "Going analog in 2026",
+          "url": "https://uxdesign.cc/going-analog-in-2026-64a007180d4c?source=rss----138adf9c44c---4",
+          "author": "Daley Wilhelm",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Can UX coexist with analog living?Continue reading on UX Collective »",
+          "published_at": "2026-01-31T12:21:24"
+        },
         {
           "title": "Thinking clearly while everything speeds up",
           "url": "https://uxdesign.cc/thinking-clearly-while-everything-speeds-up-af5399ac0f7f?source=rss----138adf9c44c---4",
@@ -216,56 +243,65 @@
           "published_at": "2026-01-28T18:04:01"
         },
         {
-          "title": "诺奖得主卡尼曼没说透的事：1元冰淇淋如何撬动宜家1200万次复购？",
-          "url": "https://www.woshipm.com/share/6335921.html",
-          "author": "不蓝灯",
+          "title": "RAG洞察-从FileSearch到GraphRAG的技术选择",
+          "url": "https://www.woshipm.com/ai/6335913.html",
+          "author": "里奥",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "一条三星评价引发的思考：用户体验的真相究竟是什么？酒店总经理李哲的经历揭示了峰终定律的残酷与魔力——价值一块钱的姜茶竟成为用户记忆里唯一的'特别'。本文深度剖析如何通过制造'情绪锚点'、利用'未完成感'和低成本策略，在产品设计中巧妙应用这一心理学原理，帮助产品在用户心智中留下深刻印记。早晨十点钟的会议室，空气凝固得像是个沈重的铅块。杭州某酒店总经理 李哲 盯着屏幕上那条刺眼的三星评价：“服务还行，...",
-          "published_at": "2026-01-31T01:15:40"
+          "summary": "大模型在业务落地中面临知识延迟、幻觉问题和数据安全三大挑战，检索增强生成（RAG）成为关键解决方案。本文深度解析全托管File Search、标准RAG和进阶GraphRAG的技术差异与应用场景，帮你找到最适合业务需求的知识增强路径，并展望混合策略与未来发展趋势。随着大模型（LLM）在业务中的深入应用，我们面临着三大核心挑战：大模型训练截止导致的知识延迟（如最新的优惠活动）、专业领域问题上的“一本...",
+          "published_at": "2026-01-31T08:12:52"
         },
         {
-          "title": "告别“狂草病历”：医疗AI从流程优化迈向价值创造的数据之战",
-          "url": "https://www.woshipm.com/ai/6335435.html",
-          "author": "壮年女子AIGC版",
+          "title": "为什么这波 AI 浪潮没有带来大量的就业岗位？【产品经理视角】",
+          "url": "https://www.woshipm.com/ai/6336134.html",
+          "author": "噜噜猫",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "中国医疗AI领域正面临一个严峻的现实——高质量的医学数据极度匮乏。尽管坐拥海量临床样本，但‘多而不优、散而不通’的数据现状已成为制约行业发展的最大瓶颈。本文将深入剖析医疗数据获取难的三大根源，揭示隐私安全、利益博弈与工程欠账背后的深层矛盾，并带来政策引导、技术创新与市场化流通的破局之道，为AI医疗产品经理指明数据战略的全新方向。人工智能正站在医疗行业的十字路口。如果说过去的十年是算法的狂欢，那么接...",
-          "published_at": "2026-01-31T00:55:07"
+          "summary": "AI浪潮下，产品经理岗位正经历前所未有的颠覆性变革。最新数据显示，初中级PM岗位断崖式下滑42%，大厂不再依赖人海战术。从功能冗余的消失到薪资倒挂的现实，从敏捷团队的解构到PRD的智能化生成，这场生产力革命正在重塑产品经理的职业底色。本文将深入剖析AI如何吃掉中间层产品经理，并预测2025-2030年PM的三条生存路径。最近，在几个产品经理社群里，讨论最激烈的不再是“如何做增长”或“如何画原型”，...",
+          "published_at": "2026-01-31T07:24:26"
         },
         {
-          "title": "比OpenAI更Manus，实测Kimi新上线多核Agent集群",
-          "url": "https://www.woshipm.com/share/6336317.html",
-          "author": "卡尔的AI沃茨",
+          "title": "LobsterGraph：企业级飞书桌面智能体设计方案",
+          "url": "https://www.woshipm.com/ai/6336034.html",
+          "author": "天涯轩",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Kimi 推出 K2.5 模型放大招，打造出特色 Agent 集群模式，摒弃单一线性工作流，能动态调配超 100 个分工不同的分身并行处理任务，效率大幅提升。该模型支持多模态理解，无需额外 API 就能完成生图、做视频、建网页、处理多文件等各类任务，刷新了通用 Agent 的使用体验。Kimi憋了个超级大招，没有选择像别的通用Agent一样重度依赖Claude，而是选择先做好Agentic模型，结...",
-          "published_at": "2026-01-30T15:48:02"
+          "summary": "最近不是moltbot项目大火吗，业务部门也跟风，给我们提了一个类似的需求，我们结合目前公司的实际情况写了一个方案。1. 项目愿景 (Executive Summary)本项目旨在构建一个驻留在办公电脑里的数字员工。即使你身处异地（Machine A），只需通过飞书发送自然语言指令，办公室内网电脑（Machine B）上的智能体就会自动唤醒，代替人工完成操作（如查数据、跑代码、发文件），并将结果实...",
+          "published_at": "2026-01-31T07:07:52"
         },
         {
-          "title": "微信新增截图后一键“转发截图”按钮，你有了吗？",
-          "url": "https://www.woshipm.com/share/6336314.html",
-          "author": "郭静",
+          "title": "别聊虚的：AI产品经理如何用四个接地气的场景，让业务部门不得不佩服",
+          "url": "https://www.woshipm.com/ai/6336066.html",
+          "author": "产品 Zoe",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "微信上线 8.0.68 版本，新增截图后一键转发的功能，未看到该功能的用户或因未更新版本，或需等待灰度测试。这一功能虽被质疑是 “伪创新”，却体现出微信对细微用户体验的打磨，而微信虽持续优化体验，却也因庞大用户规模面临诸多掣肘，其无开屏广告的克制则尤为难得。据郭静的互联网圈观察，日前，微信新增了截图后“转发截图”按钮。实际上相关功能早在一个月前就有媒体透露，但直到最近，我的微信才被覆盖到。当用户在...",
-          "published_at": "2026-01-30T15:43:25"
+          "summary": "AI技术看似火热，却在落地时频频踩坑。本文直击业务部门最真实的AI痛点，拆解四个立竿见影的破冰场景：从会赚钱的智能客服到傻瓜式数据外挂，从内容流水线到专家经验复制术。不讲技术概念，只教如何让AI成为业务部门主动追着要的‘真香’工具。上周和一个做电商的朋友吃饭，他喝多了拍桌子：“你们搞AI的天天说赋能赋能，我团队现在最烦的就是‘AI’这俩字！” 细问才知道，他们公司半年前上了个“智能客服”，技术参数...",
+          "published_at": "2026-01-31T05:17:10"
         },
         {
-          "title": "Clawdbot刷爆全网，中国老板能用吗？我研究了3天，给你交个底",
-          "url": "https://www.woshipm.com/share/6336310.html",
-          "author": "梁山伯伯",
+          "title": "刷屏的Clawdbot/Molt，Molt撕开边缘代理AI真相，国内市场机遇藏在哪？",
+          "url": "https://www.woshipm.com/share/6335949.html",
+          "author": "老徐的干货铺",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "硅谷爆火的 Clawdbot（现更名 Moltbot）成了真正能干活的 AI 助手，可直接操作电脑、处理事务，而非仅提供建议，但这款工具对中国老板而言坑比功能多，不仅不兼容主流办公工具，还存在巨大安全风险这两天，一只龙虾刷爆了硅谷。Clawdbot（现在被迫改名叫Moltbot），3天GitHub 6万星，把Mac mini都买断货了。我花了3天时间，把这玩意里里外外扒了个底朝天。结论先放这：这东...",
-          "published_at": "2026-01-30T15:27:55"
+          "summary": "AI技术正从'能对话'向'能行动'的智能体跨越，Molt的爆火标志着'本地优先'理念在生产力工具领域的强势回归。这款自托管式个人AI助手将推理模型与用户本地系统深度绑定，打造'24小时不打烊的数字化雇员'。本文从演进历程、技术架构、核心竞争力和国内落地四个维度，深度解析这款现象级工具如何重构AI助手的产品逻辑与行业格局。AI技术正从“能对话”的大语言模型，加速向“能行动”的智能体（AI Agent...",
+          "published_at": "2026-01-31T03:39:17"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 15,
+      "count": 16,
       "items": [
+        {
+          "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
+          "url": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were d...",
+          "published_at": "2026-01-31T09:00:00"
+        },
         {
           "title": "Practical Use Of AI Coding Tools For The Responsible Developer",
           "url": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
@@ -330,6 +366,15 @@
           "published_at": null
         },
         {
+          "title": "Yucca Packaging",
+          "url": "https://www.awwwards.com/sites/yucca-packaging",
+          "author": "Estrela Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Pedestal",
           "url": "https://www.awwwards.com/sites/pedestal",
           "author": "Good City",
@@ -391,39 +436,21 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Naked City Films",
-          "url": "https://www.awwwards.com/sites/naked-city-films",
-          "author": "SavoirFaire©",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 2,
       "items": [
         {
-          "title": "Kokori",
-          "url": "https://www.producthunt.com/products/kokori",
-          "author": "Jack Callow",
+          "title": "skills.sh",
+          "url": "https://www.producthunt.com/products/vercel",
+          "author": "fmerian",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Transform text to speech with a powerful macOS appDiscussion|Link",
-          "published_at": "2026-01-29T14:33:23"
-        },
-        {
-          "title": "Geekflare API",
-          "url": "https://www.producthunt.com/products/geekflare-api",
-          "author": "Chandan Kumar",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Scrape, Screenshot, and extract LLM-ready dataDiscussion|Link",
-          "published_at": "2026-01-29T20:00:28"
+          "summary": "The Agent Skills DirectoryDiscussion|Link",
+          "published_at": "2026-01-30T13:51:10"
         },
         {
           "title": "Archimyst",
@@ -433,24 +460,6 @@
           "source": "Product Hunt",
           "summary": "AI-powered platform for designing system architectureDiscussion|Link",
           "published_at": "2026-01-29T14:16:58"
-        },
-        {
-          "title": "Superagent from Airtable",
-          "url": "https://www.producthunt.com/products/superagent-from-airtable",
-          "author": "Chris Messina",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The multi-agent system that delivers finished workDiscussion|Link",
-          "published_at": "2026-01-29T17:09:37"
-        },
-        {
-          "title": "YepCode",
-          "url": "https://www.producthunt.com/products/yepcode",
-          "author": "fmerian",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Developer-first AI integrations: build, run, scale safelyDiscussion|Link",
-          "published_at": "2026-01-29T13:33:20"
         }
       ]
     },
@@ -603,6 +612,24 @@
       "count": 6,
       "items": [
         {
+          "title": "具透 Plus：Clawdbot 的成功是桌面系统的成功；如何手动开启 Chrome 中的 Gemini",
+          "url": "https://sspai.com/prime/story/inside-release-notes-260131",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Clawdbot的成功是桌面系统的成功@PlatyHsu：只要你关注科技新闻，最近几乎一定会听说过Clawdbot（经历两次更名，现在叫做OpenClaw），可能也已经刷到了无数教程和分享。简单回顾： ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "published_at": "2026-01-31T11:29:42"
+        },
+        {
+          "title": "用数据分析项目，带你走进成语里的数字世界",
+          "url": "https://sspai.com/post/105827",
+          "author": "Victor42",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "published_at": "2026-01-31T08:04:04"
+        },
+        {
           "title": "别只练力量和心肺，人生下半场拼的是肌肉爆发力",
           "url": "https://sspai.com/prime/story/a-guide-to-muscle-explosive-power",
           "author": "举铁的马里奥",
@@ -637,24 +664,6 @@
           "source": "少数派",
           "summary": "虽然我们每天都把记忆、遗忘这些词挂在嘴边，但记忆实际上不是一种单一的能力，而遗忘也不是一件全然的坏事。查看全文",
           "published_at": "2026-01-30T03:13:23"
-        },
-        {
-          "title": "派早报：小米发布 REDMI Turbo 5 系列手机等",
-          "url": "https://sspai.com/post/105895",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "微信发布针对第三方违规行为的专项打击公告，MiniMax 稀宇科技发布 MiniMax Music 2.5 模型等。查看全文",
-          "published_at": "2026-01-30T00:35:32"
-        },
-        {
-          "title": "新玩意 234｜少数派的编辑们最近买了啥？",
-          "url": "https://sspai.com/post/105869",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有商务内 ...查看全文",
-          "published_at": "2026-01-29T09:07:26"
         }
       ]
     }
