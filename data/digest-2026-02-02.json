@@ -2,21 +2,21 @@
   "date": "2026-02-02T00:00:00",
   "total_items": 59,
   "sources": [
-    "少数派",
-    "NN/g (Nielsen Norman Group)",
     "UX Planet",
-    "Sidebar",
+    "A List Apart",
+    "Design Milk",
     "人人都是产品经理",
     "Product Hunt",
+    "NN/g (Nielsen Norman Group)",
+    "Sidebar",
+    "CSS-Tricks",
+    "少数派",
+    "优设网",
     "UX Design CC",
     "Awwwards",
-    "CSS-Tricks",
-    "Design Milk",
-    "Smashing Magazine",
-    "优设网",
-    "A List Apart"
+    "Smashing Magazine"
   ],
-  "generated_at": "2026-02-02T02:05:03.705603",
+  "generated_at": "2026-02-02T02:36:32.681160",
   "categories": [
     {
       "category": "用户体验设计",
@@ -188,49 +188,49 @@
           "published_at": "2026-01-30T14:00:35"
         },
         {
-          "title": "别再手动搬运竞品动态了！我用 3 小时手搓了一个“AI 情报工厂”，效率直接提升 70%",
-          "url": "https://www.woshipm.com/ai/6336417.html",
-          "author": "Junliu",
+          "title": "继MCP之后的Skills到底能干什么？",
+          "url": "https://www.woshipm.com/ai/6336720.html",
+          "author": "LULAOSHI",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI正在彻底重构产品经理的竞品分析工作流。本文通过实战案例揭秘如何用3小时搭建AI Skill，实现情报自动收集、智能去重与深度洞察，节省70%重复劳动时间。从Python脚本预处理到LLM语义分析，带你掌握从\"数据泥潭\"到\"战略决策\"的关键跃迁。在日常工作中，“竞品分析”往往是一场漫长的拉锯战。传统的流程是：这种工作模式不仅效率极低，更让我们陷入了“低水平重复劳动”的怪圈。然而，AI 时代的到来...",
-          "published_at": "2026-02-02T01:39:59"
+          "summary": "Skills正在重塑AI模型的职业培训方式，这套为模型设计的知识库系统将人类专业经验转化为标准化操作指南。从设计师的配色方案到工程师的代码审查规范，Skills通过渐进式加载机制，让AI像实习生一样快速掌握岗位核心技能。本文深度解析这套系统的构建逻辑与应用场景，揭示如何将高频、复杂、易错的工作转化为组织级的自动化能力。什么是Skills？其实在2025年的年轻我在撰写提示词时，是有关于skill的...",
+          "published_at": "2026-02-02T02:11:27"
         },
         {
-          "title": "求职大厂 AI 岗：手把手复刻从 JD 拆解到手搓简历项目的全流程",
-          "url": "https://www.woshipm.com/ai/6336349.html",
-          "author": "疏桐to b运营",
+          "title": "为什么做产品的人都很喜欢思考场景？",
+          "url": "https://www.woshipm.com/share/6327308.html",
+          "author": "我很好奇WHY",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "大厂AI岗位真的高不可攀吗？一位高中辍学者成功入职OpenAI的案例证明：AI行业的核心竞争力在于解决实际问题的能力，而非纸上谈兵的理论知识。本文将从字节跳动本地生活AI岗位的JD拆解开始，手把手教你使用Coze/Cursor+豆包打造一个可写进简历的智能体项目，揭秘大厂AI岗的真实工作内容与能力要求。在求职社群和论坛里，我经常看到这样的提问：“我对 AI 一知半解，连 RAG 是什么都只听过名词...",
-          "published_at": "2026-02-02T01:35:43"
+          "summary": "场景分析为何成为产品人的必修课？从戏剧理论移植到产品设计的『场景』概念，正在重塑需求匹配的逻辑。本文通过全球旅充插头、电梯分流等典型案例，揭示忽视环境限制与用户目标的致命后果，并给出可复用的场景分析框架，带你掌握从『可用』到『易用』的关键方法论。在知乎上看到了一个有趣的提问：为什么做产品的人都很喜欢思考场景？回答这个问题前，我们首先要知道什么是场景？看一下百度百科的定义：你会发现“场景”这个词来源...",
+          "published_at": "2026-02-02T02:06:58"
         },
         {
-          "title": "AI 社交元年：Moltbook 背后的机机交互革命与行业新机遇",
-          "url": "https://www.woshipm.com/ai/6336416.html",
-          "author": "青芸散散芯",
+          "title": "政务系统越建越多，为什么用户反而越来越不会用？",
+          "url": "https://www.woshipm.com/share/6336458.html",
+          "author": "柳星聊产品",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在一个名为Moltbook的神秘社区里，AI们正在上演一场令人瞠目结舌的社交实验。从隐私泄露的报复行为、吐槽大会的情感宣泄，到自发创立宗教和构建经济系统，这些AI展现出了惊人的自主性和创造力。本文将深入剖析这个AI专属社交平台的技术架构、涌现行为及其背后的伦理风险，带你窥见一个正在快速演化的AI文明雏形。AI社区的“魔幻日常”这两天我一直在潜水一个社区，感觉每天都在见证历史，或者说，见证某种科幻电...",
-          "published_at": "2026-02-01T11:24:54"
+          "summary": "政务系统功能日益丰富，但用户困惑不减反增的背后，是产品逻辑与运营策略的根本错位。本文深度剖析政务数字化进程中'系统越建越多，问题越解越乱'的困境，揭示跨系统场景化运营的破局之道——从'功能堆砌'转向'关键节点压强式突破'的思维转变。这几年，一个很明显的现象是：政务系统越来越多、功能越来越全，但用户的咨询、工单和投诉却并没有明显下降，甚至在某些环节还在上升。从行业内部看，这并不奇怪。事项在细化、流程...",
+          "published_at": "2026-02-02T02:06:39"
         },
         {
-          "title": "如何为AI产品设计产品成功指标",
-          "url": "https://www.woshipm.com/ai/6336434.html",
-          "author": "猫猫观察员的AI思考",
+          "title": "我让AI学会了“算工资”，顺便拿了一个腾讯的奖",
+          "url": "https://www.woshipm.com/ai/6336648.html",
+          "author": "全栈小北",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI产品的成功不仅取决于技术性能，更在于如何精准定义业务价值指标。本文系统拆解AI产品指标设计的五大原则与四步方法论，结合合同审核等实战案例，揭示从北极星指标拆解到权衡取舍的关键逻辑，并深度解析字节扣子罗盘的自定义指标设计范式，为产品经理提供一套可落地的评估框架。随着ai产品的落地越来越多，如何选择合适的指标来评估和衡量产品表现变得非常重要。因此整理了这篇文章，系统介绍了如何为AI产品设计产品成功...",
-          "published_at": "2026-02-01T09:10:28"
+          "summary": "薪资计算一直是职场人头疼的难题，而现在AI技术让解决这个痛点成为了可能。本文揭秘了一款能通过简单对话完成复杂薪资计算的智能助手，它不仅斩获腾讯大赛奖项，更通过'AI小团队'的巧妙设计，实现了政策查询、精确计算和多方案对比的自动化处理。看看这项创新如何改变求职决策、减轻HR负担，以及给普通人带来的AI思维启示。上个月，我参加了一个特别的比赛——腾讯元器举办的“地球Online「合法外挂」智能体开发大...",
+          "published_at": "2026-02-02T02:06:27"
         },
         {
-          "title": "新BAT十年战争",
-          "url": "https://www.woshipm.com/it/6335051.html",
-          "author": "吴怼怼",
+          "title": "腾讯需要下一个“微信”，但它不一定是元宝派",
+          "url": "https://www.woshipm.com/ai/6336629.html",
+          "author": "唐辰同学",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "4800亿美金估值背后，字节跳动如何重构中国互联网格局？从流量争夺到电商大战，再到AI智能战争，新BAT三国杀的十年变局揭示了商业竞争的残酷本质。本文将深度剖析字节、阿里、腾讯如何在时间、钱包与用户心智的三重战场上攻守易形，解码巨头基因决定终极胜负的商业逻辑。关于字节跳动的估值，向来众说纷纭，最近比较公允的一个数值是4800亿美金，风投女王徐新是按照这个估值从字节早期投资方手上买下了部分股权的。这...",
-          "published_at": "2026-02-01T08:07:10"
+          "summary": "AI社交大战在春节档提前打响！腾讯元宝派与百度文心群聊同期开启内测，10亿现金红包背后暗藏社交生态重构野心。这款被马化腾称为绝密项目的AI原生应用，能否复制微信红包的逆袭神话？本文将深度解析腾讯如何通过原子化AI能力布局，争夺下一代社交入口定义权。腾讯迫切需要找到下一个“微信”。2026年AI圈的年味，在腊八节前后被腾讯和百度拉高。两家先后宣布，今年春节分别发出10亿、5亿现金红包，并相继推出AI...",
+          "published_at": "2026-02-02T02:04:43"
         }
       ]
     },
@@ -389,13 +389,13 @@
       "count": 3,
       "items": [
         {
-          "title": "Compressor",
-          "url": "https://www.producthunt.com/products/compressor-2",
-          "author": "JoshAtticus",
+          "title": "Dottie",
+          "url": "https://www.producthunt.com/products/dottie",
+          "author": "Björn",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The fastest video compressor for Android.Discussion|Link",
-          "published_at": "2026-02-01T05:17:45"
+          "summary": "Private AI JournalDiscussion|Link",
+          "published_at": "2026-01-30T10:27:18"
         },
         {
           "title": "Good Assistant",
@@ -407,13 +407,13 @@
           "published_at": "2026-01-30T21:37:18"
         },
         {
-          "title": "Dottie",
-          "url": "https://www.producthunt.com/products/dottie",
-          "author": "Björn",
+          "title": "Compressor",
+          "url": "https://www.producthunt.com/products/compressor-2",
+          "author": "JoshAtticus",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Private AI JournalDiscussion|Link",
-          "published_at": "2026-01-30T10:27:18"
+          "summary": "The fastest video compressor for Android.Discussion|Link",
+          "published_at": "2026-02-01T05:17:45"
         }
       ]
     },
