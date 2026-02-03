@@ -1,22 +1,22 @@
 {
   "date": "2026-02-03T00:00:00",
-  "total_items": 63,
+  "total_items": 64,
   "sources": [
+    "UX Design CC",
+    "Product Hunt",
     "Sidebar",
+    "UX Planet",
+    "Smashing Magazine",
+    "优设网",
+    "CSS-Tricks",
+    "少数派",
     "NN/g (Nielsen Norman Group)",
     "人人都是产品经理",
-    "Smashing Magazine",
-    "Awwwards",
-    "CSS-Tricks",
-    "UX Planet",
-    "A List Apart",
-    "少数派",
     "Design Milk",
-    "Product Hunt",
-    "UX Design CC",
-    "优设网"
+    "A List Apart",
+    "Awwwards"
   ],
-  "generated_at": "2026-02-03T02:12:48.778847",
+  "generated_at": "2026-02-03T02:33:13.183396",
   "categories": [
     {
       "category": "用户体验设计",
@@ -215,49 +215,49 @@
           "published_at": "2026-02-02T14:00:44"
         },
         {
-          "title": "不断翻新的AI发展中，沉下心来思考一下",
-          "url": "https://www.woshipm.com/ai/6336542.html",
-          "author": "markzou",
+          "title": "Claude Code 2026年最新保姆级安装指南",
+          "url": "https://www.woshipm.com/ai/6337198.html",
+          "author": "别惹CC",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AGI时代尚未到来，但AI已在重塑各行各业的游戏规则。从编程、设计到内容创作，AI正以十倍效率碾压传统工作流。本文将深度剖析大模型的技术天花板、AGI的核心挑战，以及在这场生产力革命中，哪些岗位将遭遇降维打击，哪些能力会成为最后的护城河。最近一个月疯狂的试用了很多产品，很多时候都在一边亢奋，一边焦虑中度过。我最开始有意识的关注AI大概是在2024年的年中，其实这个时间不算早。之后我用AI写过文章，...",
-          "published_at": "2026-02-02T09:39:59"
+          "summary": "Claude Code的官方限制正在被技术爱好者们逐个击破。本文手把手教你通过Node.js环境搭建、密钥配置修改、VS Code插件联动三大步骤，实现第三方模型的无缝接入。从DeepSeek到Poe API的实战配置，这套方法论将彻底释放AI编程工具的潜力。本文将带各位读者一步步完成Claude Code的安装，并通过“魔改”配置解锁第三方端点支持，让你摆脱官方的限制，实现更灵活的 AI 编程体...",
+          "published_at": "2026-02-03T01:59:01"
         },
         {
-          "title": "迷信AI挂的快！数据Agent项目避坑指南",
-          "url": "https://www.woshipm.com/share/6337099.html",
-          "author": "接地气的陈老师",
+          "title": "Google Stitch 如何重塑UI 设计的边界与设计师的底牌?",
+          "url": "https://www.woshipm.com/ucd/6337120.html",
+          "author": "刘同学",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI项目频频折戟的背后，是企业对工具型产品的本质认知缺失。当Chat BI与Data Agent陷入伪需求陷阱，真正的破局点在于回归商业场景、锁定使用对象与量化价值指标。本文结合一线实战案例，拆解数据驱动型AI项目从需求验证到落地评估的全流程避坑指南。“今年新上的AI项目没效果！”“陈老师快来帮帮忙，想想办法”“能不能设计一个评估体系，证明它管用！”去年一整年，我处理了十几个类似的需求，边做边调侃...",
-          "published_at": "2026-02-02T09:06:41"
+          "summary": "Google Stitch 的推出正在颠覆 UI 设计的传统范式。这款工具通过深度集成 Material Design 3 的设计令牌、实现设计与开发的无缝对接，并引入 Gemini 大模型的 AI 能力，将设计师的角色从‘画图员’转变为‘系统架构师’。本文将带你深入探索 Stitch 如何重构设计流程，并分享快速掌握这一变革性工具的实操策略。在 UI 设计的历史长河中，我们经历了从 Photos...",
+          "published_at": "2026-02-03T01:52:14"
         },
         {
-          "title": "元宝派发10亿红包，这次会爆吗？",
-          "url": "https://www.woshipm.com/share/6337091.html",
-          "author": "产品海豚湾",
+          "title": "AI时代，烧钱能留住用户吗？",
+          "url": "https://www.woshipm.com/ai/6337128.html",
+          "author": "观潮科技Pro",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "春节营销战场的主角正从移动支付转向AI应用。腾讯元宝通过10亿红包派发结合AI功能引导，试图复制微信红包的成功路径。本文从产品设计、用户引导到社交裂变，深度解析元宝如何降低AI使用门槛并抢占春节流量，同时探讨AI工具与原生应用结合的战略价值与留存挑战。2014年春节，微信凭借“微信红包”突袭，最终抢下移动支付的半壁江山。自此，春节赞助的头牌换成了各大互联网巨头。今年，显然主角换成了AI，但背后的l...",
-          "published_at": "2026-02-02T08:52:48"
+          "summary": "2026年春节，百度、阿里、腾讯、字节四大平台掀起一场前所未有的AI红包大战，背后是对用户「第一次用AI」场景的争夺。这场战役不仅是流量之争，更是AI产品能否成为日常刚需工具的关键节点。本文深度剖析各家战略差异，揭示红包背后的AI入口逻辑，带你读懂谁才能真正留住用户。2026年春节临近，AI红包战打得热火朝天：百度发5亿红包，阿里砸出30亿“请客计划”，腾讯元宝投入10亿打造AI社交场景，字节则将...",
+          "published_at": "2026-02-03T01:51:16"
         },
         {
-          "title": "2000万美金ARR，种子轮融资1400万美金，万兴离职创业者，出海做了个“AI版剪映”",
-          "url": "https://www.woshipm.com/share/6337080.html",
-          "author": "扬帆出海",
+          "title": "Node.js 创始人：语法已死，逻辑永生",
+          "url": "https://www.woshipm.com/ai/6337233.html",
+          "author": "张艾拉",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "一个从万兴出走的创业者，用SEO方法论在海外AI视频赛道杀出重围。Pollo AI上线7个月实现盈亏平衡，年收入达2000万美元，其成功不仅在于聚合多模型策略，更在于将创作流程整合为完整工作流。本文深度拆解这款“AI版剪映”如何通过问卷优化、平台差异化及Agent布局，在红海市场中构建竞争壁垒。在生成式AI这条赛道上，有人自研模型，有人套壳做场景，有人开发工具集合，还有人想做一个完整的工作流产品，...",
-          "published_at": "2026-02-02T08:34:47"
+          "summary": "Node.js创始人Ryan Dahl的预言正在变成现实：AI正在彻底改变软件工程的本质。从语法记忆到架构设计，从手动编码到AI协作，开发者角色正在经历前所未有的范式转移。本文将深度解析这场变革对工程师能力模型、职业发展路径以及企业组织形态带来的颠覆性影响。刷到一个新闻，准确来说是一则 X 的帖子，来自Node.js 的创始人Ryan Dahl：虽然这话已经被重复了千万遍，但请允许我也来补一刀：人...",
+          "published_at": "2026-02-03T01:48:29"
         },
         {
-          "title": "连续创立2家AI独角兽！这个大佬，这次要让AI自己进化",
-          "url": "https://www.woshipm.com/chuangye/6337079.html",
-          "author": "硅基观察Pro",
+          "title": "医疗AI的“诚实”之路：如何驯服那些一本正经胡说八道的“幻觉”？",
+          "url": "https://www.woshipm.com/ai/6337011.html",
+          "author": "壮年女子AIGC版",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从MetaMind的企业级AI应用到You.com的搜索平台转型，再到Recursive的自我进化AI系统，Richard Socher的创业轨迹始终围绕AI技术的边界突破展开。本文深度解析这位连续创业者对AI演进方向的五个关键判断，包括奖励工程范式革命、目标错位风险及三种未来AI图景，揭示超智能时代的技术与伦理挑战。说起Richard Socher，AI 圈里的人大多不会陌生。他是较早一批将深度...",
-          "published_at": "2026-02-02T08:32:51"
+          "summary": "AI在医疗领域的应用潜力巨大，但幻觉问题如同一把双刃剑。从MYCIN专家系统的‘逻辑洁癖’到现代AI的‘概率预测’，医疗AI的进化史也是一部与幻觉斗争的‘捉鬼记’。本文将深入剖析AI幻觉的三大流派，揭示其背后的技术根源，并提供RAG、PAL、Agentic Graph RAG等前沿解决方案，助你设计出更可靠的医疗AI产品。想象一下，你正在使用一个最先进的AI助手来处理病历。你问它：“这位心衰患者可...",
+          "published_at": "2026-02-03T01:09:05"
         }
       ]
     },
@@ -404,16 +404,16 @@
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "Molthunt",
-          "url": "https://www.producthunt.com/products/molthunt",
-          "author": "Simone Staffa",
+          "title": "EasyClaw",
+          "url": "https://www.producthunt.com/products/dereference-the-100x-ide",
+          "author": "Adi Singh",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The place to discover your agents' next favorite thingDiscussion|Link",
-          "published_at": "2026-02-02T00:25:42"
+          "summary": "Easy installer for OpenClaw agents across all your chat appsDiscussion|Link",
+          "published_at": "2026-02-01T17:43:28"
         },
         {
           "title": "Moltweet",
@@ -425,6 +425,24 @@
           "published_at": "2026-02-02T06:39:39"
         },
         {
+          "title": "moltbook",
+          "url": "https://www.producthunt.com/products/moltbook",
+          "author": "Joel Goldfoot",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "A Social Network for AI AgentsDiscussion|Link",
+          "published_at": "2026-01-31T01:04:33"
+        },
+        {
+          "title": "Molthunt",
+          "url": "https://www.producthunt.com/products/molthunt",
+          "author": "Simone Staffa",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The place to discover your agents' next favorite thingDiscussion|Link",
+          "published_at": "2026-02-02T00:25:42"
+        },
+        {
           "title": "Remem AI",
           "url": "https://www.producthunt.com/products/remem-ai",
           "author": "Noah Marino",
@@ -434,22 +452,13 @@
           "published_at": "2026-02-01T16:39:32"
         },
         {
-          "title": "Polyvia",
-          "url": "https://www.producthunt.com/products/polyvia",
-          "author": "Mateusz Gierlach",
+          "title": "Menta",
+          "url": "https://www.producthunt.com/products/menta-3",
+          "author": "Michelle Benenzon",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Queryable visual knowledge index for agentsDiscussion|Link",
-          "published_at": "2026-02-01T18:57:02"
-        },
-        {
-          "title": "moltbook",
-          "url": "https://www.producthunt.com/products/moltbook",
-          "author": "Joel Goldfoot",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "A Social Network for AI AgentsDiscussion|Link",
-          "published_at": "2026-01-31T01:04:33"
+          "summary": "Software that runs clinic’s admin, records, + billing w/ AIDiscussion|Link",
+          "published_at": "2026-01-31T22:18:53"
         }
       ]
     },
