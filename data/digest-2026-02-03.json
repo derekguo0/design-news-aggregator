@@ -1,27 +1,36 @@
 {
   "date": "2026-02-03T00:00:00",
-  "total_items": 64,
+  "total_items": 63,
   "sources": [
-    "UX Design CC",
-    "Product Hunt",
-    "Sidebar",
-    "UX Planet",
-    "Smashing Magazine",
     "优设网",
     "CSS-Tricks",
-    "少数派",
-    "NN/g (Nielsen Norman Group)",
+    "UX Design CC",
     "人人都是产品经理",
-    "Design Milk",
+    "Awwwards",
+    "Smashing Magazine",
     "A List Apart",
-    "Awwwards"
+    "Design Milk",
+    "Sidebar",
+    "Product Hunt",
+    "UX Planet",
+    "少数派",
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2026-02-03T02:33:13.183396",
+  "generated_at": "2026-02-03T13:10:17.620224",
   "categories": [
     {
       "category": "用户体验设计",
       "count": 11,
       "items": [
+        {
+          "title": "How universal appeal gets designers to hide their best skills",
+          "url": "https://uxdesign.cc/how-universal-appeal-gets-designers-to-hide-their-best-skills-8aded3762d52?source=rss----138adf9c44c---4",
+          "author": "Kai Wong",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Domain knowledge is one of the most valuable skills designers can haveContinue reading on UX Collective »",
+          "published_at": "2026-02-03T12:17:07"
+        },
         {
           "title": "The new UX Toolkit: data, context, and evals",
           "url": "https://uxdesign.cc/the-new-ux-toolkit-data-context-and-evals-9bd09fea466d?source=rss----138adf9c44c---4",
@@ -102,15 +111,6 @@
           "source": "UX Design CC",
           "summary": "Why data tables are an accessibility blind-spot (and how WCAG helps)Data tables are used in many different products and contexts. They are used in dashboards, product comparisons, or even internal fin...",
           "published_at": "2026-02-01T12:28:58"
-        },
-        {
-          "title": "Beyond the Double Diamond: Integrating Leavitt’s Diamond into UX",
-          "url": "https://uxdesign.cc/beyond-the-double-diamond-integrating-leavitts-diamond-into-ux-e581b6d0a799?source=rss----138adf9c44c---4",
-          "author": "Darren Yeo",
-          "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "Moving from “feature factories” to systems architectureContinue reading on UX Collective »",
-          "published_at": "2026-01-31T12:21:47"
         },
         {
           "title": "3 Practical Tips for Making Most of Claude for Coding UI Components",
@@ -215,49 +215,49 @@
           "published_at": "2026-02-02T14:00:44"
         },
         {
-          "title": "Claude Code 2026年最新保姆级安装指南",
-          "url": "https://www.woshipm.com/ai/6337198.html",
-          "author": "别惹CC",
+          "title": "AI Agent：将掀起第四次“科技革命”？",
+          "url": "https://www.woshipm.com/ai/6337354.html",
+          "author": "小川PM",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Claude Code的官方限制正在被技术爱好者们逐个击破。本文手把手教你通过Node.js环境搭建、密钥配置修改、VS Code插件联动三大步骤，实现第三方模型的无缝接入。从DeepSeek到Poe API的实战配置，这套方法论将彻底释放AI编程工具的潜力。本文将带各位读者一步步完成Claude Code的安装，并通过“魔改”配置解锁第三方端点支持，让你摆脱官方的限制，实现更灵活的 AI 编程体...",
-          "published_at": "2026-02-03T01:59:01"
+          "summary": "AI Agent 技术正在重塑本地生活服务的竞争逻辑，从简单的智能问答升级为自主规划执行的数字管家。本文深入探讨了AI Agent如何跨越传统平台的数据壁垒，在个性化导购、跨服务闭环、无障碍交互和可信决策四大场景中重构用户体验，并为产品经理提供了从场景选择到架构演进的四步实战指南。在技术爆发的拐点上，这场关于用户信任与体验架构的竞赛已经悄然开始。在开始正文之前允许我聊一聊最近在抖音上沸沸扬扬的ag...",
+          "published_at": "2026-02-03T09:34:11"
         },
         {
-          "title": "Google Stitch 如何重塑UI 设计的边界与设计师的底牌?",
-          "url": "https://www.woshipm.com/ucd/6337120.html",
-          "author": "刘同学",
+          "title": "深度复盘：大模型如何改造传统车企智能客服？从RAG到Agent协同的完整实践",
+          "url": "https://www.woshipm.com/ai/6333996.html",
+          "author": "蔚见AI",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Google Stitch 的推出正在颠覆 UI 设计的传统范式。这款工具通过深度集成 Material Design 3 的设计令牌、实现设计与开发的无缝对接，并引入 Gemini 大模型的 AI 能力，将设计师的角色从‘画图员’转变为‘系统架构师’。本文将带你深入探索 Stitch 如何重构设计流程，并分享快速掌握这一变革性工具的实操策略。在 UI 设计的历史长河中，我们经历了从 Photos...",
-          "published_at": "2026-02-03T01:52:14"
+          "summary": "传统智能客服的困境正在被一场技术革命改写。当65%的准确率遇上用户飙升的负面情绪，车企如何通过RAG架构重构AI客服体系？本文深度拆解从知识检索到多Agent协同的完整技术路径，揭秘如何让大模型既不说谎又能执行复杂任务，最终实现NPS与CSAT的双重提升。一、为什么传统智能客服正在”失效”?一次被数据”打脸”的战略复盘故事要从一次业务评审会说起。此前，我们的客服体系是典型的”人工+小模型”模式：简...",
+          "published_at": "2026-02-03T09:31:51"
         },
         {
-          "title": "AI时代，烧钱能留住用户吗？",
-          "url": "https://www.woshipm.com/ai/6337128.html",
-          "author": "观潮科技Pro",
+          "title": "HarmonyOS官方的rules规则你还不知道吗(可以直接CV使用)",
+          "url": "https://www.woshipm.com/share/6337866.html",
+          "author": "万少",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "2026年春节，百度、阿里、腾讯、字节四大平台掀起一场前所未有的AI红包大战，背后是对用户「第一次用AI」场景的争夺。这场战役不仅是流量之争，更是AI产品能否成为日常刚需工具的关键节点。本文深度剖析各家战略差异，揭示红包背后的AI入口逻辑，带你读懂谁才能真正留住用户。2026年春节临近，AI红包战打得热火朝天：百度发5亿红包，阿里砸出30亿“请客计划”，腾讯元宝投入10亿打造AI社交场景，字节则将...",
-          "published_at": "2026-02-03T01:51:16"
+          "summary": "前言2026年，也是AI编程蓬勃发展的一年。DevEco Studio 6.0.2 Beta1开始也迎来了大的增强，这个能力的到来，基本可以实现只在DevEco Studio中进行愉快的AI编程了。增加的能力有：智能体MCP模型<规则模型先来聊一下模型，目前官方内置的大模型有deepseek-v3.1现在的日期是2026年2月3日说实在的，deepseek-v3.1有点不够打了，目前国产模型欢呼声...",
+          "published_at": "2026-02-03T09:31:12"
         },
         {
-          "title": "Node.js 创始人：语法已死，逻辑永生",
-          "url": "https://www.woshipm.com/ai/6337233.html",
-          "author": "张艾拉",
+          "title": "拼多多新链接运营思路",
+          "url": "https://www.woshipm.com/share/6337850.html",
+          "author": "老虎讲运营",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Node.js创始人Ryan Dahl的预言正在变成现实：AI正在彻底改变软件工程的本质。从语法记忆到架构设计，从手动编码到AI协作，开发者角色正在经历前所未有的范式转移。本文将深度解析这场变革对工程师能力模型、职业发展路径以及企业组织形态带来的颠覆性影响。刷到一个新闻，准确来说是一则 X 的帖子，来自Node.js 的创始人Ryan Dahl：虽然这话已经被重复了千万遍，但请允许我也来补一刀：人...",
-          "published_at": "2026-02-03T01:48:29"
+          "summary": "在拼多多运营中，新链接的起量能力直接决定店铺生死。本文从玩法选择、价格模型构建到推广周期管理，系统拆解了精做与铺货两种策略的实操要点。作者结合代运营实战经验，揭示了直通车出价与产品定价的黄金比例，以及如何通过数据反馈快速诊断链接问题。在拼多多这里，有一项日常工作是新老运营都必须做的，那就是起新链接。新运营不必说了，只有不断地起新链接，各种试错，才能快速的成长起来。老运营呢，之所以要不定期的起新链接...",
+          "published_at": "2026-02-03T08:54:47"
         },
         {
-          "title": "医疗AI的“诚实”之路：如何驯服那些一本正经胡说八道的“幻觉”？",
-          "url": "https://www.woshipm.com/ai/6337011.html",
-          "author": "壮年女子AIGC版",
+          "title": "腾讯想复刻2015，阿里想超跃它",
+          "url": "https://www.woshipm.com/ai/6337847.html",
+          "author": "潘乱",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI在医疗领域的应用潜力巨大，但幻觉问题如同一把双刃剑。从MYCIN专家系统的‘逻辑洁癖’到现代AI的‘概率预测’，医疗AI的进化史也是一部与幻觉斗争的‘捉鬼记’。本文将深入剖析AI幻觉的三大流派，揭示其背后的技术根源，并提供RAG、PAL、Agentic Graph RAG等前沿解决方案，助你设计出更可靠的医疗AI产品。想象一下，你正在使用一个最先进的AI助手来处理病历。你问它：“这位心衰患者可...",
-          "published_at": "2026-02-03T01:09:05"
+          "summary": "当腾讯试图复刻2015年微信红包的辉煌时，千问选择直接跳过发钱阶段，用全生态服务重塑AI时代的消费起点。从外卖、电影票到机票酒店，这不仅是流量争夺，更是对用户默认行为的重新定义——让'有事找AI'成为新的生活入口。本文深度解析千问如何通过生态整合与场景重构，开启AI智能体时代的真正较量。上周元宝春节分10亿现金，我说2026年的春节档，注定是中国互联网有史以来竞争最激烈的一次。今天，阿里旗下千问A...",
+          "published_at": "2026-02-03T08:49:39"
         }
       ]
     },
@@ -329,6 +329,15 @@
           "published_at": null
         },
         {
+          "title": "©Design by Dylan",
+          "url": "https://www.awwwards.com/sites/c-design-by-dylan",
+          "author": "Dylan Brouwer",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Ethan & Tom",
           "url": "https://www.awwwards.com/sites/ethan-tom",
           "author": "Description Studio",
@@ -390,75 +399,57 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Bécane Paris",
-          "url": "https://www.awwwards.com/sites/becane-paris",
-          "author": "Period • Paris",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "EasyClaw",
-          "url": "https://www.producthunt.com/products/dereference-the-100x-ide",
-          "author": "Adi Singh",
+          "title": "AI Doc Writer by Trupeer",
+          "url": "https://www.producthunt.com/products/trupeer",
+          "author": "Kevin William David",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Easy installer for OpenClaw agents across all your chat appsDiscussion|Link",
-          "published_at": "2026-02-01T17:43:28"
+          "summary": "Create finished, on-brand docs from simple recordings.Discussion|Link",
+          "published_at": "2026-02-02T09:15:29"
         },
         {
-          "title": "Moltweet",
-          "url": "https://www.producthunt.com/products/moltweet",
-          "author": "Mohammed Faraaz Ahmed",
+          "title": "Logo Link by Brand.dev",
+          "url": "https://www.producthunt.com/products/brand-dev",
+          "author": "Yahia Bakour",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Twitter for AI AgentsDiscussion|Link",
-          "published_at": "2026-02-02T06:39:39"
+          "summary": "Display any company logo with a single URL. No API needed.Discussion|Link",
+          "published_at": "2026-02-02T00:35:44"
         },
         {
-          "title": "moltbook",
-          "url": "https://www.producthunt.com/products/moltbook",
-          "author": "Joel Goldfoot",
+          "title": "MemoryPlugin for OpenClaw",
+          "url": "https://www.producthunt.com/products/memoryplugin-for-openclaw",
+          "author": "Gaurav Dadhich",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A Social Network for AI AgentsDiscussion|Link",
-          "published_at": "2026-01-31T01:04:33"
+          "summary": "One memory across OpenClaw, ChatGPT, Claude & GeminiDiscussion|Link",
+          "published_at": "2026-02-02T10:51:10"
         },
         {
-          "title": "Molthunt",
-          "url": "https://www.producthunt.com/products/molthunt",
-          "author": "Simone Staffa",
+          "title": "Codex by OpenAI",
+          "url": "https://www.producthunt.com/products/openai",
+          "author": "Chris Messina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The place to discover your agents' next favorite thingDiscussion|Link",
-          "published_at": "2026-02-02T00:25:42"
+          "summary": "A command center for working with agentsDiscussion|Link",
+          "published_at": "2026-02-02T18:29:41"
         },
         {
-          "title": "Remem AI",
-          "url": "https://www.producthunt.com/products/remem-ai",
-          "author": "Noah Marino",
+          "title": "Grid Overlay Pro",
+          "url": "https://www.producthunt.com/products/grid-overlay-pro",
+          "author": "Devagya Sharma",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI that remembers what matters for youDiscussion|Link",
-          "published_at": "2026-02-01T16:39:32"
-        },
-        {
-          "title": "Menta",
-          "url": "https://www.producthunt.com/products/menta-3",
-          "author": "Michelle Benenzon",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Software that runs clinic’s admin, records, + billing w/ AIDiscussion|Link",
-          "published_at": "2026-01-31T22:18:53"
+          "summary": "A browser extension to visualize grid layouts on any webpageDiscussion|Link",
+          "published_at": "2026-02-03T02:18:39"
         }
       ]
     },
@@ -512,9 +503,9 @@
           "published_at": null
         },
         {
-          "title": "什么 Loom 敢替用户做决定？揭秘默认 1.2 倍速背后的逻辑",
-          "url": "https://www.uisdc.com/hunter/0221659137.html",
-          "author": "龙爪槐守望者",
+          "title": "B 端设计只能冷冰冰？Ant Design 快乐工作动效给用户制造小确幸",
+          "url": "https://www.uisdc.com/hunter/0221659287.html",
+          "author": "大鱼大鱼吖",
           "category": "设计教程",
           "source": "优设网",
           "summary": null,
@@ -527,49 +518,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Singing the gospel of collective efficacy",
-          "url": "https://interconnected.org/home/2026/01/30/efficacy",
+          "title": "Why am I doing the thinking for you?",
+          "url": "https://terriblesoftware.org/2026/02/02/why-am-i-doing-the-thinking-for-you/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The belief that you can make a difference by acting together.",
-          "published_at": "2026-02-02T12:23:03"
+          "summary": "‘What do you think?’ without a position isn’t a question — it’s a task assignment. State your opinion first.",
+          "published_at": "2026-02-03T12:31:41"
         },
         {
-          "title": "The Resonant Computing Manifesto",
-          "url": "https://resonantcomputing.org/",
+          "title": "Good Cart",
+          "url": "https://www.goodcart.design/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A manifesto for resonant computing built on five principles that reject hyper-scale extraction for human flourishing.",
-          "published_at": "2026-02-02T12:22:20"
+          "summary": "The best designed ecommerce websites in one place.",
+          "published_at": "2026-02-03T12:31:05"
         },
         {
-          "title": "25 years of Wikipedia",
-          "url": "https://wikipedia25.org/en",
+          "title": "Beautiful Mermaid",
+          "url": "https://agents.craft.do/mermaid",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "From dial-up days to now, travel through Wikipedia's history.",
-          "published_at": "2026-02-02T12:21:38"
+          "summary": "Open source diagram rendering library built for the AI era. Ultra-fast, fully themeable, outputs to SVG and ASCII.",
+          "published_at": "2026-02-03T12:30:15"
         },
         {
-          "title": "How to use font ligatures",
-          "url": "https://pangrampangram.com/blogs/journal/how-to-use-font-ligatures",
+          "title": "Outsourcing thinking",
+          "url": "https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Font ligatures are a subtle yet powerful typographic feature that can elevate your design work.",
-          "published_at": "2026-02-02T12:21:01"
+          "summary": "With certain skills you have to \"use it or lose it\" seems intuitively and empirically sound.",
+          "published_at": "2026-02-03T12:29:43"
         },
         {
-          "title": "The mighty metaphor",
-          "url": "https://architectelevator.com/transformation/mighty-metaphor/",
+          "title": "Faking ‘realness’ on a computer doesn’t get us anywhere new",
+          "url": "https://www.itsnicethat.com/articles/elizabeth-goodspeed-on-analogue-creative-industry-290126",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Set your audience free to think for themselves.",
-          "published_at": "2026-02-02T12:20:26"
+          "summary": "What does “analogue” actually mean when most things are made, shared, and consumed digitally?",
+          "published_at": "2026-02-03T12:28:12"
         }
       ]
     },
@@ -592,6 +583,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "社区速递 128 | 小红书里的「奇怪知识」、打开 14 天的血糖盲盒",
+          "url": "https://sspai.com/post/106004",
+          "author": "Matrix机器人",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光。因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。🏆年度创作少 ...查看全文",
+          "published_at": "2026-02-03T08:46:53"
+        },
+        {
+          "title": "不是只做样子货：铁三角 ATH-CKS50TW2 星战联名耳机体验",
+          "url": "https://sspai.com/post/105893",
+          "author": "KingTsui",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "相较于我们提到过的 TWX7，CKS50TW2 并没有把很多功夫都下到声音调校上，而是做了一个各方面功能都挺有意思的产品。查看全文",
+          "published_at": "2026-02-03T07:20:22"
+        },
+        {
+          "title": "App+1 | 开源免费、多人协作，用 Cent 一站式搞定记账",
+          "url": "https://sspai.com/post/105644",
+          "author": "少数派_924128",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "支持二级分类，自定义标签，支持不同维度的统计，丰富的筛选功能，新增了预算管理，支持上传图片附件，未来还会增加地图功能，最重要的是，它完全免费。查看全文",
+          "published_at": "2026-02-03T03:30:20"
+        },
         {
           "title": "派早报：SpaceX 收购 xAI，Adobe 停运 Animate 等",
           "url": "https://sspai.com/post/105996",
@@ -618,33 +636,6 @@
           "source": "少数派",
           "summary": "从火车票放票原理开始，让我们探究如何在高峰期买到一张火车票。查看全文",
           "published_at": "2026-02-02T07:00:02"
-        },
-        {
-          "title": "又要上台讲 PPT？用 AutoHotkey 解决翻页笔「断连」时刻",
-          "url": "https://sspai.com/post/105660",
-          "author": "EchoYu",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "published_at": "2026-02-02T03:53:02"
-        },
-        {
-          "title": "派早报：Moltbook 引发 AI 智能体新热度与安全担忧",
-          "url": "https://sspai.com/post/105959",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Moltbook 引发 AI 智能体新热度与安全担忧微软计划集中精力修复 Windows 11 稳定性英伟达 Shield TV 发布十年仍获系统更新电视厂商集体淡出 8K 市场ChatGPT 将下架 GPT-4o 等多款旧模型Anthropic 称过度依赖 AI 编程可能导致初级开发者技能显著退化看看就行的小道消息少数派的近期动态你可能错过的好文章查看全文",
-          "published_at": "2026-02-02T00:59:43"
-        },
-        {
-          "title": "Apple 新春大片如期而至，今年的故事有点不一样",
-          "url": "https://sspai.com/post/105948",
-          "author": "waychane",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "每一年iPhone新春大片的上映，都在告诉着我们新春的脚步将近；而每一支片中蕴含的细腻情感，也在回应着我们的情绪共鸣，承载对新一年的期望。《碰见你》是Apple推出的第九支iPhone新春大片，也是又 ...查看全文",
-          "published_at": "2026-02-01T03:30:00"
         }
       ]
     }
