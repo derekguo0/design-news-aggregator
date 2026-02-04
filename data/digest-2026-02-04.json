@@ -1,22 +1,22 @@
 {
   "date": "2026-02-04T00:00:00",
-  "total_items": 64,
+  "total_items": 65,
   "sources": [
-    "Design Milk",
     "UX Planet",
-    "A List Apart",
-    "Sidebar",
-    "NN/g (Nielsen Norman Group)",
-    "Smashing Magazine",
-    "UX Design CC",
-    "Awwwards",
-    "CSS-Tricks",
-    "少数派",
-    "Product Hunt",
     "优设网",
+    "CSS-Tricks",
+    "Design Milk",
+    "NN/g (Nielsen Norman Group)",
+    "Awwwards",
+    "Sidebar",
+    "Product Hunt",
+    "少数派",
+    "Smashing Magazine",
+    "A List Apart",
+    "UX Design CC",
     "人人都是产品经理"
   ],
-  "generated_at": "2026-02-04T02:27:36.833031",
+  "generated_at": "2026-02-04T02:32:21.305309",
   "categories": [
     {
       "category": "用户体验设计",
@@ -431,25 +431,34 @@
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 3,
       "items": [
         {
-          "title": "Grid Overlay Pro",
-          "url": "https://www.producthunt.com/products/grid-overlay-pro",
-          "author": "Devagya Sharma",
+          "title": "findable.",
+          "url": "https://www.producthunt.com/products/findable-3",
+          "author": "Thomas Schranz ⛄️",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A browser extension to visualize grid layouts on any webpageDiscussion|Link",
-          "published_at": "2026-02-03T02:18:39"
+          "summary": "A full Answer Engine Optimization (AEO) platform for freeDiscussion|Link",
+          "published_at": "2026-02-02T11:45:03"
         },
         {
-          "title": "Pangolin",
-          "url": "https://www.producthunt.com/products/pangolin-2",
-          "author": "Milo Schwartz",
+          "title": "Codex by OpenAI",
+          "url": "https://www.producthunt.com/products/openai",
+          "author": "Chris Messina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Open-source identity-based VPN & remote access platformDiscussion|Link",
-          "published_at": "2026-02-03T05:21:53"
+          "summary": "A command center for working with agentsDiscussion|Link",
+          "published_at": "2026-02-02T18:29:41"
+        },
+        {
+          "title": "24CallDesk",
+          "url": "https://www.producthunt.com/products/24calldesk",
+          "author": "Noah Jacobs",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "AI call agent and workflow automations for small businessesDiscussion|Link",
+          "published_at": "2026-02-01T22:38:55"
         }
       ]
     },
