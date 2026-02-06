@@ -1,27 +1,45 @@
 {
   "date": "2026-02-06T00:00:00",
-  "total_items": 64,
+  "total_items": 66,
   "sources": [
-    "A List Apart",
-    "少数派",
-    "NN/g (Nielsen Norman Group)",
     "Sidebar",
+    "A List Apart",
+    "NN/g (Nielsen Norman Group)",
     "Awwwards",
-    "Product Hunt",
     "Smashing Magazine",
-    "Intercom Blog",
     "Design Milk",
-    "UX Design CC",
     "优设网",
+    "少数派",
+    "UX Design CC",
     "人人都是产品经理",
+    "Intercom Blog",
+    "Product Hunt",
     "CSS-Tricks"
   ],
-  "generated_at": "2026-02-06T05:49:36.839308",
+  "generated_at": "2026-02-06T13:09:05.915267",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 5,
+      "count": 7,
       "items": [
+        {
+          "title": "The return of the intuitive designer in the age of AI",
+          "url": "https://uxdesign.cc/the-return-of-the-intuitive-designer-in-the-age-of-ai-6f0ea728d1d0?source=rss----138adf9c44c---4",
+          "author": "James Harrison",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Stay relevant by honing your intuition, not your processIllustration by Hannah JamesYou likely know, or at the very least know of, a designer who just gets it. I’m talking about the designer who solve...",
+          "published_at": "2026-02-06T12:10:57"
+        },
+        {
+          "title": "Test smart: how to solve dilemmas as QA?",
+          "url": "https://uxdesign.cc/test-smart-how-to-solve-dilemmas-as-qa-29673df6c51b?source=rss----138adf9c44c---4",
+          "author": "Julia Kocbek",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Once the QA Engineer enters the room, everyone expects that quality issues will be magically solved.Throughout my career in software testing, I’ve noticed dilemmas that affect the overall team’s dynam...",
+          "published_at": "2026-02-06T12:10:38"
+        },
         {
           "title": "The art of unnecessary story",
           "url": "https://uxdesign.cc/the-art-of-unnecessary-story-45c9c7ccfdb4?source=rss----138adf9c44c---4",
@@ -197,49 +215,49 @@
           "published_at": "2026-02-05T18:19:26"
         },
         {
-          "title": "实测Lovart新上的设计Skills，我第一次见Agent那么主动的",
-          "url": "https://www.woshipm.com/share/6339285.html",
-          "author": "卡尔的AI沃茨",
+          "title": "春节红包大战背后，真正的AI社交终于开始了",
+          "url": "https://www.woshipm.com/ai/6339563.html",
+          "author": "唐辰同学",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Lovart新推出的Skills功能正在重新定义AI设计协作的边界。这套封装好的专家逻辑让Agent像真正的项目经理一样主动追问，从Logo设计到品牌系统搭建，再到产品套图制作，覆盖了品牌从零到一的全流程。本文通过Banana X卡尔品牌的实际案例，深度解析Skills如何实现设计理念的反向渗透与高效产出。最近一直在忙活设计新年礼盒，里面用到了很多好玩的小元素，其中就有一个我自家的猫猫贴纸和两个新...",
-          "published_at": "2026-02-06T03:12:27"
+          "summary": "春节红包大战背后，大厂AI竞速正悄然转向社交关系重构。从腾讯元宝派的社交裂变、Character.AI的情感陪伴，到ChatGPT的协作工具化，三种截然不同的AI社交路径正在重塑人机交互边界。本文深度拆解AI作为社交搭子、协作助手和群成员的三重角色演化，揭示大厂如何在这场关乎未来的社交实验中进行战略卡位。春节红包大战，将大厂的AI竞速推向“白热化”。继腾讯、百度分别要发10亿、5亿现金红包后，阿里...",
+          "published_at": "2026-02-06T10:18:02"
         },
         {
-          "title": "AI最近很让我惊喜的2件事",
-          "url": "https://www.woshipm.com/share/6339280.html",
-          "author": "冰冰酱",
+          "title": "AI能帮你点奶茶了，但真正改变的不是技术进步",
+          "url": "https://www.woshipm.com/ai/6339519.html",
+          "author": "曙欧巴",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从一键生成Mac健康助手到微信RSS订阅工具，AI正以惊人的实操性打破技术壁垒。更令人惊喜的是，它在产品设计协作中展现的精准沟通能力，让需求交付实现近乎零磨合。本文通过三个真实案例，揭示AI如何从“技术玩具”蜕变为真正的生产力引擎。从两年前开始接触AI，陆陆续续试过不少模型和产品，本以为对AI的使用已经有了自己的节奏，结果这两周的几个使用瞬间，不仅让我感受到了不同工具的实用价值，更对AI赋能工作、...",
-          "published_at": "2026-02-06T03:06:46"
+          "summary": "AI点奶茶的背后，是一场关于互联网入口逻辑的深刻变革。当大厂将AI从聊天工具升级为交易入口，用户只需一句话就能完成下单支付，这不仅是技术展示，更是对“AI办事”能力的实战演练。本文从产品设计视角切入，解析低风险场景的选择逻辑，并指出未来竞争的关键不在模型本身，而在于谁能将AI嵌入真实业务闭环。今天上午凑了个热闹，花了一分钱，在某问AI APP点了一杯奶茶。当我下完单片刻后，APP就因为崩溃无法进入...",
+          "published_at": "2026-02-06T08:14:28"
         },
         {
-          "title": "Lovart上了Skills后，我感觉设计要变天了！",
-          "url": "https://www.woshipm.com/ai/6339262.html",
-          "author": "沃垠AI",
+          "title": "软件股崩盘启示录：当 AI 让代码变得廉价，软件真正的价值在哪里？",
+          "url": "https://www.woshipm.com/ai/6339518.html",
+          "author": "深思圈",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Lovart接入Skills功能正在重新定义设计行业的门槛。这款设计Agent将多年积累的专业经验封装成即插即用的技能包，用户只需简单点击就能生成电商套图、营销手册、社媒素材和分镜故事板。本文通过真实案例深度体验五大核心Skills，展示AI如何将设计从专业技能转化为人人可用的基础能力。最近，Skills真的是火到不讲道理，几乎所有AI工具都在接入Skills。刚刚我发现，最强设计Agent Lo...",
-          "published_at": "2026-02-06T02:16:58"
+          "summary": "当AI让代码变得廉价，软件真正的价值正在从执行能力转向判断力。本文深度解析软件开发从稀缺经济到丰富经济的范式转移，揭示在AI编程代理时代，如何将隐性知识转化为显性约束，以及判断力如何成为新的竞争壁垒。十个人能不能重建 DocuSign？从纯粹的代码角度看，答案可能是肯定的。但这个问题真正有趣的地方在于：这十个人会把时间花在哪里？他们不会花在敲代码上，而是会花在辩论边界情况、合规要求、信任保证、可审...",
+          "published_at": "2026-02-06T08:12:25"
         },
         {
-          "title": "如何判断一个产品有没有市场机会？",
-          "url": "https://www.woshipm.com/share/6338992.html",
-          "author": "武林",
+          "title": "PM 做对这5件事，从被研发吐槽到被认可",
+          "url": "https://www.woshipm.com/zhichang/6339141.html",
+          "author": "实战产品说",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "学生定位卡看似完美解决了校园安全痛点，却在买单逻辑上遭遇致命伤。这款串联硬件、软件与监管平台的产品，揭示了创新者的常见盲区：当家长、学校、机构都觉得‘有用但不值得买单’时，再精巧的产品设计都难逃伪需求陷阱。本文犀利拆解教育科技产品的商业化死穴，带你重新思考‘谁为价值买单’这个终极命题。前段时间，有位朋友来我们公司沟通，他提出了一个非常有市场前景的产品机会，问我这玩意儿有没有搞头。就是下面这张图：我...",
-          "published_at": "2026-02-06T02:10:07"
+          "summary": "产品经理与研发团队的协作困境往往源于基础品质的缺失。本文从研发视角出发，提炼出五项能让技术团队真心认可的靠谱特质：需求质量把控、沟通效率提升、变更管理专业度、共赢思维建立以及项目平衡能力。文章更附上可直接落地的实用模板，助你打破产研对抗的恶性循环。曾经历过一次印象深刻的产研项目复盘，会议接近尾声时研发负责人突然说到：其实我们对产品经理要求不高，就是把需求讲清楚，别让我们猜。这句话没有指责，却藏着深...",
+          "published_at": "2026-02-06T07:46:47"
         },
         {
-          "title": "产品经理怎么判断需求值不值得做",
-          "url": "https://www.woshipm.com/share/6339258.html",
-          "author": "YTY",
+          "title": "深度讲解用户研究之–Design Thinking",
+          "url": "https://www.woshipm.com/share/6339328.html",
+          "author": "万物复苏",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "判断需求价值是产品经理的核心能力，尤其在职业发展3年后更为关键。本文从逻辑验证、投入产出比计算到人情策略，系统拆解了需求评估的三层框架。不仅提供可量化的ROI测算方法，更揭示了如何将判断逻辑本身作为产品迭代，帮助产品经理在资源有限时做出精准决策。之前总结过需求管理的内容，但没有总结怎么判断一个需求能不能进入需求池，也就是需求本身是不是合理，值不值得做，这篇文章补上这部分的思考。需求管理的部分可以看...",
-          "published_at": "2026-02-06T02:08:32"
+          "summary": "Design Thinking（设计思维）正在重塑产品创新的方法论框架。这套由斯坦福大学d.school提出的体系，通过五个关键阶段——从共情到测试，彻底颠覆了以往从功能出发的设计逻辑。本文将深入解析如何运用用户访谈、同理心地图等工具挖掘真实需求，并通过快速原型与测试形成闭环迭代，帮助产品人真正做到从用户视角出发解决问题。Design Thinking（设计思维）是由斯坦福大学d.school 提...",
+          "published_at": "2026-02-06T07:46:26"
         }
       ]
     },
@@ -398,58 +416,58 @@
       "count": 6,
       "items": [
         {
-          "title": "The new v0",
-          "url": "https://www.producthunt.com/products/v0",
-          "author": "fmerian",
+          "title": "Chamber: Autopilot for AI Infrastructure",
+          "url": "https://www.producthunt.com/products/chamber-autopilot-for-ai-infrastructure",
+          "author": "Garry Tan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Full stack vibe coding platform. Created by Vercel.Discussion|Link",
-          "published_at": "2026-02-03T13:31:28"
+          "summary": "Turning Idle GPUs Into Enterprise AI VelocityDiscussion|Link",
+          "published_at": "2026-02-04T05:19:00"
         },
         {
-          "title": "SessionCast",
-          "url": "https://www.producthunt.com/products/sessioncast",
-          "author": "성현 노",
+          "title": "ScreenSorts",
+          "url": "https://www.producthunt.com/products/screensorts",
+          "author": "nalin rajendran",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "CLI control to monitor and work with Claude Code remotelyDiscussion|Link",
-          "published_at": "2026-02-04T11:47:05"
+          "summary": "Search every screenshot, text, and detail privatelyDiscussion|Link",
+          "published_at": "2026-02-05T17:40:50"
         },
         {
-          "title": "Higgsfield Vibe-Motion",
-          "url": "https://www.producthunt.com/products/higgsfield",
-          "author": "Ankit Sharma",
+          "title": "RentAHuman.ai",
+          "url": "https://www.producthunt.com/products/rentahuman-ai",
+          "author": "Kumar Abhishek",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Create motion images in a single prompt in an editing canvasDiscussion|Link",
-          "published_at": "2026-02-04T19:39:29"
+          "summary": "Get paid when AI agents need someone in the real world.Discussion|Link",
+          "published_at": "2026-02-05T10:32:46"
         },
         {
-          "title": "PopAir",
-          "url": "https://www.producthunt.com/products/popair-the-native-ai-copilot-for-macos",
-          "author": "Hasan Aydın",
+          "title": "ClawApp",
+          "url": "https://www.producthunt.com/products/clawapp",
+          "author": "Justin Ellery",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your All-in-one AI Copilot for MacOSDiscussion|Link",
-          "published_at": "2026-02-04T18:05:26"
+          "summary": "The easiest way to automate tasks with OpenClawDiscussion|Link",
+          "published_at": "2026-02-05T19:23:03"
         },
         {
-          "title": "Agent Sandbox",
-          "url": "https://www.producthunt.com/products/agent-sandbox",
-          "author": "Eishan Lawrence",
+          "title": "BetterBugs MCP",
+          "url": "https://www.producthunt.com/products/betterbugs-io",
+          "author": "Nishil Patel",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your agent's personal remote computer and driveDiscussion|Link",
-          "published_at": "2026-02-05T01:23:50"
+          "summary": "Full bug context across all your tools for better debuggingDiscussion|Link",
+          "published_at": "2026-02-04T15:13:11"
         },
         {
-          "title": "Miro MCP",
-          "url": "https://www.producthunt.com/products/miro",
-          "author": "Łukasz Sągol",
+          "title": "My Drawer",
+          "url": "https://www.producthunt.com/products/my-drawer",
+          "author": "Furkan Köseoğlu",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn code into visual docs, board context into codeDiscussion|Link",
-          "published_at": "2026-02-04T09:29:46"
+          "summary": "Intelligent sidebar for MacOS | FREE & OSDiscussion|Link",
+          "published_at": "2026-02-06T02:52:34"
         }
       ]
     },
@@ -457,15 +475,6 @@
       "category": "设计教程",
       "count": 6,
       "items": [
-        {
-          "title": "2026年AI驱动下，我总结了设计师职业的9大趋势",
-          "url": "https://www.uisdc.com/2026-design-career-trends",
-          "author": "",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
-        },
         {
           "title": "一人剧组做爆款AI短剧？实测Zopia一键式工作流！",
           "url": "https://www.uisdc.com/zopia",
@@ -503,6 +512,15 @@
           "published_at": null
         },
         {
+          "title": "2026年AI驱动下，我总结了设计师职业的9大趋势",
+          "url": "https://www.uisdc.com/2026-design-career-trends",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "百度地图为何用醒目的红色叉号引导用户正确变道？",
           "url": "https://www.uisdc.com/hunter/0221659645.html",
           "author": "龙爪槐守望者",
@@ -518,49 +536,49 @@
       "count": 5,
       "items": [
         {
-          "title": "How to shoot a screen using a board of keys",
-          "url": "https://unsung.aresluna.org/how-to-shoot-a-screen-using-a-board-of-keys/",
+          "title": "What, then, are we paying for?",
+          "url": "https://quinnkeast.com/writing/software-is-problem-ownership",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The world is divided into two groups: people who know how to take screenshots in a Mac, and...",
-          "published_at": "2026-02-05T13:03:29"
+          "summary": "Software is problem ownership.",
+          "published_at": "2026-02-06T12:21:15"
         },
         {
-          "title": "Birth Lottery",
-          "url": "https://www.givingwhatwecan.org/birth-lottery",
+          "title": "Power prompts in Claude Code",
+          "url": "https://hvpandya.com/power-prompts",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "If you were reborn today, where would you land? And how would that change your life?",
-          "published_at": "2026-02-05T13:02:09"
+          "summary": "A single natural language prompt that runs parallel agents, captures visual regression screenshots, and creates reusable skills in Claude Code.",
+          "published_at": "2026-02-06T12:20:39"
         },
         {
-          "title": "Intertapes",
-          "url": "https://intertapes.net/",
+          "title": "No, I do not want to install your app",
+          "url": "https://beige.party/@maxleibman/114441790730464541",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Obscure tape finds and their stories.",
-          "published_at": "2026-02-05T13:00:49"
+          "summary": "Maybe if we repeat this every day, we'll eventually internalize it.",
+          "published_at": "2026-02-06T12:19:27"
         },
         {
-          "title": "Doing the thing is doing the thing",
-          "url": "https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing",
+          "title": "Aqui, Lá, Acolá",
+          "url": "https://arthurpetrillo.photography/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "We all need a good reminder.",
-          "published_at": "2026-02-05T12:58:57"
+          "summary": "Photographer Arthur Petrillo (they/them) traces a poetic cartography of belonging across the UK, Brasil, and Japan.",
+          "published_at": "2026-02-06T12:18:01"
         },
         {
-          "title": "The too early breakpoint",
-          "url": "https://ishadeed.com/article/too-early-breakpoint/",
+          "title": "Progress without disruption",
+          "url": "https://www.chrbutler.com/progress-without-disruption",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "An opinion on why we shouldn’t switch to the smallest design too early.",
-          "published_at": "2026-02-05T12:58:20"
+          "summary": "There’s nothing about progress that inherently requires disruption—except our inability to cooperate for stability.",
+          "published_at": "2026-02-06T12:17:22"
         }
       ]
     },
@@ -592,6 +610,24 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "本周看什么 | 最近值得一看的 11 部作品",
+          "url": "https://sspai.com/post/106136",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "📅本周新预告《穿普拉达的女王2》正式预告2月2日，《穿普拉达的女王2》发布新预告。本片北美定档5月1日，前作主演梅丽尔·斯特里普、安妮·海瑟薇、艾米莉·布朗特、斯坦利·图齐回归，LadyGaga、刘玉 ...查看全文",
+          "published_at": "2026-02-06T09:44:16"
+        },
+        {
+          "title": "醒醒现在是 2015：小米 1S 和红米 Note 背后的机圈历史",
+          "url": "https://sspai.com/post/105976",
+          "author": "Enc3lMag1k",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "使人觉得遥远的不是时间长，而是两三件不可挽回的事。查看全文",
+          "published_at": "2026-02-06T06:59:56"
+        },
         {
           "title": "Sonos × 少数派 × 暖风家联合打造：沉浸体验空间正式上线",
           "url": "https://sspai.com/post/106081",
@@ -627,24 +663,6 @@
           "source": "少数派",
           "summary": "2025年，Apple在硬件领域的基调是稳健迭代，兼有新方向的试探。VisionPro迎来升级，虽然改善了佩戴舒适度与性能，但仍徘徊在大众市场的门槛之外。M5架构陆续应用到Mac与iPad，进一步巩固 ...查看全文",
           "published_at": "2026-02-05T06:56:19"
-        },
-        {
-          "title": "从川渝之旅聊自驾：解锁更自在的旅行体验",
-          "url": "https://sspai.com/post/105661",
-          "author": "王牌猎人",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "在相同的 3 天时间里，我们多拥有了将近 8 小时的时间；而在成本开支上，自驾只多了 200 元。查看全文",
-          "published_at": "2026-02-05T03:36:17"
-        },
-        {
-          "title": "派早报：iQOO 15 Ultra 发布、Grok Imagine 1.0 推出等",
-          "url": "https://sspai.com/post/106063",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "阿里千问发布 Qwen3-Coder-Next、微软将停售 OneDrive 独立商业订阅等。查看全文",
-          "published_at": "2026-02-05T00:46:40"
         }
       ]
     }
