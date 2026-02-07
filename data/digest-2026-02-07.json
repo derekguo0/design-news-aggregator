@@ -1,23 +1,23 @@
 {
   "date": "2026-02-07T00:00:00",
-  "total_items": 67,
+  "total_items": 64,
   "sources": [
-    "Product Hunt",
-    "UX Planet",
-    "少数派",
-    "NN/g (Nielsen Norman Group)",
-    "Smashing Magazine",
-    "人人都是产品经理",
-    "Design Milk",
-    "Awwwards",
-    "优设网",
     "Sidebar",
-    "Intercom Blog",
+    "Smashing Magazine",
+    "少数派",
     "CSS-Tricks",
+    "人人都是产品经理",
+    "Product Hunt",
+    "Intercom Blog",
     "A List Apart",
-    "UX Design CC"
+    "UX Design CC",
+    "Awwwards",
+    "UX Planet",
+    "Design Milk",
+    "优设网",
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2026-02-07T02:25:19.752043",
+  "generated_at": "2026-02-07T12:57:55.156104",
   "categories": [
     {
       "category": "用户体验设计",
@@ -51,12 +51,12 @@
           "published_at": "2026-02-06T12:10:57"
         },
         {
-          "title": "Test smart: how solve dilemmas as QA?",
+          "title": "Test smart: how to navigate through dilemmas as QA?",
           "url": "https://uxdesign.cc/test-smart-how-to-solve-dilemmas-as-qa-29673df6c51b?source=rss----138adf9c44c---4",
           "author": "Julia Kocbek",
           "category": "用户体验设计",
           "source": "UX Design CC",
-          "summary": "Test smart: how to solve dilemmas as QA?Once the QA Engineer enters the room, everyone expects that quality issues will be magically solved.Throughout my career in software testing, I’ve noticed dilem...",
+          "summary": "Once the QA Engineer enters the room, everyone expects that quality issues will be magically solved.Throughout my career in software testing, I’ve noticed dilemmas that affect the overall team’s dynam...",
           "published_at": "2026-02-06T12:10:38"
         },
         {
@@ -234,49 +234,49 @@
           "published_at": "2026-02-05T18:19:26"
         },
         {
-          "title": "PRD模板分享：一份让开发赞不绝口的需求文档",
-          "url": "https://www.woshipm.com/share/6339695.html",
-          "author": "健彬的产品Live",
+          "title": "2026年的NotebookLM太强了，用来学Claude Skill太合适",
+          "url": "https://www.woshipm.com/ai/6339765.html",
+          "author": "Scarlet斯佳丽",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "一份优秀的PRD不仅是产品的“说明书”，更是团队协作的“润滑剂”。本文深度拆解了PRD的核心骨架与加分细节，从需求背景的“Why”到功能细则的“颗粒度”，教你如何写出让开发赞不绝口、测试验收无忧的专业文档。告别散文式写作，掌握结构化思维，让你的需求文档成为项目推进的加速器。同学们，今天我们来聊聊每个产品经理都绕不开的“生死命题”——写PRD！是不是刚被开发大哥追着问“这个按钮到底点了跳哪？”“异常...",
-          "published_at": "2026-02-07T02:00:48"
+          "summary": "NotebookLM作为Google推出的AI知识管理神器，正在重新定义学习与创作逻辑。它不仅能消化PDF、视频等多模态资料，更通过精准引用解决大模型的幻觉问题，还能将知识转化为播客、思维导图等丰富形态。本文深度解析其如何用结构化学习路径，帮助用户从零掌握Claude Skills等专业领域知识，并揭秘音频生成、自定义信息图等隐藏的杀手级功能。NotebookLM是什么NotebookLM是Goo...",
+          "published_at": "2026-02-07T05:42:53"
         },
         {
-          "title": "OpenClaw 深度解剖：当 AI 从“聊天框”越狱，成为操作系统的“数字义肢”",
-          "url": "https://www.woshipm.com/ai/6339615.html",
-          "author": "冒泡泡",
+          "title": "未来设计“双核大脑”：设计思维感性与计算思维理性",
+          "url": "https://www.woshipm.com/share/6339734.html",
+          "author": "设绘闲人",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "OpenClaw的出现彻底颠覆了人机交互的传统逻辑，它不再是简单的工具，而是融入了操作系统底层的AI代理。从GUI到意图即执行的转变，MCP协议的深度应用，再到赋予AI'心跳'的While-True Loop架构，这款产品正在重新定义我们的数字生活。然而，高昂的Token成本和安全隐忧也提醒我们：AI的寒武纪大爆发背后，是前所未有的机遇与挑战并存。当 OpenClaw（前身 Clawdbot）在 ...",
-          "published_at": "2026-02-07T01:45:28"
+          "summary": "在AI重塑设计边界的时代，设计师的护城河已从单纯的“感性共情”升级为“理性解构”。本文深度拆解了“设计思维”与“计算思维”这对双核大脑的协作逻辑，揭示了如何通过“分解、抽象、算法、模式识别”四大核心要素，将复杂问题转化为计算机可执行的指令，实现人机共创的效率革命。设计师常被认为是感性的代表，我们擅长运用“设计思维”共情用户、定义问题。但在AI时代，仅凭感性已不够。我们必须主动学习一个理性的新语言课...",
+          "published_at": "2026-02-07T03:33:34"
         },
         {
-          "title": "30 亿请客，却接不住人：千问这次哪里出了问题？",
-          "url": "https://www.woshipm.com/share/6339623.html",
-          "author": "柳星聊产品",
+          "title": "2万亿的秘密：情绪经济是怎么炼成的？",
+          "url": "https://www.woshipm.com/marketing/6339702.html",
+          "author": "长脸KK",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "千问30亿春节营销战役暴露出AI产品与流量承载的尖锐矛盾。这场精心设计的流量洪峰不仅考验系统稳定性，更揭示了产品设计中缺失的承压预案与技术协同问题。当营销完美击中用户G点，产品却无法兑现承诺时，我们看到了AI赛道野蛮生长背后的系统性风险。春节这波 AI 拉新，已经不是试水了，而是一次正面冲锋。元宝 10 亿刚热起来，千问直接加码到 30 亿，1 分钱喝奶茶、AI 一句话下单，声量、话题、转发，全都...",
-          "published_at": "2026-02-07T01:45:18"
+          "summary": "2025年，“爱你老己”成为消费新趋势，人们愈发愿意为情绪价值买单。从北京的“暖宠家”到深圳的手工皮具工作室，取悦自己的消费行为正重塑市场逻辑。本文将借助行为经济学和心理账户理论，揭示情绪消费逆势崛起的深层原因，并探讨社交媒体如何助推这场“情价比”革命。如果用一个词总结2025年的消费行为，“爱你老己”绝对能高票当选。这个被网友捧红的热梗，看是戏谑，实则精准戳中过去一整年的消费真相：人们越来越愿意...",
+          "published_at": "2026-02-07T03:30:14"
         },
         {
-          "title": "TalkAI练口语：AI应用产品难差异化，营销成为增长关键",
-          "url": "https://www.woshipm.com/ai/6339611.html",
-          "author": "东大鸟AI产品",
+          "title": "微信，给元宝“纠偏”",
+          "url": "https://www.woshipm.com/it/6339730.html",
+          "author": "互联网江湖",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "TalkAI练口语凭借AIGC技术浪潮和精准的市场定位，迅速成为口语学习领域的黑马。然而，随着竞争加剧和用户信任难题浮现，这款产品正面临从功能创新到品牌建设的战略转型。本文将深度解析其如何跨越'哑巴英语'市场痛点、应对巨头降维打击，并提出构建'效果信任'护城河的关键策略。结论前置TalkAI练口语是一款抓住了AIGC技术浪潮和市场“哑巴英语”焦虑的先锋产品，凭借先发优势和扎实的功能体验，在短时间内...",
-          "published_at": "2026-02-07T01:43:26"
+          "summary": "当微信封杀元宝红包外链引发舆论风暴，这场看似简单的功能冲突背后，实则是AI时代产品逻辑与用户体验的深层博弈。从QQ到微信的进化史证明，真正的粘性从来不是靠红包砸出来的，而是对产品信条的坚守。微信，把元宝红包给封了。于是社交媒体炸了。元宝回应：“正在紧急优化调整分享机制，我们将尽快上线，确保用户抢红包体验。”微信公关总监“粥姨”发文表示：“用户体验第一，一视同仁。”并配上了一张表情包“我发起疯来自己...",
+          "published_at": "2026-02-07T03:01:55"
         },
         {
-          "title": "2026年中美AI：左边卷智商，右边发红包",
-          "url": "https://www.woshipm.com/ai/6339572.html",
-          "author": "穆夏的AI焦卷",
+          "title": "我拼命拦下兄弟的10万块：别开店，先“撒谎”",
+          "url": "https://www.woshipm.com/chuangye/6339716.html",
+          "author": "产品方法论集散地",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "2026年的AI战场已然分化：硅谷精英们仍在技术巅峰展开军备竞赛，而中国互联网巨头则用红包大战和生态闭环改写游戏规则。本文深度拆解中美AI产业的底层逻辑差异——一边是追求专业替代的极致工具，一边是渗透日常的超级入口，揭示两种截然不同的商业哲学如何重塑全球AI格局。2026年，中美AI彻底跑向了两个平行宇宙。左边是硅谷的精英主义，右边是中文互联网的实用主义。作为产品经理，不谈宏大叙事，只看他们到底在...",
-          "published_at": "2026-02-07T01:22:24"
+          "summary": "当创业的冲动被‘听说’和‘感觉’裹挟，多少血汗钱在盲目投入中打了水漂。《做对产品》带来的不是高深理论，而是一套能让普通人护住家底的‘土办法’——用最小代价向市场‘撒谎’，在押上全部身家前先骗出真相。昨天，从小一起玩到大的兄弟阿强又来找我，蹲在门口抽了半包烟，才憋出一句话：“借我五万，加上我自己的五万，够加盟市里那个米线品牌了。”他说得眼睛发亮，“我找人打听透了，他们店主亲口说的，一天稳稳挣这个数！...",
+          "published_at": "2026-02-07T02:47:03"
         }
       ]
     },
@@ -348,6 +348,15 @@
           "published_at": null
         },
         {
+          "title": "Nfinite",
+          "url": "https://www.awwwards.com/sites/nfinite",
+          "author": "Numbered",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Ciridae",
           "url": "https://www.awwwards.com/sites/ciridae",
           "author": "newkid®",
@@ -409,84 +418,48 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Pedestal",
-          "url": "https://www.awwwards.com/sites/pedestal",
-          "author": "Good City",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 7,
+      "count": 4,
       "items": [
         {
-          "title": "CyphrKey",
-          "url": "https://www.producthunt.com/products/cyphrkey",
-          "author": "Tyler Allen",
+          "title": "Nativeline",
+          "url": "https://www.producthunt.com/products/nativeline",
+          "author": "Eric Anderson",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "WisprFlow for vibe coders w/ voice shortcutsDiscussion|Link",
-          "published_at": "2026-02-05T22:11:09"
+          "summary": "Build native Swift iPhone, iPad, and Mac apps with AIDiscussion|Link",
+          "published_at": "2026-02-06T08:07:41"
         },
         {
-          "title": "Chamber: Autopilot for AI Infrastructure",
-          "url": "https://www.producthunt.com/products/chamber-autopilot-for-ai-infrastructure",
-          "author": "Garry Tan",
+          "title": "Quash",
+          "url": "https://www.producthunt.com/products/quash-intent-driven-mobile-testing",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turning Idle GPUs Into Enterprise AI VelocityDiscussion|Link",
-          "published_at": "2026-02-04T05:19:00"
+          "summary": "A mobile QA agent that runs tests without scriptsDiscussion|Link",
+          "published_at": "2026-02-06T10:59:12"
         },
         {
-          "title": "ScreenSorts",
-          "url": "https://www.producthunt.com/products/screensorts",
-          "author": "nalin rajendran",
+          "title": "InspireNote",
+          "url": "https://www.producthunt.com/products/inspirenote",
+          "author": "Loki Chan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Search every screenshot, text, and detail privatelyDiscussion|Link",
-          "published_at": "2026-02-05T17:40:50"
+          "summary": "Creative brainstorming card deck & notes appDiscussion|Link",
+          "published_at": "2026-02-04T03:31:15"
         },
         {
-          "title": "My Drawer",
-          "url": "https://www.producthunt.com/products/my-drawer",
-          "author": "Furkan Köseoğlu",
+          "title": "Developer Docs Audit",
+          "url": "https://www.producthunt.com/products/nakora",
+          "author": "fmerian",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Open source, intelligent sidebar for MacOSDiscussion|Link",
-          "published_at": "2026-02-06T02:52:34"
-        },
-        {
-          "title": "Claude Opus 4.6",
-          "url": "https://www.producthunt.com/products/anthropic-5",
-          "author": "Aleksandar Blazhev",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Claude’s most advanced model for agentic tasksDiscussion|Link",
-          "published_at": "2026-02-05T18:10:02"
-        },
-        {
-          "title": "ClawApp",
-          "url": "https://www.producthunt.com/products/clawapp",
-          "author": "Justin Ellery",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The easiest way to automate tasks with OpenClawDiscussion|Link",
-          "published_at": "2026-02-05T19:23:03"
-        },
-        {
-          "title": "BetterBugs MCP",
-          "url": "https://www.producthunt.com/products/betterbugs-io",
-          "author": "Nishil Patel",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Full bug context across all your tools for better debuggingDiscussion|Link",
-          "published_at": "2026-02-04T15:13:11"
+          "summary": "Increase LLM visibility, signups and activated usersDiscussion|Link",
+          "published_at": "2026-02-05T06:13:59"
         }
       ]
     },
@@ -621,6 +594,15 @@
       "count": 6,
       "items": [
         {
+          "title": "当你想来一次新年大扫除，这里或许有些经验可供参考",
+          "url": "https://sspai.com/post/95652",
+          "author": "宛潼",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "还对新年大扫除无从下手？不妨看看这份全家都能参与的全屋清洁指南。查看全文",
+          "published_at": "2026-02-07T02:10:41"
+        },
+        {
           "title": "本周看什么 | 最近值得一看的 11 部作品",
           "url": "https://sspai.com/post/106136",
           "author": "少数派编辑部",
@@ -664,15 +646,6 @@
           "source": "少数派",
           "summary": "很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有商务内 ...查看全文",
           "published_at": "2026-02-05T09:15:28"
-        },
-        {
-          "title": "满分五分，你给 Apple 的 2025 年打几分？",
-          "url": "https://sspai.com/post/106060",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "2025年，Apple在硬件领域的基调是稳健迭代，兼有新方向的试探。VisionPro迎来升级，虽然改善了佩戴舒适度与性能，但仍徘徊在大众市场的门槛之外。M5架构陆续应用到Mac与iPad，进一步巩固 ...查看全文",
-          "published_at": "2026-02-05T06:56:19"
         }
       ]
     }
