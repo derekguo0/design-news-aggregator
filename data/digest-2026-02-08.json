@@ -1,23 +1,23 @@
 {
   "date": "2026-02-08T00:00:00",
-  "total_items": 58,
+  "total_items": 59,
   "sources": [
-    "Smashing Magazine",
-    "CSS-Tricks",
-    "UX Design CC",
-    "A List Apart",
-    "少数派",
-    "Awwwards",
-    "优设网",
+    "UX Planet",
+    "人人都是产品经理",
     "Sidebar",
     "Design Milk",
+    "Awwwards",
     "Product Hunt",
-    "人人都是产品经理",
-    "Intercom Blog",
+    "优设网",
     "NN/g (Nielsen Norman Group)",
-    "UX Planet"
+    "UX Design CC",
+    "CSS-Tricks",
+    "A List Apart",
+    "Intercom Blog",
+    "少数派",
+    "Smashing Magazine"
   ],
-  "generated_at": "2026-02-08T02:52:21.550225",
+  "generated_at": "2026-02-08T12:59:15.998705",
   "categories": [
     {
       "category": "用户体验设计",
@@ -198,6 +198,24 @@
           "published_at": "2026-02-05T18:19:26"
         },
         {
+          "title": "领导插手的需求，如何避免自己成为“局外人”？我的跟进SOP",
+          "url": "https://www.woshipm.com/share/6339839.html",
+          "author": "产品经理小尹",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "当需求文档被领导私下修改而产品经理却毫不知情时，一场关于项目掌控力的危机悄然降临。本文通过真实案例剖析信息断层引发的三重损害，并给出产品经理夺回主导权的两步策略：从即时私密对接到书面公开同步。看资深产品人如何将职场危机转化为展现专业价值的机遇。上周三下午，当测试同学拿着用例文档来问我一个边界逻辑时，我自信地打开那份一周前已评审通过的需求文档。几乎同时，技术负责人在群里@我问：“领导刚才说的新方案，...",
+          "published_at": "2026-02-08T04:34:32"
+        },
+        {
+          "title": "“养号”？纯属扯淡！",
+          "url": "https://www.woshipm.com/share/6339802.html",
+          "author": "无事小神仙",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "短视频平台的“养号”理论为何成为一场自欺欺人的游戏？资深运营老咖揭露了其中的五大逻辑陷阱：从混淆观众与创作者身份，到因果关系的颠倒；从与平台算法的无效博弈，到信号传递的错误方向；甚至你的“努力”可能正在为账号贴上负面标签。这篇文章不仅拆解了“养号论”为何持续收割韭菜的心理机制，更指出内容本身才是唯一的硬通货。作为一个十五年运营老咖，自认为在互联网运营方面，自己还是有些能耐的。最近闲着没事干，就去找...",
+          "published_at": "2026-02-08T03:21:49"
+        },
+        {
           "title": "OpenClaw：167k 星标的开源 AI 革命，是效率神器还是潘多拉魔盒？",
           "url": "https://www.woshipm.com/ai/6339631.html",
           "author": "冒泡泡",
@@ -223,24 +241,6 @@
           "source": "人人都是产品经理",
           "summary": "在AI重塑设计边界的时代，设计师的护城河已从单纯的“感性共情”升级为“理性解构”。本文深度拆解了“设计思维”与“计算思维”这对双核大脑的协作逻辑，揭示了如何通过“分解、抽象、算法、模式识别”四大核心要素，将复杂问题转化为计算机可执行的指令，实现人机共创的效率革命。设计师常被认为是感性的代表，我们擅长运用“设计思维”共情用户、定义问题。但在AI时代，仅凭感性已不够。我们必须主动学习一个理性的新语言课...",
           "published_at": "2026-02-07T03:33:34"
-        },
-        {
-          "title": "2万亿的秘密：情绪经济是怎么炼成的？",
-          "url": "https://www.woshipm.com/marketing/6339702.html",
-          "author": "长脸KK",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "2025年，“爱你老己”成为消费新趋势，人们愈发愿意为情绪价值买单。从北京的“暖宠家”到深圳的手工皮具工作室，取悦自己的消费行为正重塑市场逻辑。本文将借助行为经济学和心理账户理论，揭示情绪消费逆势崛起的深层原因，并探讨社交媒体如何助推这场“情价比”革命。如果用一个词总结2025年的消费行为，“爱你老己”绝对能高票当选。这个被网友捧红的热梗，看是戏谑，实则精准戳中过去一整年的消费真相：人们越来越愿意...",
-          "published_at": "2026-02-07T03:30:14"
-        },
-        {
-          "title": "微信，给元宝“纠偏”",
-          "url": "https://www.woshipm.com/share/6339730.html",
-          "author": "互联网江湖",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "当微信封杀元宝红包外链引发舆论风暴，这场看似简单的功能冲突背后，实则是AI时代产品逻辑与用户体验的深层博弈。从QQ到微信的进化史证明，真正的粘性从来不是靠红包砸出来的，而是对产品信条的坚守。微信，把元宝红包给封了。于是社交媒体炸了。元宝回应：“正在紧急优化调整分享机制，我们将尽快上线，确保用户抢红包体验。”微信公关总监“粥姨”发文表示：“用户体验第一，一视同仁。”并配上了一张表情包“我发起疯来自己...",
-          "published_at": "2026-02-07T03:01:55"
         }
       ]
     },
@@ -312,6 +312,15 @@
           "published_at": null
         },
         {
+          "title": "Nicola Romei™",
+          "url": "https://www.awwwards.com/sites/nicola-romeitm",
+          "author": "Nicola Romei",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Nfinite",
           "url": "https://www.awwwards.com/sites/nfinite",
           "author": "Numbered",
@@ -373,39 +382,39 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Yucca Packaging",
-          "url": "https://www.awwwards.com/sites/yucca-packaging",
-          "author": "Estrela Studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 3,
       "items": [
         {
-          "title": "Felsius",
-          "url": "https://www.producthunt.com/products/felsius",
-          "author": "Basura",
+          "title": "Inspector",
+          "url": "https://www.producthunt.com/products/inspector-3",
+          "author": "Michael Klikushin",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Never google “what’s 68°F in °C?” againDiscussion|Link",
-          "published_at": "2026-02-07T05:44:07"
+          "summary": "Figma for Claude CodeDiscussion|Link",
+          "published_at": "2026-02-07T08:07:36"
         },
         {
-          "title": "Quash",
-          "url": "https://www.producthunt.com/products/quash-intent-driven-mobile-testing",
-          "author": "Zac Zuo",
+          "title": "VolumeHub",
+          "url": "https://www.producthunt.com/products/volumehub",
+          "author": "Claudio Luciano",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A mobile QA agent that runs tests without scriptsDiscussion|Link",
-          "published_at": "2026-02-06T10:59:12"
+          "summary": "Per-app volume control for macOS with no driver installsDiscussion|Link",
+          "published_at": "2026-02-06T05:13:45"
+        },
+        {
+          "title": "Extrovert",
+          "url": "https://www.producthunt.com/products/extrovert",
+          "author": "Oleg Sobolev",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Lead nurturing and warm outreach copilot for LinkedInDiscussion|Link",
+          "published_at": "2026-02-06T23:09:35"
         }
       ]
     },
@@ -459,9 +468,9 @@
           "published_at": null
         },
         {
-          "title": "你被 ChatGPT 催过付费吗？聊聊限制性提示背后的 UX 策略",
-          "url": "https://www.uisdc.com/hunter/0221659855.html",
-          "author": "张老三",
+          "title": "谷歌 Material 3 更新，这个会跳舞的进度条能治愈等待焦虑吗？",
+          "url": "https://www.uisdc.com/hunter/0221659852.html",
+          "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
           "summary": null,
@@ -540,6 +549,15 @@
       "count": 6,
       "items": [
         {
+          "title": "从特斯拉一日自驾，看纯电在日本的实际体验",
+          "url": "https://sspai.com/post/106020",
+          "author": "SIMON_",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "对于想把车当作「工具」的日本人来说，最理想的状态还是充电发生在家里，而不是发生在路上。查看全文",
+          "published_at": "2026-02-08T07:41:17"
+        },
+        {
           "title": "当你想来一次新年大扫除，这里或许有些经验可供参考",
           "url": "https://sspai.com/post/95652",
           "author": "宛潼",
@@ -583,15 +601,6 @@
           "source": "少数派",
           "summary": "佳能推出 PowerShot G7 X Mark III 限量版相机，sudo 项目维护者公开寻求赞助等查看全文",
           "published_at": "2026-02-06T00:50:00"
-        },
-        {
-          "title": "新玩意 235｜少数派的编辑们最近买了啥？",
-          "url": "https://sspai.com/post/106090",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有商务内 ...查看全文",
-          "published_at": "2026-02-05T09:15:28"
         }
       ]
     }
