@@ -1,20 +1,20 @@
 {
   "date": "2026-02-09T00:00:00",
-  "total_items": 56,
+  "total_items": 57,
   "sources": [
-    "UX Planet",
+    "Awwwards",
     "UX Design CC",
+    "少数派",
     "A List Apart",
     "优设网",
+    "UX Planet",
     "Sidebar",
     "Design Milk",
-    "NN/g (Nielsen Norman Group)",
     "Product Hunt",
     "人人都是产品经理",
-    "Awwwards",
-    "少数派"
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2026-02-09T02:02:39.089465",
+  "generated_at": "2026-02-09T02:37:05.526605",
   "categories": [
     {
       "category": "用户体验设计",
@@ -366,7 +366,7 @@
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 4,
       "items": [
         {
           "title": "StayAwake.Dev",
@@ -376,6 +376,15 @@
           "source": "Product Hunt",
           "summary": "The one tab developers never closeDiscussion|Link",
           "published_at": "2026-02-06T04:03:44"
+        },
+        {
+          "title": "Inspector",
+          "url": "https://www.producthunt.com/products/inspector-3",
+          "author": "Michael Klikushin",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Figma for Claude CodeDiscussion|Link",
+          "published_at": "2026-02-07T08:07:36"
         },
         {
           "title": "VolumeHub",
