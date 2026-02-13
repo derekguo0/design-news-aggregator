@@ -1,22 +1,22 @@
 {
   "date": "2026-02-13T00:00:00",
-  "total_items": 62,
+  "total_items": 65,
   "sources": [
-    "UX Design CC",
-    "Awwwards",
-    "Product Hunt",
-    "优设网",
-    "UX Planet",
     "NN/g (Nielsen Norman Group)",
+    "UX Design CC",
     "人人都是产品经理",
-    "CSS-Tricks",
     "Smashing Magazine",
-    "A List Apart",
-    "Sidebar",
     "Design Milk",
-    "少数派"
+    "优设网",
+    "Product Hunt",
+    "Sidebar",
+    "UX Planet",
+    "CSS-Tricks",
+    "少数派",
+    "A List Apart",
+    "Awwwards"
   ],
-  "generated_at": "2026-02-13T02:39:34.835540",
+  "generated_at": "2026-02-13T13:09:24.710938",
   "categories": [
     {
       "category": "用户体验设计",
@@ -107,20 +107,11 @@
     },
     {
       "category": "用户体验研究",
-      "count": 6,
+      "count": 5,
       "items": [
         {
           "title": "How AI Literacy Shapes GenAI Use",
           "url": "https://www.nngroup.com/articles/ai-literacy/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Your Design System Needs an Enforcer",
-          "url": "https://www.nngroup.com/articles/design-system-enforcer/",
           "author": null,
           "category": "用户体验研究",
           "source": "NN/g (Nielsen Norman Group)",
@@ -224,49 +215,49 @@
           "published_at": "2026-02-11T14:00:02"
         },
         {
-          "title": "AI 时代的工作：消失、重组与新机会",
-          "url": "https://www.woshipm.com/ai/6340931.html",
-          "author": "花爷本爷",
+          "title": "小红书爆款复刻法，只做对一件事——把同一个选题重复做10遍",
+          "url": "https://www.woshipm.com/operate/6341580.html",
+          "author": "且行舟",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI的进化正在从辅助工具蜕变为独立执行主体，彻底重塑工作定义与职场生态。从法律合同审查到内容生产全流程，AI已开始自主完成目标设定、工具调用与结果优化的闭环操作。这场针对认知劳动的‘圈地运动’正在加速SaaS行业迭代、压缩白领岗位价值，并催生‘AI指挥官’等新兴职业角色。当执行权被机器接管，人类必须重新思考如何在新的人机协作格局中定位核心价值。如果 2025 年的 AI 还停留在“聊天机器人”的对...",
-          "published_at": "2026-02-13T01:12:03"
+          "summary": "小红书爆款笔记的创作密码，原来藏在「重复+迭代」的底层逻辑里。拆解200+爆款后发现的真相：大师级创作不是无中生有，而是将已验证的成功元素不断重组升级。本文将揭秘如何通过选题重复、形式迭代和情绪触点设计，打造让算法偏爱、用户记住的持续性爆款内容。这篇文章能解决小红书博主的两个问题：1.怎么找选题？2.如何创作爆款笔记？小红书爆款笔记不是“创新”出来的，是被“重复+迭代”出来的。我通过拆解200多篇...",
+          "published_at": "2026-02-13T09:15:57"
         },
         {
-          "title": "千问30亿“免单”的B面：这不是烧钱，而是AI Agent的“心智入场券”",
-          "url": "https://www.woshipm.com/ai/6341021.html",
-          "author": "噜噜猫",
+          "title": "聊聊AI三次发展浪潮对AI产品人的落地启示",
+          "url": "https://www.woshipm.com/ai/6341397.html",
+          "author": "飞上天的狗",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "2026年春节，互联网圈的开年大戏不是红包雨，而是阿里千问App掏出的“30亿免单卡”。上线9小时，AI点单量突破1000万单；全网奶茶店集体爆单；服务器数次宕机，官方不得不卑微发文“球球放过”；微信朋友圈的红包链接甚至被迅速屏蔽……这一系列“活久见”的场面，让很多人直呼：熟悉的阿里味道回来了，那个烧钱买流量的互联网草莽时代回来了。但在我看来，如果仅仅把这次活动看作是“又一次暴力买量”，那你就完全...",
-          "published_at": "2026-02-13T00:30:19"
+          "summary": "AI浪潮三度起落，为何69%企业仍在试验阶段？从1950年代的逻辑推理到如今的深度学习，每次技术浪潮都留下了深刻的商业教训。本文将拆解三次AI发展中的关键转折点，揭示概念先行、成本失控、技术堆砌等落地陷阱，帮助产品经理在技术狂热中保持清醒，找到AI与商业价值的最佳契合点。德勤中国×香港大学于2025年发布的《人工智能采用调查》 指出，69% 的企业仍处于 AI 试验或早期采用阶段，近半数受访者表示...",
+          "published_at": "2026-02-13T07:27:32"
         },
         {
-          "title": "240万美金ARR，真实犯罪案件改编，美国短剧界跑出了个“AI版Netflix”",
-          "url": "https://www.woshipm.com/share/6341692.html",
-          "author": "扬帆出海",
+          "title": "从 DeepSeek 的“价格战”到 Clawdbot 的“体验战”：定义 AI 产品的最后一公里？",
+          "url": "https://www.woshipm.com/ai/6339900.html",
+          "author": "大大千星河",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当霸总短剧让观众审美疲劳，TrueShort用真实犯罪案件撕开新缺口。上线6个月ARR达240万美元，登顶美国新闻应用榜第10。它不做娱乐放松的\"电子榨菜\"，而是用AI将失踪案、谋杀案影视化改编，20集×60秒的紧凑节奏让观众在紧张刺激中窥见人性阴暗面。这种\"Netflix质感+TikTok形式+AI生产\"的三重融合，正在重新定义短剧的内容边界。风口之下，无数人涌入高付费的美国市场去拍霸总、狼人、...",
-          "published_at": "2026-02-12T13:40:17"
+          "summary": "Clawdbot以产品锐度冲破AI体验的最后一公里，实现了从技术堆砌到体验封装的质变。这款开源项目不仅打破了权限枷锁，更在交互设计、记忆连续性上重新定义了人机关系。本文将深度解析它如何通过本地化策略击中用户信任痛点，以及这种端云协同模式对未来AI硬件的启示。2025 年初，DeepSeek 用极致的工程能力打破“算力霸权”，实现了“智能的平权”；2026 年初，Clawdbot（后更名为 Molt...",
+          "published_at": "2026-02-13T07:00:28"
         },
         {
-          "title": "智谱GLM-5这次开源，让高级程序员也危险了…",
-          "url": "https://www.woshipm.com/ai/6341685.html",
-          "author": "袋鼠帝",
+          "title": "硬核代码实测：阿康带你揭秘“提示词缓存”的省钱秘籍",
+          "url": "https://www.woshipm.com/ai/6341239.html",
+          "author": "产品阿康",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "智谱GLM-5深夜开源，直接干到全球第四、开源第一。参数规模从355B暴涨至744B，SWE-bench-Verified得分77.8，与Claude Opus 4.5不相上下。它不再卷Vibe Coding炫技，而是进化成能构建完整系统的「架构师」——7分钟生成API中转站，前后端逻辑、数据库全搞定。当AI从写代码转向搭系统，高级程序员的护城河正在被重新定义。先看看我用GLM-5优化的营销短视频...",
-          "published_at": "2026-02-12T13:34:24"
+          "summary": "本文通过Langchain框架的实战验证，不仅发现缓存命中可降低90%成本，更揭露了OpenAI、Google Gemini和DeepSeek三家大厂在缓存策略上的潜规则与安全风险。最后奉上「静态在前，动态在后」的黄金法则，以及开发者必须警惕的时序攻击隐患。一、硬核结论：Prompt Caching ≠Output Caching最近上网冲浪，刚好刷到了IBM团队关于LLM Prompt Cach...",
+          "published_at": "2026-02-13T06:54:39"
         },
         {
-          "title": "AI 广告全面入侵超级碗",
-          "url": "https://www.woshipm.com/ai/6341682.html",
-          "author": "寻空",
+          "title": "AI产品的需求挖掘：如何找到“AI能解决且值得解决”的真实场景",
+          "url": "https://www.woshipm.com/ai/6341514.html",
+          "author": "why",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "2026年超级碗被戏称为\"AI Bowl\"，AI广告几乎占据半壁江山。Anthropic用辛辣讽刺攻击竞品广告植入，OpenAI以温情叙事强调工具价值，Google用催泪故事消解技术恐惧，Amazon则以黑色幽默化解AI威胁论。当AI从幕后工具走向广告前台，品牌们正在用截然不同的策略回答同一个问题：如何让大众相信AI是助手而非威胁？本文深度拆解这场AI行业从技术和大众心智争夺的关键战役。今年的超级...",
-          "published_at": "2026-02-12T13:24:33"
+          "summary": "AI产品的需求挖掘远比传统产品复杂，不仅要识别真实用户痛点，更要平衡技术适配性与商业价值。本文系统拆解AI需求挖掘的四步核心框架，从场景筛选、需求验证到技术适配与价值评估，助你避开伪需求陷阱，精准锁定AI能解决且值得解决的高价值场景。在上一篇文章中，我们拆解了AI需求的技术可行性评估方法，明确了“能做、难做、不能做”的判断逻辑。而可行性评估的前提，是找到“AI能解决且值得解决”的真实场景——如果需...",
+          "published_at": "2026-02-13T06:43:14"
         }
       ]
     },
@@ -338,6 +329,15 @@
           "published_at": null
         },
         {
+          "title": "VALIENTE",
+          "url": "https://www.awwwards.com/sites/valiente",
+          "author": "VALIENTE BRANDS",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Art Here 2025 - Richard Mille",
           "url": "https://www.awwwards.com/sites/art-here-2025-richard-mille",
           "author": "Hervé Studio",
@@ -399,39 +399,66 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Aramco - Shoot For The Future",
-          "url": "https://www.awwwards.com/sites/aramco-shoot-for-the-future",
-          "author": "Immersive Garden",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 6,
       "items": [
         {
-          "title": "Powering",
-          "url": "https://www.producthunt.com/products/powering",
-          "author": "Deniz Özcan",
+          "title": "Walme Wallet",
+          "url": "https://www.producthunt.com/products/walme-wallet",
+          "author": "Oleh Mishchenko",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your ring of power for macOSDiscussion|Link",
-          "published_at": "2026-02-11T14:32:37"
+          "summary": "A unified hub for all your Web3 walletsDiscussion|Link",
+          "published_at": "2026-02-10T18:34:03"
         },
         {
-          "title": "Zendesk Signals by Usercall",
-          "url": "https://www.producthunt.com/products/zendesk-signals-by-usercall",
-          "author": "Junu Yang",
+          "title": "Atomic Bot",
+          "url": "https://www.producthunt.com/products/atomic-bot",
+          "author": "Andrew Dyuzhov",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Catch product problems early from Zendesk ticketsDiscussion|Link",
-          "published_at": "2026-02-12T06:30:30"
+          "summary": "One-click OpenClaw macOS appDiscussion|Link",
+          "published_at": "2026-02-13T00:26:45"
+        },
+        {
+          "title": "TrumpRx",
+          "url": "https://www.producthunt.com/products/trumprx",
+          "author": "Chris Messina",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Find the world's lowest prices on prescription drugsDiscussion|Link",
+          "published_at": "2026-02-13T05:23:29"
+        },
+        {
+          "title": "GLM-5",
+          "url": "https://www.producthunt.com/products/z-ai",
+          "author": "Zac Zuo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Open-weights model for long-horizon agentic engineeringDiscussion|Link",
+          "published_at": "2026-02-12T01:38:01"
+        },
+        {
+          "title": "Media Library by beehiiv",
+          "url": "https://www.producthunt.com/products/beehiiv",
+          "author": "Tyler Denk",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "One place to create, edit, and manage all your creativeDiscussion|Link",
+          "published_at": "2026-02-13T02:48:26"
+        },
+        {
+          "title": "LogiCoal",
+          "url": "https://www.producthunt.com/products/logicoal",
+          "author": "Brandon Moore",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "AI multi-agent coding assistant for your terminalDiscussion|Link",
+          "published_at": "2026-02-12T12:19:38"
         }
       ]
     },
@@ -500,49 +527,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Large tech companies don’t need heroes",
-          "url": "https://www.seangoedecke.com/heroism/",
+          "title": "Your design system needs an enforcer",
+          "url": "https://www.nngroup.com/articles/design-system-enforcer/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "It's processes and incentives that determine what happens, not any individual heroics.",
-          "published_at": "2026-02-12T12:40:49"
+          "summary": "Although design systems promise consistency, most still fail without someone actively enforcing the rules and making teams follow them.",
+          "published_at": "2026-02-13T12:34:37"
         },
         {
-          "title": "What are the odds?",
-          "url": "https://r74n.com/mini/odds",
+          "title": "Woven Sound",
+          "url": "https://woven-sound.surge.sh/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Explore the probabilities of some of the rarest events in history.",
-          "published_at": "2026-02-12T12:40:05"
+          "summary": "An experimental interface to create serendipitous sounds and music.",
+          "published_at": "2026-02-13T12:34:09"
         },
         {
-          "title": "The new UX Toolkit: data, context, and evals",
-          "url": "https://uxdesign.cc/the-new-ux-toolkit-data-context-and-evals-9bd09fea466d",
+          "title": "Google Cloud x Team USA",
+          "url": "https://sports.withgoogle.com/teamusa",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Designing how models behave.",
-          "published_at": "2026-02-12T12:39:33"
+          "summary": "An AI tool that transforms standard video into actionable data, helping athletes find their competitive edge for the Olympic Winter Games.",
+          "published_at": "2026-02-13T12:33:10"
         },
         {
-          "title": "Best Global Brands 2025",
-          "url": "https://interbrand.com/best-global-brands/global/",
+          "title": "Searching for Birds",
+          "url": "https://searchingforbirds.visualcinnamon.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Top 100 most valuable global brands according to Interbrand, with historical data since 2000.",
-          "published_at": "2026-02-12T12:39:06"
+          "summary": "An interactive story about the birds that capture our curiosity, told through data, visuals and illustrations.",
+          "published_at": "2026-02-13T12:32:20"
         },
         {
-          "title": "Refactoring internal documentation in Notion",
-          "url": "https://lethain.com/refactoring-internal-docs-notion/",
+          "title": "Molly guard in reverse",
+          "url": "https://unsung.aresluna.org/molly-guard-in-reverse/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Making changes that actually work instead of optically sounding impressive.",
-          "published_at": "2026-02-12T12:38:22"
+          "summary": "The story of the little plastic safety cover you have to move out of the way before you press some button of significance.",
+          "published_at": "2026-02-13T12:31:45"
         }
       ]
     },
@@ -575,6 +602,42 @@
       "count": 6,
       "items": [
         {
+          "title": "本周看什么 | 最近值得一看的 8 部作品",
+          "url": "https://sspai.com/post/106352",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "📅本周新预告《来自深渊觉醒的神秘》首支预告2月8日，动画电影《来自深渊觉醒的神秘》发布了首支特报，定档2026年秋季在日本上映。本作改编自土笔章人的同名漫画，小岛正幸执导，仓田英之编剧，KevinPe ...查看全文",
+          "published_at": "2026-02-13T09:31:26"
+        },
+        {
+          "title": "或许，这就是「跨场景」个人终端的理想形态：CES 2026 后的 Khadas Mind 2体验",
+          "url": "https://sspai.com/post/105853",
+          "author": "向日葵八号",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "2025年10月至2026年1月期间，少数派与模块化迷你主机先行品牌Khadas合作，发起了针对Khadas最新产品Mind2的众测活动。本次活动分两期举行，每期挑选10名少数派用户，免费提供包含主机 ...查看全文",
+          "published_at": "2026-02-13T09:06:45"
+        },
+        {
+          "title": "《英语自学手册》作者、创作者郝海龙都装了啥？",
+          "url": "https://sspai.com/prime/story/zhuanglesha-260213",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "按：@郝海龙是少数派人气付费教程《英语自学手册》的作者，也是许多人关注的创作者。本期，《装了啥》请到他介绍自己的近况的规划，常用的软硬件工具，以及关于AI时代学习英语和从事创作的思考。请介绍一下你自己 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "published_at": "2026-02-13T08:23:30"
+        },
+        {
+          "title": "Kali LP-UNF：我心中的入门级桌面音箱最优解",
+          "url": "https://sspai.com/post/106144",
+          "author": "车不能快",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "在这个玄学肆虐的音频市场里，能有这样一个朴素，甚至有点接地气的品牌，何尝不是一种浪漫。查看全文",
+          "published_at": "2026-02-13T03:04:38"
+        },
+        {
           "title": "派早报：智谱上线并开源 GLM-5 模型、网信办开展春节清朗行动",
           "url": "https://sspai.com/post/106337",
           "author": "少数派编辑部",
@@ -591,42 +654,6 @@
           "source": "少数派",
           "summary": "这篇文章推荐的游戏基于以下几个原则：无需联网，单机即可游玩；有极高的可重复性，无法以线性叙事「通关」或离通关的距离很远；至少有 iOS/Android 或 Switch 的版本可选。希望这些游戏能让你的旅途再轻松一点。查看全文",
           "published_at": "2026-02-12T09:30:00"
-        },
-        {
-          "title": "iOS 26.3 值得关注的新特性",
-          "url": "https://sspai.com/post/106202",
-          "author": "Vanilla",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "在iOS26.3正式版推出的这个时间点，离Apple的Q1财报发布已经过去了一周多的时间。有意思的是，最近半年Apple的股价因为AI进展缓慢而一直承压，在「美股七姐妹」中显得格格不入，却在最近半个月 ...查看全文",
-          "published_at": "2026-02-12T07:31:07"
-        },
-        {
-          "title": "普通人更要多动手：聊聊我把 Claude Code 变成个人助手后的那些事",
-          "url": "https://sspai.com/post/105331",
-          "author": "愚人哲",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "下载一个 Claude Code 或者 Cursor，把你的想法告诉 AI。你会发现，原来自己能做到的事情，比想象中多得多。查看全文",
-          "published_at": "2026-02-12T03:31:21"
-        },
-        {
-          "title": "派早报：Apple 将举办五十周年庆、VSCO 上架 Lr 预设等",
-          "url": "https://sspai.com/post/106310",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "WhatsApp 网页版将迎来大更新、CrossOver 上线新的大版本等。查看全文",
-          "published_at": "2026-02-12T00:32:34"
-        },
-        {
-          "title": "OpenClaw：高强度使用两周，这个 AI 工具颠覆了我的工作流",
-          "url": "https://sspai.com/post/106232",
-          "author": "Vanilla",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "我相信很多人在最近一个月都被一款叫作OpenClaw的AI工具刷屏了。据社交平台发布和社区早期讨论，这款工具曾经历过多次命名调整，最终定名为OpenClaw。在更名期间，还发生了社交平台账号被恶意抢注 ...查看全文",
-          "published_at": "2026-02-11T09:47:35"
         }
       ]
     }
