@@ -1,22 +1,23 @@
 {
   "date": "2026-02-14T00:00:00",
-  "total_items": 60,
+  "total_items": 64,
   "sources": [
-    "Smashing Magazine",
-    "Awwwards",
-    "人人都是产品经理",
-    "少数派",
-    "Design Milk",
+    "NN/g (Nielsen Norman Group)",
+    "A List Apart",
     "Intercom Blog",
+    "人人都是产品经理",
+    "优设网",
+    "Smashing Magazine",
     "Product Hunt",
+    "Awwwards",
+    "UX Design CC",
+    "CSS-Tricks",
     "Sidebar",
     "UX Planet",
-    "优设网",
-    "UX Design CC",
-    "A List Apart",
-    "NN/g (Nielsen Norman Group)"
+    "Design Milk",
+    "少数派"
   ],
-  "generated_at": "2026-02-14T02:27:11.274203",
+  "generated_at": "2026-02-14T12:57:12.067390",
   "categories": [
     {
       "category": "用户体验设计",
@@ -179,49 +180,49 @@
           "published_at": "2026-02-13T14:55:56"
         },
         {
-          "title": "AI也没想到，三年红透半边天",
-          "url": "https://www.woshipm.com/ai/6341735.html",
-          "author": "李召羊",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "人工智能在短短三年内席卷各行各业，从信息化到数字化再到智能化，互联网企业的竞争逻辑已被彻底改写。当AI开始接管销售线索挖掘、营销话术生成、售后服务等核心流程时，传统岗位的价值正在被重新定义。本文将深度剖析这场技术革命如何重塑产品形态与职业发展路径，揭示在效率至上的时代，产品经理该如何应对这场颠覆性变革。AI不会想到，三年红透半边天。01从步入社会到现在，经历过互联网行业的波动，虽没赶上增量发展的红...",
-          "published_at": "2026-02-14T01:50:13"
-        },
-        {
-          "title": "Anthropic的万字长文，讲了他们是如何评测Agent",
-          "url": "https://www.woshipm.com/ai/6341803.html",
+          "title": "Claude Code 升级： Todos升级Tasks",
+          "url": "https://www.woshipm.com/ai/6341821.html",
           "author": "卡萨丁AI",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI Agent的开发过程中，评估体系常常被视为负担，但Anthropic的最新实践揭示了其关键价值：它能区分真实回退与随机噪音。文章深入解析了三种评分器的优劣对比、能力评估与回归评估的战略分野，以及8步构建评估体系的实战路线图，为AI产品团队提供了从早期测试到长期维护的全套方法论。今天这篇文章，我想聊聊Anthropic这篇Blog的核心内容，以及我的一些实践思考。这篇文章的原文链接我放在这里了...",
-          "published_at": "2026-02-14T01:03:33"
+          "summary": "Claude Code 迎来重磅更新，Todos 进化为 Tasks！这次升级不仅是名称变更，更带来了跨会话协作、任务依赖管理和实时状态同步三大核心能力。随着 Opus 4.5 模型能力的提升，Anthropic 大胆砍掉了 TodoWrite 工具，同时为复杂工程项目设计了更强大的任务管理系统。本文将深度解析 Tasks 如何解决工程协作中的关键痛点，帮助开发者真正实现 AI 协同开发。昨天 C...",
+          "published_at": "2026-02-14T09:04:25"
         },
         {
-          "title": "AI浪潮下的社会重构：临界值将至，旧世界的规则正在崩塌",
-          "url": "https://www.woshipm.com/ai/6341701.html",
-          "author": "十二",
+          "title": "微信付费红包剖析：热闹背后的逻辑与博弈",
+          "url": "https://www.woshipm.com/operate/6340167.html",
+          "author": "实战产品说",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "2025至2026年间，AI发展速度远超预期，从文本生成到模型自迭代，技术革新正在颠覆人类社会形态。字节Seedance实现零门槛AI生视频商用，Cloud OPS4.6和GPT5.3的开发让人类与AI各占半壁江山，AI正在突破人类的掌控边界。这场变革不仅影响技术岗位，还将彻底改变就业逻辑、教育体系和医疗行业，甚至人类自身的进化方式。本文深入探讨AI临界值带来的社会重构，以及旧人与新人在新时代的生...",
-          "published_at": "2026-02-14T00:49:36"
+          "summary": "春节发红包时，你有没有刷到过各式各样的付费红包封面？国风款、动漫款、明星款，定价从 3 元到 10 元不等，有人为了图个新鲜随手购买，有人跟风入局想靠它赚钱，也有人吐槽花几块钱买个只能用 3 个月的封面，纯属交智商税。大家对微信红包封面付费功能的困惑高度集中：微信为啥要做付费封面？普通人真能靠它变现吗？付费封面的定价凭什么差这么多？微信红包封面付费早已形成百亿产业链，一边是微信的生态布局，一边是创...",
+          "published_at": "2026-02-14T08:07:08"
         },
         {
-          "title": "从功能满足到心灵共鸣，体验设计的进化与深耕",
-          "url": "https://www.woshipm.com/ucd/6342099.html",
-          "author": "南设",
+          "title": "AI视频告别赌徒式生成：Seedance2.0重构工作流，开启生产级工具新时代！",
+          "url": "https://www.woshipm.com/share/6341757.html",
+          "author": "造梦产品论",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从微信启动页孤独的小人望地球，到网易云音乐热评区的深夜共鸣，情感化设计正在重新定义产品竞争力。唐纳德·诺曼提出的三层模型——本能层的视觉吸引、行为层的流畅体验、反思层的价值认同——为产品设计提供了系统方法论。当功能差异逐渐缩小，能走进用户心里的设计才能建立真正的忠诚度。本文深度拆解情感化设计的理论脉络与经典案例，揭示如何让冰冷的产品拥有温度。在体验设计飞速发展的今天，“功能可用”已不再是产品的核心...",
-          "published_at": "2026-02-13T13:55:09"
+          "summary": "AI视频行业的竞争焦点正在从模型算力转向生产级工作流。Seedance2.0的突破在于将导演的创作逻辑产品化，解决稳定交付难题。本文深度拆解AI视频从炫技Demo到生产工具的范式迁移，揭示下一代产品的三大核心标志与商业化路径，带你读懂行业从模型比拼到工作流竞争的本质转变。AI视频产品的下一轮竞争，核心不在模型算力，而在能不能把导演的创作逻辑变成普通人能用、企业能复用的工作流。当然，模型是基础，没好...",
+          "published_at": "2026-02-14T07:08:41"
         },
         {
-          "title": "我们用AI做广告的目标是去AI味儿。",
-          "url": "https://www.woshipm.com/share/6342090.html",
-          "author": "陈无用",
+          "title": "用讲故事的方式来解释 Transformer",
+          "url": "https://www.woshipm.com/ai/6341922.html",
+          "author": "Sheila",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "用AI做广告的目标，竟是去AI味儿——这听起来像悖论，却是行业真实现状。预制菜餐厅的终极追求是现炒口感，AI广告人则在努力还原手工创作的温度。从第一阶段让AI当牛马小帮手，到第二阶段改造工业化流程，再到第三阶段实现瞬时定制广告，AI正在重塑广告业的生产范式。我们用AI做广告的目标是去AI味儿。这听上去像是一个笑话，但却是真的。预制菜餐厅的终极目标是把菜做出现炒的感觉，目前所有用AI做广告的，都在努...",
-          "published_at": "2026-02-13T13:21:04"
+          "summary": "Transformer模型如何成为AI领域的'翻译官'？本文用生动比喻揭秘自注意力、多头机制等核心原理，带你读懂这个支撑GPT、BERT等大模型的技术底座。从词袋处理到位置编码，从并行计算到远距关联，你将看到现代AI如何突破传统RNN的局限，同时直面数据饥渴与算力消耗的双重挑战。让我给你讲一个故事。这个故事的主角是一位翻译官，名叫Transformer（小T）。他的工作是把一本英文小说翻译成中文。...",
+          "published_at": "2026-02-14T06:19:42"
+        },
+        {
+          "title": "移动端产品设计之“搜索”功能🔥",
+          "url": "https://www.woshipm.com/share/6340969.html",
+          "author": "玉米",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "移动端搜索设计背后的逻辑远比表面复杂。本文深度解析为何电商、内容平台需要全屏搜索页，而工具类产品更适合原地展开的搜索框。从屏幕空间利用、用户心理模型到技术实现，揭示不同场景下的最佳设计选择。移动端产品设计的时候，点击“搜索框”，为什么都会打开一个搜索页。什么样的产品需要打开一个新的搜索页，什么样的场景搜索的时候不需要打开一个新的搜索页。这是一个非常经典的移动端设计问题，涉及到用户体验的核心权衡：效...",
+          "published_at": "2026-02-14T05:56:40"
         }
       ]
     },
@@ -302,6 +303,15 @@
           "published_at": null
         },
         {
+          "title": "Damn Good Brands",
+          "url": "https://www.awwwards.com/sites/damn-good-brands-2",
+          "author": "Analogue",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "VALIENTE",
           "url": "https://www.awwwards.com/sites/valiente",
           "author": "VALIENTE BRANDS",
@@ -363,75 +373,75 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Ciridae",
-          "url": "https://www.awwwards.com/sites/ciridae",
-          "author": "newkid®",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 7,
       "items": [
         {
-          "title": "Meme Dealer",
-          "url": "https://www.producthunt.com/products/meme-dealer-2",
-          "author": "Chris Messina",
+          "title": "Cline CLI 2.0",
+          "url": "https://www.producthunt.com/products/cline-4",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "You are what you memeDiscussion|Link",
-          "published_at": "2026-02-12T07:14:05"
+          "summary": "Parallel agents & headless CI/CD in your terminalDiscussion|Link",
+          "published_at": "2026-02-14T06:32:22"
         },
         {
-          "title": "GPT‑5.3‑Codex‑Spark",
-          "url": "https://www.producthunt.com/products/openai",
-          "author": "Chris Messina",
+          "title": "Seedance 2.0",
+          "url": "https://www.producthunt.com/products/pixeldance-seaweed",
+          "author": "Ankit Sharma",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "An ultra-fast model for real-time coding in CodexDiscussion|Link",
-          "published_at": "2026-02-12T19:26:35"
+          "summary": "Advanced AI video creation with precise narrative controlDiscussion|Link",
+          "published_at": "2026-02-13T15:47:47"
         },
         {
-          "title": "MyBikeFitting",
-          "url": "https://www.producthunt.com/products/mybikefitting",
-          "author": "Elouan",
+          "title": "Termsy",
+          "url": "https://www.producthunt.com/products/termsy",
+          "author": "Arun Gopidas",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Free AI bike fitting via webcam or videoDiscussion|Link",
-          "published_at": "2026-02-12T08:48:33"
+          "summary": "Scans terms and conditions for youDiscussion|Link",
+          "published_at": "2026-02-13T11:14:40"
         },
         {
-          "title": "Fabric by Carmel Labs",
-          "url": "https://www.producthunt.com/products/fabric-by-carmel-labs",
-          "author": "Roman Moskalenko",
+          "title": "Your Love Style",
+          "url": "https://www.producthunt.com/products/your-love-style-a-valentine-s-day-event",
+          "author": "Helen Huang",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Submit a job via API or dashboard and get results for cheapDiscussion|Link",
-          "published_at": "2026-02-12T18:45:59"
+          "summary": "A choose-your-own-adventure game meets personality quizDiscussion|Link",
+          "published_at": "2026-02-14T04:51:15"
         },
         {
-          "title": "TrumpRx",
-          "url": "https://www.producthunt.com/products/trumprx",
-          "author": "Chris Messina",
+          "title": "Elebean",
+          "url": "https://www.producthunt.com/products/elebean",
+          "author": "OneQuy",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Find the world's lowest prices on prescription drugsDiscussion|Link",
-          "published_at": "2026-02-13T05:23:29"
+          "summary": "Your music companionDiscussion|Link",
+          "published_at": "2026-02-12T10:56:28"
         },
         {
-          "title": "Typeletter",
-          "url": "https://www.producthunt.com/products/typeletter-letters-to-the-soul",
-          "author": "Aishwarya Ashok",
+          "title": "OpenBug",
+          "url": "https://www.producthunt.com/products/openbug",
+          "author": "Sunny ☀️",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn your browser into a cozy, nostalgic writing nookDiscussion|Link",
-          "published_at": "2026-02-12T14:06:44"
+          "summary": "Ticket in, fix out. Every solution trains the next one.Discussion|Link",
+          "published_at": "2026-02-13T11:05:29"
+        },
+        {
+          "title": "Valentine Online",
+          "url": "https://www.producthunt.com/products/valentine-online",
+          "author": "Ayush Garg",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Personalized Valentine’s surprise page for your loved oneDiscussion|Link",
+          "published_at": "2026-02-13T10:24:54"
         }
       ]
     },
@@ -547,9 +557,51 @@
       ]
     },
     {
+      "category": "前端设计",
+      "count": 3,
+      "items": [
+        {
+          "title": "What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More",
+          "url": "https://css-tricks.com/whats-important-5/",
+          "author": "Daniel Schwarz",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "This issue of What’s !important is dedicated to our friends in the UK, who are currently experiencing a very miserable 43-day rain streak. Presenting: the five most interesting things to read about CS...",
+          "published_at": "2026-02-13T15:19:57"
+        },
+        {
+          "title": "Making a Responsive Pyramidal Grid With Modern CSS",
+          "url": "https://css-tricks.com/making-a-responsive-pyramidal-grid-with-modern-css/",
+          "author": "Temani Afif",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "This is the second part of a small two-part series. In this article, we will explore another type of grid: a pyramidal one. We are still working with hexagon shapes, but a different organization of th...",
+          "published_at": "2026-02-12T14:57:36"
+        },
+        {
+          "title": "Approximating contrast-color() With Other CSS Features",
+          "url": "https://css-tricks.com/approximating-contrast-color-with-other-css-features/",
+          "author": "Kevin Hamer",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "The newcontrast-color()function is not fully supported yet. But can we still implement it in a cross-browser friendly way using other new CSS features?Approximating contrast-color() With Other CSS Fea...",
+          "published_at": "2026-02-11T15:01:09"
+        }
+      ]
+    },
+    {
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "新年拒酒指南：除了头孢还有什么拒酒的好借口",
+          "url": "https://sspai.com/post/106300",
+          "author": "叁思Santh",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "如果有一天，你不再需要任何借口，就能坦然地说出那句「我不喝，谢谢」——那才是这篇文章真正想要抵达的地方。查看全文",
+          "published_at": "2026-02-14T03:00:00"
+        },
         {
           "title": "本周看什么 | 最近值得一看的 8 部作品",
           "url": "https://sspai.com/post/106352",
@@ -594,15 +646,6 @@
           "source": "少数派",
           "summary": "字节跳动发布视频创作模型 Seedance 2.0，小米 Tag 追踪器已在欧洲市场上市。查看全文",
           "published_at": "2026-02-13T00:30:55"
-        },
-        {
-          "title": "春节长途旅行，这 6 款耐玩小游戏先备好",
-          "url": "https://sspai.com/post/106284",
-          "author": "北鸮",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "这篇文章推荐的游戏基于以下几个原则：无需联网，单机即可游玩；有极高的可重复性，无法以线性叙事「通关」或离通关的距离很远；至少有 iOS/Android 或 Switch 的版本可选。希望这些游戏能让你的旅途再轻松一点。查看全文",
-          "published_at": "2026-02-12T09:30:00"
         }
       ]
     }
