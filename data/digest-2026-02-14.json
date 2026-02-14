@@ -3,21 +3,21 @@
   "total_items": 64,
   "sources": [
     "NN/g (Nielsen Norman Group)",
-    "A List Apart",
-    "Intercom Blog",
-    "人人都是产品经理",
-    "优设网",
-    "Smashing Magazine",
-    "Product Hunt",
-    "Awwwards",
-    "UX Design CC",
-    "CSS-Tricks",
-    "Sidebar",
-    "UX Planet",
     "Design Milk",
-    "少数派"
+    "Smashing Magazine",
+    "Awwwards",
+    "优设网",
+    "CSS-Tricks",
+    "A List Apart",
+    "UX Design CC",
+    "Product Hunt",
+    "少数派",
+    "Sidebar",
+    "Intercom Blog",
+    "UX Planet",
+    "人人都是产品经理"
   ],
-  "generated_at": "2026-02-14T12:57:12.067390",
+  "generated_at": "2026-02-14T12:58:10.318109",
   "categories": [
     {
       "category": "用户体验设计",
@@ -381,15 +381,6 @@
       "count": 7,
       "items": [
         {
-          "title": "Cline CLI 2.0",
-          "url": "https://www.producthunt.com/products/cline-4",
-          "author": "Zac Zuo",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Parallel agents & headless CI/CD in your terminalDiscussion|Link",
-          "published_at": "2026-02-14T06:32:22"
-        },
-        {
           "title": "Seedance 2.0",
           "url": "https://www.producthunt.com/products/pixeldance-seaweed",
           "author": "Ankit Sharma",
@@ -397,6 +388,15 @@
           "source": "Product Hunt",
           "summary": "Advanced AI video creation with precise narrative controlDiscussion|Link",
           "published_at": "2026-02-13T15:47:47"
+        },
+        {
+          "title": "Cline CLI 2.0",
+          "url": "https://www.producthunt.com/products/cline-4",
+          "author": "Zac Zuo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Parallel agents & headless CI/CD in your terminalDiscussion|Link",
+          "published_at": "2026-02-14T06:32:22"
         },
         {
           "title": "Termsy",
