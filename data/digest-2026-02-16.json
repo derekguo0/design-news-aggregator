@@ -1,27 +1,46 @@
 {
   "date": "2026-02-16T00:00:00",
-  "total_items": 49,
+  "total_items": 62,
   "sources": [
-    "Product Hunt",
-    "Sidebar",
     "Intercom Blog",
-    "A List Apart",
-    "少数派",
     "NN/g (Nielsen Norman Group)",
+    "Awwwards",
+    "Product Hunt",
     "CSS-Tricks",
-    "Design Milk",
-    "UX Design CC",
-    "Smashing Magazine",
+    "Sidebar",
     "UX Planet",
+    "Design Milk",
+    "少数派",
     "优设网",
-    "人人都是产品经理"
+    "人人都是产品经理",
+    "Smashing Magazine",
+    "UX Design CC",
+    "A List Apart"
   ],
-  "generated_at": "2026-02-16T02:35:56.576711",
+  "generated_at": "2026-02-16T13:13:08.713833",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 6,
+      "count": 9,
       "items": [
+        {
+          "title": "Natural design, industry vibeshift, Jony Ive, bringing buttons back",
+          "url": "https://uxdesign.cc/natural-design-industry-vibeshift-jony-ive-bringing-buttons-back-a0b364f2a787?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“It might be a sign of changing times and of our industry, it might be a marketing push from the companies betting big on AI. I don’t know....",
+          "published_at": "2026-02-16T12:16:11"
+        },
+        {
+          "title": "Your research tools got smarter… Did you?",
+          "url": "https://uxdesign.cc/your-research-tools-got-smarter-did-you-9fd4339617ca?source=rss----138adf9c44c---4",
+          "author": "Josh LaMar",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Data collection is being automated. The strategic layer is wide open. The question is which side of that line you’re standing on.Photo byWes HicksonUnsplashThe research industry is getting commodified...",
+          "published_at": "2026-02-16T11:03:58"
+        },
         {
           "title": "Why your CEO acts like a clown: The tribal myths of leadership",
           "url": "https://uxdesign.cc/why-your-ceo-acts-like-a-clown-the-tribal-myths-of-leadership-b3c2a5f6cc17?source=rss----138adf9c44c---4",
@@ -68,6 +87,15 @@
           "published_at": "2026-02-13T17:20:14"
         },
         {
+          "title": "The easiest way of creating Claude Skill",
+          "url": "https://uxplanet.org/the-easiest-way-of-creating-claude-skill-d0cd3d293086?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Claude Skills are reusable instructions that Anthropic Claude can execute for specific, repeatable tasks or workflows. In my opinion…Continue reading on UX Planet »",
+          "published_at": "2026-02-16T12:24:43"
+        },
+        {
           "title": "UI Design Validation with Nano Banana Pro",
           "url": "https://uxplanet.org/ui-design-validation-with-nano-banana-pro-936543144baa?source=rss----819cc2aaeee0---4",
           "author": "Nick Babich",
@@ -80,7 +108,7 @@
     },
     {
       "category": "用户体验研究",
-      "count": 5,
+      "count": 6,
       "items": [
         {
           "title": "UX Research with Minors: Consent vs. Assent",
@@ -103,6 +131,15 @@
         {
           "title": "How AI Literacy Shapes GenAI Use",
           "url": "https://www.nngroup.com/articles/ai-literacy/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Your Design System Needs an Enforcer",
+          "url": "https://www.nngroup.com/articles/design-system-enforcer/",
           "author": null,
           "category": "用户体验研究",
           "source": "NN/g (Nielsen Norman Group)",
@@ -170,55 +207,55 @@
           "published_at": "2026-02-13T14:55:56"
         },
         {
-          "title": "拒绝“开盲盒”：Seedance 2.0 驱动下的 AI 视频生产工业化实战",
-          "url": "https://www.woshipm.com/ai/6342142.html",
-          "author": "秋叶的枫",
+          "title": "OpenClaw白嫖云部署！附自定义模型API和4种Skills神级用法～",
+          "url": "https://www.woshipm.com/share/6342728.html",
+          "author": "袋鼠帝",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI视频制作正迎来革命性拐点。Seedance 2.0凭借角色档案锁死、多镜头自动生成与原生音画同步三大突破，将制作效率提升至工业级水平。本文深度拆解这款工具如何重构短剧生产流程，并为产品经理揭示从技术应用到商业闭环的关键思考。在 AI 视频领域，产品经理最怕听到的词就是“抽卡”。以前，做一段 15 秒的短剧素材，PM 需要让创作者像赌徒一样不停地输入提示词，期待 AI 能偶然吐出一个不崩坏、不跳...",
-          "published_at": "2026-02-16T02:19:26"
+          "summary": "从全自动早报整理到多Agent头脑风暴，从操控Claude Code编程到一键生成PPT，这个拥有Skills生态、MCP协议和系统级权限的AI助手，正在用自然语言重构人机交互范式。本文深度拆解OpenClaw的四大实用玩法、部署技巧与安全建议，带你体验\"睡觉时有人在替你干活\"的未来工作方式。最近这两周，我的X（推特）和各种群都被刷屏了。如果说去年春节期间大家还在讨论DeepSeek，那今年春节前...",
+          "published_at": "2026-02-16T13:04:06"
         },
         {
-          "title": "产品经理必吃透：多智能体协作（Multi-Agent）核心解析+7大落地模式",
-          "url": "https://www.woshipm.com/ai/6342440.html",
-          "author": "Tuer AI",
+          "title": "Seedance2.0：开启高质量AI视频创作的新时代",
+          "url": "https://www.woshipm.com/ai/6342613.html",
+          "author": "一葉",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "单智能体AI助手为何频频翻车？多智能体协作正在成为AI落地的关键范式。本文深度解析7大协作模式与5大设计原则，从智能客服到全链路营销，揭秘如何通过'AI虚拟项目组'实现复杂业务闭环，让产品经理掌握从技术概念到业务价值的转化密码。作为AI产品经理，你或许有过这样的困境：花大量精力接入大模型，打造的“全能型”单智能体助手落地即翻车——写活动方案缺落地细节、做客户服务无法精准分流、处理运营全流程难以闭环...",
-          "published_at": "2026-02-16T01:28:51"
+          "summary": "Seedance2.0的诞生重新定义了AI视频创作的边界。这款工具凭借角色一致性保持、多镜头智能规划和多模态素材解析三大突破，将视频制作从繁琐的技术流程中解放出来。它不仅解决了角色漂移、物理失真等行业痛点，更通过『导演式』控制界面让创作者重掌创意主导权，推动AI视频从玩具时代正式迈入生产力时代。在当今的影视、短剧、漫剧市场中，技术的变革正以前所未有的速度推动着行业的发展。Seedance2.0的横...",
+          "published_at": "2026-02-16T10:16:56"
         },
         {
-          "title": "千问”不跳端”背后：产品经理正在失去”画界面”的权力",
-          "url": "https://www.woshipm.com/ai/6342429.html",
-          "author": "浩思AI",
+          "title": "AI时代人的不可替代性：共度有限",
+          "url": "https://www.woshipm.com/ai/6342553.html",
+          "author": "KK的慢变量",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI助手将点奶茶的流程从5个页面压缩成1句话时，产品经理的设计对象正在发生根本性变革。本文深度解析四大厂AI入口争夺背后的'去界面化'趋势，揭示从页面设计到意图模型、混合UI、过程透明度和容错机制的新设计维度，为AI时代的产品经理提供战略转型路线图。这两天，关于千问30亿免单、元宝10亿红包、四大厂AI入口争夺的分析文章已经铺天盖地。但作为AI PM，我认为我们不该只盯着谁砸了多少钱、谁登顶了A...",
-          "published_at": "2026-02-16T00:17:27"
+          "summary": "AI可以精准分析恐惧与焦虑的哲学区别，却永远无法体会黑暗中被吞噬的原始战栗；它能瞬间切换‘智慧长者’人设，却无法理解失败如何在血肉中刻出真实的性格年轮。本文通过童年恐惧、演讲失败、家族菜谱等生命切片，揭示人类体验中那些无法被算法复制的温度：肉体感知的恐惧、创伤转化的同理心、记忆传承的情感纽带，以及面对死亡时的存在抗争。初始：原始生理的恐惧我依然记得童年时对黑暗的恐惧。那不是一种理性的认知，而是一种...",
+          "published_at": "2026-02-16T09:27:35"
         },
         {
-          "title": "Peter Thiel花3500万美金投了一个销售领域的Claude Code，号称要终结Salesforce时代",
-          "url": "https://www.woshipm.com/share/6342615.html",
-          "author": "深思圈",
+          "title": "DeepSeek 又改了”常识”：这次他们教 AI 像人一样”看书”",
+          "url": "https://www.woshipm.com/ai/6342551.html",
+          "author": "卡萨丁AI",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当技术创始人困于\"产品好却卖不出\"的魔咒，Monaco以3500万美元融资和顶级投资人背书，试图用AI Agent重构创业公司销售范式。这不是又一个CRM工具，而是一个将世界级销售方法论嵌入工作流的\"隐形首席营收官\"——从自动构建目标市场、生成个性化外联到真人专家监督，它让创始人从繁琐行政中解放，专注成交。本文深度拆解AI Agent如何从被动工具进化为主动行动者，以及这场\"销售民主化\"运动对创业...",
-          "published_at": "2026-02-15T12:58:49"
+          "summary": "DeepSeek最新论文《DeepSeek-OCR 2: Visual Causal Flow》颠覆了OCR领域十年的CLIP统治，提出了一种全新的视觉因果流处理机制。该技术不仅将阅读顺序准确率提升了33%，更揭示了通向原生多模态的未来路径——让AI学会像人类一样‘跳读’文档。我们读文档的时候，眼睛根本不是从左上扫到右下的。我个人阅读文档的时候，先是快速扫了一下标题和作者，知道这是篇什么主题的论文...",
+          "published_at": "2026-02-16T08:11:12"
         },
         {
-          "title": "AI视频的胜负手，a16z刚刚说清楚了：未来只拼“隐形后期团队”",
-          "url": "https://www.woshipm.com/ai/6342611.html",
-          "author": "硅基观察Pro",
+          "title": "为什么对AI说话，比对任何人都坦诚",
+          "url": "https://www.woshipm.com/ai/6342359.html",
+          "author": "ZQ",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当Seedance 2.0让视频生成成本趋近于零，真正的竞争高地正在向\"剪辑层\"迁移。a16z合伙人Justine Moore指出，视觉大模型对语义的理解、多模态工具的协同调度、生成模型的品质跃迁三大条件已同时成熟，AI Agent正从\"给素材\"进化为\"统筹流程、打磨细节、校准节奏\"的后期团队。本文深度拆解AI剪辑代理如何接管流程管理、多模型编排、细节打磨等五大环节，以及这场\"品味革命\"将如何重塑...",
-          "published_at": "2026-02-15T12:49:47"
+          "summary": "面对AI和人沟通时的双重标准，你是否也在经历同样的心理挣扎？这篇文章揭示了职场沟通背后的心理机制，提出了「坦诚度=信任度×退出成本⁻¹」的核心公式，并给出了一套提升人机沟通效率的GBCE法则。从心理学视角到实用方法论，带你突破职场沟通的心理障碍。上周三下午的需求评审会，我被技术总监问了一个问题。“这个数据指标的计算逻辑是什么？”我愣了三秒。那三秒里，我脑子转了八百圈：直接说不知道会不会显得太蠢？说...",
+          "published_at": "2026-02-16T07:26:50"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 7,
+      "count": 15,
       "items": [
         {
           "title": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps",
@@ -282,48 +319,129 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
+        },
+        {
+          "title": "Telha Clarke",
+          "url": "https://www.awwwards.com/sites/telha-clarke",
+          "author": "Greg Lallé",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Lightweight",
+          "url": "https://www.awwwards.com/sites/lightweight",
+          "author": "VKZ Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Damn Good Brands",
+          "url": "https://www.awwwards.com/sites/damn-good-brands-2",
+          "author": "Analogue",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "VALIENTE",
+          "url": "https://www.awwwards.com/sites/valiente",
+          "author": "VALIENTE BRANDS",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Art Here 2025 - Richard Mille",
+          "url": "https://www.awwwards.com/sites/art-here-2025-richard-mille",
+          "author": "Hervé Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Emilie Aubry",
+          "url": "https://www.awwwards.com/sites/emilie-aubry",
+          "author": "Studio Size",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "SILEENT",
+          "url": "https://www.awwwards.com/sites/sileent",
+          "author": "ET Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "The Renaissance Edition",
+          "url": "https://www.awwwards.com/sites/the-renaissance-edition",
+          "author": "Shopify Design",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Prompt Library",
-          "url": "https://www.producthunt.com/products/prompt-library",
-          "author": "Martin Baudin",
+          "title": "PenguinBot AI",
+          "url": "https://www.producthunt.com/products/penguinbot-ai",
+          "author": "Aryan Bains",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "All your best prompts. One shortcut away.Discussion|Link",
-          "published_at": "2026-02-14T17:42:26"
+          "summary": "Your AI-Employee Working 24/7Discussion|Link",
+          "published_at": "2026-02-15T07:59:40"
         },
         {
-          "title": "Habit Island",
-          "url": "https://www.producthunt.com/products/habit-island",
-          "author": "Daman Heer",
+          "title": "chowder.dev",
+          "url": "https://www.producthunt.com/products/chowder-2",
+          "author": "Gökhan Eğri",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Build a Kingdom From HabitsDiscussion|Link",
-          "published_at": "2026-02-14T03:34:56"
+          "summary": "Single API for launching OpenClaw instances.Discussion|Link",
+          "published_at": "2026-02-16T07:53:50"
         },
         {
-          "title": "OpenBug",
-          "url": "https://www.producthunt.com/products/openbug",
-          "author": "Sunny ☀️",
+          "title": "Meteorite",
+          "url": "https://www.producthunt.com/products/meteorite-2",
+          "author": "Roy",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Ticket in, fix out. Every solution trains the next one.Discussion|Link",
-          "published_at": "2026-02-13T11:05:29"
+          "summary": "A minimal & frictionless menu bar notetaker for macOSDiscussion|Link",
+          "published_at": "2026-02-16T05:40:19"
         },
         {
-          "title": "WikiTrip 2.0",
-          "url": "https://www.producthunt.com/products/wikitrip",
-          "author": "Björn",
+          "title": "Marketing Agents Squad",
+          "url": "https://www.producthunt.com/products/marketing-agents-squad",
+          "author": "Aquibur Rahman",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Location-based audio guide powered by WikipediaDiscussion|Link",
-          "published_at": "2026-02-13T15:56:46"
+          "summary": "Find AI agents to delegate your daily marketing grindDiscussion|Link",
+          "published_at": "2026-02-16T07:28:25"
+        },
+        {
+          "title": "JDoodle.ai MCP",
+          "url": "https://www.producthunt.com/products/jdoodle-ai",
+          "author": "fmerian",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Build and deploy web apps straight from ChatGPT/ClaudeDiscussion|Link",
+          "published_at": "2026-02-13T11:26:34"
         }
       ]
     },
@@ -377,9 +495,9 @@
           "published_at": null
         },
         {
-          "title": "一站式春节体验怎么做，看小红书的搜索页设计",
-          "url": "https://www.uisdc.com/hunter/0221660581.html",
-          "author": "七月之五月",
+          "title": "小红书春节开屏拆解，看这朵烟花如何把广告变成祝福",
+          "url": "https://www.uisdc.com/hunter/0221660584.html",
+          "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
           "summary": null,
@@ -392,49 +510,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Your design system needs an enforcer",
-          "url": "https://www.nngroup.com/articles/design-system-enforcer/",
+          "title": "Design is dead, it’s all evolution now",
+          "url": "https://ilyabirman.net/meanwhile/all/design-vs-evolution/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Although design systems promise consistency, most still fail without someone actively enforcing the rules and making teams follow them.",
-          "published_at": "2026-02-13T12:34:37"
+          "summary": "There’s no design in digital products anymore. It’s been replaced by evolution.",
+          "published_at": "2026-02-16T12:30:47"
         },
         {
-          "title": "Woven Sound",
-          "url": "https://woven-sound.surge.sh/",
+          "title": "Find Font",
+          "url": "https://www.findfont.co/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "An experimental interface to create serendipitous sounds and music.",
-          "published_at": "2026-02-13T12:34:09"
+          "summary": "Preview and compare fonts side by side. Download free fonts and test local uploads.",
+          "published_at": "2026-02-16T12:30:24"
         },
         {
-          "title": "Google Cloud x Team USA",
-          "url": "https://sports.withgoogle.com/teamusa",
+          "title": "Li Wang captures life, love and longing in color",
+          "url": "https://www.creativeboom.com/inspiration/li-wang-captures-life-love-and-longing-in-colour/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "An AI tool that transforms standard video into actionable data, helping athletes find their competitive edge for the Olympic Winter Games.",
-          "published_at": "2026-02-13T12:33:10"
+          "summary": "From sunlit beaches to intimate interiors, the Beijing-born artist explores masculinity, queer diasporic experience and personal memory.",
+          "published_at": "2026-02-16T12:30:03"
         },
         {
-          "title": "Searching for Birds",
-          "url": "https://searchingforbirds.visualcinnamon.com/",
+          "title": "Agentic Engineering",
+          "url": "https://addyosmani.com/blog/agentic-engineering/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "An interactive story about the birds that capture our curiosity, told through data, visuals and illustrations.",
-          "published_at": "2026-02-13T12:32:20"
+          "summary": "Agentic Engineering is a disciplined approach to AI-assisted software development that emphasizes human oversight and engineering rigor.",
+          "published_at": "2026-02-16T12:29:14"
         },
         {
-          "title": "Molly guard in reverse",
-          "url": "https://unsung.aresluna.org/molly-guard-in-reverse/",
+          "title": "How to make sure a designer never files a bug again",
+          "url": "https://unsung.aresluna.org/how-to-make-sure-a-designer-never-files-a-bug-again/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The story of the little plastic safety cover you have to move out of the way before you press some button of significance.",
-          "published_at": "2026-02-13T12:31:45"
+          "summary": "The best places I’ve worked were filled with shared trust and treated bugs as a joined responsibility of everyone.",
+          "published_at": "2026-02-16T12:28:43"
         }
       ]
     },
