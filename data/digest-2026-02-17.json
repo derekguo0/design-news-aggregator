@@ -1,25 +1,43 @@
 {
   "date": "2026-02-17T00:00:00",
-  "total_items": 53,
+  "total_items": 54,
   "sources": [
-    "优设网",
-    "Product Hunt",
-    "少数派",
-    "UX Planet",
-    "人人都是产品经理",
-    "Design Milk",
     "NN/g (Nielsen Norman Group)",
+    "Product Hunt",
+    "优设网",
     "Sidebar",
-    "UX Design CC",
+    "人人都是产品经理",
     "A List Apart",
-    "Awwwards"
+    "Design Milk",
+    "UX Planet",
+    "Awwwards",
+    "UX Design CC",
+    "少数派"
   ],
-  "generated_at": "2026-02-17T02:32:05.712735",
+  "generated_at": "2026-02-17T13:12:52.605568",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 9,
+      "count": 11,
       "items": [
+        {
+          "title": "How user segmentation, rather than personas, helps you get design buy-in",
+          "url": "https://uxdesign.cc/how-user-segmentation-rather-than-personas-helps-you-get-design-buy-in-6662d0a9a3ec?source=rss----138adf9c44c---4",
+          "author": "Kai Wong",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Businesses need to know who their user is, and how many there areContinue reading on UX Collective »",
+          "published_at": "2026-02-17T12:18:33"
+        },
+        {
+          "title": "Getting carried away: When intelligence is replaced by compliance",
+          "url": "https://uxdesign.cc/getting-carried-away-when-intelligence-is-replaced-by-compliance-f6c63585f7af?source=rss----138adf9c44c---4",
+          "author": "Gaurav Ramesh",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Exploring navigation as something bigger than moving through physical and digital spaces — as a fundamental cognitive actShipping the package that’s yourself (Image generated using Procreate and Nanob...",
+          "published_at": "2026-02-17T12:17:32"
+        },
         {
           "title": "The hidden cost of AI prototypes that are made to die",
           "url": "https://uxdesign.cc/the-hidden-cost-of-ai-prototypes-that-are-made-to-die-00cc4d491dec?source=rss----138adf9c44c---4",
@@ -186,6 +204,33 @@
           "published_at": "2026-02-16T14:00:07"
         },
         {
+          "title": "Seedance 2.0：告别“抽卡炼丹”，AI视频进入“导演工作台”时代",
+          "url": "https://www.woshipm.com/ai/6342674.html",
+          "author": "云端写信",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "AI视频领域正在经历一场由Seedance 2.0引领的技术范式革命。从过去的\"抽卡炼丹\"式随机生成，到如今支持多模态输入、精准资产引用和分镜编辑的工作台模式，这款工具正在重塑视频创作的可控性。本文将深度解析这场变革背后的三大技术支柱，以及它如何解决角色漂移、物理违和等AI视频的致命痛点。从“赌运气”到“可控生产”，一场由字节跳动引领的AI视频范式革命作为一名在互联网行业摸爬滚打了这些年的AI产品...",
+          "published_at": "2026-02-17T07:49:39"
+        },
+        {
+          "title": "Seedance 2.0爆火冷思考：当AI开始同时“听”和“看”，由于版权引发的工业级风暴",
+          "url": "https://www.woshipm.com/ai/6342645.html",
+          "author": "王小小",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "Seedance 2.0的爆火绝非偶然，它通过统一多模态架构解决了视频AI商业化的核心痛点——音画割裂。这款工具不仅是技术突破，更是一场商业效率的革命，直接冲击广告素材库、中低端拍摄团队和声音行业。但其背后隐藏的数据争议和法律风险，也标志着AI视频正式进入'法律雷区'。破除迷雾，从“看哑剧”到“有声电影”的商业跃迁如果以模型能力，一致性是不是更强了，输出是不是更高清了作为测评标准的话，那你把Sor...",
+          "published_at": "2026-02-17T04:47:16"
+        },
+        {
+          "title": "我赌AI的终局，只有这三个答案",
+          "url": "https://www.woshipm.com/ai/6342667.html",
+          "author": "Alex的荒诞产品观",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "AI行业的终局究竟是怎样的？资深业内人士将其拆解为三大派别——底座基建派、产业AI落地派和C端超级个体派。本文用通俗易懂的方式揭示了不同派别的核心逻辑、壁垒所在和残酷真相，帮助你认清AI浪潮下的真正机会与陷阱，避免在未来三五年内付出不必要的试错成本。最近和一个AI领域的朋友深聊，他抛出了一个让我醍醐灌顶的观点。他把AI行业的终局，拆成了三个派别。听完之后，我突然就明白了：为什么有些人做AI越做越值...",
+          "published_at": "2026-02-17T02:48:09"
+        },
+        {
           "title": "OpenClaw 被 OpenAI 收购后，有开发者连夜自建了一套 AI 的”DNA 系统”",
           "url": "https://www.woshipm.com/ai/6342733.html",
           "author": "深思圈",
@@ -202,33 +247,6 @@
           "source": "人人都是产品经理",
           "summary": "当腾讯以10亿红包推广元宝派，一场关于AI产品成熟度的拷问正在浮现。从无法理解\"战术后仰\"梗文化到视频号推荐与上下文脱节，从AI幻觉一本正经胡说八道到微信生态链路未完全打通，元宝在上下文处理、语义理解和联想能力上的短板暴露无遗。本文深度拆解AI助手从被动响应到主动服务所需的8项核心能力，以及为什么现金补贴无法掩盖产品力的根本差距——真正的AI爆发，从来不是靠红包砸出来的。我看不懂，但我大受震撼！很...",
           "published_at": "2026-02-16T13:27:26"
-        },
-        {
-          "title": "OpenClaw白嫖云部署！附自定义模型API和4种Skills神级用法～",
-          "url": "https://www.woshipm.com/share/6342728.html",
-          "author": "袋鼠帝",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "从全自动早报整理到多Agent头脑风暴，从操控Claude Code编程到一键生成PPT，这个拥有Skills生态、MCP协议和系统级权限的AI助手，正在用自然语言重构人机交互范式。本文深度拆解OpenClaw的四大实用玩法、部署技巧与安全建议，带你体验\"睡觉时有人在替你干活\"的未来工作方式。最近这两周，我的X（推特）和各种群都被刷屏了。如果说去年春节期间大家还在讨论DeepSeek，那今年春节前...",
-          "published_at": "2026-02-16T13:04:06"
-        },
-        {
-          "title": "Seedance2.0：开启高质量AI视频创作的新时代",
-          "url": "https://www.woshipm.com/ai/6342613.html",
-          "author": "一葉",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "Seedance2.0的诞生重新定义了AI视频创作的边界。这款工具凭借角色一致性保持、多镜头智能规划和多模态素材解析三大突破，将视频制作从繁琐的技术流程中解放出来。它不仅解决了角色漂移、物理失真等行业痛点，更通过『导演式』控制界面让创作者重掌创意主导权，推动AI视频从玩具时代正式迈入生产力时代。在当今的影视、短剧、漫剧市场中，技术的变革正以前所未有的速度推动着行业的发展。Seedance2.0的横...",
-          "published_at": "2026-02-16T10:16:56"
-        },
-        {
-          "title": "AI时代人的不可替代性：共度有限",
-          "url": "https://www.woshipm.com/ai/6342553.html",
-          "author": "KK的慢变量",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "AI可以精准分析恐惧与焦虑的哲学区别，却永远无法体会黑暗中被吞噬的原始战栗；它能瞬间切换‘智慧长者’人设，却无法理解失败如何在血肉中刻出真实的性格年轮。本文通过童年恐惧、演讲失败、家族菜谱等生命切片，揭示人类体验中那些无法被算法复制的温度：肉体感知的恐惧、创伤转化的同理心、记忆传承的情感纽带，以及面对死亡时的存在抗争。初始：原始生理的恐惧我依然记得童年时对黑暗的恐惧。那不是一种理性的认知，而是一种...",
-          "published_at": "2026-02-16T09:27:35"
         }
       ]
     },
@@ -288,6 +306,15 @@
           "category": "网页设计",
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
+          "published_at": null
+        },
+        {
+          "title": "MOB LINKS",
+          "url": "https://www.awwwards.com/sites/mob-links",
+          "author": "Benjamin Robinet",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
           "published_at": null
         },
         {
@@ -352,57 +379,39 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "The Renaissance Edition",
-          "url": "https://www.awwwards.com/sites/the-renaissance-edition",
-          "author": "Shopify Design",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 3,
       "items": [
         {
-          "title": "chowder.dev",
-          "url": "https://www.producthunt.com/products/chowder-2",
-          "author": "Gökhan Eğri",
+          "title": "Subterranean",
+          "url": "https://www.producthunt.com/products/subterranean-3",
+          "author": "Gordon Wu",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Single API for launching OpenClaw instances.Discussion|Link",
-          "published_at": "2026-02-16T07:53:50"
+          "summary": "AI technical cofounder to build your appDiscussion|Link",
+          "published_at": "2026-02-16T22:11:01"
         },
         {
-          "title": "Marketing Agents Squad",
-          "url": "https://www.producthunt.com/products/marketing-agents-squad",
-          "author": "Aquibur Rahman",
+          "title": "claude-devtools",
+          "url": "https://www.producthunt.com/products/claude-devtools",
+          "author": "matt",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Find AI agents to delegate your daily marketing grindDiscussion|Link",
-          "published_at": "2026-02-16T07:28:25"
+          "summary": "See everything Claude Code hides from your terminalDiscussion|Link",
+          "published_at": "2026-02-17T06:07:18"
         },
         {
-          "title": "PenguinBot AI",
-          "url": "https://www.producthunt.com/products/penguinbot-ai",
-          "author": "Aryan Bains",
+          "title": "Company logo API",
+          "url": "https://www.producthunt.com/products/hunter",
+          "author": "Jeanro Krupa",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your AI-Employee Working 24/7Discussion|Link",
-          "published_at": "2026-02-15T07:59:40"
-        },
-        {
-          "title": "NVIDIA PersonaPlex",
-          "url": "https://www.producthunt.com/products/nvidia",
-          "author": "Chris Messina",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Natural Conversational AI With Any Role and VoiceDiscussion|Link",
-          "published_at": "2026-02-16T01:13:31"
+          "summary": "Find any company logo for freeDiscussion|Link",
+          "published_at": "2026-02-17T07:18:28"
         }
       ]
     },
@@ -471,49 +480,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Design is dead, it’s all evolution now",
-          "url": "https://ilyabirman.net/meanwhile/all/design-vs-evolution/",
+          "title": "A website to end all websites",
+          "url": "https://henry.codes/writing/a-website-to-destroy-all-websites/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "There’s no design in digital products anymore. It’s been replaced by evolution.",
-          "published_at": "2026-02-16T12:30:47"
+          "summary": "How to win the war for the soul of the internet, and build the Web We Want.",
+          "published_at": "2026-02-17T12:52:04"
         },
         {
-          "title": "Find Font",
-          "url": "https://www.findfont.co/",
+          "title": "WTF happened in 2012?",
+          "url": "https://wtfhappened2012.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Preview and compare fonts side by side. Download free fonts and test local uploads.",
-          "published_at": "2026-02-16T12:30:24"
+          "summary": "A collection of long-term charts showing societal, economic, and behavioral trends aligned around 2011–2014.",
+          "published_at": "2026-02-17T12:51:33"
         },
         {
-          "title": "Li Wang captures life, love and longing in color",
-          "url": "https://www.creativeboom.com/inspiration/li-wang-captures-life-love-and-longing-in-colour/",
+          "title": "AI Humanizer",
+          "url": "https://rehumanize.io/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "From sunlit beaches to intimate interiors, the Beijing-born artist explores masculinity, queer diasporic experience and personal memory.",
-          "published_at": "2026-02-16T12:30:03"
+          "summary": "The irony of this: Make content natural to bypass AI detection and feel truly human.",
+          "published_at": "2026-02-17T12:51:05"
         },
         {
-          "title": "Agentic Engineering",
-          "url": "https://addyosmani.com/blog/agentic-engineering/",
+          "title": "Life after Figma is coming (and it will be glorious)",
+          "url": "https://jonnyburch.com/life-after-figma/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Agentic Engineering is a disciplined approach to AI-assisted software development that emphasizes human oversight and engineering rigor.",
-          "published_at": "2026-02-16T12:29:14"
+          "summary": "As code becomes source of truth, design tools become interfaces on code, not the other way round.",
+          "published_at": "2026-02-17T12:50:18"
         },
         {
-          "title": "How to make sure a designer never files a bug again",
-          "url": "https://unsung.aresluna.org/how-to-make-sure-a-designer-never-files-a-bug-again/",
+          "title": "I guess I kinda get why people hate AI",
+          "url": "https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The best places I’ve worked were filled with shared trust and treated bugs as a joined responsibility of everyone.",
-          "published_at": "2026-02-16T12:28:43"
+          "summary": "Will I be able to acquire a job after this one, or if AI is going to completely take over my profession and ruin my career?",
+          "published_at": "2026-02-17T12:49:45"
         }
       ]
     },
