@@ -1,20 +1,22 @@
 {
   "date": "2026-02-19T00:00:00",
-  "total_items": 61,
+  "total_items": 65,
   "sources": [
-    "Design Milk",
-    "人人都是产品经理",
-    "优设网",
-    "NN/g (Nielsen Norman Group)",
-    "Smashing Magazine",
-    "Product Hunt",
     "UX Design CC",
+    "优设网",
+    "Awwwards",
+    "少数派",
+    "Smashing Magazine",
+    "CSS-Tricks",
+    "Product Hunt",
+    "NN/g (Nielsen Norman Group)",
+    "Design Milk",
     "Sidebar",
-    "UX Planet",
     "A List Apart",
-    "Awwwards"
+    "UX Planet",
+    "人人都是产品经理"
   ],
-  "generated_at": "2026-02-19T02:34:30.949272",
+  "generated_at": "2026-02-19T13:15:49.497642",
   "categories": [
     {
       "category": "用户体验设计",
@@ -62,7 +64,7 @@
           "author": "Hoang Nguyen",
           "category": "用户体验设计",
           "source": "UX Design CC",
-          "summary": "When AI executes your playbook better than you do, critical thinking becomes the only edge left.Continue reading on UX Collective »",
+          "summary": "I showed my team an AI-generated design. Two senior designers called it ‘solid.’ None of them questioned where it came from.Continue reading on UX Collective »",
           "published_at": "2026-02-18T12:15:15"
         },
         {
@@ -249,6 +251,33 @@
           "published_at": "2026-02-17T14:00:43"
         },
         {
+          "title": "跨境支付入门（七）：调单、拒付、再请款、Pre-Arb、Arbitration 全流程详解",
+          "url": "https://www.woshipm.com/share/6342888.html",
+          "author": "Amour",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "信用卡争议生命周期是隐藏在支付链路中的风险风暴眼。从调单请求到最终仲裁，每个环节都牵动着商户的资金安全与收单资格。本文深度拆解Visa、Mastercard两大卡组织的争议处理机制，揭示拒付背后从调单到仲裁的九大关键节点，带你掌握跨境支付中最致命的资金追偿游戏规则。在授权、请款、清算、结算之外，信用卡体系还存在一条独立运行的链路——争议生命周期（Dispute Lifecycle）它不是商户主动发...",
+          "published_at": "2026-02-19T07:32:03"
+        },
+        {
+          "title": "谷歌如何持续规模化打造现象级产品？深度解析其产品模型与组织能力",
+          "url": "https://www.woshipm.com/ai/6340997.html",
+          "author": "江南布衣",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "从搜索引擎到自动驾驶，谷歌如何用产品模型征服每一个战场？这家科技巨头用持续的产品发现、严密的OKR体系与独特的赋能团队结构，构建了18万员工协作的底层逻辑。本文深度拆解谷歌产品战略从PageRank到Gemini的进化路径，揭示其如何在AI时代保持技术领先与商业成功的双重优势。谷歌是全球最具价值的企业之一，旗下拥有至少9款月活跃用户超过10亿的产品。这些产品早已超越了搜索和广告的传统业务范畴，涵盖...",
+          "published_at": "2026-02-19T04:28:42"
+        },
+        {
+          "title": "开源🦞OpenClaw 火了：一个 Gateway 接住所有聊天 App",
+          "url": "https://www.woshipm.com/ai/6342859.html",
+          "author": "Lucky培丽",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "OpenClaw以独特的「小龙虾」形象和「EXFOLIATE!」口号破圈，成为2026年最值得关注的开源AI助手项目。它通过单Gateway架构实现跨IM平台的无缝对话，嵌入式Agent技术与自研系统提示词体系，为追求隐私可控的用户提供了全新的AI交互范式。本文将深度解析其技术架构与核心设计理念。一、为什么叫「小龙虾」？为什么火？项目名OpenClaw直译是「开放的爪子」—— logo 是一只 小...",
+          "published_at": "2026-02-19T02:30:11"
+        },
+        {
           "title": "Elys的“低熵世界”：社交不需要计算",
           "url": "https://www.woshipm.com/ai/6342837.html",
           "author": "卡萨丁AI",
@@ -265,33 +294,6 @@
           "source": "人人都是产品经理",
           "summary": "xAI两位联合创始人相继离职，引发行业对AI人才流动趋势的关注。从OpenAI到Google，核心技术人员纷纷出走创业，方向涵盖AI安全、智能系统、AI搜索、虚拟角色等。通过分析这些'创业天团'的动向，洞察AI行业从技术突破到应用深化的演进路径。短短两天时间，xAI炸锅了。2026年2月10日至11日，两位联合创始人吴宇怀（Yuhuai Tony Wu）与Jimmy Ba相继宣布离职。对此，吴宇怀...",
           "published_at": "2026-02-18T14:06:50"
-        },
-        {
-          "title": "当AI不再只会聊天，生成式UI来了！这个开源框架让React应用秒变AI原生",
-          "url": "https://www.woshipm.com/ai/6342940.html",
-          "author": "深思圈",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "当每个软件都在右下角塞进AI聊天框时，用户却发现文字回复解决不了实际问题。Tambo 1.0的发布揭示了一个新方向：让AI直接渲染可交互的UI组件而非文字。从座位图到数据图表，generative UI正在重新定义人机交互的范式。你有没有发现，现在几乎每个软件都在疯狂添加AI聊天功能？打开任何一个产品，右下角必然有个闪烁的聊天图标。你点进去，问一个问题，AI给你回复一大段文字。然后呢？你还是得自己...",
-          "published_at": "2026-02-18T13:55:50"
-        },
-        {
-          "title": "产品经理如何谈薪资？涨薪谈判实战技巧",
-          "url": "https://www.woshipm.com/zhichang/6342938.html",
-          "author": "健彬的产品Live",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "产品经理谈薪总被HR'画饼'？从战前准备到谈判话术，本文拆解谈薪全流程实战技巧。量化战绩、摸清预算、拓展薪资包组合拳，教你用需求沟通能力守住底线，让薪资涨幅跑赢KPI。朋友们，今天来聊一个能让全体打工人瞬间精神百倍的话题——谈薪资！毕竟产品经理天天背锅改需求，996熬到脱发，要是薪资跟不上，那真的分分钟想躺平啊！是不是每次到了谈薪环节，要么紧张到语无伦次，要么狮子大开口直接把HR吓退，要么被HR的...",
-          "published_at": "2026-02-18T13:50:23"
-        },
-        {
-          "title": "即梦Seedance 2.0又出10种神级玩法，真人快打已经落后N个版本了",
-          "url": "https://www.woshipm.com/ai/6342937.html",
-          "author": "卡尔的AI沃茨",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "Seedance 2.0正掀起AI视频创作狂潮，支持图像、视频、音频、文本四模态混合输入，配合Seedream 5.0 Lite图片模型，可实现九宫格分镜转连贯打斗视频、四格漫画自动动画化、小说文字转剧情片等十种开袋即食玩法，让普通人也能零门槛制作专业级内容。来不及解释了，大家玩Seedance 2.0都玩疯了，我凌晨四点都还在排队，每当我以为玩法总结差不多的时候，就又看到了一堆好玩的。这篇文章我...",
-          "published_at": "2026-02-18T13:47:57"
         }
       ]
     },
@@ -363,6 +365,15 @@
           "published_at": null
         },
         {
+          "title": "Farm Minerals",
+          "url": "https://www.awwwards.com/sites/farm-minerals",
+          "author": "ADELT Agency",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Studio Dialect",
           "url": "https://www.awwwards.com/sites/studio-dialect",
           "author": "studiodialect",
@@ -424,15 +435,6 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Emilie Aubry",
-          "url": "https://www.awwwards.com/sites/emilie-aubry",
-          "author": "Studio Size",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -441,58 +443,58 @@
       "count": 6,
       "items": [
         {
-          "title": "ClawMetry for OpenClaw",
-          "url": "https://www.producthunt.com/products/clawmetry",
-          "author": "Vivek Chand",
+          "title": "FF Designer",
+          "url": "https://www.producthunt.com/products/flutterflow",
+          "author": "Garry Tan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Real-time observability dashboard for OpenClaw AI agentsDiscussion|Link",
-          "published_at": "2026-02-17T23:04:59"
+          "summary": "Generate beautiful UI designs that you can instantly editDiscussion|Link",
+          "published_at": "2026-02-17T21:45:11"
         },
         {
-          "title": "Baseline Core",
-          "url": "https://www.producthunt.com/products/baseline-core",
-          "author": "Trent Mitchell",
+          "title": "Reloop",
+          "url": "https://www.producthunt.com/products/reloop",
+          "author": "Clément Janssens",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Open-source skills system that wires your business into AIDiscussion|Link",
-          "published_at": "2026-02-18T00:40:30"
+          "summary": "Create winning ads without prompts or skillsDiscussion|Link",
+          "published_at": "2026-02-18T07:49:43"
         },
         {
-          "title": "Calendarly",
-          "url": "https://www.producthunt.com/products/calendarly-calendar-on-lock-screen",
-          "author": "Dmytro Katyukha",
+          "title": "CertNode Reflex",
+          "url": "https://www.producthunt.com/products/certnode-reflex",
+          "author": "Steven Bryant",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn your calendar into a live Lock Screen wallpaperDiscussion|Link",
-          "published_at": "2026-02-16T15:55:48"
+          "summary": "AI-powered chargeback defense. Pay only when you win.Discussion|Link",
+          "published_at": "2026-02-18T10:47:04"
         },
         {
-          "title": "SPECTRE",
-          "url": "https://www.producthunt.com/products/spectre-2",
-          "author": "Joe Fernandez",
+          "title": "Feedix",
+          "url": "https://www.producthunt.com/products/feedix",
+          "author": "sk. J",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "An agentic coding workflow for product buildersDiscussion|Link",
-          "published_at": "2026-02-17T15:49:15"
+          "summary": "Your YouTube subscriptions, summarized and delivered by AIDiscussion|Link",
+          "published_at": "2026-02-18T08:14:01"
         },
         {
-          "title": "yottoCode",
-          "url": "https://www.producthunt.com/products/yottocode",
-          "author": "Muhamad Jawdat Akoum",
+          "title": "HyperCaps for macOS",
+          "url": "https://www.producthunt.com/products/hypercaps-for-macos",
+          "author": "AuraMark Studio",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Claude Code, meet Telegram.Discussion|Link",
-          "published_at": "2026-02-17T21:23:16"
+          "summary": "Turn CapsLock into a Super Key & Boost ProductivityDiscussion|Link",
+          "published_at": "2026-02-17T13:43:25"
         },
         {
-          "title": "Your AI Clone",
-          "url": "https://www.producthunt.com/products/your-ai-clone",
-          "author": "Shaun",
+          "title": "Monologue for iOS",
+          "url": "https://www.producthunt.com/products/monologue-2",
+          "author": "Chris Messina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your clone remembers people you've never metDiscussion|Link",
-          "published_at": "2026-02-17T21:13:09"
+          "summary": "Turn your voice into polished writing—wherever you go.Discussion|Link",
+          "published_at": "2026-02-18T00:55:55"
         }
       ]
     },
@@ -561,49 +563,97 @@
       "count": 5,
       "items": [
         {
-          "title": "AI’s text-trap",
-          "url": "https://uxdesign.cc/ais-text-trap-moving-towards-a-more-interactive-future-7035bbc4aaa5",
+          "title": "Design systems are today’s cure and tomorrow’s cause of shitty software",
+          "url": "https://pjonori.blog/posts/design-systems-tomorrows-cause-for-shitty-software/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "AI assistants don’t have to communicate in paragraphs. They can communicate through interfaces.",
-          "published_at": "2026-02-18T12:46:50"
+          "summary": "Design systems have been propping up quality from collapsing. And in doing so, risk making the collapse even more spectacular.",
+          "published_at": "2026-02-19T12:20:48"
         },
         {
-          "title": "Internet time capsule",
-          "url": "https://oooooooooooo.xyz/",
+          "title": "gradient.horse",
+          "url": "https://gradient.horse/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "An internet time capsule that will arrive once wifi reaches the moon.",
-          "published_at": "2026-02-18T12:46:00"
+          "summary": "Draw a horse, watch it run.",
+          "published_at": "2026-02-19T12:20:23"
         },
         {
-          "title": "People vs. Big Tech",
-          "url": "https://peoplevsbig.tech/",
+          "title": "The work moved: what the AI coding debate actually agrees on",
+          "url": "https://leadership.garden/ai-the-work-moved/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A growing, global movement fighting for a better digital future.",
-          "published_at": "2026-02-18T12:45:17"
+          "summary": "AI agents generate 98% more PRs but reviews take 91% longer. The work didn’t disappear — it moved.",
+          "published_at": "2026-02-19T12:20:00"
         },
         {
-          "title": "On cognitive debt",
-          "url": "https://www.natemeyvis.com/on-cognitive-debt/",
+          "title": "Figma plugin: CMYK Halftone",
+          "url": "https://www.figma.com/community/plugin/1584204863720680047/cmyk-halftone",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "AI-generated codebases are at risk of falling into a state where nobody knows how they work.",
-          "published_at": "2026-02-18T12:44:54"
+          "summary": "Simulate traditional CMYK halftone printing by generating and overlaying separate cyan, magenta, yellow, and black halftone dot screens.",
+          "published_at": "2026-02-19T12:19:17"
         },
         {
-          "title": "Launch it 3 times",
-          "url": "https://www.anildash.com/2026/02/13/launch-it-three-times/",
+          "title": "A programmer’s loss of identity",
+          "url": "https://ratfactor.com/tech-nope2",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Why your first launch might not be enough.",
-          "published_at": "2026-02-18T12:44:24"
+          "summary": "That lost identity was \"computer programmer\" and it was arguably one of the biggest.",
+          "published_at": "2026-02-19T12:18:36"
+        }
+      ]
+    },
+    {
+      "category": "前端设计",
+      "count": 3,
+      "items": [
+        {
+          "title": "Distinguishing “Components” and “Utilities” in Tailwind",
+          "url": "https://css-tricks.com/distinguishing-components-and-utilities-in-tailwind/",
+          "author": "Zell Liew",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "The distinction between \"components\" and \"utilities\" seems clear at first glance, but gets a little blurred when working with them in Tailwind.Distinguishing “Components” and “Utilities” in Tailwindor...",
+          "published_at": "2026-02-18T16:21:41"
+        },
+        {
+          "title": "Spiral Scrollytelling in CSS With sibling-index()",
+          "url": "https://css-tricks.com/spiral-scrollytelling-in-css-with-sibling-index/",
+          "author": "Lee Meyer",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "Lee accepts a challenge: arranging text in a spiral that animates as a vortex on scroll... all in CSS.Spiral Scrollytelling in CSS With sibling-index()originally published onCSS-Tricks, which is part ...",
+          "published_at": "2026-02-17T15:17:25"
+        },
+        {
+          "title": "Interop 2026",
+          "url": "https://css-tricks.com/interop-2026/",
+          "author": "Geoff Graham",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "Interop 2026 is officially a thing and there's plenty of new (and even old) CSS features that we can look forward to being cross-browser compatible and consistent!Interop 2026originally published onCS...",
+          "published_at": "2026-02-17T14:17:30"
+        }
+      ]
+    },
+    {
+      "category": "数字生活",
+      "count": 1,
+      "items": [
+        {
+          "title": "新玩意 236｜少数派的编辑们最近买了啥？",
+          "url": "https://sspai.com/post/106451",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "从手机到手指机器人，少数派的编辑们又买了啥新玩意？查看全文",
+          "published_at": "2026-02-19T05:33:00"
         }
       ]
     }
