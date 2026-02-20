@@ -1,27 +1,37 @@
 {
   "date": "2026-02-20T00:00:00",
-  "total_items": 66,
+  "total_items": 67,
   "sources": [
-    "少数派",
-    "优设网",
-    "UX Design CC",
-    "Design Milk",
     "人人都是产品经理",
-    "Smashing Magazine",
-    "Product Hunt",
+    "A List Apart",
+    "优设网",
     "Sidebar",
+    "UX Planet",
+    "Design Milk",
+    "Intercom Blog",
+    "少数派",
     "CSS-Tricks",
     "Awwwards",
-    "A List Apart",
-    "NN/g (Nielsen Norman Group)",
-    "UX Planet"
+    "UX Design CC",
+    "Product Hunt",
+    "Smashing Magazine",
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2026-02-20T02:29:42.529228",
+  "generated_at": "2026-02-20T13:07:31.930298",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 11,
+      "count": 12,
       "items": [
+        {
+          "title": "Field study: prototypes over mockups",
+          "url": "https://uxdesign.cc/field-study-prototypes-over-mockups-8581f20102ff?source=rss----138adf9c44c---4",
+          "author": "Édouard Wautier",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "A practical guide to designing with code in 2026Someone drops a link in a thread — not a deck, not a Figma file — something you can click through, interact with. The conversation shifts from opinions ...",
+          "published_at": "2026-02-20T12:13:54"
+        },
         {
           "title": "Are we performing ourselves into exhaustion?",
           "url": "https://uxdesign.cc/are-we-performing-ourselves-into-exhaustion-0e41da7d7652?source=rss----138adf9c44c---4",
@@ -185,7 +195,7 @@
     },
     {
       "category": "产品设计",
-      "count": 11,
+      "count": 12,
       "items": [
         {
           "title": "The Meraki Studios Emerges from the Olive Grove Hills of Southern Crete",
@@ -242,49 +252,58 @@
           "published_at": "2026-02-18T14:00:19"
         },
         {
-          "title": "乐观的人获得成功：放弃openclaw🦞前必看",
-          "url": "https://www.woshipm.com/ai/6343005.html",
-          "author": "PandorAI",
+          "title": "Transformation in action: Raising the bar for customer experience",
+          "url": "https://www.intercom.com/blog/raising-the-bar-for-customer-experience/",
+          "author": "Declan Ivory",
           "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "OpenClaw的调试过程充满挑战，但一旦掌握技巧，就能解锁其强大潜力。从模型分层到规则设定，从后台任务管理到结果存储，这些实战经验不仅让AI代理更稳定高效，更揭示了工具背后的设计哲学。本文将分享那些真正起作用的调试关键点，助你避开雷区，提升工作效率。我也差点把 OpenClaw 卸了。前两周，我每天都在“养龙虾”——一边烧额度，一边看 broker 连续八次给我同一个回答。折腾了无数次之后，现在...",
-          "published_at": "2026-02-20T01:42:12"
+          "source": "Intercom Blog",
+          "summary": "Efficiency was always AI's first promise for support teams. The more interesting story is what comes next.",
+          "published_at": "2026-02-20T12:36:36"
         },
         {
-          "title": "给AI造了1000个“楚门的世界”！Agent World Model如何引爆强化学习？",
-          "url": "https://www.woshipm.com/ai/6342759.html",
-          "author": "丢丢",
+          "title": "AI从工具到主体：新商业生态的崛起与未来竞争格局",
+          "url": "https://www.woshipm.com/ai/6342966.html",
+          "author": "特意安",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从跨境电商的‘黑天鹅’测试到金融风控的‘高智商犯罪’演习，这套基于语义生成的虚拟世界模型正在突破传统模拟器的三大死穴——复杂度陷阱、时效性灾难和数据真空。本文将深入拆解 AWM 的三层核心架构，并通过电商、社交、金融三大实战案例，揭示 AI 如何通过‘1000种虚拟人生’实现商业场景的零成本试错。前言：AI 落地的“最后 1 公里”噩梦与“模拟器之墙”在 2025 到 2026 年的 AI 浪潮里...",
-          "published_at": "2026-02-20T00:05:19"
+          "summary": "AI正从效率工具蜕变为生态级行动者，彻底重构商业世界的底层逻辑。Temporal的融资信号和市场定价转向揭示：未来竞争不再是功能叠加，而是谁能构建可靠的任务执行闭环。本文深度剖析AI作为'行动主体'如何重塑SaaS模式、流量霸权和组织形态，并给出创业者、大厂从业者与个人的生存指南。朋友们新年好！这段时间有点忙，很久没更新了，刚想着说写点什么，也恰好2026年初春科技圈有两个信号值得认真对待——它们...",
+          "published_at": "2026-02-20T08:15:55"
         },
         {
-          "title": "风水轮流转，这次轮到蚂蚁阿福登顶App Store第一！",
-          "url": "https://www.woshipm.com/share/6343093.html",
-          "author": "郭静",
+          "title": "跨境收单的成本与收费全解析——IC++、Buy Rate、Flat Rate 与 MDR 报价逻辑",
+          "url": "https://www.woshipm.com/share/6343047.html",
+          "author": "Amour",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "元宝、千问、蚂蚁阿福相继登顶App Store免费总榜，背后是10亿红包与30亿免单的'撒币'大战。但下载量含金量几何？红包退散后留存率如何？当AI助手竞争从产品力转向补贴战，中尾部玩家还有生存空间吗？自从2026年2月1日腾讯的AI助手元宝登顶App Store免费总榜第一名后，元宝为其他AI助手提供了模版。此前App Store免费总榜第一名长期被抖音的AI助手豆包霸榜，其他AI助手产品并未认...",
-          "published_at": "2026-02-19T13:48:00"
+          "summary": "跨境支付的核心竞争力往往藏在费率表的细节里。本文深度拆解IC++、Buy Rate与MDR三大定价模型，揭示信用卡收单业务中浮动成本与固定费率间的博弈逻辑，带你穿透表面数字看懂跨境支付的真实利润结构与风险陷阱。在前面的系列文章里，我们已经讲清了：信用卡的交易生命周期以及从调单到仲裁的拒付流程，对于跨境支付信用卡领域已经有了一定的认知。这一篇，我们系统拆解：跨境收单的成本结构与收费模式—— IC++...",
+          "published_at": "2026-02-20T05:27:35"
         },
         {
-          "title": "产品经理如何进行A/B测试？从设计到分析",
-          "url": "https://www.woshipm.com/share/6343090.html",
-          "author": "健彬的产品Live",
+          "title": "Lovart的产品方法论：把 AI 放进旧工作流，把自己站到上游入口",
+          "url": "https://www.woshipm.com/ai/6343040.html",
+          "author": "Josh赵士强",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "按钮配色被吐槽、新功能使用率惨淡？别再凭感觉做决策了。从目标设定到数据分析，本文拆解A/B测试全流程实战方法，教你用单一变量原则和统计显著性验证，让每次产品优化都有据可依，摆脱'拍脑袋'背锅体质。同学们，有没有遇到过这种破防时刻？改了3版的按钮配色，开发刚上线就被用户吐槽“像村口大红灯笼”；拍脑袋加的“一键直达”功能，数据出来发现使用率还不到1%？别再凭感觉做决策了！A/B测试才是产品经理摆脱“背...",
-          "published_at": "2026-02-19T13:35:14"
+          "summary": "AI产品的成功不在于技术堆砌，而在于如何无缝融入用户原有的工作习惯。Lovart的创新之处在于它将AI能力自然嫁接在设计师熟悉的画布协作场景中，通过Touch and Talk功能重新定义了设计协作方式。本文深度剖析了AI Native产品的三大核心原则：交互的自然融合、体验的结构重塑以及商业站位的上游卡位，揭示出AI产品设计的深层逻辑与战略思考。听完 Lovart（Liblib）创始人陈冕和罗永...",
+          "published_at": "2026-02-20T04:47:08"
         },
         {
-          "title": "康复诊所下半场拼的不是流量，是数据资产",
-          "url": "https://www.woshipm.com/share/6342998.html",
-          "author": "林裕虎",
+          "title": "会计引擎：财务系统的”数字心脏”与”沉默的罗盘”",
+          "url": "https://www.woshipm.com/pd/6343039.html",
+          "author": "数智产研笔记",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "康复诊所的竞争早已超越流量与价格的表层较量，真正拉开差距的恰恰是看似不性感的『数据资产』。本文深度剖析如何将患者评估、训练计划、执行反馈等六大类数据转化为闭环系统，从经验驱动升级为可复制的标准化交付能力，彻底改变行业以『疗效交付』为核心的新竞争逻辑。在大家的认知里，康复诊所之间的竞争往往还停留在几个老问题上，流量贵不贵、价格卷不卷、项目有没有差异化、装修高不高端。这些都是看得见的表层，短则几个月长...",
-          "published_at": "2026-02-19T08:20:39"
+          "summary": "会计引擎作为财务数字化的隐形心脏，正从后台走向核心战场。它不仅是业务语言与会计语言的精密转换器，更是财务稳定性的终极守护者。本文将深度剖析会计引擎如何通过刚性规则、分层架构与五重保障机制，在企业数字化转型中构建坚不可摧的数据防线，并通过正反案例揭示这一沉默巨匠的致命价值。清晨，当第一缕阳光穿透百叶窗，一家跨国企业的财务总监正凝视着屏幕。屏幕上，来自全球一百多个分支机构的交易数据如血液般汇入系统，经...",
+          "published_at": "2026-02-20T04:26:12"
+        },
+        {
+          "title": "当百亿红包散去，谁能在大模型时代真正“不迷路”？",
+          "url": "https://www.woshipm.com/ai/6342852.html",
+          "author": "千宇",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "2026年春晚见证了一场历史性的广告变革——AI产品首次集体取代白酒与互联网红包成为舞台主角。从腾讯元宝到阿里千问，各大厂商累计投入超80亿元，这场看似疯狂的营销狂欢背后，暗藏着AI时代心智占领的全新逻辑。本文将深度解析三次春晚广告主角跃迁背后的产业变迁密码，拆解大厂百亿布局的战略意图，并为AI Agent创业者指明突围路径。除夕夜，万家灯火。2026年的春晚如果你细心观察，会发现一个历史性的变化...",
+          "published_at": "2026-02-20T03:46:50"
         }
       ]
     },
@@ -356,6 +375,15 @@
           "published_at": null
         },
         {
+          "title": "Vibrant Wellness",
+          "url": "https://www.awwwards.com/sites/vibrant-wellness",
+          "author": "Noomo Agency",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Farm Minerals",
           "url": "https://www.awwwards.com/sites/farm-minerals",
           "author": "ADELT Agency",
@@ -417,93 +445,66 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Art Here 2025 - Richard Mille",
-          "url": "https://www.awwwards.com/sites/art-here-2025-richard-mille",
-          "author": "Hervé Studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 8,
+      "count": 6,
       "items": [
         {
-          "title": "FF Designer",
-          "url": "https://www.producthunt.com/products/flutterflow",
-          "author": "Garry Tan",
+          "title": "Google Pomelli 2.0",
+          "url": "https://www.producthunt.com/products/pomelli-by-google-labs",
+          "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Generate beautiful UI designs that you can instantly editDiscussion|Link",
-          "published_at": "2026-02-17T21:45:11"
+          "summary": "Turn simple product photos into pro studio imagery instantlyDiscussion|Link",
+          "published_at": "2026-02-19T17:13:06"
         },
         {
-          "title": "Reloop",
-          "url": "https://www.producthunt.com/products/reloop",
-          "author": "Clément Janssens",
+          "title": "keychains.dev",
+          "url": "https://www.producthunt.com/products/keychain-dev",
+          "author": "alban",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Create winning ads without prompts or skillsDiscussion|Link",
-          "published_at": "2026-02-18T07:49:43"
+          "summary": "Give AI access to 6754+ APIs with zero credentials exposedDiscussion|Link",
+          "published_at": "2026-02-19T09:47:17"
         },
         {
-          "title": "Monologue for iOS",
-          "url": "https://www.producthunt.com/products/monologue-2",
+          "title": "Claudebin",
+          "url": "https://www.producthunt.com/products/claudebin",
+          "author": "Vlad Temian",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Export and share your Claude Code sessions as resumable URLsDiscussion|Link",
+          "published_at": "2026-02-19T11:49:48"
+        },
+        {
+          "title": "Gemini 3.1 Pro",
+          "url": "https://www.producthunt.com/products/gemini-3-1-pro",
+          "author": "fmerian",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "A smarter model for your most complex tasksDiscussion|Link",
+          "published_at": "2026-02-19T16:13:55"
+        },
+        {
+          "title": "Dreamer",
+          "url": "https://www.producthunt.com/products/dreamer-3",
           "author": "Chris Messina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn your voice into polished writing—wherever you go.Discussion|Link",
-          "published_at": "2026-02-18T00:55:55"
+          "summary": "Your home for personal intelligenceDiscussion|Link",
+          "published_at": "2026-02-18T00:54:08"
         },
         {
-          "title": "AgentReady",
-          "url": "https://www.producthunt.com/products/agentready-2",
-          "author": "christian b.",
+          "title": "Arcmark",
+          "url": "https://www.producthunt.com/products/arcmark",
+          "author": "fmerian",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Cut your AI token costs by 40-60% with one API callDiscussion|Link",
-          "published_at": "2026-02-18T09:40:58"
-        },
-        {
-          "title": "CertNode Reflex",
-          "url": "https://www.producthunt.com/products/certnode-reflex",
-          "author": "Steven Bryant",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "AI-powered chargeback defense. Pay only when you win.Discussion|Link",
-          "published_at": "2026-02-18T10:47:04"
-        },
-        {
-          "title": "HyperCaps for macOS",
-          "url": "https://www.producthunt.com/products/hypercaps-for-macos",
-          "author": "AuraMark Studio",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Turn CapsLock into a Super Key & Boost ProductivityDiscussion|Link",
-          "published_at": "2026-02-17T13:43:25"
-        },
-        {
-          "title": "Feedix",
-          "url": "https://www.producthunt.com/products/feedix",
-          "author": "sk. J",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Your YouTube subscriptions, summarized and delivered by AIDiscussion|Link",
-          "published_at": "2026-02-18T08:14:01"
-        },
-        {
-          "title": "Mengram",
-          "url": "https://www.producthunt.com/products/mengram",
-          "author": "Ali Baizhanov",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "AI memory API with 3 types: facts, events, and workflowsDiscussion|Link",
-          "published_at": "2026-02-18T11:14:59"
+          "summary": "Your bookmarks, attached to any browser as a sidebarDiscussion|Link",
+          "published_at": "2026-02-19T20:32:57"
         }
       ]
     },
@@ -572,49 +573,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Design systems are today’s cure and tomorrow’s cause of shitty software",
-          "url": "https://pjonori.blog/posts/design-systems-tomorrows-cause-for-shitty-software/",
+          "title": "The software industrial revolution",
+          "url": "https://cannoneyed.com/essays/software-industrial-revolution",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Design systems have been propping up quality from collapsing. And in doing so, risk making the collapse even more spectacular.",
-          "published_at": "2026-02-19T12:20:48"
+          "summary": "Just like the first Industrial Revolution, this will change the world in profound and unexpected ways.",
+          "published_at": "2026-02-20T12:26:24"
         },
         {
-          "title": "gradient.horse",
-          "url": "https://gradient.horse/",
+          "title": "Remix Icon",
+          "url": "https://remixicon.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Draw a horse, watch it run.",
-          "published_at": "2026-02-19T12:20:23"
+          "summary": "A set of open source neutral style system symbols elaborately crafted for designers and developers.",
+          "published_at": "2026-02-20T12:25:16"
         },
         {
-          "title": "The work moved: what the AI coding debate actually agrees on",
-          "url": "https://leadership.garden/ai-the-work-moved/",
+          "title": "Keyviz",
+          "url": "https://keyviz.org/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "AI agents generate 98% more PRs but reviews take 91% longer. The work didn’t disappear — it moved.",
-          "published_at": "2026-02-19T12:20:00"
+          "summary": "A free and open-source tool to visualize your keystrokes and mouse actions.",
+          "published_at": "2026-02-20T12:24:45"
         },
         {
-          "title": "Figma plugin: CMYK Halftone",
-          "url": "https://www.figma.com/community/plugin/1584204863720680047/cmyk-halftone",
+          "title": "Case study: Frank Lloyd Wright Building Conservancy",
+          "url": "https://order.design/project/frank-lloyd-wright-building-conservancy",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Simulate traditional CMYK halftone printing by generating and overlaying separate cyan, magenta, yellow, and black halftone dot screens.",
-          "published_at": "2026-02-19T12:19:17"
+          "summary": "An identity that captures the legacy of Wright’s designs, the community built through the organization, and the immediate necessity of their work.",
+          "published_at": "2026-02-20T12:24:13"
         },
         {
-          "title": "A programmer’s loss of identity",
-          "url": "https://ratfactor.com/tech-nope2",
+          "title": "Why we hate AI",
+          "url": "https://blog.fallible.net/why-we-hate-ai/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "That lost identity was \"computer programmer\" and it was arguably one of the biggest.",
-          "published_at": "2026-02-19T12:18:36"
+          "summary": "Intellectual property theft on an obscene scale; but law is something that is carved and grown as needed by forces of power.",
+          "published_at": "2026-02-20T12:23:11"
         }
       ]
     },
@@ -653,8 +654,17 @@
     },
     {
       "category": "数字生活",
-      "count": 1,
+      "count": 2,
       "items": [
+        {
+          "title": "你住的城市下不下雪？用这份「雪天片单」感受浪漫季节",
+          "url": "https://sspai.com/post/94704",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "你是否也会在每年冬天期待一场大雪 ❄️查看全文",
+          "published_at": "2026-02-20T03:45:34"
+        },
         {
           "title": "新玩意 236｜少数派的编辑们最近买了啥？",
           "url": "https://sspai.com/post/106451",
