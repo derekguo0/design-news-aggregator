@@ -1,23 +1,23 @@
 {
   "date": "2026-02-21T00:00:00",
-  "total_items": 61,
+  "total_items": 62,
   "sources": [
+    "Awwwards",
+    "Product Hunt",
+    "NN/g (Nielsen Norman Group)",
     "A List Apart",
     "Intercom Blog",
-    "Awwwards",
-    "CSS-Tricks",
-    "UX Planet",
-    "Design Milk",
-    "Product Hunt",
     "优设网",
-    "NN/g (Nielsen Norman Group)",
-    "Smashing Magazine",
+    "Design Milk",
+    "UX Design CC",
+    "UX Planet",
     "人人都是产品经理",
-    "Sidebar",
+    "Smashing Magazine",
+    "CSS-Tricks",
     "少数派",
-    "UX Design CC"
+    "Sidebar"
   ],
-  "generated_at": "2026-02-21T02:23:54.586179",
+  "generated_at": "2026-02-21T12:57:07.920775",
   "categories": [
     {
       "category": "用户体验设计",
@@ -225,6 +225,33 @@
           "published_at": "2026-02-20T12:36:36"
         },
         {
+          "title": "组织架构大变：两部门被撤，AI将纳入绩效考核！",
+          "url": "https://www.woshipm.com/share/6343130.html",
+          "author": "刘刚",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "AI浪潮正在颠覆传统技术岗位的价值链，前端与测试部门的撤销只是这场变革的冰山一角。当AI编码工具能够快速完成基础工作时，技术人的核心竞争力正从写代码转向定义问题、设计方案和验证业务价值。本文深度剖析这场组织架构调整背后的思维革命，揭示AI时代职场人必须完成的能力跃迁与认知升级。春节前，公司技术部门启动了新一轮组织架构调整：原本独立的前端与测试部门被撤销，相关人员并入各业务线产研团队。部分人员，包括...",
+          "published_at": "2026-02-21T05:15:25"
+        },
+        {
+          "title": "康复诊所的硬件焦虑，背后是数据资产的失守",
+          "url": "https://www.woshipm.com/share/6343124.html",
+          "author": "林裕虎",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "消费医疗领域的IOT设备集成绝非简单硬件堆砌，而是数据交付体系的深度重构。本文揭秘设备数据融入医疗资产的三大路径——从轻量级报告存储到结构化指标分析，再到实时训练闭环管理，并指出真正驱动康复疗效的四类核心数据维度。看懂这套逻辑，才能让智能设备从营销噱头蜕变为运营利器。消费医疗的数据资产能不能集成到IOT设备中呢。答案是能，但逻辑要讲清楚。通常不是把数据资产集成进设备，而是把设备数据集成到你的数据资...",
+          "published_at": "2026-02-21T04:06:51"
+        },
+        {
+          "title": "2026红包大战：中国AI应用迈向春秋五霸时代",
+          "url": "https://www.woshipm.com/ai/6343116.html",
+          "author": "刘旷",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "2026年春节红包大战标志着中国AI产业正式进入“春秋五霸”时代，豆包、千问、元宝、蚂蚁阿福和DeepSeek各自祭出杀手锏。从流量收割到生态渗透，从技术极客到垂直深耕，这场没有硝烟的战争正在改写AI应用的竞争逻辑与商业化路径。本文将深度解析五大平台如何通过差异化战略抢占用户心智，以及这场战役背后预示的三大行业转向。今年的春节红包大战，可谓是好不热闹。这一次的红包大战，成为了中国AI发展史上的一个...",
+          "published_at": "2026-02-21T03:06:29"
+        },
+        {
           "title": "AI情感陪伴：现在的产品，抛弃了一大批潜在用户",
           "url": "https://www.woshipm.com/ai/6343113.html",
           "author": "东大鸟AI产品",
@@ -241,33 +268,6 @@
           "source": "人人都是产品经理",
           "summary": "算法偏见、数据毒化、模型失控——当AI系统缺乏系统性安全测试时，企业面临的不仅是技术风险，更是法律与声誉的双重危机。一、事件回顾：一场由AI安全漏洞引发的跨国调查2026年2月3日，法国司法部门对社交媒体平台X（原Twitter）在法国的办公场所进行突击搜查，并传唤其所有者埃隆·马斯克于4月20日到案配合调查。这起事件的导火索，正是X平台旗下AI聊天机器人Grok被指控存在严重的安全缺陷：算法偏见...",
           "published_at": "2026-02-21T01:22:06"
-        },
-        {
-          "title": "当所有人都会用AI做产品，什么才是产品经理的核心竞争力？",
-          "url": "https://www.woshipm.com/ai/6342627.html",
-          "author": "Timothy",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "AI技术的普及让产品产出变得前所未有的便捷，却也带来了严重的“粗糙化”问题——大量缺乏深度判断与一致性的内容充斥市场。在这样的背景下，产品经理的核心竞争力不再是“会做”，而是“知道什么是好”。本文将“品味”定义为可训练的判断系统，通过敏感度训练、规范构建和文化自测，帮助你在AI时代打造差异化的产品决策力。AI把“把事做出来”的门槛打穿了：写文档、搭原型、写代码、做分析，越来越像“可复制的工艺”。与...",
-          "published_at": "2026-02-21T00:59:53"
-        },
-        {
-          "title": "AI从工具到主体：新商业生态的崛起与未来竞争格局",
-          "url": "https://www.woshipm.com/ai/6342966.html",
-          "author": "特意安",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "AI正从效率工具蜕变为生态级行动者，彻底重构商业世界的底层逻辑。Temporal的融资信号和市场定价转向揭示：未来竞争不再是功能叠加，而是谁能构建可靠的任务执行闭环。本文深度剖析AI作为'行动主体'如何重塑SaaS模式、流量霸权和组织形态，并给出创业者、大厂从业者与个人的生存指南。朋友们新年好！这段时间有点忙，很久没更新了，刚想着说写点什么，也恰好2026年初春科技圈有两个信号值得认真对待——它们...",
-          "published_at": "2026-02-20T08:15:55"
-        },
-        {
-          "title": "春晚机器人再进化！从僵硬摆拍到武剑空翻，拆解具身智能的产品落地底层逻辑",
-          "url": "https://www.woshipm.com/ai/6341862.html",
-          "author": "冒泡泡",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "具身智能正从实验室快速走向大众视野与产业应用，春晚机器人的惊艳表现与抖音平台的流量狂欢标志着其‘破圈时刻’的到来。本文将深度解析技术积累、供应链成熟与需求释放如何共同推动具身智能进入‘量产落地+销量爆发’的黄金期，并剖析AI产品经理与训练师在产业落地中的关键作用。曾停留在实验室里的“具身智能”，正以肉眼可见的速度走出象牙塔，渗透到大众视野与产业场景中。从2026年马年春晚《武BOT》节目里灵动演武...",
-          "published_at": "2026-02-20T05:59:56"
         }
       ]
     },
@@ -339,6 +339,15 @@
           "published_at": null
         },
         {
+          "title": "Voku.Studio™",
+          "url": "https://www.awwwards.com/sites/voku-studiotm",
+          "author": "Cuchillo",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Vibrant Wellness",
           "url": "https://www.awwwards.com/sites/vibrant-wellness",
           "author": "Noomo Agency",
@@ -400,15 +409,6 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "VALIENTE",
-          "url": "https://www.awwwards.com/sites/valiente",
-          "author": "VALIENTE BRANDS",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -417,49 +417,49 @@
       "count": 5,
       "items": [
         {
-          "title": "moCODE",
-          "url": "https://www.producthunt.com/products/mocode",
-          "author": "Vaibhav Pathak",
+          "title": "PulseKit",
+          "url": "https://www.producthunt.com/products/pulsekit",
+          "author": "Mayank",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI coding assistant on Mobile for OpenCode/KiloCode ServerDiscussion|Link",
-          "published_at": "2026-02-19T16:01:50"
+          "summary": "Your key metrics, as widgets across your Apple devicesDiscussion|Link",
+          "published_at": "2026-02-20T12:53:12"
         },
         {
-          "title": "Claudebin",
-          "url": "https://www.producthunt.com/products/claudebin",
-          "author": "Vlad Temian",
+          "title": "Rork Max",
+          "url": "https://www.producthunt.com/products/rork-app-for-ios",
+          "author": "Daniel Dhawan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Export and share your Claude Code sessions as resumable URLsDiscussion|Link",
-          "published_at": "2026-02-19T11:49:48"
+          "summary": "Best AI for iOS apps. Website that replaces XcodeDiscussion|Link",
+          "published_at": "2026-02-21T00:52:06"
         },
         {
-          "title": "Google Pomelli - Photoshoot",
-          "url": "https://www.producthunt.com/products/google",
+          "title": "Lyria 3 by Google Deepmind",
+          "url": "https://www.producthunt.com/products/lyria-3-by-google-deepmind",
           "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn simple product photos into pro studio imagery instantlyDiscussion|Link",
-          "published_at": "2026-02-19T17:13:06"
+          "summary": "Turn any photo or thought into a custom song inside GeminiDiscussion|Link",
+          "published_at": "2026-02-19T17:27:26"
         },
         {
-          "title": "keychains.dev",
-          "url": "https://www.producthunt.com/products/keychain-dev",
-          "author": "alban",
+          "title": "Prism Videos",
+          "url": "https://www.producthunt.com/products/prism-videos",
+          "author": "Garry Tan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Give AI access to 6754+ APIs with zero credentials exposedDiscussion|Link",
-          "published_at": "2026-02-19T09:47:17"
+          "summary": "A unified workspace to generate and edit AI videosDiscussion|Link",
+          "published_at": "2026-02-19T00:34:44"
         },
         {
-          "title": "Arcmark",
-          "url": "https://www.producthunt.com/products/arcmark",
-          "author": "fmerian",
+          "title": "WANotifier",
+          "url": "https://www.producthunt.com/products/wanotifier",
+          "author": "WANotifier Team",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your bookmarks, attached to any browser as a sidebarDiscussion|Link",
-          "published_at": "2026-02-19T20:32:57"
+          "summary": "All-in-one WhatsApp marketing & automation toolDiscussion|Link",
+          "published_at": "2026-02-18T07:43:15"
         }
       ]
     },
@@ -600,8 +600,17 @@
     },
     {
       "category": "数字生活",
-      "count": 2,
+      "count": 3,
       "items": [
+        {
+          "title": "AI 十字路口：当机器学会「思考」，我们应该知道什么？",
+          "url": "https://sspai.com/post/106285",
+          "author": "Yepi",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "这场智能革命，不是人类故事的终结，而是一个全新章节的开始。而我们，都是这个章节的第一批作者。查看全文",
+          "published_at": "2026-02-21T03:00:00"
+        },
         {
           "title": "你住的城市下不下雪？用这份「雪天片单」感受浪漫季节",
           "url": "https://sspai.com/post/94704",
