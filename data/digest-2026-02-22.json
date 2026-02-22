@@ -1,21 +1,22 @@
 {
   "date": "2026-02-22T00:00:00",
-  "total_items": 47,
+  "total_items": 56,
   "sources": [
     "Product Hunt",
-    "UX Planet",
-    "A List Apart",
-    "Design Milk",
     "优设网",
-    "人人都是产品经理",
+    "少数派",
     "Sidebar",
+    "Design Milk",
+    "UX Planet",
+    "Awwwards",
+    "UX Design CC",
+    "CSS-Tricks",
     "NN/g (Nielsen Norman Group)",
     "Intercom Blog",
-    "CSS-Tricks",
-    "UX Design CC",
-    "少数派"
+    "人人都是产品经理",
+    "A List Apart"
   ],
-  "generated_at": "2026-02-22T02:35:43.320628",
+  "generated_at": "2026-02-22T12:58:39.116258",
   "categories": [
     {
       "category": "用户体验设计",
@@ -187,55 +188,55 @@
           "published_at": "2026-02-20T12:36:36"
         },
         {
-          "title": "组织架构大变：两部门被撤，AI将纳入绩效考核！",
-          "url": "https://www.woshipm.com/share/6343130.html",
-          "author": "刘刚",
+          "title": "库迪咖啡不想做全场9.9元生意了",
+          "url": "https://www.woshipm.com/share/6343340.html",
+          "author": "新品略财经",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI浪潮正在颠覆传统技术岗位的价值链，前端与测试部门的撤销只是这场变革的冰山一角。当AI编码工具能够快速完成基础工作时，技术人的核心竞争力正从写代码转向定义问题、设计方案和验证业务价值。本文深度剖析这场组织架构调整背后的思维革命，揭示AI时代职场人必须完成的能力跃迁与认知升级。春节前，公司技术部门启动了新一轮组织架构调整：原本独立的前端与测试部门被撤销，相关人员并入各业务线产研团队。部分人员，包括...",
-          "published_at": "2026-02-21T05:15:25"
+          "summary": "库迪咖啡取消全场9.9元活动，改为特价专区部分产品延续低价。从品牌拓展期到盈利考量，加盟商亏损压力与成本上升成为关键因素。低价咖啡不会消失，但瑞幸、幸运咖等玩家正通过大店、空间体验讲出新故事。发起咖啡价格战的库迪咖啡，现在不想做全场9.9生意了，这并不代表低价咖啡会消失，但咖啡市场玩家们都想讲出新故事。01 库迪咖啡不想做全场9.9元生意了竞争激烈的咖啡市场，这几天出现了一条重磅新闻。我们关注到，...",
+          "published_at": "2026-02-22T11:39:21"
         },
         {
-          "title": "康复诊所的硬件焦虑，背后是数据资产的失守",
-          "url": "https://www.woshipm.com/share/6343124.html",
-          "author": "林裕虎",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "消费医疗领域的IOT设备集成绝非简单硬件堆砌，而是数据交付体系的深度重构。本文揭秘设备数据融入医疗资产的三大路径——从轻量级报告存储到结构化指标分析，再到实时训练闭环管理，并指出真正驱动康复疗效的四类核心数据维度。看懂这套逻辑，才能让智能设备从营销噱头蜕变为运营利器。消费医疗的数据资产能不能集成到IOT设备中呢。答案是能，但逻辑要讲清楚。通常不是把数据资产集成进设备，而是把设备数据集成到你的数据资...",
-          "published_at": "2026-02-21T04:06:51"
-        },
-        {
-          "title": "2026红包大战：中国AI应用迈向春秋五霸时代",
-          "url": "https://www.woshipm.com/ai/6343116.html",
-          "author": "刘旷",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "2026年春节红包大战标志着中国AI产业正式进入“春秋五霸”时代，豆包、千问、元宝、蚂蚁阿福和DeepSeek各自祭出杀手锏。从流量收割到生态渗透，从技术极客到垂直深耕，这场没有硝烟的战争正在改写AI应用的竞争逻辑与商业化路径。本文将深度解析五大平台如何通过差异化战略抢占用户心智，以及这场战役背后预示的三大行业转向。今年的春节红包大战，可谓是好不热闹。这一次的红包大战，成为了中国AI发展史上的一个...",
-          "published_at": "2026-02-21T03:06:29"
-        },
-        {
-          "title": "AI情感陪伴：现在的产品，抛弃了一大批潜在用户",
-          "url": "https://www.woshipm.com/ai/6343113.html",
-          "author": "东大鸟AI产品",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "AI情感陪伴产品正陷入一场小众狂欢与大众迷茫的怪圈：核心用户在自由创作中如鱼得水，普通用户却对着空白对话框不知所措。本文犀利指出这类产品三大原罪——被种子用户反向塑造、PM的圈内人认知偏差、过度关注技术而忽视用户引导，并提出革命性的「关系导演」解决方案：用游戏化目标系统破解情感消费难题，让25%的孤独人群真正获得陪伴感而非创作压力。最近体验了一圈AI情感陪伴产品（星野、Character.AI等）...",
-          "published_at": "2026-02-21T02:05:00"
-        },
-        {
-          "title": "从马斯克被传唤事件，看AI毒化测试的紧迫性与实践路径",
-          "url": "https://www.woshipm.com/it/6342467.html",
+          "title": "大模型 B 端落地的 “小切口” 方法论：从 0 到 1 搭建金融智能客服 Bot",
+          "url": "https://www.woshipm.com/ai/6327078.html",
           "author": "数智产研笔记",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "算法偏见、数据毒化、模型失控——当AI系统缺乏系统性安全测试时，企业面临的不仅是技术风险，更是法律与声誉的双重危机。一、事件回顾：一场由AI安全漏洞引发的跨国调查2026年2月3日，法国司法部门对社交媒体平台X（原Twitter）在法国的办公场所进行突击搜查，并传唤其所有者埃隆·马斯克于4月20日到案配合调查。这起事件的导火索，正是X平台旗下AI聊天机器人Grok被指控存在严重的安全缺陷：算法偏见...",
-          "published_at": "2026-02-21T01:22:06"
+          "summary": "大模型在B端产业的应用正面临\"概念热、落地难\"的困境，火山引擎的豆包大模型+Coze+火山方舟技术组合为产品经理提供了可行的解决方案。本文深度解析了这一技术底座的产品逻辑，并通过金融智能客服Bot的实操案例，揭示如何从\"小切口\"挖掘需求，实现B端产品的快速闭环。一、引言：从论坛痛点，看大模型产业落地的真实困境近期参加 CSDN “大模型产业应用城市纵深行” 论坛，与多位产业界、技术界专家交流后，我...",
+          "published_at": "2026-02-22T08:28:47"
+        },
+        {
+          "title": "AI会带来哪些就业变化（长文）",
+          "url": "https://www.woshipm.com/ai/6343274.html",
+          "author": "markzou",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "AI和机器人技术的迅猛发展正在重写就业市场的游戏规则。从经济周期的视角出发，本文深度剖析技术进步如何结构性消灭传统岗位，揭示未来社会可能面临的财富两极分化与社会治理挑战，并提出普遍福利社会的解决方案。没事的时候写写东西是我的一个爱好，写东西可以让我更深度的思考，也可以让我能够静下心来，我烦躁的时候如果写点啥，就会越写越心静。即便现在有各种短视频，我也爱刷短视频，但我还是偶尔写点东西。现在有AI之后...",
+          "published_at": "2026-02-22T07:33:36"
+        },
+        {
+          "title": "中国开启AI全民化元年，BAT同入“亿级俱乐部”",
+          "url": "https://www.woshipm.com/ai/6343289.html",
+          "author": "曾响铃",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "2026年春节成为中国AI全民化的关键转折点——阿里千问50亿次交互、字节豆包19亿次互动、腾讯元宝36亿次抽奖的背后，是三家巨头分别以'AI+服务''AI+内容''AI+社交'的战略路径，推动三四线城市用户完成首次AI启蒙。这场远超'红包大战'意义的AI竞速，正在重塑市场结构、用户习惯与行业竞争逻辑。2026年春节期间，中国互联网史上最大规模的一次AI用户启蒙，不到两周就完成了。数字是具体的——...",
+          "published_at": "2026-02-22T05:34:49"
+        },
+        {
+          "title": "「山姆化」的沃尔玛 复杂的县城消费",
+          "url": "https://www.woshipm.com/newretail/6343259.html",
+          "author": "山农下山",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "沃尔玛正在下沉市场掀起一场静悄悄的「山姆化」革命。从货架高度到自有品牌包装，从商品陈列到促销策略，县城沃尔玛正以惊人的相似度复刻山姆会员店的消费体验。这场战略转型背后，是零售巨头对县城消费升级的精准捕捉，却也引发了核心会员的价值焦虑——当山姆同款触手可及，600元年费究竟还值不值？PART 01 抄作业很多尊贵的山姆会员，今年返乡时都能在老家的沃尔玛超市找到熟悉感。因为沃尔玛正在抄自己的作业：复刻...",
+          "published_at": "2026-02-22T03:13:56"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 6,
+      "count": 14,
       "items": [
         {
           "title": "Design for Amiability: Lessons from Vienna",
@@ -290,6 +291,78 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
+        },
+        {
+          "title": "D2C Life Science",
+          "url": "https://www.awwwards.com/sites/d2c-life-science",
+          "author": "Iron Velvet",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Voku.Studio™",
+          "url": "https://www.awwwards.com/sites/voku-studiotm",
+          "author": "Cuchillo",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Vibrant Wellness",
+          "url": "https://www.awwwards.com/sites/vibrant-wellness",
+          "author": "Noomo Agency",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Farm Minerals",
+          "url": "https://www.awwwards.com/sites/farm-minerals",
+          "author": "ADELT Agency",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Studio Dialect",
+          "url": "https://www.awwwards.com/sites/studio-dialect",
+          "author": "studiodialect",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "MOB LINKS",
+          "url": "https://www.awwwards.com/sites/mob-links",
+          "author": "Benjamin Robinet",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Telha Clarke",
+          "url": "https://www.awwwards.com/sites/telha-clarke",
+          "author": "Greg Lallé",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Lightweight",
+          "url": "https://www.awwwards.com/sites/lightweight",
+          "author": "VKZ Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
@@ -297,6 +370,24 @@
       "category": "产品发现",
       "count": 4,
       "items": [
+        {
+          "title": "Wordy",
+          "url": "https://www.producthunt.com/products/wordy-81fc3d1c-40c1-42d1-9a07-6c2a80ffb302",
+          "author": "Sándor Bogyó",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Learn languages from real movie and TV clips with quizzesDiscussion|Link",
+          "published_at": "2026-02-21T12:43:52"
+        },
+        {
+          "title": "Claude in PowerPoint",
+          "url": "https://www.producthunt.com/products/claude",
+          "author": "Rohan Chaubey",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Use Claude to build, edit & refine PowerPoint presentations.Discussion|Link",
+          "published_at": "2026-02-19T20:03:41"
+        },
         {
           "title": "Rork Max",
           "url": "https://www.producthunt.com/products/rork-app-for-ios",
@@ -314,24 +405,6 @@
           "source": "Product Hunt",
           "summary": "Turn any photo or thought into a custom song inside GeminiDiscussion|Link",
           "published_at": "2026-02-19T17:27:26"
-        },
-        {
-          "title": "Prism Videos",
-          "url": "https://www.producthunt.com/products/prism-videos",
-          "author": "Garry Tan",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "A unified workspace to generate and edit AI videosDiscussion|Link",
-          "published_at": "2026-02-19T00:34:44"
-        },
-        {
-          "title": "PulseKit",
-          "url": "https://www.producthunt.com/products/pulsekit",
-          "author": "Mayank",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Your key metrics, as widgets across your Apple devicesDiscussion|Link",
-          "published_at": "2026-02-20T12:53:12"
         }
       ]
     },
@@ -385,8 +458,8 @@
           "published_at": null
         },
         {
-          "title": "小红书春节开屏拆解，看这朵烟花如何把广告变成祝福",
-          "url": "https://www.uisdc.com/hunter/0221660584.html",
+          "title": "订阅确认邮件总被埋没？用一个URL参数提升订阅体验",
+          "url": "https://www.uisdc.com/hunter/0221660588.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -463,8 +536,17 @@
     },
     {
       "category": "数字生活",
-      "count": 3,
+      "count": 4,
       "items": [
+        {
+          "title": "日本：红枫季的关东与关西（关东篇）",
+          "url": "https://sspai.com/post/104473",
+          "author": "捡土豆的人",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "来到这里就明白，即便不是什么著名景点但依然能不断吸引人前来，无非因为人对美好生活的向往是一致的。查看全文",
+          "published_at": "2026-02-22T07:42:35"
+        },
         {
           "title": "AI 十字路口：当机器学会「思考」，我们应该知道什么？",
           "url": "https://sspai.com/post/106285",
