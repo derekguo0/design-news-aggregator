@@ -1,26 +1,100 @@
 {
   "date": "2026-02-23T00:00:00",
-  "total_items": 49,
+  "total_items": 60,
   "sources": [
-    "A List Apart",
-    "人人都是产品经理",
-    "Sidebar",
-    "Awwwards",
-    "少数派",
-    "Design Milk",
-    "NN/g (Nielsen Norman Group)",
-    "CSS-Tricks",
-    "UX Design CC",
     "优设网",
+    "NN/g (Nielsen Norman Group)",
     "Product Hunt",
+    "人人都是产品经理",
+    "Smashing Magazine",
+    "UX Design CC",
+    "Awwwards",
+    "UX Planet",
+    "Sidebar",
+    "少数派",
+    "CSS-Tricks",
+    "A List Apart",
+    "Design Milk",
     "Intercom Blog"
   ],
-  "generated_at": "2026-02-23T02:35:38.908815",
+  "generated_at": "2026-02-23T13:14:54.150861",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 3,
+      "count": 11,
       "items": [
+        {
+          "title": "Hidden cost of AI prototypes, leadership myths, how designers use AI",
+          "url": "https://uxdesign.cc/hidden-cost-of-ai-prototypes-leadership-myths-how-designers-use-ai-568b86eb87f2?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“Prototypes are no longer as special as they once were. They’re now the bare minimum.But this speed comes with limitations. Many AI-generat...",
+          "published_at": "2026-02-23T12:33:42"
+        },
+        {
+          "title": "What designers can learn from the first iPhone moment of AI",
+          "url": "https://uxdesign.cc/what-designers-can-learn-from-the-first-iphone-moment-of-ai-4643d1f14171?source=rss----138adf9c44c---4",
+          "author": "Hoang Nguyen",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Fifteen years ago, the iPhone killed Flash and nearly erased an entire design discipline.Continue reading on UX Collective »",
+          "published_at": "2026-02-23T12:21:58"
+        },
+        {
+          "title": "Designers, we should be killing it right now",
+          "url": "https://uxdesign.cc/designers-we-should-be-killing-it-right-now-c0a0c535f456?source=rss----138adf9c44c---4",
+          "author": "Nicole Alexandra Michaelis",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Designers should be thriving in the age of AI. Here’s why we aren’t, why it’s probably our fault, and how we can fix it.The Beatles, Magical Mystery Tour (source)Much has been said about the future of...",
+          "published_at": "2026-02-23T12:21:37"
+        },
+        {
+          "title": "Something big “might” be happening",
+          "url": "https://uxdesign.cc/something-big-might-be-happening-16cdba2df6ad?source=rss----138adf9c44c---4",
+          "author": "Elvis Hsiao",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Why the future of design belongs to creative thinkers and problem solversContinue reading on UX Collective »",
+          "published_at": "2026-02-23T12:19:35"
+        },
+        {
+          "title": "No, VR can’t make you walk in others’ shoes",
+          "url": "https://uxdesign.cc/no-vr-cant-make-you-walk-in-others-shoes-608a1ba03e97?source=rss----138adf9c44c---4",
+          "author": "Catherine Chu",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The shallowness of the “empathy machine.”Photo byVitaly GarievonUnsplashI once saw a “poverty simulation” designed to help raise funds and “put people in others’ shoes.” I felt… weird. Can you imagine...",
+          "published_at": "2026-02-23T12:18:59"
+        },
+        {
+          "title": "On craft and connivence",
+          "url": "https://uxdesign.cc/on-craft-and-connivence-6fa58e2c865e?source=rss----138adf9c44c---4",
+          "author": "Jonathan Ng",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Lessons in design, from a USB drive to the age of AI, and beyond.Continue reading on UX Collective »",
+          "published_at": "2026-02-23T12:18:47"
+        },
+        {
+          "title": "Surveillance by default, consent by assumption",
+          "url": "https://uxdesign.cc/surveillance-by-default-consent-by-assumption-928b2919c960?source=rss----138adf9c44c---4",
+          "author": "Andrea Filiberto Lucas",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How consumer security products turn physical presence into assumed consentIllustration of a home security camera extending its gaze into shared neighbourhood space, symbolising the shift from private ...",
+          "published_at": "2026-02-23T12:16:59"
+        },
+        {
+          "title": "UX questionnaires. Is it rocket science?",
+          "url": "https://uxdesign.cc/ux-questionnaires-is-it-rocket-science-9473ad7ff386?source=rss----138adf9c44c---4",
+          "author": "Maxim Kich",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Mission control didn’t run on intuition. Neither should your design process.Continue reading on UX Collective »",
+          "published_at": "2026-02-23T12:16:18"
+        },
         {
           "title": "Why most AI products fail before the first user interaction",
           "url": "https://uxdesign.cc/why-most-ai-products-fail-before-the-first-user-interaction-133e4588fbff?source=rss----138adf9c44c---4",
@@ -40,13 +114,13 @@
           "published_at": "2026-02-21T13:53:19"
         },
         {
-          "title": "Field study: prototypes over mockups",
-          "url": "https://uxdesign.cc/field-study-prototypes-over-mockups-8581f20102ff?source=rss----138adf9c44c---4",
-          "author": "Édouard Wautier",
+          "title": "Figma Make with Claude 4.6 or Gemini 3",
+          "url": "https://uxplanet.org/figma-make-with-claude-4-6-or-gemini-3-70d3b380f14a?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
           "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "A practical guide to designing with code in 2026Someone drops a link in a thread — not a deck, not a Figma file — something you can click through, interact with. The conversation shifts from opinions ...",
-          "published_at": "2026-02-20T12:13:54"
+          "source": "UX Planet",
+          "summary": "Which AI Model Works Best for UI DesignContinue reading on UX Planet »",
+          "published_at": "2026-02-23T12:40:34"
         }
       ]
     },
@@ -151,56 +225,65 @@
           "published_at": "2026-02-20T12:36:36"
         },
         {
-          "title": "AI越强，废物越多——当执行成本归零，High Agency是唯一的人类护城河",
-          "url": "https://www.woshipm.com/ai/6343382.html",
-          "author": "LULAOSHI",
+          "title": "Skills爆火，但企业为什么不敢用？",
+          "url": "https://www.woshipm.com/ai/6343644.html",
+          "author": "申悦",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "硅谷热词“High Agency”正在重新定义成功逻辑——它揭示了一种能在AI时代破局的关键人格特质：不满足于“不行”的结论，执着于“怎么才能行”的解决方案。本文深度拆解高能动性的四大底层架构与五大核心信念系统，揭示2026年人类分叉元年的底层逻辑：当AI将执行成本归零时，你的第一反应将决定站在时代分叉的哪一端。最近硅谷爆发了一个关键词是“High Agency”，我去了解了一下到底是什么？不是新...",
-          "published_at": "2026-02-23T02:15:55"
+          "summary": "Skills 正在成为 Agent 领域的新标准，但个人开发者玩得很嗨，企业却对此很谨慎。企业落地 Skills 需要作用域隔离、技能审计、自定义机制等四个前提，更需要 AI 产品经理在业务与技术之间搭建桥梁。这不仅是技术升级，更是组织变革。2026年初，如果说AI圈爆火的技术是什么，Skills这个词一定会被提及。从Anthropic开放Agent Skills规范，到OpenAI在Codex ...",
+          "published_at": "2026-02-23T09:35:05"
         },
         {
-          "title": "设计师做 API 工具：如何用「图片 / 视频生成 API + 50/50 节奏」做到年收入约 60–90 万美金",
-          "url": "https://www.woshipm.com/ai/6343398.html",
-          "author": "LU晨昕",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "Bannerbear 的故事颠覆了传统创业路径：一个设计师转型独立开发者，在连败6个项目后，用API工具打造出年收60-90万美金的可持续生意。本文将拆解其从产品定位到商业模式的六步实战路径，揭秘如何在不融资不追风口的情况下，用技术解决重复设计痛点的精妙逻辑。今年春节，我几乎没怎么出门。大部分时间在看一些海外独立开发者的创业故事。看着看着，发现有一类公司反复出现：不融资、不追风口，却稳定赚钱很多年...",
-          "published_at": "2026-02-23T01:55:59"
-        },
-        {
-          "title": "我，AI产品经理，曾经活成了一个笑话",
-          "url": "https://www.woshipm.com/ai/6343302.html",
+          "title": "技术大牛的死穴：能做20个产品，却找不到一个买单的人",
+          "url": "https://www.woshipm.com/share/6343600.html",
           "author": "Alex的荒诞产品观",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当我把Gemini、Claude、Sora的参数倒背如流，朋友直播间里的一场真实对话，让我瞬间清醒。上个月，一个做直播电商的朋友喝多了，拍着桌子冲我吼：“你们搞AI的天天说赋能赋能，我团队现在最烦的就是‘AI’这俩字！”我愣住了。作为每天追大模型更新、研究各种技术参数的AI产品经理，我一直以为自己在做最酷、最前沿的事情。可那一刻，我突然意识到：我可能活成了一个笑话。01 拿着锤子找钉子，我有多努力...",
-          "published_at": "2026-02-23T01:45:42"
+          "summary": "一位技术极客开发20余款APP却无人问津，而一条AI+期货视频意外爆火，背后隐藏着怎样的商业逻辑？本文通过主播曲曲大女人的犀利分析，揭示技术人常见的产品误区，拆解To C与To B两种变现路径的核心差异，带你重新思考'谁会为你的创意买单'这个商业本质问题。上周刷到一个直播切片，很有意思。一个计算机本硕的小姐姐连麦主播“曲曲大女人”，倾诉自己的困惑：她做了20多个APP，覆盖金融、心理学、情感各种领...",
+          "published_at": "2026-02-23T08:39:11"
         },
         {
-          "title": "我研究了 OpenClaw 的 10 个真实用例，有些地方让我不安",
-          "url": "https://www.woshipm.com/ai/6343295.html",
-          "author": "余量思考",
+          "title": "什么时候该扩张？单店模型正在重构开店逻辑",
+          "url": "https://www.woshipm.com/share/6343566.html",
+          "author": "林裕虎",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "OpenClaw正在重新定义个人生产力的边界。从30分钟搭建定制CRM到AI专家团每日董事会，这套系统展示了如何将碎片化的工作流转化为自动化飞轮。最令人震撼的不是单个用例的技术突破，而是模块间的数据流动如何让一个人的产出堪比小型团队——同时也暴露出对系统依赖的隐忧。最近花了不少时间研究 OpenClaw 的实际落地情况。不是看官方文档，而是找到了 Matthew Berman 的一期视频——他把自...",
-          "published_at": "2026-02-23T01:43:14"
+          "summary": "连锁诊所扩张绝非简单的复制粘贴，背后暗藏单店模型与组织能力的双重考验。本文深度剖析康复诊所扩张的四大核心指标——客群结构、收入健康度、交付标准化与数据可视化，揭示从单店盈利到多店经营的关键跃迁法则，以及如何通过『底层统一+前端差异化』策略破解扩张困局。在过去的2025年里，行业里有一句话听得比较多即是再小的诊所都有一个品牌连锁梦。这个判断并没有错，问题是很多人把开分店理解成增长的自然延续，实际上它...",
+          "published_at": "2026-02-23T08:29:12"
         },
         {
-          "title": "今年是AI编程元年",
-          "url": "https://www.woshipm.com/ai/6343290.html",
-          "author": "掠蓝蓝蓝",
+          "title": "“全民导演”时代来了：AI让视频创作成本雪崩，价值正迁移到“做对做稳”",
+          "url": "https://www.woshipm.com/ai/6343235.html",
+          "author": "特意安",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI编程正在颠覆传统产品开发流程——从PRD到完整demo的交付周期被压缩到20分钟，技术壁垒的瓦解让「一人公司」成为可能。本文深度剖析2026年AI编程四大质变：需求闭环能力、自然语言交互门槛归零、成本断崖式下降及全链路工程化实现，揭示产品经理如何重构自身价值，在AI时代搭建商业与技术的全新桥梁。作为一名从业近7年的产品经理，我已经快2年没打开过Axure了，Figma也在去年放弃使用了——严格...",
-          "published_at": "2026-02-23T01:31:45"
+          "summary": "2026年春晚的一场视觉奇观揭示了AI视频生成的深刻变革——Seedance 2.0模型正在将影视工业级制作能力压缩到个人指尖。当水墨花开从专业团队数周作业变为十五分钟生成调试，这场静默革命正重新定义创作成本、工作流程与职业价值，导演角色从现场指挥转向AI调教，后期制作被实时生成吞并，而新壁垒正从执行能力转向定义能力。最近我脑子里总有个挥之不去的景象，像是一场无声的雪崩：那种曾经被视为“艺术护城河...",
+          "published_at": "2026-02-23T08:27:58"
+        },
+        {
+          "title": "重温《盗梦空间》：如何让 13 亿人坚信“我想要”",
+          "url": "https://www.woshipm.com/share/6343518.html",
+          "author": "长脸KK",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "《盗梦空间》上映15年，电影中通过六个步骤植入想情节，如今在商业世界找到了完美映射。从沃尔玛的沉浸式剧场到阿里的AI奶茶实验，品牌们正运用场景设计、工具利用和故事叙述，一步步瓦解用户防备，实现认知重塑。本文将拆解这些‘商业造梦师’如何将电影中的意念植入术转化为现实中的用户行为操控术，带你看透消费背后的心理学游戏。豆瓣电影TOP250，排名第9的《盗梦空间》（Inception）上映已经 15 年。...",
+          "published_at": "2026-02-23T08:26:44"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 14,
+      "count": 15,
       "items": [
+        {
+          "title": "A Designer’s Guide To Eco-Friendly Interfaces",
+          "url": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
+          "author": "hello@smashingmagazine.com (Carrie Webster)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pixels” and reframes performance as responsibility. I...",
+          "published_at": "2026-02-23T10:00:00"
+        },
         {
           "title": "Design for Amiability: Lessons from Vienna",
           "url": "https://alistapart.com/article/design-for-amiability-lessons-from-vienna/",
@@ -253,6 +336,15 @@
           "category": "网页设计",
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
+          "published_at": null
+        },
+        {
+          "title": "OceanX 2025",
+          "url": "https://www.awwwards.com/sites/oceanx-2025",
+          "author": "Unseen Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
           "published_at": null
         },
         {
@@ -317,39 +409,39 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Lightweight",
-          "url": "https://www.awwwards.com/sites/lightweight",
-          "author": "VKZ Studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 3,
       "items": [
         {
-          "title": "Wordy",
-          "url": "https://www.producthunt.com/products/wordy-81fc3d1c-40c1-42d1-9a07-6c2a80ffb302",
-          "author": "Sándor Bogyó",
+          "title": "OpenHunt",
+          "url": "https://www.producthunt.com/products/openhunt",
+          "author": "CHOI",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Learn languages from real movie and TV clips with quizzesDiscussion|Link",
-          "published_at": "2026-02-21T12:43:52"
+          "summary": "AI-native launch layer for the post-algorithm internetDiscussion|Link",
+          "published_at": "2026-02-23T01:44:41"
         },
         {
-          "title": "PulseKit",
-          "url": "https://www.producthunt.com/products/pulsekit",
-          "author": "Mayank",
+          "title": "Grok 4.2",
+          "url": "https://www.producthunt.com/products/grok-3",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your key metrics, as widgets across your Apple devicesDiscussion|Link",
-          "published_at": "2026-02-20T12:53:12"
+          "summary": "Four AI agents debate internally to build your answerDiscussion|Link",
+          "published_at": "2026-02-22T15:43:12"
+        },
+        {
+          "title": "PipedriveSheets",
+          "url": "https://www.producthunt.com/products/pipedrivesheets",
+          "author": "Mike Haye",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Two-way sync between Pipedrive CRM and Google SheetsDiscussion|Link",
+          "published_at": "2026-02-22T02:08:20"
         }
       ]
     },
@@ -403,9 +495,9 @@
           "published_at": null
         },
         {
-          "title": "订阅确认邮件总被埋没？用一个URL参数提升订阅体验",
-          "url": "https://www.uisdc.com/hunter/0221660588.html",
-          "author": "龙爪槐守望者",
+          "title": "死活想不起图在哪发过?微信终于上了图片溯源功能",
+          "url": "https://www.uisdc.com/hunter/0221660729.html",
+          "author": "岩鸣杨子",
           "category": "设计教程",
           "source": "优设网",
           "summary": null,
@@ -418,49 +510,49 @@
       "count": 5,
       "items": [
         {
-          "title": "The software industrial revolution",
-          "url": "https://cannoneyed.com/essays/software-industrial-revolution",
+          "title": "The State of AI Design 2026",
+          "url": "https://bit.ly/side-obe1",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Just like the first Industrial Revolution, this will change the world in profound and unexpected ways.",
-          "published_at": "2026-02-20T12:26:24"
+          "summary": "How are brands using AI? Obello discussed with 100+ design teams and found 3 major trends shaping AI design’s future. Download the report.",
+          "published_at": "2026-02-23T12:51:00"
         },
         {
-          "title": "Remix Icon",
-          "url": "https://remixicon.com/",
+          "title": "The only moat left is money",
+          "url": "https://elliotbonneville.com/the-only-moat-left-is-money/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A set of open source neutral style system symbols elaborately crafted for designers and developers.",
-          "published_at": "2026-02-20T12:25:16"
+          "summary": "The value of human thinking is going down. The value of human attention is going up. Those two facts are pointing in very different directions.",
+          "published_at": "2026-02-23T12:50:13"
         },
         {
-          "title": "Keyviz",
-          "url": "https://keyviz.org/",
+          "title": "Technofascism Network Map",
+          "url": "https://nottoday.diy/network",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A free and open-source tool to visualize your keystrokes and mouse actions.",
-          "published_at": "2026-02-20T12:24:45"
+          "summary": "Mapping the alliance of billionaires, politicians, and tech giants driving global techno-fascism.",
+          "published_at": "2026-02-23T12:49:32"
         },
         {
-          "title": "Case study: Frank Lloyd Wright Building Conservancy",
-          "url": "https://order.design/project/frank-lloyd-wright-building-conservancy",
+          "title": "How to design for transparent screens",
+          "url": "https://design.google/library/transparent-screens",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "An identity that captures the legacy of Wright’s designs, the community built through the organization, and the immediate necessity of their work.",
-          "published_at": "2026-02-20T12:24:13"
+          "summary": "Google's behind-the-scenes of designing the next generation of interfaces for AI glasses with displays.",
+          "published_at": "2026-02-23T12:47:05"
         },
         {
-          "title": "Why we hate AI",
-          "url": "https://blog.fallible.net/why-we-hate-ai/",
+          "title": "There is no product",
+          "url": "https://sidu.in/essays/after-ai-there-is-no-product.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Intellectual property theft on an obscene scale; but law is something that is carved and grown as needed by forces of power.",
-          "published_at": "2026-02-20T12:23:11"
+          "summary": "If you’ve been anywhere near tech Twitter in the last few weeks, you’ve heard it: SaaS is dead. Everyone has an explanation. Sigh.",
+          "published_at": "2026-02-23T12:46:15"
         }
       ]
     },
@@ -481,8 +573,17 @@
     },
     {
       "category": "数字生活",
-      "count": 3,
+      "count": 4,
       "items": [
+        {
+          "title": "插混换到纯电的两万公里后，我不再有里程焦虑了",
+          "url": "https://sspai.com/post/105647",
+          "author": "约斯特普通",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "当出行工具与生活节奏同频，中控屏和仪表盘上的数字就只是数字。查看全文",
+          "published_at": "2026-02-23T02:59:49"
+        },
         {
           "title": "日本：红枫季的关东与关西（关东篇）",
           "url": "https://sspai.com/post/104473",
