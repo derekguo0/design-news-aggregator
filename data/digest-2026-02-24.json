@@ -1,27 +1,45 @@
 {
   "date": "2026-02-24T00:00:00",
-  "total_items": 61,
+  "total_items": 65,
   "sources": [
-    "Sidebar",
-    "Product Hunt",
-    "UX Planet",
-    "Awwwards",
-    "Design Milk",
-    "人人都是产品经理",
     "Smashing Magazine",
-    "A List Apart",
-    "少数派",
-    "NN/g (Nielsen Norman Group)",
+    "CSS-Tricks",
     "优设网",
+    "NN/g (Nielsen Norman Group)",
+    "Design Milk",
+    "少数派",
+    "人人都是产品经理",
+    "A List Apart",
     "UX Design CC",
-    "CSS-Tricks"
+    "UX Planet",
+    "Product Hunt",
+    "Sidebar",
+    "Awwwards"
   ],
-  "generated_at": "2026-02-24T02:32:21.443865",
+  "generated_at": "2026-02-24T13:15:55.961768",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 12,
+      "count": 13,
       "items": [
+        {
+          "title": "How complexity accumulates",
+          "url": "https://uxdesign.cc/how-complexity-accumulates-e222182a67f5?source=rss----138adf9c44c---4",
+          "author": "Michael Parent",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How systems become risky without anyone noticing.Alexander Undoing the Gordian | Source: Knot 1st-art-gallery.comNo one decides to build a fragile system. No executive convenes a meeting to discuss ho...",
+          "published_at": "2026-02-24T12:33:11"
+        },
+        {
+          "title": "Being an AI-native designer isn’t what you think it is",
+          "url": "https://uxdesign.cc/being-an-ai-native-designer-isnt-what-you-think-it-is-dae1d03e68f5?source=rss----138adf9c44c---4",
+          "author": "Kai Wong",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "What 28 design leaders have said AI-native design really isContinue reading on UX Collective »",
+          "published_at": "2026-02-24T12:33:09"
+        },
         {
           "title": "Extended overthinking",
           "url": "https://uxdesign.cc/extended-overthinking-cdbaa06dc1b8?source=rss----138adf9c44c---4",
@@ -95,22 +113,13 @@
           "published_at": "2026-02-23T12:16:59"
         },
         {
-          "title": "UX questionnaires. Is it rocket science?",
-          "url": "https://uxdesign.cc/ux-questionnaires-is-it-rocket-science-9473ad7ff386?source=rss----138adf9c44c---4",
-          "author": "Maxim Kich",
+          "title": "Nano Banana Pro for Accessibility Testing",
+          "url": "https://uxplanet.org/nano-banana-pro-for-accessibility-testing-2dccc1a50b93?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
           "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "Mission control didn’t run on intuition. Neither should your design process.Continue reading on UX Collective »",
-          "published_at": "2026-02-23T12:16:18"
-        },
-        {
-          "title": "Why most AI products fail before the first user interaction",
-          "url": "https://uxdesign.cc/why-most-ai-products-fail-before-the-first-user-interaction-133e4588fbff?source=rss----138adf9c44c---4",
-          "author": "Arin Bhowmick",
-          "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "Most AI features fail because they start with hype, not humans.Image Credit: AI Generated ImageMost AI products fail before the first user interaction because they don’t solve a real user problem. Tha...",
-          "published_at": "2026-02-21T22:52:09"
+          "source": "UX Planet",
+          "summary": "Over 1.3 billion people worldwide live with some form of disability, and roughly 2.2 billion have a vision impairment. Yet the vast…Continue reading on UX Planet »",
+          "published_at": "2026-02-24T13:03:36"
         },
         {
           "title": "Gemini 3.1 for UI & Web Design",
@@ -224,49 +233,49 @@
           "published_at": "2026-02-23T14:00:39"
         },
         {
-          "title": "即时零售将成为AI购物的主战场",
-          "url": "https://www.woshipm.com/ai/6343726.html",
-          "author": "庄帅",
+          "title": "Seedance 2.0的AI视频“杀死比赛”后，如何抢占下一波红利？",
+          "url": "https://www.woshipm.com/ai/6343296.html",
+          "author": "兔主任发现",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "阿里千问以30亿元春节大免单为切入点，首次实现盒马、飞猪等阿里生态全线贯通，将AI购物推向本地生活服务的主战场。即时零售的高频刚需、分钟级履约特性与AI的预测调度能力高度契合，正在重构从流量分配到供应链的整个零售体系。本文将深度解析这场AI购物革命如何从工具进化成超级入口，并预测2026年AI智能体将成为即时零售的核心形态。今年春节的AI大战，千问以春节30亿元大免单，首次将盒马、飞猪、大麦、淘宝...",
-          "published_at": "2026-02-24T01:49:50"
+          "summary": "Seedance 2.0的发布彻底改写了AI视频生成领域的游戏规则，它不仅解决了传统视频AI的一致性和可控性难题，更以90%的可用率和60%的成本降低开启了商业化量产时代。本文将深度解析其技术突破点，并揭示在巨头垄断下应用层仍存在的四大红利机会，为产品经理和创业者提供战略级的市场切入指南。Seedance 2.0的正式发布，被行业普遍视为AI视频生成领域的“ChatGPT时刻”。这并非单纯的技术参...",
+          "published_at": "2026-02-24T09:29:51"
         },
         {
-          "title": "为什么爸妈只用豆包？AI产品的最终形态可能是“人”",
-          "url": "https://www.woshipm.com/ai/6343700.html",
-          "author": "温尚",
+          "title": "2026年春晚产品复盘：用PMF视角拆解“国民级超级产品”的需求逻辑",
+          "url": "https://www.woshipm.com/pd/6344076.html",
+          "author": "噜噜猫",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "越研究产品越有一种强烈的感觉：互联网产品研究很像经济学，理论出了一套又一套，但几乎都是后验理论；所有的方法论最终都隐隐地归结到组织文化。据我在字节的朋友说，“豆包”这个名字的诞生其实很随意，只是字节的氛围意外造就了这个亲民形象。除夕夜晚上，爸妈不经意提到当天的年夜饭基本都是照着豆包生成的教程做的，而这个有什么事都问豆包的习惯，早在半年前就形成了。我突然一惊；说实话作为这个行业的从业者，日常会用豆包...",
-          "published_at": "2026-02-24T01:38:11"
+          "summary": "2026年春晚以230亿触达量刷新纪录，却在数据狂欢背后暴露出用户情怀与商业化的尖锐矛盾。当沈腾马丽的微电影遭遇口碑滑铁卢，当机器人广告引发观众不适，这场国民级晚会正面临产品经理最熟悉的困境：如何在数据增长与用户体验之间找到平衡点？本文将通过需求金字塔模型，深度拆解这台超级产品的多边平台逻辑与技术赋能之道。作为一名互联网产品经理，每年的春晚对我来说不仅是除夕的背景音，更是一次绝佳的“竞品分析”机会...",
+          "published_at": "2026-02-24T09:28:56"
         },
         {
-          "title": "AI+情感陪伴：你在做“情感”还是“陪伴”？",
-          "url": "https://www.woshipm.com/ai/6343696.html",
-          "author": "东大鸟AI产品",
+          "title": "硬件出海只会卷参数？深度复盘美区霸榜的中国智能屏，我发现了两个“致命”认知差",
+          "url": "https://www.woshipm.com/share/6344060.html",
+          "author": "小阔号",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI情感陪伴赛道正经历功能性分化，从情绪树洞到虚拟IP游乐场，底层逻辑与商业模式截然不同。本文将深度剖析陪伴型工具与情感内容产品的进化路径，揭示ChatGPT等通用大模型如何重塑赛道格局，并给出现阶段创业者的黄金方向建议。最近与一些从业者探讨AI+情感陪伴赛道的产品，发现这个市场可以进行细分：情感（内容消费）和陪伴（效率工具），对于创业者来说，明确自己在做什么是非常必要的。下面讲讲我是这么看待这两...",
-          "published_at": "2026-02-24T01:37:58"
+          "summary": "智能硬件出海正在经历从流量狂欢到体验深耕的转变。通过数阔云听CEM的ConsumerLens工具深度分析22,233条用户原声，揭示了两个致命认知差：表面是硬件连接问题，实则是跨代际使用场景错位；看似用户抗拒订阅，本质是价值归属的认知偏差。本文将拆解如何用AI洞察重构产品交付逻辑与商业模式，帮助中国品牌跨越‘6个月体验鸿沟’。在做出海智能硬件的时候，你有没有遇到过这样的场景？外行看榜单：圣诞季一到...",
+          "published_at": "2026-02-24T09:28:17"
         },
         {
-          "title": "一文详解Skills：AI Agent 的核心能力单元",
-          "url": "https://www.woshipm.com/ai/6343709.html",
-          "author": "Tuer AI",
+          "title": "还在卷创意？真正厉害的产品经理，都进化成了”组局者”",
+          "url": "https://www.woshipm.com/ai/6209020.html",
+          "author": "产品创业笔记",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "本文将聚焦Skills的核心要点，用通俗且专业的视角，全面解析其定义、结构、分类、价值与进阶技巧，助力快速吃透这一AI Agent核心组件。在AI Agent（智能体）向实用化迭代的过程中，“Skills”（智能体技能）是连接大模型推理能力与实际执行能力的关键核心。不同于大模型本身的思考能力，也区别于外部工具的基础功能，Skills是一套标准化、可复用、可组合的能力单元，让AI Agent从“只会...",
-          "published_at": "2026-02-24T01:37:41"
+          "summary": "在产品经理的成长道路上，真正的突破往往来自于思维的转变。乔布斯和张一鸣的故事揭示了一个关键真相：顶级产品人的核心竞争力不是个人创意，而是挑选好创意、整合人才资源和构建生态系统的能力。本文将深入拆解'组局者思维'的三个维度，带你重新思考产品经理的价值定位与成长路径。做产品 5 年，我最大的顿悟是：那些让我熬夜爆肝想出来的”神创意”，往往不如实习生随口一提的点子管用。直到看懂乔布斯和张一鸣的”组局者”...",
+          "published_at": "2026-02-24T09:26:26"
         },
         {
-          "title": "这个人用一个文件夹，解决了我被 AI 折磨已久的问题",
-          "url": "https://www.woshipm.com/ai/6343691.html",
-          "author": "余量思考",
+          "title": "焦虑的县城中年人，等待被AI解救",
+          "url": "https://www.woshipm.com/it/6344042.html",
+          "author": "山农下山",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI对话中反复自我介绍的问题困扰着每个深度用户，Sully.ai工程师Muratcan Koylan用Personal Brain OS给出了颠覆性解决方案。这套个人大脑操作系统通过11个模块化设计实现渐进式信息披露，将写作风格量化为具体数字，更创新性地存储用户的判断逻辑而非简单事实，揭示了'上下文工程'才是提升AI交互质量的核心。最近在 X 上看到一篇文章，作者叫 Muratcan Koylan...",
-          "published_at": "2026-02-24T01:32:09"
+          "summary": "在湖南小县城里，36岁的小琼正用AI撬动生活的可能性。从用豆包判作业到制作短视频，这位没有高学历的中年女性正在成为县城AI使用最活跃的群体之一。本文通过她的故事，揭示AI如何在小城落地生根，又为何让普通人在期待与焦虑中徘徊。36岁的小琼，是湖南小县城里随处可见的那类中年女性：身材微微发福，嗓门大到可以从三楼窗户边跟你聊天；学问不高，但工作经验足够丰富，勤快、办事利索，会照顾全家人的生活起居，也能料...",
+          "published_at": "2026-02-24T09:26:16"
         }
       ]
     },
@@ -338,6 +347,15 @@
           "published_at": null
         },
         {
+          "title": "Dulcedo",
+          "url": "https://www.awwwards.com/sites/dulcedo",
+          "author": "Locomotive",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "OceanX 2025",
           "url": "https://www.awwwards.com/sites/oceanx-2025",
           "author": "Unseen Studio",
@@ -399,57 +417,57 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Telha Clarke",
-          "url": "https://www.awwwards.com/sites/telha-clarke",
-          "author": "Greg Lallé",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Grok 4.2",
-          "url": "https://www.producthunt.com/products/grok",
-          "author": "Zac Zuo",
+          "title": "Liner Write",
+          "url": "https://www.producthunt.com/products/liner-write",
+          "author": "Jinu Kim",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Four AI agents debate internally to build your answerDiscussion|Link",
-          "published_at": "2026-02-22T15:43:12"
+          "summary": "Cursor for Professional WritingDiscussion|Link",
+          "published_at": "2026-02-24T07:31:01"
         },
         {
-          "title": "OpenHunt",
-          "url": "https://www.producthunt.com/products/openhunt",
-          "author": "CHOI",
+          "title": "Toggle for OpenClaw",
+          "url": "https://www.producthunt.com/products/togglex-openclaw",
+          "author": "Joe",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI-native launch layer for the post-algorithm internetDiscussion|Link",
-          "published_at": "2026-02-23T01:44:41"
+          "summary": "Your browser activity, streamed to your agent: live..Discussion|Link",
+          "published_at": "2026-02-23T15:18:53"
         },
         {
-          "title": "AnnotateAI",
-          "url": "https://www.producthunt.com/products/annotateai",
-          "author": "Akash Nath",
+          "title": "Settle",
+          "url": "https://www.producthunt.com/products/settle-4",
+          "author": "Will Feldman",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Human-guided AI data annotation, fast & scalableDiscussion|Link",
-          "published_at": "2026-02-22T23:22:44"
+          "summary": "Find, manage, and win more contracts with AIDiscussion|Link",
+          "published_at": "2026-02-23T09:02:20"
         },
         {
-          "title": "Callio",
-          "url": "https://www.producthunt.com/products/callio-3",
-          "author": "Hammad",
+          "title": "Orchids 1.0",
+          "url": "https://www.producthunt.com/products/orchids",
+          "author": "Kevin Lu",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Connect any API with AI Agent under 1 minuteDiscussion|Link",
-          "published_at": "2026-02-22T19:33:09"
+          "summary": "Build any app using your existing AI subscriptionsDiscussion|Link",
+          "published_at": "2026-02-24T04:23:29"
+        },
+        {
+          "title": "Prosaic",
+          "url": "https://www.producthunt.com/products/prosaic",
+          "author": "Deepansh Khurana",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "A minimal, open-source, writer-first terminal writing appDiscussion|Link",
+          "published_at": "2026-02-23T12:43:21"
         }
       ]
     },
@@ -503,9 +521,9 @@
           "published_at": null
         },
         {
-          "title": "死活想不起图在哪发过?微信终于上了图片溯源功能",
-          "url": "https://www.uisdc.com/hunter/0221660729.html",
-          "author": "岩鸣杨子",
+          "title": "开屏广告都很丑？懂车帝用3秒视差动效教你做高级感",
+          "url": "https://www.uisdc.com/hunter/0221660846.html",
+          "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
           "summary": null,
@@ -518,49 +536,49 @@
       "count": 5,
       "items": [
         {
-          "title": "The State of AI Design 2026",
-          "url": "https://bit.ly/side-obe1",
+          "title": "Design docs considered harmful",
+          "url": "https://www.lucasfcosta.com/blog/design-docs",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How are brands using AI? Obello discussed with 100+ design teams and found 3 major trends shaping AI design’s future. Download the report.",
-          "published_at": "2026-02-23T12:51:00"
+          "summary": "Hot takes and cold truths on software, startups, and the lies we tell ourselves.",
+          "published_at": "2026-02-24T12:42:41"
         },
         {
-          "title": "The only moat left is money",
-          "url": "https://elliotbonneville.com/the-only-moat-left-is-money/",
+          "title": "Walkman.land",
+          "url": "https://walkman.land/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The value of human thinking is going down. The value of human attention is going up. Those two facts are pointing in very different directions.",
-          "published_at": "2026-02-23T12:50:13"
+          "summary": "The most complete portable pocket audio cassette player database. WML is a tribute to the Walkmans.",
+          "published_at": "2026-02-24T12:42:19"
         },
         {
-          "title": "Technofascism Network Map",
-          "url": "https://nottoday.diy/network",
+          "title": "Every company building your AI assistant is now an ad company",
+          "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Mapping the alliance of billionaires, politicians, and tech giants driving global techno-fascism.",
-          "published_at": "2026-02-23T12:49:32"
+          "summary": "Every company building an AI assistant is also building hardware that listens and watches 24/7. Local on-device inference is the only way out.",
+          "published_at": "2026-02-24T12:40:53"
         },
         {
-          "title": "How to design for transparent screens",
-          "url": "https://design.google/library/transparent-screens",
+          "title": "The Stain Solver",
+          "url": "https://spotless.neocities.org/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Google's behind-the-scenes of designing the next generation of interfaces for AI glasses with displays.",
-          "published_at": "2026-02-23T12:47:05"
+          "summary": "Stain? Don't panic. Don't rub. Just fix it.",
+          "published_at": "2026-02-24T12:40:02"
         },
         {
-          "title": "There is no product",
-          "url": "https://sidu.in/essays/after-ai-there-is-no-product.html",
+          "title": "How I’m dealing with the pressure to adopt AI as a designer",
+          "url": "https://www.mynameismartin.co.uk/blog/how-im-dealing-with-the-pressure-to-adopt-ai-as-a-designer",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "If you’ve been anywhere near tech Twitter in the last few weeks, you’ve heard it: SaaS is dead. Everyone has an explanation. Sigh.",
-          "published_at": "2026-02-23T12:46:15"
+          "summary": "Things haven’t settled, the ground is still moving, and sitting with uncertainty might be the best position right now.",
+          "published_at": "2026-02-24T12:39:29"
         }
       ]
     },
@@ -581,8 +599,35 @@
     },
     {
       "category": "数字生活",
-      "count": 4,
+      "count": 6,
       "items": [
+        {
+          "title": "社区速递 130 | 演唱会摄影利器体验、几十块钱的旅行「安全感」",
+          "url": "https://sspai.com/post/106547",
+          "author": "Matrix机器人",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。💬一派热议在 ...查看全文",
+          "published_at": "2026-02-24T09:00:19"
+        },
+        {
+          "title": "旅居在滇西小城，体验美食与美景",
+          "url": "https://sspai.com/post/106056",
+          "author": "Sholmes",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "编者按：本文是少数派2025年度征文活动#TeamCarbon25标签下的入围文章。本文仅代表作者本人观点，少数派只略微调整排版。今年的征文活动更有创意，「只能用AI」和「不能用AI」两大赛道激情PK ...查看全文",
+          "published_at": "2026-02-24T06:46:51"
+        },
+        {
+          "title": "AI 时代的工具本地化：构建稳定、可迁移的数字堡垒",
+          "url": "https://sspai.com/post/105218",
+          "author": "Soar_Freely",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "在一个 AI 技术、云服务大肆发展的数字世界中，每个人都有必要开辟出一块完全属于自己的、利于深度思考与知识生产的自治领地。 这便是对生产力祛魅的最深刻实践。查看全文",
+          "published_at": "2026-02-24T02:56:34"
+        },
         {
           "title": "派早报：三星将 Perplexity AI 引入 Galaxy 手机等",
           "url": "https://sspai.com/post/106538",
@@ -609,15 +654,6 @@
           "source": "少数派",
           "summary": "来到这里就明白，即便不是什么著名景点但依然能不断吸引人前来，无非因为人对美好生活的向往是一致的。查看全文",
           "published_at": "2026-02-22T07:42:35"
-        },
-        {
-          "title": "AI 十字路口：当机器学会「思考」，我们应该知道什么？",
-          "url": "https://sspai.com/post/106285",
-          "author": "Yepi",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "这场智能革命，不是人类故事的终结，而是一个全新章节的开始。而我们，都是这个章节的第一批作者。查看全文",
-          "published_at": "2026-02-21T03:00:00"
         }
       ]
     }
