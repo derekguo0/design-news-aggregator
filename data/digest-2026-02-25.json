@@ -1,22 +1,22 @@
 {
   "date": "2026-02-25T00:00:00",
-  "total_items": 71,
+  "total_items": 69,
   "sources": [
-    "Smashing Magazine",
-    "UX Planet",
     "NN/g (Nielsen Norman Group)",
     "A List Apart",
-    "Product Hunt",
-    "优设网",
+    "CSS-Tricks",
+    "少数派",
     "Sidebar",
     "Design Milk",
     "Awwwards",
-    "少数派",
-    "CSS-Tricks",
+    "Smashing Magazine",
+    "优设网",
+    "Product Hunt",
     "UX Design CC",
+    "UX Planet",
     "人人都是产品经理"
   ],
-  "generated_at": "2026-02-25T09:05:06.189349",
+  "generated_at": "2026-02-25T13:15:10.480270",
   "categories": [
     {
       "category": "用户体验设计",
@@ -59,12 +59,12 @@
           "published_at": "2026-02-23T12:33:42"
         },
         {
-          "title": "What designers can learn from the first iPhone moment of AI",
+          "title": "The iPhone killed Flash, and economists tracked exactly who survived",
           "url": "https://uxdesign.cc/what-designers-can-learn-from-the-first-iphone-moment-of-ai-4643d1f14171?source=rss----138adf9c44c---4",
           "author": "Hoang Nguyen",
           "category": "用户体验设计",
           "source": "UX Design CC",
-          "summary": "Fifteen years ago, the iPhone killed Flash and nearly erased an entire design discipline.Continue reading on UX Collective »",
+          "summary": "The pattern is repeating.Continue reading on UX Collective »",
           "published_at": "2026-02-23T12:21:58"
         },
         {
@@ -260,49 +260,49 @@
           "published_at": "2026-02-23T14:00:39"
         },
         {
-          "title": "AI 是最强初级程序员，但规模化永远是人说了算",
-          "url": "https://www.woshipm.com/share/6344640.html",
+          "title": "《2028全球智能危机》：一篇雄文引发股市恐慌背后的十个逻辑",
+          "url": "https://www.woshipm.com/ai/6344843.html",
+          "author": "卫夕",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "一篇《2028全球智能危机》的思想实验竟引爆美股崩盘，揭示‘看多AI’或是最大熊市信号。当AI创造‘幽灵GDP’却绕过人类消费，当‘机器不花钱’导致消费主体萎缩，建立在‘人类智识稀缺’假设上的经济体系面临重构。核心警示：若你的收入仍依赖‘比机器贵但比机器好’，危机或许比想象更近。昨天，2026年2月23日，周一，美股开盘。（你看，咱们这春节不开盘也有好处）道琼斯跌了800多点，收在了日内最低点，全...",
+          "published_at": "2026-02-25T12:05:44"
+        },
+        {
+          "title": "C端、B端、AI产品在设计思路上有哪些不同？",
+          "url": "https://www.woshipm.com/share/6344801.html",
+          "author": "伍德安思壮",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "产品设计最忌‘一套思路走天下’。C端产品追求极致体验与情感连接，B端产品聚焦降本增效与流程闭环，AI产品则需在技术落地与风险可控间找平衡。本文深度拆解三类产品的底层逻辑差异，助产品人避开跨领域设计的误区，精准锚定价值核心。做产品设计最忌“一套思路走天下”，不少产品人从C端转B端、试水AI产品时频频踩坑，核心就是没抓准三类产品的设计底层逻辑。看似都是满足用户需求，实则三者的设计理念天差地别。C端面向...",
+          "published_at": "2026-02-25T11:45:38"
+        },
+        {
+          "title": "当所有人都在唱衰垂直软件时，为什么他却坚定看好！",
+          "url": "https://www.woshipm.com/ai/6344800.html",
+          "author": "深思圈",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "当通用大模型试图‘蒸发’业务逻辑时，垂直SaaS的销量却创历史新高。Hebbia创始人指出，企业软件的核心价值并非代码，而是对特定团队工作流的‘流程工程’与‘社会契约’。在金融等高精度领域，90%的正确率等同于失败，唯有深入理解那10%的差异化偏好、构建模型无关的可靠编排层，才能形成真正的护城河。你有没有想过这样一个问题：当 Anthropic、OpenAI 和 Google 正在投入数千亿美元打...",
+          "published_at": "2026-02-25T11:33:47"
+        },
+        {
+          "title": "Flutter 3.41正式发布！鸿蒙如何选择？",
+          "url": "https://www.woshipm.com/share/6344799.html",
           "author": "nutpi",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "2026年，'氛围编码'（Vibe Coding）盛行：开发者依赖AI快速跑通功能，却忽视底层逻辑与架构设计。这种模式在MVP阶段高效，但一旦进入规模化生产，便埋下性能崩塌、逻辑混乱的隐患。AI能解决'快'的问题，却无法替代人类对'稳'的思考。真正的工程底线是：用AI提速原型，用人脑守牢架构、质量与长期规划。2026 年，AI 已经成为每个开发者的标配工具。 我们不再争论 AI 能不能写代码，而是...",
-          "published_at": "2026-02-25T08:27:41"
+          "summary": "本文深度解析新版本特性、适配差距及未来演进方向，呼吁社区共建，在兼容鸿蒙特性和同步官方红利之间寻找最优解，推动跨平台开发在鸿蒙生态行稳致远。12日，Flutter 3.41正式发布的消息引发跨平台开发圈关注，作为鸿蒙生态开发者，我们除了关注官方新版本特性，更核心的疑问的是：Flutter-OH（鸿蒙版Flutter）后续该如何适配新版本？未来的选择方向到底是什么？Flutter官方同步公布了202...",
+          "published_at": "2026-02-25T11:32:12"
         },
         {
-          "title": "为什么 B 端产品的步骤条表单越来越少",
-          "url": "https://www.woshipm.com/ucd/6344638.html",
-          "author": "CE青年",
+          "title": "AI赋能产科监护：从设备佩戴到数据洞察的产品设计思考",
+          "url": "https://www.woshipm.com/ai/6344746.html",
+          "author": "产品小葵",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "B端设计中，步骤条正从‘标配’走向‘退场’。对于追求全局掌控与高效录入的专家型用户，步骤条带来的线性割裂、心流中断及高昂修改成本已成痛点。2026年的趋势是‘非必要不步骤’：通过单页长表单配合锚点导航，将业务掌控权交还用户。今天来和大家聊聊在 B 端设计当中十分基础，但是争议越来越大的组件：步骤条因为在过去很长一段时间里，步骤条几乎是 B 端复杂表单的“标配”，只要遇到信息量大的任务，设计师的第一...",
-          "published_at": "2026-02-25T08:25:26"
-        },
-        {
-          "title": "亲历零工平台巨变一年：从经营所得到劳务所得，我们如何活下来？",
-          "url": "https://www.woshipm.com/share/6344590.html",
-          "author": "极光",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "2025年的税收新政彻底颠覆了零工经济生态，税率飙升90倍背后是行业的生死博弈。本文由头部平台产品经理亲述：从系统紧急重构到产品组合创新，揭秘如何在政策地震中构建政府关系、销售体系和技术迭代的三重护城河。2025年10月1日，一个让所有零工经济从业者刻骨铭心的日子。经营所得变劳务所得，个税从0.5%变成3%-45%，行业一夜洗牌。作为一家头部零工平台的产品经理，我亲历了这场地震，也想把这一年的复盘...",
-          "published_at": "2026-02-25T08:12:09"
-        },
-        {
-          "title": "广告主正在加快收回数据主权？",
-          "url": "https://www.woshipm.com/share/6344543.html",
-          "author": "刀客",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "品牌正加速收回程序化广告的数据主权，从乐高到Georgia-Pacific，越来越多企业选择in-house团队掌控关键投放数据。本文将深度解析这场数据主权争夺战背后的商业逻辑与技术困境，揭示平台围墙花园下的博弈真相，以及品牌如何在不完美的现实中争取更多解释权与决策权。01如果这两周你在刷广告行业的新闻，大概会注意到几条放在一起有点意味深长的小事。乐高在美国和丹麦同时挂出了几则程序化岗位：全球程序...",
-          "published_at": "2026-02-25T08:04:03"
-        },
-        {
-          "title": "传统制造业与AI的深度融合路径——从痛点破局到价值落地",
-          "url": "https://www.woshipm.com/ai/6344282.html",
-          "author": "Tyng",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "制造业数字化转型浪潮下，AI正成为破解生产效率、质量管控和成本优化三大核心痛点的关键利器。本文将深入剖析产品经理如何通过五步法与三大抓手，将AI技术转化为可量化、可落地的解决方案，实现从单点突破到全链条赋能的蜕变，引领制造业从传统制造迈向智能制造的跨越式发展。在制造业数字化转型的浪潮中，AI不再是“高大上”的技术概念，而是解决传统制造业痛点、实现降本增效提质的核心抓手。不同于技术人员聚焦“AI能做...",
-          "published_at": "2026-02-25T07:51:01"
+          "summary": "产科监护的复杂场景正迎来AI技术的颠覆性变革。从设备佩戴的精准指导到危急情况的智能预警，AI在交互、分析、自动化与创作四大维度展现出强大潜力。本文将深度剖析AI如何成为医护人员的智能助手，重构产房中的信息流转与决策逻辑，并揭示医疗场景下AI落地的三大关键法则。产科监护的场景极其复杂：护士要帮产妇佩戴设备，医生要随时查看数据，产房里的警报声此起彼伏，交接班时病历信息要快速传递……每一个环节都可能有信...",
+          "published_at": "2026-02-25T11:26:28"
         }
       ]
     },
@@ -449,17 +449,8 @@
     },
     {
       "category": "产品发现",
-      "count": 8,
+      "count": 6,
       "items": [
-        {
-          "title": "The Commuter",
-          "url": "https://www.producthunt.com/products/the-commuter",
-          "author": "Jeyee Heng",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "News that reads like a tweetDiscussion|Link",
-          "published_at": "2026-02-24T10:04:23"
-        },
         {
           "title": "Ask Fellow",
           "url": "https://www.producthunt.com/products/fellow-app",
@@ -470,58 +461,49 @@
           "published_at": "2026-02-24T14:53:03"
         },
         {
+          "title": "The Commuter",
+          "url": "https://www.producthunt.com/products/the-commuter",
+          "author": "Jeyee Heng",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "News that reads like a tweetDiscussion|Link",
+          "published_at": "2026-02-24T10:04:23"
+        },
+        {
+          "title": "Tadak",
+          "url": "https://www.producthunt.com/products/tadak",
+          "author": "Nell",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Your Personal White Noise PlayerDiscussion|Link",
+          "published_at": "2026-02-24T19:17:15"
+        },
+        {
+          "title": "VibePad",
+          "url": "https://www.producthunt.com/products/vibepad",
+          "author": "Vova Ignatov",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Control AI coding assistants with a gamepad from your couchDiscussion|Link",
+          "published_at": "2026-02-24T22:37:19"
+        },
+        {
+          "title": "DemoMe",
+          "url": "https://www.producthunt.com/products/demome",
+          "author": "Billysama",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Turn screen recordings into polished demo videos instantlyDiscussion|Link",
+          "published_at": "2026-02-24T22:34:58"
+        },
+        {
           "title": "Opal 2.0 by Google Labs",
-          "url": "https://www.producthunt.com/products/opal-2-0",
+          "url": "https://www.producthunt.com/products/google",
           "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
           "summary": "Now with smart agent, memory, routing and interactive chatDiscussion|Link",
           "published_at": "2026-02-24T19:24:55"
-        },
-        {
-          "title": "General Legal",
-          "url": "https://www.producthunt.com/products/general-legal",
-          "author": "J.P. Mohler",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "A lightening fast law firm in your SlackDiscussion|Link",
-          "published_at": "2026-02-25T06:48:11"
-        },
-        {
-          "title": "Thinklet AI",
-          "url": "https://www.producthunt.com/products/thinklet-ai-voice-notes-with-local-ai",
-          "author": "Kaila Consulting Inc",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Voice notes you can chat with.Discussion|Link",
-          "published_at": "2026-02-24T21:35:46"
-        },
-        {
-          "title": "Synlets",
-          "url": "https://www.producthunt.com/products/synlets",
-          "author": "Stas",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Assign tickets to AI and reduce your backlogDiscussion|Link",
-          "published_at": "2026-02-24T03:39:47"
-        },
-        {
-          "title": "Mercury 2",
-          "url": "https://www.producthunt.com/products/mercury-412",
-          "author": "Zac Zuo",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Fastest reasoning LLM built for instant production AIDiscussion|Link",
-          "published_at": "2026-02-25T02:52:00"
-        },
-        {
-          "title": "floors.js",
-          "url": "https://www.producthunt.com/products/floors-js",
-          "author": "Vincent S",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Turn your website into Habbo Hotel - one script tagDiscussion|Link",
-          "published_at": "2026-02-24T12:43:38"
         }
       ]
     },
@@ -575,9 +557,9 @@
           "published_at": null
         },
         {
-          "title": "大众点评分析相册权限引发争议，但它解决的问题是真实的",
-          "url": "https://www.uisdc.com/hunter/0221660983.html",
-          "author": "龙爪槐守望者",
+          "title": "原来语音也能有仪式感，小红书这个春节特效做对了什么？",
+          "url": "https://www.uisdc.com/hunter/0221660986.html",
+          "author": "张老三",
           "category": "设计教程",
           "source": "优设网",
           "summary": null,
@@ -590,49 +572,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Design docs considered harmful",
-          "url": "https://www.lucasfcosta.com/blog/design-docs",
+          "title": "Why AI is exposing design’s craft crisis",
+          "url": "https://www.doc.cc/articles/craft-crisis",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Hot takes and cold truths on software, startups, and the lies we tell ourselves.",
-          "published_at": "2026-02-24T12:42:41"
+          "summary": "AI didn’t create the craft crisis in design—it exposed the technical literacy gap that’s been eroding strategic influence for over a decade.",
+          "published_at": "2026-02-25T12:49:15"
         },
         {
-          "title": "Walkman.land",
-          "url": "https://walkman.land/",
+          "title": "Letters to a Young Creator",
+          "url": "https://letters.stevejobsarchive.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The most complete portable pocket audio cassette player database. WML is a tribute to the Walkmans.",
-          "published_at": "2026-02-24T12:42:19"
+          "summary": "A collection of honest perspectives on what it takes to make something great, written by people who have done it before.",
+          "published_at": "2026-02-25T12:48:40"
         },
         {
-          "title": "Every company building your AI assistant is now an ad company",
-          "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
+          "title": "The software development lifecycle is dead",
+          "url": "https://boristane.com/blog/the-software-development-lifecycle-is-dead/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Every company building an AI assistant is also building hardware that listens and watches 24/7. Local on-device inference is the only way out.",
-          "published_at": "2026-02-24T12:40:53"
+          "summary": "AI agents didn’t make the SDLC faster. They killed it. All that’s left is context.",
+          "published_at": "2026-02-25T12:48:11"
         },
         {
-          "title": "The Stain Solver",
-          "url": "https://spotless.neocities.org/",
+          "title": "Sweetfont",
+          "url": "https://sweetfont.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Stain? Don't panic. Don't rub. Just fix it.",
-          "published_at": "2026-02-24T12:40:02"
+          "summary": "Explore Google Fonts by personality, vibe, and style using interactive controls.",
+          "published_at": "2026-02-25T12:47:18"
         },
         {
-          "title": "How I’m dealing with the pressure to adopt AI as a designer",
-          "url": "https://www.mynameismartin.co.uk/blog/how-im-dealing-with-the-pressure-to-adopt-ai-as-a-designer",
+          "title": "Designing in English",
+          "url": "https://cianfrani.dev/posts/designing-in-english/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Things haven’t settled, the ground is still moving, and sitting with uncertainty might be the best position right now.",
-          "published_at": "2026-02-24T12:39:29"
+          "summary": "Components are dead. Use your words.",
+          "published_at": "2026-02-25T12:46:40"
         }
       ]
     },
