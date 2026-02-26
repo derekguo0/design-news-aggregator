@@ -1,23 +1,23 @@
 {
   "date": "2026-02-26T00:00:00",
-  "total_items": 73,
+  "total_items": 72,
   "sources": [
-    "UX Planet",
-    "人人都是产品经理",
-    "Awwwards",
-    "少数派",
-    "Smashing Magazine",
+    "CSS-Tricks",
     "Intercom Blog",
-    "Product Hunt",
-    "A List Apart",
     "Design Milk",
-    "UX Design CC",
-    "Sidebar",
     "NN/g (Nielsen Norman Group)",
+    "人人都是产品经理",
+    "A List Apart",
+    "Awwwards",
+    "Product Hunt",
+    "少数派",
+    "UX Planet",
     "优设网",
-    "CSS-Tricks"
+    "Smashing Magazine",
+    "Sidebar",
+    "UX Design CC"
   ],
-  "generated_at": "2026-02-26T02:29:06.727380",
+  "generated_at": "2026-02-26T09:00:24.736881",
   "categories": [
     {
       "category": "用户体验设计",
@@ -279,49 +279,49 @@
           "published_at": "2026-02-25T20:00:13"
         },
         {
-          "title": "Openclaw部署教程—全网最新、最详细",
-          "url": "https://www.woshipm.com/ai/6344906.html",
-          "author": "Goodnight.",
+          "title": "如何用一天时间，构建你的赚钱系统",
+          "url": "https://www.woshipm.com/share/6345179.html",
+          "author": "叁斤",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "OpenClaw（大龙虾）作为2026年开源社区最热门的AI Agent工具，凭借强大的自主规划能力赢得开发者青睐。本文提供基于最新版本的零基础部署指南，从环境配置到模型选择，再到常见问题全解析，助你快速避开技术陷阱，解锁AI Agent的完整潜力。OpenClaw大龙虾都用上了吗？作为 2026 年开源社区最活跃的 AI Agent 项目之一，OpenClaw（社区昵称“大龙虾”）凭借其强大的自...",
-          "published_at": "2026-02-26T02:03:57"
+          "summary": "赚钱只有两种模式：卖时间或搭系统。大多数人困于‘干一天活拿一天钱’的线性增长，却忽略了用一天时间就能搭建的‘最小赚钱系统’。核心三步走：梳理个人独特经验资产，利用AI快速将经验封装为标准化产品（如手册、模板），最后通过搜索型内容让精准用户主动找到你。系统一旦运转，便能打破时间上限，实现‘一次制作，反复售卖’的复利效应。赚钱有两种方式。一种是卖时间。干一天活拿一天钱，不干就没有。接一单广告，做完，结...",
+          "published_at": "2026-02-26T08:09:56"
         },
         {
-          "title": "当Al让技能平权后，阶层的藩篱会被打破吗？",
-          "url": "https://www.woshipm.com/ai/6344788.html",
-          "author": "花爷本爷",
+          "title": "实测分享：ArkUI-X 6.0.2 Release 版本体验，这些更新还可以！",
+          "url": "https://www.woshipm.com/share/6345175.html",
+          "author": "nutpi",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI 正在以前所未有的速度将专业技能的门槛踏平，写代码、做财报分析、设计海报等曾经需要长期学习的能力，如今只需一键调用。然而，技术民主化真的意味着社会更平等吗？本文深刻剖析了技能塌缩背后的阶层壁垒，揭示了资源、信息、圈层与结构如何成为新的护城河，并预言了未来社会的三叠纪分层。时间来到2026年。一个普通的在校大学生，正坐在宿舍里用AI写出了底层的架构代码、生成了一整套令人惊艳的UI设计、并顺手输出...",
-          "published_at": "2026-02-26T01:52:17"
+          "summary": "ArkUI-X 6.0.2 Release版本发布，虽无颠覆性功能，却以‘精准补漏’直击开发者痛点。核心亮点包括：平台桥接实现Ability与Bridge解耦，支持全局调用、子线程运行及同步接口，彻底解决调用繁琐与UI卡顿难题；新增无障碍、振动器、地理位置管理3个核心API的跨平台适配，大幅降低多端代码冗余。实测显示，该版本在保持低适配成本的同时，显著提升了开发效率与应用流畅度，是跨平台开发者从6...",
+          "published_at": "2026-02-26T07:58:23"
         },
         {
-          "title": "AI重构同步工具：五大场景下的落地实践",
-          "url": "https://www.woshipm.com/ai/6344775.html",
-          "author": "产品小葵",
+          "title": "一人公司不好干，别被“超级个体”忽悠了",
+          "url": "https://www.woshipm.com/ai/6345055.html",
+          "author": "Alex的荒诞产品观",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI正在重构跨境电商工具的底层逻辑。从Shopify到TikTok的商品同步难题，被AI的四大能力——交互引导、智能分析、内容创作、流程自动化一一破解。本文将深入拆解Connector五大核心场景的AI改造方案，看智能技术如何让复杂配置变得简单，让用户从操作者蜕变为指挥者。用户的需求听起来很简单：把Shopify的商品发到TikTok，把TikTok的订单收回来。但真正用过这类工具的人都有体会——...",
-          "published_at": "2026-02-26T01:46:55"
+          "summary": "一人公司的光鲜背后，往往是疲惫与孤独的真实写照。本文将揭示\"超级个体\"神话的残酷真相：从直播与短视频的精力拉扯，到AI工具的局限性，再到创业路上不可或缺的团队力量。通过真实案例分析，带你重新思考商业协作的本质与创业成功的关键要素。前几天我去朋友家待了四五天，他是做男童穿搭自媒体的。听着挺光鲜吧？实际上我看到的画面是：他一个人扛着手机拍视频，半夜还在剪片子，直播时又当主播又当运营，下播了还得挨个回复...",
+          "published_at": "2026-02-26T07:29:47"
         },
         {
-          "title": "TikTok Hashtag营销终极指南：如何利用TikTok标签引爆品牌流量吸引客户？",
-          "url": "https://www.woshipm.com/share/6344755.html",
-          "author": "Roxy",
+          "title": "构建产品价值",
+          "url": "https://www.woshipm.com/share/6344948.html",
+          "author": "吕见破晓",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "TikTok标签正在成为品牌营销的战略级武器。#BookTok引爆1720亿浏览量的背后，隐藏着从流量分配到用户运营的完整方法论。本文将拆解标签如何突破算法黑箱、构建品牌社区，并揭秘AI工具如何重塑标签营销的效率边界。“#BookTok”标签下累计超过1720亿次浏览，不仅让众多书籍成为爆款，甚至改变了出版行业的营销模式。TikTok的标签正在重新定义品牌与用户的连接方式。标签远不止是内容的分类工...",
-          "published_at": "2026-02-26T01:25:50"
+          "summary": "在激烈的市场竞争中，产品价值的构建已成为企业生存的关键。本文通过JTBD理论、聚焦策略、成长型产品设计等五个维度，揭示了从用户任务出发构建深层价值的底层逻辑，带你重新思考产品价值的本质与进化路径。彼得·德鲁克曾言：“企业的唯一目的就是创造顾客，而创造顾客的核心在于创造价值。”在产品迭代加速、市场竞争日趋激烈的当下，产品价值的构建已成为企业生存与发展的核心命题，更是创业路上必须破解的关键难题。规划设...",
+          "published_at": "2026-02-26T07:19:36"
         },
         {
-          "title": "大厂春节AI大战，你参加了吗？",
-          "url": "https://www.woshipm.com/ai/6344666.html",
-          "author": "Scarlet斯佳丽",
+          "title": "拒绝背锅：如何制定一份合格的AI产品验收标准？🤔",
+          "url": "https://www.woshipm.com/ai/6344880.html",
+          "author": "虫虫",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "2025年春节AI大战的三家巨头：豆包、元宝、千问，在这场流量盛宴中展现了截然不同的打法与结局。从DAU飙升到留存率暴跌，从红包策略到生活场景渗透，这场战役揭示了AI行业从流量思维到留量思维的深刻转变。本文深度剖析春节AI战场的真实战况，解读数字背后的战略差异，并展望AI未来的终极形态——不是工具，而是用户的'数字分身'。每年春节，都是互联网大厂的流量盛宴，但今年这场AI大战，可比往年的红包大战有...",
-          "published_at": "2026-02-26T01:25:10"
+          "summary": "AI产品的验收绝非简单的黑盒测试，而是需要一套科学严谨的评估体系。本文将揭秘三大实战方法论：如何通过限定边界、建立量化测试集、明确权责划分，在充满不确定性的AI领域构建可靠的验收标准，帮助产品经理告别无休止的内耗与背锅。做AI产品，很多时候都感觉在摸黑。在拿着“点下去就得出这个结果”的逻辑去验收AI，下场只会各种的延期和争论，以及一个扣下来的锅。在技术是具有概率性和业务强依赖场景下，我们是需要有一...",
+          "published_at": "2026-02-26T07:19:22"
         }
       ]
     },
@@ -393,6 +393,15 @@
           "published_at": null
         },
         {
+          "title": "1820 Productions",
+          "url": "https://www.awwwards.com/sites/1820-productions",
+          "author": "Carter Ogunsola O.",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Studio Dado",
           "url": "https://www.awwwards.com/sites/studio-dado",
           "author": "Motto",
@@ -454,75 +463,57 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Studio Dialect",
-          "url": "https://www.awwwards.com/sites/studio-dialect",
-          "author": "studiodialect",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "Ask Fellow",
-          "url": "https://www.producthunt.com/products/fellow-app",
-          "author": "Aydin Mirzaee",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Automate post-meeting actions from documentation to emailsDiscussion|Link",
-          "published_at": "2026-02-24T14:53:03"
-        },
-        {
-          "title": "AskAIBase",
-          "url": "https://www.producthunt.com/products/ask-7",
-          "author": "Charlie Cheng",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Memory infrastructure for AI coding agentsDiscussion|Link",
-          "published_at": "2026-02-25T06:46:51"
-        },
-        {
-          "title": "Notion Custom Agents",
-          "url": "https://www.producthunt.com/products/notion",
+          "title": "gpt-realtime-1.5 by OpenAI",
+          "url": "https://www.producthunt.com/products/openai",
           "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Anything you can do in Notion, your Agent can do for you.Discussion|Link",
-          "published_at": "2026-02-24T17:23:38"
+          "summary": "Tighter instruction adherence in speech agentsDiscussion|Link",
+          "published_at": "2026-02-23T20:07:44"
         },
         {
-          "title": "Draftwise Playbook Studio",
-          "url": "https://www.producthunt.com/products/draftwise-playbook-studio",
-          "author": "Sarah Schultz",
+          "title": "My Texas Method",
+          "url": "https://www.producthunt.com/products/my-texas-method",
+          "author": "Daisuke Adachi",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Analyze your patterns. Capture your edge. Playbooks at scaleDiscussion|Link",
-          "published_at": "2026-02-24T21:20:05"
+          "summary": "Automate your strength training with Texas MethodDiscussion|Link",
+          "published_at": "2026-02-25T06:34:24"
         },
         {
-          "title": "Pinly",
-          "url": "https://www.producthunt.com/products/pinly-smart-location-reminders",
-          "author": "Alvin Armanni",
+          "title": "Chiron",
+          "url": "https://www.producthunt.com/products/chiron",
+          "author": "Kojo Opuni",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Reminders that trigger exactly where you need themDiscussion|Link",
-          "published_at": "2026-02-24T14:18:47"
+          "summary": "AI production mentor that lives inside your DAWDiscussion|Link",
+          "published_at": "2026-02-25T01:16:57"
         },
         {
-          "title": "Opal 2.0 by Google Labs",
-          "url": "https://www.producthunt.com/products/google",
-          "author": "Rohan Chaubey",
+          "title": "IronClaw",
+          "url": "https://www.producthunt.com/products/ironclaw",
+          "author": "Danny Carpentier Balough",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Now with smart agent, memory, routing and interactive chatDiscussion|Link",
-          "published_at": "2026-02-24T19:24:55"
+          "summary": "Secure, open-source alternative to OpenClawDiscussion|Link",
+          "published_at": "2026-02-26T00:17:12"
+        },
+        {
+          "title": "RankingSuperior",
+          "url": "https://www.producthunt.com/products/rankingsuperior",
+          "author": "Edu",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Rank and get cited using your expertiseDiscussion|Link",
+          "published_at": "2026-02-25T18:54:22"
         }
       ]
     },
@@ -675,6 +666,24 @@
       "count": 6,
       "items": [
         {
+          "title": "深度横评：2026 年，AI 生成 PPT 到底进化到什么程度了？",
+          "url": "https://sspai.com/post/105484",
+          "author": "小胡小胡0009",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "我测了 8 款 AI PPT 工具，只有 2 款真正能用。查看全文",
+          "published_at": "2026-02-26T06:33:00"
+        },
+        {
+          "title": "再谈 .DS_Store：兼论 Windows 与 macOS Finder 的布局理念差异",
+          "url": "https://sspai.com/prime/story/on-dsstore",
+          "author": "Neighbor_Z",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "引你是否在 Windows 与 macOS 之间频繁切换工作、互传数据？你是否拥有 NAS 并且局域网内同时存在 Mac 和 PC 访问其资源？或者，你是否拥有一位使用 Mac 的朋友、同事、同学，并使用储存介质在他们的 Mac 上拷贝过文件？如果满足上述任一条件，那么你应该大概率见过 .DS_Store 文件。如果你进入互联网搜索 .DS_Store 文件，扑面而来的却可能是大量「讨伐」.DS_...",
+          "published_at": "2026-02-26T03:27:16"
+        },
+        {
           "title": "派早报：三星发布 S26 系列手机、Anthropic 的新动态等",
           "url": "https://sspai.com/post/106602",
           "author": "少数派编辑部",
@@ -709,24 +718,6 @@
           "source": "少数派",
           "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
           "published_at": "2026-02-25T00:42:56"
-        },
-        {
-          "title": "社区速递 130 | 演唱会摄影利器体验、几十块钱的旅行「安全感」",
-          "url": "https://sspai.com/post/106547",
-          "author": "Matrix机器人",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。💬一派热议在 ...查看全文",
-          "published_at": "2026-02-24T09:00:19"
-        },
-        {
-          "title": "旅居在滇西小城，体验美食与美景",
-          "url": "https://sspai.com/post/106056",
-          "author": "Sholmes",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "编者按：本文是少数派2025年度征文活动#TeamCarbon25标签下的入围文章。本文仅代表作者本人观点，少数派只略微调整排版。今年的征文活动更有创意，「只能用AI」和「不能用AI」两大赛道激情PK ...查看全文",
-          "published_at": "2026-02-24T06:46:51"
         }
       ]
     }
