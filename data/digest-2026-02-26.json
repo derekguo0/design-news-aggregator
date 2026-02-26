@@ -2,27 +2,45 @@
   "date": "2026-02-26T00:00:00",
   "total_items": 72,
   "sources": [
-    "CSS-Tricks",
-    "Intercom Blog",
-    "Design Milk",
-    "NN/g (Nielsen Norman Group)",
-    "人人都是产品经理",
-    "A List Apart",
-    "Awwwards",
-    "Product Hunt",
     "少数派",
-    "UX Planet",
-    "优设网",
     "Smashing Magazine",
+    "NN/g (Nielsen Norman Group)",
+    "A List Apart",
+    "Product Hunt",
+    "Awwwards",
+    "Design Milk",
+    "UX Planet",
+    "UX Design CC",
+    "Intercom Blog",
+    "优设网",
     "Sidebar",
-    "UX Design CC"
+    "人人都是产品经理",
+    "CSS-Tricks"
   ],
-  "generated_at": "2026-02-26T09:00:24.736881",
+  "generated_at": "2026-02-26T13:15:43.093114",
   "categories": [
     {
       "category": "用户体验设计",
       "count": 14,
       "items": [
+        {
+          "title": "Breaking the echo chamber in your interface",
+          "url": "https://uxdesign.cc/breaking-the-echo-chamber-in-your-interface-5ef8e53a4673?source=rss----138adf9c44c---4",
+          "author": "Dora Czerna",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Your chatbot would praise your worst ideas. Here’s how to design interfaces that push back instead.Image based on Las Meninas by Velázquez (1656)Throwback to the last time this happened to you. You’re...",
+          "published_at": "2026-02-26T11:53:22"
+        },
+        {
+          "title": "Your users aren’t human anymore; start building for agents today",
+          "url": "https://uxdesign.cc/your-users-arent-human-anymore-start-building-for-agents-today-f7f556cb8125?source=rss----138adf9c44c---4",
+          "author": "Tony Beltramelli",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Disclaimer: although I am going to use industry examples from products I am building at Miro to illustrate key ideas in this piece, I am sharing my own POV, and I am not speaking on behalf of Miro.For...",
+          "published_at": "2026-02-26T11:52:24"
+        },
         {
           "title": "When anyone can build anything",
           "url": "https://uxdesign.cc/when-anyone-can-build-anything-6c8a0059ed0e?source=rss----138adf9c44c---4",
@@ -94,24 +112,6 @@
           "source": "UX Design CC",
           "summary": "The pattern is repeating.Continue reading on UX Collective »",
           "published_at": "2026-02-23T12:21:58"
-        },
-        {
-          "title": "Designers, we should be killing it right now",
-          "url": "https://uxdesign.cc/designers-we-should-be-killing-it-right-now-c0a0c535f456?source=rss----138adf9c44c---4",
-          "author": "Nicole Alexandra Michaelis",
-          "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "Designers should be thriving in the age of AI. Here’s why we aren’t, why it’s probably our fault, and how we can fix it.The Beatles, Magical Mystery Tour (source)Much has been said about the future of...",
-          "published_at": "2026-02-23T12:21:37"
-        },
-        {
-          "title": "Something big “might” be happening",
-          "url": "https://uxdesign.cc/something-big-might-be-happening-16cdba2df6ad?source=rss----138adf9c44c---4",
-          "author": "Elvis Hsiao",
-          "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "Why the future of design belongs to creative thinkers and problem solversContinue reading on UX Collective »",
-          "published_at": "2026-02-23T12:19:35"
         },
         {
           "title": "UI Design with Gemini 3.1",
@@ -279,6 +279,42 @@
           "published_at": "2026-02-25T20:00:13"
         },
         {
+          "title": "友盟+冯成蹊：Agent 破圈时代，APP 的生存法则：不是被取代，而是重构融合",
+          "url": "https://www.woshipm.com/ai/6345275.html",
+          "author": "人人都是产品经理",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "当 OpenClaw 创始人抛出 “80% 的应用将会消失” 的判断，当比尔・盖茨直言 “App 时代已经结束”，Agent（智能体）的崛起让整个 APP 行业陷入了对未来的思考。在 AI 技术飞速迭代的当下，Agent 不再只是简单的工具，而是成为重构人机交互、颠覆 APP 生态的核心力量。友盟+产品总监冯成蹊在AI产品大会中分享了 Agent 破圈后 APP 领域的变革与思考，揭开了这个时代下...",
+          "published_at": "2026-02-26T09:39:23"
+        },
+        {
+          "title": "春节回家，我看到了三个正在加速的变化",
+          "url": "https://www.woshipm.com/share/6345256.html",
+          "author": "曙欧巴",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "被优化后回乡创业的第一个春节，见证了AI技术以‘零时差’速度下沉至县城：从中专生到长辈，人人皆谈AI。然而，技术普惠的另一面是就业共识的收紧——‘稳定’难寻，传统岗位收缩。今年春节，有一件事让我特别轻松。不用抢春运火车票，也不用带着大小行李挤火车。以前每年这个时候，焦虑都差不多：抢票、候补、改签、行李、时间卡得死死的。过年前的那几天，心里总有一种分离感，人还在上班，心已经飞回老家。可今年不一样。去...",
+          "published_at": "2026-02-26T09:23:43"
+        },
+        {
+          "title": "AI海啸：当脑力劳动被重新定义，我们该如何自处？",
+          "url": "https://www.woshipm.com/ai/6345236.html",
+          "author": "豆芽悟",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "AI正从‘工具’进化为‘代理’，脑力劳动首次实现‘可量化、可计价’，导致企业中层岗位被系统性稀释，就业结构呈‘哑铃型’剧变。当查资料、写初稿等标准化工作被接管，人类的独特价值将重定于战略判断、创意构思与共情沟通。作为一名软件产品经理，我最近测试了一轮国内外AI产品，一个强烈的感受是：接下来企业多数的脑力工作岗位都没什么戏了，可能会出现大量减少。这个直觉并非空穴来风。2025年，马斯克在CES专访中...",
+          "published_at": "2026-02-26T09:04:00"
+        },
+        {
+          "title": "GLM-5 技术报告全解读——a16z：“最好的开源模型”",
+          "url": "https://www.woshipm.com/ai/6345230.html",
+          "author": "赛博禅心",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "智谱最新40页技术报告揭秘核心突破：744B总参数（激活40B）的MoE架构、仅需20B token即追平DeepSeek效果的DSA稀疏注意力机制、以及完全异步的Slime Agent RL训练框架。a16z 昨天发了一张图，把 GLM-5 和 Claude Opus 4.6 并排标注在 Artificial Analysis Intelligence Index 的时间线上https://ww...",
+          "published_at": "2026-02-26T08:57:23"
+        },
+        {
           "title": "如何用一天时间，构建你的赚钱系统",
           "url": "https://www.woshipm.com/share/6345179.html",
           "author": "叁斤",
@@ -286,42 +322,6 @@
           "source": "人人都是产品经理",
           "summary": "赚钱只有两种模式：卖时间或搭系统。大多数人困于‘干一天活拿一天钱’的线性增长，却忽略了用一天时间就能搭建的‘最小赚钱系统’。核心三步走：梳理个人独特经验资产，利用AI快速将经验封装为标准化产品（如手册、模板），最后通过搜索型内容让精准用户主动找到你。系统一旦运转，便能打破时间上限，实现‘一次制作，反复售卖’的复利效应。赚钱有两种方式。一种是卖时间。干一天活拿一天钱，不干就没有。接一单广告，做完，结...",
           "published_at": "2026-02-26T08:09:56"
-        },
-        {
-          "title": "实测分享：ArkUI-X 6.0.2 Release 版本体验，这些更新还可以！",
-          "url": "https://www.woshipm.com/share/6345175.html",
-          "author": "nutpi",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "ArkUI-X 6.0.2 Release版本发布，虽无颠覆性功能，却以‘精准补漏’直击开发者痛点。核心亮点包括：平台桥接实现Ability与Bridge解耦，支持全局调用、子线程运行及同步接口，彻底解决调用繁琐与UI卡顿难题；新增无障碍、振动器、地理位置管理3个核心API的跨平台适配，大幅降低多端代码冗余。实测显示，该版本在保持低适配成本的同时，显著提升了开发效率与应用流畅度，是跨平台开发者从6...",
-          "published_at": "2026-02-26T07:58:23"
-        },
-        {
-          "title": "一人公司不好干，别被“超级个体”忽悠了",
-          "url": "https://www.woshipm.com/ai/6345055.html",
-          "author": "Alex的荒诞产品观",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "一人公司的光鲜背后，往往是疲惫与孤独的真实写照。本文将揭示\"超级个体\"神话的残酷真相：从直播与短视频的精力拉扯，到AI工具的局限性，再到创业路上不可或缺的团队力量。通过真实案例分析，带你重新思考商业协作的本质与创业成功的关键要素。前几天我去朋友家待了四五天，他是做男童穿搭自媒体的。听着挺光鲜吧？实际上我看到的画面是：他一个人扛着手机拍视频，半夜还在剪片子，直播时又当主播又当运营，下播了还得挨个回复...",
-          "published_at": "2026-02-26T07:29:47"
-        },
-        {
-          "title": "构建产品价值",
-          "url": "https://www.woshipm.com/share/6344948.html",
-          "author": "吕见破晓",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "在激烈的市场竞争中，产品价值的构建已成为企业生存的关键。本文通过JTBD理论、聚焦策略、成长型产品设计等五个维度，揭示了从用户任务出发构建深层价值的底层逻辑，带你重新思考产品价值的本质与进化路径。彼得·德鲁克曾言：“企业的唯一目的就是创造顾客，而创造顾客的核心在于创造价值。”在产品迭代加速、市场竞争日趋激烈的当下，产品价值的构建已成为企业生存与发展的核心命题，更是创业路上必须破解的关键难题。规划设...",
-          "published_at": "2026-02-26T07:19:36"
-        },
-        {
-          "title": "拒绝背锅：如何制定一份合格的AI产品验收标准？🤔",
-          "url": "https://www.woshipm.com/ai/6344880.html",
-          "author": "虫虫",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "AI产品的验收绝非简单的黑盒测试，而是需要一套科学严谨的评估体系。本文将揭秘三大实战方法论：如何通过限定边界、建立量化测试集、明确权责划分，在充满不确定性的AI领域构建可靠的验收标准，帮助产品经理告别无休止的内耗与背锅。做AI产品，很多时候都感觉在摸黑。在拿着“点下去就得出这个结果”的逻辑去验收AI，下场只会各种的延期和争论，以及一个扣下来的锅。在技术是具有概率性和业务强依赖场景下，我们是需要有一...",
-          "published_at": "2026-02-26T07:19:22"
         }
       ]
     },
@@ -471,13 +471,40 @@
       "count": 5,
       "items": [
         {
-          "title": "gpt-realtime-1.5 by OpenAI",
-          "url": "https://www.producthunt.com/products/openai",
-          "author": "Rohan Chaubey",
+          "title": "Seedream 5.0 Lite",
+          "url": "https://www.producthunt.com/products/pixeldance-seaweed",
+          "author": "Ankit Sharma",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Tighter instruction adherence in speech agentsDiscussion|Link",
-          "published_at": "2026-02-23T20:07:44"
+          "summary": "The next generation of AI image creation is hereDiscussion|Link",
+          "published_at": "2026-02-25T14:35:03"
+        },
+        {
+          "title": "Commit Please",
+          "url": "https://www.producthunt.com/products/commit-please",
+          "author": "song haechan",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "GitHub-powered coworking for developersDiscussion|Link",
+          "published_at": "2026-02-26T01:50:43"
+        },
+        {
+          "title": "Digital Twin by Read AI",
+          "url": "https://www.producthunt.com/products/read-dashboard",
+          "author": "David Shim",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "cc: ada@read.ai. and let your digital twin handle the restDiscussion|Link",
+          "published_at": "2026-02-25T19:33:21"
+        },
+        {
+          "title": "HomeBar for Homey Pro",
+          "url": "https://www.producthunt.com/products/homebar-for-homey-pro",
+          "author": "TimBroddin",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Control your Homey smart home from the Mac menu barDiscussion|Link",
+          "published_at": "2026-02-25T09:01:40"
         },
         {
           "title": "My Texas Method",
@@ -487,33 +514,6 @@
           "source": "Product Hunt",
           "summary": "Automate your strength training with Texas MethodDiscussion|Link",
           "published_at": "2026-02-25T06:34:24"
-        },
-        {
-          "title": "Chiron",
-          "url": "https://www.producthunt.com/products/chiron",
-          "author": "Kojo Opuni",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "AI production mentor that lives inside your DAWDiscussion|Link",
-          "published_at": "2026-02-25T01:16:57"
-        },
-        {
-          "title": "IronClaw",
-          "url": "https://www.producthunt.com/products/ironclaw",
-          "author": "Danny Carpentier Balough",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Secure, open-source alternative to OpenClawDiscussion|Link",
-          "published_at": "2026-02-26T00:17:12"
-        },
-        {
-          "title": "RankingSuperior",
-          "url": "https://www.producthunt.com/products/rankingsuperior",
-          "author": "Edu",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Rank and get cited using your expertiseDiscussion|Link",
-          "published_at": "2026-02-25T18:54:22"
         }
       ]
     },
@@ -567,9 +567,9 @@
           "published_at": null
         },
         {
-          "title": "为什么同样的页面，Z型布局的转化率更高？古腾堡原则告诉你答案",
-          "url": "https://www.uisdc.com/hunter/0221660989.html",
-          "author": "龙爪槐守望者",
+          "title": "拿一道脑筋急转弯问遍主流AI，结果悟出了一个道理",
+          "url": "https://www.uisdc.com/hunter/0221661104.html",
+          "author": "大鱼大鱼吖",
           "category": "设计教程",
           "source": "优设网",
           "summary": null,
@@ -582,49 +582,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Why AI is exposing design’s craft crisis",
-          "url": "https://www.doc.cc/articles/craft-crisis",
+          "title": "The AI bubble is bursting",
+          "url": "https://hughhowey.com/the-ai-bubble-is-bursting/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "AI didn’t create the craft crisis in design—it exposed the technical literacy gap that’s been eroding strategic influence for over a decade.",
-          "published_at": "2026-02-25T12:49:15"
+          "summary": "AI is not going to disappear from your life. But the bubble is starting to burst.",
+          "published_at": "2026-02-26T12:29:03"
         },
         {
-          "title": "Letters to a Young Creator",
-          "url": "https://letters.stevejobsarchive.com/",
+          "title": "ColorFlow",
+          "url": "https://colorflow.ls.graphics/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A collection of honest perspectives on what it takes to make something great, written by people who have done it before.",
-          "published_at": "2026-02-25T12:48:40"
+          "summary": "Create stunning mesh gradients with real-time preview, customizable control points, and export options.",
+          "published_at": "2026-02-26T12:28:06"
         },
         {
-          "title": "The software development lifecycle is dead",
-          "url": "https://boristane.com/blog/the-software-development-lifecycle-is-dead/",
+          "title": "Why some movies feel more alive",
+          "url": "https://www.youtube.com/watch?v=vwUrzKaXyT4",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "AI agents didn’t make the SDLC faster. They killed it. All that’s left is context.",
-          "published_at": "2026-02-25T12:48:11"
+          "summary": "More than just a blur of faces in the background, extras play a crucial but often overlooked role in the art of filmmaking.",
+          "published_at": "2026-02-26T12:27:23"
         },
         {
-          "title": "Sweetfont",
-          "url": "https://sweetfont.com/",
+          "title": "If code is cheap, intent is the currency",
+          "url": "https://zknill.io/posts/commit-message-intent/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Explore Google Fonts by personality, vibe, and style using interactive controls.",
-          "published_at": "2026-02-25T12:47:18"
+          "summary": "Apparently writing code is cheap now. So since the barrier to producing code is gone, the intent behind the code is the most important bit.",
+          "published_at": "2026-02-26T12:26:20"
         },
         {
-          "title": "Designing in English",
-          "url": "https://cianfrani.dev/posts/designing-in-english/",
+          "title": "On software quality",
+          "url": "https://pxlnv.com/blog/on-software-quality/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Components are dead. Use your words.",
-          "published_at": "2026-02-25T12:46:40"
+          "summary": "There seems to be wide agreement that Apple's software quality is not up to scratch.",
+          "published_at": "2026-02-26T12:25:43"
         }
       ]
     },
@@ -666,6 +666,33 @@
       "count": 6,
       "items": [
         {
+          "title": "具透 Plus：Obsidian 有了命令行界面，Android 17 Beta 真的在「战未来」了",
+          "url": "https://sspai.com/prime/story/inside-release-notes-260226",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Obsidian有了（不太精致的）命令行界面@PlatyHsu：2月10日，Obsidian宣布新增对命令行界面（CLI）的支持。由于Obsidian用户里的技术人群占比颇高，CLI也算是一项呼吁很久 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "published_at": "2026-02-26T10:11:29"
+        },
+        {
+          "title": "REDMI Buds 8 Pro 降噪真无线耳机体验 - TDS REVIEW",
+          "url": "https://sspai.com/post/106521",
+          "author": "KingTsui",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "这篇文章是TDSStudio在少数派上的第19篇文章，依然是全平台首发。虽然年后才上，但还是各位过年好！前不久我们给大家带来了小米Buds6的内容，显然我们还不是特别满意它相较于上代的变化。而在少数派 ...查看全文",
+          "published_at": "2026-02-26T09:30:00"
+        },
+        {
+          "title": "2025年育儿手记：从家到幼儿园",
+          "url": "https://sspai.com/post/106488",
+          "author": "老林还年少",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "希望她能一直保持这份善良、勇敢、开朗与自信，能一直快乐、健康、平安。查看全文",
+          "published_at": "2026-02-26T08:39:27"
+        },
+        {
           "title": "深度横评：2026 年，AI 生成 PPT 到底进化到什么程度了？",
           "url": "https://sspai.com/post/105484",
           "author": "小胡小胡0009",
@@ -691,33 +718,6 @@
           "source": "少数派",
           "summary": "Aqara 发布智能可视门铃 G400，Spotify 推出骨灰盒造型音箱等。查看全文",
           "published_at": "2026-02-26T01:01:50"
-        },
-        {
-          "title": "在 AI 的帮助下，给自己建了个数字人生档案馆",
-          "url": "https://sspai.com/post/106401",
-          "author": "吃瓜",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "编者按：本文是少数派2025年度征文活动#TeamSilicon25标签下的入围文章。本文仅代表作者本人观点，少数派只略微调整排版。今年的征文活动更有创意，「只能用AI」和「不能用AI」两大赛道激情P ...查看全文",
-          "published_at": "2026-02-25T07:00:25"
-        },
-        {
-          "title": "出门在外也能远程 CLI Coding：我的 SSH 远程开发方案分享",
-          "url": "https://sspai.com/post/105621",
-          "author": "Blanboom",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "随着 CLI Coding Agent 的出现，我可以在 iPad 或手机上，通过 SSH 远程连接 Mac，在乘坐地铁等碎片时间远程开发，这是我的实践方式。查看全文",
-          "published_at": "2026-02-25T03:30:31"
-        },
-        {
-          "title": "派早报：五角大楼对 Anthropic 下达最后通牒、松下外包电视业务",
-          "url": "https://sspai.com/post/106568",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
-          "published_at": "2026-02-25T00:42:56"
         }
       ]
     }
