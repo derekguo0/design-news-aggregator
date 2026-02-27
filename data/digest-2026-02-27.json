@@ -1,23 +1,23 @@
 {
   "date": "2026-02-27T00:00:00",
-  "total_items": 66,
+  "total_items": 67,
   "sources": [
-    "UX Design CC",
+    "少数派",
+    "A List Apart",
+    "Product Hunt",
     "Design Milk",
     "NN/g (Nielsen Norman Group)",
-    "Smashing Magazine",
-    "Intercom Blog",
-    "Product Hunt",
-    "少数派",
-    "Awwwards",
-    "CSS-Tricks",
-    "UX Planet",
-    "优设网",
+    "UX Design CC",
     "Sidebar",
-    "A List Apart",
-    "人人都是产品经理"
+    "优设网",
+    "人人都是产品经理",
+    "CSS-Tricks",
+    "Awwwards",
+    "Smashing Magazine",
+    "UX Planet",
+    "Intercom Blog"
   ],
-  "generated_at": "2026-02-27T02:07:21.414052",
+  "generated_at": "2026-02-27T02:28:10.875310",
   "categories": [
     {
       "category": "用户体验设计",
@@ -252,49 +252,49 @@
           "published_at": "2026-02-25T20:00:13"
         },
         {
-          "title": "AI的A/B测试：起源、演进与思考研究",
-          "url": "https://www.woshipm.com/ai/6345322.html",
-          "author": "卡萨丁AI",
+          "title": "互联网正在死去",
+          "url": "https://www.woshipm.com/ai/6345608.html",
+          "author": "Aine",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "A/B 测试作为一种科学评估 AI 系统性能的方法论，正在重塑机器学习模型的迭代与部署流程。从早期互联网公司的页面优化实验，到现代大语言模型的 Prompt A/B 测试，这一技术经历了从简单分流到复杂自适应算法的演进。本文将深入剖析 AI A/B 测试的完整技术演进脉络，揭示其背后的统计原理、工程实践与产业变革。核心观点：这不仅是技术演进的编年史，更是数据驱动决策文化的形成史。AI A/B 测试...",
-          "published_at": "2026-02-27T01:42:04"
+          "summary": "互联网的隐形革命正在爆发：AI Agent悄然接管我们的数字生活，从订票到购物，网页界面正在消失。这场静悄悄的数字大迁徙彻底颠覆了流量经济法则，DAU让位于TPD，SEO被GEO取代。当商业闭环被重塑，超级入口吞噬一切时，人类将面临全新的Token焦虑与信任危机。本文深度解析这场技术革命如何重构互联网底层逻辑，以及我们该如何在新大陆找到立足之地。2026年，你每天看到的网页，其实已经不为你而生了。...",
+          "published_at": "2026-02-27T02:14:48"
         },
         {
-          "title": "单系统数据处理",
-          "url": "https://www.woshipm.com/share/6335976.html",
-          "author": "产品-子鱼",
+          "title": "最适合新手安装的10个小龙虾🦞 skills来了！",
+          "url": "https://www.woshipm.com/ai/6345601.html",
+          "author": "Aine",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在数字化转型浪潮中，数据规范是系统设计的基石。本文深入剖析数据标准的三大决定因素，揭示常见的数据规范陷阱，并提供从原始数据到标准数据的完整处理路径。实战案例解析订单系统的改造过程，教你如何通过枚举值映射、时间戳转换等技术手段，将混沌数据转化为标准化资产。了解数据规范与标准1. 什么是系统数据标准？确立允许在系统内出现、产生、与业务发生关系的数据的准则。当数据产生或流入系统时，必须遵守此系统的数据规...",
-          "published_at": "2026-02-27T01:24:53"
+          "summary": "OpenClaw的'技能包'系统正在重新定义AI工具的边界，让每个任务都有专属解决方案。本文从海量社区资源中精选10款最适合新手的Skills，涵盖安全扫描、联网搜索、记忆强化等关键能力，手把手教你打造高效且安全的AI工作流。最近科技圈的“小龙虾”特别火——也就是 OpenClaw。OpenClaw 的核心优势是“技能包（Skills）”系统——它就像一个万能工具箱，AI 遇到什么任务就掏什么工具...",
+          "published_at": "2026-02-27T02:14:30"
         },
         {
-          "title": "撕下“全能 Agent”的伪装：从 OpenClaw 现象看大模型时代的“API炸弹”与伪创新",
-          "url": "https://www.woshipm.com/ai/6338383.html",
-          "author": "击水三千",
+          "title": "当代码生成成本缩水99%，产品经理的核心竞争力去哪了？",
+          "url": "https://www.woshipm.com/ai/6345380.html",
+          "author": "被抢了名字的Kimi",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "OpenClaw等全自动智能体产品凭借\"彻底解放双手\"的诱人承诺迅速走红，然而剥开华丽的外衣，它们不过是依赖外部API堆砌的\"缝合怪\"。本文深度剖析这类产品的技术本质，揭示其作为\"API炸弹\"的致命缺陷：失控的ReAct循环、指数级账单成本以及薛定谔式的执行效果，为狂热追捧AI自动化的市场注入一剂清醒剂。近期，以 OpenClaw 为代表的一批打着“全自动智能体（Agent）”旗号的产品在各大技术...",
-          "published_at": "2026-02-27T01:17:56"
+          "summary": "AI工具的普及正在重塑产品经理的工作方式，但真正懂得驾驭AI的人仍是少数。当代码生成成本趋近于零，产品经理的核心竞争力正在从执行转向决策。本文将揭示AI时代下产品经理面临的四大能力挑战，以及如何在工具拉平的时代找到自己的不可替代性。2026年，在某个互联网公司的产品团队周会上，主管问道：「咱们团队有多少人在用AI？」十几只手齐刷刷举了起来。再问：「每天用它做什么？」回答五花八门——优化PRD、润色...",
+          "published_at": "2026-02-27T02:08:25"
         },
         {
-          "title": "【设计法则】如何精进你的设计知识体系之—古腾堡原则！",
-          "url": "https://www.woshipm.com/ucd/5755758.html",
-          "author": "三原设计",
+          "title": "Agent的“记忆”到底怎么来？",
+          "url": "https://www.woshipm.com/ai/6345225.html",
+          "author": "范佳玉",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "如果你不知道如何提升设计能力，那就先打好基础，搭建好知识体系，让你的设计有理可依，有据可引。体现你的专业，才能让人信服，让别人看到你的价值。今天我们来聊聊设计中的三大视觉浏览模型之一：古腾堡原则。一、什么是古腾堡原则古腾堡原则是由14世纪西方活字印刷术发明人约翰·古腾堡提出，早在20世纪50年代在设计报纸的过程中，提出了一项原则，认为人的阅读方式应该是遵循某种习惯进行的，像读书一样，由左到右，从上...",
-          "published_at": "2026-02-27T01:17:44"
+          "summary": "目前AI模型的智能发展到现在，Agent已成为最热门的产品形态。在Agent类产品的实现过程中，有两个关键要素：一是允许模型调用各类工具，二是赋予模型\"记忆\"能力以支持复杂任务的规划和长期操作。那么，Agent的记忆到底是什么？很多人说自己\"训练\"了一个Agent，实际上发生了什么？本文尝试解读Agent实现中主要的记忆来源和处理方式。一、到底什么算是记忆？在使用 Openclaw 等AI助手时，...",
+          "published_at": "2026-02-27T02:00:35"
         },
         {
-          "title": "货代SaaS实战：订舱管理怎么做，才能在“爆舱时代”把舱位与时效管住？",
-          "url": "https://www.woshipm.com/share/6342492.html",
-          "author": "天涯轩",
+          "title": "2026 TikTok营销攻略：8种稳定变现方法与实战指南",
+          "url": "https://www.woshipm.com/share/6345347.html",
+          "author": "Roxy",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "订舱是海运/空运/铁运履约链条里最关键的“承运资源锁定”动作。旺季爆舱、船期不稳、退舱甩柜、费率频繁变动，让订舱长期依赖经验与人肉沟通。本文从产品视角拆解订舱管理模块：如何承接运单与作业、如何做承运商选择与费率对比、如何实现EDI/API集成与回单回流、以及如何把订舱后“提箱计划”纳入端到端管控，避免订了舱却提不到箱、装不了货的断点。一、订舱的本质：把不确定的运输资源变成可交付的承诺在货代业务里，...",
-          "published_at": "2026-02-27T01:08:51"
+          "summary": "TikTok正在重塑全球创作者的财富逻辑。从直播带货到联盟营销，8种变现方式构建起完整的商业闭环。本文将为你拆解每种方法的收益潜力与实操门槛，并附上2026年最新市场动态与矩阵运营策略，助你在这个20亿用户的超级平台快速掘金。在TikTok上，流量不仅是关注度，更是可以直接兑换的货币。这篇文章整理了8种主流变现方法，为你呈现一套完整、可复制的变现策略。还为你附上从零开始的实操步骤，帮你迅速落地。T...",
+          "published_at": "2026-02-27T01:58:29"
         }
       ]
     },
@@ -441,7 +441,7 @@
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 4,
       "items": [
         {
           "title": "Commit Please",
@@ -453,22 +453,31 @@
           "published_at": "2026-02-26T01:50:43"
         },
         {
-          "title": "RankingSuperior",
-          "url": "https://www.producthunt.com/products/rankingsuperior",
-          "author": "Edu",
+          "title": "Heimdall",
+          "url": "https://www.producthunt.com/products/heimdall-3",
+          "author": "Kevin Wong",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Rank and get cited using your expertiseDiscussion|Link",
-          "published_at": "2026-02-25T18:54:22"
+          "summary": "See the real-time telemetry for objects in Earth's orbitDiscussion|Link",
+          "published_at": "2026-02-26T06:13:54"
         },
         {
-          "title": "IronClaw",
-          "url": "https://www.producthunt.com/products/ironclaw",
-          "author": "Danny Carpentier Balough",
+          "title": "Chiron",
+          "url": "https://www.producthunt.com/products/chiron",
+          "author": "Kojo Opuni",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Secure, open-source alternative to OpenClawDiscussion|Link",
-          "published_at": "2026-02-26T00:17:12"
+          "summary": "AI production mentor that lives inside your DAWDiscussion|Link",
+          "published_at": "2026-02-25T01:16:57"
+        },
+        {
+          "title": "Playground by Natoma",
+          "url": "https://www.producthunt.com/products/playground-by-natoma",
+          "author": "Ben Lang",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Simple, fast way to find and try any MCP server. No setup.Discussion|Link",
+          "published_at": "2026-02-25T21:33:25"
         }
       ]
     },
