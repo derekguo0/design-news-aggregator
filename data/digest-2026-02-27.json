@@ -1,28 +1,37 @@
 {
   "date": "2026-02-27T00:00:00",
-  "total_items": 67,
+  "total_items": 71,
   "sources": [
-    "少数派",
+    "UX Planet",
     "A List Apart",
-    "Product Hunt",
-    "Design Milk",
-    "NN/g (Nielsen Norman Group)",
-    "UX Design CC",
     "Sidebar",
+    "Product Hunt",
+    "少数派",
+    "Smashing Magazine",
+    "Awwwards",
     "优设网",
+    "Intercom Blog",
     "人人都是产品经理",
     "CSS-Tricks",
-    "Awwwards",
-    "Smashing Magazine",
-    "UX Planet",
-    "Intercom Blog"
+    "NN/g (Nielsen Norman Group)",
+    "UX Design CC",
+    "Design Milk"
   ],
-  "generated_at": "2026-02-27T02:28:10.875310",
+  "generated_at": "2026-02-27T13:07:42.533345",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 11,
+      "count": 12,
       "items": [
+        {
+          "title": "A love letter to the Pokédex",
+          "url": "https://uxdesign.cc/a-love-letter-to-the-pok%C3%A9dex-3ffc0a51332e?source=rss----138adf9c44c---4",
+          "author": "Daley Wilhelm",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Or an obituary to another gadget replaced by the multipurpose smartphoneContinue reading on UX Collective »",
+          "published_at": "2026-02-27T12:14:18"
+        },
         {
           "title": "The UX of survival in the age of AI deepfakes",
           "url": "https://uxdesign.cc/the-ux-of-survival-in-the-age-of-ai-deepfakes-b8e8602eddaa?source=rss----138adf9c44c---4",
@@ -186,7 +195,7 @@
     },
     {
       "category": "产品设计",
-      "count": 12,
+      "count": 13,
       "items": [
         {
           "title": "Take 5: Balloon Flowers, An Interactive Wall Sconce, Magazine-Land + More",
@@ -243,6 +252,15 @@
           "published_at": "2026-02-25T14:00:25"
         },
         {
+          "title": "Transformation in action: How AI is evolving support careers",
+          "url": "https://www.intercom.com/blog/how-ai-is-evolving-support-careers/",
+          "author": "Declan Ivory",
+          "category": "产品设计",
+          "source": "Intercom Blog",
+          "summary": "AI is changing what it means to work in support. Here's what this looks like in practice.",
+          "published_at": "2026-02-27T12:26:58"
+        },
+        {
           "title": "Announcing major updates to Procedures and Simulations: Enabling Fin to handle complex queries",
           "url": "https://www.intercom.com/blog/procedures-simulations-updates/",
           "author": "Chris Dalley",
@@ -252,49 +270,49 @@
           "published_at": "2026-02-25T20:00:13"
         },
         {
-          "title": "互联网正在死去",
-          "url": "https://www.woshipm.com/ai/6345608.html",
-          "author": "Aine",
+          "title": "大模型会吃掉平台吗？一场关于marketplace生死存亡的深度思考",
+          "url": "https://www.woshipm.com/ai/6345905.html",
+          "author": "深思圈",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "互联网的隐形革命正在爆发：AI Agent悄然接管我们的数字生活，从订票到购物，网页界面正在消失。这场静悄悄的数字大迁徙彻底颠覆了流量经济法则，DAU让位于TPD，SEO被GEO取代。当商业闭环被重塑，超级入口吞噬一切时，人类将面临全新的Token焦虑与信任危机。本文深度解析这场技术革命如何重构互联网底层逻辑，以及我们该如何在新大陆找到立足之地。2026年，你每天看到的网页，其实已经不为你而生了。...",
-          "published_at": "2026-02-27T02:14:48"
+          "summary": "当用户不再打开App而是直接对AI说‘帮我订餐’，‘DoorDash问题’宣告了平台经济的生存危机：流量入口被LLM截胡，重复交易变付费获取，广告变现逻辑崩塌。然而，并非所有平台都会消亡。分析师Dan Hockenmaier提出三维防御框架：供应聚合难度（碎片化/异质化越难越安全）、管理程度（重度管理配送/风控者更稳）、客户参与性质（高频低考虑度最抗打）。当ChatGPT开始帮你订餐、订酒店、买东...",
+          "published_at": "2026-02-27T07:39:34"
         },
         {
-          "title": "最适合新手安装的10个小龙虾🦞 skills来了！",
-          "url": "https://www.woshipm.com/ai/6345601.html",
-          "author": "Aine",
+          "title": "豆包、Kimi狂飙，纳米AI为何“静悄悄”？",
+          "url": "https://www.woshipm.com/ai/6345846.html",
+          "author": "互联网江湖",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "OpenClaw的'技能包'系统正在重新定义AI工具的边界，让每个任务都有专属解决方案。本文从海量社区资源中精选10款最适合新手的Skills，涵盖安全扫描、联网搜索、记忆强化等关键能力，手把手教你打造高效且安全的AI工作流。最近科技圈的“小龙虾”特别火——也就是 OpenClaw。OpenClaw 的核心优势是“技能包（Skills）”系统——它就像一个万能工具箱，AI 遇到什么任务就掏什么工具...",
-          "published_at": "2026-02-27T02:14:30"
+          "summary": "中国AI行业在这个春节迎来了一场前所未有的狂欢，巨头们豪掷50亿红包大战的同时，纳米AI却出人意料地选择了沉默。在这场技术与商业的双重战争中，360的战略节奏为何与众不同？本文将深度剖析纳米AI面临的资源困境、人才争夺战，以及如何在巨头夹缝中找到自己的生态位。在过去的一两周里，中国AI完成了一次极具里程碑式的破圈、亮相和下沉。先是腾讯、阿里、百度和字节们豪掷近50亿元，用红包大战开启了一场全民AI...",
+          "published_at": "2026-02-27T07:37:25"
         },
         {
-          "title": "当代码生成成本缩水99%，产品经理的核心竞争力去哪了？",
-          "url": "https://www.woshipm.com/ai/6345380.html",
-          "author": "被抢了名字的Kimi",
+          "title": "Google AI生图模型进化论：从Nano Banana Pro到Gemini 3.1 Flash Image的产品策略解析",
+          "url": "https://www.woshipm.com/ai/6345627.html",
+          "author": "辉辉Snoopy",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI工具的普及正在重塑产品经理的工作方式，但真正懂得驾驭AI的人仍是少数。当代码生成成本趋近于零，产品经理的核心竞争力正在从执行转向决策。本文将揭示AI时代下产品经理面临的四大能力挑战，以及如何在工具拉平的时代找到自己的不可替代性。2026年，在某个互联网公司的产品团队周会上，主管问道：「咱们团队有多少人在用AI？」十几只手齐刷刷举了起来。再问：「每天用它做什么？」回答五花八门——优化PRD、润色...",
-          "published_at": "2026-02-27T02:08:25"
+          "summary": "Google的双模型策略揭示了AI产品设计的商业密码：Gemini 3.1 Flash Image与Nano Banana Pro如何在成本与体验间找到平衡？本文将深度解析技术分层背后的经济学原理，以及国内玩家如何在技术差距下实现差异化突围。作为AI从业者，当我看到 Google 在 2026 年 2 月 26 日发布 Gemini 3.1 Flash Image（即 Nano Banana 2）...",
+          "published_at": "2026-02-27T07:37:02"
         },
         {
-          "title": "Agent的“记忆”到底怎么来？",
-          "url": "https://www.woshipm.com/ai/6345225.html",
-          "author": "范佳玉",
+          "title": "千人千面是伪命题吗？端侧模型正在终结“云端隐私焦虑”",
+          "url": "https://www.woshipm.com/share/6344284.html",
+          "author": "OpenAIer",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "目前AI模型的智能发展到现在，Agent已成为最热门的产品形态。在Agent类产品的实现过程中，有两个关键要素：一是允许模型调用各类工具，二是赋予模型\"记忆\"能力以支持复杂任务的规划和长期操作。那么，Agent的记忆到底是什么？很多人说自己\"训练\"了一个Agent，实际上发生了什么？本文尝试解读Agent实现中主要的记忆来源和处理方式。一、到底什么算是记忆？在使用 Openclaw 等AI助手时，...",
-          "published_at": "2026-02-27T02:00:35"
+          "summary": "智能座舱正在经历一场从云端到本地的技术革命，如何在实现个性化服务的同时守护用户隐私，成为行业核心命题。本文将深度解析端侧优先架构的四大技术支撑，揭秘如何通过本地SLM、联邦学习与多模态融合，打造真正懂人却不越界的智能座舱体验。智能座舱的下半场，大家都在谈“懂人”。01 信任是智能的“第一性原理”但有一个行业悖论始终绕不开：AI 要想懂你，就得窥探你。过去那种“把数据传到云端做匹配”的逻辑，本质上是...",
+          "published_at": "2026-02-27T07:32:52"
         },
         {
-          "title": "2026 TikTok营销攻略：8种稳定变现方法与实战指南",
-          "url": "https://www.woshipm.com/share/6345347.html",
-          "author": "Roxy",
+          "title": "划重点！人货场模型的3大场景+12种应用思路",
+          "url": "https://www.woshipm.com/share/6345880.html",
+          "author": "接地气的陈老师",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "TikTok正在重塑全球创作者的财富逻辑。从直播带货到联盟营销，8种变现方式构建起完整的商业闭环。本文将为你拆解每种方法的收益潜力与实操门槛，并附上2026年最新市场动态与矩阵运营策略，助你在这个20亿用户的超级平台快速掘金。在TikTok上，流量不仅是关注度，更是可以直接兑换的货币。这篇文章整理了8种主流变现方法，为你呈现一套完整、可复制的变现策略。还为你附上从零开始的实操步骤，帮你迅速落地。T...",
-          "published_at": "2026-02-27T01:58:29"
+          "summary": "人货场模型的核心不在于分类，而在于‘匹配’。本文深度拆解三层匹配逻辑。无论传统零售还是互联网电商，底层逻辑同源：线上直播即导购，推荐算法即区域分配，数据追踪即动线观察。很多文章介绍过人货场模型，但是仅仅罗列了啥叫客户分类，啥叫商品分类，对于其中最关键的：人货匹配模型，没有深入介绍。理解人货匹配，才能更好完成业绩提升/收入增长/问题诊断的任务。一、导购型匹配设想一个最简单的场景：顾客站在柜台前，说“...",
+          "published_at": "2026-02-27T07:26:30"
         }
       ]
     },
@@ -366,6 +384,15 @@
           "published_at": null
         },
         {
+          "title": "Cathy DOLLE Portfolio",
+          "url": "https://www.awwwards.com/sites/cathy-dolle-portfolio-1",
+          "author": "Cathy DOLLE",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "1820 Productions",
           "url": "https://www.awwwards.com/sites/1820-productions",
           "author": "Carter Ogunsola O.",
@@ -427,57 +454,66 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Farm Minerals",
-          "url": "https://www.awwwards.com/sites/farm-minerals",
-          "author": "ADELT Agency",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 6,
       "items": [
         {
-          "title": "Commit Please",
-          "url": "https://www.producthunt.com/products/commit-please",
-          "author": "song haechan",
+          "title": "whatdoiwear.run",
+          "url": "https://www.producthunt.com/products/whatdoiwear-run",
+          "author": "i",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "GitHub-powered coworking for developersDiscussion|Link",
-          "published_at": "2026-02-26T01:50:43"
+          "summary": "outfit engine for the modern runnerDiscussion|Link",
+          "published_at": "2026-02-26T15:53:18"
         },
         {
-          "title": "Heimdall",
-          "url": "https://www.producthunt.com/products/heimdall-3",
-          "author": "Kevin Wong",
+          "title": "BedRock",
+          "url": "https://www.producthunt.com/products/bedrock-5",
+          "author": "Rahman Bazarov",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "See the real-time telemetry for objects in Earth's orbitDiscussion|Link",
-          "published_at": "2026-02-26T06:13:54"
+          "summary": "Get approved by US banks even after being rejecetedDiscussion|Link",
+          "published_at": "2026-02-26T19:34:28"
         },
         {
-          "title": "Chiron",
-          "url": "https://www.producthunt.com/products/chiron",
-          "author": "Kojo Opuni",
+          "title": "Hacker News for macOS",
+          "url": "https://www.producthunt.com/products/hacker-news-for-macos",
+          "author": "Dylan Ironside",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI production mentor that lives inside your DAWDiscussion|Link",
-          "published_at": "2026-02-25T01:16:57"
+          "summary": "A native macOS client for Hacker News, built with SwiftUIDiscussion|Link",
+          "published_at": "2026-02-27T01:30:07"
         },
         {
-          "title": "Playground by Natoma",
-          "url": "https://www.producthunt.com/products/playground-by-natoma",
-          "author": "Ben Lang",
+          "title": "Musikey",
+          "url": "https://www.producthunt.com/products/musikey-music-auth",
+          "author": "Graham Hartridge",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Simple, fast way to find and try any MCP server. No setup.Discussion|Link",
-          "published_at": "2026-02-25T21:33:25"
+          "summary": "Tough musical authentication for accessibilityDiscussion|Link",
+          "published_at": "2026-02-26T15:39:56"
+        },
+        {
+          "title": "Claude Code Remote Access",
+          "url": "https://www.producthunt.com/products/claude-code-remote-access",
+          "author": "Rohan Chaubey",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Monitor & control your agent from anywhere.Discussion|Link",
+          "published_at": "2026-02-25T07:04:22"
+        },
+        {
+          "title": "mvntSTUDIO",
+          "url": "https://www.producthunt.com/products/mvntstudio",
+          "author": "Joon Jung",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Dance generation AI for every music!Discussion|Link",
+          "published_at": "2026-02-26T09:25:28"
         }
       ]
     },
@@ -546,49 +582,49 @@
       "count": 5,
       "items": [
         {
-          "title": "The AI bubble is bursting",
-          "url": "https://hughhowey.com/the-ai-bubble-is-bursting/",
+          "title": "The prompt you’re missing",
+          "url": "https://joshbrake.substack.com/p/the-missing-prompts",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "AI is not going to disappear from your life. But the bubble is starting to burst.",
-          "published_at": "2026-02-26T12:29:03"
+          "summary": "Four categories of task that you should consider before turning to AI.",
+          "published_at": "2026-02-27T12:31:55"
         },
         {
-          "title": "ColorFlow",
-          "url": "https://colorflow.ls.graphics/",
+          "title": "Open-source 3D icons",
+          "url": "https://3dicons.co/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Create stunning mesh gradients with real-time preview, customizable control points, and export options.",
-          "published_at": "2026-02-26T12:28:06"
+          "summary": "1440+ beautifully crafted open-source 3D icons that you can use completely free and without attribution for personal or commercial project.",
+          "published_at": "2026-02-27T12:31:19"
         },
         {
-          "title": "Why some movies feel more alive",
-          "url": "https://www.youtube.com/watch?v=vwUrzKaXyT4",
+          "title": "Agentic commerce is a catastrophe for brands who rely on friction",
+          "url": "https://thoughtshrapnel.com/2026/02/26/agentic-commerce-is-a-catastrophe.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "More than just a blur of faces in the background, extras play a crucial but often overlooked role in the art of filmmaking.",
-          "published_at": "2026-02-26T12:27:23"
+          "summary": "Our current neoliberal version of capitalism has built a rent-extraction layer on top of human limitations that agents don't have.",
+          "published_at": "2026-02-27T12:30:37"
         },
         {
-          "title": "If code is cheap, intent is the currency",
-          "url": "https://zknill.io/posts/commit-message-intent/",
+          "title": "Shoe Finder",
+          "url": "https://shoe-finder-wine.vercel.app/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Apparently writing code is cheap now. So since the barrier to producing code is gone, the intent behind the code is the most important bit.",
-          "published_at": "2026-02-26T12:26:20"
+          "summary": "Explore our endless collection of sneakers—a fun little demo.",
+          "published_at": "2026-02-27T12:28:39"
         },
         {
-          "title": "On software quality",
-          "url": "https://pxlnv.com/blog/on-software-quality/",
+          "title": "How to write a good spec for AI Agents",
+          "url": "https://www.oreilly.com/radar/how-to-write-a-good-spec-for-ai-agents/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "There seems to be wide agreement that Apple's software quality is not up to scratch.",
-          "published_at": "2026-02-26T12:25:43"
+          "summary": "Simply throwing a massive spec at an AI agent doesn’t work—context window limits and the model’s “attention budget” get in the way.",
+          "published_at": "2026-02-27T12:28:00"
         }
       ]
     },
@@ -621,6 +657,42 @@
       "count": 6,
       "items": [
         {
+          "title": "本周看什么 | 最近值得一看的 10 部作品",
+          "url": "https://sspai.com/post/106661",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "📅本周新预告《名侦探柯南：高速公路的堕天使》正式预告2月23日，动画电影《名侦探柯南：高速公路的堕天使》发布了正式预告，将于4月10日在日本上映。莲井隆弘（《真･武士传YAIBA》）执导，大仓崇裕（《 ...查看全文",
+          "published_at": "2026-02-27T09:40:29"
+        },
+        {
+          "title": "Vibe Coding 实战复盘：手搓飞天小女警「卡点跑酷」",
+          "url": "https://sspai.com/post/106050",
+          "author": "瑶酱Hermione",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "published_at": "2026-02-27T07:02:45"
+        },
+        {
+          "title": "当恐惧有了两种模样：《生化危机 9：安魂曲》评测",
+          "url": "https://sspai.com/post/106645",
+          "author": "机核GCORES",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "编注：本文首发于机核网，少数派经授权转载，仅对文章格式略作调整。《生化危机》系列是由卡普空（Capcom）打造的经典生存恐怖游戏IP，自1996年诞生以来，凭借紧张压迫的氛围、资源管理与动作解谜融合的 ...查看全文",
+          "published_at": "2026-02-27T06:35:19"
+        },
+        {
+          "title": "截稿顺延｜将设计装进耳朵：少数派×飞傲联名 CD 机盖板设计大赛",
+          "url": "https://sspai.com/post/105630",
+          "author": "听歌的水獭",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "有没有想过，一张你亲手设计的「画」，可以被放在无数人的客厅、书房、卧室，伴随着音乐每天被看见、被触摸、被爱不释手？查看全文",
+          "published_at": "2026-02-27T02:03:57"
+        },
+        {
           "title": "派早报：Apple 确认将于三月发布多款新品等",
           "url": "https://sspai.com/post/106637",
           "author": "少数派编辑部",
@@ -637,42 +709,6 @@
           "source": "少数派",
           "summary": "Obsidian有了（不太精致的）命令行界面@PlatyHsu：2月10日，Obsidian宣布新增对命令行界面（CLI）的支持。由于Obsidian用户里的技术人群占比颇高，CLI也算是一项呼吁很久 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
           "published_at": "2026-02-26T10:11:29"
-        },
-        {
-          "title": "REDMI Buds 8 Pro 降噪真无线耳机体验 - TDS REVIEW",
-          "url": "https://sspai.com/post/106521",
-          "author": "KingTsui",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "这篇文章是TDSStudio在少数派上的第19篇文章，依然是全平台首发。虽然年后才上，但还是各位过年好！前不久我们给大家带来了小米Buds6的内容，显然我们还不是特别满意它相较于上代的变化。而在少数派 ...查看全文",
-          "published_at": "2026-02-26T09:30:00"
-        },
-        {
-          "title": "2025年育儿手记：从家到幼儿园",
-          "url": "https://sspai.com/post/106488",
-          "author": "老林还年少",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "希望她能一直保持这份善良、勇敢、开朗与自信，能一直快乐、健康、平安。查看全文",
-          "published_at": "2026-02-26T08:39:27"
-        },
-        {
-          "title": "深度横评：2026 年，AI 生成 PPT 到底进化到什么程度了？",
-          "url": "https://sspai.com/post/105484",
-          "author": "小胡小胡0009",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "我测了 8 款 AI PPT 工具，只有 2 款真正能用。查看全文",
-          "published_at": "2026-02-26T06:33:00"
-        },
-        {
-          "title": "再谈 .DS_Store：兼论 Windows 与 macOS Finder 的布局理念差异",
-          "url": "https://sspai.com/prime/story/on-dsstore",
-          "author": "Neighbor_Z",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "引你是否在 Windows 与 macOS 之间频繁切换工作、互传数据？你是否拥有 NAS 并且局域网内同时存在 Mac 和 PC 访问其资源？或者，你是否拥有一位使用 Mac 的朋友、同事、同学，并使用储存介质在他们的 Mac 上拷贝过文件？如果满足上述任一条件，那么你应该大概率见过 .DS_Store 文件。如果你进入互联网搜索 .DS_Store 文件，扑面而来的却可能是大量「讨伐」.DS_...",
-          "published_at": "2026-02-26T03:27:16"
         }
       ]
     }
