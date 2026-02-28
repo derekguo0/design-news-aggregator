@@ -2,22 +2,22 @@
   "date": "2026-02-28T00:00:00",
   "total_items": 70,
   "sources": [
-    "Design Milk",
-    "少数派",
-    "CSS-Tricks",
-    "人人都是产品经理",
-    "Sidebar",
-    "NN/g (Nielsen Norman Group)",
-    "A List Apart",
-    "UX Design CC",
-    "Product Hunt",
-    "优设网",
-    "Intercom Blog",
     "UX Planet",
+    "Design Milk",
     "Awwwards",
-    "Smashing Magazine"
+    "A List Apart",
+    "Product Hunt",
+    "NN/g (Nielsen Norman Group)",
+    "UX Design CC",
+    "Smashing Magazine",
+    "CSS-Tricks",
+    "Sidebar",
+    "少数派",
+    "人人都是产品经理",
+    "优设网",
+    "Intercom Blog"
   ],
-  "generated_at": "2026-02-28T02:11:15.900569",
+  "generated_at": "2026-02-28T03:00:32.932606",
   "categories": [
     {
       "category": "用户体验设计",
@@ -444,31 +444,22 @@
       "count": 5,
       "items": [
         {
-          "title": "MaxClaw by MiniMax",
-          "url": "https://www.producthunt.com/products/minimax-agent",
+          "title": "Hacker News for macOS",
+          "url": "https://www.producthunt.com/products/hacker-news-for-macos",
+          "author": "Dylan Ironside",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "A native macOS client for Hacker News, built with SwiftUIDiscussion|Link",
+          "published_at": "2026-02-27T01:30:07"
+        },
+        {
+          "title": "Perplexity Computer",
+          "url": "https://www.producthunt.com/products/perplexity-ai",
           "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Always-on managed agent based on OpenClaw powered by MiniMaxDiscussion|Link",
-          "published_at": "2026-02-25T15:23:03"
-        },
-        {
-          "title": "Flarehawk",
-          "url": "https://www.producthunt.com/products/flarehawk",
-          "author": "Ilyas Esmail",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Monitors security tools, probes threats, + prompts actionDiscussion|Link",
-          "published_at": "2026-02-26T19:59:34"
-        },
-        {
-          "title": "mvntSTUDIO",
-          "url": "https://www.producthunt.com/products/mvntstudio",
-          "author": "Joon Jung",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Dance generation AI for every song!Discussion|Link",
-          "published_at": "2026-02-26T09:25:28"
+          "summary": "Everything AI can do, Perplexity Computer does for you.Discussion|Link",
+          "published_at": "2026-02-25T16:49:41"
         },
         {
           "title": "lemonpod.ai",
@@ -480,13 +471,22 @@
           "published_at": "2026-02-26T13:06:59"
         },
         {
-          "title": "Nano Banana 2",
-          "url": "https://www.producthunt.com/products/nano-banana-2-11",
-          "author": "Rohan Chaubey",
+          "title": "Flarehawk",
+          "url": "https://www.producthunt.com/products/flarehawk",
+          "author": "Ilyas Esmail",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Google's latest AI image generation modelDiscussion|Link",
-          "published_at": "2026-02-26T16:17:22"
+          "summary": "Monitors security tools, probes threats, + prompts actionDiscussion|Link",
+          "published_at": "2026-02-26T19:59:34"
+        },
+        {
+          "title": "ShowcasePro",
+          "url": "https://www.producthunt.com/products/showcasepro",
+          "author": "Daniils",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Convert photos into elegant designs for marketing + sharingDiscussion|Link",
+          "published_at": "2026-02-25T17:16:48"
         }
       ]
     },
