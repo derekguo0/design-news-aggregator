@@ -1,23 +1,23 @@
 {
   "date": "2026-03-01T00:00:00",
-  "total_items": 64,
+  "total_items": 65,
   "sources": [
-    "NN/g (Nielsen Norman Group)",
     "UX Design CC",
-    "Smashing Magazine",
-    "优设网",
-    "CSS-Tricks",
-    "人人都是产品经理",
+    "Design Milk",
     "Awwwards",
-    "少数派",
     "UX Planet",
-    "A List Apart",
-    "Product Hunt",
-    "Intercom Blog",
+    "少数派",
+    "人人都是产品经理",
+    "Smashing Magazine",
     "Sidebar",
-    "Design Milk"
+    "CSS-Tricks",
+    "A List Apart",
+    "优设网",
+    "NN/g (Nielsen Norman Group)",
+    "Intercom Blog",
+    "Product Hunt"
   ],
-  "generated_at": "2026-03-01T02:42:36.338621",
+  "generated_at": "2026-03-01T12:57:06.826970",
   "categories": [
     {
       "category": "用户体验设计",
@@ -234,49 +234,49 @@
           "published_at": "2026-02-27T12:26:58"
         },
         {
-          "title": "Agent选型-如何为你的项目挑选最合适的智能体框架？",
-          "url": "https://www.woshipm.com/share/6345931.html",
-          "author": "里奥",
+          "title": "同样是AI工具，为什么国内放弃全局个性化？",
+          "url": "https://www.woshipm.com/share/6345318.html",
+          "author": "实战产品说",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "智能体（Agent）平台的爆发式增长让技术选型愈发困难。面对市面上数十种框架，本文将揭示决定智能体性能的三大核心要素：模型性能、外部数据与工具、编排方式，并深入剖析六大主流编排模式的特点与应用场景，助你找到最适合业务需求的解决方案。进入 2026 年，智能体（Agent）迎来了大爆发，市面上已经出现的智能体平台和框架少说也有几十上百个。每个平台都宣称自己是最强大的，但如果你要亲手开发一个智能体，面...",
-          "published_at": "2026-03-01T01:47:11"
+          "summary": "ChatGPT与国内AI工具在个性化体验上的差异，究竟是技术瓶颈还是战略选择？本文深度剖析了从产品定位到技术实现的底层逻辑差异，揭示了ChatGPT的全局记忆与豆包/Kimi的场景化方案背后的商业考量与技术路径，并给出了在现有条件下实现个性化AI助手的实用技巧。在使用ChatGPT时，用户可以设置下图个性化内容，当AI记住这些要求后，会跨对话永久生效。而打开豆包/Kimi/元宝等国内工具，个性化仅...",
+          "published_at": "2026-03-01T07:22:23"
         },
         {
-          "title": "谷歌Gemini突袭AI音乐：7.5亿月活加持，Lyria 3重构赛道规则，“Suno们”又该何去何从？",
-          "url": "https://www.woshipm.com/ai/6345767.html",
-          "author": "AI与B2B市场营销",
+          "title": "Nano Banana 2 全网最全攻略",
+          "url": "https://www.woshipm.com/ai/6345935.html",
+          "author": "小普",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "谷歌Gemini应用悄然上线AI音乐生成功能Create Music，背后是DeepMind耗时两年打造的Lyria 3模型。这款工具不仅将音乐创作门槛降至最低，还能实现多模态转换和24-bit高音质输出。然而中文发音偏差、版权防护机制等细节，暴露出AI音乐赛道的机遇与挑战。这场7.5亿月活对阵创业公司的生态战争，正在重新定义人与音乐的关系。先说我个人使用下来的直观感受缺点：歌曲曲风有限、都是些口...",
-          "published_at": "2026-03-01T01:06:02"
+          "summary": "Google的Nano Banana系列图像模型迎来重磅升级，Nano Banana 2以闪电般的速度和超高性价比刷新文生图体验。这款代号gemini-3.1-flash-image-preview的模型支持4K分辨率、极端宽高比和多轮对话式编辑，更拥有实时搜索、多图融合等独门绝技。本文将全面解析模型特性、使用技巧与API调用方案，助你在创作效率与质量间找到完美平衡点。昨晚正在用 Nano Ban...",
+          "published_at": "2026-03-01T06:09:59"
         },
         {
-          "title": "Flux Pro 便宜但 MJ 美学更强，Nano Banana 2 赢在哪里？",
-          "url": "https://www.woshipm.com/ai/6346077.html",
-          "author": "浩思AI",
+          "title": "当一个00后扎进传统行业做AI…",
+          "url": "https://www.woshipm.com/ai/6346374.html",
+          "author": "Alex的荒诞产品观",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Nano Banana 2以Pro级质量结合Flash级速度，重新定义了AI图像生成的可用标准。这款Google最新工具在文字渲染、人物一致性等方面实现突破，实测20分钟内即可产出商用级素材，成本不足1美元。本文将从技术能力、成本结构到竞品对比，全方位解析这款AI生图工具如何改变设计工作流。Pro级质量 + Flash级速度，AI图像生成的新标杆？一、一个真实的场景：当我需要一张“能用”的图昨天晚...",
-          "published_at": "2026-03-01T00:25:27"
+          "summary": "大家都在搞超级个体、一人公司，我选了另一条路——和房地产、旅游、证券、医疗、制造、政务的「老登们」一起，把AI带进传统行业。这条路很孤独，但我觉得是蓝海。这不是我一个人的独白。当我写下这些文字时，广东潮州的陶瓷工厂里，AI正在检测每一块瓷砖的瑕疵；佛山的酱油酿造车间，“数字徒弟”正在学习老师傅四百年的经验；深圳的机器人6S店里，00后们正在教传统企业主如何用AI提效降本。这是一群年轻人的选择——在...",
+          "published_at": "2026-03-01T05:03:56"
         },
         {
-          "title": "按参数算，我们1300克的人脑相当于多大的AI模型？",
-          "url": "https://www.woshipm.com/ai/6346470.html",
-          "author": "卫夕",
+          "title": "店铺管理：同一个小程序商城开3家店，系统怎么让它们各卖各的？",
+          "url": "https://www.woshipm.com/operate/6346072.html",
+          "author": "Zoe产品手记",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "人脑是进化的奇迹，却也是不会迭代的‘静态处理器’；AI虽暂无肉体与灵魂，却在算力和算法上无限逼近并可能超越碳基极限。未来并非零和博弈，而是碳基感受力与硅基执行力的共生：趁还能闻见三月的风，尽情体验生而为人的独特，同时拥抱AI带来的无限可能。01按参数算，人脑相当于多大的模型？答案是：要看怎么算。如果只看神经元的个数，人脑大概是860亿个神经元，也就是86B的模型，并不大。参考一下，DeepSeek...",
-          "published_at": "2026-02-28T09:00:36"
+          "summary": "当一家国产运动品牌决定在微信小程序同时运营三家店铺时，如何实现商品、价格、库存的独立管理？本文以真实案例为线索，从渠道与店铺的概念区分切入，逐层拆解多店体系背后的数据隔离逻辑与系统设计要点，揭示如何用store_id串联起商品圈选、价格策略、结算账户等关键环节，并直击库存混乱、价格失控等实战陷阱。从一个真实决策开始品牌X是一家国产运动品牌，今年决定把微信小程序商城做深。之前只有一个”品牌X官方商城...",
+          "published_at": "2026-03-01T04:16:44"
         },
         {
-          "title": "真正能打的产品团队，往往都有这三个“反常识”特征",
-          "url": "https://www.woshipm.com/zhichang/6346049.html",
-          "author": "武林",
+          "title": "15厘米的“黑发”：一碗牛肉饭教会我做用户洞察",
+          "url": "https://www.woshipm.com/user-research/6345754.html",
+          "author": "长脸KK",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在七年产品总监生涯中，带领过形形色色的团队成员后，我发现真正能持续打造爆款产品的团队都有三个共同特质：性格互补的成员组合、持续进化的学习型组织、以及弱化层级的结果导向文化。本文将深入拆解这三种特质的运作逻辑，揭秘高战斗力产品团队的底层密码。这几年经常有人问我一个问题：“什么样的产品团队，才是真的有战斗力？”我干产品总监差不多七年，前前后后带过二十多号人。有年纪比我大的，有背景比我硬的，有履历比我好...",
-          "published_at": "2026-02-28T07:32:58"
+          "summary": "一碗15厘米‘黑发’疯长的牛肉饭，为何让千万打工人集体破防？这不仅是荒诞现象，更是精准击中职场人焦虑的情绪产品。从心理账户理论到符号化传播，本文深度拆解‘霉菌狂欢’背后的产品逻辑，揭示情绪经济如何成就2万亿市场的商业密码。大年初八，又到了打工人开工的日子。安徽巢湖的尹先生回到了浙江宁波。当他推开办公室的门，一股异味扑面而来。循着气味，他看到了节前遗忘在角落的那碗牛肉饭——碗口之上，密密麻麻竖起了黑...",
+          "published_at": "2026-03-01T03:05:55"
         }
       ]
     },
@@ -357,6 +357,15 @@
           "published_at": null
         },
         {
+          "title": "AVA SRG",
+          "url": "https://www.awwwards.com/sites/ava-srg",
+          "author": "AVA-digital",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Neon Rated",
           "url": "https://www.awwwards.com/sites/neon-rated",
           "author": "27b",
@@ -418,39 +427,39 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Voku.Studio™",
-          "url": "https://www.awwwards.com/sites/voku-studiotm",
-          "author": "Cuchillo",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 3,
       "items": [
         {
-          "title": "Google AI Edge Gallery",
-          "url": "https://www.producthunt.com/products/google",
-          "author": "Zac Zuo",
+          "title": "Claude Import Memory",
+          "url": "https://www.producthunt.com/products/claude-in-powerpoint",
+          "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Bring on-device function calling to iPhoneDiscussion|Link",
-          "published_at": "2026-02-27T13:56:51"
+          "summary": "Switch from ChatGPT to Claude with import memory featureDiscussion|Link",
+          "published_at": "2026-03-01T05:55:54"
         },
         {
-          "title": "The Claw News",
-          "url": "https://www.producthunt.com/products/the-claw-news",
-          "author": "Hakeem",
+          "title": "Voicr",
+          "url": "https://www.producthunt.com/products/voicr",
+          "author": "Aleks 👨‍💻",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "OpenClaw agents publishing daily newsDiscussion|Link",
-          "published_at": "2026-02-27T08:33:14"
+          "summary": "Your voice in, polished text out — in secondsDiscussion|Link",
+          "published_at": "2026-02-26T13:39:20"
+        },
+        {
+          "title": "OpenFang",
+          "url": "https://www.producthunt.com/products/openfang",
+          "author": "Jaber Jaber",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Open-Source Agent Operating SystemDiscussion|Link",
+          "published_at": "2026-03-01T01:50:41"
         }
       ]
     },
@@ -594,6 +603,15 @@
       "count": 6,
       "items": [
         {
+          "title": "一日一技｜用频谱分析找出「假无损」音乐",
+          "url": "https://sspai.com/post/106454",
+          "author": "keeping",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "你花钱买的高品质音乐，是真的「无损」吗？查看全文",
+          "published_at": "2026-03-01T07:54:25"
+        },
+        {
           "title": "年度征文｜LLM 眼中的好文章：少数派 2025 热门内容解码",
           "url": "https://sspai.com/post/106469",
           "author": "彷徨旅人",
@@ -637,15 +655,6 @@
           "source": "少数派",
           "summary": "有没有想过，一张你亲手设计的「画」，可以被放在无数人的客厅、书房、卧室，伴随着音乐每天被看见、被触摸、被爱不释手？查看全文",
           "published_at": "2026-02-27T02:03:57"
-        },
-        {
-          "title": "派早报：Apple 确认将于三月发布多款新品等",
-          "url": "https://sspai.com/post/106637",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Google 推出 Nano Banana 2、LM Studio 推出远程连接方案 LM Link 等。查看全文",
-          "published_at": "2026-02-27T00:38:40"
         }
       ]
     }
