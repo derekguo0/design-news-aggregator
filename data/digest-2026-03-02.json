@@ -1,28 +1,46 @@
 {
   "date": "2026-03-02T00:00:00",
-  "total_items": 59,
+  "total_items": 62,
   "sources": [
-    "Intercom Blog",
-    "少数派",
-    "Sidebar",
     "A List Apart",
+    "Intercom Blog",
+    "Design Milk",
+    "Awwwards",
+    "优设网",
+    "人人都是产品经理",
+    "Product Hunt",
+    "NN/g (Nielsen Norman Group)",
+    "Sidebar",
     "Smashing Magazine",
     "UX Design CC",
-    "人人都是产品经理",
-    "Design Milk",
-    "优设网",
-    "Awwwards",
-    "CSS-Tricks",
-    "NN/g (Nielsen Norman Group)",
     "UX Planet",
-    "Product Hunt"
+    "CSS-Tricks",
+    "少数派"
   ],
-  "generated_at": "2026-03-02T02:31:08.648900",
+  "generated_at": "2026-03-02T13:08:16.655692",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 7,
+      "count": 10,
       "items": [
+        {
+          "title": "Something big, surveillance by default, agentic UX principles",
+          "url": "https://uxdesign.cc/something-big-surveillance-by-default-agentic-ux-principles-1ffe13091f97?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“I’m a firm believer in Josef Müller-Brockmann’s principles of designing with intentionality. At the same time, I’ve watched the same demos...",
+          "published_at": "2026-03-02T08:56:46"
+        },
+        {
+          "title": "Made to create, learning to curate: the designer’s dilemma",
+          "url": "https://uxdesign.cc/made-to-create-learning-to-curate-the-designers-dilemma-0c6a89340a06?source=rss----138adf9c44c---4",
+          "author": "Dora Czerna",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Designers aren’t burning out because AI is hard to use. They’re burning out because nothing else changed around it.Continue reading on UX Collective »",
+          "published_at": "2026-03-02T08:50:48"
+        },
         {
           "title": "The wisdom curve",
           "url": "https://uxdesign.cc/the-wisdom-curve-18b5448b45fa?source=rss----138adf9c44c---4",
@@ -76,6 +94,15 @@
           "source": "UX Design CC",
           "summary": "Or an obituary to another gadget replaced by the multipurpose smartphoneContinue reading on UX Collective »",
           "published_at": "2026-02-27T12:14:18"
+        },
+        {
+          "title": "Nano Banana Pro for MVP Product Design",
+          "url": "https://uxplanet.org/nano-banana-pro-for-mvp-product-design-31ab0f1c06a9?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "MVP stands for Minimum Viable Product, the simplest version of a new product that allows you to collect maximum validated learning about…Continue reading on UX Planet »",
+          "published_at": "2026-03-02T12:33:10"
         },
         {
           "title": "ChatGPT 5.2 vs Gemini 3.1 vs Claude 4.6 for Web Design",
@@ -189,49 +216,49 @@
           "published_at": "2026-02-27T12:26:58"
         },
         {
-          "title": "从个人架构到企业场景：扩展思路与选型指南",
-          "url": "https://www.woshipm.com/share/6346794.html",
-          "author": "Lucky培丽",
+          "title": "AI杀死媒体，专业主义永生",
+          "url": "https://www.woshipm.com/ai/6347266.html",
+          "author": "观潮科技Pro",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "OpenClaw作为个人助手工具正掀起自托管风潮，但如何将其架构拓展至企业级应用？本文深度拆解从单用户到多租户的关键设计跃迁，聚焦身份管理、路由隔离、记忆分层等六大核心维度，提供三条可落地的扩展路径，助你避开企业化改造中的架构陷阱。最近 OpenClaw 很火，大家纷纷在「养虾」——自托管、接渠道、玩 Agent。但 OpenClaw 的定位始终是个人助手：单 Gateway、单用户（或小范围）、...",
-          "published_at": "2026-03-02T01:55:00"
+          "summary": "AI正在以近乎零成本的速度瓦解传统媒体的信息差壁垒，从线索抓取到标准报道撰写，古典式媒体作坊的生存根基已被击穿。当低附加值内容生产被AI接管，真正的新闻专业主义反而迎来重生契机——本文深度剖析媒体行业面临的基因级变革、转型困局与终极分化，揭示AI浪潮下那1%不可替代的媒体人将如何重构行业价值。在莎士比亚《哈姆雷特》第三幕第一场，有一句著名的台词：To be or not to be, that i...",
+          "published_at": "2026-03-02T09:51:25"
         },
         {
-          "title": "OpenClaw：从爆火GitHub到重塑AI体验，能干活的数字员工究竟有多强",
-          "url": "https://www.woshipm.com/ai/6346793.html",
-          "author": "Mr.Right.",
+          "title": "开工拉齐：OpenClaw，首个「一人独角兽」",
+          "url": "https://www.woshipm.com/share/6347275.html",
+          "author": "赛博禅心",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "OpenClaw的横空出世，彻底颠覆了人们对AI助手的认知。这款开源AI代理平台不仅能够听懂指令，更能像人类一样操作电脑、调用工具、完成实际任务，从聊天机器人进化成了真正的数字员工。本文将深度解析OpenClaw的四层架构设计，揭秘它如何实现'能听、能想、能做、能记'的全能表现，并为你提供低成本上手的实用攻略。2026年初的AI圈，一个名为OpenClaw的开源项目以惊人的速度席卷全球：短短几天内...",
-          "published_at": "2026-03-02T01:54:09"
+          "summary": "三个月，19.6万GitHub stars，一条完整产业链——这是OpenClaw交出的成绩单。从Kimi下场推出开箱即用的Kimi Claw，到阿里云、腾讯云、百度云同日上线一键部署；从华为昇腾、摩尔线程的国产芯片适配，到全球24城联动的Unhackathon。上一次行业以这种速度建立生态，还是2023年初的大模型——但那花了大半年。OpenClaw只用了两周。春节放了两周假，很多事情挤在一起发...",
+          "published_at": "2026-03-02T08:06:59"
         },
         {
-          "title": "智能硬件竞品分析：把握全局，单点研究",
-          "url": "https://www.woshipm.com/share/6346767.html",
-          "author": "小八爱叭叭叭",
+          "title": "这次不改按钮颜色了：用 AI 把体验问题“查清楚、改到位”（附可复用 Prompt）",
+          "url": "https://www.woshipm.com/ai/6347241.html",
+          "author": "尤里卡高",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "竞品分析绝非简单的功能对比，而是决定产品生死的关键战略工具。本文系统拆解从市场定位到拆机验证的全套方法论，揭示如何在不同生命周期阶段精准锁定对手，穿透数据迷雾找到真正的差异化机会点。一、为什么做竞品分析？竞品分析是产品开发和运营中不可或缺的一环。它帮助我们了解市场格局、发现机会点、规避风险，最终做出更好的产品决策。1-1、竞品分析的核心价值市场定位：了解行业竞争格局，找到差异化空间需求验证：通过竞...",
-          "published_at": "2026-03-02T01:49:39"
+          "summary": "当团队陷入数据低迷的泥潭，AI能否成为破局利器？本文揭秘如何突破传统优化困局，将AI从'答案生成器'升级为'推理引擎'。通过真实ToB登录页重构案例，拆解如何在硬性约束下实现'无感安全'设计，更附赠一套可复用的UX诊断Prompt模板，让AI真正帮你把体验优化拆解为可执行的优先级清单。做产品的人都见过这种场景：你看着数据报表：跳出率高、转化率低。你也知道某个流程（注册、登录、支付）“体验很差”。但...",
+          "published_at": "2026-03-02T07:38:21"
         },
         {
-          "title": "AI世界模型：教育从”有限游戏”到”无限游戏”的转变",
-          "url": "https://www.woshipm.com/ai/6346679.html",
-          "author": "杜易达Keyda",
+          "title": "经济学合谋 AI 掏空你的价值？",
+          "url": "https://www.woshipm.com/share/6347258.html",
+          "author": "侠之大者",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI开始理解'如果...那么...'的因果关系，教育科技的底层逻辑正被重新定义。本文犀利指出当前行业沉迷'有限游戏'的效率竞赛，却忽略了学习本质是场'无限游戏'。从世界模型AI的文化理解能力出发，揭示教育产品应从线性流水线转向探索网络的三重变革路径。一、引言：当AI开始理解”如果…那么…”最近工作间隙同时读两样东西：《有限与无限的游戏》和AI领域关于”世界模型”的最新讨论，意外发现它们指向同一个...",
-          "published_at": "2026-03-02T01:49:23"
+          "summary": "当新古典经济学的'理性人假设'遭遇AI革命，职场焦虑的根源并非技术替代，而是百年经济学范式对人性的系统性忽视。本文从布坎南的机会成本理论到马克思的异化劳动分析，揭示AI时代真正的危机：资本试图用硅基效率抹杀人类的情感连接与道德自觉。在算法统治的世界里，那些被经济学视为'外部性'的同情心与创造力，恰恰是人类最后的竞争壁垒。导读： 当 AI 步步逼近，职场人的焦虑并非源于技术进步，而是源于一套延续百年...",
+          "published_at": "2026-03-02T07:31:37"
         },
         {
-          "title": "深度测评悄悄上线的 Nano Banana 2，这次真的能打吗？",
-          "url": "https://www.woshipm.com/ai/6346681.html",
-          "author": "蟹蟹的AI产品生涯",
+          "title": "为什么长辈用的最多的是豆包？",
+          "url": "https://www.woshipm.com/ai/6347210.html",
+          "author": "十二",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "谷歌最新发布的Nano Banana 2（Gemini 3.1 Flash Image）正掀起AI图像生成的新浪潮！这款号称『迄今最佳图像模型』不仅能秒出4K大片，还突破性地支持8:1等极端比例。但实测发现，它在审美质感与Pro版神仙打架的同时，模型幻觉问题依然存在。本文通过多组对比测试，带你看清这根『进化香蕉』的真实战斗力！最近的 AI 圈真是热闹，大家日常都在围观“三大奇观”：养龙虾，等种子，...",
-          "published_at": "2026-03-02T01:49:15"
+          "summary": "豆包的成功绝非偶然，这款国民级AI产品在中老年群体中掀起热潮的背后，是产品设计对用户习惯的深度洞察。从接地气的品牌形象到方言语音交互，从引导式聊天到抖音生态的无缝融入，豆包巧妙地完成了技术向生活的'翻译'。本文揭秘这款产品如何突破中老年用户的认知障碍，成为他们的'数字伴侣'。在家过年回家的那段时间，会习惯给我爸妈清理手机，无一例外他们都安装了豆包，在过年走亲戚的时候，变留心注意了一下家里的长辈，基...",
+          "published_at": "2026-03-02T07:27:56"
         }
       ]
     },
@@ -303,6 +330,15 @@
           "published_at": null
         },
         {
+          "title": "Shift 5",
+          "url": "https://www.awwwards.com/sites/shift-5",
+          "author": "Non-Linear Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "AVA SRG",
           "url": "https://www.awwwards.com/sites/ava-srg",
           "author": "AVA-digital",
@@ -364,15 +400,6 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "D2C Life Science",
-          "url": "https://www.awwwards.com/sites/d2c-life-science",
-          "author": "Iron Velvet",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -381,31 +408,31 @@
       "count": 3,
       "items": [
         {
-          "title": "Claude Import Memory",
-          "url": "https://www.producthunt.com/products/claude",
-          "author": "Rohan Chaubey",
+          "title": "Agent Commune",
+          "url": "https://www.producthunt.com/products/linkedin-for-ai-agents",
+          "author": "Justin Lee",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Switch from ChatGPT to Claude with import memory featureDiscussion|Link",
-          "published_at": "2026-03-01T05:55:54"
+          "summary": "LinkedIn for individual and corporate agentsDiscussion|Link",
+          "published_at": "2026-02-28T04:05:41"
         },
         {
-          "title": "Hearica",
-          "url": "https://www.producthunt.com/products/hearica",
-          "author": "Andrius Pamakstys",
+          "title": "Didit v3",
+          "url": "https://www.producthunt.com/products/didit-3",
+          "author": "Alberto Rosas",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn all computer audio into captions for the deafDiscussion|Link",
-          "published_at": "2026-02-28T11:52:43"
+          "summary": "One platform for KYC, biometrics & fraud. 70% lower costs.Discussion|Link",
+          "published_at": "2026-03-02T01:26:59"
         },
         {
-          "title": "OpenFang",
-          "url": "https://www.producthunt.com/products/openfang",
-          "author": "Jaber Jaber",
+          "title": "Crawler.sh",
+          "url": "https://www.producthunt.com/products/crawler-sh",
+          "author": "Mehmet Kose",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Open-Source Agent Operating SystemDiscussion|Link",
-          "published_at": "2026-03-01T01:50:41"
+          "summary": "Free Local AEO & SEO Spider and a Markdown content extractorDiscussion|Link",
+          "published_at": "2026-02-27T01:49:25"
         }
       ]
     },
@@ -474,49 +501,49 @@
       "count": 5,
       "items": [
         {
-          "title": "The prompt you’re missing",
-          "url": "https://joshbrake.substack.com/p/the-missing-prompts",
+          "title": "Turn your Figma design system into UI screens instantly",
+          "url": "https://bit.ly/side-uxp2",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Four categories of task that you should consider before turning to AI.",
-          "published_at": "2026-02-27T12:31:55"
+          "summary": "Sync with UX Pilot AI to import unlimited components and generate screens in seconds. Join 600,000+ pros iterating faster. Free to try!",
+          "published_at": "2026-03-02T09:06:00"
         },
         {
-          "title": "Open-source 3D icons",
-          "url": "https://3dicons.co/",
+          "title": "Are AI productivity gains fueled by delivery pressure?",
+          "url": "https://rosipov.com/blog/are-ai-productivity-gains-fueled-by-delivery-pressure/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "1440+ beautifully crafted open-source 3D icons that you can use completely free and without attribution for personal or commercial project.",
-          "published_at": "2026-02-27T12:31:19"
+          "summary": "How pressure to deliver fast erodes the deep thinking necessary for truly functional products.",
+          "published_at": "2026-03-02T09:04:53"
         },
         {
-          "title": "Agentic commerce is a catastrophe for brands who rely on friction",
-          "url": "https://thoughtshrapnel.com/2026/02/26/agentic-commerce-is-a-catastrophe.html",
+          "title": "ASCII clouds",
+          "url": "https://caidan.dev/portfolio/ascii_clouds/?cs=15&wa=0.15&ws=0&ni=0.05&vi=0.8&vr=0.75&ba=0.2&ca=1&ts=0.5&h=200&sa=0.3&t1=0.15&t2=0.28&t3=0.4&t4=0.52&t5=0.65&sd=091s5q",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Our current neoliberal version of capitalism has built a rent-extraction layer on top of human limitations that agents don't have.",
-          "published_at": "2026-02-27T12:30:37"
+          "summary": "Generate ASCII patterns that turn technical limitation into a high-fidelity aesthetic.",
+          "published_at": "2026-03-02T09:04:02"
         },
         {
-          "title": "Shoe Finder",
-          "url": "https://shoe-finder-wine.vercel.app/",
+          "title": "Anthropic courses",
+          "url": "https://anthropic.skilljar.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Explore our endless collection of sneakers—a fun little demo.",
-          "published_at": "2026-02-27T12:28:39"
+          "summary": "Anthropic’s new Academy transitions from tool-specific tutorials to a mental model of AI fluency.",
+          "published_at": "2026-03-02T09:01:31"
         },
         {
-          "title": "How to write a good spec for AI Agents",
-          "url": "https://www.oreilly.com/radar/how-to-write-a-good-spec-for-ai-agents/",
+          "title": "The song of LinkedIn",
+          "url": "https://robinrendle.com/notes/the-song-of-linkedin/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Simply throwing a massive spec at an AI agent doesn’t work—context window limits and the model’s “attention budget” get in the way.",
-          "published_at": "2026-02-27T12:28:00"
+          "summary": "How corporate platforms force a specific, hollow performance.",
+          "published_at": "2026-03-02T09:00:43"
         }
       ]
     },
@@ -549,6 +576,33 @@
       "count": 6,
       "items": [
         {
+          "title": "派评 | 近期值得关注的 App",
+          "url": "https://sspai.com/post/106749",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "published_at": "2026-03-02T09:41:03"
+        },
+        {
+          "title": "给 Lumia 1020 用户的 Windows 8.1 漫游指南（2026）",
+          "url": "https://sspai.com/post/106467",
+          "author": "StephenFang",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "现代设备无疑能做更多事，但我在 2026 年想重新试试 Windows Phone 8.1。查看全文",
+          "published_at": "2026-03-02T07:15:20"
+        },
+        {
+          "title": "年度征文｜2025 年总结：一个纠结党试图向 AI 外包他的意志",
+          "url": "https://sspai.com/post/106438",
+          "author": "西郊次生林",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "当向 AI 寻求意见已经成为日常，我开始思考一个问题：AI 作为一个私人顾问，它到底干得怎么样呢？我究竟能不能依赖它？查看全文",
+          "published_at": "2026-03-02T03:42:30"
+        },
+        {
           "title": "派早报：OpenAI 接替 Anthropic 与五角大楼达成合作",
           "url": "https://sspai.com/post/106730",
           "author": "少数派编辑部",
@@ -574,33 +628,6 @@
           "source": "少数派",
           "summary": "那些互动量高的文章，往往不是最精致的，而是最真的。查看全文",
           "published_at": "2026-02-28T05:47:35"
-        },
-        {
-          "title": "本周看什么 | 最近值得一看的 10 部作品",
-          "url": "https://sspai.com/post/106661",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "📅本周新预告《名侦探柯南：高速公路的堕天使》正式预告2月23日，动画电影《名侦探柯南：高速公路的堕天使》发布了正式预告，将于4月10日在日本上映。莲井隆弘（《真･武士传YAIBA》）执导，大仓崇裕（《 ...查看全文",
-          "published_at": "2026-02-27T09:40:29"
-        },
-        {
-          "title": "Vibe Coding 实战复盘：手搓飞天小女警「卡点跑酷」",
-          "url": "https://sspai.com/post/106050",
-          "author": "瑶酱Hermione",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "published_at": "2026-02-27T07:02:45"
-        },
-        {
-          "title": "当恐惧有了两种模样：《生化危机 9：安魂曲》评测",
-          "url": "https://sspai.com/post/106645",
-          "author": "机核GCORES",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "编注：本文首发于机核网，少数派经授权转载，仅对文章格式略作调整。《生化危机》系列是由卡普空（Capcom）打造的经典生存恐怖游戏IP，自1996年诞生以来，凭借紧张压迫的氛围、资源管理与动作解谜融合的 ...查看全文",
-          "published_at": "2026-02-27T06:35:19"
         }
       ]
     }
