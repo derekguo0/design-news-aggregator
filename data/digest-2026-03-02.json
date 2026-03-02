@@ -2,22 +2,22 @@
   "date": "2026-03-02T00:00:00",
   "total_items": 59,
   "sources": [
-    "NN/g (Nielsen Norman Group)",
-    "优设网",
+    "Intercom Blog",
+    "少数派",
+    "Sidebar",
     "A List Apart",
-    "Design Milk",
     "Smashing Magazine",
     "UX Design CC",
-    "Product Hunt",
-    "Intercom Blog",
-    "Sidebar",
-    "少数派",
     "人人都是产品经理",
+    "Design Milk",
+    "优设网",
     "Awwwards",
+    "CSS-Tricks",
+    "NN/g (Nielsen Norman Group)",
     "UX Planet",
-    "CSS-Tricks"
+    "Product Hunt"
   ],
-  "generated_at": "2026-03-02T01:44:28.206132",
+  "generated_at": "2026-03-02T02:31:08.648900",
   "categories": [
     {
       "category": "用户体验设计",
@@ -189,49 +189,49 @@
           "published_at": "2026-02-27T12:26:58"
         },
         {
-          "title": "AI+医疗又一笔4200万美金大额融资，让AI成为你的家庭医生",
-          "url": "https://www.woshipm.com/share/6346962.html",
-          "author": "深思圈",
+          "title": "从个人架构到企业场景：扩展思路与选型指南",
+          "url": "https://www.woshipm.com/share/6346794.html",
+          "author": "Lucky培丽",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "35年误诊，6次手术，30多项检测——这是传统医疗系统交出的答卷。几小时AI分析，第二天症状缓解——这是同一位患者使用Lotus Health AI后的改变。当顶级风投集体押注\"AI+免费医疗\"，美国破碎的初级医疗体系会被重构吗？你能想象吗？一个人被误诊了35年，每天承受着不必要的痛苦，吃着错误的药物，而真正的病因其实可以用非处方药就能缓解。这不是什么罕见的医疗事故，而是美国医疗系统每天都在上演的...",
-          "published_at": "2026-03-02T01:42:29"
+          "summary": "OpenClaw作为个人助手工具正掀起自托管风潮，但如何将其架构拓展至企业级应用？本文深度拆解从单用户到多租户的关键设计跃迁，聚焦身份管理、路由隔离、记忆分层等六大核心维度，提供三条可落地的扩展路径，助你避开企业化改造中的架构陷阱。最近 OpenClaw 很火，大家纷纷在「养虾」——自托管、接渠道、玩 Agent。但 OpenClaw 的定位始终是个人助手：单 Gateway、单用户（或小范围）、...",
+          "published_at": "2026-03-02T01:55:00"
         },
         {
-          "title": "AI+社交产品是伪需求吗？——当社交被效率化，我们到底在连接什么？",
-          "url": "https://www.woshipm.com/ai/6346594.html",
-          "author": "东大鸟AI产品",
+          "title": "OpenClaw：从爆火GitHub到重塑AI体验，能干活的数字员工究竟有多强",
+          "url": "https://www.woshipm.com/ai/6346793.html",
+          "author": "Mr.Right.",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI社交产品正在颠覆传统社交模式的认知边界。从Elys到Second Me，这类A2A工具正在通过剥离社交冗余环节、外包心理负担、提升连接效率，重塑'强目的社交'的底层逻辑。本文将深度解析AI如何拆解社交焦虑、优化关系建立路径，并探讨这种效率革命背后的产品哲学与伦理边界。最近一直在关注Elys、Second Me这类A2A（AI to AI）社交产品，也看了不少讨论。有意思的是，每当这类产品出现，...",
-          "published_at": "2026-03-02T01:38:55"
+          "summary": "OpenClaw的横空出世，彻底颠覆了人们对AI助手的认知。这款开源AI代理平台不仅能够听懂指令，更能像人类一样操作电脑、调用工具、完成实际任务，从聊天机器人进化成了真正的数字员工。本文将深度解析OpenClaw的四层架构设计，揭秘它如何实现'能听、能想、能做、能记'的全能表现，并为你提供低成本上手的实用攻略。2026年初的AI圈，一个名为OpenClaw的开源项目以惊人的速度席卷全球：短短几天内...",
+          "published_at": "2026-03-02T01:54:09"
         },
         {
-          "title": "Nano Banana 2不仅有Pro级画质，还能秒出图，AI画图终于不用等了",
-          "url": "https://www.woshipm.com/ai/6346595.html",
-          "author": "为了罐罐",
+          "title": "智能硬件竞品分析：把握全局，单点研究",
+          "url": "https://www.woshipm.com/share/6346767.html",
+          "author": "小八爱叭叭叭",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "谷歌最新推出的Nano Banana 2（Gemini 3.1 Flash Image）以惊人的速度和高保真画质重新定义了AI图像生成。它不仅实现了Pro级的输出质量与Flash级的生成速度完美结合，更在多主体互动、叙事场景构建和4K商用画质上实现了突破。这款工具的普惠定价策略，让专业级创作能力真正触达个人和小团队。昨天谷歌悄悄上线的Nano Banana 2（官方名称：Gemini 3.1 Fl...",
-          "published_at": "2026-03-02T01:38:27"
+          "summary": "竞品分析绝非简单的功能对比，而是决定产品生死的关键战略工具。本文系统拆解从市场定位到拆机验证的全套方法论，揭示如何在不同生命周期阶段精准锁定对手，穿透数据迷雾找到真正的差异化机会点。一、为什么做竞品分析？竞品分析是产品开发和运营中不可或缺的一环。它帮助我们了解市场格局、发现机会点、规避风险，最终做出更好的产品决策。1-1、竞品分析的核心价值市场定位：了解行业竞争格局，找到差异化空间需求验证：通过竞...",
+          "published_at": "2026-03-02T01:49:39"
         },
         {
-          "title": "一根纳米香蕉刷屏全网—Gemini 2.5 Flash 爆火的产品逻辑拆解",
-          "url": "https://www.woshipm.com/ai/6346591.html",
-          "author": "Tuer AI",
+          "title": "AI世界模型：教育从”有限游戏”到”无限游戏”的转变",
+          "url": "https://www.woshipm.com/ai/6346679.html",
+          "author": "杜易达Keyda",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Gemini 2.5 Flash以'Nano Banana'的代号席卷全网，成为现象级AI产品。这根'香蕉'的爆火背后，是产品定位、用户体验与传播策略的完美结合。本文将从代号传播、产品痛点解决到普惠策略，深度剖析AI产品如何实现从技术到大众的真正破圈。作为一名长期深耕AI领域的产品经理，我持续关注着国内外大模型的迭代与破圈路径。近期，谷歌Gemini 2.5 Flash凭借“Nano Banana...",
-          "published_at": "2026-03-02T01:38:17"
+          "summary": "当AI开始理解'如果...那么...'的因果关系，教育科技的底层逻辑正被重新定义。本文犀利指出当前行业沉迷'有限游戏'的效率竞赛，却忽略了学习本质是场'无限游戏'。从世界模型AI的文化理解能力出发，揭示教育产品应从线性流水线转向探索网络的三重变革路径。一、引言：当AI开始理解”如果…那么…”最近工作间隙同时读两样东西：《有限与无限的游戏》和AI领域关于”世界模型”的最新讨论，意外发现它们指向同一个...",
+          "published_at": "2026-03-02T01:49:23"
         },
         {
-          "title": "非技术实测：产品经理如何被 AI「骗」进去，6 小时落地月费 ¥0 的小程序 AI 客服",
-          "url": "https://www.woshipm.com/ai/6346432.html",
-          "author": "被抢了名字的Kimi",
+          "title": "深度测评悄悄上线的 Nano Banana 2，这次真的能打吗？",
+          "url": "https://www.woshipm.com/ai/6346681.html",
+          "author": "蟹蟹的AI产品生涯",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI实习生坚持认为一个「永远不会推进」的客服需求可以实现时，一场零成本的技术冒险就此展开。本文将揭秘如何利用腾讯云函数和RAG技术，在没有技术团队和服务器的情况下，打造出24小时在线的AI客服系统，并分享产品经理在与AI协作过程中那些令人意外的发现与成长。一、一个「永远不会推进」的需求我们公司的客服负责人有个需求：给小程序装一个能 7×24 小时值班的 AI 客服。需求背景很简单：每天询问量不超...",
-          "published_at": "2026-03-02T01:36:19"
+          "summary": "谷歌最新发布的Nano Banana 2（Gemini 3.1 Flash Image）正掀起AI图像生成的新浪潮！这款号称『迄今最佳图像模型』不仅能秒出4K大片，还突破性地支持8:1等极端比例。但实测发现，它在审美质感与Pro版神仙打架的同时，模型幻觉问题依然存在。本文通过多组对比测试，带你看清这根『进化香蕉』的真实战斗力！最近的 AI 圈真是热闹，大家日常都在围观“三大奇观”：养龙虾，等种子，...",
+          "published_at": "2026-03-02T01:49:15"
         }
       ]
     },
@@ -381,15 +381,6 @@
       "count": 3,
       "items": [
         {
-          "title": "OpenFang",
-          "url": "https://www.producthunt.com/products/openfang",
-          "author": "Jaber Jaber",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Open-Source Agent Operating SystemDiscussion|Link",
-          "published_at": "2026-03-01T01:50:41"
-        },
-        {
           "title": "Claude Import Memory",
           "url": "https://www.producthunt.com/products/claude",
           "author": "Rohan Chaubey",
@@ -406,6 +397,15 @@
           "source": "Product Hunt",
           "summary": "Turn all computer audio into captions for the deafDiscussion|Link",
           "published_at": "2026-02-28T11:52:43"
+        },
+        {
+          "title": "OpenFang",
+          "url": "https://www.producthunt.com/products/openfang",
+          "author": "Jaber Jaber",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Open-Source Agent Operating SystemDiscussion|Link",
+          "published_at": "2026-03-01T01:50:41"
         }
       ]
     },
