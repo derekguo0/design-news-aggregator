@@ -1,22 +1,22 @@
 {
   "date": "2026-03-04T00:00:00",
-  "total_items": 68,
+  "total_items": 66,
   "sources": [
-    "人人都是产品经理",
-    "UX Design CC",
-    "A List Apart",
     "少数派",
-    "CSS-Tricks",
-    "NN/g (Nielsen Norman Group)",
     "Product Hunt",
     "Design Milk",
-    "Sidebar",
-    "UX Planet",
     "Smashing Magazine",
-    "Awwwards",
-    "优设网"
+    "人人都是产品经理",
+    "A List Apart",
+    "CSS-Tricks",
+    "优设网",
+    "UX Planet",
+    "UX Design CC",
+    "Sidebar",
+    "NN/g (Nielsen Norman Group)",
+    "Awwwards"
   ],
-  "generated_at": "2026-03-04T02:26:39.191241",
+  "generated_at": "2026-03-04T03:53:27.485120",
   "categories": [
     {
       "category": "用户体验设计",
@@ -251,49 +251,49 @@
           "published_at": "2026-03-02T14:00:27"
         },
         {
-          "title": "商品中心：一双鞋在系统里要建4层数据，90%的产品经理只画了SKU那一层",
-          "url": "https://www.woshipm.com/pd/6348037.html",
-          "author": "Zoe产品手记",
+          "title": "K12教培行业的底层逻辑",
+          "url": "https://www.woshipm.com/share/6348334.html",
+          "author": "YTY",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "你以为淘宝下单只需要1分钟？殊不知后台商品上架是一场复杂的数据建模战役。从类目选择到SPU/SKU拆分，从价格体系到生命周期管理，本文将带你深入电商后台的4层建模逻辑，揭秘那双「畅跑Pro」跑鞋如何在系统中完成从0到1的华丽转身。先看一个翻车现场：你打开淘宝，看到一双鞋，选个颜色、选个尺码、下单。整个过程不到1分钟。但在后台，把这双鞋”放到”系统里，远比你想象的复杂。品牌X 的运营小李接到任务：把...",
-          "published_at": "2026-03-04T01:55:03"
+          "summary": "K12教培行业的本质是选拔性考试下的效率竞争，AI大模型正在重构传统教育模式。本文通过提分公式拆解学习效果的黑盒机制，揭示从知识输入到考试变现的完整链路。在AI接管知识传授的新时代，真人教师将回归情感连接与动力唤醒的核心价值，实现人机协同的教育新范式。01 K12教培的第一性原理如果剥离掉K12教培的所有包装（名师、科技、情怀、服务等），其最底层的逻辑是：在选拔性考试制度下，通过外力干预，最大化提...",
+          "published_at": "2026-03-04T03:26:06"
         },
         {
-          "title": "别再被垃圾信息喂饱了！AI时代真正稀缺的，是判断力！",
-          "url": "https://www.woshipm.com/ai/6347999.html",
-          "author": "viktor",
+          "title": "这套AI短片制作流程，30分钟就能上手",
+          "url": "https://www.woshipm.com/share/6348309.html",
+          "author": "Clip设计夹",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI时代的信息爆炸反而加剧了我们的认知焦虑，当内容生产成本趋近于零、情绪化信息泛滥成灾、AI幻觉误导判断时，真正的核心竞争力不再是信息储备量，而是筛选与判断的能力。本文揭示了3个残酷的认知现实，提供5个灵魂拷问框架和2个实操方法，教你如何在信息洪流中搭建专属过滤系统，重获思维主动权。有没有过这样的感受？每天打开手机，铺天盖地的内容涌过来：AI新模型颠覆行业的资讯、普通人靠AI月入六位数的暴富神话、...",
-          "published_at": "2026-03-04T01:50:45"
+          "summary": "AI视频制作正从专业工具走向大众化应用，Runway、Sora2等模型让30分钟产出完整短片成为可能。本文详解四步高效工作流：从角色设定、分镜生成到视频合成，为创作者提供可落地的实操指南。通过统一风格、网格化分镜等技巧，解决AI视频制作中的一致性难题。AI视频的进化速度，超出了所有人的想象。在Runway、Sora2、Seedance 2.0这些AI视频大模型的助攻下，我们见证了AI名场面“威尔史...",
+          "published_at": "2026-03-04T03:17:31"
         },
         {
-          "title": "OpenClaw 刷屏背后，产品经理必须守住 AI Agent 的安全边界",
-          "url": "https://www.woshipm.com/ai/6347964.html",
-          "author": "Isaac Theo",
+          "title": "AI产品经理的招聘要求：这些技能最抢手",
+          "url": "https://www.woshipm.com/share/6348259.html",
+          "author": "健彬的产品Live",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "OpenClaw 的风暴席卷全球，成为2026年最炙手可热的Agent编排框架。从大厂到小企业，人人都在谈论这只‘数字利爪’如何颠覆效率。但当你把核心业务交给一个‘缺乏常识’的AI管家时，是否意识到自己可能在‘裸奔’？本文深度解析OpenClaw的底层逻辑与安全隐患，揭秘‘语义劫持’的全新攻击范式，并为产品经理提供守住数字边疆的三道防线。01. 疯狂的 2026：是“效率革命”还是“集体幻觉”？2...",
-          "published_at": "2026-03-04T01:48:44"
+          "summary": "AI产品经理岗位正从概念热炒转向能力实战，大模型认知、场景落地和跨团队协作成为三大硬核技能。本文深度解析头部企业招聘JD中的核心要求，从Prompt工程到业务融合，为从业者提供可落地的能力提升路径。避开简历雷区，掌握实战方法，在AI产品人才竞争中脱颖而出。同学们，最近是不是刷招聘JD刷到上头？打开AI产品经理的岗位列表，一会儿要懂大模型prompt工程，一会儿要能做AI落地场景规划，感觉自己刚入行...",
+          "published_at": "2026-03-04T03:07:33"
         },
         {
-          "title": "深度解构《2028全球智能危机》：AI将如何粉碎打工人的“智力溢价”？",
-          "url": "https://www.woshipm.com/ai/6347912.html",
-          "author": "像素呼吸",
+          "title": "创业前，先问自己7个问题！",
+          "url": "https://www.woshipm.com/share/6348255.html",
+          "author": "十里村",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "一篇名为《2028全球智能危机》的报告在金融圈掀起轩然大波，7000字的推演备忘录描绘了AI智能体如何颠覆全球经济秩序。当机器智能以零边际成本替代人类劳动时，结构性通缩螺旋将如何摧毁消费经济？本文将深度解析报告中提出的‘智能替代螺旋’与‘幽灵GDP’等颠覆性概念，揭示AI时代下商业护城河的崩塌路径。观看声明：如有一定能力，推荐观看Citrini Research机构的原文《THE 2028 GLO...",
-          "published_at": "2026-03-04T01:47:34"
+          "summary": "创业不是一时冲动，而是需要系统思考的理性决策。本文通过7个关键问题框架，帮助创业者从资源盘点、客户定位到商业模式进行全面自检。从What到How many的完整思考链条，为初创者提供避免盲目投入的实用决策工具。如果你想要创业，请务必在创业之前，先问自己这7个问题。我们每天都会看到各种所谓赚钱的项目，脑海里也会冒出各种想法，有时候甚至会产生付费、离职、投资等冲动。在这里给大家一个有效的决策方法，可以...",
+          "published_at": "2026-03-04T03:00:59"
         },
         {
-          "title": "保险行业AI应用深度拆解：7家竞品的产品逻辑与3个市场空白",
-          "url": "https://www.woshipm.com/ai/6347447.html",
-          "author": "Vvictor.ON",
+          "title": "用户生命周期全流程分析：拉新、活跃、留存",
+          "url": "https://www.woshipm.com/share/6348246.html",
+          "author": "接地气的陈老师",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "保险AI赛道已经告别了早期概念阶段，头部玩家正通过垂直场景的深度打磨构建护城河。本文基于7家核心厂商、9份深度报告的调研成果，从技术实现、产品闭环、行业理解和商业化路径四个维度，揭示了当前竞争格局与三大被低估的市场空白。过去两个月，我把保险AI赛道里能找到的核心公开资料基本都翻了一遍：国内外7家重点厂商、9份深度调研报告、几十个客户案例和一堆产品演示视频。说实话，开始调研前我以为这个行业还很早，大...",
-          "published_at": "2026-03-04T01:44:20"
+          "summary": "用户生命周期管理是精细化运营的核心，但不同业务类型需要差异化的分析策略。本文系统梳理消费品、平台工具、耐用品三大类业务的用户生命周期特征，从拉新、活跃到留存全流程解析关键分析指标与运营策略。针对高频低消与低频高消用户的不同行为模式，提供可落地的数据分析框架与方法论。了解用户生命周期，是实现精细化管理的重要一步。到底如何划分生命周期？每个阶段该关注哪些问题？不同业务的生命周期有什么区别？今天一篇长文...",
+          "published_at": "2026-03-04T02:55:02"
         }
       ]
     },
@@ -449,34 +449,16 @@
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 3,
       "items": [
         {
-          "title": "AgentCenter for OpenClaw",
-          "url": "https://www.producthunt.com/products/agentcenter-for-openclaw",
-          "author": "Dharmendra Jagodana",
+          "title": "Tomosu",
+          "url": "https://www.producthunt.com/products/tomosu-digital-wellbeing-flipped",
+          "author": "Nakajima Ryoma",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Mission Control for your OpenClaw agents.Discussion|Link",
-          "published_at": "2026-03-02T07:38:36"
-        },
-        {
-          "title": "Shavely",
-          "url": "https://www.producthunt.com/products/shavely",
-          "author": "Tatsuya Murakami",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Group chat where every message speaks your languageDiscussion|Link",
-          "published_at": "2026-03-03T04:40:57"
-        },
-        {
-          "title": "Springfield Oracle",
-          "url": "https://www.producthunt.com/products/springfield-oracle",
-          "author": "Isha Godboley",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Every Simpsons prediction sourced, scored, fact-checkedDiscussion|Link",
-          "published_at": "2026-03-02T17:43:14"
+          "summary": "Lock your apps by default to improve your digital wellbeingDiscussion|Link",
+          "published_at": "2026-03-03T06:09:39"
         },
         {
           "title": "Qwen3.5 Small",
@@ -488,13 +470,13 @@
           "published_at": "2026-03-03T02:55:26"
         },
         {
-          "title": "Continue (Mission Control)",
-          "url": "https://www.producthunt.com/products/continue",
-          "author": "Garry Tan",
+          "title": "Deep Personality",
+          "url": "https://www.producthunt.com/products/deep-personality",
+          "author": "Andrew Wilkinson",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Quality control for your software factoryDiscussion|Link",
-          "published_at": "2026-03-02T22:03:14"
+          "summary": "Science-backed personality insights for you and your partnerDiscussion|Link",
+          "published_at": "2026-03-03T00:18:14"
         }
       ]
     },
@@ -548,9 +530,9 @@
           "published_at": null
         },
         {
-          "title": "盒马这波玩梗我给满分，看佛系文案如何拯救缺省页焦虑",
-          "url": "https://www.uisdc.com/hunter/0221661716.html",
-          "author": "龙爪槐守望者",
+          "title": "一个表情包盘活互动率?看微信视频号点赞设计",
+          "url": "https://www.uisdc.com/hunter/0221661852.html",
+          "author": "Hotdog学长",
           "category": "设计教程",
           "source": "优设网",
           "summary": null,
