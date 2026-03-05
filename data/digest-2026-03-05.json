@@ -1,22 +1,22 @@
 {
   "date": "2026-03-05T00:00:00",
-  "total_items": 70,
+  "total_items": 69,
   "sources": [
-    "Product Hunt",
-    "Sidebar",
-    "优设网",
     "A List Apart",
-    "Design Milk",
-    "NN/g (Nielsen Norman Group)",
+    "Sidebar",
+    "少数派",
+    "Smashing Magazine",
     "UX Design CC",
-    "Awwwards",
-    "UX Planet",
+    "优设网",
     "CSS-Tricks",
     "人人都是产品经理",
-    "少数派",
-    "Smashing Magazine"
+    "UX Planet",
+    "Product Hunt",
+    "NN/g (Nielsen Norman Group)",
+    "Awwwards",
+    "Design Milk"
   ],
-  "generated_at": "2026-03-05T02:29:38.465529",
+  "generated_at": "2026-03-05T06:37:53.702629",
   "categories": [
     {
       "category": "用户体验设计",
@@ -260,49 +260,49 @@
           "published_at": "2026-03-03T14:00:40"
         },
         {
-          "title": "零工平台积分产品实战指南（二）：设计篇：从0到1，我这样搭积分系统",
-          "url": "https://www.woshipm.com/share/3791723.html",
-          "author": "胡小泽",
+          "title": "已有 Flutter 项目如何适配鸿蒙（HarmonyOS）？超详细可落地步骤+避坑指南",
+          "url": "https://www.woshipm.com/share/6348869.html",
+          "author": "nutpi",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从混乱构想变为落地权益平台，积分系统的搭建是一场复杂战役。本文将揭秘如何在业务需求、合规红线与技术限制的三重夹击中，通过四流图设计、多服务商引擎与三层兑换生态等核心模块，构建出既能抗八级地震又能快速开业的'积分大楼'。第一篇发出来后，收到最多的留言是：“道理懂了，具体怎么干？”我盯着这个问题想了很久。不是不知道怎么干，而是脑子里东西太多——四流图、架构图、多服务商引擎、三层兑换生态……这些模块在我...",
-          "published_at": "2026-03-05T02:02:41"
+          "summary": "存量 Flutter 项目如何快速拥抱鸿蒙？本文基于 OpenHarmony 官方分支，提供从环境搭建、一键生成 ohos 工程到签名调试的完整实操指南。只需一条命令即可实现跨平台适配，并附三方库兼容方案与常见报错解析，助开发者低成本高效接入鸿蒙生态。在鸿蒙生态快速发展的今天，把存量 Flutter 项目一键适配到 HarmonyOS，已经成为很多跨平台开发者的刚需。本文基于 OpenHarmon...",
+          "published_at": "2026-03-05T03:57:10"
         },
         {
-          "title": "超越万亿参数：揭秘决定大模型成败的“隐形之手”—— 关键超参数详解",
-          "url": "https://www.woshipm.com/ai/6348484.html",
-          "author": "卡萨丁AI",
+          "title": "小美、小团、Tabbit：美团其实一直在做两件事",
+          "url": "https://www.woshipm.com/ai/6348651.html",
+          "author": "小普",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "参数规模的光环下，超参数才是大语言模型的真正灵魂。本文将深度解析学习率调度、批量大小、模型架构等关键超参数如何如同精密食谱般影响模型表现，揭示从70B到万亿参数竞赛背后那些不为人知的“炼丹”艺术与技术权衡。当我们谈论大语言模型（LLM）时，所有的目光似乎都聚焦在一个数字上：参数（Parameters）。我们听到了70亿（7B）、700亿（70B）乃至万亿（Trillion）的参数竞赛。参数量固然是...",
-          "published_at": "2026-03-05T01:58:06"
+          "summary": "美团从送外卖到做浏览器，看似跨界实则暗藏AI战略野心。Tabbit、小美、问小团三款产品在不同场景下验证同一套AI逻辑：降低信息过载与消除执行焦虑。本文将深度解析美团如何用本地生活数据优势打造AI护城河，以及浏览器为何成为AI落地的终极战场。3 月 2 号的时候，美团旗下光年之外团队正式宣布 Tabbit 浏览器开启公测！无需邀请码，免费下载消息出来的当天，很多人的第一反应是困惑：一家以”送外卖”...",
+          "published_at": "2026-03-05T03:48:22"
         },
         {
-          "title": "AI 生产力范式演进：从指令交互到自主代理的深度重构",
-          "url": "https://www.woshipm.com/ai/6348470.html",
-          "author": "Percy",
+          "title": "OpenClaw 25万星背后：为什么它仍然只是个“半拉子工程”",
+          "url": "https://www.woshipm.com/ai/6348812.html",
+          "author": "琢磨事",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI正从简单的对话工具进化为具备自主执行能力的数字合伙人。本文深度剖析AI如何通过慢思考机制、预判式服务和任务闭环能力重塑工作流，揭示2026年物理一致性模型与开源红利将如何颠覆创意生产，并指出数字化人才必须掌握的三大转型维度。核心逻辑：AI 已经完成了从“对话式助手”向“自主执行代理（Agent）”的跨越。产品逻辑的关键词正在从简单的“交互”转向深度的“任务闭环”与“逻辑落地”。一、 交互形态演...",
-          "published_at": "2026-03-05T01:48:37"
+          "summary": "OpenClaw的GitHub Star数在60天内飙升至25万，超越了React和Linux等传奇项目，引发了关于“创业民主化”的热议。这款工具赋予个人前所未有的数字代理能力，但背后隐藏着一个残酷现实：它只是一个缺乏业务理解的“半拉子工程”。本文将深入探讨OpenClaw为何能在标准化任务中高效执行，却在现实商业的复杂缝隙中频频碰壁，并揭示真正无人公司的核心逻辑——缝隙理论。就在本周，OpenC...",
+          "published_at": "2026-03-05T03:42:26"
         },
         {
-          "title": "通用运费兜底，特殊规则优先：如何在通用逻辑之上，优雅承载复杂运营策略？",
-          "url": "https://www.woshipm.com/share/6347993.html",
-          "author": "Totoro畅",
+          "title": "OpenClaw配置QQ机器人完整指南",
+          "url": "https://www.woshipm.com/ai/6348627.html",
+          "author": "没事勤琢磨",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "运费规则的精细化运营正成为电商平台的核心竞争力。本文系统梳理了从优先级分层、维度绑定到最小化改造的五大设计原则，并详细拆解了规则体系搭建、系统流程设计及核心功能模块的实现路径，揭示如何通过运费规则实现运营策略精准落地与成本效益的最优平衡。一、核心设计原则1. 优先级分层原则建立“特殊规则优先于通用规则”的运费计算体系，按业务运营权重划分规则层级，优先级高的规则前置触发，避免规则冲突，同时保障运营策...",
-          "published_at": "2026-03-05T01:47:47"
+          "summary": "OpenClaw与QQ机器人的无缝对接正在重新定义AI助手的交互边界！本文手把手教你从零完成OpenClaw网关配置，涵盖平台注册、机器人创建、插件安装到功能测试的全流程实战指南，助你快速搭建具备私聊/群控能力的智能对话系统。OpenClaw作为强大的AI智能体网关平台，支持接入QQ机器人，让你的AI助手能够在QQ平台上与用户进行交互。本文将详细介绍如何从零开始配置OpenClaw与QQ机器人的对...",
+          "published_at": "2026-03-05T03:42:12"
         },
         {
-          "title": "AI产品和传统产品，底层的产品设计逻辑，到底有什么本质区别？",
-          "url": "https://www.woshipm.com/ai/6348418.html",
-          "author": "虫虫",
+          "title": "从“做事”到“成事”的分水岭：管理预期",
+          "url": "https://www.woshipm.com/zhichang/6348388.html",
+          "author": "老齐是产品设计希",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI浪潮席卷产品圈，传统产品经理却频频踩坑。从‘AI一键填表单’沦为僵尸功能，到死磕转化率反遭用户流失，再到盲目追求全能导致产品崩盘，为什么看似简单的转型却如此艰难？本文深度剖析AI产品与传统产品的4大本质差异，并给出4套实战方法论，帮你从‘流程设计者’蜕变为‘能力释放者’。不知道各位产品有没有这种感觉——明明做了好几年产品，画原型、写prd、跑需求评审，样样都熟。但当老板说”要做AI产品”的时候...",
-          "published_at": "2026-03-05T01:24:42"
+          "summary": "在产品开发过程中，产品经理常常成为背锅侠，根源在于预期管理的缺失。本文深入剖析预期崩塌的典型场景，揭示权力与责任不匹配的残酷现实，并给出四条实战原则：从风险透明化到高频对齐，从期望值管理到预留缓冲空间，帮你摆脱被动背锅的困境。你知道为什么你总是那个背锅的人吗？以下这个场景你肯定熟悉：背景：老板让你两周上线一个新功能。“好的老板，我争取！”（内心：其实根本做不完）两周后：“老板，开发说遇到技术难题，...",
+          "published_at": "2026-03-05T03:36:51"
         }
       ]
     },
@@ -383,6 +383,15 @@
           "published_at": null
         },
         {
+          "title": "Adovasio",
+          "url": "https://www.awwwards.com/sites/adovasio",
+          "author": "Louis Paquet",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Gavin Schneider Productions",
           "url": "https://www.awwwards.com/sites/gavin-schneider-productions",
           "author": "DashDigital",
@@ -444,58 +453,13 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Studio Dado",
-          "url": "https://www.awwwards.com/sites/studio-dado",
-          "author": "Motto",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 5,
       "items": [
-        {
-          "title": "Fix in Cursor",
-          "url": "https://www.producthunt.com/products/fix-in-cursor",
-          "author": "Justin Luttrell",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "GitHub PR comment to Cursor prompt in one clickDiscussion|Link",
-          "published_at": "2026-03-04T05:36:22"
-        },
-        {
-          "title": "moltdj",
-          "url": "https://www.producthunt.com/products/moltdj",
-          "author": "Borislav Novikov",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "SoundCloud for OpenClaw agents to create, stream, earnDiscussion|Link",
-          "published_at": "2026-03-04T01:46:10"
-        },
-        {
-          "title": "AssemblyAI: Universal-3 Pro Streaming",
-          "url": "https://www.producthunt.com/products/assemblyai",
-          "author": "Meredith Rauch",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The most accurate streaming speech model for voice agents.Discussion|Link",
-          "published_at": "2026-03-03T22:55:30"
-        },
-        {
-          "title": "ClawOffice",
-          "url": "https://www.producthunt.com/products/clawoffice",
-          "author": "Taras Shynkarenko",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Real Office for your Open Claw AgentsDiscussion|Link",
-          "published_at": "2026-03-03T23:02:34"
-        },
         {
           "title": "Floyd enterprise world model",
           "url": "https://www.producthunt.com/products/floyd-enterprise-world-model",
@@ -506,13 +470,40 @@
           "published_at": "2026-03-03T18:12:11"
         },
         {
-          "title": "agile.flights",
-          "url": "https://www.producthunt.com/products/agile-flights",
-          "author": "Jason Dainter",
+          "title": "Maxclaw on Mobile",
+          "url": "https://www.producthunt.com/products/maxclaw-on-mobile",
+          "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Agile died in a JIRA board - replace sprints with flightsDiscussion|Link",
-          "published_at": "2026-03-03T23:45:00"
+          "summary": "Build apps, research deeply and automate multi-step tasksDiscussion|Link",
+          "published_at": "2026-03-02T13:17:09"
+        },
+        {
+          "title": "day1tabs",
+          "url": "https://www.producthunt.com/products/day1tabs",
+          "author": "AA_labs",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Your tabs close at midnight.See which ones you actually usedDiscussion|Link",
+          "published_at": "2026-03-03T08:54:42"
+        },
+        {
+          "title": "Gemini Code Harvester",
+          "url": "https://www.producthunt.com/products/gemini-code-harvester",
+          "author": "Z-ZMC",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Extract & download all Gemini AI code blocks in one clickDiscussion|Link",
+          "published_at": "2026-03-03T22:01:28"
+        },
+        {
+          "title": "ScreenTranslate",
+          "url": "https://www.producthunt.com/products/screentranslate",
+          "author": "Changmin Han",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Translate any on-screen text with a simple dragDiscussion|Link",
+          "published_at": "2026-03-03T10:11:39"
         }
       ]
     },
@@ -530,7 +521,7 @@
           "published_at": null
         },
         {
-          "title": "别让一人公司成了提款机！这个坑一定要避开！",
+          "title": "别让OPC一人公司成了提款机！这个坑一定要避开！",
           "url": "https://www.uisdc.com/opc-3",
           "author": "",
           "category": "设计教程",
@@ -647,6 +638,15 @@
       "count": 6,
       "items": [
         {
+          "title": "靠大模型「吵架」完成固件逆向，我有哪些心得体会？",
+          "url": "https://sspai.com/post/106443",
+          "author": "LOSSES",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "出发点只是嫌一台 MP3 的 UI 太丑——在一个完全不是我专业领域的方向上，借助两个模型和一份手册，把一颗嵌入式芯片的字符渲染管线从头到尾摸了个七七八八。查看全文",
+          "published_at": "2026-03-05T03:01:58"
+        },
+        {
           "title": "派早报：Apple 推出 MacBook Neo、Setapp 调整商业模式等",
           "url": "https://sspai.com/post/106844",
           "author": "少数派编辑部",
@@ -690,15 +690,6 @@
           "source": "少数派",
           "summary": "为了解决手动记录的繁琐并保持记录的连贯性，我通过一套自动化方案实现了如下效果：当 Clippings 文件夹中新增剪藏文件时，自动获取文章标题和文章总结，以文章总结的格式自动添加到当天日记的底部。查看全文",
           "published_at": "2026-03-04T03:31:46"
-        },
-        {
-          "title": "派早报：Apple 发布 M5 系列芯片及 Studio Display、MacBook 系列新品",
-          "url": "https://sspai.com/post/106811",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Unihertz 发布全键盘新机 Titan 2 Elite 等。查看全文",
-          "published_at": "2026-03-03T23:57:57"
         }
       ]
     }
