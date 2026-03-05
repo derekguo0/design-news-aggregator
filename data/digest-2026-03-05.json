@@ -1,27 +1,36 @@
 {
   "date": "2026-03-05T00:00:00",
-  "total_items": 69,
+  "total_items": 71,
   "sources": [
-    "A List Apart",
-    "Sidebar",
-    "少数派",
+    "UX Planet",
     "Smashing Magazine",
-    "UX Design CC",
+    "NN/g (Nielsen Norman Group)",
+    "Design Milk",
+    "Awwwards",
     "优设网",
     "CSS-Tricks",
     "人人都是产品经理",
-    "UX Planet",
+    "A List Apart",
+    "Sidebar",
+    "少数派",
     "Product Hunt",
-    "NN/g (Nielsen Norman Group)",
-    "Awwwards",
-    "Design Milk"
+    "UX Design CC"
   ],
-  "generated_at": "2026-03-05T06:37:53.702629",
+  "generated_at": "2026-03-05T13:09:37.395947",
   "categories": [
     {
       "category": "用户体验设计",
       "count": 13,
       "items": [
+        {
+          "title": "Product ethics have never mattered more",
+          "url": "https://uxdesign.cc/product-ethics-have-never-mattered-more-9529887d975d?source=rss----138adf9c44c---4",
+          "author": "Dora Czerna",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "OpenAI just struck a deal with the Pentagon. Anthropic refused. And users noticed, which tells us something important about the future of values in product design.In the last week of February 2026, so...",
+          "published_at": "2026-03-05T09:37:48"
+        },
         {
           "title": "Things that don’t matter when you write",
           "url": "https://uxdesign.cc/things-that-dont-matter-when-you-write-9746f09d125c?source=rss----138adf9c44c---4",
@@ -102,15 +111,6 @@
           "source": "UX Design CC",
           "summary": "Products get worse. Users get stuck.Layoffs are happening everywhere.Talented people with decades of experience are being caught up in “restructurings.” In the process, many digital product design tea...",
           "published_at": "2026-03-03T08:40:22"
-        },
-        {
-          "title": "Integrating UX into capacity planning",
-          "url": "https://uxdesign.cc/integrating-ux-into-capacity-planning-464fe83bf13b?source=rss----138adf9c44c---4",
-          "author": "Jeremy Bird",
-          "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "How to balance Total Project Demand with Team Capacity to take control of your workload, avoid burn out, & set your team up for success.© 2026 Jeremy BirdOne of the problems I have seen UX teams and e...",
-          "published_at": "2026-03-02T22:01:25"
         },
         {
           "title": "Claude Code + Figma =",
@@ -260,49 +260,49 @@
           "published_at": "2026-03-03T14:00:40"
         },
         {
-          "title": "已有 Flutter 项目如何适配鸿蒙（HarmonyOS）？超详细可落地步骤+避坑指南",
-          "url": "https://www.woshipm.com/share/6348869.html",
-          "author": "nutpi",
+          "title": "超5亿人在用生成式AI！用户规模背后藏着哪些未被满足的需求？",
+          "url": "https://www.woshipm.com/ai/6349002.html",
+          "author": "健彬的产品Live",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "存量 Flutter 项目如何快速拥抱鸿蒙？本文基于 OpenHarmony 官方分支，提供从环境搭建、一键生成 ohos 工程到签名调试的完整实操指南。只需一条命令即可实现跨平台适配，并附三方库兼容方案与常见报错解析，助开发者低成本高效接入鸿蒙生态。在鸿蒙生态快速发展的今天，把存量 Flutter 项目一键适配到 HarmonyOS，已经成为很多跨平台开发者的刚需。本文基于 OpenHarmon...",
-          "published_at": "2026-03-05T03:57:10"
+          "summary": "生成式AI用户已突破5亿，但热闹背后是真实的用户痛点——个性化缺失、使用门槛高、可信度堪忧。本文深度剖析AI工具当前面临的三大困境，并揭示用户真正渴望的自然交互、专业输出与可信保障。产品经理们将看到从场景驱动到闭环服务的实战建议，带你突破AI产品的‘能用’瓶颈，迈向‘好用’新阶段。同学们，先来看一组扎心的数据：据统计国内生成式AI用户已经突破5亿了！刷到AI写的文案秒出稿、AI画的海报比设计师还快...",
+          "published_at": "2026-03-05T08:51:44"
         },
         {
-          "title": "小美、小团、Tabbit：美团其实一直在做两件事",
-          "url": "https://www.woshipm.com/ai/6348651.html",
-          "author": "小普",
+          "title": "解决TikTok私信线索少：创建TikTok私信广告让聊单效率轻松翻倍！",
+          "url": "https://www.woshipm.com/share/6349012.html",
+          "author": "Roxy",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "美团从送外卖到做浏览器，看似跨界实则暗藏AI战略野心。Tabbit、小美、问小团三款产品在不同场景下验证同一套AI逻辑：降低信息过载与消除执行焦虑。本文将深度解析美团如何用本地生活数据优势打造AI护城河，以及浏览器为何成为AI落地的终极战场。3 月 2 号的时候，美团旗下光年之外团队正式宣布 Tabbit 浏览器开启公测！无需邀请码，免费下载消息出来的当天，很多人的第一反应是困惑：一家以”送外卖”...",
-          "published_at": "2026-03-05T03:48:22"
+          "summary": "TikTok私信广告正在成为跨境商家突破转化瓶颈的利器。它通过一键直达私信界面的设计，将传统营销路径缩短80%，配合AI智能回复与指纹浏览器等技术工具，可实现线索收集效率提升300%。本文将深入解析这一广告形式的运作机制、优化策略与实战技巧，助你构建高效的TikTok私域流量池。做 TikTok 营销，跨境商家最头疼的莫过于：私信线索少、沟通转化难。明明流量不错，却很难把潜在客户变成有效咨询，更难...",
+          "published_at": "2026-03-05T08:51:16"
         },
         {
-          "title": "OpenClaw 25万星背后：为什么它仍然只是个“半拉子工程”",
-          "url": "https://www.woshipm.com/ai/6348812.html",
-          "author": "琢磨事",
+          "title": "马东、许知远、罗振宇，对应了三种产品人的底层逻辑",
+          "url": "https://www.woshipm.com/share/6348873.html",
+          "author": "静ye思",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "OpenClaw的GitHub Star数在60天内飙升至25万，超越了React和Linux等传奇项目，引发了关于“创业民主化”的热议。这款工具赋予个人前所未有的数字代理能力，但背后隐藏着一个残酷现实：它只是一个缺乏业务理解的“半拉子工程”。本文将深入探讨OpenClaw为何能在标准化任务中高效执行，却在现实商业的复杂缝隙中频频碰壁，并揭示真正无人公司的核心逻辑——缝隙理论。就在本周，OpenC...",
-          "published_at": "2026-03-05T03:42:26"
+          "summary": "许知远与马东的经典辩论揭示了产品经理永恒的困境：是迎合大众还是坚守价值？罗振宇提出的'个体繁荣'概念为这一命题带来全新视角。本文深度剖析三种产品思维背后的用户分层逻辑，揭示从流量获取到用户成长的产品策略进化路径，为当代产品人提供兼具哲学深度与实操价值的思考框架。几年前许知远采访马东那期《十三邀》，至今还在产品人社群里被反复讨论。当时大家站队：有人觉得许知远太装，活在上个世纪；有人觉得马东太油，聪明...",
+          "published_at": "2026-03-05T08:50:39"
         },
         {
-          "title": "OpenClaw配置QQ机器人完整指南",
-          "url": "https://www.woshipm.com/ai/6348627.html",
-          "author": "没事勤琢磨",
+          "title": "小龙虾重磅上线了，你的业务变现了吗？",
+          "url": "https://www.woshipm.com/ai/6348984.html",
+          "author": "人工智能怨气指南",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "OpenClaw与QQ机器人的无缝对接正在重新定义AI助手的交互边界！本文手把手教你从零完成OpenClaw网关配置，涵盖平台注册、机器人创建、插件安装到功能测试的全流程实战指南，助你快速搭建具备私聊/群控能力的智能对话系统。OpenClaw作为强大的AI智能体网关平台，支持接入QQ机器人，让你的AI助手能够在QQ平台上与用户进行交互。本文将详细介绍如何从零开始配置OpenClaw与QQ机器人的对...",
-          "published_at": "2026-03-05T03:42:12"
+          "summary": "OpenClaw这只‘小龙虾’引爆了AI圈的变现狂欢，从上门安装到云服务一键部署，各方玩家赚得盆满钵满。但揭开热闹的表象，它究竟是革命性AI工具，还是又一场自嗨？本文将深度剖析OpenClaw的爆火逻辑与残酷现实，揭示智能体不智能的真相，并直指多数人赚不到钱的核心症结——场景缺失与商业本质的忽视。2026年开年AI圈最魔幻的一幕，莫过于一只叫OpenClaw的“小龙虾”横空出世。它在GitHub上...",
+          "published_at": "2026-03-05T08:50:33"
         },
         {
-          "title": "从“做事”到“成事”的分水岭：管理预期",
-          "url": "https://www.woshipm.com/zhichang/6348388.html",
+          "title": "需求挖掘之：预期管理实操",
+          "url": "https://www.woshipm.com/share/6348537.html",
           "author": "老齐是产品设计希",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在产品开发过程中，产品经理常常成为背锅侠，根源在于预期管理的缺失。本文深入剖析预期崩塌的典型场景，揭示权力与责任不匹配的残酷现实，并给出四条实战原则：从风险透明化到高频对齐，从期望值管理到预留缓冲空间，帮你摆脱被动背锅的困境。你知道为什么你总是那个背锅的人吗？以下这个场景你肯定熟悉：背景：老板让你两周上线一个新功能。“好的老板，我争取！”（内心：其实根本做不完）两周后：“老板，开发说遇到技术难题，...",
-          "published_at": "2026-03-05T03:36:51"
+          "summary": "明明满足了所有需求，项目却依然‘失败’？问题往往出在未被管理的期望值上。本文深度拆解需求与期望值的本质区别，通过实战案例与经典公式揭示满意度背后的关键逻辑，并给出4个让产品经理从‘清单执行者’进阶为‘预期管理者’的实操方法。在工作中，你有没有遇到过这样的问题，那就是明明在项目中满足了所有书面需求，项目却依然“失败”？为什么用户或老板还是不满意？答案就藏在这篇预期管理课题里。如果你看过我的上一篇《管...",
+          "published_at": "2026-03-05T08:48:00"
         }
       ]
     },
@@ -458,52 +458,70 @@
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 7,
       "items": [
         {
-          "title": "Floyd enterprise world model",
-          "url": "https://www.producthunt.com/products/floyd-enterprise-world-model",
-          "author": "Tirell Arzu",
+          "title": "Itsyconnect",
+          "url": "https://www.producthunt.com/products/itsyconnect",
+          "author": "Nick Ustinov",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Enterprise world model that learns how you would do tasksDiscussion|Link",
-          "published_at": "2026-03-03T18:12:11"
+          "summary": "Manage your App Store Connect from macOS desktop appDiscussion|Link",
+          "published_at": "2026-03-04T22:16:05"
         },
         {
-          "title": "Maxclaw on Mobile",
-          "url": "https://www.producthunt.com/products/maxclaw-on-mobile",
-          "author": "Rohan Chaubey",
+          "title": "Itchy",
+          "url": "https://www.producthunt.com/products/itchy-2",
+          "author": "Selcuk Sarikoz",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Build apps, research deeply and automate multi-step tasksDiscussion|Link",
-          "published_at": "2026-03-02T13:17:09"
+          "summary": "Free macOS notch app with 12+ modules & custom SDKDiscussion|Link",
+          "published_at": "2026-03-04T22:25:22"
         },
         {
-          "title": "day1tabs",
-          "url": "https://www.producthunt.com/products/day1tabs",
-          "author": "AA_labs",
+          "title": "Parsewise",
+          "url": "https://www.producthunt.com/products/parsewise",
+          "author": "Maximilian Hofer",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your tabs close at midnight.See which ones you actually usedDiscussion|Link",
-          "published_at": "2026-03-03T08:54:42"
+          "summary": "Cursor for document workDiscussion|Link",
+          "published_at": "2026-03-04T15:05:45"
         },
         {
-          "title": "Gemini Code Harvester",
-          "url": "https://www.producthunt.com/products/gemini-code-harvester",
-          "author": "Z-ZMC",
+          "title": "HookLens",
+          "url": "https://www.producthunt.com/products/hooklens",
+          "author": "Alex",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Extract & download all Gemini AI code blocks in one clickDiscussion|Link",
-          "published_at": "2026-03-03T22:01:28"
+          "summary": "Hook. Body. CTA. Know exactly where your ad fails.Discussion|Link",
+          "published_at": "2026-03-04T17:00:15"
         },
         {
-          "title": "ScreenTranslate",
-          "url": "https://www.producthunt.com/products/screentranslate",
-          "author": "Changmin Han",
+          "title": "Coursekit",
+          "url": "https://www.producthunt.com/products/coursekit",
+          "author": "Tham (Sylvia) Nguyen",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Translate any on-screen text with a simple dragDiscussion|Link",
-          "published_at": "2026-03-03T10:11:39"
+          "summary": "Turn your course into a full suite of embeddable AI agentsDiscussion|Link",
+          "published_at": "2026-03-03T17:48:18"
+        },
+        {
+          "title": "Step 3.5 Flash",
+          "url": "https://www.producthunt.com/products/step-3-5-flash",
+          "author": "Zac Zuo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Frontier open-source MoE model built for OpenClaw agentsDiscussion|Link",
+          "published_at": "2026-03-05T04:32:05"
+        },
+        {
+          "title": "Willow Voice for Teams",
+          "url": "https://www.producthunt.com/products/willow-voice",
+          "author": "Garry Tan",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Kill the keyboard for your team with voice AIDiscussion|Link",
+          "published_at": "2026-03-03T01:35:29"
         }
       ]
     },
@@ -572,49 +590,49 @@
       "count": 5,
       "items": [
         {
-          "title": "A design turn",
-          "url": "https://www.jonkolko.com/writing/a-design-turn",
+          "title": "Nobody gets promoted for simplicity",
+          "url": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Why UX must move beyond efficiency to address systemic consequences.",
-          "published_at": "2026-03-04T08:15:21"
+          "summary": "We reward complexity and ignore simplicity. In interviews, design reviews, and promotions.",
+          "published_at": "2026-03-05T08:37:36"
         },
         {
-          "title": "Apollo’s bold, unruly and controversial successor",
-          "url": "https://edition.cnn.com/interactive/science/artemis-nasa-moon-landing-plans-vis/",
+          "title": "Falsehoods programmers believe about time",
+          "url": "https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A visual guide to the audacious moon-landing mission design that put SpaceX and NASA in the hot seat.",
-          "published_at": "2026-03-04T08:14:08"
+          "summary": "Many mistakes in both test and application code stem from misunderstandings or misconceptions about time.",
+          "published_at": "2026-03-05T08:37:05"
         },
         {
-          "title": "Typescale AI",
-          "url": "https://typescale.ai/",
+          "title": "How technical support at Cursor uses Cursor",
+          "url": "https://cursor.com/blog/cursor-support",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Generate modular type scales and design tokens instantly.",
-          "published_at": "2026-03-04T08:13:22"
+          "summary": "Removing the context-gathering bottleneck for most support work.",
+          "published_at": "2026-03-05T08:35:54"
         },
         {
-          "title": "AI Taxonomy",
-          "url": "https://dropleaf.app/d/AlXez8scbd",
+          "title": "Obys’ Design Books",
+          "url": "https://library.obys.agency/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "When someone says \"AI\", ask: \"Which category?\" Force specificity.",
-          "published_at": "2026-03-04T08:12:44"
+          "summary": "A personal selection of titles that show design in ways the screen never could.",
+          "published_at": "2026-03-05T08:35:03"
         },
         {
-          "title": "On adding homepage delight",
-          "url": "https://karlkoch.me/writing/on-adding-homepage-delight",
+          "title": "Everything you never wanted to know about visually-hidden",
+          "url": "https://dbushell.com/2026/02/20/visually-hidden/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A vinyl-style music shelf with spring physics, deflection, hover layers and velocity gating.",
-          "published_at": "2026-03-04T08:11:51"
+          "summary": "Screen readers need context that visual layouts ignore.",
+          "published_at": "2026-03-05T08:33:58"
         }
       ]
     },
@@ -637,6 +655,24 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "新玩意 237｜少数派的编辑们最近买了啥？",
+          "url": "https://sspai.com/post/106868",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
+          "published_at": "2026-03-05T09:11:43"
+        },
+        {
+          "title": "开赛在即，疾速入坑：F1 2026 观赛指南",
+          "url": "https://sspai.com/post/103846",
+          "author": "Belcheck_",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "如果你是一名新入坑的 F1 车迷，肯定不想在一整年里都看到没有悬念的无聊比赛，但即将到来的 2026 年却可以说集齐了所有变量，足够为你带来一场混乱却有趣的开局……查看全文",
+          "published_at": "2026-03-05T06:32:05"
+        },
         {
           "title": "靠大模型「吵架」完成固件逆向，我有哪些心得体会？",
           "url": "https://sspai.com/post/106443",
@@ -672,24 +708,6 @@
           "source": "少数派",
           "summary": "编者按：本文是少数派2025年度征文活动#TeamCarbon25标签下的入围文章。本文仅代表作者本人观点，少数派只略微调整排版。今年的征文活动更有创意，「只能用AI」和「不能用AI」两大赛道激情PK ...查看全文",
           "published_at": "2026-03-04T09:30:07"
-        },
-        {
-          "title": "从采集到回顾，我用 AI 搭建了一套个人信息处理系统",
-          "url": "https://sspai.com/post/106477",
-          "author": "张立行",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "面对信息过载，我为用 AI 为自己搭了一套信息工作流，希望也能给你带来一丝启发。查看全文",
-          "published_at": "2026-03-04T07:00:46"
-        },
-        {
-          "title": "一日一技｜将 Obsidian 剪藏文章自动添加至当天日记",
-          "url": "https://sspai.com/post/106660",
-          "author": "小胡小胡0009",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "为了解决手动记录的繁琐并保持记录的连贯性，我通过一套自动化方案实现了如下效果：当 Clippings 文件夹中新增剪藏文件时，自动获取文章标题和文章总结，以文章总结的格式自动添加到当天日记的底部。查看全文",
-          "published_at": "2026-03-04T03:31:46"
         }
       ]
     }
