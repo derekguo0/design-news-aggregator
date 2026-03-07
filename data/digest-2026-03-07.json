@@ -1,23 +1,23 @@
 {
   "date": "2026-03-07T00:00:00",
-  "total_items": 62,
+  "total_items": 65,
   "sources": [
-    "A List Apart",
     "Awwwards",
+    "UX Planet",
+    "NN/g (Nielsen Norman Group)",
+    "Intercom Blog",
+    "人人都是产品经理",
     "Smashing Magazine",
     "优设网",
-    "Product Hunt",
-    "Intercom Blog",
-    "Design Milk",
-    "少数派",
-    "人人都是产品经理",
+    "Sidebar",
     "CSS-Tricks",
-    "NN/g (Nielsen Norman Group)",
-    "UX Planet",
     "UX Design CC",
-    "Sidebar"
+    "A List Apart",
+    "Design Milk",
+    "Product Hunt",
+    "少数派"
   ],
-  "generated_at": "2026-03-07T02:21:31.406933",
+  "generated_at": "2026-03-07T12:56:17.603064",
   "categories": [
     {
       "category": "用户体验设计",
@@ -177,7 +177,7 @@
     },
     {
       "category": "产品设计",
-      "count": 10,
+      "count": 12,
       "items": [
         {
           "title": "These Milanese Timepieces are a Mélange of Mood, Tone, and Supersaturated Pigment",
@@ -243,31 +243,49 @@
           "published_at": "2026-03-05T15:17:52"
         },
         {
-          "title": "百余款社交应用突发下架，苹果新规“亮剑”，匿名社交该何去何从？",
-          "url": "https://www.woshipm.com/share/6349553.html",
-          "author": "扬帆出海",
+          "title": "SeeDance2.0降智，字节成为硅谷门外的“野蛮人”？",
+          "url": "https://www.woshipm.com/it/6349698.html",
+          "author": "道总有理",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "2月24日，超百款海外社交应用遭苹果App Store集体下架，涉及随机视频聊天、匿名社交、陌生人匹配等多种形态，包括月收259万美元的Joi等头部产品。这并非突发事故，而是苹果2月6日更新的审核指南的必然结果——新规明确将'随机或匿名聊天'列为结构性风险，赋予平台'无需通知直接下架'的权力。随着海外互联网监管环境持续收紧，应用平台的审核尺度也在不断提高。对于依赖陌生人互动和实时内容的社交产品而言...",
-          "published_at": "2026-03-06T09:05:34"
+          "summary": "从惊艳到质疑，字节系视频模型Seedance 2.0正在经历一场口碑危机。超长排队、效果降智、审核严苛等问题让用户逐渐失去耐心，而内容版权之争更是让这款曾被寄予厚望的AI工具陷入困境。本文将深度剖析Seedance面临的挑战，探讨版权保护与技术发展之间的博弈，以及国产大模型在全球AI竞赛中的突围之路。排队、降智、审核不通过…年初引爆科技圈、被称为“当前地表最强”的字节系视频模型Seedance 2...",
+          "published_at": "2026-03-07T06:46:00"
         },
         {
-          "title": "对不起，不深耕私域，未来你将彻底没有客流",
-          "url": "https://www.woshipm.com/share/6349552.html",
-          "author": "言博说",
+          "title": "技术很炸裂，用户却不买单：AI时代“技术推动型创业者”的三大幻觉",
+          "url": "https://www.woshipm.com/ai/6349702.html",
+          "author": "Mio的AI商业观察",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "未来的竞争不再是装修与价格的比拼，而是谁能在客户心中占据更重的位置；唯有将存量客户经营成基于信任与专业的生命共同体，大健康从业者方能穿越周期，实现低成本、高质量的可持续增长。过去几年，本地生活O2O崛起，大家借助点评美团，抖音等等平台的流量红利，不少医馆养生馆确实尝到了甜头。但自2025年以来，流量红利消失殆尽，内卷越来越严重，线上流量的竞争，更多是在比谁砸的钱多，谁更舍得用“孩子”去套“狼”。公...",
-          "published_at": "2026-03-06T09:05:24"
+          "summary": "AI创业潮中涌现出一批技术驱动却难以落地的产品：它们堆砌多模态、多Agent协作等炫酷概念，却回答不了用户为何迁移的核心问题。本文犀利指出这类项目的三大致命幻觉——将终局当定位、技术当理由、IM外壳当入口，并揭示真正能存活的产品必须从强痛点切入单场景，而非用技术滤镜掩盖价值缺失。这两年，只要你关注 AI 创业，应该都看过类似的产品：形态上像一个新的聊天工具 / 协作平台里面加了一堆智能助理能理解多...",
+          "published_at": "2026-03-07T06:45:53"
         },
         {
-          "title": "互联网信贷运营方法论101",
-          "url": "https://www.woshipm.com/pd/6347374.html",
-          "author": "尼采的灯",
+          "title": "为什么说，AI营销正在“杀死”SaaS的灵魂？",
+          "url": "https://www.woshipm.com/share/6349720.html",
+          "author": "ToB SaaS大D",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "互联网的信贷与理财的用户运营有哪些差异？共性分别是什么？从用户需求商户供给出发，让你了解信贷领域下的核心运营策略，一篇文章告诉你~导读：信贷运营的本质 Credit Operations: The Essence核心定义：信贷用户是在资金缺口驱动下，通过跨时间借力来解决当下需求的群体。理财用户追求的是”让钱增值”，信贷用户追求的是”让未来的钱现在可用”。运营的本质区别在于：理财运营管理的是用户的贪...",
-          "published_at": "2026-03-06T08:31:18"
+          "summary": "数据显示，75% 的营销团队已部署 AI，却仍有 84% 只是更高效地制造垃圾信息；消费者对 AI 内容的信任度更从 60% 暴跌至 26%。\"AI 抵制潮\"悄然兴起，提醒我们：SaaS 营销的灵魂从来不是算法效率，而是人与人之间那点难得的\"人情味\"。一个很有意思的现象。2026年，几乎所有的SaaS公司都在谈AI，所有的营销团队都在上AI工具。从Salesforce、HubSpot还有国内好几个...",
+          "published_at": "2026-03-07T06:27:11"
+        },
+        {
+          "title": "100个关键词前瞻2026 创新篇91-100：AI故事世界、编码共情、AI 遗产、感官增强、β世代",
+          "url": "https://www.woshipm.com/share/6349718.html",
+          "author": "品牌猿",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "当 AI 能写千人千面的故事、人类感官可被重新编码、全新首都在荒漠中崛起——2026 年的创新图景正从科幻驶入现实。VML Intelligence 最新发布的《未来100：2026》年度趋势报告，聚焦十大前沿创新趋势，揭示技术如何重塑叙事、生命与城市。未来已来，洞察者先行。2026年，新征途已然开启！VML Intelligence 伟门智威发布第13期年度趋势报告——《未来100：2026》如...",
+          "published_at": "2026-03-07T06:24:40"
+        },
+        {
+          "title": "深扒 Nano Banana 2 超多趣味玩法，速度快还要效果好！",
+          "url": "https://www.woshipm.com/ai/6349717.html",
+          "author": "阿真Irene",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "从 1:8 极端长图到 15 角色群像控制，从海报翻译到知识 grounded 生成，它展现出的不是单点炫技，而是可嵌入真实工作流的系统性能力。对于需要批量迭代、快速验证、系列化产出的创作者而言，Nano Banana 2 或许正是那个\"够用且好用\"的甜点级选择。假都放完了，终于有时间来尝试一下 Google 在 2 月底发布的 Nano Banana 2 了，官方正式名称是 Gemini 3.1...",
+          "published_at": "2026-03-07T06:18:35"
         }
       ]
     },
@@ -339,6 +357,15 @@
           "published_at": null
         },
         {
+          "title": "Waabi",
+          "url": "https://www.awwwards.com/sites/waabi",
+          "author": "Antinomy Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Griflan",
           "url": "https://www.awwwards.com/sites/griflan-2",
           "author": "Griflan",
@@ -400,48 +427,48 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Cathy DOLLE Portfolio",
-          "url": "https://www.awwwards.com/sites/cathy-dolle-portfolio-1",
-          "author": "Cathy DOLLE",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 4,
       "items": [
         {
-          "title": "GPT‑5.4",
-          "url": "https://www.producthunt.com/products/openai",
-          "author": "Aleksandar Blazhev",
+          "title": "GetBeel",
+          "url": "https://www.producthunt.com/products/getbeel",
+          "author": "Borja Soler",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "OpenAI's most efficient model: less tokens, more clarityDiscussion|Link",
-          "published_at": "2026-03-05T18:12:40"
+          "summary": "Let AI collect invoices and do reconciliation in automaticDiscussion|Link",
+          "published_at": "2026-03-04T11:13:29"
         },
         {
-          "title": "Vera Platform by Cortex Research",
-          "url": "https://www.producthunt.com/products/vera-platform-by-cortex-research",
-          "author": "Tudor Iustin",
+          "title": "Olmo Hybrid",
+          "url": "https://www.producthunt.com/products/allen-institute-of-artificial-intelligence",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your next breakthrough, accelerated by AIDiscussion|Link",
-          "published_at": "2026-03-06T01:06:21"
+          "summary": "7B open model mixing transformers and linear RNNsDiscussion|Link",
+          "published_at": "2026-03-07T04:52:46"
         },
         {
-          "title": "Context Gateway",
-          "url": "https://www.producthunt.com/products/context-gateway",
+          "title": "LTX Desktop",
+          "url": "https://www.producthunt.com/products/ltx-desktop",
+          "author": "Ankit Sharma",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Local open-source LTX video editor optimized for GPUsDiscussion|Link",
+          "published_at": "2026-03-06T20:15:02"
+        },
+        {
+          "title": "Copperlane",
+          "url": "https://www.producthunt.com/products/copperlane",
           "author": "Garry Tan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Make Claude Code faster and cheaper without losing contextDiscussion|Link",
-          "published_at": "2026-03-04T04:44:04"
+          "summary": "Turn hours of loan processing into secondsDiscussion|Link",
+          "published_at": "2026-03-04T15:32:37"
         }
       ]
     },
@@ -576,6 +603,15 @@
       "count": 6,
       "items": [
         {
+          "title": "年度征文｜在新加坡，住最昂贵的房子，过最憋屈的日子",
+          "url": "https://sspai.com/post/106743",
+          "author": "Sholmes",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "高昂的房租并没有带来相对应的舒适体验。查看全文",
+          "published_at": "2026-03-07T03:59:51"
+        },
+        {
           "title": "本周看什么 | 最近值得一看的 8 部作品",
           "url": "https://sspai.com/post/106906",
           "author": "少数派编辑部",
@@ -619,15 +655,6 @@
           "source": "少数派",
           "summary": "海信发布 UX 2026 款 RGB-Mini LED 旗舰电视、Nothing 推出 Phone(4a) 系列手机等。查看全文",
           "published_at": "2026-03-06T00:45:33"
-        },
-        {
-          "title": "新玩意 237｜少数派的编辑们最近买了啥？",
-          "url": "https://sspai.com/post/106868",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
-          "published_at": "2026-03-05T09:11:43"
         }
       ]
     }
