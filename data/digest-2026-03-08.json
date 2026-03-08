@@ -1,23 +1,23 @@
 {
   "date": "2026-03-08T00:00:00",
-  "total_items": 59,
+  "total_items": 62,
   "sources": [
+    "人人都是产品经理",
+    "UX Design CC",
+    "UX Planet",
+    "优设网",
+    "Awwwards",
     "A List Apart",
     "CSS-Tricks",
-    "Awwwards",
-    "人人都是产品经理",
-    "Smashing Magazine",
-    "UX Planet",
     "NN/g (Nielsen Norman Group)",
     "Intercom Blog",
-    "UX Design CC",
+    "Sidebar",
     "少数派",
     "Design Milk",
     "Product Hunt",
-    "Sidebar",
-    "优设网"
+    "Smashing Magazine"
   ],
-  "generated_at": "2026-03-08T02:32:46.711607",
+  "generated_at": "2026-03-08T12:57:25.936322",
   "categories": [
     {
       "category": "用户体验设计",
@@ -207,49 +207,49 @@
           "published_at": "2026-03-05T15:17:52"
         },
         {
-          "title": "AI时代，只有两件事值得你操心",
-          "url": "https://www.woshipm.com/ai/6349221.html",
-          "author": "Alex的荒诞产品观",
+          "title": "拒绝“神话”：全网吹爆的OpenClaw，不过是大厂不敢玩的一场“权限裸奔”游戏",
+          "url": "https://www.woshipm.com/ai/6349763.html",
+          "author": "世乡",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI技术正以惊人的速度重塑各行各业，从OpenClaw的部署到智能体的爆发，中国模型的调用量甚至首次超越美国。面对这场变革，关键不在于追逐每个技术热点，而在于分清哪些是AI必然进步的“常量”，哪些是真正由你掌控的“变量”。本文将带你解读AI发展的最新趋势，揭示如何在这场技术革命中找准自己的核心优势，成为驾驭AI而非被AI淘汰的赢家。最近我的朋友圈画风变了。有人分享OpenClaw的部署心得，群里讨...",
-          "published_at": "2026-03-08T01:30:21"
+          "summary": "过去一个月，整个科技圈都在为一个叫 OpenClaw 的开源项目陷入癫狂。然而，撕开“AGI 已经到来”的神话滤镜，其底层不过是一场将系统最高控制权拱手相让的“俄罗斯轮盘赌”。为什么 OpenAI 和 Google 几百名顶尖天才做不出一个“龙虾”？不是不能，是不敢。在这场从“隐私换便利”向“安全换便利”的致命交易中，每一个欢呼雀跃的用户，都在成为这场大型社会实验的免费小白鼠。一、当猴子拿到了上了...",
+          "published_at": "2026-03-08T06:01:56"
         },
         {
-          "title": "SeeDance2.0降智，字节成为硅谷门外的“野蛮人”？",
-          "url": "https://www.woshipm.com/it/6349698.html",
-          "author": "道总有理",
+          "title": "一个“简单”的问卷需求，是怎么逼我重构整个业务架构的？",
+          "url": "https://www.woshipm.com/share/6349735.html",
+          "author": "牛马体验家",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从惊艳到质疑，字节系视频模型Seedance 2.0正在经历一场口碑危机。超长排队、效果降智、审核严苛等问题让用户逐渐失去耐心，而内容版权之争更是让这款曾被寄予厚望的AI工具陷入困境。本文将深度剖析Seedance面临的挑战，探讨版权保护与技术发展之间的博弈，以及国产大模型在全球AI竞赛中的突围之路。排队、降智、审核不通过…年初引爆科技圈、被称为“当前地表最强”的字节系视频模型Seedance 2...",
-          "published_at": "2026-03-07T06:46:00"
+          "summary": "B端产品经理最怕听到的谎言就是'这个需求特别简单'。当客户成功团队提出一个看似简单的问卷需求时，背后的陷阱才刚刚开始。本文将揭秘如何将一个表面的问卷需求重构为完整的业务流转中台，从身份隐性映射到自动化路由，再到可复用基建的搭建，带你穿透B端产品设计的水面之下。说实话，做 B 端产品这几年，我最怕的就是听到业务方说的一句话：“这个需求特别简单，你就加个问卷，然后收集一下数据就行。”上个月，我就差点被...",
+          "published_at": "2026-03-08T06:01:06"
         },
         {
-          "title": "技术很炸裂，用户却不买单：AI时代“技术推动型创业者”的三大幻觉",
-          "url": "https://www.woshipm.com/ai/6349702.html",
-          "author": "Mio的AI商业观察",
+          "title": "产品设计的最高效率，是让每个功能只写一次",
+          "url": "https://www.woshipm.com/pd/6349768.html",
+          "author": "小明同学",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI创业潮中涌现出一批技术驱动却难以落地的产品：它们堆砌多模态、多Agent协作等炫酷概念，却回答不了用户为何迁移的核心问题。本文犀利指出这类项目的三大致命幻觉——将终局当定位、技术当理由、IM外壳当入口，并揭示真正能存活的产品必须从强痛点切入单场景，而非用技术滤镜掩盖价值缺失。这两年，只要你关注 AI 创业，应该都看过类似的产品：形态上像一个新的聊天工具 / 协作平台里面加了一堆智能助理能理解多...",
-          "published_at": "2026-03-07T06:45:53"
+          "summary": "从AI提示词到产品设计，底层逻辑惊人一致——真正的智慧在于抽象与复用。本文通过SaaS产品实战案例，揭示如何构建通用性、平台性和可复用性三大核心能力，带你跳出功能视野的桎梏，掌握从'做功能'到'建平台'的跃迁之道。那些合同引擎、工单系统中隐藏的设计哲学，正是破解技术债务的关键密码。最近在给 AI 助手写提示词，写着写着突然愣住了。我发现一件事：写提示词和做产品设计，底层逻辑居然是一样的。你不可能给...",
+          "published_at": "2026-03-08T04:03:19"
         },
         {
-          "title": "为什么说，AI营销正在“杀死”SaaS的灵魂？",
-          "url": "https://www.woshipm.com/share/6349720.html",
-          "author": "ToB SaaS大D",
+          "title": "AI Agent（智能体）产品经理深度学习指南",
+          "url": "https://www.woshipm.com/ai/6279185.html",
+          "author": "而立与拾遗",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "数据显示，75% 的营销团队已部署 AI，却仍有 84% 只是更高效地制造垃圾信息；消费者对 AI 内容的信任度更从 60% 暴跌至 26%。\"AI 抵制潮\"悄然兴起，提醒我们：SaaS 营销的灵魂从来不是算法效率，而是人与人之间那点难得的\"人情味\"。一个很有意思的现象。2026年，几乎所有的SaaS公司都在谈AI，所有的营销团队都在上AI工具。从Salesforce、HubSpot还有国内好几个...",
-          "published_at": "2026-03-07T06:27:11"
+          "summary": "AI Agent 正从简单的对话接口进化为具备感知、决策与执行能力的智能实体。本文深度拆解其底层架构，从感知模块的多模态处理到大脑模块的复杂推理优化，再到行动模块的闭环执行，为产品经理提供商业化落地的关键思路与应用范式选择策略。1. 引言：AI Agent 核心定义在生成式 AI 的技术演进中，基于大语言模型（LLM）的智能体（AI Agent）已超越了单纯的“对话接口”范畴。智能体是一个具备**...",
+          "published_at": "2026-03-08T03:31:37"
         },
         {
-          "title": "100个关键词前瞻2026 创新篇91-100：AI故事世界、编码共情、AI 遗产、感官增强、β世代",
-          "url": "https://www.woshipm.com/share/6349718.html",
-          "author": "品牌猿",
+          "title": "消费医疗MSK诊所正在支付逻辑重构",
+          "url": "https://www.woshipm.com/share/6349704.html",
+          "author": "林裕虎",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当 AI 能写千人千面的故事、人类感官可被重新编码、全新首都在荒漠中崛起——2026 年的创新图景正从科幻驶入现实。VML Intelligence 最新发布的《未来100：2026》年度趋势报告，聚焦十大前沿创新趋势，揭示技术如何重塑叙事、生命与城市。未来已来，洞察者先行。2026年，新征途已然开启！VML Intelligence 伟门智威发布第13期年度趋势报告——《未来100：2026》如...",
-          "published_at": "2026-03-07T06:24:40"
+          "summary": "医保支付成为运动康复消费的第一道门槛，但背后隐藏的是两类门店的本质分野。本文将深度剖析医疗型与消费型康复机构的赛道差异，揭示消费型门店如何通过高频陪伴、产品化套餐、场景延伸和会员体系四大优势，在医保覆盖外的蓝海市场构建长期竞争力。用户在进行运动康复门店消费时，第一反应往往都是先问一句能不能刷医保。这背后并不只是价格敏感，更是一种长期形成的支付习惯。现行医保政策对支付边界划得很清楚，整体思路是为疾病...",
+          "published_at": "2026-03-08T02:59:26"
         }
       ]
     },
@@ -321,6 +321,15 @@
           "published_at": null
         },
         {
+          "title": "Springs",
+          "url": "https://www.awwwards.com/sites/springs",
+          "author": "Vide Infra",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Waabi",
           "url": "https://www.awwwards.com/sites/waabi",
           "author": "Antinomy Studio",
@@ -382,22 +391,49 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Neon Rated",
-          "url": "https://www.awwwards.com/sites/neon-rated",
-          "author": "27b",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 5,
       "items": [
+        {
+          "title": "Claude Marketplace",
+          "url": "https://www.producthunt.com/products/claude-marketplace",
+          "author": "Ankit Sharma",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Helping companies easily get the AI tools they needDiscussion|Link",
+          "published_at": "2026-03-07T14:25:04"
+        },
+        {
+          "title": "Pulldog",
+          "url": "https://www.producthunt.com/products/pulldog",
+          "author": "Paul Bancarel",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "A Mac application to keep your code reviews organized!Discussion|Link",
+          "published_at": "2026-03-07T12:12:03"
+        },
+        {
+          "title": "Song Sweeper",
+          "url": "https://www.producthunt.com/products/song-sweeper",
+          "author": "Grady Gaugler",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Clean up your music libraryDiscussion|Link",
+          "published_at": "2026-03-06T00:52:22"
+        },
+        {
+          "title": "LTX Desktop",
+          "url": "https://www.producthunt.com/products/ltx-desktop",
+          "author": "Ankit Sharma",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Local open-source LTX video editor optimized for GPUsDiscussion|Link",
+          "published_at": "2026-03-06T20:15:02"
+        },
         {
           "title": "Olmo Hybrid",
           "url": "https://www.producthunt.com/products/allen-institute-of-artificial-intelligence",
@@ -406,15 +442,6 @@
           "source": "Product Hunt",
           "summary": "7B open model mixing transformers and linear RNNsDiscussion|Link",
           "published_at": "2026-03-07T04:52:46"
-        },
-        {
-          "title": "21st Agents SDK",
-          "url": "https://www.producthunt.com/products/21st-dev-the-npm-for-design-engineers",
-          "author": "Serafim",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "SDK to add an Claude Code AI agent to your appDiscussion|Link",
-          "published_at": "2026-03-06T19:53:56"
         }
       ]
     },
@@ -549,6 +576,15 @@
       "count": 6,
       "items": [
         {
+          "title": "晚安，明天见：Arrows N 与富士通的退场",
+          "url": "https://sspai.com/post/106483",
+          "author": "Enc3lMag1k",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "晚安，明天见，过去的一切都不再属于崭新的你。查看全文",
+          "published_at": "2026-03-08T04:53:12"
+        },
+        {
           "title": "年度征文｜在新加坡，住最昂贵的房子，过最憋屈的日子",
           "url": "https://sspai.com/post/106743",
           "author": "Sholmes",
@@ -592,15 +628,6 @@
           "source": "少数派",
           "summary": "这套利用NAS构建本地游戏缓存服务器的方法，非常适合宿舍、家庭或者公司这类多人下载相同游戏的共享环境，也可以用来解决带宽或者流量受限的问题。查看全文",
           "published_at": "2026-03-06T03:29:03"
-        },
-        {
-          "title": "派早报：Aqara 发布集悦妙控屏 S1 Plus Siri 版等",
-          "url": "https://sspai.com/post/106880",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "海信发布 UX 2026 款 RGB-Mini LED 旗舰电视、Nothing 推出 Phone(4a) 系列手机等。查看全文",
-          "published_at": "2026-03-06T00:45:33"
         }
       ]
     }
