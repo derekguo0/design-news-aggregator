@@ -1,23 +1,22 @@
 {
   "date": "2026-03-12T00:00:00",
-  "total_items": 72,
+  "total_items": 64,
   "sources": [
-    "少数派",
+    "UX Planet",
+    "Intercom Blog",
+    "Product Hunt",
+    "人人都是产品经理",
     "CSS-Tricks",
     "NN/g (Nielsen Norman Group)",
-    "Intercom Blog",
-    "Design Milk",
-    "优设网",
-    "UX Planet",
-    "Awwwards",
-    "Sidebar",
-    "人人都是产品经理",
-    "Smashing Magazine",
     "A List Apart",
+    "优设网",
+    "Sidebar",
+    "少数派",
+    "Design Milk",
     "UX Design CC",
-    "Product Hunt"
+    "Smashing Magazine"
   ],
-  "generated_at": "2026-03-12T02:31:11.806133",
+  "generated_at": "2026-03-12T06:14:47.200871",
   "categories": [
     {
       "category": "用户体验设计",
@@ -270,55 +269,55 @@
           "published_at": "2026-03-10T19:05:25"
         },
         {
-          "title": "不追OpenClaw，就不配做产品经理了吗？",
-          "url": "https://www.woshipm.com/ai/6351921.html",
-          "author": "产品方法论集散地",
+          "title": "一分钱没花，OpenClaw为何能霸屏全网？",
+          "url": "https://www.woshipm.com/marketing/6352114.html",
+          "author": "寻空",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "OpenClaw的火爆让无数产品经理陷入FOMO焦虑，但疯狂追逐真的是最优解吗？本文作者从实用主义视角出发，冷静拆解早期技术采用的ROI公式，提出'抠搜中登入场标准'，更犀利指出AI热潮下被忽视的业务真空地带。当所有人都在谈论部署成本时，或许我们更需要思考产品经理在技术浪潮中的真正站位。春节回来，我被“龙虾”（OpenClaw）架在火上烤。办公室里，老板在聊，同事在聊，打开社交媒体，铺天盖地都是“...",
-          "published_at": "2026-03-12T02:13:30"
+          "summary": "OpenClaw零预算爆火，颠覆了传统“砸钱买量”的增长逻辑。其成功源于四重共振：硬核Agent能力将技术可视化，引发震撼；极客KOL复现教程降低门槛；云厂商与大模型厂为争夺算力与API消耗，主动助推生态；大众对AI替代的焦虑将其转化为社会议题。这揭示新规律：AI时代产品即传播基础设施，能连接生态利益、激发全网共创的项目，自会成为去中心化的传播机器。这个春节前后，整个科技圈几乎都在做同一件事，“养...",
+          "published_at": "2026-03-12T03:59:32"
         },
         {
-          "title": "爆火的 OpenClaw「养龙虾」到底是不是智商税？我算了一笔 ROI 账",
-          "url": "https://www.woshipm.com/ai/6351909.html",
-          "author": "瑞见钉锤",
+          "title": "为什么都对“养龙虾”的普通人冷嘲热讽",
+          "url": "https://www.woshipm.com/ai/6352085.html",
+          "author": "东大鸟AI产品",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "「OpenClaw」的风靡让「养龙虾」成为热议话题，但个人投入究竟值不值？本文从Token费用、安装成本到实际ROI层层拆解，带你算清这笔经济账，更犀利指出Agent工具的局限性与应用场景。最后，告诉你为什么AI永远替代不了产品经理的核心竞争力。最近大家一定被「OpenClaw」「养龙虾」这些词包围了，「龙虾」的好相信大家都知道，所以今天就是想带大家了解下自己“养”龙虾到底划不划算，洋气点说就是站...",
-          "published_at": "2026-03-12T02:03:50"
+          "summary": "OpenClaw的火爆引发了全民学习热潮，却也催生出一批冷眼旁观的嘲讽者。本文从知识的傲慢、进步的代价、社区生态和动机论四个维度，犀利剖析这种'岸上嘲笑泅渡者'现象的荒谬本质，揭示技术民主化进程中真正的理性姿态应该是什么。OpenClaw有多火我就不赘述了，无数普通人涌入这个赛道——程序员、大学生、文案、设计师、小老板。他们焦虑地学部署、试prompt、分享心得，生怕被这趟AI快车甩下。但与此同时...",
+          "published_at": "2026-03-12T03:11:37"
         },
         {
-          "title": "Palantir之秘",
-          "url": "https://www.woshipm.com/share/6351952.html",
-          "author": "琢磨事",
+          "title": "Facebook 外贸获客实操指南：4 大方法精准开发海外客户",
+          "url": "https://www.woshipm.com/operate/6352046.html",
+          "author": "Roxy",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Palantir 的商业史堪称硅谷最不可思议的逆袭样本——二十年持续巨亏却能绝地翻盘，最终在AI时代实现36%的惊人净利润率。这家由哲学家掌舵的情报分析公司，用百亿美金代价验证了企业级AI操作系统最硬核的生存法则：高维本体论与大模型的致命组合如何斩断人力增长魔咒，其启示远超3000亿市值本身。这是一段关于硅谷最神秘、最具争议，也最被误解的科技巨头——Palantir 的历史钩沉。这公司是不可照搬的...",
-          "published_at": "2026-03-12T02:03:25"
+          "summary": "Facebook 作为跨境贸易的重要阵地，30亿月活用户背后潜藏着巨大的客户开发机遇。本文深度拆解如何通过精准定位客户画像、借力同行资源、运营Facebook小组与公共主页、以及高效投放广告等核心方法，实现从泛流量到精准客户的转化。更揭秘RoxyBrowser这类AI工具如何通过独立环境与自动化功能，破解多账号矩阵运营难题，为外贸企业打开高效获客新思路。在跨境贸易的赛道上，Facebook 凭借超...",
+          "published_at": "2026-03-12T03:10:27"
         },
         {
-          "title": "GPT-5.4深夜突袭发布——补齐短板，成为OpenClaw天选基座模型",
-          "url": "https://www.woshipm.com/ai/6351888.html",
-          "author": "为了罐罐",
+          "title": "文科生极度匹配AI相关工作，你信吗？",
+          "url": "https://www.woshipm.com/ai/6086340.html",
+          "author": "觅初于影",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "GPT-5.4的发布彻底改写了AI Agent的游戏规则——它不仅是首个原生集成计算机操作能力的通用模型，更以亲民价格解决了开发者长期面临的代码能力与知识储备难以兼得的困境。从金融建模到法律分析，这款OpenAI的战略级产品正在突破'能说不会做'的行业天花板，而其83%人类员工水平的表现与47%的效率提升，标志着AI真正开始接管复杂工作流。前两天OpenAI就毫无预兆地正式推出了GPT-5.4。说...",
-          "published_at": "2026-03-12T01:53:42"
+          "summary": "文科生在AI时代绝非无用武之地！本文深度剖析文科生如何成为AI发展的核心力量——从注入AI温度与同理心，到守护AI伦理价值观，再到构建AI知识内容体系。更关键的是，AI产品运营领域正成为文科生大展身手的蓝海市场。看完这篇亲身实践者的经验总结，你将重新定义文科生在科技行业的可能性。一直想写一篇关于“文科生&AI”的文章，今天就提笔吧！十年前，身为一名“纯度100%”的文科生，我毅然踏入AI行业。一路...",
+          "published_at": "2026-03-12T03:07:06"
         },
         {
-          "title": "钢铁、蒸汽与无限心智：Notion教我们通往AI时代的组织进化指南",
-          "url": "https://www.woshipm.com/ai/6336292.html",
-          "author": "Mio的AI商业观察",
+          "title": "运输管理：提货管理怎么做，才能把“到厂装货”变成可信的交付起点？",
+          "url": "https://www.woshipm.com/share/6351918.html",
+          "author": "天涯轩",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Notion CEO Ivan Zhao的《蒸汽、钢铁与无限心智》揭示了AI如何从工具演变为组织架构的核心材料。这篇文章将AI比作钢铁框架，探讨了它如何重构企业管理模式、协作方式和经济运行逻辑。中国企业在面对这场变革时将面临更剧烈的冲击，因为传统管理与AI驱动的钢框架存在根本性冲突。阅读此文，你将看到一个关于组织未来形态的深刻蓝图。Part 0｜开篇：为什么要读Notion CEO 的这篇文章？N...",
-          "published_at": "2026-03-12T01:39:16"
+          "summary": "在货代提派业务里，“提货”不是简单的上门取货，而是交付链路里最容易失真的现场：到厂排队、窗口临时变更、装货耗时不可控、箱号封条靠口述、磅单小票散落、照片模糊导致后续争议……提货管理做不好，后面再强的在途可视、POD与计费都会变成补救。本文从产品视角拆解提货管理：如何围绕“预约与窗时、到场与等待、装载确认与证据、到港/到仓里程碑”建立一套可追溯链路，让提货既能推进履约，也能为结算提供事实依据。一、提...",
+          "published_at": "2026-03-12T03:06:14"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 16,
+      "count": 8,
       "items": [
         {
           "title": "Building Dynamic Forms In React And Next.js",
@@ -391,78 +390,6 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
-        },
-        {
-          "title": "Mr. Pandas Paper Portfolio",
-          "url": "https://www.awwwards.com/sites/mr-pandas-paper-portfolio",
-          "author": "Andrew Woan",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Outsource Consultants, Inc",
-          "url": "https://www.awwwards.com/sites/outsource-consultants-inc",
-          "author": "Buzzworthy",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "ON Energy",
-          "url": "https://www.awwwards.com/sites/on-energy",
-          "author": "Studio 28K",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Springs",
-          "url": "https://www.awwwards.com/sites/springs",
-          "author": "Vide Infra",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Waabi",
-          "url": "https://www.awwwards.com/sites/waabi",
-          "author": "Antinomy Studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Griflan",
-          "url": "https://www.awwwards.com/sites/griflan-2",
-          "author": "Griflan",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Adovasio",
-          "url": "https://www.awwwards.com/sites/adovasio",
-          "author": "Louis Paquet",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Gavin Schneider Productions",
-          "url": "https://www.awwwards.com/sites/gavin-schneider-productions",
-          "author": "DashDigital",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -471,22 +398,40 @@
       "count": 6,
       "items": [
         {
-          "title": "MorphMind: A Steerable AI Platform",
-          "url": "https://www.producthunt.com/products/morphmind-launches-steerable-ai-platform",
-          "author": "Jie Ding",
+          "title": "Mindspase",
+          "url": "https://www.producthunt.com/products/mindspase",
+          "author": "Gil finkelstein",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Build a team of AI specialists that deliver quality workDiscussion|Link",
-          "published_at": "2026-03-10T15:34:51"
+          "summary": "A visual AI knowledge base that organizes what you saveDiscussion|Link",
+          "published_at": "2026-03-10T01:16:33"
         },
         {
-          "title": "ChatGPT Interactive Learning",
-          "url": "https://www.producthunt.com/products/chatgpt-interactive-learning",
-          "author": "Rohan Chaubey",
+          "title": "InsForge",
+          "url": "https://www.producthunt.com/products/insforge-alpha",
+          "author": "Chris Messina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Learn math and science with interactive visual explanationsDiscussion|Link",
-          "published_at": "2026-03-11T03:55:49"
+          "summary": "Give agents everything they need to ship fullstack appsDiscussion|Link",
+          "published_at": "2026-03-10T06:15:54"
+        },
+        {
+          "title": "CodeYam CLI & Memory",
+          "url": "https://www.producthunt.com/products/codeyam-cli-memory",
+          "author": "Nadia Eldeib",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Comprehensive memory management for Claude CodeDiscussion|Link",
+          "published_at": "2026-03-10T19:58:36"
+        },
+        {
+          "title": "Teract AI",
+          "url": "https://www.producthunt.com/products/teract",
+          "author": "Nikola Djordjevic",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Your AI reputation coach for LinkedIn, X, Reddit & moreDiscussion|Link",
+          "published_at": "2026-03-10T17:54:11"
         },
         {
           "title": "OpenUI",
@@ -498,15 +443,6 @@
           "published_at": "2026-03-11T06:11:24"
         },
         {
-          "title": "Mindspase",
-          "url": "https://www.producthunt.com/products/mindspase",
-          "author": "Gil finkelstein",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "A visual AI knowledge base that organizes what you saveDiscussion|Link",
-          "published_at": "2026-03-10T01:16:33"
-        },
-        {
           "title": "Cardboard",
           "url": "https://www.producthunt.com/products/cardboard-3",
           "author": "Garry Tan",
@@ -514,15 +450,6 @@
           "source": "Product Hunt",
           "summary": "Cursor for video editingDiscussion|Link",
           "published_at": "2026-03-10T17:43:05"
-        },
-        {
-          "title": "Firecrawl CLI",
-          "url": "https://www.producthunt.com/products/extract-by-firecrawl",
-          "author": "Eric Ciarla",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The complete web data toolkit for AI agentsDiscussion|Link",
-          "published_at": "2026-03-10T18:16:04"
         }
       ]
     },
@@ -666,6 +593,15 @@
       "count": 6,
       "items": [
         {
+          "title": "年度征文｜Vibe Research：社会科学的第一次 AI 危机？",
+          "url": "https://sspai.com/post/106919",
+          "author": "TomBen",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "编者按：本文是少数派2025年度征文活动#TeamSilicon25标签下的入围文章。本文仅代表作者本人观点，少数派只略微调整排版。今年的征文活动更有创意，「只能用AI」和「不能用AI」两大赛道激情P ...查看全文",
+          "published_at": "2026-03-12T03:23:19"
+        },
+        {
           "title": "派早报：Google 发布 Gemini Embedding 2 模型等",
           "url": "https://sspai.com/post/107110",
           "author": "少数派编辑部",
@@ -709,15 +645,6 @@
           "source": "少数派",
           "summary": "这一次，我终于用 10 天时间真正走进白山黑水之间，补上一场迟到了很多年的东北初见。查看全文",
           "published_at": "2026-03-11T06:30:00"
-        },
-        {
-          "title": "产品团购暨直播 | 少数派十四周年：一场特别的周年回馈活动",
-          "url": "https://sspai.com/post/107020",
-          "author": "什么陈",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "少数派又陪大家走过了一年。关于少数派十四周年，我们将带来一场特别的回馈活动。少数派创始人老麦也将来到少数派共创直播间，与大家聊聊关于少数派2025的共创历程。2025的主线：找回那份久违的专注少数派的 ...查看全文",
-          "published_at": "2026-03-11T03:30:00"
         }
       ]
     }
