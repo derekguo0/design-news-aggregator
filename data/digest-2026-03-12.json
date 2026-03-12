@@ -1,22 +1,23 @@
 {
   "date": "2026-03-12T00:00:00",
-  "total_items": 64,
+  "total_items": 74,
   "sources": [
-    "UX Planet",
-    "Intercom Blog",
-    "Product Hunt",
-    "人人都是产品经理",
-    "CSS-Tricks",
     "NN/g (Nielsen Norman Group)",
-    "A List Apart",
-    "优设网",
-    "Sidebar",
     "少数派",
+    "Awwwards",
+    "Intercom Blog",
+    "UX Planet",
+    "人人都是产品经理",
+    "A List Apart",
+    "Product Hunt",
+    "Sidebar",
+    "Smashing Magazine",
+    "优设网",
+    "CSS-Tricks",
     "Design Milk",
-    "UX Design CC",
-    "Smashing Magazine"
+    "UX Design CC"
   ],
-  "generated_at": "2026-03-12T06:14:47.200871",
+  "generated_at": "2026-03-12T13:10:17.222086",
   "categories": [
     {
       "category": "用户体验设计",
@@ -206,6 +207,15 @@
       "count": 12,
       "items": [
         {
+          "title": "A North Vancouver Residence and Pool House Connected by Landscape",
+          "url": "https://design-milk.com/a-north-vancouver-residence-and-pool-house-connected-by-landscape/",
+          "author": "Leo Lei",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Two neighboring lots in North Vancouver, British Columbia, were combined into a single ground plane where a main residence, a pool house, and a greenhouse sit not as standalone buildings but as moment...",
+          "published_at": "2026-03-12T13:00:28"
+        },
+        {
           "title": "Studio BANAA Designs Maximalist Micro-Café",
           "url": "https://design-milk.com/studio-banaa-designs-maximalist-micro-cafe/",
           "author": "Anna Zappia",
@@ -251,15 +261,6 @@
           "published_at": "2026-03-10T14:00:12"
         },
         {
-          "title": "5 Lifeguard Towers Transformed into Works of Art",
-          "url": "https://design-milk.com/winter-stations-5-lifeguard-towers-transformed-into-works-of-art/",
-          "author": "Sophie Sobol",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "On the windy shore of Lake Ontario, the winners of Winter Stations 2026 wow with curving wood, mirrors and more.",
-          "published_at": "2026-03-10T13:00:15"
-        },
-        {
           "title": "Fin Product Updates: February recap",
           "url": "https://www.intercom.com/blog/fin-product-updates-february-recap/",
           "author": "Brian Donohue",
@@ -269,56 +270,65 @@
           "published_at": "2026-03-10T19:05:25"
         },
         {
-          "title": "一分钱没花，OpenClaw为何能霸屏全网？",
-          "url": "https://www.woshipm.com/marketing/6352114.html",
-          "author": "寻空",
+          "title": "开年第一AI神器“翻车”：25万星的OpenClaw，为何惨遭全网连夜卸载?",
+          "url": "https://www.woshipm.com/ai/6352251.html",
+          "author": "壮年女子AIGC版",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "OpenClaw零预算爆火，颠覆了传统“砸钱买量”的增长逻辑。其成功源于四重共振：硬核Agent能力将技术可视化，引发震撼；极客KOL复现教程降低门槛；云厂商与大模型厂为争夺算力与API消耗，主动助推生态；大众对AI替代的焦虑将其转化为社会议题。这揭示新规律：AI时代产品即传播基础设施，能连接生态利益、激发全网共创的项目，自会成为去中心化的传播机器。这个春节前后，整个科技圈几乎都在做同一件事，“养...",
-          "published_at": "2026-03-12T03:59:32"
+          "summary": "OpenClaw从全民追捧到集体卸载的戏剧性转折，揭示了AI代理技术的现实困境。这个号称能‘自动驾驶’工作的工具，最终因失控操作、隐性成本和过高门槛沦为‘赛博哈士奇’。本文将深度剖析这场技术狂欢背后的三大致命缺陷，以及它对AI产品落地的启示。说实话，互联网的记忆真的是越来越短了。不知道大家还记不记得，就在几个月前，不管是科技圈还是各种创业搞钱群，所有人都在像疯了一样讨论一个词——OpenClaw。...",
+          "published_at": "2026-03-12T09:57:08"
         },
         {
-          "title": "为什么都对“养龙虾”的普通人冷嘲热讽",
-          "url": "https://www.woshipm.com/ai/6352085.html",
-          "author": "东大鸟AI产品",
+          "title": "如何设计AI产品的prompt工程策略？",
+          "url": "https://www.woshipm.com/ai/6352269.html",
+          "author": "健彬的产品Live",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "OpenClaw的火爆引发了全民学习热潮，却也催生出一批冷眼旁观的嘲讽者。本文从知识的傲慢、进步的代价、社区生态和动机论四个维度，犀利剖析这种'岸上嘲笑泅渡者'现象的荒谬本质，揭示技术民主化进程中真正的理性姿态应该是什么。OpenClaw有多火我就不赘述了，无数普通人涌入这个赛道——程序员、大学生、文案、设计师、小老板。他们焦虑地学部署、试prompt、分享心得，生怕被这趟AI快车甩下。但与此同时...",
-          "published_at": "2026-03-12T03:11:37"
+          "summary": "AI产品的prompt工程策略不是简单的指令编写，而是决定产品成败的关键设计。本文通过真实案例揭秘如何用三层金字塔模型重构AI客服的prompt策略，将准确率从40%提升至90%，并总结出可落地的五步设计法与四大避坑指南，带你掌握让AI从「胡说八道」到「精准输出」的核心方法论。朋友们，今天来聊聊AI产品经理面试里的高频硬核题：「如何设计AI产品的prompt工程策略」。说实话，我刚接触AI产品时，...",
+          "published_at": "2026-03-12T09:56:52"
         },
         {
-          "title": "Facebook 外贸获客实操指南：4 大方法精准开发海外客户",
-          "url": "https://www.woshipm.com/operate/6352046.html",
-          "author": "Roxy",
+          "title": "AI医疗问答项目系列之项目分析",
+          "url": "https://www.woshipm.com/ai/6352216.html",
+          "author": "而立与拾遗",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Facebook 作为跨境贸易的重要阵地，30亿月活用户背后潜藏着巨大的客户开发机遇。本文深度拆解如何通过精准定位客户画像、借力同行资源、运营Facebook小组与公共主页、以及高效投放广告等核心方法，实现从泛流量到精准客户的转化。更揭秘RoxyBrowser这类AI工具如何通过独立环境与自动化功能，破解多账号矩阵运营难题，为外贸企业打开高效获客新思路。在跨境贸易的赛道上，Facebook 凭借超...",
-          "published_at": "2026-03-12T03:10:27"
+          "summary": "AI医疗应用正站在合规与创新的十字路口。本文将深入解析如何通过RAG技术+权威医疗知识库的黄金组合，在症状自查、慢病管理等刚需场景中安全落地。从技术边界到产品设计，揭秘医疗AI避开诊断雷区的完整方法论。项目前提：知道这个需求能不能做？知道这个需求怎么做？知道这个需求会有哪些问题？如何避免？一、这个需求能不能做？1. 为什么能做（可行性）1）技术成熟大模型 + RAG 检索增强 + 专业医疗知识库，...",
+          "published_at": "2026-03-12T09:53:53"
         },
         {
-          "title": "文科生极度匹配AI相关工作，你信吗？",
-          "url": "https://www.woshipm.com/ai/6086340.html",
-          "author": "觅初于影",
+          "title": "为什么这么多人”养龙虾”？OpenClaw背后有这4层产品逻辑",
+          "url": "https://www.woshipm.com/ai/6352311.html",
+          "author": "Hanni",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "文科生在AI时代绝非无用武之地！本文深度剖析文科生如何成为AI发展的核心力量——从注入AI温度与同理心，到守护AI伦理价值观，再到构建AI知识内容体系。更关键的是，AI产品运营领域正成为文科生大展身手的蓝海市场。看完这篇亲身实践者的经验总结，你将重新定义文科生在科技行业的可能性。一直想写一篇关于“文科生&AI”的文章，今天就提笔吧！十年前，身为一名“纯度100%”的文科生，我毅然踏入AI行业。一路...",
-          "published_at": "2026-03-12T03:07:06"
+          "summary": "我们看到的不仅是一个产品的走红，更是一套反直觉的产品逻辑胜利。本文抛开\"割韭菜\"争议与技术门槛，从Memory到Agent，从宜家效应到生态入口，拆解OpenClaw如何层层递进地构建用户关系——它不是更聪明的聊天机器人，而是正在成为\"某个人\"的数字合伙人。今天这篇文章不谈OpenClaw是不是割韭菜，也先把费钱（Token)、不安全放一边，更不谈如何安装，如何养龙虾…就从产品角度来说说，一个安装...",
+          "published_at": "2026-03-12T08:54:44"
         },
         {
-          "title": "运输管理：提货管理怎么做，才能把“到厂装货”变成可信的交付起点？",
-          "url": "https://www.woshipm.com/share/6351918.html",
-          "author": "天涯轩",
+          "title": "数据+AI驱动科学决策，方案奉上！",
+          "url": "https://www.woshipm.com/share/6352309.html",
+          "author": "接地气的陈老师",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在货代提派业务里，“提货”不是简单的上门取货，而是交付链路里最容易失真的现场：到厂排队、窗口临时变更、装货耗时不可控、箱号封条靠口述、磅单小票散落、照片模糊导致后续争议……提货管理做不好，后面再强的在途可视、POD与计费都会变成补救。本文从产品视角拆解提货管理：如何围绕“预约与窗时、到场与等待、装载确认与证据、到港/到仓里程碑”建立一套可追溯链路，让提货既能推进履约，也能为结算提供事实依据。一、提...",
-          "published_at": "2026-03-12T03:06:14"
+          "summary": "当领导们习惯性把Excel表直接甩给大模型期待\"科学决策\"，我们不得不直面一个残酷现实：绝大多数企业的AI决策尝试，正沦为数字时代的算命游戏。本文不聊概念，只谈实战——从线性规划建模的五个关键要素，到\"既要又要还要\"在数学上的必然无解，再到Cursor+Python的正确打开方式。2026年，最怕听到的需求就是：“能不能用AI自动备货、自动调价、自动开广告、自动分析、自动赚钱、自动让我成世界首富…...",
+          "published_at": "2026-03-12T08:52:02"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 8,
+      "count": 17,
       "items": [
+        {
+          "title": "Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI",
+          "url": "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
+          "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-sh...",
+          "published_at": "2026-03-12T10:00:00"
+        },
         {
           "title": "Building Dynamic Forms In React And Next.js",
           "url": "https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/",
@@ -390,66 +400,147 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
+        },
+        {
+          "title": "Adam Bricker",
+          "url": "https://www.awwwards.com/sites/adam-bricker",
+          "author": "CUSP",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Mr. Pandas Paper Portfolio",
+          "url": "https://www.awwwards.com/sites/mr-pandas-paper-portfolio",
+          "author": "Andrew Woan",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Outsource Consultants, Inc",
+          "url": "https://www.awwwards.com/sites/outsource-consultants-inc",
+          "author": "Buzzworthy",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "ON Energy",
+          "url": "https://www.awwwards.com/sites/on-energy",
+          "author": "Studio 28K",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Springs",
+          "url": "https://www.awwwards.com/sites/springs",
+          "author": "Vide Infra",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Waabi",
+          "url": "https://www.awwwards.com/sites/waabi",
+          "author": "Antinomy Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Griflan",
+          "url": "https://www.awwwards.com/sites/griflan-2",
+          "author": "Griflan",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Adovasio",
+          "url": "https://www.awwwards.com/sites/adovasio",
+          "author": "Louis Paquet",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 7,
       "items": [
         {
-          "title": "Mindspase",
-          "url": "https://www.producthunt.com/products/mindspase",
-          "author": "Gil finkelstein",
+          "title": "Clawther",
+          "url": "https://www.producthunt.com/products/clawther",
+          "author": "Bengeekly",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A visual AI knowledge base that organizes what you saveDiscussion|Link",
-          "published_at": "2026-03-10T01:16:33"
+          "summary": "Give your OpenClaw agent a real task boardDiscussion|Link",
+          "published_at": "2026-03-09T16:30:37"
         },
         {
-          "title": "InsForge",
-          "url": "https://www.producthunt.com/products/insforge-alpha",
-          "author": "Chris Messina",
+          "title": "Needle 2.0",
+          "url": "https://www.producthunt.com/products/needle-3",
+          "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Give agents everything they need to ship fullstack appsDiscussion|Link",
-          "published_at": "2026-03-10T06:15:54"
+          "summary": "Vibe-automate workflows and earn passive incomeDiscussion|Link",
+          "published_at": "2026-03-10T17:12:19"
         },
         {
-          "title": "CodeYam CLI & Memory",
-          "url": "https://www.producthunt.com/products/codeyam-cli-memory",
-          "author": "Nadia Eldeib",
+          "title": "Agentipedia",
+          "url": "https://www.producthunt.com/products/agentipedia",
+          "author": "Sujit",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Comprehensive memory management for Claude CodeDiscussion|Link",
-          "published_at": "2026-03-10T19:58:36"
+          "summary": "An open research platform where AI Agents collaborateDiscussion|Link",
+          "published_at": "2026-03-12T00:18:39"
         },
         {
-          "title": "Teract AI",
-          "url": "https://www.producthunt.com/products/teract",
-          "author": "Nikola Djordjevic",
+          "title": "Email API benchmarks",
+          "url": "https://www.producthunt.com/products/knock-6",
+          "author": "fmerian",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your AI reputation coach for LinkedIn, X, Reddit & moreDiscussion|Link",
-          "published_at": "2026-03-10T17:54:11"
+          "summary": "A real-time dashboard of email provider performanceDiscussion|Link",
+          "published_at": "2026-03-11T18:46:14"
         },
         {
-          "title": "OpenUI",
-          "url": "https://www.producthunt.com/products/thesys",
-          "author": "Parikshit Deshmukh",
+          "title": "Prava",
+          "url": "https://www.producthunt.com/products/prava-2",
+          "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The open standard for Generative UIDiscussion|Link",
-          "published_at": "2026-03-11T06:11:24"
+          "summary": "Payments stack for AI agentsDiscussion|Link",
+          "published_at": "2026-03-12T01:10:05"
         },
         {
-          "title": "Cardboard",
-          "url": "https://www.producthunt.com/products/cardboard-3",
-          "author": "Garry Tan",
+          "title": "Huddle01 Cloud",
+          "url": "https://www.producthunt.com/products/huddle01-cloud-2",
+          "author": "fmerian",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Cursor for video editingDiscussion|Link",
-          "published_at": "2026-03-10T17:43:05"
+          "summary": "Deploy your AI Agents in 60 secondsDiscussion|Link",
+          "published_at": "2026-03-11T06:44:42"
+        },
+        {
+          "title": "Astrio",
+          "url": "https://www.producthunt.com/products/astrio-beta",
+          "author": "Nolan Lwin",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "AI Agent that modernizes outdated websitesDiscussion|Link",
+          "published_at": "2026-03-12T06:59:44"
         }
       ]
     },
@@ -503,9 +594,9 @@
           "published_at": null
         },
         {
-          "title": "UI 设计师效率利器，Lovart 帮你5秒搞定精美样机",
-          "url": "https://www.uisdc.com/hunter/0221662712.html",
-          "author": "龙爪槐守望者",
+          "title": "原来MacBook还能当补光灯？FaceTime这个隐藏设计太惊艳了",
+          "url": "https://www.uisdc.com/hunter/0221662435.html",
+          "author": "Huazi",
           "category": "设计教程",
           "source": "优设网",
           "summary": null,
@@ -518,49 +609,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Do AI-enabled companies need fewer people?",
-          "url": "https://seldo.com/posts/do-ai-enabled-companies-need-fewer-people/",
+          "title": "Designing AI experiences people actually use",
+          "url": "https://buzzusborne.com/writing/designing-ai-for-trust/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "AI-native startups are doing more with less — 40% smaller teams, 6x higher revenue per employee — and the data confirms it’s not just hype.",
-          "published_at": "2026-03-11T11:26:57"
+          "summary": "AI doesn’t just add intelligence — it redistributes it. Here’s how that shift can make or break a product.",
+          "published_at": "2026-03-12T09:26:57"
         },
         {
-          "title": "FUNES – 3D Cultural Heritage Archive",
-          "url": "https://funes.world/",
+          "title": "Pattern Collider",
+          "url": "https://aatishb.com/patterncollider/?symmetry=10&pattern=0.62&radius=57&zoom=2.47&hue=314&hueRange=91&contrast=30&sat=100",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "FUNES digitizes monuments and cultural heritage into high-quality 3D models, panoramas, and guided stories.",
-          "published_at": "2026-03-11T11:26:23"
+          "summary": "Create and share mathematical tiling patterns.",
+          "published_at": "2026-03-12T09:26:26"
         },
         {
-          "title": "Cognitive debt",
-          "url": "https://acairns.co.uk/posts/cognitive-debt",
+          "title": "Terminal Trove",
+          "url": "https://terminaltrove.com/explore/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The growing gap between the code your team ships and the code your team understands. It’s not technical debt. It’s worse.",
-          "published_at": "2026-03-11T11:25:39"
+          "summary": "A comprehensive collection of terminal tools with advanced search and filters.",
+          "published_at": "2026-03-12T09:25:54"
         },
         {
-          "title": "All SVG Icons",
-          "url": "https://allsvgicons.com/",
+          "title": "The evolution of Mac app window corners",
+          "url": "https://lapcatsoftware.com/articles/2026/3/4.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Browse and download 250,000+ free SVG icons for your projects that are free to use and customizable.",
-          "published_at": "2026-03-11T11:25:06"
+          "summary": "Is “a softer feel and elegant concentricity” a nonsense?",
+          "published_at": "2026-03-12T09:25:18"
         },
         {
-          "title": "Services: the new software",
-          "url": "https://sequoiacap.com/article/services-the-new-software/",
+          "title": "Anatomy of a CSS phone mockup",
+          "url": "https://www.conor.fyi/writing/anatomy-of-a-css-phone-mockup",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The next $1T company will be a software company masquerading as a services firm.",
-          "published_at": "2026-03-11T11:24:31"
+          "summary": "A step-by-step walkthrough of how a realistic iPhone frame is built from scratch.",
+          "published_at": "2026-03-12T09:23:57"
         }
       ]
     },
@@ -592,6 +683,24 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "年度征文｜效率之外，创作的重量",
+          "url": "https://sspai.com/post/106746",
+          "author": "车不能快",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "但真正需要警惕的，并不是偏见本身，而是我们误以为自己可以写出没有立场的文字，创作者，必须为自己的判断负责。查看全文",
+          "published_at": "2026-03-12T09:26:44"
+        },
+        {
+          "title": "Notion 年度更新评测：7 个案例聊聊 Custom Agent",
+          "url": "https://sspai.com/post/106982",
+          "author": "二一的笔记",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "等你尝到第一口甜头，后面的流程自然会一点点长出来。查看全文",
+          "published_at": "2026-03-12T07:00:00"
+        },
         {
           "title": "年度征文｜Vibe Research：社会科学的第一次 AI 危机？",
           "url": "https://sspai.com/post/106919",
@@ -627,24 +736,6 @@
           "source": "少数派",
           "summary": "前言：一场对抗「西西弗斯式」无聊的折腾对于忙碌又被惯坏的现代人而言，坚持运动从来都不是一件容易的事。我们常用的解决方案往往依赖外部激励：要么是AppleWatch提供的数值化圆环，要么是Switch《 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
           "published_at": "2026-03-11T08:36:49"
-        },
-        {
-          "title": "年度征文｜2025 副业备忘录：从 3D 打印到「一人企业」",
-          "url": "https://sspai.com/post/106723",
-          "author": "小鱼Quentin",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "把想到的、想做的做出来，便能有自己的一方小小天地。查看全文",
-          "published_at": "2026-03-11T07:24:40"
-        },
-        {
-          "title": "城市漫步指南：用 10 天走进东北白山黑水",
-          "url": "https://sspai.com/post/106373",
-          "author": "PJHubs",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "这一次，我终于用 10 天时间真正走进白山黑水之间，补上一场迟到了很多年的东北初见。查看全文",
-          "published_at": "2026-03-11T06:30:00"
         }
       ]
     }
