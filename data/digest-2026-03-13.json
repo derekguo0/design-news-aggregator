@@ -1,28 +1,37 @@
 {
   "date": "2026-03-13T00:00:00",
-  "total_items": 65,
+  "total_items": 67,
   "sources": [
-    "少数派",
-    "Product Hunt",
-    "人人都是产品经理",
-    "Smashing Magazine",
-    "Awwwards",
-    "CSS-Tricks",
-    "NN/g (Nielsen Norman Group)",
-    "优设网",
-    "UX Planet",
     "A List Apart",
-    "Sidebar",
     "UX Design CC",
+    "优设网",
+    "CSS-Tricks",
+    "少数派",
+    "UX Planet",
     "Intercom Blog",
+    "Smashing Magazine",
+    "人人都是产品经理",
+    "Awwwards",
+    "Product Hunt",
+    "Sidebar",
+    "NN/g (Nielsen Norman Group)",
     "Design Milk"
   ],
-  "generated_at": "2026-03-13T03:26:45.988288",
+  "generated_at": "2026-03-13T13:08:14.359805",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 8,
+      "count": 9,
       "items": [
+        {
+          "title": "The hidden cost of AI design tools - What we’re outsourcing without noticing",
+          "url": "https://uxdesign.cc/the-hidden-cost-of-ai-design-tools-what-were-outsourcing-without-noticing-9057db75aaf9?source=rss----138adf9c44c---4",
+          "author": "Andy Bhattacharyya",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The seduction of the blank prompt:The cognitive atrophy of instant gratificationImage Credit: Co-Created with AIIstill remember the distinct smell of markers and the faint squeak of a fresh pen on a p...",
+          "published_at": "2026-03-13T09:14:00"
+        },
         {
           "title": "The first fruit of the Google-Apple AI pact",
           "url": "https://uxdesign.cc/the-first-fruit-of-the-google-apple-ai-pact-efec0ff52a03?source=rss----138adf9c44c---4",
@@ -99,17 +108,8 @@
     },
     {
       "category": "用户体验研究",
-      "count": 6,
+      "count": 5,
       "items": [
-        {
-          "title": "Statistical Significance Isn’t the Same as Practical Significance",
-          "url": "https://www.nngroup.com/articles/practical-significance/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
         {
           "title": "The Most Exciting Development in GenUI: Buttons and Checkboxes",
           "url": "https://www.nngroup.com/articles/genui-buttons-and-checkboxes/",
@@ -162,6 +162,15 @@
       "count": 13,
       "items": [
         {
+          "title": "The Cavus Collection by Jan Ernst Brings Clay to Life",
+          "url": "https://design-milk.com/the-cavus-collection-by-jan-ernst-brings-clay-to-life/",
+          "author": "Aria Lee",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "The Cavus Collection embodies shifting sand and ancient plateaus, inspired by Karoo, a semi-desert region of Ernst's native South Africa.",
+          "published_at": "2026-03-13T13:00:27"
+        },
+        {
           "title": "Inside Piaule’s Design-Driven Catskills Escape With Design Within Reach",
           "url": "https://design-milk.com/inside-piaules-design-driven-catskills-escape-with-design-within-reach/",
           "author": "Hayley Arsenault",
@@ -207,15 +216,6 @@
           "published_at": "2026-03-11T14:00:35"
         },
         {
-          "title": "This Pared Down Stereo System Takes-on Cubist Dimensions",
-          "url": "https://design-milk.com/this-pared-down-stereo-system-takes-on-cubist-dimensions/",
-          "author": "Adrian Madlener",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Designed by Swedish designer Daniel Alm for boutique audio tech brand Noc, the monolithic Braque system pays formal tribute to its influential namesake.",
-          "published_at": "2026-03-11T13:00:32"
-        },
-        {
           "title": "From resolutions to outcomes: Evolving how Fin delivers value",
           "url": "https://www.intercom.com/blog/from-resolutions-to-outcomes-evolving-how-fin-delivers-value/",
           "author": "Darragh Curran",
@@ -234,49 +234,49 @@
           "published_at": "2026-03-10T19:05:25"
         },
         {
-          "title": "黄仁勋发表AI五层架构：重构产业底层逻辑，互联网从业者迎转型大考",
-          "url": "https://www.woshipm.com/share/6352746.html",
-          "author": "晓吾",
+          "title": "做了半年用户增长产品经理，我总结了一套数据分析和项目汇报的方法",
+          "url": "https://www.woshipm.com/share/6352339.html",
+          "author": "是个游子",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当所有人盯着模型参数时，黄仁勋却抛出\"五层蛋糕\"架构，从能源到应用层层咬合——顶层Agent的成功完全依赖底层全链路的稳定支撑。更震撼的是，他预言传统软件和APP形态即将消失，产品经理必须从\"功能堆砌\"转向\"智能体能力定义\"，设计师则要告别静态界面、掌握与AI共创的交互逻辑。这不是技术升级，而是互联网从业者能力体系的全面重构。前段时间，英伟达CEO黄仁勋发布2026年以来第七篇公开长文，系统阐释A...",
-          "published_at": "2026-03-13T03:16:18"
+          "summary": "数据分析不仅是数字游戏，更是业务理解的深度较量。在用户增长的战场上，如何从海量数据中提炼出真正的价值信号？本文揭秘了一套实战方法论：从问题定位到公式拆解，从AB实验到用户视角表达，教你用闭环思维将数据转化为增长引擎。那些让汇报PPT闪闪发光的技巧，都藏在这8个关键思维里。做用户增长产品经理半年之后，我发现一个挺有意思的事情：很多产品经理其实都会看数据，但真正能把数据讲清楚、讲有价值的人并不多。（包...",
+          "published_at": "2026-03-13T08:05:05"
         },
         {
-          "title": "AI 时代，产品经理该如何重做漏斗分析？",
-          "url": "https://www.woshipm.com/pd/6352436.html",
-          "author": "卡萨丁AI",
+          "title": "PM的效率革命：我的AI工作流完整拆解",
+          "url": "https://www.woshipm.com/pmd/6352505.html",
+          "author": "思敏（AI产品）",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI产品的数据分析逻辑正在经历一场范式革命。传统漏斗模型在确定性产品中行之有效的‘动作即价值’假设，在面对AI产品的概率性输出时彻底失效。本文深度剖析AI漏斗的核心变迁：从关注用户路径转向追踪价值流动，揭示有效任务进入、首次可用结果、中段采纳率等关键指标如何重构产品健康度评估体系。AI 产品并没有取消漏斗分析。它只是把漏斗的重心，从“用户有没有点进来”，改成了“价值有没有稳定发生”。当结果本身是不...",
-          "published_at": "2026-03-13T03:12:23"
+          "summary": "AI产品经理的日常工作中，你是否也陷入了「每次都在教AI认识你」的低效循环？本文作者从个人实战经验出发，揭秘如何通过构建结构化知识库实现AI与人的高效协作。从底层知识基础设施搭建到上层应用场景闭环，一套让AI真正适配你的工作流正在重塑生产力边界。平淡的工作日，老板给了你一个客户的需求，你打开Claude，想让它帮你直接梳理出来并且写一个prd。于是你开始输入：你是一个有5年经验的AI产品经理，擅长...",
+          "published_at": "2026-03-13T07:53:05"
         },
         {
-          "title": "「破山中贼易，破心中贼难」门外汉的AI转型实录",
-          "url": "https://www.woshipm.com/share/6352733.html",
-          "author": "是湘湘呀",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "从\"看到代码就腿软\"到三个月交付首个AI项目合同，一个非技术背景的产品人用行动颠覆\"专业壁垒\"神话。没有报几万块的课，不靠死磕编程，她的秘诀只有三个字：就是用。当AI把门槛降到地板，真正的敌人只剩\"心中贼\"——本文不是成功学鸡汤，而是一套可复制的\"空杯学习法\"，教你如何用AI放大原有专业，在折叠世界里找到属于自己的切口。最近被很多人问，我是怎么开始学习AI的，在熟悉我过往的人看来，我并不是AI专业...",
-          "published_at": "2026-03-13T03:12:15"
-        },
-        {
-          "title": "红杉美国合伙人：10 万亿美元公司即将到来，人们会持续为更高水平的智能付费",
-          "url": "https://www.woshipm.com/share/6352730.html",
+          "title": "a16z 合伙人拆解《Top 100 AI 应用报告》：记忆功能将成为 AI 产品核心优势",
+          "url": "https://www.woshipm.com/ai/6352891.html",
           "author": "有新Newin",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI公司从0到1000万美元ARR只需数月、全球市值冠军逼近5万亿美元时，红杉美国合伙人Alfred Lin却警告：别急着讨论终局，真正的财富藏在\"中局\"。从\"电子商务杀死沃尔玛\"的误判到\"AI颠覆SaaS\"的争议，这位见证过互联网泡沫与独角兽诞生的投资人揭示：护城河正在从代码规模转向智能密度，而创始人唯一需要找到的，是与世界最不同的那个\"尖峰\"。上个月，红杉美国合伙人 Alfred Lin 在...",
-          "published_at": "2026-03-13T03:01:54"
+          "summary": "当ChatGPT周活仅占全球人口10%、AI渗透率仍处早期时，a16z合伙人Olivia Moore揭示了Top 100榜单背后的关键信号：AI正从\"网页提示框\"跃迁为\"环境化能力\"，浏览器、桌面端、办公套件成为新战场；ChatGPT、Claude、Gemini三大模型走向分化——Claude深耕专业工作流，ChatGPT瞄准大众入口，Gemini困于创意工具。近日，a16z 发布了最新的《The...",
+          "published_at": "2026-03-13T07:52:46"
         },
         {
-          "title": "一个被低估的AI Agent核心竞争力",
-          "url": "https://www.woshipm.com/ai/6352728.html",
-          "author": "深思圈",
+          "title": "先做原型，再做产品：一个AI项目的暂停与反思",
+          "url": "https://www.woshipm.com/share/6352880.html",
+          "author": "曙欧巴",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当所有人都在追逐更强大的模型时，顶尖开发者们却在悄悄优化脚手架。实测数据显示：同一模型在不同 harness 下性能可相差一倍，Claude Opus 4.5 从 42% 飙升至 78% 的关键变量并非模型本身。本文深入解析 harness 与 framework 的本质区别，揭示 Progressive Disclosure 等被严重低估的设计模式，以及为何\"给模型删工具\"反而能让任务成功率大幅...",
-          "published_at": "2026-03-13T02:56:00"
+          "summary": "当AI让开发门槛归零，一人公司真正的陷阱从\"做不出来\"变成\"做出来没人要\"。本文作者亲历从\"秒哒直接生成\"到\"先验证再原型后开发\"的认知转变：差点为汽配老板做一个无人问津的AI获客网站，却在真实访谈中发现对方真正关心的是平台流量而非官网门面。核心洞察在于——AI降低的是执行成本，不是判断成本；原型不是形式主义，而是止损工具；暂停项目不代表失败，而是创业者成熟的标志。最近我对“一人公司如何开发应用”...",
+          "published_at": "2026-03-13T07:25:34"
+        },
+        {
+          "title": "a16z：Agent 表现不好，可能是缺乏正确的数据上下文",
+          "url": "https://www.woshipm.com/ai/6352857.html",
+          "author": "赛博禅心",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "市场终于明白了，数据和分析 Agent 要是没有正确的上下文，基本等于摆设。最近在数据和 AI Agent 的圈子里，上下文层和上下文图谱成了一个绕不开的话题。跟任何一个做数据和 AI 的组织聊天，不出五分钟就会聊到上下文这个话题这很正常。过去一年，市场终于想明白一件事：数据和分析 Agent，如果没有正确的上下文，基本上就是废物它们拆不开模糊的问题，读不懂业务定义，也没办法在分散的数据之间有效地...",
+          "published_at": "2026-03-13T06:59:06"
         }
       ]
     },
@@ -357,6 +357,15 @@
           "published_at": null
         },
         {
+          "title": "MoMoney",
+          "url": "https://www.awwwards.com/sites/momoney",
+          "author": "Jordan Gilroy",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Adam Bricker",
           "url": "https://www.awwwards.com/sites/adam-bricker",
           "author": "CUSP",
@@ -418,57 +427,66 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Adovasio",
-          "url": "https://www.awwwards.com/sites/adovasio",
-          "author": "Louis Paquet",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 6,
       "items": [
         {
-          "title": "Astrio",
-          "url": "https://www.producthunt.com/products/astrio-beta",
-          "author": "Nolan Lwin",
+          "title": "Atlasly",
+          "url": "https://www.producthunt.com/products/atlasly",
+          "author": "Deep Nandre",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Modernize your outdated websites in minutes, not weeksDiscussion|Link",
-          "published_at": "2026-03-12T06:59:44"
+          "summary": "Your site did 5 days of research. We did it in 60 seconds.Discussion|Link",
+          "published_at": "2026-03-12T15:23:41"
         },
         {
-          "title": "Grepped",
-          "url": "https://www.producthunt.com/products/grepped",
-          "author": "Erik Newsham",
+          "title": "Brutal Verdict",
+          "url": "https://www.producthunt.com/products/brutal-verdict",
+          "author": "Tushar Bhatt",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Make your vibe coded site actually look niceDiscussion|Link",
-          "published_at": "2026-03-11T23:12:35"
+          "summary": "100% local AI Driven insights of chat messagesDiscussion|Link",
+          "published_at": "2026-03-12T12:18:03"
         },
         {
-          "title": "Sutra",
-          "url": "https://www.producthunt.com/products/sutra-4",
-          "author": "hemant",
+          "title": "Saturn",
+          "url": "https://www.producthunt.com/products/saturn-5",
+          "author": "Takuya Tominaga",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Engineering change on autopilotDiscussion|Link",
-          "published_at": "2026-03-12T03:51:36"
+          "summary": "Turn Japan's public data into an AI-ready spreadsheet WSDiscussion|Link",
+          "published_at": "2026-03-12T07:02:58"
         },
         {
-          "title": "A Bit Differently",
-          "url": "https://www.producthunt.com/products/a-bit-differently",
-          "author": "Cristian Crisan",
+          "title": "GradPipe",
+          "url": "https://www.producthunt.com/products/gradpipe",
+          "author": "Muhammad Peerzada",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "This is Ava, a different kind of ChatGPT.Discussion|Link",
-          "published_at": "2026-03-12T06:56:43"
+          "summary": "Find engineers who never apply by actual github codeDiscussion|Link",
+          "published_at": "2026-03-12T19:39:15"
+        },
+        {
+          "title": "Ask Maps by Google",
+          "url": "https://www.producthunt.com/products/ask-maps-by-google",
+          "author": "Rohan Chaubey",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Ask Maps questions, drive with immersive navigation.Discussion|Link",
+          "published_at": "2026-03-12T12:53:18"
+        },
+        {
+          "title": "Mozzie",
+          "url": "https://www.producthunt.com/products/mozzie",
+          "author": "Zachary",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Codex Claude Gemini CLI parallel agents orchestrationDiscussion|Link",
+          "published_at": "2026-03-12T23:41:10"
         }
       ]
     },
@@ -522,8 +540,8 @@
           "published_at": null
         },
         {
-          "title": "UI设计中的损失厌恶，淘宝如何用红包阻止退款？",
-          "url": "https://www.uisdc.com/hunter/0221662755.html",
+          "title": "为什么豆包要教AI说方言？藏在乡音里的用户体验秘籍",
+          "url": "https://www.uisdc.com/hunter/0221662451.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -537,49 +555,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Designing AI experiences people actually use",
-          "url": "https://buzzusborne.com/writing/designing-ai-for-trust/",
+          "title": "Why AI-generated UX still feels off",
+          "url": "https://www.vandelaydesign.com/ai-ux-feels-off/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "AI doesn’t just add intelligence — it redistributes it. Here’s how that shift can make or break a product.",
-          "published_at": "2026-03-12T09:26:57"
+          "summary": "Human skills in anticipatory design and user flows are crucial to combat the ‘uncanny valley’ of AI UX.",
+          "published_at": "2026-03-13T11:20:49"
         },
         {
-          "title": "Pattern Collider",
-          "url": "https://aatishb.com/patterncollider/?symmetry=10&pattern=0.62&radius=57&zoom=2.47&hue=314&hueRange=91&contrast=30&sat=100",
+          "title": "Cache Monet",
+          "url": "https://cachemonet.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Create and share mathematical tiling patterns.",
-          "published_at": "2026-03-12T09:26:26"
+          "summary": "An exploration into the serendipitous collisions that occur between two randomly generated arrays.",
+          "published_at": "2026-03-13T11:20:20"
         },
         {
-          "title": "Terminal Trove",
-          "url": "https://terminaltrove.com/explore/",
+          "title": "Statistical significance isn’t the same as practical significance",
+          "url": "https://www.nngroup.com/articles/practical-significance/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A comprehensive collection of terminal tools with advanced search and filters.",
-          "published_at": "2026-03-12T09:25:54"
+          "summary": "Determining whether something is worth acting on.",
+          "published_at": "2026-03-13T11:19:52"
         },
         {
-          "title": "The evolution of Mac app window corners",
-          "url": "https://lapcatsoftware.com/articles/2026/3/4.html",
+          "title": "European Tech Map",
+          "url": "https://europeantechmap.eu/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Is “a softer feel and elegant concentricity” a nonsense?",
-          "published_at": "2026-03-12T09:25:18"
+          "summary": "Find European tech, software, and service alternatives that respect your data sovereignty, are built with GDPR in mind, and store data in Europe.",
+          "published_at": "2026-03-13T11:18:25"
         },
         {
-          "title": "Anatomy of a CSS phone mockup",
-          "url": "https://www.conor.fyi/writing/anatomy-of-a-css-phone-mockup",
+          "title": "New habits for tech writers in the age of LLMs",
+          "url": "https://passo.uno/new-habits-tech-writers-ai-age/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A step-by-step walkthrough of how a realistic iPhone frame is built from scratch.",
-          "published_at": "2026-03-12T09:23:57"
+          "summary": "Any LLM can put together plausible docs with some context and a simple prompt.",
+          "published_at": "2026-03-13T11:17:55"
         }
       ]
     },
@@ -603,6 +621,42 @@
       "count": 6,
       "items": [
         {
+          "title": "本周看什么 | 最近值得一看的 9 部作品",
+          "url": "https://sspai.com/post/107183",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "📅本周新预告《异兽魔都第二季》正式预告3月8日，动画剧集《异兽魔都第二季》发布了正式预告，将于4月1日上线流媒体平台。本作改编自林田球的同名漫画，林祐一郎执导，濑古浩司编剧，MAPPA制作，讲述头部变 ...查看全文",
+          "published_at": "2026-03-13T10:05:46"
+        },
+        {
+          "title": "探访帝国之心，吴哥旅行完全指南（上） ：行程设计",
+          "url": "https://sspai.com/post/106816",
+          "author": "鸿苓",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "2026 年的第一场旅行，我把目的地交给了暹粒，突然理解了为什么法国人会说「即使是古希腊和古罗马遗迹，在吴哥窟面前也要黯然失色。」查看全文",
+          "published_at": "2026-03-13T08:00:00"
+        },
+        {
+          "title": "年度征文｜看见并打开我和我妈之间的那扇门",
+          "url": "https://sspai.com/post/106709",
+          "author": "十七",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "对我来说，我不想再把和我妈的矛盾扯到「原生家庭」上，然后画上一个句号。它应该是一个逗号，后面还可以接着写，咋写由我们决定。查看全文",
+          "published_at": "2026-03-13T05:54:51"
+        },
+        {
+          "title": "一日一技｜在镜头前翻翻页，你就得到了一本电子书",
+          "url": "https://sspai.com/post/106935",
+          "author": "单宁酸也是Cecil",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "这件事又一次提醒了我，我真正感兴趣的也许不是「如何把纸质书变成电子书」这件事本身，而是「我们到底应该把哪一步交给机器」。查看全文",
+          "published_at": "2026-03-13T03:00:00"
+        },
+        {
           "title": "314 周年庆：少数派软件、会员、栏目限时优惠",
           "url": "https://sspai.com/post/107091",
           "author": "福利派",
@@ -619,42 +673,6 @@
           "source": "少数派",
           "summary": "三星调整 Galaxy 设备的底层刷机机制等，PEGI 将从 6 月起调整游戏年龄分级规则。查看全文",
           "published_at": "2026-03-13T00:46:23"
-        },
-        {
-          "title": "年度征文｜效率之外，创作的重量",
-          "url": "https://sspai.com/post/106746",
-          "author": "车不能快",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "但真正需要警惕的，并不是偏见本身，而是我们误以为自己可以写出没有立场的文字，创作者，必须为自己的判断负责。查看全文",
-          "published_at": "2026-03-12T09:26:44"
-        },
-        {
-          "title": "Notion 年度更新评测：7 个案例聊聊 Custom Agent",
-          "url": "https://sspai.com/post/106982",
-          "author": "二一的笔记",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "等你尝到第一口甜头，后面的流程自然会一点点长出来。查看全文",
-          "published_at": "2026-03-12T07:00:00"
-        },
-        {
-          "title": "年度征文｜Vibe Research：社会科学的第一次 AI 危机？",
-          "url": "https://sspai.com/post/106919",
-          "author": "TomBen",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "编者按：本文是少数派2025年度征文活动#TeamSilicon25标签下的入围文章。本文仅代表作者本人观点，少数派只略微调整排版。今年的征文活动更有创意，「只能用AI」和「不能用AI」两大赛道激情P ...查看全文",
-          "published_at": "2026-03-12T03:23:19"
-        },
-        {
-          "title": "派早报：Google 发布 Gemini Embedding 2 模型等",
-          "url": "https://sspai.com/post/107110",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "联发科发布多个 IoT SoC 平台、ComfyUI 支持 App 化工作流等。查看全文",
-          "published_at": "2026-03-12T00:41:44"
         }
       ]
     }
