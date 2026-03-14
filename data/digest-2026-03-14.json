@@ -1,28 +1,37 @@
 {
   "date": "2026-03-14T00:00:00",
-  "total_items": 63,
+  "total_items": 62,
   "sources": [
-    "A List Apart",
-    "Smashing Magazine",
-    "人人都是产品经理",
-    "Product Hunt",
-    "Sidebar",
-    "CSS-Tricks",
-    "Awwwards",
-    "UX Design CC",
     "UX Planet",
-    "少数派",
+    "Awwwards",
     "NN/g (Nielsen Norman Group)",
-    "Intercom Blog",
     "Design Milk",
-    "优设网"
+    "A List Apart",
+    "Product Hunt",
+    "优设网",
+    "UX Design CC",
+    "Sidebar",
+    "人人都是产品经理",
+    "CSS-Tricks",
+    "Intercom Blog",
+    "Smashing Magazine",
+    "少数派"
   ],
-  "generated_at": "2026-03-14T02:26:59.032861",
+  "generated_at": "2026-03-14T13:01:18.694461",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 6,
+      "count": 7,
       "items": [
+        {
+          "title": "Reliability is the currency of opportunity in the age of AI",
+          "url": "https://uxdesign.cc/reliability-is-the-currency-of-opportunity-in-the-age-of-ai-28faf901bb1b?source=rss----138adf9c44c---4",
+          "author": "Michael Buckley",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "As technology lowers the barrier to producing work, reliability becomes the trait that determines who gets recommended and ultimately hired.Image source: Adobe StockThe job market can feel uncertain, ...",
+          "published_at": "2026-03-14T10:17:58"
+        },
         {
           "title": "Fried",
           "url": "https://uxdesign.cc/fried-ce8bf302af8f?source=rss----138adf9c44c---4",
@@ -33,7 +42,7 @@
           "published_at": "2026-03-13T21:47:51"
         },
         {
-          "title": "The hidden cost of AI design tools - What we’re outsourcing without noticing",
+          "title": "The hidden cost of AI design tools: what we’re outsourcing without noticing",
           "url": "https://uxdesign.cc/the-hidden-cost-of-ai-design-tools-what-were-outsourcing-without-noticing-9057db75aaf9?source=rss----138adf9c44c---4",
           "author": "Andy Bhattacharyya",
           "category": "用户体验设计",
@@ -207,49 +216,49 @@
           "published_at": "2026-03-12T17:53:40"
         },
         {
-          "title": "做了半年用户增长产品经理，我总结了一套数据分析和项目汇报的方法",
-          "url": "https://www.woshipm.com/share/6352339.html",
-          "author": "是个游子",
+          "title": "产品经理从0到1搭建个人数字分身：RAG落地全复盘与检索优化避坑指南",
+          "url": "https://www.woshipm.com/ai/6352915.html",
+          "author": "起风了。",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "数据分析不仅是数字游戏，更是业务理解的深度较量。在用户增长的战场上，如何从海量数据中提炼出真正的价值信号？本文揭秘了一套实战方法论：从问题定位到公式拆解，从AB实验到用户视角表达，教你用闭环思维将数据转化为增长引擎。那些让汇报PPT闪闪发光的技巧，都藏在这8个关键思维里。做用户增长产品经理半年之后，我发现一个挺有意思的事情：很多产品经理其实都会看数据，但真正能把数据讲清楚、讲有价值的人并不多。（包...",
-          "published_at": "2026-03-13T08:05:05"
+          "summary": "个人数字分身正成为产品经理展示专业能力的全新方式。本文通过实战复盘，揭秘如何用RAG技术栈从零搭建高度可信的AI分身，重点剖析检索优化、模型选型等关键环节的六大踩坑实录，提供一套可复用的垂直领域知识库治理方法论。作为一名产品经理，我一直想搭建一个属于自己的个人数字分身——它能100%基于我的真实经历、项目经验和个人观点回答问题，既是我个人品牌的线上延伸载体，也能让访客、面试官、同行通过对话快速、精...",
+          "published_at": "2026-03-14T09:15:56"
         },
         {
-          "title": "PM的效率革命：我的AI工作流完整拆解",
-          "url": "https://www.woshipm.com/pmd/6352505.html",
-          "author": "思敏（AI产品）",
+          "title": "二手车汽车金融行业现状与风控产品经理的能力边界",
+          "url": "https://www.woshipm.com/pmd/6352932.html",
+          "author": "风控打怪升级",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI产品经理的日常工作中，你是否也陷入了「每次都在教AI认识你」的低效循环？本文作者从个人实战经验出发，揭秘如何通过构建结构化知识库实现AI与人的高效协作。从底层知识基础设施搭建到上层应用场景闭环，一套让AI真正适配你的工作流正在重塑生产力边界。平淡的工作日，老板给了你一个客户的需求，你打开Claude，想让它帮你直接梳理出来并且写一个prd。于是你开始输入：你是一个有5年经验的AI产品经理，擅长...",
-          "published_at": "2026-03-13T07:53:05"
+          "summary": "中国二手车金融市场正迎来万亿级规模与高风险的成长期，渗透率提升与新能源冲击重塑行业格局。本文深度剖析二手车金融的三大核心能力构建——动态残值预测、全周期智能风控及车商利益分配机制，揭示风控产品经理如何在金融本质与科技赋能间搭建关键桥梁，面对行业变革找准能力边界。做汽车金融行业风控产品经理时间久了，除了每天收集需求、研究竞品、需求评审、项目管理之余，开始思考做的产品到底有什么意义，在社会整体系统中，...",
+          "published_at": "2026-03-14T08:14:25"
         },
         {
-          "title": "a16z 合伙人拆解《Top 100 AI 应用报告》：记忆功能将成为 AI 产品核心优势",
-          "url": "https://www.woshipm.com/ai/6352891.html",
-          "author": "有新Newin",
+          "title": "巨头重仓、央企入局：AI Agent 如何重塑下一代操作系统的“超级入口”？",
+          "url": "https://www.woshipm.com/ai/6352829.html",
+          "author": "Sail1993",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当ChatGPT周活仅占全球人口10%、AI渗透率仍处早期时，a16z合伙人Olivia Moore揭示了Top 100榜单背后的关键信号：AI正从\"网页提示框\"跃迁为\"环境化能力\"，浏览器、桌面端、办公套件成为新战场；ChatGPT、Claude、Gemini三大模型走向分化——Claude深耕专业工作流，ChatGPT瞄准大众入口，Gemini困于创意工具。近日，a16z 发布了最新的《The...",
-          "published_at": "2026-03-13T07:52:46"
+          "summary": "AI Agent技术正在重塑互联网底层架构，从OpenClaw到巨头布局，这场语言界面革命不仅跨越应用孤岛，更在B端掀起数据主权与自动化浪潮。本文将深度解析AI Agent如何挑战操作系统霸权，以及企业级市场如何成为这场技术革命的试验田。近期，以 OpenClaw（业内常代称为“龙虾”）为代表的 AI Agent（人工智能代理）技术正在引发一场深刻的行业共振。从腾讯等头部互联网巨头释放的战略级信号...",
+          "published_at": "2026-03-14T06:39:15"
         },
         {
-          "title": "先做原型，再做产品：一个AI项目的暂停与反思",
-          "url": "https://www.woshipm.com/share/6352880.html",
-          "author": "曙欧巴",
+          "title": "“蹲下来”的服务，才有溢价权",
+          "url": "https://www.woshipm.com/share/6352815.html",
+          "author": "林卿LinQ.",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI让开发门槛归零，一人公司真正的陷阱从\"做不出来\"变成\"做出来没人要\"。本文作者亲历从\"秒哒直接生成\"到\"先验证再原型后开发\"的认知转变：差点为汽配老板做一个无人问津的AI获客网站，却在真实访谈中发现对方真正关心的是平台流量而非官网门面。核心洞察在于——AI降低的是执行成本，不是判断成本；原型不是形式主义，而是止损工具；暂停项目不代表失败，而是创业者成熟的标志。最近我对“一人公司如何开发应用”...",
-          "published_at": "2026-03-13T07:25:34"
+          "summary": "一家不起眼的小酒馆为何能让顾客心甘情愿为溢价买单？从服务员蹲下点单的细节，到主动询问拍照需求的设计，再到洗手间里的进口漱口水，SEMMERING用一连串超出预期的触点体验，诠释了情绪经济时代品牌如何通过“懂我”建立深层链接。本文深度拆解消费逻辑的微妙变化，揭示产品功能与情绪价值的本质差异。年前在成都出差的时候，和朋友一起去了一家小酒馆，叫SEMMERING。说实话，刚进门的时候，我没抱太大期待，环...",
+          "published_at": "2026-03-14T05:36:18"
         },
         {
-          "title": "a16z：Agent 表现不好，可能是缺乏正确的数据上下文",
-          "url": "https://www.woshipm.com/ai/6352857.html",
-          "author": "赛博禅心",
+          "title": "​中年人拼命拥抱龙虾的背后，是对技术迭代的恐慌",
+          "url": "https://www.woshipm.com/ai/6353023.html",
+          "author": "道总有理",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "市场终于明白了，数据和分析 Agent 要是没有正确的上下文，基本等于摆设。最近在数据和 AI Agent 的圈子里，上下文层和上下文图谱成了一个绕不开的话题。跟任何一个做数据和 AI 的组织聊天，不出五分钟就会聊到上下文这个话题这很正常。过去一年，市场终于想明白一件事：数据和分析 Agent，如果没有正确的上下文，基本上就是废物它们拆不开模糊的问题，读不懂业务定义，也没办法在分散的数据之间有效地...",
-          "published_at": "2026-03-13T06:59:06"
+          "summary": "一场由‘龙虾’引发的AI狂热正在撕裂职场生态。从深圳写字楼排队安装到闲鱼交易量暴增1850%，这只赛博生物不仅掏空中年人钱包，更折射出AI时代最尖锐的生存焦虑。《2025职场AI应用趋势报告》揭示：62.5%的80后将AI视为职业威胁，而‘每月3万养虾费’与‘299元卸载服务’形成的荒诞闭环，正成为技术迭代下的新型社会症候。开年第一件大事，与一只全球刷屏的龙虾息息相关。自深圳腾讯大楼排队安装龙虾、...",
+          "published_at": "2026-03-14T05:24:08"
         }
       ]
     },
@@ -330,6 +339,15 @@
           "published_at": null
         },
         {
+          "title": "Planetoño",
+          "url": "https://www.awwwards.com/sites/planetono",
+          "author": "Tubik",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "MoMoney",
           "url": "https://www.awwwards.com/sites/momoney",
           "author": "Jordan Gilroy",
@@ -391,66 +409,39 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Griflan",
-          "url": "https://www.awwwards.com/sites/griflan-2",
-          "author": "Griflan",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 3,
       "items": [
         {
-          "title": "Brutal Verdict",
-          "url": "https://www.producthunt.com/products/brutal-verdict",
-          "author": "Tushar Bhatt",
+          "title": "Docket",
+          "url": "https://www.producthunt.com/products/docket-4",
+          "author": "Vadim Drobinin",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "100% local AI Driven insights of chat messagesDiscussion|Link",
-          "published_at": "2026-03-12T12:18:03"
+          "summary": "Like Jira but for indie devs and AI agentsDiscussion|Link",
+          "published_at": "2026-03-14T00:55:35"
         },
         {
-          "title": "ClawMote",
-          "url": "https://www.producthunt.com/products/clawmote-one-hand-openclaw-wispr-flow",
-          "author": "Bryan Lee",
+          "title": "Lingofable",
+          "url": "https://www.producthunt.com/products/lingofable",
+          "author": "Megan Yap",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "One-hand OpenClaw control via voiceDiscussion|Link",
-          "published_at": "2026-03-12T20:43:36"
+          "summary": "Language learning, one story at a timeDiscussion|Link",
+          "published_at": "2026-03-13T21:21:26"
         },
         {
-          "title": "WPCursor",
-          "url": "https://www.producthunt.com/products/wpcursor",
-          "author": "Shahmir Khan",
+          "title": "Tellus",
+          "url": "https://www.producthunt.com/products/tellus-3",
+          "author": "Nick Zieber",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Build complete WordPress sites through AI conversationDiscussion|Link",
-          "published_at": "2026-03-13T02:53:18"
-        },
-        {
-          "title": "Hyper",
-          "url": "https://www.producthunt.com/products/hyper-10",
-          "author": "Shalin Shah",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Perfect memory for every real-world conversationDiscussion|Link",
-          "published_at": "2026-03-12T22:11:21"
-        },
-        {
-          "title": "Mozzie",
-          "url": "https://www.producthunt.com/products/mozzie",
-          "author": "Zachary",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Codex Claude Gemini CLI parallel agents orchestrationDiscussion|Link",
-          "published_at": "2026-03-12T23:41:10"
+          "summary": "Grandpa’s stories, preserved for his grandkidsDiscussion|Link",
+          "published_at": "2026-03-14T05:37:18"
         }
       ]
     },
@@ -460,7 +451,7 @@
       "items": [
         {
           "title": "AI画图不用等！超多案例实测Nano Banana 2",
-          "url": "https://www.uisdc.com/__trashed",
+          "url": "https://www.uisdc.com/nano-banana-11",
           "author": "",
           "category": "设计教程",
           "source": "优设网",
@@ -585,6 +576,24 @@
       "count": 6,
       "items": [
         {
+          "title": "年度征文｜减了肥，人生就会变好吗？",
+          "url": "https://sspai.com/post/106785",
+          "author": "知道分子吴先先",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "编者按：本文是少数派2025年度征文活动#TeamCarbon25标签下的入围文章。本文仅代表作者本人观点，少数派只略微调整排版。今年的征文活动更有创意，「只能用AI」和「不能用AI」两大赛道激情PK ...查看全文",
+          "published_at": "2026-03-14T07:06:24"
+        },
+        {
+          "title": "免费试读 | 日本温泉完全指南：如何找、怎么泡、泡哪里？",
+          "url": "https://sspai.com/post/103326",
+          "author": "SIMON_",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "[......]查看全文本文为付费栏目文章，出自《日本全境漫游计划》，订阅后可阅读全文。",
+          "published_at": "2026-03-14T02:29:46"
+        },
+        {
           "title": "Sonos 周年团购限时开启：专属好价仅限今日",
           "url": "https://sspai.com/post/107134",
           "author": "什么陈",
@@ -619,24 +628,6 @@
           "source": "少数派",
           "summary": "对我来说，我不想再把和我妈的矛盾扯到「原生家庭」上，然后画上一个句号。它应该是一个逗号，后面还可以接着写，咋写由我们决定。查看全文",
           "published_at": "2026-03-13T05:54:51"
-        },
-        {
-          "title": "一日一技｜在镜头前翻翻页，你就得到了一本电子书",
-          "url": "https://sspai.com/post/106935",
-          "author": "单宁酸也是Cecil",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "这件事又一次提醒了我，我真正感兴趣的也许不是「如何把纸质书变成电子书」这件事本身，而是「我们到底应该把哪一步交给机器」。查看全文",
-          "published_at": "2026-03-13T03:00:00"
-        },
-        {
-          "title": "314 周年庆：少数派软件、会员、栏目限时优惠",
-          "url": "https://sspai.com/post/107091",
-          "author": "福利派",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "少数派即将迎来14周岁，为了与大家共同庆祝我派的生日，我们的软件商城、会员服务和付费栏目都为大家准备了丰厚的优惠。少数派会员：优惠价格享受全新权益为了让更多朋友能体验少数派会员，即日起至3月24日，少 ...查看全文",
-          "published_at": "2026-03-13T02:05:52"
         }
       ]
     }
