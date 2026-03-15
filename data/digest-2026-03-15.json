@@ -1,22 +1,22 @@
 {
   "date": "2026-03-15T00:00:00",
-  "total_items": 61,
+  "total_items": 63,
   "sources": [
-    "A List Apart",
-    "Intercom Blog",
-    "少数派",
-    "UX Design CC",
-    "Design Milk",
-    "Sidebar",
-    "人人都是产品经理",
-    "UX Planet",
-    "Awwwards",
     "NN/g (Nielsen Norman Group)",
-    "优设网",
+    "少数派",
+    "Design Milk",
     "Product Hunt",
+    "UX Planet",
+    "优设网",
+    "Sidebar",
+    "Intercom Blog",
+    "UX Design CC",
+    "人人都是产品经理",
+    "A List Apart",
+    "Awwwards",
     "Smashing Magazine"
   ],
-  "generated_at": "2026-03-15T02:47:08.652780",
+  "generated_at": "2026-03-15T13:02:07.162358",
   "categories": [
     {
       "category": "用户体验设计",
@@ -215,49 +215,49 @@
           "published_at": "2026-03-12T17:53:40"
         },
         {
-          "title": "库存管理：门店50家、预售3000单、退货率40%——库存系统的进阶修罗场",
-          "url": "https://www.woshipm.com/share/6353138.html",
-          "author": "Zoe产品手记",
+          "title": "别让你的产品，死在用户的“看不见”里",
+          "url": "https://www.woshipm.com/operate/6353384.html",
+          "author": "林卿LinQ.",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "这是「电商产品能力拆解」系列的第4篇（下篇）。上篇讲了库存管理的基础体系——公式怎么算、渠道怎么分、预占怎么做、超卖怎么防。这一篇讲进阶场景：当品牌X 开了50家门店、做了预售活动、遇到退货潮、最终走向全渠道一盘货和大促备战时，库存系统面临的全新挑战。上篇搞定了超卖，这篇搞定”效率”上篇结尾，小王交出了超卖0单的成绩单。老板很满意，紧接着丢来新任务：“品牌X 要开50家线下门店，库存系统你来对接。...",
-          "published_at": "2026-03-15T02:28:25"
+          "summary": "在商业竞争中，产品再好也可能被用户忽视，关键在于是否进入用户的认知清单。本文从小红书运营的角度，深入剖析了“可见性”的三个层次：物理可见、认知可见和搜索可见，并结合真实案例，揭示了如何让用户真正“看见”你的产品。从信息流曝光到心智占领，再到主动搜索，每一步都是品牌突围的关键。之前每次跟产品/供应链出身的品牌商家聊天，都会聊到同一个问题：“我的产品这么好，为什么用户不选？”说实话，不是用户不选，而是...",
+          "published_at": "2026-03-15T08:30:52"
         },
         {
-          "title": "我做了一次完整的用户调研，总结出一套可复用的方法论",
-          "url": "https://www.woshipm.com/share/6353006.html",
-          "author": "是个游子",
+          "title": "一个安全专家养虾5天后的忠告",
+          "url": "https://www.woshipm.com/ai/6353055.html",
+          "author": "涌现观察",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "用户调研常常沦为形式，却鲜少能真正指导产品决策。本文揭秘一套从模糊感知到产品落地的结构化方法论，通过内部走查、消费决策复盘等关键步骤，教你如何将用户行为洞察转化为可执行的内容标准，破解\"信息过载却仍缺可信内容\"的核心痛点。之前自己收搓小功能的时候用户调研会做的比较简陋，多都是请身边亲友提问题，我在一个一个解决，对反馈的思考也很吃感觉。到自己第一次为一款DUA百万的产品做用户调研的时候积累了一套很体...",
-          "published_at": "2026-03-15T02:01:39"
+          "summary": "全民养虾热潮中隐藏的安全隐患正引发广泛关注。从文件误删到密钥泄露，OpenClaw生态下的风险案例层出不穷。腾讯安全专家李滨通过5天实测，揭示了权限管理、Prompt注入、Skill审查等四大安全陷阱，并带来了一套覆盖个人到企业的四层防护方案。在这场AI代理的狂欢中，如何平衡效率与安全，成为每个'养虾人'的必修课。“养虾”正以前所未有的速度穿透中国的各个圈层。社交媒体上，许多人在晒自己的虾会干什么...",
+          "published_at": "2026-03-15T06:36:49"
         },
         {
-          "title": "(两会)扫码入企全国推行：329万用户的政务产品，如何用设计重构政企交互？",
-          "url": "https://www.woshipm.com/ucd/6353021.html",
-          "author": "噜噜猫",
+          "title": "当AI能复刻一切，人的价值藏在哪里？——2026年最值得想清楚的一件事",
+          "url": "https://www.woshipm.com/ai/6353262.html",
+          "author": "大仙河",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "一个二维码，不仅让涉企检查频次普降三成，更在一年内为企业挽回经济损失近300亿元。这不是科幻片，而是正在发生的政府数字化转型变革。3月12日的全国人大四次会议“部长通道”上，司法部部长贺荣的一句话，让政务数字化领域的产品经理们集体沸腾——“今年将在全国统一推行行政检查‘扫码入企’”。这不是一个凭空诞生的“新功能”。在此之前，深圳、甘肃、上海等多地的试点数据早已给出答案：全国行政检查总量普降33%，...",
-          "published_at": "2026-03-15T01:24:31"
+          "summary": "AI正在改写一切轻资产的游戏规则，华尔街却悄悄押注农田电网——这场价值迁移背后藏着HALO框架的深层逻辑。当AI能以零成本复刻代码与设计时，物理世界的'重'与人心深处的'真'正在成为新的稀缺品。本文带你穿透技术泡沫，看清AI永远无法翻越的两堵墙，以及普通人该如何在算法时代构筑不可替代的护城河。我想从一个反常识的观察开始。2025年，全球AI投资超过三千亿美元。与此同时，华尔街最聪明的一批对冲基金，...",
+          "published_at": "2026-03-15T04:29:50"
         },
         {
-          "title": "当AI学会写作，人类开始互相怀疑",
-          "url": "https://www.woshipm.com/ai/6352961.html",
-          "author": "高恒说",
+          "title": "历史正在OpenClaw重演：从“刷机时代”的狂欢，到AI时代下一个“小米”的诞生，有人已经开始吃螃蟹了！",
+          "url": "https://www.woshipm.com/ai/6353026.html",
+          "author": "XYKing",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI写作的普及正在重塑创作生态，人类创作者陷入前所未有的尴尬境地——写得不好是水平问题，写得太好却被质疑是AI代笔。这种‘默认怀疑’的氛围正在形成新的创作焦虑，背后折射的是内容生产中效率与真实性的深刻矛盾。本文将揭示AI如何改变创作信任机制，以及创作者如何在技术浪潮中重新定义自身价值。很多创作者这两年都遇到过一件越来越荒诞的事。辛辛苦苦写完一篇文章，查资料、改结构、反复打磨，结果发出去之后，评论区...",
-          "published_at": "2026-03-15T00:57:36"
+          "summary": "OpenClaw正如2010年的“安卓刷机时代”，其“权限裸奔”虽令大厂恐惧，却赋予AI极致行动力。正如MIUI封装了安卓的混乱，Qclaw龙虾管家通过安全封装将技术毛坯房变小白精装房。混乱即阶梯，谁能驯化风险，谁就是AI时代下个“小米”。别做看客，去当开拓者！“当你把家里的钥匙、银行卡密码、甚至改写你人生档案的权力，全部打包塞给一个有5%概率会精神分裂的超级天才时，你是激动，还是恐惧？”这不仅是...",
+          "published_at": "2026-03-15T04:24:34"
         },
         {
-          "title": "AI医疗问答项目系列之知识库设计分支-医疗数据清洗",
-          "url": "https://www.woshipm.com/ai/3457773.html",
-          "author": "而立与拾遗",
+          "title": "解构“五步走”：2026 年 AI 进化的多维真相",
+          "url": "https://www.woshipm.com/ai/6347389.html",
+          "author": "酸奶AIGC",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "医疗问答知识库的建设绝非简单的技术堆砌，而是需要在合规性、准确性与可用性之间寻找精妙平衡。本文将深度拆解医疗场景专属的数据清洗7步流程与5种安全增强方案，揭秘如何在不触碰诊断/用药等红线的前提下，构建既权威可靠又高效检索的知识库体系。医疗问答知识库：数据清洗+数据增强 完整落地方案（全程贴合医疗场景「合规、准确、无推理、可审核」核心原则，无通用场景的风险操作，面试能详细讲、落地能直接执行）核心前置...",
-          "published_at": "2026-03-15T00:26:18"
+          "summary": "AI进化的线性逻辑正在被现实打破。从字节Seedance 2.0的视频原生生成到Kimi 2.5的智能体集群协作，2026年的AI发展呈现出跨越式创新。本文通过多个案例揭示：AI不需要遵循OpenAI预设的'五步走'路线，场景驱动的创造力正在重塑智能进化的游戏规则。一、序言：被定义的“进度条”就在两三年前，OpenAI 抛出的“五步走”路线图（从 Chatbots 到 Organizations）...",
+          "published_at": "2026-03-15T03:31:58"
         }
       ]
     },
@@ -338,6 +338,15 @@
           "published_at": null
         },
         {
+          "title": "Foudre, Human Social Club",
+          "url": "https://www.awwwards.com/sites/foudre-human-social-club",
+          "author": "Troa",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Planetoño",
           "url": "https://www.awwwards.com/sites/planetono",
           "author": "Tubik",
@@ -399,48 +408,57 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Waabi",
-          "url": "https://www.awwwards.com/sites/waabi",
-          "author": "Antinomy Studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 5,
       "items": [
         {
-          "title": "Docket",
-          "url": "https://www.producthunt.com/products/docket-4",
-          "author": "Vadim Drobinin",
+          "title": "DynamicLake",
+          "url": "https://www.producthunt.com/products/dynamiclake",
+          "author": "Avior",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Like Jira but for indie devs and AI agentsDiscussion|Link",
-          "published_at": "2026-03-14T00:55:35"
+          "summary": "Dynamic Island experience for Mac with apps & notificationsDiscussion|Link",
+          "published_at": "2026-03-13T09:58:01"
         },
         {
-          "title": "Startup Archive",
-          "url": "https://www.producthunt.com/products/startup-archive-2",
-          "author": "#ariel",
+          "title": "LaterAI",
+          "url": "https://www.producthunt.com/products/laterai-save-read-listen",
+          "author": "Worathiti Pung",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Stop burning money keeping your startup onlineDiscussion|Link",
-          "published_at": "2026-03-13T02:18:52"
+          "summary": "AI-powered reading, 100% on your deviceDiscussion|Link",
+          "published_at": "2026-03-14T11:02:09"
         },
         {
-          "title": "Lingofable",
-          "url": "https://www.producthunt.com/products/lingofable",
-          "author": "Megan Yap",
+          "title": "Morgen",
+          "url": "https://www.producthunt.com/products/morgen-2",
+          "author": "Robbie Conceptuel",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Language learning, one story at a timeDiscussion|Link",
-          "published_at": "2026-03-13T21:21:26"
+          "summary": "Your entire morning in one tab.Discussion|Link",
+          "published_at": "2026-03-14T21:42:02"
+        },
+        {
+          "title": "Cal.com Agents",
+          "url": "https://www.producthunt.com/products/cal",
+          "author": "Peer Richelsen",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "AI Agents coming to the best scheduling toolDiscussion|Link",
+          "published_at": "2026-03-13T20:35:17"
+        },
+        {
+          "title": "ByteRover Memory System for OpenClaw",
+          "url": "https://www.producthunt.com/products/byterover",
+          "author": "Chi Nguyen",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "File-based memory for OpenClaw with >92% retrieval accuracyDiscussion|Link",
+          "published_at": "2026-03-14T14:00:29"
         }
       ]
     },
@@ -494,9 +512,9 @@
           "published_at": null
         },
         {
-          "title": "协作办公效率神器，Vimeo视频右键复制时间戳功能真的太好用了！",
-          "url": "https://www.uisdc.com/hunter/0221663043.html",
-          "author": "张老三",
+          "title": "终于能无痛替换3D字体了，星流AI中文字体替换太惊艳",
+          "url": "https://www.uisdc.com/hunter/0221662733.html",
+          "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
           "summary": null,
@@ -560,6 +578,15 @@
       "count": 6,
       "items": [
         {
+          "title": "今夜，大模型从世界消散",
+          "url": "https://sspai.com/post/106939",
+          "author": "攸羚",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "从顺行性遗忘症看 LLM 的上下文机制。查看全文",
+          "published_at": "2026-03-15T02:38:39"
+        },
+        {
           "title": "年度征文｜减了肥，人生就会变好吗？",
           "url": "https://sspai.com/post/106785",
           "author": "知道分子吴先先",
@@ -603,15 +630,6 @@
           "source": "少数派",
           "summary": "2026 年的第一场旅行，我把目的地交给了暹粒，突然理解了为什么法国人会说「即使是古希腊和古罗马遗迹，在吴哥窟面前也要黯然失色。」查看全文",
           "published_at": "2026-03-13T08:00:00"
-        },
-        {
-          "title": "年度征文｜看见并打开我和我妈之间的那扇门",
-          "url": "https://sspai.com/post/106709",
-          "author": "十七",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "对我来说，我不想再把和我妈的矛盾扯到「原生家庭」上，然后画上一个句号。它应该是一个逗号，后面还可以接着写，咋写由我们决定。查看全文",
-          "published_at": "2026-03-13T05:54:51"
         }
       ]
     }
