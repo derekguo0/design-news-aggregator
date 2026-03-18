@@ -1,22 +1,22 @@
 {
   "date": "2026-03-18T00:00:00",
-  "total_items": 67,
+  "total_items": 66,
   "sources": [
-    "UX Planet",
-    "NN/g (Nielsen Norman Group)",
+    "Awwwards",
     "Product Hunt",
+    "NN/g (Nielsen Norman Group)",
+    "优设网",
+    "Sidebar",
+    "UX Design CC",
+    "CSS-Tricks",
+    "少数派",
+    "Design Milk",
+    "UX Planet",
     "人人都是产品经理",
     "Smashing Magazine",
-    "Sidebar",
-    "Design Milk",
-    "CSS-Tricks",
-    "Awwwards",
-    "少数派",
-    "A List Apart",
-    "UX Design CC",
-    "优设网"
+    "A List Apart"
   ],
-  "generated_at": "2026-03-18T02:36:54.967263",
+  "generated_at": "2026-03-18T13:22:07.376775",
   "categories": [
     {
       "category": "用户体验设计",
@@ -188,6 +188,15 @@
       "count": 11,
       "items": [
         {
+          "title": "The Future Perfect’s Refreshed Goldwyn Guest House in L.A. is Awash in New Designs",
+          "url": "https://design-milk.com/the-future-perfects-refreshed-goldwyn-guest-house-in-l-a-is-awash-in-new-designs/",
+          "author": "Adrian Madlener",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "From a just debuted Lindsey Adelman lighting collection to maximalist outdoor furnishings by Bethan Lauren Wood, this expansive gallery outpost is brimming with fresh takes on color, texture, and comp...",
+          "published_at": "2026-03-18T13:00:42"
+        },
+        {
           "title": "Vanilla Swirl Creates A Depth of Flavor in Navi Mumbai",
           "url": "https://design-milk.com/vanilla-swirl-creates-a-depth-of-flavor-in-navi-mumbai/",
           "author": "Aria Lee",
@@ -233,58 +242,49 @@
           "published_at": "2026-03-16T14:00:42"
         },
         {
-          "title": "Crisalide by Draga & Aurel Presents New Depths Within Glass",
-          "url": "https://design-milk.com/crisalide-by-draga-aurel-presents-new-depths-within-glass/",
-          "author": "Aria Lee",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Dive in to the new lighting collection from Draga & Aurel with Todd Merrill Studio, hand-wrought glass gestures frozen in space.",
-          "published_at": "2026-03-16T13:00:40"
-        },
-        {
-          "title": "抖音为什么用”上滑”而不是”点击”？",
-          "url": "https://www.woshipm.com/pd/6357679.html",
-          "author": "跟着华子学Ai",
+          "title": "1.2 万字拆解 NotebookLM：如何用 AI打造你的知识树？",
+          "url": "https://www.woshipm.com/ai/6358211.html",
+          "author": "廖尔摩斯丨设计大侦探",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "为什么抖音选择上滑切换而非点击播放？这背后藏着两种截然不同的产品逻辑。上滑设计将用户决策成本降至趋零，用算法驱动的无限流制造沉浸体验，而点击模式则保留了用户的选择权。本文将深度拆解这两种交互方式背后的心理学原理、商业考量及内容生态影响，揭示短视频巨头们的核心设计哲学。一、先说答案：两种操作方式，两种完全不同的思路很多人第一次被问到这个问题，会本能地回答”因为上滑更方便”。但”方便”只是表面，背后其...",
-          "published_at": "2026-03-18T02:06:36"
+          "summary": "Google的NotebookLM正在重新定义AI助手的边界。这款研究工具通过RAG技术构建专属知识库，不仅能将多模态资料转化为思维导图和PPT，还能一键生成播客级音频和结构化视频。从技术解析到场景应用，本文将带你深度体验这款AI搭档如何改变知识工作者的信息处理方式。今天和大家分享的是我最近正在深度使用的产品——Google 旗下的 NotebookLM。希望你能从这篇产品体验分析中有所收获。如果...",
+          "published_at": "2026-03-18T08:50:29"
         },
         {
-          "title": "新手 PM “野路子”起飞指南：懂理论不如会办事",
-          "url": "https://www.woshipm.com/share/6353018.html",
-          "author": "产品创业笔记",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "刚入行的产品经理常常陷入理论与实践脱节的困境，如何快速从“需求搬运工”蜕变为能扛事的实战派？本文揭秘三大“野路子”生存法则：从问题解码到MVP验证，再到跨部门资源整合，帮你避开新手期最常见的大坑。这些不讲套路只讲实效的方法，正是初级PM最需要的破局利器。先破个局：别再被“正统产品方法论”PUA了！作为刚入行的初级PM，你是不是每天对着Axure熬夜画原型，背熟了KANO模型、ICE评分，一到实际工...",
-          "published_at": "2026-03-18T01:59:16"
-        },
-        {
-          "title": "构建 AI Agent 系统的三个核心模式",
-          "url": "https://www.woshipm.com/share/6358116.html",
+          "title": "幂律分布：藏在爆款背后的数学真相",
+          "url": "https://www.woshipm.com/share/6358701.html",
           "author": "深思圈",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI Agent从演示demo走向真实生产环境，上下文窗口爆满、响应延迟等痛点开始显现。Inngest联合创始人提出的三种核心子代理模式——同步执行、异步汇报、定时延后，为Agent系统设计提供了关键架构思路。本文深度解析这些模式如何通过上下文压缩技术解决系统可持续性问题，并探讨通用Agent与专业化Agent的权衡之道。你有没有想过，为什么很多 AI agent 系统在演示时看起来很酷，但一旦...",
-          "published_at": "2026-03-18T01:55:33"
+          "summary": "为什么花两周打磨的文章只有200阅读，而厕所里随手做的meme却获得1700万浏览？Spotify上90%的歌曲连一杯咖啡钱都赚不到，0.00006%的创业公司却能成为独角兽。这背后不是运气，而是幂律分布（Power Law）的数学真相：极少数事件捕获几乎所有价值。1%的帖子获得90%的互动，99%的努力注定\"浪费\"——这不是失败，而是系统的固有特性。理解这一点，你将彻底重塑对努力、成功和职业选择...",
+          "published_at": "2026-03-18T08:13:13"
         },
         {
-          "title": "“一人公司”有多猛？被社交巨头收购、前Meta员工月入200万、95后狂做120款出海APP",
-          "url": "https://www.woshipm.com/share/6358114.html",
-          "author": "扬帆出海",
+          "title": "运输管理：车辆与司机管理怎么做，才能让运力“可用、可控、可合规”？",
+          "url": "https://www.woshipm.com/share/6358595.html",
+          "author": "天涯轩",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI大模型正在重塑产品经理的工作范式，从需求分析到原型设计，从用户研究到数据分析，每个环节都在经历智能化变革。本文深度解析大模型如何赋能产品全生命周期，探讨产品经理需要掌握的新技能组合，以及人机协作模式下的效率提升路径。面对这场生产力革命，产品经理如何保持核心竞争力成为关键命题。万众创新，大众创业。不知从什么时候开始，创业这股风又刮了起来。但与之前几个有丰富经验的人合伙一起干不同的是，在AI时代，...",
-          "published_at": "2026-03-18T01:45:33"
+          "summary": "车辆与司机管理模块是TMS系统背后的关键支撑，却常被简化为基础档案录入。从车辆能力标签到司机资质校验，从排班冲突规避到合规硬约束嵌入，本文将拆解如何将资源管理转化为可计算、可约束的系统能力，真正解决调度环节的供给质量难题。一、为什么“车和人”管不好，调度一定做不好？很多团队把车辆与司机管理当成“录个车牌、录个姓名”，结果在运营中不断踩坑：看起来有车，实际不可用：维修、年检、保险、事故停运等状态不透...",
+          "published_at": "2026-03-18T07:13:54"
         },
         {
-          "title": "如何分析竞品的AI能力？",
-          "url": "https://www.woshipm.com/share/6358109.html",
-          "author": "健彬的产品Live",
+          "title": "OpenClaw爆火背后：产品经理的工作方式正在被重新定义",
+          "url": "https://www.woshipm.com/ai/6358569.html",
+          "author": "乱七八看",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI能力成为产品竞争的核心壁垒，如何系统拆解竞品的技术底牌？本文提出'AI竞品侦探三步法'，从用户体验、技术架构到业务价值层层深入，结合真实案例分析如何识别模型类型、验证RAG架构、测试多模态能力。掌握这套方法论，产品经理能在AI军备竞赛中精准定位对手优势与破绽。朋友们，今天来聊聊一道AI产品经理面试的高频题：”如何分析竞品的AI能力？” 我第一次被问到这个问题时，脑子第一反应是”打开竞品APP...",
-          "published_at": "2026-03-18T01:40:30"
+          "summary": "OpenClaw的30.8万GitHub星标背后，是AI从“顾问”到“执行者”的革命性跨越。这款能直接操作电脑完成实际任务的AI工具，正在重新定义人机协作的边界。本文深度解析OpenClaw如何改变产品经理的工作范式，以及AI Agent时代即将引发的行业巨变。2026年3月，一个开源项目在GitHub上收获了30.8万星标。这个数字意味着什么？意味着AI行业正在经历一场静悄悄的革命。01 从”聊...",
+          "published_at": "2026-03-18T07:10:41"
+        },
+        {
+          "title": "（01/24）AI 时代如何利用产品思维做出有用的产品——需求分析和实操",
+          "url": "https://www.woshipm.com/share/6358581.html",
+          "author": "CoopyZhou",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "AI时代下，产品思维比执行能力更重要。本文通过经典案例‘锤子需求’和真实AI工具开发案例，揭示如何用JTBD框架穿透表象需求，找到用户真正想完成的‘任务’。从录屏工具到IP打造，看产品经理如何跳出解决方案陷阱，发现更多可能性。上一篇我说过一个观点：AI 可以降低了执行，但是你需要用产品思维去驱动做出什么。如果你自己都不知道要做什么，AI 也无从下手。所以这个系列的第一篇，我们就先从最基础的一件事情...",
+          "published_at": "2026-03-18T07:10:29"
         }
       ]
     },
@@ -356,6 +356,15 @@
           "published_at": null
         },
         {
+          "title": "Good Fella",
+          "url": "https://www.awwwards.com/sites/good-fella",
+          "author": "Good Fella",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Aupale Vodka",
           "url": "https://www.awwwards.com/sites/aupale-vodka",
           "author": "Locomotive",
@@ -408,75 +417,57 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Outsource Consultants, Inc",
-          "url": "https://www.awwwards.com/sites/outsource-consultants-inc",
-          "author": "Buzzworthy",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "Codex Subagents",
+          "title": "GPT‑5.4 mini and nano",
           "url": "https://www.producthunt.com/products/openai",
+          "author": "Rohan Chaubey",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Fast and efficient models optimized for coding and subagentsDiscussion|Link",
+          "published_at": "2026-03-17T17:11:25"
+        },
+        {
+          "title": "ClawMetry Cloud",
+          "url": "https://www.producthunt.com/products/clawmetry",
+          "author": "Vivek Chand",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Monitor your OpenClaw agents from anywhere. E2E encrypted.Discussion|Link",
+          "published_at": "2026-03-18T01:09:03"
+        },
+        {
+          "title": "Bookshelf for NotebookLM",
+          "url": "https://www.producthunt.com/products/bookshelf-for-notebooklm",
+          "author": "south",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Add folders, search, and sync to Google NotebookLMDiscussion|Link",
+          "published_at": "2026-03-17T07:13:36"
+        },
+        {
+          "title": "Unsloth Studio",
+          "url": "https://www.producthunt.com/products/unsloth",
           "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Parallel custom agents for complex tasksDiscussion|Link",
-          "published_at": "2026-03-17T04:30:50"
+          "summary": "Open-source web UI to run and train AI models.Discussion|Link",
+          "published_at": "2026-03-18T03:18:32"
         },
         {
-          "title": "AgentDiscuss",
-          "url": "https://www.producthunt.com/products/agentdiscuss",
-          "author": "Garry Tan",
+          "title": "Comet for Enterprise",
+          "url": "https://www.producthunt.com/products/perplexity-ai",
+          "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Product Hunt for AI agents — where agents discuss productsDiscussion|Link",
-          "published_at": "2026-03-16T16:45:59"
-        },
-        {
-          "title": "Folderly",
-          "url": "https://www.producthunt.com/products/folderly",
-          "author": "Vladyslav Podoliako",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Get revenue from every email campaign with 99.9% inbox rateDiscussion|Link",
-          "published_at": "2026-03-16T17:54:25"
-        },
-        {
-          "title": "DLSS 5",
-          "url": "https://www.producthunt.com/products/nvidia",
-          "author": "Zac Zuo",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The GPT moment for real-time computer graphicsDiscussion|Link",
-          "published_at": "2026-03-17T02:09:57"
-        },
-        {
-          "title": "dropadoo",
-          "url": "https://www.producthunt.com/products/dropadoo-send-files-via-drop-macos",
-          "author": "Oliver Ottner",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Send files to predefined Emails via drag and dropDiscussion|Link",
-          "published_at": "2026-03-16T07:28:39"
-        },
-        {
-          "title": "Usercall Triggers",
-          "url": "https://www.producthunt.com/products/usercall",
-          "author": "Junu Yang",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Talk to users the moment behavior changesDiscussion|Link",
-          "published_at": "2026-03-17T06:56:51"
+          "summary": "Perplexity’s Secure AI browser built for enterprise teamsDiscussion|Link",
+          "published_at": "2026-03-17T16:57:35"
         }
       ]
     },
@@ -545,49 +536,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Why designing in code makes you a better designer",
-          "url": "https://adamsilver.io/blog/why-designing-in-code-makes-you-a-better-designer/",
+          "title": "The 49MB web page",
+          "url": "https://thatshubham.com/blog/news-audit",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The web is a material. Like wood, it has a grain. You can work with it or fight against it.",
-          "published_at": "2026-03-17T09:32:01"
+          "summary": "A look at modern news websites. How programmatic ad-tech, huge payloads and hostile architecture destroyed the reading experience.",
+          "published_at": "2026-03-18T09:16:33"
         },
         {
-          "title": "OpenUI",
-          "url": "https://www.openui.com/",
+          "title": "Zero-vector design",
+          "url": "https://zerovector.design/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The open standard for Generative UI.",
-          "published_at": "2026-03-17T09:31:15"
+          "summary": "A design philosophy for the age of AI. No intermediary. No translation layer. No friction. From intent to artifact, directly.",
+          "published_at": "2026-03-18T09:16:02"
         },
         {
-          "title": "The Anthropic Institute",
-          "url": "https://www.anthropic.com/institute",
+          "title": "Soon owning will be impossible",
+          "url": "https://lardel.li/2026/03/soon-owning-will-be-impossible.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Anthropic is an AI safety and research company that’s working to build reliable, interpretable, and steerable AI systems.",
-          "published_at": "2026-03-17T09:30:41"
+          "summary": "It‘s maybe time to think about the theoretical limits of the current economic system (which could surprisingly soon become very practical).",
+          "published_at": "2026-03-18T09:15:36"
         },
         {
-          "title": "The two worlds of programming",
-          "url": "https://www.baldurbjarnason.com/2026/the-two-worlds-of-programming/",
+          "title": "Managing icon component sizes",
+          "url": "https://www.alicepackarddesign.com/blog/managing-icon-component-sizes",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Why developers who make the same observations about LLMs come to opposite conclusions.",
-          "published_at": "2026-03-17T09:29:13"
+          "summary": "It’s time to retire that icon wrapper component.",
+          "published_at": "2026-03-18T09:14:55"
         },
         {
-          "title": "The last quiet thing",
-          "url": "https://www.terrygodier.com/the-last-quiet-thing",
+          "title": "Designing for people with anxiety",
+          "url": "https://tetralogical.com/blog/2026/03/10/designing-for-people-with-anxiety/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Your possessions came alive. Now they won’t stop talking.",
-          "published_at": "2026-03-17T09:28:42"
+          "summary": "Most of us will experience anxiety at some point, sometimes triggered by a stressful moment, other times as a chronic condition.",
+          "published_at": "2026-03-18T09:14:25"
         }
       ]
     },
@@ -620,6 +611,42 @@
       "count": 6,
       "items": [
         {
+          "title": "年度征文｜效率杂谈：告别纸笔拓荒，怎么用 AI 来辅助学习？",
+          "url": "https://sspai.com/post/106878",
+          "author": "Haoo_7",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "如果你现在比较迷茫，不知道怎么学习才好，那希望这个学习方法论可以给你提供一些参考。切记：一切都要以自己的需求为主。查看全文",
+          "published_at": "2026-03-18T09:30:00"
+        },
+        {
+          "title": "越过参数的凝视：哈苏 X2D II 100C 漫谈",
+          "url": "https://sspai.com/post/106734",
+          "author": "Microhoo",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "用心记录，快乐拍照。查看全文",
+          "published_at": "2026-03-18T07:30:45"
+        },
+        {
+          "title": "打造我的「智能家」：使用 Claude Code 轻松使用 Home Assistant",
+          "url": "https://sspai.com/post/106992",
+          "author": "yzlnew",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Home Assistant 凭借其强大、丰富、开放的 API 工具，必将成为这个 Agentic 时代智能家居的第一选择。查看全文",
+          "published_at": "2026-03-18T06:30:00"
+        },
+        {
+          "title": "年度征文｜为时间和精力埋单：我的旅行峰值体验塑造方法论",
+          "url": "https://sspai.com/post/106217",
+          "author": "王牌猎人",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "希望这套旅行攻略方法论能带给大家一些启发和收获。查看全文",
+          "published_at": "2026-03-18T03:31:33"
+        },
+        {
           "title": "派早报：OPPO Find N6 发布，广汽、华为联合发布「启境」GT7 等",
           "url": "https://sspai.com/post/107485",
           "author": "少数派编辑部",
@@ -636,42 +663,6 @@
           "source": "少数派",
           "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿的新玩意呈现给大家。💬一派热议 ...查看全文",
           "published_at": "2026-03-17T08:52:57"
-        },
-        {
-          "title": "年度征文 | 冬游九寨，或许这个季节更适合叙述她的美",
-          "url": "https://sspai.com/post/106439",
-          "author": "Nnnobel",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "希望九寨之行是个契机，在新的一年，继续踏足荒野，去感受，去风里从头再来。查看全文",
-          "published_at": "2026-03-17T07:43:01"
-        },
-        {
-          "title": "投票开启｜BeatBox 盖板设计实录：用一块透明亚克力，把奇妙灵感凝成实体",
-          "url": "https://sspai.com/post/106917",
-          "author": "听歌的水獭",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "不仅仅是一块盖板最好的设计往往不是正襟危坐的苦思冥想，而是对生活平凡瞬间的细致观察。在整理BeatBox盖板设计大赛的作品时，我们发现，这块方寸之间的透明面板，正成为连接数字音乐与实体触感的桥梁。它不 ...查看全文",
-          "published_at": "2026-03-17T06:30:00"
-        },
-        {
-          "title": "为心脏健康持续护航，Apple Watch 房颤迹象记录软件功能上线",
-          "url": "https://sspai.com/post/107453",
-          "author": "北鸮",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "2022 年，一项名为「房颤历史记录」（AFib History）的功能随 iOS 16 与 watchOS 9 推出。如今，这项功能终于通过了国家药监局的审批，以「移动脉率房颤迹象记录软件」的形式正式在国内上线，Apple Watch Series 6 及更新机型在升级到 watchOS 26 后即可开启此功能。查看全文",
-          "published_at": "2026-03-17T04:00:00"
-        },
-        {
-          "title": "少数派十四周年直播：我们挑选了这四类好产品",
-          "url": "https://sspai.com/post/107428",
-          "author": "什么陈",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "每年三月，与大家聊聊我们这一年的探索与共创，已经成为少数派的传统。3月18日19:30，少数派创始人老麦将来到直播间，与大家聊聊这一年的共创历程。同时，我们也争取到了目前市面上比较稀缺的现货墨水屏，以 ...查看全文",
-          "published_at": "2026-03-17T03:30:00"
         }
       ]
     }
