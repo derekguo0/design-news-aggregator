@@ -1,23 +1,23 @@
 {
   "date": "2026-03-21T00:00:00",
-  "total_items": 63,
+  "total_items": 62,
   "sources": [
     "人人都是产品经理",
+    "Product Hunt",
+    "少数派",
+    "Smashing Magazine",
+    "UX Planet",
+    "A List Apart",
+    "Awwwards",
+    "CSS-Tricks",
+    "NN/g (Nielsen Norman Group)",
     "UX Design CC",
     "优设网",
-    "NN/g (Nielsen Norman Group)",
-    "Sidebar",
-    "Smashing Magazine",
-    "Product Hunt",
-    "UX Planet",
-    "少数派",
-    "A List Apart",
     "Intercom Blog",
-    "Design Milk",
-    "Awwwards",
-    "CSS-Tricks"
+    "Sidebar",
+    "Design Milk"
   ],
-  "generated_at": "2026-03-21T02:24:21.089785",
+  "generated_at": "2026-03-21T12:58:35.956034",
   "categories": [
     {
       "category": "用户体验设计",
@@ -216,49 +216,49 @@
           "published_at": "2026-03-19T18:06:23"
         },
         {
-          "title": "2026年，塌房最快的AI公司出现了",
-          "url": "https://www.woshipm.com/ai/6360043.html",
-          "author": "有界UnKnown",
+          "title": "新手小白也能写出好用Skill，保姆级教程和SKill分享",
+          "url": "https://www.woshipm.com/ai/6360550.html",
+          "author": "阿真Irene",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI互动游戏平台「幕间」官宣完成两轮千万美元融资仅一周，便遭创作者集体反噬。这家打着\"类酒馆\"旗号、以\"免费社区\"吸引玩家为爱发电的平台，被指控将UGC内容当作融资资产，却对用户商业化意图暧昧不清。2026年塌房最快的AI创业公司，出现了。事情的主角是一家名叫「幕间」的初创AI互动游戏平台。3月初，这家公司官宣完成了两轮千万美元级别的融资。和大多数AI创业项目一样，他们有履历亮眼的创始人，投资方也...",
-          "published_at": "2026-03-20T09:10:09"
+          "summary": "在AI技能(Skill)泛滥的时代，盲目安装他人开发的技能不仅效率低下，更暗藏安全隐患。本文揭示了一个颠覆性的解决方案：通过访谈式交互自动生成定制化Skill。从精确描述到结构化骨架，从素材收集到输出验证，这套方法让小白也能轻松打造专属AI能力。更重磅的是，作者开源了能自动生成完整Skill包的访谈工具，彻底解决「需求说不清」的核心痛点。我算是看明白了，不管是玩转 CC 还是龙虾，就目前来说，首先...",
+          "published_at": "2026-03-21T09:15:44"
         },
         {
-          "title": "当AI学会了验证自己的推理",
-          "url": "https://www.woshipm.com/share/6360041.html",
-          "author": "深思圈",
+          "title": "这只”赛博龙虾”，正在重写数据治理的规则",
+          "url": "https://www.woshipm.com/share/6360501.html",
+          "author": "成于念",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当大多数AI还在追求\"看起来合理\"的答案时，陈天桥创立的MiroMind正让AI学会验证自己的推理——提前15天预测黄金价格误差仅0.08%，一个月前准确预测超级碗冠军，三周前锁定格莱美最大赢家。这不是运气，而是MiroThinker-H1的\"验证为中心\"重型推理模式：局部验证打破概率偏见，全局验证审计证据链，让支持最充分的答案胜出，而非最自信的答案。你有没有想过，AI 到底能不能真正解决复杂问题...",
-          "published_at": "2026-03-20T09:03:10"
+          "summary": "发布4个月GitHub星标破18万、全球安装24.8万实例，OpenClaw这只\"赛博龙虾\"正让AI从\"顾问\"变成\"员工\"——它能7×24小时自动稽查数据质量、动态盘点资产、追踪运行时血缘，却也带来22%企业\"影子部署\"、高权限通道缺乏审计、跨系统操作难回滚等新风险。2026年的春天，科技圈最火的词不是某款新大模型，而是一只”小龙虾”。OpenClaw，这款因红色龙虾图标得名的开源AI智能体框架，...",
+          "published_at": "2026-03-21T07:55:08"
         },
         {
-          "title": "AI能写PRD、画原型了，产品经理还剩下什么？",
-          "url": "https://www.woshipm.com/share/6360017.html",
-          "author": "豆芽悟",
+          "title": "Coze（扣子）评测：字节跳动「职场AI」到底值不值得用？",
+          "url": "https://www.woshipm.com/ai/6360488.html",
+          "author": "AI星球",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI能写PRD、画原型甚至输出代码，产品经理的焦虑从\"会不会被替代\"变成了\"还能干什么\"。十年产品老兵的答案是：AI替代的是\"活\"不是\"人\"——信息搬运和逻辑推演确实可被自动化，但判断决策、人际理解与资源博弈仍是人类主场。最近有个现象挺有意思：woshipm上关于”AI产品经理”的文章越来越多，朋友圈里产品同行们要么在转行AI赛道，要么在焦虑”会不会被替代”。起因是今年初，AI写PRD、画原型这...",
-          "published_at": "2026-03-20T08:13:23"
+          "summary": "最近AI圈有个产品让我挺意外的就是Coze，中文名叫”扣子”。说实话，之前我对这类”零代码搭建AI应用”的平台是有点偏见的——总觉得门槛低的东西都不够专业。但扣子发布之后，我身边不少做运营、做销售、甚至做行政的朋友都在用，说是”零基础也能搭建专属AI助手”。这让我有点好奇：一个没有编程背景的人，真的能快速搭建出靠谱的AI应用吗？抱着这个疑问，我大概花了一周时间深度体验了一下扣子平台。今天就来聊聊这...",
+          "published_at": "2026-03-21T07:30:02"
         },
         {
-          "title": "做了半天电商，才发现我根本不懂用户",
-          "url": "https://www.woshipm.com/share/6360013.html",
-          "author": "曙欧巴",
+          "title": "代码小浣熊测评：商汤这款”中文编程救星”到底行不行？",
+          "url": "https://www.woshipm.com/ai/6360482.html",
+          "author": "AI星球",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "做电商，流程只是表面，真正藏在这些基础问题里：用户是谁？他为什么买？他在意什么？答案可能就在身边，只是我们走得太快，忘了低头看路。以前做互联网产品经理的时候，我总觉得只要功能足够好、体验足够顺，用户就会买单。后来出来自己做电商，碰了壁，我以为是产品不够好、价格不够低、广告没投明白。所以每次遇到问题，我的第一反应都是考虑换产品、改价格、调整投放。但最近做了一件事之后，我突然意识到一件挺扎心的事情：我...",
-          "published_at": "2026-03-20T07:58:22"
+          "summary": "最近不少朋友问我，AI编程工具这么多，国内有没有好用的？特别是中文支持好的。之前我试过一些国外的工具，说真的，中文支持都比较一般。后来我发现了代码小浣熊这个产品——商汤出的，专门针对中文场景优化的。说实话，用了之后感觉还挺出乎意料的，特别是在中文注释理解这块儿，确实比那些国外的工具强不少。今天就和大家聊聊这个产品，看看它到底值不值得用。一、代码小浣熊是什么？代码小浣熊是商汤科技基于自研”日日新 S...",
+          "published_at": "2026-03-21T07:13:41"
         },
         {
-          "title": "微信又更新了，可为什么有人觉得微信更不更新没区别？",
-          "url": "https://www.woshipm.com/share/6360003.html",
-          "author": "郭静",
+          "title": "ArkClaw 评测：字节跳动的「云养虾」，开箱即用的 AI Agent 体验如何？",
+          "url": "https://www.woshipm.com/ai/6360476.html",
+          "author": "AI星球",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "14亿月活用户的庞大基数，让微信任何细微更新都可能被放大审视：灰度测试导致\"新功能在哪儿\"的困惑，众口难调使得\"好用\"与\"极简\"难以平衡，用户习惯被改变后的不适感，以及\"改了跟没改区别不大\"的隔靴搔痒感。微信又双叒叕被推送了微博热搜，“微信能折叠发图了”话题登上热搜第一。据网友反映，当用户选择三张以上视频或照片发送给其他微信好友时，底下会出现“合并发送”选项，对方就会收到折叠后的照片，以左右卡片的...",
-          "published_at": "2026-03-20T07:40:30"
+          "summary": "最近AI编程圈有个词特别火——“养虾”。所谓”虾”就是OpenClaw，一个基于终端的AI Agent框架，能通过自然语言理解并执行代码任务。但说实话，原生OpenClaw的配置过程堪称”噩梦”——依赖Node.js、模型API密钥、服务器、Token消耗估算……光环境配置就能劝退一大部分人。就在这个时间点，字节跳动火山引擎推出了”方舟爪”——ArkClaw，一款开箱即用的云端SaaS版OpenC...",
+          "published_at": "2026-03-21T07:10:08"
         }
       ]
     },
@@ -339,6 +339,15 @@
           "published_at": null
         },
         {
+          "title": "Darknode",
+          "url": "https://www.awwwards.com/sites/darknode",
+          "author": "Qream",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Stuff by Kris Temmerman",
           "url": "https://www.awwwards.com/sites/stuff-by-kris-temmerman",
           "author": "Kris Temmerman",
@@ -391,66 +400,48 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "MoMoney",
-          "url": "https://www.awwwards.com/sites/momoney",
-          "author": "Jordan Gilroy",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "AI Skills Manager",
-          "url": "https://www.producthunt.com/products/ai-skills-manager",
-          "author": "ido evergreen",
+          "title": "Sanota",
+          "url": "https://www.producthunt.com/products/sanota",
+          "author": "Eero Rönkkö",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "One place for all your AI skillsDiscussion|Link",
-          "published_at": "2026-03-19T13:22:37"
+          "summary": "Stories, beautifully craftedDiscussion|Link",
+          "published_at": "2026-03-18T13:42:25"
         },
         {
-          "title": "MusicLib",
-          "url": "https://www.producthunt.com/products/musiclib",
-          "author": "Thomas McCarthy",
+          "title": "Contral",
+          "url": "https://www.producthunt.com/products/contral",
+          "author": "Samagra Gune",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The Ultimate Sheet Music Library SolutionDiscussion|Link",
-          "published_at": "2026-03-19T20:17:53"
+          "summary": "The agentic IDE which teaches while you build.Discussion|Link",
+          "published_at": "2026-03-20T20:40:44"
         },
         {
-          "title": "ProductBridge",
-          "url": "https://www.producthunt.com/products/productbridge",
-          "author": "Hareesh Vemasani",
+          "title": "Caplo",
+          "url": "https://www.producthunt.com/products/caplo",
+          "author": "Ziven Jay",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Agent that collects feedback across multiple platformsDiscussion|Link",
-          "published_at": "2026-03-18T12:42:01"
+          "summary": "Real-time AI captions & translation for any iOS appDiscussion|Link",
+          "published_at": "2026-03-20T08:17:00"
         },
         {
-          "title": "Claude Code Channels",
-          "url": "https://www.producthunt.com/products/claude",
-          "author": "Zac Zuo",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Push events and chat with Claude Code via Telegram & DiscordDiscussion|Link",
-          "published_at": "2026-03-20T04:35:29"
-        },
-        {
-          "title": "Google AI Studio 2.0",
-          "url": "https://www.producthunt.com/products/google-ai-studio-8",
+          "title": "Claude Cowork Projects",
+          "url": "https://www.producthunt.com/products/claude-cowork-projects",
           "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Full-stack vibe coding powered by Antigravity + FirebaseDiscussion|Link",
-          "published_at": "2026-03-19T15:59:33"
+          "summary": "Tasks, context, and files organized in one workspaceDiscussion|Link",
+          "published_at": "2026-03-20T16:23:41"
         }
       ]
     },
@@ -585,6 +576,15 @@
       "count": 6,
       "items": [
         {
+          "title": "App+1｜给「类原生」用户的来电拦截工具：Pixel Telo",
+          "url": "https://sspai.com/post/107136",
+          "author": "Mystery0",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "如果你也是国内的 Pixel 或类原生系统用户，正被骚扰电话困扰，不妨试试这款向经典致敬、又融入了现代设计的工具。查看全文",
+          "published_at": "2026-03-21T08:35:13"
+        },
+        {
           "title": "本周看什么 | 最近值得一看的 12 部作品",
           "url": "https://sspai.com/post/107582",
           "author": "少数派编辑部",
@@ -628,15 +628,6 @@
           "source": "少数派",
           "summary": "编者按：本文是少数派2025年度征文活动#TeamCarbon25标签下的入围文章。本文仅代表作者本人观点，少数派只略微调整排版。今年的征文活动更有创意，「只能用AI」和「不能用AI」两大赛道激情PK ...查看全文",
           "published_at": "2026-03-19T09:22:05"
-        },
-        {
-          "title": "勃朗特三姐妹书影单：贫瘠土地生出的女性之花",
-          "url": "https://sspai.com/post/107517",
-          "author": "潘誉晗",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "伴着诸多争议的新版《呼啸山庄》上映，与我们一同重温勃朗特三姐妹那些文艺作品……查看全文",
-          "published_at": "2026-03-19T08:00:00"
         }
       ]
     }
