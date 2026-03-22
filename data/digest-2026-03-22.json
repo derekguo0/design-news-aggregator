@@ -1,23 +1,22 @@
 {
   "date": "2026-03-22T00:00:00",
-  "total_items": 61,
+  "total_items": 53,
   "sources": [
-    "UX Design CC",
-    "Smashing Magazine",
-    "少数派",
-    "A List Apart",
-    "人人都是产品经理",
-    "UX Planet",
-    "Design Milk",
     "Sidebar",
-    "Product Hunt",
-    "NN/g (Nielsen Norman Group)",
-    "Awwwards",
     "优设网",
+    "Product Hunt",
+    "人人都是产品经理",
+    "Smashing Magazine",
+    "UX Planet",
     "CSS-Tricks",
-    "Intercom Blog"
+    "NN/g (Nielsen Norman Group)",
+    "A List Apart",
+    "Intercom Blog",
+    "Design Milk",
+    "UX Design CC",
+    "少数派"
   ],
-  "generated_at": "2026-03-22T02:38:53.186939",
+  "generated_at": "2026-03-22T13:00:59.912630",
   "categories": [
     {
       "category": "用户体验设计",
@@ -207,55 +206,55 @@
           "published_at": "2026-03-19T18:06:23"
         },
         {
-          "title": "新手小白也能写出好用Skill，保姆级教程和SKill分享",
-          "url": "https://www.woshipm.com/ai/6360550.html",
-          "author": "阿真Irene",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "在AI技能(Skill)泛滥的时代，盲目安装他人开发的技能不仅效率低下，更暗藏安全隐患。本文揭示了一个颠覆性的解决方案：通过访谈式交互自动生成定制化Skill。从精确描述到结构化骨架，从素材收集到输出验证，这套方法让小白也能轻松打造专属AI能力。更重磅的是，作者开源了能自动生成完整Skill包的访谈工具，彻底解决「需求说不清」的核心痛点。我算是看明白了，不管是玩转 CC 还是龙虾，就目前来说，首先...",
-          "published_at": "2026-03-21T09:15:44"
-        },
-        {
-          "title": "这只”赛博龙虾”，正在重写数据治理的规则",
-          "url": "https://www.woshipm.com/share/6360501.html",
-          "author": "成于念",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "发布4个月GitHub星标破18万、全球安装24.8万实例，OpenClaw这只\"赛博龙虾\"正让AI从\"顾问\"变成\"员工\"——它能7×24小时自动稽查数据质量、动态盘点资产、追踪运行时血缘，却也带来22%企业\"影子部署\"、高权限通道缺乏审计、跨系统操作难回滚等新风险。2026年的春天，科技圈最火的词不是某款新大模型，而是一只”小龙虾”。OpenClaw，这款因红色龙虾图标得名的开源AI智能体框架，...",
-          "published_at": "2026-03-21T07:55:08"
-        },
-        {
-          "title": "Coze（扣子）评测：字节跳动「职场AI」到底值不值得用？",
-          "url": "https://www.woshipm.com/ai/6360488.html",
+          "title": "Dify深度评测：开源AI开发平台的”瑞士军刀”",
+          "url": "https://www.woshipm.com/ai/6360516.html",
           "author": "AI星球",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "最近AI圈有个产品让我挺意外的就是Coze，中文名叫”扣子”。说实话，之前我对这类”零代码搭建AI应用”的平台是有点偏见的——总觉得门槛低的东西都不够专业。但扣子发布之后，我身边不少做运营、做销售、甚至做行政的朋友都在用，说是”零基础也能搭建专属AI助手”。这让我有点好奇：一个没有编程背景的人，真的能快速搭建出靠谱的AI应用吗？抱着这个疑问，我大概花了一周时间深度体验了一下扣子平台。今天就来聊聊这...",
-          "published_at": "2026-03-21T07:30:02"
+          "summary": "Dify拿到了红杉领投的3000万美元Pre-A轮融资，估值1.8亿美元。说实话，看到这个消息我第一反应是：一个开源项目能做到这个估值，不简单。后来仔细研究了一下才发现，Dify的GitHub星标已经突破10万，跻身全球开源项目前100名，服务超过2000个团队，马士基、安克创新都是它的客户。我这才意识到——Dify可能已经成为AI应用开发领域最不可忽视的那个玩家了。今天就来深度拆解一下这个产品。...",
+          "published_at": "2026-03-22T08:14:02"
         },
         {
-          "title": "代码小浣熊测评：商汤这款”中文编程救星”到底行不行？",
-          "url": "https://www.woshipm.com/ai/6360482.html",
-          "author": "AI星球",
+          "title": "从香农到图灵：剥去“智元”的华丽外衣，Token的真名只有一个",
+          "url": "https://www.woshipm.com/ai/6360614.html",
+          "author": "王子健",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "最近不少朋友问我，AI编程工具这么多，国内有没有好用的？特别是中文支持好的。之前我试过一些国外的工具，说真的，中文支持都比较一般。后来我发现了代码小浣熊这个产品——商汤出的，专门针对中文场景优化的。说实话，用了之后感觉还挺出乎意料的，特别是在中文注释理解这块儿，确实比那些国外的工具强不少。今天就和大家聊聊这个产品，看看它到底值不值得用。一、代码小浣熊是什么？代码小浣熊是商汤科技基于自研”日日新 S...",
-          "published_at": "2026-03-21T07:13:41"
+          "summary": "最近，中文互联网掀起了一场关于Token翻译的“大辩论”。尤其是当“智元”这个词横空出世，在王小川等大佬和一众学术大咖的背书下，迅速形成了一种“共识幻觉”。很多人觉得：就是它了，这多有逼格，这多符合 AI 时代！但我必须泼一盆冷水：“智元”是一个漂亮的错误。它本质上是一篇逻辑包装极强的“认知提案”，而非一个能真正落地、跨越时代的“标准定义”。当行业忙着给 Token 涂抹“智能”的色彩时，我们似乎...",
+          "published_at": "2026-03-22T08:00:33"
         },
         {
-          "title": "ArkClaw 评测：字节跳动的「云养虾」，开箱即用的 AI Agent 体验如何？",
-          "url": "https://www.woshipm.com/ai/6360476.html",
-          "author": "AI星球",
+          "title": "产品经理这个头衔，可能是互联网最“虚”的一个",
+          "url": "https://www.woshipm.com/share/6360448.html",
+          "author": "Alex的荒诞产品观",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "最近AI编程圈有个词特别火——“养虾”。所谓”虾”就是OpenClaw，一个基于终端的AI Agent框架，能通过自然语言理解并执行代码任务。但说实话，原生OpenClaw的配置过程堪称”噩梦”——依赖Node.js、模型API密钥、服务器、Token消耗估算……光环境配置就能劝退一大部分人。就在这个时间点，字节跳动火山引擎推出了”方舟爪”——ArkClaw，一款开箱即用的云端SaaS版OpenC...",
-          "published_at": "2026-03-21T07:10:08"
+          "summary": "产品经理这个头衔正在经历前所未有的分化与模糊。从一瓶果汁的生产到AI营销工具的打造，冠以相同头衔的工作却需要完全不同的知识体系。本文通过真实业务场景拆解，揭示产品经理的本质差异与核心能力要求，带你重新思考这个职位的真实定义与发展路径。你发现没有，“产品经理”这个头衔，现在越来越让人看不懂了。我刚入行那会儿，以为产品经理就是画原型、写需求、跟开发吵架。后来慢慢发现，身边有人做电商产品，有人做后台系统...",
+          "published_at": "2026-03-22T06:47:25"
+        },
+        {
+          "title": "当AI Agent开始自己”写需求”，产品经理的PRD还有人看吗？",
+          "url": "https://www.woshipm.com/ai/6360589.html",
+          "author": "吴知",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "这篇文章写的时候我反复删了三稿。不是因为没东西写，而是因为越写越觉得，我们这行正在经历的变化，比任何一篇文章能描述的都要快。所以索性放弃\"客观分析\"，说点真话。先从一个略显残忍的问题开始：你上一份PRD，是写给谁看的？工程师？老板？跨部门同学？那我再问：你上一份PRD里，写的最多的是什么？我猜是交互逻辑、页面流程、边界条件处理——说白了，是在”教人怎么做”。这件事我做了好多年，做得很熟练，也做得越...",
+          "published_at": "2026-03-22T05:00:29"
+        },
+        {
+          "title": "产品经理必读：用户角色设计的底层逻辑",
+          "url": "https://www.woshipm.com/share/6359744.html",
+          "author": "小豪说产品",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "用户角色与用户画像的混淆是产品设计中的常见误区。本文深入剖析用户角色的本质特征与设计原则，揭示C端与B端产品的角色划分逻辑差异，并提供四步实践方法论。从预期管理到隐性角色挖掘，掌握这些关键认知将彻底改变你的产品设计思维框架。用户角色的本质到底是什么我们在实践中发现，很多产品经理把用户角色和用户画像混为一谈，这其实是两个不同的概念。用户角色是指个体在特定产品、系统或组织生态中，基于其行为模式、价值贡...",
+          "published_at": "2026-03-22T04:41:11"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 15,
+      "count": 8,
       "items": [
         {
           "title": "Dropdowns Inside Scrollable Containers: Why They Break And How To Fix Them Properly",
@@ -328,111 +327,39 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
-        },
-        {
-          "title": "Darknode",
-          "url": "https://www.awwwards.com/sites/darknode",
-          "author": "Qream",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Stuff by Kris Temmerman",
-          "url": "https://www.awwwards.com/sites/stuff-by-kris-temmerman",
-          "author": "Kris Temmerman",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Aventura Dental Arts",
-          "url": "https://www.awwwards.com/sites/aventura-dental-arts",
-          "author": "The First The Last",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Good Fella",
-          "url": "https://www.awwwards.com/sites/good-fella",
-          "author": "Good Fella",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Aupale Vodka",
-          "url": "https://www.awwwards.com/sites/aupale-vodka",
-          "author": "Locomotive",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Foudre, Human Social Club",
-          "url": "https://www.awwwards.com/sites/foudre-human-social-club",
-          "author": "Troa",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Planetoño",
-          "url": "https://www.awwwards.com/sites/planetono",
-          "author": "Tubik",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 3,
       "items": [
         {
-          "title": "Claude Cowork Projects",
-          "url": "https://www.producthunt.com/products/claude-cowork-projects",
+          "title": "Context.dev",
+          "url": "https://www.producthunt.com/products/context-dev",
+          "author": "Yahia Bakour",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "One API to scrape, enrich, and understand the web.Discussion|Link",
+          "published_at": "2026-03-21T22:14:33"
+        },
+        {
+          "title": "Edgee Claude Code Compression",
+          "url": "https://www.producthunt.com/products/edgee",
+          "author": "fmerian",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Extend Claude Pro's limit by 26.2%Discussion|Link",
+          "published_at": "2026-03-19T11:51:34"
+        },
+        {
+          "title": "Replit Agent 4",
+          "url": "https://www.producthunt.com/products/replit-agent-4",
           "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Tasks, context, and files organized in one workspaceDiscussion|Link",
-          "published_at": "2026-03-20T16:23:41"
-        },
-        {
-          "title": "Educato App",
-          "url": "https://www.producthunt.com/products/educato-app",
-          "author": "Tudor Bularca",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Personalized exam prep, now in your pocketDiscussion|Link",
-          "published_at": "2026-03-20T15:20:25"
-        },
-        {
-          "title": "Contral",
-          "url": "https://www.producthunt.com/products/contral",
-          "author": "Samagra Gune",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The agentic IDE which teaches while you build.Discussion|Link",
-          "published_at": "2026-03-20T20:40:44"
-        },
-        {
-          "title": "optimo",
-          "url": "https://www.producthunt.com/products/optimo",
-          "author": "Kiko Beats",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "effortless media optimizer for the webDiscussion|Link",
-          "published_at": "2026-03-20T08:33:14"
+          "summary": "Build design, and ship anything AI fast in one flowDiscussion|Link",
+          "published_at": "2026-03-19T17:12:23"
         }
       ]
     },
@@ -486,8 +413,8 @@
           "published_at": null
         },
         {
-          "title": "钉钉文档把AI叫表哥，这个谐音梗设计真幽默！",
-          "url": "https://www.uisdc.com/hunter/0221663812.html",
+          "title": "谷歌Stitch黑科技上线，设计稿直接转PRD的时代来了！",
+          "url": "https://www.uisdc.com/hunter/0221663809.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -567,6 +494,24 @@
       "count": 6,
       "items": [
         {
+          "title": "看见 App Store 生态的更多可能，Tim Cook 会见中国游戏开发者",
+          "url": "https://sspai.com/post/107642",
+          "author": "waychane",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "结束了在成都举办的Apple五十周年全球第二站活动之后，TimCook又马不停蹄地来到北京，与多位中国优秀的游戏开发者们会面交流，了解他们的作品及Apple技术对他们的支持。《逃离鸭科夫》是一款由开发 ...查看全文",
+          "published_at": "2026-03-22T09:07:23"
+        },
+        {
+          "title": "用十年手机相册，记录颐和园的日夜春秋",
+          "url": "https://sspai.com/post/107010",
+          "author": "知道分子吴先先",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "这些照片代表的生命瞬间，才是我真正的人生。查看全文",
+          "published_at": "2026-03-22T06:35:06"
+        },
+        {
           "title": "App+1｜给「类原生」用户的来电拦截工具：Pixel Telo",
           "url": "https://sspai.com/post/107136",
           "author": "Mystery0",
@@ -601,24 +546,6 @@
           "source": "少数派",
           "summary": "当你看到这幅图的时候，你第一反应是什么？替她们尴尬？明明是自信灿烂的笑容，为什么看起来就是那么别扭呢？原因很简单——牙齿。事实上，全国口腔健康流行病学调查显示，龋病（俗称虫牙或蛀牙）和牙周疾病（包括牙 ...查看全文",
           "published_at": "2026-03-20T03:12:03"
-        },
-        {
-          "title": "派早报：小米发布多款新品、稀宇科技发布 MiniMax-M2.7 模型等",
-          "url": "https://sspai.com/post/107563",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Google Stitch 引入 vibe design 设计理念，飞利浦推出全新 Moving Sound 系列等。查看全文",
-          "published_at": "2026-03-20T00:38:32"
-        },
-        {
-          "title": "年度征文 | 沿海公路的出口：10年后，重返宝岛",
-          "url": "https://sspai.com/post/97965",
-          "author": "揪惹个咪",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "编者按：本文是少数派2025年度征文活动#TeamCarbon25标签下的入围文章。本文仅代表作者本人观点，少数派只略微调整排版。今年的征文活动更有创意，「只能用AI」和「不能用AI」两大赛道激情PK ...查看全文",
-          "published_at": "2026-03-19T09:22:05"
         }
       ]
     }
