@@ -1,26 +1,44 @@
 {
   "date": "2026-03-24T00:00:00",
-  "total_items": 54,
+  "total_items": 56,
   "sources": [
-    "CSS-Tricks",
-    "A List Apart",
-    "Product Hunt",
-    "UX Design CC",
+    "少数派",
+    "Awwwards",
     "人人都是产品经理",
     "UX Planet",
-    "优设网",
-    "Awwwards",
+    "A List Apart",
+    "NN/g (Nielsen Norman Group)",
+    "Product Hunt",
     "Sidebar",
-    "少数派",
+    "UX Design CC",
+    "CSS-Tricks",
     "Design Milk",
-    "NN/g (Nielsen Norman Group)"
+    "优设网"
   ],
-  "generated_at": "2026-03-24T02:30:59.002207",
+  "generated_at": "2026-03-24T13:21:05.530154",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 6,
+      "count": 8,
       "items": [
+        {
+          "title": "How behavioral science can help persuade our team to do one more user test",
+          "url": "https://uxdesign.cc/how-behavioral-science-can-help-persuade-our-team-to-do-one-more-user-test-dbb3ec3729bb?source=rss----138adf9c44c---4",
+          "author": "Kai Wong",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Designers are struggling to slow teams down for research. Here’s what helps.Continue reading on UX Collective »",
+          "published_at": "2026-03-24T11:26:32"
+        },
+        {
+          "title": "Who can actually afford AI tools now?",
+          "url": "https://uxdesign.cc/who-can-actually-afford-ai-tools-now-d72041945c26?source=rss----138adf9c44c---4",
+          "author": "Dora Czerna",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "They keep arriving with open arms and leaving with your wallet. That’s not an accident. It’s a playbook.You notice it only in retrospect, and with increasing frequency. A tool you’d started to take fo...",
+          "published_at": "2026-03-24T08:19:17"
+        },
         {
           "title": "The intelligence revolution won’t be televised — it will be automated over a longer arc",
           "url": "https://uxdesign.cc/the-intelligence-revolution-wont-be-televised-it-will-be-automated-over-a-longer-arc-47a60a45323e?source=rss----138adf9c44c---4",
@@ -139,8 +157,17 @@
     },
     {
       "category": "产品设计",
-      "count": 8,
+      "count": 9,
       "items": [
+        {
+          "title": "Philippe Nigro’s JOSEPH Armchair for Wittmann Honors Josef Hoffmann Without Imitation",
+          "url": "https://design-milk.com/philippe-nigros-joseph-armchair-for-wittmann-honors-josef-hoffmann-without-imitation/",
+          "author": "Joseph Sgambati III",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Philippe Nigro revisits Josef Hoffmann’s geometric rigor and sculptural forms, translating them into the highly crafted, deeply considered JOSEPH armchair made in Austria.",
+          "published_at": "2026-03-24T13:00:45"
+        },
         {
           "title": "The Shop by Gantri Pays Homage to Set and Setting",
           "url": "https://design-milk.com/the-shop-by-gantri-pays-homage-to-set-and-setting/",
@@ -169,55 +196,55 @@
           "published_at": "2026-03-23T13:00:01"
         },
         {
-          "title": "微信刚刚接入“龙虾”，但我劝你先别用",
-          "url": "https://www.woshipm.com/share/6362246.html",
-          "author": "产品小球",
+          "title": "百度秒哒深度测评：一句话生成全栈应用的AI开发神器",
+          "url": "https://www.woshipm.com/ai/6362785.html",
+          "author": "AI星球",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "OpenClaw智能体热潮席卷而来，微信正式接入'龙虾'引发全民养虾焦虑。但盲目跟风可能面临安全风险与钱包危机。本文深度剖析智能体技术的安全边界与实用价值，揭示如何理性评估真实需求，避免成为技术浪潮中的'韭菜'。从安全考量到成本控制，从场景匹配到产品迭代，为普通用户提供实用指南。2026年开始，养龙虾浪潮从互联网圈开始扩散，在腾讯免费安装龙虾活动大排长队的渲染下，龙虾焦虑好像蔓延到了每一个普通人的...",
-          "published_at": "2026-03-24T02:28:58"
+          "summary": "AI开发工具赛道又火了，Vibe Coding概念满天飞，各种”自然语言编程”的产品层出不穷。说实话，我一开始对这类产品是持怀疑态度的——毕竟之前试过不少所谓的”AI编程”工具，生成的代码要么跑不起来，要么跑起来也是玩具级别。但百度秒哒让我改变了看法。用了大概一周，我发现它不只是能生成演示原型，而是真的能产出生产级可用的商业应用，我甚至用它开发了20多个应用，迭代了几百个版本，这在过去是不可能的。...",
+          "published_at": "2026-03-24T12:38:43"
         },
         {
-          "title": "AI+数据分析 = 王炸！详细案例奉上！",
-          "url": "https://www.woshipm.com/share/6362243.html",
-          "author": "接地气的陈老师",
+          "title": "阶跃AI桌面伙伴评测：被网友称为”中国版Claude Cowork”的桌面AI助手（含邀请码）",
+          "url": "https://www.woshipm.com/ai/6362774.html",
+          "author": "AI星球",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI与数据分析的深度融合正在重塑分析师的日常工作方式。本文通过积分分析的真实案例，揭示如何将AI从'套话生成器'转变为高效分析助手。从业务梳理到数据呈现，从问题定义到原因分析，完整展示AI赋能数据分析的实战路径。“你自己多想想……”是很多新手数据分析师最怕听的话。“AI输出的都是套话，不落地呀！”是很多人初用AI的感受今天陈老师用一个详细案例，带大家看如何用好AI，完成任务01 从业务场景开始有星...",
-          "published_at": "2026-03-24T02:19:32"
+          "summary": "今年除了龙虾OpenClaw火爆之外，其实桌面AI Agent也算是热门，各大厂都在推自己的桌面智能体。腾讯出了QClaw，阿里有悟空…但说实话，真正让我眼前一亮的，是阶跃星辰的”阶跃AI桌面伙伴”。说它是中国版Claude Cowork一点都不夸张——免费、全平台、还能操作电脑执行复杂任务。用了大概两周，我来聊聊真实体验。先说整体感受：如果你想在Windows或Mac上用一个免费又聪明的AI助手...",
+          "published_at": "2026-03-24T12:04:49"
         },
         {
-          "title": "微信小店上线后，开店工具还有创业机会吗？",
-          "url": "https://www.woshipm.com/share/6362236.html",
-          "author": "十里村",
+          "title": "Karpathy 最新访谈：AI 不是在帮你写代码，它在逼你换一种工作方式",
+          "url": "https://www.woshipm.com/ai/6361722.html",
+          "author": "张艾拉",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "微信小店完成生态闭环后，第三方开店工具是否还有生存空间？本文深度剖析微信小店与有赞、微盟等平台的差异化竞争格局，揭示私域场景的多元化需求如何为开店工具创造新机遇。从功能深度到场景细分，从实体门店到运营精细化，开店工具正迎来新一轮价值重构。各位村民好，我是村长。视频号小店正式升级为微信小店后，大家都在说微信小店，已经实现了微信生态内的整个商业闭环。尤其是近些年来，随着短视频+直播电商的兴起，万亿市场...",
-          "published_at": "2026-03-24T02:13:10"
+          "summary": "OpenAI 前创始成员 Andrej Karpathy 在最新访谈中揭示了 AI Agent 如何彻底重构工程师的工作方式——从亲手敲代码到调度智能体集群，从单次交互到持续运行的系统进化。这场深度对话不仅展现了 Agent 技术如何突破人机协作瓶颈，更预言了未来软件形态将被‘Agent优先’逻辑颠覆的行业剧变。我最近特别爱看播客，一是时间长，节奏慢；二是很多判断，只有在一来一回的聊天里，才听得更...",
+          "published_at": "2026-03-24T09:15:35"
         },
         {
-          "title": "为什么同样是“龙虾”产品，最后会长成三种形态？",
-          "url": "https://www.woshipm.com/ai/6361560.html",
-          "author": "AIGC土豆",
+          "title": "你的用户数据，正在喂养谁的模型？",
+          "url": "https://www.woshipm.com/ai/6362244.html",
+          "author": "非常AI小记",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Agent 产品赛道正在经历一场静默的分化革命。从个人桌面执行到云端托管协作，再到企业级智能体平台，看似同质化的产品背后，隐藏着截然不同的战略布局和用户争夺逻辑。本文深度拆解6款代表产品，揭示Agent赛道从功能竞争转向生态位争夺的关键转折点，以及新产品品类成熟期必然经历的形态分化规律。最近一段时间，如果你在关注 Agent 产品，会发现一个很有意思的现象：同样都顶着“龙虾”这类产品标签，实际长出...",
-          "published_at": "2026-03-24T02:11:04"
+          "summary": "当用户在AI写作工具中输入私密内容时，这些数据究竟流向了哪里？揭秘AI产业链中鲜为人知的数据流转黑箱：从推理与训练的本质区别，到用户协议中的文字游戏，再到第三方API调用的灰色地带。本文将深度剖析数据隐私背后的风险节点，以及产品经理如何在用户体验与数据安全间找到平衡点。一个让我想了很久的问题前段时间有个同事问我，说他们接入了一个第三方的AI写作工具，用户可以在里面输入内容让AI帮忙润色。他问我，用...",
+          "published_at": "2026-03-24T09:15:29"
         },
         {
-          "title": "拍了这么久短视频，我最近才第一次感觉自己不是在乱拍",
-          "url": "https://www.woshipm.com/share/6362233.html",
-          "author": "曙欧巴",
+          "title": "底模派 vs Harness派：你站哪边？",
+          "url": "https://www.woshipm.com/ai/6362294.html",
+          "author": "酸奶AIGC",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从数据焦虑到内容觉醒，一位创业者的短视频创作心路历程。当播放量持续低迷时，真正的突破来自对内容表达的深度思考。本文通过家庭号与事业号的双线实践，揭示如何从碎片化记录转向结构化表达，从“发内容的人”蜕变为“构建内容系统的人”。最近这段时间，我在短视频这件事上，终于有了一点不一样的感觉。不是因为播放量突然起来了，也不是因为我掌握了什么流量密码。恰恰相反，到现在为止，我很多视频的数据依然很普通。有的几百...",
-          "published_at": "2026-03-24T02:08:57"
+          "summary": "AI工程领域正经历一场激烈的范式之争：随着模型能力的快速进化，那些精心设计的系统框架究竟是资产还是负债？本文深入剖析‘底模派’与‘Harness派’的核心分歧，揭示两种工程哲学背后关于智能本质的深层思考，并指出从业者如何在技术迭代中构建真正持久的价值。一、这个争论正在你的工位上发生故事是这样开始的。团队刚刚上线了一套 Agent 系统，花了三个月时间：RAG pipeline、记忆模块、任务拆解框...",
+          "published_at": "2026-03-24T09:12:30"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 12,
+      "count": 13,
       "items": [
         {
           "title": "Design for Amiability: Lessons from Vienna",
@@ -271,6 +298,15 @@
           "category": "网页设计",
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
+          "published_at": null
+        },
+        {
+          "title": "Unseen Studio 2025 Wrapped",
+          "url": "https://www.awwwards.com/sites/unseen-studio-2025-wrapped",
+          "author": "Unseen Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
           "published_at": null
         },
         {
@@ -331,43 +367,34 @@
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 3,
       "items": [
         {
-          "title": "Claude Usage Tracker",
-          "url": "https://www.producthunt.com/products/claude-usage-tracker",
-          "author": "Thanh Thien",
+          "title": "ChatWithAds for Klaviyo",
+          "url": "https://www.producthunt.com/products/chatwithads",
+          "author": "Amey Dabhade",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "See exactly how much you spend on Claude, across every toolDiscussion|Link",
-          "published_at": "2026-03-22T18:13:57"
+          "summary": "AI agent that turns ad data into answersDiscussion|Link",
+          "published_at": "2026-03-23T13:03:23"
         },
         {
-          "title": "Fastlane",
-          "url": "https://www.producthunt.com/products/fastlane-3",
-          "author": "Gaurav Thapa",
+          "title": "GitLaw Integrations",
+          "url": "https://www.producthunt.com/products/gitlaw",
+          "author": "Nick Holzherr",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Create viral content for your product in secondsDiscussion|Link",
-          "published_at": "2026-03-23T06:32:38"
+          "summary": "Trigger AI legal doc creation/review from 7,000+ appsDiscussion|Link",
+          "published_at": "2026-03-23T16:52:59"
         },
         {
-          "title": "WeixinClawBot",
-          "url": "https://www.producthunt.com/products/weixinclawbot",
-          "author": "Zac Zuo",
+          "title": "BotBoard",
+          "url": "https://www.producthunt.com/products/botboard",
+          "author": "Juuso Pankalahti",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The official WeChat pipeline for OpenClawDiscussion|Link",
-          "published_at": "2026-03-23T03:56:05"
-        },
-        {
-          "title": "DataSieve 2.0",
-          "url": "https://www.producthunt.com/products/textmine-extract-data-from-text",
-          "author": "Alberto Malagoli",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Extract structured data from text, files and archives.Discussion|Link",
-          "published_at": "2026-03-21T13:12:32"
+          "summary": "Task management for the age of agentsDiscussion|Link",
+          "published_at": "2026-03-23T06:27:42"
         }
       ]
     },
@@ -433,52 +460,43 @@
     },
     {
       "category": "设计资讯",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "What design education doesn’t prepare us for",
-          "url": "https://bit.ly/side-mag2",
+          "title": "3D.to.design: 3D models in Figma, finally",
+          "url": "https://bit.ly/side-div2",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Reflections from Stefan Sagmeister, Liza Enebeis, Erik Kessels, and 10 more creatives—in the new editorial UNLEARNED by Readymag.",
-          "published_at": "2026-03-23T08:56:00"
+          "summary": "Import a GLB, GLTF, OBJ, or turn any flat image into a 3D model. Rotate it, pick your angle, place it on canvas.",
+          "published_at": "2026-03-24T08:37:00"
         },
         {
-          "title": "The displacement of cognitive labor and what comes after",
-          "url": "https://sahajgarg.github.io/blog/cognitive-labor/",
+          "title": "Some things just take time",
+          "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "We are past the point where the question is whether artificial intelligence will exceed human capability across most cognitive domains.",
-          "published_at": "2026-03-23T08:55:57"
+          "summary": "On friction, patience, and planting trees.",
+          "published_at": "2026-03-24T08:36:05"
         },
         {
-          "title": "How well can you remember colors?",
-          "url": "https://dialed.gg/",
+          "title": "Cascade: icons for CSS properties",
+          "url": "https://designsurface.dev/cascade",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "We show you colors. You recreate them from memory. Challenge friends to beat your score. It’s harder than you think.",
-          "published_at": "2026-03-23T08:55:08"
+          "summary": "An open-source icon set where every icon represents a CSS property–value pair. Copy as SVG or React component.",
+          "published_at": "2026-03-24T08:35:37"
         },
         {
-          "title": "Delphitools",
-          "url": "https://tools.rmv.fyi/",
+          "title": "Broad timelines",
+          "url": "https://www.lesswrong.com/posts/6pDMLYr7my2QMTz3s/broad-timelines",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A collection of small, low stakes and low effort tools. No logins, no registration, no data collection.",
-          "published_at": "2026-03-23T08:54:30"
-        },
-        {
-          "title": "When shipping software becomes too easy",
-          "url": "https://blog.mozilla.ai/when-shipping-becomes-too-easy/",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "When building becomes effortless, the real constraint is no longer code. It’s clarity, product judgment, and knowing when not to ship.",
-          "published_at": "2026-03-23T08:53:51"
+          "summary": "What happens if we take our AI uncertainty seriously—if we act with epistemic humility.",
+          "published_at": "2026-03-24T08:34:54"
         }
       ]
     },
@@ -501,6 +519,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "社区速递 134 | 派友热议二月买了啥、升降落地阅读支架体验",
+          "url": "https://sspai.com/post/107738",
+          "author": "Matrix机器人",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。💬一派热议在 ...查看全文",
+          "published_at": "2026-03-24T08:47:42"
+        },
+        {
+          "title": "当历史被重新看见：用 iPad 和 Mac 辅助古代壁画修复",
+          "url": "https://sspai.com/post/107740",
+          "author": "waychane",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "提起iPad和Mac，我们总能想到各类创作者们用这些设备完成的现代艺术作品，比如用Procreate画出的精美数字画作、或是用Mac制作的创意平面插图。但你可能不知道的是，iPad和Mac也被广泛应用 ...查看全文",
+          "published_at": "2026-03-24T08:33:31"
+        },
+        {
+          "title": "vivo X300 泛亚铁路旅拍：飞车过大关的手机摄影分享",
+          "url": "https://sspai.com/post/106909",
+          "author": "Horten",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "只要保持随性，这世界就没有什么地方不能去第二次。查看全文",
+          "published_at": "2026-03-24T03:28:47"
+        },
         {
           "title": "派早报：华为举办春季全场景新品发布会等",
           "url": "https://sspai.com/post/107714",
@@ -527,33 +572,6 @@
           "source": "少数派",
           "summary": "我该不该用 MacBook Neo 入门 macOS？以及其他 Mac 我应该怎么选。查看全文",
           "published_at": "2026-03-23T06:38:38"
-        },
-        {
-          "title": "一日一技｜基于 Tasker 的节假日补班闹钟怎么做？",
-          "url": "https://sspai.com/post/106993",
-          "author": "化学心情下2",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "手握非国行的 Android 手机或者 Pixel 机型的小伙伴不妨试试。查看全文",
-          "published_at": "2026-03-23T03:30:00"
-        },
-        {
-          "title": "派早报：微软承诺多项 Windows 11 改善措施",
-          "url": "https://sspai.com/post/107674",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "微软承诺多项 Windows 11 改善措施Android 拟要求安装非商店应用前「冷静」一天知名摄影应用 Halide CEO 指控被苹果挖角的前联合创始人美国科技公司出现「刷 token」竞争Meta 的元宇宙计划走向终结预印本平台 arXiv 将脱离康奈尔大学独立运营看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
-          "published_at": "2026-03-22T22:52:13"
-        },
-        {
-          "title": "看见 App Store 生态的更多可能，Tim Cook 会见中国游戏开发者",
-          "url": "https://sspai.com/post/107642",
-          "author": "waychane",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "结束了在成都举办的Apple五十周年全球第二站活动之后，TimCook又马不停蹄地来到北京，与多位中国优秀的游戏开发者们会面交流，了解他们的作品及Apple技术对他们的支持。《逃离鸭科夫》是一款由开发 ...查看全文",
-          "published_at": "2026-03-22T09:07:23"
         }
       ]
     }
