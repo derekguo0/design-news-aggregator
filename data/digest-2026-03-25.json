@@ -1,27 +1,36 @@
 {
   "date": "2026-03-25T00:00:00",
-  "total_items": 65,
+  "total_items": 68,
   "sources": [
-    "CSS-Tricks",
+    "UX Design CC",
+    "Sidebar",
+    "Awwwards",
+    "Smashing Magazine",
+    "少数派",
     "Design Milk",
     "UX Planet",
-    "Smashing Magazine",
-    "优设网",
-    "Sidebar",
-    "A List Apart",
-    "NN/g (Nielsen Norman Group)",
-    "少数派",
     "人人都是产品经理",
-    "Awwwards",
-    "UX Design CC",
-    "Product Hunt"
+    "Product Hunt",
+    "优设网",
+    "A List Apart",
+    "CSS-Tricks",
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2026-03-25T02:35:52.508685",
+  "generated_at": "2026-03-25T13:20:17.284555",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 14,
+      "count": 15,
       "items": [
+        {
+          "title": "The three thirds",
+          "url": "https://uxdesign.cc/the-three-thirds-2fba0a893a85?source=rss----138adf9c44c---4",
+          "author": "Vlad Derdeicea",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "An entire generation of designers climbed the ladder. A third say it got better. A third say it got worse. A third aren’t sure.Photo by360floralflavesonUnsplashSomeone asked me what I do at a dinner l...",
+          "published_at": "2026-03-25T08:27:08"
+        },
         {
           "title": "Design debt is now as dangerous as technical debt",
           "url": "https://uxdesign.cc/design-debt-is-now-as-dangerous-as-technical-debt-4b4166b9bc63?source=rss----138adf9c44c---4",
@@ -104,13 +113,13 @@
           "published_at": "2026-03-23T21:33:43"
         },
         {
-          "title": "AR glasses are here, but what about accessibility?",
-          "url": "https://uxdesign.cc/ar-glasses-are-here-but-what-about-accessibility-0f2d04a4d123?source=rss----138adf9c44c---4",
-          "author": "Catherine Chu",
+          "title": "Why ChatGPT-Style Answers are the Future of Site Search and How to Add It to Your Website",
+          "url": "https://uxplanet.org/why-chatgpt-style-answers-are-the-future-of-site-search-and-how-to-add-it-to-your-website-b5d3b7bc9206?source=rss----819cc2aaeee0---4",
+          "author": "uxplanet.org",
           "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "Can multi-sensory experience take it one step further?Image created by AI tool ElevenLabsBig companies like XREAL and Meta have released their new AR glasses over the past few months. Unlike bulky VR ...",
-          "published_at": "2026-03-23T08:36:22"
+          "source": "UX Planet",
+          "summary": "Conversational user interface is quickly becoming a new standard of how we interact with digital products and services. The rise of ChatGPT, Claude, and Gemini had a tremendous impact on how people ex...",
+          "published_at": "2026-03-25T11:18:18"
         },
         {
           "title": "Top 5 Google Stitch Features",
@@ -215,6 +224,15 @@
       "count": 11,
       "items": [
         {
+          "title": "Artek and Heath Ceramics’ New Tile Tables Cleverly Cohere Clay with Wood",
+          "url": "https://design-milk.com/artek-and-heath-ceramics-new-tile-tables-cleverly-cohere-clay-with-wood/",
+          "author": "Adrian Madlener",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "The expanded furniture collection continues to demonstrate the validity of complementary design brands coming together to merge their material and manufacturing expertise.",
+          "published_at": "2026-03-25T13:00:41"
+        },
+        {
           "title": "Satinine’s Oficina Milanese Balances Memory and Modernity, Rigor with Intimacy",
           "url": "https://design-milk.com/satinines-oficina-milanese-balances-memory-and-modernity-rigor-with-intimacy/",
           "author": "Aria Lee",
@@ -260,58 +278,49 @@
           "published_at": "2026-03-23T14:00:44"
         },
         {
-          "title": "This Camping Gear Conjures Nostalgia to Meet the Moment",
-          "url": "https://design-milk.com/this-camping-gear-conjures-nostalgia-to-meet-the-moment/",
-          "author": "Adrian Madlener",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Jasper Morrison’s 30-piece Outdoor Market collection, developed for HAY and on sale with both MoMA Design Store and Design Within Reach, covers the essentials with only just a bit of stylistic flex.",
-          "published_at": "2026-03-23T13:00:01"
-        },
-        {
-          "title": "软件不再只是软件了，欢迎来到Claw时代",
-          "url": "https://www.woshipm.com/share/6362920.html",
-          "author": "曙欧巴",
+          "title": "当Vibe Coding敲响程序员的丧钟，请看这篇全民开发时代的生存指南！",
+          "url": "https://www.woshipm.com/ai/6362832.html",
+          "author": "古元",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当网易云音乐等主流应用全面接入OpenClaw，软件的本质正在发生根本性变革。AI不再只是聊天工具，而是长出了'手脚'，开始真正接管工作流程。从被动响应到主动执行，从功能提供到任务完成，这场由Agent驱动的范式转移正在重塑人机交互的底层逻辑。本文深度剖析Claw时代如何重新定义软件价值，以及这对创业者和数字工作者的深远影响。这两天在群里聊天，大家都在聊一件事：最近很多国内AI公司，开始一窝蜂升级...",
-          "published_at": "2026-03-25T02:29:30"
+          "summary": "Vibe Coding正在颠覆传统编程逻辑，只需用‘直觉描述’就能让AI自动生成完整代码，从辣味牛肉面到商业应用开发，这种‘氛围编程’正以指数级速度进化。本文深入剖析这场技术革命如何重构开发流程、淘汰单一技能岗位，并揭示未来职场‘编程+复合能力’的全新生存法则。一、什么是 Vibe Coding？一个“点外卖”的比喻想象一下，你想点一份“辣味牛肉面”，但你不会做饭，也不懂厨艺。于是你打开手机，对着...",
+          "published_at": "2026-03-25T09:13:23"
         },
         {
-          "title": "OpenClaw 为什么会爆火？真正值钱的不是“养虾”，而是你原本就在做什么",
-          "url": "https://www.woshipm.com/ai/6361934.html",
-          "author": "一亮AI",
+          "title": "AI 用户破 6 亿后，产品经理该停止“拉新叙事”了",
+          "url": "https://www.woshipm.com/ai/6363186.html",
+          "author": "AIGC土豆",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "OpenClaw 的爆火不仅是 AI Agent 产品的崛起，更标志着工作流革命的开端。它突破了传统聊天机器人的局限，让 AI 首次以『数字员工』身份深度介入任务链路，从信息响应升级为流程接管。本文将深度解析 Agent 产品的核心价值与落地困境，揭示真正决定成败的四个关键维度，并探讨如何跨越从『现象级热度』到『规模化落地』的产业鸿沟。过去几个月，OpenClaw 的爆火几乎成了一种现象级事件。G...",
-          "published_at": "2026-03-25T02:21:59"
+          "summary": "6亿用户时代的AI产品竞争，正在经历从认知红利到留存挑战的深刻转变。当生成式AI普及率突破42.8%，产品经理面临的核心问题已不是如何吸引用户试用，而是如何让AI真正融入工作流。本文深入剖析AI产品必经的三个关键转折，揭示决定用户留存的三大要素，并给出从任务设计到垂直场景的实战策略。第 57 次《中国互联网络发展状况统计报告》显示，截至 2025 年 12 月，我国生成式人工智能用户达到 6.02...",
+          "published_at": "2026-03-25T09:07:21"
         },
         {
-          "title": "实测内容Agent Ribbi，我真没想到虾还能这样玩",
-          "url": "https://www.woshipm.com/share/6362898.html",
-          "author": "卡尔的AI沃茨",
+          "title": "为什么你的竞品分析总被吐槽“没用”？",
+          "url": "https://www.woshipm.com/share/6362460.html",
+          "author": "Sally",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当内容创作遇上AI Agent，Ribbi带来的23个技能正在重新定义创作流程。从账号分析到视频切片，从趋势追踪到海报生成，这款专为内容创作者设计的智能助手将复杂工作流封装成即点即用的技能。本文通过深度实测，揭秘Ribbi如何实现从灵感获取到内容发布的全链路自动化，让创作者真正实现'一鱼多吃'的效率革命。蛙来了，蛙来了，它带着23个全是内容创作的Skills，在我浏览器这片池塘里跳出来了。这两天的...",
-          "published_at": "2026-03-25T02:17:36"
+          "summary": "在流量红利消退的今天，品牌如何突破增长瓶颈？本文从竞品对标、流量拆解到转化优化，手把手拆解一套可落地的竞品分析框架，揭秘如何通过精准定位、差异化创新实现ROI翻倍增长。无论是蓝海人群挖掘还是爆款内容复用，每个策略都直击当前品牌营销的核心痛点。本文就围绕多数品牌推广成本变高、流量越来越贵、转化低、ROI难突破、不懂竞品差异化的核心痛点，从竞品对标、流量拆解、人群定位、内容优化、产品转化等维度，分享一...",
+          "published_at": "2026-03-25T08:49:14"
         },
         {
-          "title": "本地大模型的”豪华驾驶舱”：Open WebUI深度测评",
-          "url": "https://www.woshipm.com/ai/6362742.html",
-          "author": "AI星球",
+          "title": "OpenAI捅了自己一刀：Sora暴毙，资本不相信眼泪",
+          "url": "https://www.woshipm.com/ai/6363159.html",
+          "author": "谢璞笔记",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Open WebUI是一款开源自托管AI界面，专为Ollama等本地大模型打造。凭借128k GitHub Stars和749名贡献者，它已成为私有化AI部署的首选方案。支持RAG知识库、多模型管理、语音视频通话等功能，完全离线运行，隐私安全有保障。最近在GitHub上看到一款开源项目，上线不到两年狂揽128k Stars，成为本地大模型部署领域的”顶流”。它就是——Open WebUI。如果说O...",
-          "published_at": "2026-03-25T02:16:21"
+          "summary": "Sora的突然死亡让整个AI圈为之一震。这款曾被寄予厚望的视频生成神器，从惊艳亮相到黯然离场仅25个月，背后折射出AI行业从技术狂热向商业理性的残酷转型。当字节跳动SeeDance与抖音生态完美咬合时，OpenAI不得不面对一个冰冷事实：没有业务场景支撑的AI工具，再惊艳也难逃被资本清算的命运。Sora猝死，我很感慨，虽是意料中，时间却很仓促，猝不及防。毕竟Sora是含着金汤匙出生的，系出名门，O...",
+          "published_at": "2026-03-25T08:42:56"
         },
         {
-          "title": "运输管理：POD与签收怎么做，才能让交付与结算用同一套“证据”说话？",
-          "url": "https://www.woshipm.com/share/6362842.html",
-          "author": "天涯轩",
+          "title": "OpenAI 挥刀 Sora，不只是止损",
+          "url": "https://www.woshipm.com/ai/6363156.html",
+          "author": "深流研究所",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在货代运输链路里，POD（交付凭证）经常被当成“上传附件”：司机拍一张照片就算完成。结果是：回单模糊、缺章缺签、时间地点对不上，客户不认、承运商不认，最后费用对账、索赔、客服全卡住。更适合货代的做法，是把POD当作“交付证据链”来管理：采集、质量校验、验真、补采回退、归档共享、触发计费。本文从产品视角拆解POD与签收管理：如何把交付从“口头完成”变成“可验证事实”，让交付闭环与现金闭环真正连起来。...",
-          "published_at": "2026-03-25T02:12:17"
+          "summary": "OpenAI突然宣布关闭Sora应用，背后暗藏战略大转向。从视频生成到电商功能收缩，这家AI巨头正在重塑核心定位——聚焦ChatGPT主入口、强化生产力工具属性、构建代理能力生态。本文将深入拆解OpenAI这场战略收缩背后的商业逻辑与竞争格局变化。OpenAI 计划关闭 Sora 应用，一个曾经代表 AI 视频想象力的项目，从横空出世到快速收场，留给外界的似乎只是唏嘘。只看表面，这又是典型的”明星...",
+          "published_at": "2026-03-25T08:42:47"
         }
       ]
     },
@@ -383,6 +392,15 @@
           "published_at": null
         },
         {
+          "title": "Corentin Bernadou Portfolio",
+          "url": "https://www.awwwards.com/sites/corentin-bernadou-portfolio",
+          "author": "Corentin Bernadou",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Unseen Studio 2025 Wrapped",
           "url": "https://www.awwwards.com/sites/unseen-studio-2025-wrapped",
           "author": "Unseen Studio",
@@ -435,48 +453,48 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Aupale Vodka",
-          "url": "https://www.awwwards.com/sites/aupale-vodka",
-          "author": "Locomotive",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 4,
       "items": [
         {
-          "title": "What The Duck!",
-          "url": "https://www.producthunt.com/products/what-the-duck-2",
-          "author": "Jimmy Mehta",
+          "title": "TurboQuant",
+          "url": "https://www.producthunt.com/products/turboquant",
+          "author": "Adithya Shreshti",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Duck Hunt but with your finger and custom targetsDiscussion|Link",
-          "published_at": "2026-03-23T21:53:34"
+          "summary": "New LLM compression algorithm by GoogleDiscussion|Link",
+          "published_at": "2026-03-25T06:32:33"
         },
         {
-          "title": "Claude Computer Use",
+          "title": "Releaslyy AI",
+          "url": "https://www.producthunt.com/products/releaslyy-ai",
+          "author": "sandeep b",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Pulls in changes from your tools and generates release notesDiscussion|Link",
+          "published_at": "2026-03-24T06:07:45"
+        },
+        {
+          "title": "Auto Mode by Claude Code",
           "url": "https://www.producthunt.com/products/claude",
-          "author": "Rohan Chaubey",
+          "author": "Aleksandar Blazhev",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Enable Claude to use your computer to complete tasksDiscussion|Link",
-          "published_at": "2026-03-23T21:41:13"
+          "summary": "Let Claude make permission decisions on your behalfDiscussion|Link",
+          "published_at": "2026-03-24T18:39:26"
         },
         {
-          "title": "jared.so",
-          "url": "https://www.producthunt.com/products/jared-so",
-          "author": "Rohan Chaubey",
+          "title": "Uni-1 by Luma",
+          "url": "https://www.producthunt.com/products/luma-ai",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI that monitors convos & proactively jumps in when neededDiscussion|Link",
-          "published_at": "2026-03-24T00:25:04"
+          "summary": "A unified foundation model that thinks in pixelsDiscussion|Link",
+          "published_at": "2026-03-24T10:31:28"
         }
       ]
     },
@@ -542,43 +560,52 @@
     },
     {
       "category": "设计资讯",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "3D.to.design: 3D models in Figma, finally",
-          "url": "https://bit.ly/side-div2",
+          "title": "AI and the Rosetta Stone",
+          "url": "https://yannglt.com/writing/ai-and-the-rosetta-stone",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Import a GLB, GLTF, OBJ, or turn any flat image into a 3D model. Rotate it, pick your angle, place it on canvas.",
-          "published_at": "2026-03-24T08:37:00"
+          "summary": "How AI turns translation into runtime and why preserving intent between human ambiguity and machine precision is now the real craft.",
+          "published_at": "2026-03-25T08:40:30"
         },
         {
-          "title": "Some things just take time",
-          "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
+          "title": "Mockdown: ASCII wireframe editor",
+          "url": "https://www.mockdown.design/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "On friction, patience, and planting trees.",
-          "published_at": "2026-03-24T08:36:05"
+          "summary": "Free browser-based ASCII wireframe editor. Design UI mockups, lo-fi prototypes, and text diagrams with drag-and-drop components.",
+          "published_at": "2026-03-25T08:40:01"
         },
         {
-          "title": "Cascade: icons for CSS properties",
-          "url": "https://designsurface.dev/cascade",
+          "title": "On clip-path animations",
+          "url": "https://karlkoch.me/writing/on-clip-path-animations",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "An open-source icon set where every icon represents a CSS property–value pair. Copy as SVG or React component.",
-          "published_at": "2026-03-24T08:35:37"
+          "summary": "How CSS clip-path animations can move beyond simple fades to create tactile, high-end motion.",
+          "published_at": "2026-03-25T08:39:17"
         },
         {
-          "title": "Broad timelines",
-          "url": "https://www.lesswrong.com/posts/6pDMLYr7my2QMTz3s/broad-timelines",
+          "title": "Web Rewind",
+          "url": "https://www.web-rewind.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "What happens if we take our AI uncertainty seriously—if we act with epistemic humility.",
-          "published_at": "2026-03-24T08:34:54"
+          "summary": "An interactive journey through 30 years of the web.",
+          "published_at": "2026-03-25T08:38:11"
+        },
+        {
+          "title": "The political use of operating systems",
+          "url": "https://thelibre.news/the-political-use-of-operating-systems/",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "How operating systems shape the way we interact with institutions, private entities and peers.",
+          "published_at": "2026-03-25T08:37:47"
         }
       ]
     },
@@ -602,6 +629,42 @@
       "count": 6,
       "items": [
         {
+          "title": "整合管理与协作能力，Apple 推出企业服务平台「Apple 商务」",
+          "url": "https://sspai.com/post/107800",
+          "author": "waychane",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Apple今日宣布面向企业用户推出全新一站式服务平台：Apple商务，将于4月14日在超过200个国家和地区正式发布。Apple商务(AppleBusiness)是Apple对于目前针对商业客户推出的 ...查看全文",
+          "published_at": "2026-03-25T09:42:06"
+        },
+        {
+          "title": "探访帝国之心，吴哥旅行完全指南（下）：景点体验",
+          "url": "https://sspai.com/post/106822",
+          "author": "鸿苓",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "出发前我对柬埔寨的想象里装满了不确定性，真正踏上这片土地之后，心却奇怪地安静下来。查看全文",
+          "published_at": "2026-03-25T08:00:00"
+        },
+        {
+          "title": "直面「猝死」这个话题：你需要了解哪些知识？",
+          "url": "https://sspai.com/post/65228",
+          "author": "刀客特Leslie",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "心内科博士又来吓唬你了！（不是查看全文",
+          "published_at": "2026-03-25T06:31:17"
+        },
+        {
+          "title": "iOS 26.4 值得关注的新特性",
+          "url": "https://sspai.com/post/107743",
+          "author": "Vanilla",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "在经历了iOS26.3版本的小幅改动之后，Apple在iOS26.4推出了诸多实用、重要的更新内容，包括AppleMusic、播客、CarPlay、提醒事项、家庭共享等在内都得到了显著的优化提升。接下 ...查看全文",
+          "published_at": "2026-03-25T03:37:19"
+        },
+        {
           "title": "派早报：一加 15T 正式发布、Apple 推送全平台 26.4 版本更新等",
           "url": "https://sspai.com/post/107769",
           "author": "少数派编辑部",
@@ -618,42 +681,6 @@
           "source": "少数派",
           "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。💬一派热议在 ...查看全文",
           "published_at": "2026-03-24T08:47:42"
-        },
-        {
-          "title": "当历史被重新看见：用 iPad 和 Mac 辅助古代壁画修复",
-          "url": "https://sspai.com/post/107740",
-          "author": "waychane",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "提起iPad和Mac，我们总能想到各类创作者们用这些设备完成的现代艺术作品，比如用Procreate画出的精美数字画作、或是用Mac制作的创意平面插图。但你可能不知道的是，iPad和Mac也被广泛应用 ...查看全文",
-          "published_at": "2026-03-24T08:33:31"
-        },
-        {
-          "title": "vivo X300 泛亚铁路旅拍：飞车过大关的手机摄影分享",
-          "url": "https://sspai.com/post/106909",
-          "author": "Horten",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "只要保持随性，这世界就没有什么地方不能去第二次。查看全文",
-          "published_at": "2026-03-24T03:28:47"
-        },
-        {
-          "title": "派早报：华为举办春季全场景新品发布会等",
-          "url": "https://sspai.com/post/107714",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "少数派的近期动态少数派迎来14周岁，为了与大家共同庆祝我派的生日，我们的软件商城、会员服务和付费栏目都为大家准备了丰厚的优惠。前往选购BeatBox盖板设计实录：用一块透明亚克力，把奇妙灵感凝成实体。 ...查看全文",
-          "published_at": "2026-03-24T00:38:39"
-        },
-        {
-          "title": "派评 | 近期值得关注的 App",
-          "url": "https://sspai.com/post/107690",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
-          "published_at": "2026-03-23T10:01:57"
         }
       ]
     }
