@@ -1,23 +1,22 @@
 {
   "date": "2026-03-27T00:00:00",
-  "total_items": 74,
+  "total_items": 67,
   "sources": [
-    "CSS-Tricks",
-    "优设网",
-    "Smashing Magazine",
-    "Product Hunt",
+    "NN/g (Nielsen Norman Group)",
     "少数派",
-    "UX Planet",
+    "Smashing Magazine",
+    "UX Design CC",
+    "A List Apart",
+    "CSS-Tricks",
     "Intercom Blog",
     "Sidebar",
-    "A List Apart",
-    "NN/g (Nielsen Norman Group)",
     "人人都是产品经理",
-    "UX Design CC",
-    "Awwwards",
-    "Design Milk"
+    "优设网",
+    "Design Milk",
+    "UX Planet",
+    "Product Hunt"
   ],
-  "generated_at": "2026-03-27T02:45:24.701900",
+  "generated_at": "2026-03-27T13:16:08.834070",
   "categories": [
     {
       "category": "用户体验设计",
@@ -234,6 +233,15 @@
       "count": 13,
       "items": [
         {
+          "title": "F5: Jason Roskey on Baja Sur, a Welsh Chair, Sprinter Van + More",
+          "url": "https://design-milk.com/f5-jason-roskey-on-baja-sur-a-welsh-chair-sprinter-van-more/",
+          "author": "Anna Zappia",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Jason Roskey, woodworker and founder of Fern, shares some of his favorite places and things, from a secret creek in the Catskills to a movie poster, and more.",
+          "published_at": "2026-03-27T13:00:51"
+        },
+        {
           "title": "Holzrausch Extends a Wilhelminian-Era Frankfurt Penthouse",
           "url": "https://design-milk.com/holzrausch-extends-a-wilhelminian-era-frankfurt-penthouse/",
           "author": "Leo Lei",
@@ -279,15 +287,6 @@
           "published_at": "2026-03-25T13:00:41"
         },
         {
-          "title": "Satinine’s Oficina Milanese Balances Memory and Modernity, Rigor with Intimacy",
-          "url": "https://design-milk.com/satinines-oficina-milanese-balances-memory-and-modernity-rigor-with-intimacy/",
-          "author": "Aria Lee",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Inspired by Italian architecture styles of the 1930's, Satinine's new Oficina Milanese luxuriates in an immersive blend of connected spaces.",
-          "published_at": "2026-03-24T15:00:40"
-        },
-        {
           "title": "Announcing Fin Apex: The age of vertical models is here",
           "url": "https://www.intercom.com/blog/announcing-fin-apex-the-age-of-vertical-models-is-here/",
           "author": "Eoghan McCabe",
@@ -306,55 +305,55 @@
           "published_at": "2026-03-25T17:50:35"
         },
         {
-          "title": "内容数据，是产品会说话的那部分",
-          "url": "https://www.woshipm.com/pd/6364105.html",
-          "author": "Yeeda益达",
+          "title": "做数据十年，这是我见过最好的因果推断模型！",
+          "url": "https://www.woshipm.com/share/6364776.html",
+          "author": "接地气的陈老师",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "数据看板上全是绿色箭头，用户反馈却一片抱怨——这可能是产品经理最困惑的时刻。本文揭示了内容数据的独特价值：它不仅是用户行为的记录，更是注意力流向与情感倾向的温度计。从冷启动期到衰退期，内容数据如何成为产品生命周期的预警系统？AI技术又将如何放大内容数据的预测与生成能力？带你读懂用户藏在点击与停留背后的真实声音。我以为数据是冷的，直到我开始做产品那是一次让我久久困惑的产品会议。我们在复盘一个资讯类功...",
-          "published_at": "2026-03-27T02:18:21"
+          "summary": "做数据十年，这是我见过最好的因果推断模型！从拆解法、相关系数法到随机试验、匹配法（DID/PSM/RDD），一文讲透四种找原因的实战方法。“到底导致问题的原因是什么！”是新手同学最怕遇到的问题。今天陈老师一次介绍4种办法，从土办法到模型都有！记下来，以后再不纠结常见方法1：拆解法拆解法即：把一个结果指标，从多个角度拆解，差异大的就是原因。举例：昨天有4个推广渠道，一共获客100，今天只获客80，问...",
+          "published_at": "2026-03-27T08:38:36"
         },
         {
-          "title": "AI日报：从开源框架到行业标准，中国AI产业正在构建自己的技术话语体系",
-          "url": "https://www.woshipm.com/ai/6364400.html",
-          "author": "老曹",
+          "title": "网上的“信息不对称”永远存在",
+          "url": "https://www.woshipm.com/share/6364775.html",
+          "author": "郭静",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "大家好，我是老曹。今天中关村论坛正在火热进行中，AI圈又出了不少大事。最让我关注的是具身智能领域首个行业标准正式发布，这意味着中国的机器人产业终于要进入规范化发展阶段了。另外GitHub的一个决定也引发了不小争议——4月24日起默认用Copilot用户数据训练AI，隐私问题再次成为焦点。话不多说，看看今天有哪些值得关注的动态。#一、AI Coding 方向（5条）1. GitHub宣布：4月24日...",
-          "published_at": "2026-03-27T02:15:53"
+          "summary": "互联网看似消弭了\"信息不对称\"，实则制造了更大的信息鸿沟。信息过载让每个人都存在认知盲点，算法推荐强化个体差异形成\"千人千面\"的茧房，平台差异化定价（大数据杀熟）更让平等成为幻觉。当快手日上传4000万条短视频、抖音月增2.2亿条视频，\"隔行如隔山\"在网上体现得淋漓尽致——只要走出自己的圈子，到处都是信息差。托马斯•弗里德曼在互联网行业发展早期曾提出过一个概念——世界是平的。随着windows系统...",
+          "published_at": "2026-03-27T08:34:22"
         },
         {
-          "title": "20个小红书爆文选题方法，轻松打造爆款笔记",
-          "url": "https://www.woshipm.com/operate/6364057.html",
-          "author": "且行舟",
+          "title": "当AI成为数字员工，我们还要不要坚持“低效”？",
+          "url": "https://www.woshipm.com/share/6364748.html",
+          "author": "YTY",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "小红书的内容同质化现象让无数博主陷入焦虑。本文揭秘20种爆款选题方法，教你如何用差异化视角突破重围——从避坑指南到真实经历，从测评对比到情绪共鸣，每个选题都配有实战操作指南、差异化切入点与爆款技巧。让同样的内容因你的独特视角而脱颖而出，告别千篇一律的创作困局。现在做小红书博主有多卷？同一个选题、同一种话术，随便一搜能刷出上百篇相似笔记，你辛辛苦苦写的内容，转眼就被淹没，小眼睛破千都难。然后你开始焦...",
-          "published_at": "2026-03-27T02:10:02"
+          "summary": "AI从\"高级智囊\"进化为\"数字员工\"，我们却面临致命悖论：当执行全面外包给AI，判断能力从何而来？没有经历过\"低效\"的切菜岁月，如何拥有分辨火候差三分的绝对味觉？破局之道在于认知杠铃策略——核心能力构建时做死磕低效的古典苦行僧，工作交付时做高效的AI指挥家。用左边统御右边，才是AI时代真正的生门。一年前，我曾在公众号写过一篇文章：AI 时代最重要的能力——判断能力在写那篇文章的2025年，AI 的...",
+          "published_at": "2026-03-27T08:24:21"
         },
         {
-          "title": "别再教用户骑马了，马具应该你来设计",
-          "url": "https://www.woshipm.com/ai/6363621.html",
-          "author": "agent碎碎念",
+          "title": "大厂AI产品为什么越来越像？",
+          "url": "https://www.woshipm.com/share/6364720.html",
+          "author": "骆齐",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI产品的用户体验为何总让用户感到疲惫？从桌游助手的数据整理到OpenAI的'Harness Engineering'概念，本文揭示了AI产品设计中普遍存在的'裸马'问题——用户被迫在每次交互中重复构建上下文。文章深度拆解产品层面的'马具'设计三要素：任务边界的锁定、上下文的预置以及可见的验收标准，为产品经理提供从聊天框思维转向任务配置思维的实战方法论。为什么你做的AI产品，用户用起来总觉得累？上...",
-          "published_at": "2026-03-27T02:05:19"
+          "summary": "大厂AI产品为何越长越像？不是抄作业，而是底层能力不确定下的理性避险——赌\"独特功能\"可能被模型更新抹平，不如等能力稳定再差异化。用户调研只擅长发现\"已知需求\"，组织结构天然淘汰激进想法，KPI考核留存而非创新。你有没有发现，打开任何一款大厂AI助手，左边是对话列表，中间是输入框，右上角是模型切换按钮，底部有几个”快速指令”。用完之后，你甚至记不清刚才用的是哪一款。这不是巧合，也不是懒惰。这是一场...",
+          "published_at": "2026-03-27T08:00:32"
         },
         {
-          "title": "少走 90% 弯路！记住这几点，电商 AI 从想法落地赚钱",
-          "url": "https://www.woshipm.com/ai/6363968.html",
-          "author": "辰森AI研习社",
+          "title": "AI 有自私的基因吗？",
+          "url": "https://www.woshipm.com/share/6364680.html",
+          "author": "大伟的数字分身",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI技术如何真正赋能电商行业？从售后处理到广告投放，从视觉设计到员工协作，AI正在重塑电商企业的运营模式。本文通过真实案例剖析，揭示电商企业落地AI的四大关键策略：找准痛点、小步快跑、人机协同和老板主导，帮助企业在效率与温度间找到平衡点。最近和几个电商老板聊天，大家都在问同一个问题：AI到底怎么用才能见效？今天我就结合一些真实案例，聊聊AI在电商企业里怎么落地。先找痛点，别追热点很多企业一上来就想...",
-          "published_at": "2026-03-27T01:46:30"
+          "summary": "AI能识别三轮车，却读不懂\"占车位\"——面对公共停车位上的三轮车，AI只会推理\"方便店主进货\"，人类却能瞬间get这是自私占位的潜规则。测试揭示当下AI的局限：没有训练数据就无法推理\"混乱无序\"的现实，而人类大脑仅需少量经验即可应对。AI 能理解人类的自私行为吗？亦或换个说法：AI 有自私的基因吗？测试任务：看 AI 能否识别出这是在干嘛（能识别出占停车位的场景吗?）测试场景：路边公共停车位和小区...",
+          "published_at": "2026-03-27T07:30:07"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 15,
+      "count": 8,
       "items": [
         {
           "title": "The Site-Search Paradox: Why The Big Box Always Wins",
@@ -427,129 +426,75 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
-        },
-        {
-          "title": "GQ & AP The Extraordinary Lab",
-          "url": "https://www.awwwards.com/sites/gq-ap-the-extraordinary-lab",
-          "author": "Immersive Garden",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Corentin Bernadou Portfolio",
-          "url": "https://www.awwwards.com/sites/corentin-bernadou-portfolio",
-          "author": "Corentin Bernadou",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Unseen Studio 2025 Wrapped",
-          "url": "https://www.awwwards.com/sites/unseen-studio-2025-wrapped",
-          "author": "Unseen Studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "FC Porto Memorial",
-          "url": "https://www.awwwards.com/sites/fc-porto-memorial",
-          "author": "Significa",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Darknode",
-          "url": "https://www.awwwards.com/sites/darknode",
-          "author": "Qream",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Stuff by Kris Temmerman",
-          "url": "https://www.awwwards.com/sites/stuff-by-kris-temmerman",
-          "author": "Kris Temmerman",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Aventura Dental Arts",
-          "url": "https://www.awwwards.com/sites/aventura-dental-arts",
-          "author": "The First The Last",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 7,
       "items": [
         {
-          "title": "Listen To This",
-          "url": "https://www.producthunt.com/products/listen-to-this",
-          "author": "Nick Abouzeid",
+          "title": "Codex Plugins",
+          "url": "https://www.producthunt.com/products/openai",
+          "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Paste an article to listen to it in your podcast appDiscussion|Link",
-          "published_at": "2026-03-25T14:23:25"
+          "summary": "Package Codex skills and app integrations as pluginsDiscussion|Link",
+          "published_at": "2026-03-26T22:34:07"
         },
         {
-          "title": "MacNotch",
-          "url": "https://www.producthunt.com/products/macnotch-the-notch-reimagined",
-          "author": "Kanionmeni Etienne",
+          "title": "Claude Code auto-fix",
+          "url": "https://www.producthunt.com/products/claude-code-auto-fix-in-the-cloud",
+          "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn your MacBook notch into a modular dashboardDiscussion|Link",
-          "published_at": "2026-03-25T02:50:50"
+          "summary": "Auto-fix PRs in the cloud while you stay hands-offDiscussion|Link",
+          "published_at": "2026-03-26T17:27:33"
         },
         {
-          "title": "Dunky AI",
-          "url": "https://www.producthunt.com/products/dunky-ai-pitch-analyzer",
-          "author": "Elizabeth Yin",
+          "title": "Hunna",
+          "url": "https://www.producthunt.com/products/hunna",
+          "author": "Sebastian Cortes",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Practice your elevator pitch with Dunky AIDiscussion|Link",
-          "published_at": "2026-03-25T16:49:00"
+          "summary": "Profit App for Business FoundersDiscussion|Link",
+          "published_at": "2026-03-24T19:27:26"
         },
         {
-          "title": "Trivia by Typito AI",
-          "url": "https://www.producthunt.com/products/trivia-by-typito-ai",
-          "author": "Jijo Sunny",
+          "title": "Suno v5.5",
+          "url": "https://www.producthunt.com/products/suno",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Create viral quiz & trivia videos with AIDiscussion|Link",
-          "published_at": "2026-03-25T08:45:01"
+          "summary": "Create with your voice, tune models to your soundDiscussion|Link",
+          "published_at": "2026-03-27T04:02:38"
         },
         {
-          "title": "Anvil",
-          "url": "https://www.producthunt.com/products/anvil-5",
-          "author": "Zachary Denham",
+          "title": "hoop.dev - Claude Code Gateway",
+          "url": "https://www.producthunt.com/products/hoop-dev-for-databases",
+          "author": "Felipe Ramos",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Run a fleet of parallel Claude CodesDiscussion|Link",
-          "published_at": "2026-03-26T06:59:33"
+          "summary": "Connect Claude Code to your internal systems w/o credentialsDiscussion|Link",
+          "published_at": "2026-03-26T17:51:50"
         },
         {
-          "title": "Appoval",
-          "url": "https://www.producthunt.com/products/appoval",
-          "author": "Ludovic Horem",
+          "title": "Noctiluca",
+          "url": "https://www.producthunt.com/products/noctiluca",
+          "author": "Gyuhwan Park",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Ship to the App Store with confidenceDiscussion|Link",
-          "published_at": "2026-03-25T13:21:11"
+          "summary": "A new remote desktop for macOSDiscussion|Link",
+          "published_at": "2026-03-26T13:06:23"
+        },
+        {
+          "title": "InsideOrg",
+          "url": "https://www.producthunt.com/products/insideorg",
+          "author": "Rohan Chaubey",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Free organization chart viewer for any companyDiscussion|Link",
+          "published_at": "2026-03-26T06:25:29"
         }
       ]
     },
@@ -615,52 +560,43 @@
     },
     {
       "category": "设计资讯",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "So where are all the AI apps?",
-          "url": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html",
+          "title": "The evolution of craft",
+          "url": "https://carlsz.dev/posts/evolution-of-craft",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "If AI users are becoming 10x more productive, skeptics might reasonably ask: where are all the apps?",
-          "published_at": "2026-03-26T08:38:53"
+          "summary": "A new medium is here, or perhaps something more akin to a new fundamental force of nature.",
+          "published_at": "2026-03-27T05:48:57"
         },
         {
-          "title": "Typeflow.tools",
-          "url": "https://typeflow.tools/",
+          "title": "Shadcn/ui: the foundation for your design system",
+          "url": "https://ui.shadcn.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A free online tool that demonstrates how Cavalry can be used to build branded creative tools.",
-          "published_at": "2026-03-26T08:37:42"
+          "summary": "A set of beautifully designed open-source components that you can customize, extend, and build on.",
+          "published_at": "2026-03-27T05:48:24"
         },
         {
-          "title": "There are only two paths left for software",
-          "url": "https://a16z.com/there-are-only-two-paths-left-for-software/",
+          "title": "Anything Counter",
+          "url": "https://anythingconverter.com/anythingcounter/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Grow 10% or earn 40%, no middle path is left.",
-          "published_at": "2026-03-26T08:36:59"
+          "summary": "The hidden price of digital life in real time with real data.",
+          "published_at": "2026-03-27T05:46:59"
         },
         {
-          "title": "Fran Sans Essay",
-          "url": "https://emilysneddon.com/fran-sans-essay",
+          "title": "The curse of the cursor",
+          "url": "https://unsung.aresluna.org/the-curse-of-the-cursor/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "An interpretation of the destination displays found on some of the light rail vehicles that service the city of San Francisco.",
-          "published_at": "2026-03-26T08:36:30"
-        },
-        {
-          "title": "What 81,000 people want from AI",
-          "url": "https://www.anthropic.com/features/81k-interviews",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "How they use AI, what they dream it could make possible, and what they fear it might do.",
-          "published_at": "2026-03-26T08:35:49"
+          "summary": "How direct interaction is being replaced by hidden automation and why tactile control matters.",
+          "published_at": "2026-03-27T05:45:28"
         }
       ]
     },
@@ -684,6 +620,42 @@
       "count": 6,
       "items": [
         {
+          "title": "本周看什么 | 最近值得一看的 12 部作品",
+          "url": "https://sspai.com/post/107948",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "📅本周新预告《穹庐下的魔女》正式预告3月25日，TV动画《穹庐下的魔女》发布了首支正式预告，将于7月开始播出，6月在安纳西国际动画电影节首映。本作改编自同名漫画，山田尚子担任总导演，AbelGongo ...查看全文",
+          "published_at": "2026-03-27T10:30:18"
+        },
+        {
+          "title": "共创 | 守护孩子的天马行空：《写给家长的幼儿美术启蒙指南》上线",
+          "url": "https://sspai.com/post/107748",
+          "author": "谷丰",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "毕加索曾经在参观一个儿童画展时感叹道：我像他们这么大的时候，就能画得像拉斐尔一样好，但我花了一辈子才学会像孩子一样画画。这句感慨，意味着孩子的美术创作有着足以令现代艺术大师倾倒的魅力。这是因为，孩子未 ...查看全文",
+          "published_at": "2026-03-27T06:42:00"
+        },
+        {
+          "title": "共创栏目试读 | 美术专业就能做好幼儿美育启蒙吗？",
+          "url": "https://sspai.com/post/101488",
+          "author": "谷丰",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "按：本文是少数派共创栏目《写给家长的幼儿美术启蒙指南》的首篇文章。在共创模式下，我们鼓励少数派作者向我们提交创作提案和样稿，择优秀提案发布在少数派共创平台上，以便读者能更早获知教程上新动态。同时，我们 ...查看全文",
+          "published_at": "2026-03-27T06:37:02"
+        },
+        {
+          "title": "一日一技 | 用 SD Card Formatter 免费修复越用越慢的 SD 卡",
+          "url": "https://sspai.com/post/106559",
+          "author": "飘雷",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "大家如果遇到存储卡工作不正常的情况，也可以尝试用 SD Card Formatter 来修复一下。查看全文",
+          "published_at": "2026-03-27T03:34:39"
+        },
+        {
           "title": "派早报：iQOO 发布 Z11 系列手机等",
           "url": "https://sspai.com/post/107915",
           "author": "少数派编辑部",
@@ -700,42 +672,6 @@
           "source": "少数派",
           "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
           "published_at": "2026-03-26T11:00:50"
-        },
-        {
-          "title": "住久了没意思？租房常见问题与我的改造原则",
-          "url": "https://sspai.com/prime/story/how-to-renovate-a-rental",
-          "author": "程天冲",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "我最早写租房改造的文章，还是在深圳的时候，那篇文章也成为了我在少数派的第一篇首页推荐。如今又在上海住了三年，租住户型的变化也给了我更大的可发挥空间，然而前不久突然生出了在这里住腻了的想法。本来想着干脆 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "published_at": "2026-03-26T09:01:59"
-        },
-        {
-          "title": "空想特摄的浪漫（三）：超级战队系列",
-          "url": "https://sspai.com/post/107773",
-          "author": "ROB1N",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "三大特摄剧，只有战队被叫停，就连收视比它低得多的奥特曼都还活得好好的，问题究竟出在哪了？查看全文",
-          "published_at": "2026-03-26T08:00:00"
-        },
-        {
-          "title": "从走火入魔到退一步海阔天空，我的双拼输入法体验",
-          "url": "https://sspai.com/post/106086",
-          "author": "Kazure",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "published_at": "2026-03-26T06:30:57"
-        },
-        {
-          "title": "年度征文「决赛圈」：选出你的心中最佳",
-          "url": "https://sspai.com/post/107830",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "在广大少数派作者的积极参与下，少数派2025年度征文已圆满截稿。本次征文设置了两个赛道：#TeamSilicon（AI助力赛道）要求使用AI辅助完成文章核心内容写作，共7篇入围；#TeamCarbon ...查看全文",
-          "published_at": "2026-03-26T02:10:01"
         }
       ]
     }
