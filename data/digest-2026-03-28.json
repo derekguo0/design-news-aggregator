@@ -2,27 +2,36 @@
   "date": "2026-03-28T00:00:00",
   "total_items": 66,
   "sources": [
-    "少数派",
-    "NN/g (Nielsen Norman Group)",
-    "UX Design CC",
-    "CSS-Tricks",
-    "Product Hunt",
-    "人人都是产品经理",
-    "Design Milk",
-    "Intercom Blog",
     "A List Apart",
-    "UX Planet",
+    "少数派",
     "Awwwards",
+    "UX Design CC",
+    "人人都是产品经理",
+    "CSS-Tricks",
     "Sidebar",
+    "Intercom Blog",
+    "优设网",
+    "NN/g (Nielsen Norman Group)",
+    "UX Planet",
+    "Product Hunt",
     "Smashing Magazine",
-    "优设网"
+    "Design Milk"
   ],
-  "generated_at": "2026-03-28T02:34:40.938864",
+  "generated_at": "2026-03-28T13:03:45.583467",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 9,
+      "count": 10,
       "items": [
+        {
+          "title": "Google Stitch, design maturity guide, livable products",
+          "url": "https://uxdesign.cc/google-stitch-design-maturity-guide-livable-products-f2c960170b07?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“I woke up this morning to see Figma stocks had plummeted by nearly 12% as a result of Google formally launching its Google Stitch AI desig...",
+          "published_at": "2026-03-28T07:04:27"
+        },
         {
           "title": "Taste is not a feature",
           "url": "https://uxdesign.cc/taste-is-not-a-feature-720ca15366c7?source=rss----138adf9c44c---4",
@@ -243,49 +252,49 @@
           "published_at": "2026-03-25T17:50:35"
         },
         {
-          "title": "我不会写代码，但我用一天时间把AI生成的前端项目跑起来了",
-          "url": "https://www.woshipm.com/ai/6364705.html",
+          "title": "从成本中心到利润引擎：产品经理视角下的乳业AI+ISC全景方案",
+          "url": "https://www.woshipm.com/pd/6364914.html",
+          "author": "王佳亮",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "乳制品行业正面临短保质期、长供应链、高需求波动三大核心挑战，传统供应链管理模式已无法应对千亿级企业的运营需求。本文深度解析AI如何赋能ISC集成供应链战略，通过智能预测、动态调拨和全链路协同，将供应链从成本中心转变为利润中心，为乳企提供可落地的转型升级方案。在全球乳制品行业迈向规模化、数字化、品牌化的发展浪潮中，我国头部乳制品企业已迈入千亿营收规模，市场竞争从单一品牌、渠道、产品竞争，升级为全链路...",
+          "published_at": "2026-03-28T12:57:43"
+        },
+        {
+          "title": "钉钉Design CLI测评：钉钉小程序开发必备神器",
+          "url": "https://www.woshipm.com/ai/6365162.html",
+          "author": "AI星球",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "最近一直在关注企业级开发工具的新动向，发现钉钉开放平台推出了一个叫 Design CLI 的命令行工具。说实话，刚开始我以为又是那种配置复杂、文档不全的”半成品”开源项目——毕竟大厂开源的工具，懂的都懂。结果试了一下发现，这玩意儿居然能让开发者 5 分钟搭起一个小程序开发环境，还支持热更新和真机调试。这个定位挺清晰的，明显是冲着”降低钉钉小程序开发门槛”去的。一、钉钉 Design CLI 是什么...",
+          "published_at": "2026-03-28T11:23:24"
+        },
+        {
+          "title": "Prompt 工程实战：让 AI 输出专业方案的 5 个公式",
+          "url": "https://www.woshipm.com/share/6362813.html",
+          "author": "许与",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "AI时代的提问方式正在重构工作效率。本文通过药品推广方案的双盲测试，揭示Prompt工程如何将AI输出质量提升10倍。从角色设定到格式约束，5个万能公式+医药行业实战案例，手把手教你用Prompt精准激活大模型的专家级能力。写这篇文章之前，我做了个小测试。同一个问题，我用两种方式问 AI：问法 1：帮我写一个药品推广方案问法 2：你是一位有 10 年经验的医药营销专家，擅长处方药数字化推广。现在需...",
+          "published_at": "2026-03-28T11:19:20"
+        },
+        {
+          "title": "那道墙倒了之后",
+          "url": "https://www.woshipm.com/share/6364896.html",
+          "author": "AI产品璐飞",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "一个下午的偶然尝试，让我用自然语言和 Claude Code 做出了自己的浏览器插件。作为一名曾经的前端开发者、如今的产品经理，这次体验让我震惊：编程的门槛正在结构性坍塌。当AI让创意实现变得如此简单，那些耗时数年打磨产品的团队还有存在的意义吗？本文深度剖析了自然语言编程如何重塑产品逻辑，以及在人人都是创造者的时代，什么才是产品真正的核心价值。01 一个普通下午发生的事今天下午，我用 Claude...",
+          "published_at": "2026-03-28T10:17:21"
+        },
+        {
+          "title": "我把AI接进了自己做的产品——踩了四个坑",
+          "url": "https://www.woshipm.com/ai/6364715.html",
           "author": "YM",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "一个物理老师如何用AI工具从零搭建学情分析系统的前端界面？当代码报错如同陌生语言，GitHub Copilot如何成为24小时在线的技术导师？本文揭秘非技术背景者如何通过三步解题法，将教学思维迁移到编程领域，最终让AI生成的界面在浏览器中真实运行。上篇我写了自己用两天时间跑通了一个学情分析系统的POC。很多人问我：然后呢？然后我意识到一个问题——那个系统活在对话框里。它能诊断学生的物理错误概念，能...",
-          "published_at": "2026-03-28T02:12:15"
-        },
-        {
-          "title": "看懂了GTC 2026，则看清未来的AI方向",
-          "url": "https://www.woshipm.com/ai/6364683.html",
-          "author": "林裕虎",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "GTC2026揭示了英伟达远超硬件边界的战略野心——黄仁勋正通过芯片、网络、数据中心到开发生态的全栈布局，重新定义AI时代的基础设施权力结构。当行业还沉迷于大模型军备竞赛时，英伟达已悄然将战场转向推理时代，其构建的智能体运行环境正在颠覆传统SaaS的价值链，这场从工具供应商到智能产能控制者的蜕变，或将重塑未来十年的产业格局。很多人看完GTC2026，还停留在一个片面的理解里，英伟达这次又发新芯片了...",
-          "published_at": "2026-03-28T01:50:40"
-        },
-        {
-          "title": "你以为你在“叫车”，但滴滴早就知道你要去哪了",
-          "url": "https://www.woshipm.com/pd/6364531.html",
-          "author": "吴知",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "滴滴App首页一个看似简单的推荐卡片，正在悄然改变用户与产品的权力结构。从需求预测到方案生成，AI已经系统性接管了用户决策路径的三个关键节点——这不只是体验优化，更是一场关于'谁在做决定'的无声革命。本文将用五步分析法揭示AI如何重塑用户行为，并给出产品人必须警惕的自主权边界问题。一、一个被当成”小功能”的大变化我有一个习惯，每次更新完App都会截个图，留着对比以前的版本。前几天翻出2018年的滴...",
-          "published_at": "2026-03-28T01:19:55"
-        },
-        {
-          "title": "当企业里开始出现 100 个 Agent，产品经理该怎么管？",
-          "url": "https://www.woshipm.com/ai/6364679.html",
-          "author": "AIGC土豆",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "微软最新发布的Microsoft 365 Copilot Wave 3和即将推出的Agent 365，标志着企业AI管理进入全新阶段。文章深度解析微软如何将Agent管理从单点功能升级为系统级任务，揭示了企业AI从“能力比拼”到“治理竞争”的战略转向，为产品经理提供了四层关键治理框架和实战建议。3月9日，微软发布了 Microsoft 365 Copilot Wave 3，并宣布 Agent 36...",
-          "published_at": "2026-03-28T01:18:49"
-        },
-        {
-          "title": "第一次做 B 端产品，后台菜单一堆看不懂？我是这么啃下来的",
-          "url": "https://www.woshipm.com/share/6363327.html",
-          "author": "Alex的荒诞产品观",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "面对复杂B端后台系统时，新手如何快速建立认知框架？本文作者分享了一套亲测有效的「笨办法」：从梳理系统结构到实战三轮探索法，配合思维导图+Excel组合拳，带你破解B端系统的「迷宫式」设计。这些看似简单的工具和方法，正是产品经理从入门到精通的秘密武器。我不是大厂出身，也是第一次正经做 B 端。刚打开公司后台那会儿，左边一长串菜单，顶上还有「系统管理、业务办理、统计分析」，首页又是待审批、流程跟踪……...",
-          "published_at": "2026-03-28T00:08:28"
+          "summary": "从技术小白到产品思考者，一次API对接的曲折历程揭示了产品开发的深层逻辑。本文通过四个真实踩坑案例，揭秘开发者面对API Key配置、前后端通信、CORS跨域和数据处理时遇到的技术障碍如何转化为产品设计洞察，展现从概念验证到MVP落地的关键跃迁。我以为这很简单大概半小时的事。然后我花了一整天。踩了四个坑，每一个坑在当时都觉得是末日，回头看每一个都是必修课。第一个坑：API Key放哪里调用AI的A...",
+          "published_at": "2026-03-28T09:16:04"
         }
       ]
     },
@@ -357,6 +366,15 @@
           "published_at": null
         },
         {
+          "title": "SUTÉRA",
+          "url": "https://www.awwwards.com/sites/sutera",
+          "author": "Okey Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "The Lookback",
           "url": "https://www.awwwards.com/sites/the-lookback",
           "author": "Gil Huybrecht",
@@ -409,84 +427,66 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Stuff by Kris Temmerman",
-          "url": "https://www.awwwards.com/sites/stuff-by-kris-temmerman",
-          "author": "Kris Temmerman",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 7,
+      "count": 6,
       "items": [
         {
-          "title": "Audos Publishing House",
-          "url": "https://www.producthunt.com/products/socap",
-          "author": "Alexander Nevedovsky",
+          "title": "WordPress Studio CLI",
+          "url": "https://www.producthunt.com/products/wordpress-studio-cli",
+          "author": "Ankit Sharma",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Build an AI business, get up to $100K. No equity takenDiscussion|Link",
-          "published_at": "2026-03-26T15:49:08"
+          "summary": "WordPress Studio now has an independently installable CLIDiscussion|Link",
+          "published_at": "2026-03-27T19:31:58"
         },
         {
-          "title": "1DevTool",
-          "url": "https://www.producthunt.com/products/1devtool",
-          "author": "Khoa Nguyen",
+          "title": "Aera Browser",
+          "url": "https://www.producthunt.com/products/aera-browser",
+          "author": "Andrew Rivers",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Multi-project IDE with persistent terminals and 9 dev toolsDiscussion|Link",
-          "published_at": "2026-03-26T07:43:53"
+          "summary": "The browser built for automationDiscussion|Link",
+          "published_at": "2026-03-26T22:00:34"
         },
         {
-          "title": "Agentation",
-          "url": "https://www.producthunt.com/products/agentation",
-          "author": "Adithya Shreshti",
+          "title": "Spokk",
+          "url": "https://www.producthunt.com/products/spokk",
+          "author": "Samesh Wijeweera",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The visual feedback tool for AI agentsDiscussion|Link",
-          "published_at": "2026-03-26T11:22:36"
+          "summary": "Feedback, reviews, loyalty & referrals for SMBDiscussion|Link",
+          "published_at": "2026-03-26T09:16:54"
         },
         {
-          "title": "Stripe Projects",
-          "url": "https://www.producthunt.com/products/stripe-projects",
-          "author": "Adithya Shreshti",
+          "title": "Santana by Deep Softworks",
+          "url": "https://www.producthunt.com/products/santana",
+          "author": "Yousef Jan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Production-ready dev stack from your terminalDiscussion|Link",
-          "published_at": "2026-03-26T16:37:52"
+          "summary": "Performant, real-time data visualization in your terminalDiscussion|Link",
+          "published_at": "2026-03-27T12:45:33"
         },
         {
-          "title": "Suno v5.5",
-          "url": "https://www.producthunt.com/products/suno",
-          "author": "Zac Zuo",
+          "title": "DwellRecord",
+          "url": "https://www.producthunt.com/products/dwellrecord",
+          "author": "Matthew Price",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Create with your voice, tune models to your soundDiscussion|Link",
-          "published_at": "2026-03-27T04:02:38"
+          "summary": "Keep your home records all togetherDiscussion|Link",
+          "published_at": "2026-03-28T04:22:14"
         },
         {
-          "title": "Universal CLI by Composio",
-          "url": "https://www.producthunt.com/products/composio",
-          "author": "Sharath Kuruganty",
+          "title": "Glance",
+          "url": "https://www.producthunt.com/products/glance-give-claude-code-a-real-browser",
+          "author": "Meric Ozkayagan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Connect AI agents to 1000+ apps directly from your terminalDiscussion|Link",
-          "published_at": "2026-03-27T02:14:50"
-        },
-        {
-          "title": "Focus Flow 6.7 (Jira Plugin)",
-          "url": "https://www.producthunt.com/products/focus-flow",
-          "author": "Max Mykhailenko",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Plan vs reality and multi-team epic reviews in JiraDiscussion|Link",
-          "published_at": "2026-03-26T12:08:11"
+          "summary": "Real browser for Claude Code Test, Screenshot, AutomateDiscussion|Link",
+          "published_at": "2026-03-27T20:47:53"
         }
       ]
     },
@@ -612,6 +612,24 @@
       "count": 6,
       "items": [
         {
+          "title": "写在 Raycast 2.0 前夜：一份不再过时的使用指南",
+          "url": "https://sspai.com/post/107980",
+          "author": "bakamio",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "我喜欢 Raycast，所以想为它写一份平易近人的入门指南，让大家都来用。查看全文",
+          "published_at": "2026-03-28T03:03:10"
+        },
+        {
+          "title": "付费栏目试读 | 词不达意想找表情？不妨试试 Raycast Emoji 选择器",
+          "url": "https://sspai.com/post/107843",
+          "author": "bakamio",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "我们先来说说 macOS 自己的 Emoji 选择器。说实话它已经相当不错了。默认情况下，按快捷键fn-E或⌃Control-⌘Command-空格就能唤起它，下方还能切换不同分类：不过，这里只能输入 Emoji。如果想查看更多字符，需要点击底部最右侧的图标，进入「字符检视器」。在这里，除了 Emoji 表情符号，还有标点符号、数学符号等更多字符。[......]查看全文本文为付费栏目文章，出自《...",
+          "published_at": "2026-03-28T01:55:32"
+        },
+        {
           "title": "本周看什么 | 最近值得一看的 12 部作品",
           "url": "https://sspai.com/post/107948",
           "author": "少数派编辑部",
@@ -646,24 +664,6 @@
           "source": "少数派",
           "summary": "大家如果遇到存储卡工作不正常的情况，也可以尝试用 SD Card Formatter 来修复一下。查看全文",
           "published_at": "2026-03-27T03:34:39"
-        },
-        {
-          "title": "派早报：iQOO 发布 Z11 系列手机等",
-          "url": "https://sspai.com/post/107915",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "大疆发布首款 8K 全景旗舰无人机 DJI Avata 360，雷蛇发布 2026 款灵刃 Blade 16 轻薄游戏本等。查看全文",
-          "published_at": "2026-03-27T01:00:31"
-        },
-        {
-          "title": "新玩意 238｜少数派的编辑们最近买了啥？",
-          "url": "https://sspai.com/post/107863",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
-          "published_at": "2026-03-26T11:00:50"
         }
       ]
     }
