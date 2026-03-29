@@ -1,23 +1,22 @@
 {
   "date": "2026-03-29T00:00:00",
-  "total_items": 58,
+  "total_items": 51,
   "sources": [
-    "Design Milk",
-    "Product Hunt",
-    "少数派",
     "Smashing Magazine",
+    "NN/g (Nielsen Norman Group)",
+    "Design Milk",
+    "优设网",
+    "Intercom Blog",
+    "UX Design CC",
+    "少数派",
+    "CSS-Tricks",
+    "A List Apart",
     "人人都是产品经理",
     "UX Planet",
-    "Intercom Blog",
-    "A List Apart",
-    "Awwwards",
-    "优设网",
     "Sidebar",
-    "CSS-Tricks",
-    "UX Design CC",
-    "NN/g (Nielsen Norman Group)"
+    "Product Hunt"
   ],
-  "generated_at": "2026-03-29T02:49:30.956301",
+  "generated_at": "2026-03-29T13:05:04.761930",
   "categories": [
     {
       "category": "用户体验设计",
@@ -189,55 +188,55 @@
           "published_at": "2026-03-26T19:33:55"
         },
         {
-          "title": "AI情报：AI”动手”元年到了，Claude能控制Mac，谷歌内部Agent把服务器搞崩",
-          "url": "https://www.woshipm.com/ai/6365283.html",
-          "author": "AI星球",
+          "title": "AI大规模“清洗”老登，ToB圈酒桌那套失灵了？",
+          "url": "https://www.woshipm.com/share/6365436.html",
+          "author": "黑来古",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "今天是周日，但AI圈完全没有休息的意思。我是老曹，早上刷完消息，感觉有点兴奋——这一两天动作密集：IntelliJ IDEA 2026.1 直接内置多款AI智能体；谷歌内部那个叫Agent Smith的工具把服务器搞崩了，联合创始人布林亲自下场写代码；具身智能那边，行业清场已经开始，宇树冲IPO，星动纪元刚刚完成10亿融资——有人在狂奔，有人已出局。Claude Computer Use也正式落地...",
-          "published_at": "2026-03-29T01:58:54"
+          "summary": "AI浪潮下，最焦虑的并非普通员工，而是掌握旧时代红利的老板们。文章犀利指出，当信息差与定价权被AI抹平，真正的护城河不再是工具本身，而是对业务场景的深度拆解与标准化能力。拒绝盲目跟风“造神”，唯有将行业经验转化为AI可执行的“图纸”，用高频内容清洗市场，才能在“懂行的人+AI”的新格局中守住阵地。这波AI热潮，最慌的真不是普通打工人，而是各行各业的“老登”们！！那些在旧时代里握着重权、赚得盆满钵满...",
+          "published_at": "2026-03-29T11:26:59"
         },
         {
-          "title": "你以为你在刷抖音，其实抖音早就知道你会停在哪里",
-          "url": "https://www.woshipm.com/ai/6364961.html",
-          "author": "吴知",
+          "title": "我花3年才搞懂：小红书上，什么内容最好卖？",
+          "url": "https://www.woshipm.com/share/6365183.html",
+          "author": "林卿LinQ.",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI正在重塑我们对上瘾机制的认知。抖音通过精密设计的Hooked模型，将『可变奖励』提升至前所未有的精准度——它不仅能预测你的偏好，更能调控你的情绪节奏。本文将深度解析这套被AI优化的上瘾系统如何运作，并为你提供四步拆解工具，让你既能看透热门产品的设计逻辑，又能避免在自己的产品中陷入伦理陷阱。——AI时代，一个产品人必须看懂的上瘾机制一、你有没有经历过这种时刻本来只是饭后想刷两分钟放松一下。一抬头...",
-          "published_at": "2026-03-29T01:37:03"
+          "summary": "引爆小红书销量的秘密武器，藏在10种内容类型的底层逻辑里。从极致性价比的‘不买就亏’心理操控，到测评避雷的信任构建术，再到效果展示的视觉暴力对比——这篇万字长文用实战拆解告诉你，如何精准狙击人性弱点，把偶然的‘爆款’变成必然。做小红书这些年，我最深的体感是：所有爆款的背后，都是对人性的精准洞察。那些看似偶然的“火”，其实都有迹可循。今天这篇文章，我想和你聊聊我这些年实战下来，最有效的10种小红书卖...",
+          "published_at": "2026-03-29T08:14:04"
         },
         {
-          "title": "从成本中心到利润引擎：产品经理视角下的乳业AI+ISC全景方案",
-          "url": "https://www.woshipm.com/pd/6364914.html",
-          "author": "王佳亮",
+          "title": "Sora之死",
+          "url": "https://www.woshipm.com/ai/6365158.html",
+          "author": "十二",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "乳制品行业正面临短保质期、长供应链、高需求波动三大核心挑战，传统供应链管理模式已无法应对千亿级企业的运营需求。本文深度解析AI如何赋能ISC集成供应链战略，通过智能预测、动态调拨和全链路协同，将供应链从成本中心转变为利润中心，为乳企提供可落地的转型升级方案。在全球乳制品行业迈向规模化、数字化、品牌化的发展浪潮中，我国头部乳制品企业已迈入千亿营收规模，市场竞争从单一品牌、渠道、产品竞争，升级为全链路...",
-          "published_at": "2026-03-28T12:57:43"
+          "summary": "Sora的技术突破令人惊叹，但产品化的失败同样触目惊心。30天留存率仅1%的数据背后，隐藏着产品经理最致命的盲点：将技术演示等同于用户需求。本文深度拆解Sora在单位经济、用户任务、分发生态和组织文化四重关卡上的致命失误，并对比字节跳动'先生态后工具'的胜利逻辑，为AI产品商业化提供血泪教训。一、先说数据30天留存率1%，60天归零。这两个数字，是一个产品最残忍的判决书。不是技术不行——尹烨说得很...",
+          "published_at": "2026-03-29T07:05:52"
         },
         {
-          "title": "钉钉Design CLI测评：钉钉小程序开发必备神器",
-          "url": "https://www.woshipm.com/ai/6365162.html",
-          "author": "AI星球",
+          "title": "当 AI 能写 PRD 后，产品经理的核心竞争力是什么？",
+          "url": "https://www.woshipm.com/ai/6365130.html",
+          "author": "睿气少女的小想法",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "最近一直在关注企业级开发工具的新动向，发现钉钉开放平台推出了一个叫 Design CLI 的命令行工具。说实话，刚开始我以为又是那种配置复杂、文档不全的”半成品”开源项目——毕竟大厂开源的工具，懂的都懂。结果试了一下发现，这玩意儿居然能让开发者 5 分钟搭起一个小程序开发环境，还支持热更新和真机调试。这个定位挺清晰的，明显是冲着”降低钉钉小程序开发门槛”去的。一、钉钉 Design CLI 是什么...",
-          "published_at": "2026-03-28T11:23:24"
+          "summary": "当AI能够自动生成PRD文档时，产品经理的核心竞争力正在悄然转移。本文深度剖析AI无法替代的三大关键能力——需求背后的判断力、复杂场景下的取舍智慧、推动落地的组织协调力，并揭示未来产品经理必须构建的三条护城河：行业深度、跨部门协同和商业敏感度。一、PRD 正在变成”基础配置”上个月我们做新版本的需求评审，有人问能不能把用户路径再细化一下。我打开文档，发现 AI 生成的流程图已经覆盖了 90% 的场...",
+          "published_at": "2026-03-29T06:03:23"
         },
         {
-          "title": "Prompt 工程实战：让 AI 输出专业方案的 5 个公式",
-          "url": "https://www.woshipm.com/share/6362813.html",
-          "author": "许与",
+          "title": "“一人公司”火了，但我劝你别急着往里冲",
+          "url": "https://www.woshipm.com/ai/6365090.html",
+          "author": "Alex的荒诞产品观",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI时代的提问方式正在重构工作效率。本文通过药品推广方案的双盲测试，揭示Prompt工程如何将AI输出质量提升10倍。从角色设定到格式约束，5个万能公式+医药行业实战案例，手把手教你用Prompt精准激活大模型的专家级能力。写这篇文章之前，我做了个小测试。同一个问题，我用两种方式问 AI：问法 1：帮我写一个药品推广方案问法 2：你是一位有 10 年经验的医药营销专家，擅长处方药数字化推广。现在需...",
-          "published_at": "2026-03-28T11:19:20"
+          "summary": "AI技术正在改写传统公司的运作模式，‘一人公司’概念迅速走红。从苏州的AI动画长片到杭州的建筑设计平台，个体创业者正通过工具赋能突破人力限制。但真相是：成功的‘一人公司’创始人往往是行业老手，他们懂得如何用AI替代团队工作。本文深度剖析to C与to B领域一人公司的可行性差异，揭示当前AI技术的真实边界，并给职场新人指出更务实的成长路径。最近，“一人公司”这个词特别火。打开小红书，到处都是“裸辞...",
+          "published_at": "2026-03-29T05:39:41"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 14,
+      "count": 7,
       "items": [
         {
           "title": "The Site-Search Paradox: Why The Big Box Always Wins",
@@ -301,69 +300,6 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
-        },
-        {
-          "title": "SUTÉRA",
-          "url": "https://www.awwwards.com/sites/sutera",
-          "author": "Okey Studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "The Lookback",
-          "url": "https://www.awwwards.com/sites/the-lookback",
-          "author": "Gil Huybrecht",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "GQ & AP The Extraordinary Lab",
-          "url": "https://www.awwwards.com/sites/gq-ap-the-extraordinary-lab",
-          "author": "Immersive Garden",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Corentin Bernadou Portfolio",
-          "url": "https://www.awwwards.com/sites/corentin-bernadou-portfolio",
-          "author": "Corentin Bernadou",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Unseen Studio 2025 Wrapped",
-          "url": "https://www.awwwards.com/sites/unseen-studio-2025-wrapped",
-          "author": "Unseen Studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "FC Porto Memorial",
-          "url": "https://www.awwwards.com/sites/fc-porto-memorial",
-          "author": "Significa",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Darknode",
-          "url": "https://www.awwwards.com/sites/darknode",
-          "author": "Qream",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -372,49 +308,49 @@
       "count": 5,
       "items": [
         {
-          "title": "WordPress Studio CLI",
-          "url": "https://www.producthunt.com/products/wordpress-studio-cli",
-          "author": "Ankit Sharma",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "WordPress Studio now has an independently installable CLIDiscussion|Link",
-          "published_at": "2026-03-27T19:31:58"
-        },
-        {
-          "title": "SlapMac",
-          "url": "https://www.producthunt.com/products/slapmac",
-          "author": "Tonino Catapano (Tonnoz)",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Slap your MacBook. It screams back. That's it.Discussion|Link",
-          "published_at": "2026-03-27T20:19:56"
-        },
-        {
-          "title": "DwellRecord",
-          "url": "https://www.producthunt.com/products/dwellrecord",
-          "author": "Matthew Price",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Keep your home records all togetherDiscussion|Link",
-          "published_at": "2026-03-28T04:22:14"
-        },
-        {
-          "title": "Expect",
-          "url": "https://www.producthunt.com/products/expect",
+          "title": "Google Search Live",
+          "url": "https://www.producthunt.com/products/google-search-live",
           "author": "Adithya Shreshti",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Let agents test your code in a real browserDiscussion|Link",
-          "published_at": "2026-03-26T12:00:31"
+          "summary": "Interactive, multimodal conversation in AI ModeDiscussion|Link",
+          "published_at": "2026-03-26T17:24:36"
         },
         {
-          "title": "Aera Browser",
-          "url": "https://www.producthunt.com/products/aera-browser",
-          "author": "Andrew Rivers",
+          "title": "Sheet Ninja",
+          "url": "https://www.producthunt.com/products/sheet-ninja-2",
+          "author": "Aleksandar Blazhev",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The browser built for automationDiscussion|Link",
-          "published_at": "2026-03-26T22:00:34"
+          "summary": "Ship vibe-coded apps. Your data stays in Google Sheets.Discussion|Link",
+          "published_at": "2026-03-28T10:44:46"
+        },
+        {
+          "title": "Cline Kanban",
+          "url": "https://www.producthunt.com/products/cline-4",
+          "author": "Zac Zuo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "CLI-agnostic kanban for multi-agent orchestrationDiscussion|Link",
+          "published_at": "2026-03-28T16:28:00"
+        },
+        {
+          "title": "GuideYou",
+          "url": "https://www.producthunt.com/products/guideyou",
+          "author": "Tom",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Guidance for everyday technologyDiscussion|Link",
+          "published_at": "2026-03-28T20:21:38"
+        },
+        {
+          "title": "CodingPrep",
+          "url": "https://www.producthunt.com/products/codingprep",
+          "author": "Amrutha Gujjar",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Open Source coding interview prep tool with AI interviewerDiscussion|Link",
+          "published_at": "2026-03-28T22:47:44"
         }
       ]
     },
@@ -468,9 +404,9 @@
           "published_at": null
         },
         {
-          "title": "为什么按钮会跟着手移动？揭秘华为手机智感握姿背后的交互逻辑",
-          "url": "https://www.uisdc.com/hunter/0221664586.html",
-          "author": "龙爪槐守望者",
+          "title": "京东如何让用户买完还想逛？拆解其内容闭环的交互设计细节",
+          "url": "https://www.uisdc.com/hunter/0221664671.html",
+          "author": "张老三",
           "category": "设计教程",
           "source": "优设网",
           "summary": null,
@@ -540,6 +476,15 @@
       "count": 6,
       "items": [
         {
+          "title": "自制电子墨水屏，以及我用它来干了什么？",
+          "url": "https://sspai.com/post/105990",
+          "author": "任亚军",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "三种更新方式，从万年历、通知推送到信息展示。查看全文",
+          "published_at": "2026-03-29T09:38:34"
+        },
+        {
           "title": "写在 Raycast 2.0 前夜：一份不再过时的使用指南",
           "url": "https://sspai.com/post/107980",
           "author": "bakamio",
@@ -583,15 +528,6 @@
           "source": "少数派",
           "summary": "按：本文是少数派共创栏目《写给家长的幼儿美术启蒙指南》的首篇文章。在共创模式下，我们鼓励少数派作者向我们提交创作提案和样稿，择优秀提案发布在少数派共创平台上，以便读者能更早获知教程上新动态。同时，我们 ...查看全文",
           "published_at": "2026-03-27T06:37:02"
-        },
-        {
-          "title": "一日一技 | 用 SD Card Formatter 免费修复越用越慢的 SD 卡",
-          "url": "https://sspai.com/post/106559",
-          "author": "飘雷",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "大家如果遇到存储卡工作不正常的情况，也可以尝试用 SD Card Formatter 来修复一下。查看全文",
-          "published_at": "2026-03-27T03:34:39"
         }
       ]
     }
