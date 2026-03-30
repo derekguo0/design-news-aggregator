@@ -1,25 +1,51 @@
 {
   "date": "2026-03-30T00:00:00",
-  "total_items": 51,
+  "total_items": 52,
   "sources": [
-    "NN/g (Nielsen Norman Group)",
-    "UX Planet",
-    "Sidebar",
-    "Product Hunt",
     "少数派",
-    "优设网",
-    "UX Design CC",
-    "Design Milk",
+    "NN/g (Nielsen Norman Group)",
     "人人都是产品经理",
+    "UX Design CC",
+    "优设网",
     "A List Apart",
-    "Awwwards"
+    "Design Milk",
+    "Product Hunt",
+    "Sidebar",
+    "UX Planet"
   ],
-  "generated_at": "2026-03-30T02:51:53.756098",
+  "generated_at": "2026-03-30T13:43:18.514673",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 5,
+      "count": 9,
       "items": [
+        {
+          "title": "A human approach to Agentic AI. One person. One text file. Five agents.",
+          "url": "https://uxdesign.cc/a-human-approach-to-agentic-ai-one-person-one-text-file-five-agents-9e049fc0a612?source=rss----138adf9c44c---4",
+          "author": "Christine Vallaure",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How I built my own AI team with nothing but text files, a conversation in Claude Cowork, and a lot of character.I built what I call a soft-agent team for my book (sounds vaguely like a fabric softener...",
+          "published_at": "2026-03-30T11:13:15"
+        },
+        {
+          "title": "Design engineers, UX Design’s demise, forget your “lovable” products",
+          "url": "https://uxdesign.cc/design-engineers-ux-designs-demise-forget-your-lovable-products-e5ea71a15bad?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“Despite the title proliferation, there is a shared DNA. Design Engineering lives at the intersection of visual design and front-end develo...",
+          "published_at": "2026-03-30T08:38:13"
+        },
+        {
+          "title": "The ground is shaking: Why designers must flip the script on AI",
+          "url": "https://uxdesign.cc/the-ground-is-shaking-why-designers-must-flip-the-script-on-ai-9211053bbadd?source=rss----138adf9c44c---4",
+          "author": "Peter (Zak) Zakrzewski",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Something has shifted in the way the design field operates, and I think most of us can sense it even if we haven’t yet found the words or identified the exact schema for it.Header image inspired by So...",
+          "published_at": "2026-03-30T08:16:28"
+        },
         {
           "title": "The long and short of telephone progress",
           "url": "https://uxdesign.cc/the-long-and-short-of-telephone-progress-e51cc1570847?source=rss----138adf9c44c---4",
@@ -55,6 +81,15 @@
           "source": "UX Design CC",
           "summary": "On judgement, context, and why AI makes taste more important, not less.Photo byJuan Miguel AgudoonUnsplash“Taste has no system and no proofs. But there is something like a logic of taste: the consiste...",
           "published_at": "2026-03-27T20:49:08"
+        },
+        {
+          "title": "Claude Code + Figma Design System",
+          "url": "https://uxplanet.org/claude-code-figma-design-system-498573c5d357?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "How To Generate Design Using Figma Design System in Claude CodeContinue reading on UX Planet »",
+          "published_at": "2026-03-30T12:29:35"
         },
         {
           "title": "Must-Have UX/UI Design Skills for Claude Code",
@@ -129,8 +164,17 @@
     },
     {
       "category": "产品设计",
-      "count": 7,
+      "count": 8,
       "items": [
+        {
+          "title": "RS Barcelona Fuses Simplicity and Substance in the Seu Bench by Studio A.P.O.",
+          "url": "https://design-milk.com/rs-barcelona-fuses-simplicity-and-substance-in-the-seu-bench-by-studio-a-p-o/",
+          "author": "Aria Lee",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Masters of sheet metal since 1975, RS Barcelona is proud to present the Seu Bench, which comes in five sizes and 21 colors.",
+          "published_at": "2026-03-30T13:00:17"
+        },
         {
           "title": "Faro Barcelona Grounds Us In Reality With ‘Tierra, Mar y Aire’",
           "url": "https://design-milk.com/faro-barcelona-grounds-us-in-reality-with-tierra-mar-y-aire/",
@@ -150,55 +194,55 @@
           "published_at": "2026-03-27T13:00:51"
         },
         {
-          "title": "别只会调Prompt：AI PM 必须掌握的核心知识与实战话术",
-          "url": "https://www.woshipm.com/ai/6365444.html",
-          "author": "一亮AI",
+          "title": "无欲无求的背锅侠：“李静”，你可“长点心”吧！",
+          "url": "https://www.woshipm.com/share/6366145.html",
+          "author": "Nana",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI项目的失败往往源于产品评估体系的失灵，而非技术本身。本文深入剖析AI PM必须具备的四大核心能力：技术边界可控、人机协同可落地、数据飞轮可持续和商业测算可闭环。通过Golden Set、R-U-B计分板等实用工具，你将学会如何将模型能力转化为可执行的业务系统。过去一年，我看到太多 AI 项目死在同一个地方：算法准确率涨了，客诉也涨了；Demo 更惊艳了，续费却没起来。周会上，技术团队说“模型效...",
-          "published_at": "2026-03-30T02:02:29"
+          "summary": "实干者李静，在“张冠李戴”与“煽风点火”的夹击下，如何从一口“冷锅”走到“接锅”的终局？本文深度拆解四次会议背后的权责陷阱，揭示职场中最隐蔽的生存法则：不背锅的秘诀，不是跑得有多快，而是每一步都踩在钉子上——让所有人都能看清你的脚印。这是一个非常典型的职场“推诿、甩锅、背锅”案例。故事中的李静代表了那些只想把事情做好，却陷入办公室政治的实干者。本文从职场案例的问题分析和背锅侠自救指南两个维度进行深...",
+          "published_at": "2026-03-30T09:33:19"
         },
         {
-          "title": "飞书的 CLI & MCP，到底选哪个？",
-          "url": "https://www.woshipm.com/ai/6365565.html",
-          "author": "四吉在这",
+          "title": "都有AI了，数据分析该干什么？这是最好的回答！",
+          "url": "https://www.woshipm.com/share/6366140.html",
+          "author": "接地气的陈老师",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "飞书开源CLI工具的发布，正在重新定义AI与办公场景的交互方式。与传统MCP协议相比，CLI在90%的日常场景中展现出惊人的效率优势：命令直击需求、成本仅为1/9到1/30、覆盖200+业务命令。但跨系统联动、长会话交互等企业级场景，依然是MCP不可替代的战场。本文将深度剖析两种技术路线的较量，帮你找到最佳实践方案。本周正好结束了项目攻坚期，有时间构建一直拖欠下来的个人知识库，想着之前就备好的飞书...",
-          "published_at": "2026-03-30T02:00:38"
+          "summary": "AI能秒算GMV，却算不出“为什么”？当“就数论数”的SQL Boy沦为工具人，数据分析师的生存底线究竟在哪里？本文通过一个预测案例，拆解从“被动取数”到“主动破局”的进阶路径，揭示AI时代真正的护城河：不是拼手速写代码，而是拼对业务逻辑的深度洞察。还有同学在焦虑：AI时代的数据分析师该怎么生存？今天陈老师用一个简单例子，系统跟大家讲解下，话不多说，上案例！问题场景先看看一个简单的例子如下，看图回...",
+          "published_at": "2026-03-30T09:25:10"
         },
         {
-          "title": "openclaw自动化运营小红书场景",
-          "url": "https://www.woshipm.com/ai/6365110.html",
-          "author": "要成为字节小李",
+          "title": "一个人的营销部门：40个AI Agent如何颠覆工作方式",
+          "url": "https://www.woshipm.com/share/6366136.html",
+          "author": "深思圈",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI 自动化运营正从小红书开始颠覆内容创作生态。OpenClaw 与 MCP 协议的组合，让个人用户也能实现浏览器自动登录、笔记发布、评论管理等核心功能。本文深度拆解这套方案的实现原理、实操步骤与避坑指南，带你解锁从零到一的自动化运营实战经验。身边做自媒体运营的朋友，几乎都在问同一个问题：”AI 能不能帮我自动发小红书？”说实话，我之前对这类工具也半信半疑，毕竟市面上号称”一键发布”的脚本不少，但...",
-          "published_at": "2026-03-30T01:59:10"
+          "summary": "Relay.app创始人Jacob Bank以40个AI Agent、月均500美元成本重构营销体系，实现150万展示量的“一人部门”奇迹，颠覆了“AI即实习生”的浅层认知。文章深度拆解其“Super IC（超级个人贡献者）”工作哲学：从构建“AI教练”实现即时反馈，到模块化组装Agent团队，再到“解雇”低效Agent的敏捷迭代。你能想象整个营销部门只有一个人吗？不是那种初创公司勉强维持的一个人...",
+          "published_at": "2026-03-30T09:14:00"
         },
         {
-          "title": "货代WMS实战：复核、包装、出库怎么做，才能把交接做成“证据链”而不是“口头确认”？",
-          "url": "https://www.woshipm.com/share/6365437.html",
-          "author": "天涯轩",
+          "title": "OpenClaw跑假数据的问题，被这个跨境电商Agent解决了",
+          "url": "https://www.woshipm.com/ai/6366024.html",
+          "author": "饼干哥哥",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "货代仓最容易爆发纠纷的地方，往往不在收货，而在出库交接：少件/多件、错唛、包装不到位、装车/装柜前后数量变化……一旦没有扫码、称重、拍照等证据链，问题就会演变成“各说各话”。本文从产品视角拆解复核包装与出库管理模块：复核如何做二次防错，包装如何标准化并承接客户差异化要求，出库如何与装车计划、运输调度联动，以及如何把全流程质量追溯与异常处理内置到系统里，让交接更可信、体验更一致、成本更可控。一、货代...",
-          "published_at": "2026-03-30T01:59:01"
+          "summary": "当OpenClaw因数据安全问题被警告，一个更隐蔽的危机浮出水面：AI智能体正在生成虚假数据。在跨境电商场景中，LinkFoxAgent通过直连40多个行业数据源API，解决了通用Agent爬取网页数据不完整、被迫编造数据的致命缺陷。本文通过宠物水杯选品案例，对比两种数据获取路径的差异，揭示真实数据源对商业决策的关键价值。前两周，国家安全部门发文，OpenClaw 数据泄露风险警告。这场全网的技术...",
+          "published_at": "2026-03-30T07:40:59"
         },
         {
-          "title": "OpenAI 关停 Sora：我眼中 AI 行业的战略大转向",
-          "url": "https://www.woshipm.com/ai/6365422.html",
-          "author": "Mr.Right.",
+          "title": "OpenAI关停Sora：AI视频行业的寒冬来了吗？",
+          "url": "https://www.woshipm.com/ai/6366008.html",
+          "author": "Harry李",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "OpenAI突然宣布全面关停Sora视频生成模型，这一战略放弃震撼了整个AI行业。从技术标杆到黯然退场，Sora暴露了算力成本、合规风险与商业模式的致命短板。本文深度剖析OpenAI转向底层平台生态的战略逻辑，揭示AI行业从概念狂欢到务实落地的关键转折。一、突发！OpenAI 全面关停 Sora，一场颠覆性的战略放弃近期，人工智能行业迎来了一则足以震动整个赛道的重磅消息：OpenAI 正式宣布，将...",
-          "published_at": "2026-03-30T01:57:52"
+          "summary": "当OpenAI突然宣布关停Sora，这个曾经被视为AI视频革命先驱的产品仅存活了6个月。从下载量暴跌到1%的用户留存率，从日均1500万美元的运营成本到仅140万美元的累计收入，Sora的倒下揭示了AI视频行业面临的商业现实。本文深度剖析技术优势与商业困境的悖论，探讨国产AI视频平台的机遇与挑战。前几天才发了一篇文章花了10块钱，用字节小云雀AI生成了1分钟的宣传视频，最近也是体验了各个主流AI视...",
+          "published_at": "2026-03-30T07:30:27"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 13,
+      "count": 6,
       "items": [
         {
           "title": "Design for Amiability: Lessons from Vienna",
@@ -253,111 +297,66 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
-        },
-        {
-          "title": "Utopia Tokyo",
-          "url": "https://www.awwwards.com/sites/utopia-tokyo",
-          "author": "spotheroz",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "SUTÉRA",
-          "url": "https://www.awwwards.com/sites/sutera",
-          "author": "Okey Studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "The Lookback",
-          "url": "https://www.awwwards.com/sites/the-lookback",
-          "author": "Gil Huybrecht",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "GQ & AP The Extraordinary Lab",
-          "url": "https://www.awwwards.com/sites/gq-ap-the-extraordinary-lab",
-          "author": "Immersive Garden",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Corentin Bernadou Portfolio",
-          "url": "https://www.awwwards.com/sites/corentin-bernadou-portfolio",
-          "author": "Corentin Bernadou",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Unseen Studio 2025 Wrapped",
-          "url": "https://www.awwwards.com/sites/unseen-studio-2025-wrapped",
-          "author": "Unseen Studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "FC Porto Memorial",
-          "url": "https://www.awwwards.com/sites/fc-porto-memorial",
-          "author": "Significa",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 6,
       "items": [
         {
-          "title": "GuideYou",
-          "url": "https://www.producthunt.com/products/guideyou",
-          "author": "Tom",
+          "title": "Bluor AI",
+          "url": "https://www.producthunt.com/products/bluor-ai",
+          "author": "Santi Farré",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Guidance for everyday technologyDiscussion|Link",
-          "published_at": "2026-03-28T20:21:38"
+          "summary": "Beautiful emails, in secondsDiscussion|Link",
+          "published_at": "2026-03-28T22:48:28"
         },
         {
-          "title": "Clico",
-          "url": "https://www.producthunt.com/products/clico",
-          "author": "Alex Zhao",
+          "title": "VibeTalent",
+          "url": "https://www.producthunt.com/products/vibetalent",
+          "author": "abhinav",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Every textbox, superchargedDiscussion|Link",
-          "published_at": "2026-03-27T14:50:25"
+          "summary": "Find vibe coders who actually shipDiscussion|Link",
+          "published_at": "2026-03-30T06:40:18"
         },
         {
-          "title": "CodingPrep",
-          "url": "https://www.producthunt.com/products/codingprep",
-          "author": "Amrutha Gujjar",
+          "title": "Invoke",
+          "url": "https://www.producthunt.com/products/invoke-studio",
+          "author": "M Bharat Bhora",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Open Source coding interview prep tool with AI interviewerDiscussion|Link",
-          "published_at": "2026-03-28T22:47:44"
+          "summary": "Agentic coding IDE with visual planning boards and canvasDiscussion|Link",
+          "published_at": "2026-03-27T10:02:01"
         },
         {
-          "title": "Genzi",
-          "url": "https://www.producthunt.com/products/genzi",
-          "author": "Rigo Cruz",
+          "title": "FreeCAD 1.1",
+          "url": "https://www.producthunt.com/products/freecad-2",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The social app built around musicDiscussion|Link",
-          "published_at": "2026-03-28T16:01:31"
+          "summary": "Extremely powerful, completely free 3D CAD modelingDiscussion|Link",
+          "published_at": "2026-03-30T04:22:48"
+        },
+        {
+          "title": "Blood Sugar Journal",
+          "url": "https://www.producthunt.com/products/blood-sugar-journal",
+          "author": "Dmitry Mashkin",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "AI-powered diabetes tracking for the modern era.Discussion|Link",
+          "published_at": "2026-03-28T17:47:07"
+        },
+        {
+          "title": "PopTask",
+          "url": "https://www.producthunt.com/products/poptask-menu-bar-task-manager",
+          "author": "Haider",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Light menu bar task manager for quickly capturing tasksDiscussion|Link",
+          "published_at": "2026-03-29T16:51:07"
         }
       ]
     },
@@ -423,43 +422,52 @@
     },
     {
       "category": "设计资讯",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "The evolution of craft",
-          "url": "https://carlsz.dev/posts/evolution-of-craft",
+          "title": "AI Coding for Product Designers (New Cohort)",
+          "url": "https://bit.ly/side-nev1",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A new medium is here, or perhaps something more akin to a new fundamental force of nature.",
-          "published_at": "2026-03-27T05:48:57"
+          "summary": "Start building with intention and control. Learn the architecture and systems required to build and ship functional products with AI.",
+          "published_at": "2026-03-30T08:33:00"
         },
         {
-          "title": "Shadcn/ui: the foundation for your design system",
-          "url": "https://ui.shadcn.com/",
+          "title": "Take my job, AI!",
+          "url": "https://jlzych.com/2026/03/26/take-my-job-ai/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A set of beautifully designed open-source components that you can customize, extend, and build on.",
-          "published_at": "2026-03-27T05:48:24"
+          "summary": "The idea of AI replacing product designers isn’t scaring me. It’s actually having the opposite effect: I’m embracing it.",
+          "published_at": "2026-03-30T08:32:34"
         },
         {
-          "title": "Anything Counter",
-          "url": "https://anythingconverter.com/anythingcounter/",
+          "title": "Aeris",
+          "url": "https://aeris.edbn.me/?city=JFK",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The hidden price of digital life in real time with real data.",
-          "published_at": "2026-03-27T05:46:59"
+          "summary": "Track live flights in stunning 3D over the world’s busiest airspaces. Free and open source.",
+          "published_at": "2026-03-30T08:31:58"
         },
         {
-          "title": "The curse of the cursor",
-          "url": "https://unsung.aresluna.org/the-curse-of-the-cursor/",
+          "title": "MD UI: a Typeface for Interfacing",
+          "url": "https://mass-driver.com/article/md-ui-a-typeface-for-interfacing",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How direct interaction is being replaced by hidden automation and why tactile control matters.",
-          "published_at": "2026-03-27T05:45:28"
+          "summary": "A neo-grotesque fine-tuned for maximum performance at every scale.",
+          "published_at": "2026-03-30T08:31:11"
+        },
+        {
+          "title": "Endgame for the Open Web",
+          "url": "https://www.anildash.com/2026/03/27/endgame-open-web/",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "You must imagine Sam Altman holding a knife to Tim Berners-Lee's throat.",
+          "published_at": "2026-03-30T08:30:24"
         }
       ]
     },
@@ -467,6 +475,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "派评 | 近期值得关注的 App",
+          "url": "https://sspai.com/post/108075",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "published_at": "2026-03-30T10:16:36"
+        },
+        {
+          "title": "浏览器扩展合集：派友近期推荐的 6 款浏览器扩展",
+          "url": "https://sspai.com/post/108047",
+          "author": "克莱德",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "本期介绍 6 款浏览器扩展插件——如果你也有好的扩展插件，欢迎在评论留言或向 Matrix 社区投稿，我们将不定期收录并在首页推送。查看全文",
+          "published_at": "2026-03-30T07:00:00"
+        },
+        {
+          "title": "从保鲜逻辑到外观设计，一份冰箱落地选购指南",
+          "url": "https://sspai.com/post/107704",
+          "author": "真叫浩南",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "published_at": "2026-03-30T03:30:15"
+        },
         {
           "title": "派早报：英文维基百科正式禁止 AI 参与编写",
           "url": "https://sspai.com/post/108044",
@@ -493,33 +528,6 @@
           "source": "少数派",
           "summary": "我喜欢 Raycast，所以想为它写一份平易近人的入门指南，让大家都来用。查看全文",
           "published_at": "2026-03-28T03:03:10"
-        },
-        {
-          "title": "付费栏目试读 | 词不达意想找表情？不妨试试 Raycast Emoji 选择器",
-          "url": "https://sspai.com/post/107843",
-          "author": "bakamio",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "我们先来说说 macOS 自己的 Emoji 选择器。说实话它已经相当不错了。默认情况下，按快捷键fn-E或⌃Control-⌘Command-空格就能唤起它，下方还能切换不同分类：不过，这里只能输入 Emoji。如果想查看更多字符，需要点击底部最右侧的图标，进入「字符检视器」。在这里，除了 Emoji 表情符号，还有标点符号、数学符号等更多字符。[......]查看全文本文为付费栏目文章，出自《...",
-          "published_at": "2026-03-28T01:55:32"
-        },
-        {
-          "title": "本周看什么 | 最近值得一看的 12 部作品",
-          "url": "https://sspai.com/post/107948",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "📅本周新预告《穹庐下的魔女》正式预告3月25日，TV动画《穹庐下的魔女》发布了首支正式预告，将于7月开始播出，6月在安纳西国际动画电影节首映。本作改编自同名漫画，山田尚子担任总导演，AbelGongo ...查看全文",
-          "published_at": "2026-03-27T10:30:18"
-        },
-        {
-          "title": "共创 | 守护孩子的天马行空：《写给家长的幼儿美术启蒙指南》上线",
-          "url": "https://sspai.com/post/107748",
-          "author": "谷丰",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "毕加索曾经在参观一个儿童画展时感叹道：我像他们这么大的时候，就能画得像拉斐尔一样好，但我花了一辈子才学会像孩子一样画画。这句感慨，意味着孩子的美术创作有着足以令现代艺术大师倾倒的魅力。这是因为，孩子未 ...查看全文",
-          "published_at": "2026-03-27T06:42:00"
         }
       ]
     }
