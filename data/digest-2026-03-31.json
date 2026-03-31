@@ -1,21 +1,20 @@
 {
   "date": "2026-03-31T00:00:00",
-  "total_items": 57,
+  "total_items": 51,
   "sources": [
-    "人人都是产品经理",
-    "Awwwards",
-    "A List Apart",
-    "UX Design CC",
+    "UX Planet",
     "Design Milk",
-    "NN/g (Nielsen Norman Group)",
-    "优设网",
-    "CSS-Tricks",
-    "Product Hunt",
-    "少数派",
     "Sidebar",
-    "UX Planet"
+    "CSS-Tricks",
+    "A List Apart",
+    "NN/g (Nielsen Norman Group)",
+    "UX Design CC",
+    "少数派",
+    "优设网",
+    "Product Hunt",
+    "人人都是产品经理"
   ],
-  "generated_at": "2026-03-31T01:45:22.420829",
+  "generated_at": "2026-03-31T02:45:36.644188",
   "categories": [
     {
       "category": "用户体验设计",
@@ -187,55 +186,55 @@
           "published_at": "2026-03-30T13:00:17"
         },
         {
-          "title": "SaaS时代结束了，但大多数人还没意识到",
-          "url": "https://www.woshipm.com/it/6366496.html",
-          "author": "沃垠AI",
+          "title": "未来最稀缺的能力：用AI做高质量人生决策",
+          "url": "https://www.woshipm.com/share/6366592.html",
+          "author": "是湘湘呀",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "一个观察，不一定对：所有SaaS公司，未来都会死。不是危言耸听。今年英伟达GTC大会上，老黄说了句更狠的话：“Every Saas company will become a AaaS（agentic as a service）company”。很多人听完第一反应是「又来了，大佬讲话嘛，习惯性夸张。」但我不这么看。我反而觉得，他说晚了。01 SaaS已死，AaaS当立在我看来，SaaS过去二十年带...",
-          "published_at": "2026-03-31T01:42:56"
+          "summary": "当AI从效率工具升级为决策助手，人生的关键选择将如何被重新定义？本文提出AI作为认知增强系统的三大核心能力：认知建模、人岗匹配和路径规划。在信息过载时代，真正的稀缺能力不是获取更多信息，而是将信息转化为高质量决策。这几年，AI的发展速度非常快，已经不只是“新技术”，而是逐渐进入我们的学习和工作场景。无论是写作、查资料，还是求职、选专业，几乎都能用到它。但一个很现实的问题也随之出现：如果一项技术解决...",
+          "published_at": "2026-03-31T02:38:55"
         },
         {
-          "title": "无欲无求的背锅侠：“李静”，你可“长点心”吧！",
-          "url": "https://www.woshipm.com/share/6366145.html",
-          "author": "Nana",
+          "title": "【跨境产品实战笔记04】：产品矩阵规划，如何布局你的“航母编队”",
+          "url": "https://www.woshipm.com/share/6366007.html",
+          "author": "骞说跨境",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "实干者李静，在“张冠李戴”与“煽风点火”的夹击下，如何从一口“冷锅”走到“接锅”的终局？本文深度拆解四次会议背后的权责陷阱，揭示职场中最隐蔽的生存法则：不背锅的秘诀，不是跑得有多快，而是每一步都踩在钉子上——让所有人都能看清你的脚印。这是一个非常典型的职场“推诿、甩锅、背锅”案例。故事中的李静代表了那些只想把事情做好，却陷入办公室政治的实干者。本文从职场案例的问题分析和背锅侠自救指南两个维度进行深...",
-          "published_at": "2026-03-30T09:33:19"
+          "summary": "在跨境电商的激烈竞争中，单一爆款策略已难以为继。本文揭秘如何构建由引流款、利润款、形象款和防御款组成的“航母编队”产品矩阵，通过战术分工实现持续增长。从战略定位到实战沙盘推演，带你掌握让每个产品角色发挥最大价值的核心方法论。过去三周，我们从数据验证、风控排雷讲到了竞品拆解。很多朋友按照这些方法，已经能够挖出几个不错的选品方向了。但这时候，最容易犯的战略级错误出现了：试图把每一个开发出来的产品，都打...",
+          "published_at": "2026-03-31T02:07:22"
         },
         {
-          "title": "都有AI了，数据分析该干什么？这是最好的回答！",
-          "url": "https://www.woshipm.com/share/6366140.html",
-          "author": "接地气的陈老师",
+          "title": "“喂”数据 vs “教”模型：AI训练师如何让模型真正学会思考？",
+          "url": "https://www.woshipm.com/ai/6365974.html",
+          "author": "周周粥粥",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI能秒算GMV，却算不出“为什么”？当“就数论数”的SQL Boy沦为工具人，数据分析师的生存底线究竟在哪里？本文通过一个预测案例，拆解从“被动取数”到“主动破局”的进阶路径，揭示AI时代真正的护城河：不是拼手速写代码，而是拼对业务逻辑的深度洞察。还有同学在焦虑：AI时代的数据分析师该怎么生存？今天陈老师用一个简单例子，系统跟大家讲解下，话不多说，上案例！问题场景先看看一个简单的例子如下，看图回...",
-          "published_at": "2026-03-30T09:25:10"
+          "summary": "在AI模型训练中，“喂”与“教”的一字之差，决定了模型是机械记忆还是真正思考。本文深度剖析两种训练范式的本质差异，揭示为何精心设计的500条思维链数据可以碾压10万条普通样本，并给出构造思维链数据、设计对比样本、实施难度递进训练的三大核心手法。这些方法虽慢虽贵，却是构建AI核心竞争力的关键所在。“喂”和”教”，仅仅一字之差，却能决定了你的模型是鹦鹉学舌，还是真的会思考。一、”喂”数据：量大管饱，但...",
+          "published_at": "2026-03-31T02:04:52"
         },
         {
-          "title": "一个人的营销部门：40个AI Agent如何颠覆工作方式",
-          "url": "https://www.woshipm.com/share/6366136.html",
-          "author": "深思圈",
+          "title": "2026年AI营销革命：流量枯竭时代，品牌如何通过互动实现利润增长",
+          "url": "https://www.woshipm.com/share/6365871.html",
+          "author": "点点",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Relay.app创始人Jacob Bank以40个AI Agent、月均500美元成本重构营销体系，实现150万展示量的“一人部门”奇迹，颠覆了“AI即实习生”的浅层认知。文章深度拆解其“Super IC（超级个人贡献者）”工作哲学：从构建“AI教练”实现即时反馈，到模块化组装Agent团队，再到“解雇”低效Agent的敏捷迭代。你能想象整个营销部门只有一个人吗？不是那种初创公司勉强维持的一个人...",
-          "published_at": "2026-03-30T09:14:00"
+          "summary": "AI行业正在经历从工具革命到价值革命的深刻变革，品牌如何在这波浪潮中抓住机遇？本文将深入剖析AI从规模竞争、效率竞争到互动竞争的三大进化阶段，揭示AI如何通过关系互动、内容互动和价值互动三大核心能力，帮助品牌在流量红利消失的困境中找到破局之道。从SICAS模型到不同类型品牌的AI落地指南，为你提供从单点突破到全链路渗透的实战策略。一、AI行业的三次进化：从工具革命到价值革命过去十年，AI的竞争逻辑...",
+          "published_at": "2026-03-31T02:02:00"
         },
         {
-          "title": "OpenClaw跑假数据的问题，被这个跨境电商Agent解决了",
-          "url": "https://www.woshipm.com/ai/6366024.html",
-          "author": "饼干哥哥",
+          "title": "一人公司：当”一个人”成为一种商业模式",
+          "url": "https://www.woshipm.com/ai/6365853.html",
+          "author": "铭白AI",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当OpenClaw因数据安全问题被警告，一个更隐蔽的危机浮出水面：AI智能体正在生成虚假数据。在跨境电商场景中，LinkFoxAgent通过直连40多个行业数据源API，解决了通用Agent爬取网页数据不完整、被迫编造数据的致命缺陷。本文通过宠物水杯选品案例，对比两种数据获取路径的差异，揭示真实数据源对商业决策的关键价值。前两周，国家安全部门发文，OpenClaw 数据泄露风险警告。这场全网的技术...",
-          "published_at": "2026-03-30T07:40:59"
+          "summary": "一个人如何撑起年入百万的公司？2024年全新基础设施的成熟让'一人公司'从生活方式升级为商业模式。AI工具、SaaS平台与内容渠道的三重革命，正在将团队能力压缩至个体。本文深度拆解四种已验证的盈利模式，揭示极简组织背后的核心竞争力与致命陷阱，带你看懂这场个体商业化的历史性机遇。前几天，我在微信上收到一条消息。发消息的是我一个前同事，他三年前从一家大厂辞职，当时所有人都觉得他”想不开”——放着稳定的...",
+          "published_at": "2026-03-31T01:57:21"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 13,
+      "count": 6,
       "items": [
         {
           "title": "Design for Amiability: Lessons from Vienna",
@@ -290,76 +289,22 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
-        },
-        {
-          "title": "Fluid Glass",
-          "url": "https://www.awwwards.com/sites/fluid-glass",
-          "author": "Exo Ape",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Utopia Tokyo",
-          "url": "https://www.awwwards.com/sites/utopia-tokyo",
-          "author": "spotheroz",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "SUTÉRA",
-          "url": "https://www.awwwards.com/sites/sutera",
-          "author": "Okey Studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "The Lookback",
-          "url": "https://www.awwwards.com/sites/the-lookback",
-          "author": "Gil Huybrecht",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "GQ & AP The Extraordinary Lab",
-          "url": "https://www.awwwards.com/sites/gq-ap-the-extraordinary-lab",
-          "author": "Immersive Garden",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Corentin Bernadou Portfolio",
-          "url": "https://www.awwwards.com/sites/corentin-bernadou-portfolio",
-          "author": "Corentin Bernadou",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Unseen Studio 2025 Wrapped",
-          "url": "https://www.awwwards.com/sites/unseen-studio-2025-wrapped",
-          "author": "Unseen Studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 5,
       "items": [
+        {
+          "title": "PopTask",
+          "url": "https://www.producthunt.com/products/poptask-menu-bar-task-manager",
+          "author": "Haider",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Light menu bar task manager for quickly capturing tasksDiscussion|Link",
+          "published_at": "2026-03-29T16:51:07"
+        },
         {
           "title": "ClawKing",
           "url": "https://www.producthunt.com/products/clawking",
@@ -368,15 +313,6 @@
           "source": "Product Hunt",
           "summary": "On-chain AI battle royale where 8 lobsters fightDiscussion|Link",
           "published_at": "2026-03-29T14:24:53"
-        },
-        {
-          "title": "dictate.",
-          "url": "https://www.producthunt.com/products/dictate",
-          "author": "Gabriel Alonso",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Replace your iPhone keyboard with AI voice typingDiscussion|Link",
-          "published_at": "2026-03-29T19:38:30"
         },
         {
           "title": "Git Blog",
@@ -388,13 +324,22 @@
           "published_at": "2026-03-29T18:59:11"
         },
         {
-          "title": "Blood Sugar Journal",
-          "url": "https://www.producthunt.com/products/blood-sugar-journal",
-          "author": "Dmitry Mashkin",
+          "title": "Latchkey",
+          "url": "https://www.producthunt.com/products/imbue-7",
+          "author": "Alexander Tibbets",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI-powered diabetes tracking for the modern era.Discussion|Link",
-          "published_at": "2026-03-28T17:47:07"
+          "summary": "Credential layer for local AI agentsDiscussion|Link",
+          "published_at": "2026-03-29T01:21:40"
+        },
+        {
+          "title": "Neuralingo Language Learning",
+          "url": "https://www.producthunt.com/products/neuralingo-language-learning",
+          "author": "Julius Marx",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "slowly inch your way to mastery: try, fail, learn, get goodDiscussion|Link",
+          "published_at": "2026-03-29T05:25:28"
         }
       ]
     },
