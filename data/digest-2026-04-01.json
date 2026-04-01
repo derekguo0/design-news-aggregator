@@ -1,27 +1,35 @@
 {
   "date": "2026-04-01T00:00:00",
-  "total_items": 62,
+  "total_items": 67,
   "sources": [
-    "Sidebar",
-    "NN/g (Nielsen Norman Group)",
-    "Design Milk",
     "Smashing Magazine",
+    "人人都是产品经理",
+    "UX Design CC",
     "UX Planet",
     "Awwwards",
-    "Product Hunt",
-    "CSS-Tricks",
-    "少数派",
+    "NN/g (Nielsen Norman Group)",
+    "Sidebar",
     "优设网",
-    "UX Design CC",
-    "A List Apart",
-    "人人都是产品经理"
+    "少数派",
+    "Product Hunt",
+    "Design Milk",
+    "A List Apart"
   ],
-  "generated_at": "2026-04-01T02:56:44.506861",
+  "generated_at": "2026-04-01T13:43:56.647298",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 10,
+      "count": 12,
       "items": [
+        {
+          "title": "Rethinking design awards in an AI world",
+          "url": "https://uxdesign.cc/rethinking-design-awards-in-an-ai-world-c0084bc93ec8?source=rss----138adf9c44c---4",
+          "author": "Darren Yeo",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Why design awards are still relevant and what needs to changeContinue reading on UX Collective »",
+          "published_at": "2026-04-01T07:35:40"
+        },
         {
           "title": "Agentic AI, design systems & Figma: a practical guide",
           "url": "https://uxdesign.cc/agentic-ai-design-systems-figma-a-practical-guide-6ab0b681718d?source=rss----138adf9c44c---4",
@@ -84,6 +92,15 @@
           "source": "UX Design CC",
           "summary": "Antitrust regulation, the birth of “Silicon Valley” and approaching the limits of Moore’s lawContinue reading on UX Collective »",
           "published_at": "2026-03-29T16:26:21"
+        },
+        {
+          "title": "Figma Skills for Claude Code",
+          "url": "https://uxplanet.org/figma-skills-for-claude-code-bb05a21984fd?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "How to create UI design in Figma without leaving Claude CodeContinue reading on UX Planet »",
+          "published_at": "2026-04-01T12:10:31"
         },
         {
           "title": "Codex plugin for Claude Code",
@@ -179,6 +196,15 @@
       "count": 11,
       "items": [
         {
+          "title": "The Cedric Mitchell x JOOPITER Collaboration Is True Memphis with Modern Funk",
+          "url": "https://design-milk.com/the-cedric-mitchell-x-joopiter-collaboration-is-true-memphis-with-modern-funk/",
+          "author": "Aria Lee",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Colorful and contemporary, this collaboration from Cedric Mitchell and JOOPITER spans fashion, furniture, and most importantly, fun.",
+          "published_at": "2026-04-01T13:00:45"
+        },
+        {
           "title": "This Garden Apartment by Aranda\\Lasch Treats Architecture as Aperture",
           "url": "https://design-milk.com/this-garden-apartment-by-aranda-lasch-treats-architecture-as-aperture/",
           "author": "Joseph Sgambati III",
@@ -224,58 +250,49 @@
           "published_at": "2026-03-30T14:00:04"
         },
         {
-          "title": "RS Barcelona Fuses Simplicity and Substance in the Seu Bench by Studio A.P.O.",
-          "url": "https://design-milk.com/rs-barcelona-fuses-simplicity-and-substance-in-the-seu-bench-by-studio-a-p-o/",
-          "author": "Aria Lee",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Masters of sheet metal since 1975, RS Barcelona is proud to present the Seu Bench, which comes in five sizes and 21 colors.",
-          "published_at": "2026-03-30T13:00:17"
-        },
-        {
-          "title": "很多公司用错了OpenClaw",
-          "url": "https://www.woshipm.com/ai/6367122.html",
-          "author": "柳星聊产品",
+          "title": "AI日报：从Claude Code泄露到宇树IPO，AI行业的冰与火之歌",
+          "url": "https://www.woshipm.com/ai/6368370.html",
+          "author": "老曹",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "OpenClaw 在企业中的落地困境与破局之道正在引发热议。本文通过深度实践和团队调研，揭示了一个关键现象：当企业将这款AI工具视为个人玩具而非团队基础设施时，90%的尝试终将失败。从token成本陷阱到算力资源分配，从单兵作战到协同进化，带你看懂AI工具从『试用期』走向『生产力』的必经之路。最近我发了一条关于 OpenClaw 的视频，主要是讲这段时间用“龙虾”实操的一些真实感受。很多人可能已经...",
-          "published_at": "2026-04-01T02:39:19"
+          "summary": "下午好！我是老曹。今天AI圈动静不小，Claude Code这边昨天爆出51万行源码泄露的大新闻，那边Anthropic估值已经飙到3800亿美元准备IPO了，真是冰火两重天。阿里Qwen3.5-Omni发布也挺猛，215项测试拿SOTA，直接对标Gemini。具身智能那边，首届开发者大会刚在深圳落幕，宇树也传出了IPO的消息。总的来说，今天信息量很足，往下看详情吧。AI Coding 领域方向（...",
+          "published_at": "2026-04-01T09:56:28"
         },
         {
-          "title": "热点文案最怕的是，追到了热点却烫伤了自己。",
-          "url": "https://www.woshipm.com/share/6367400.html",
-          "author": "陈无用",
+          "title": "PM思考：优惠券陷阱",
+          "url": "https://www.woshipm.com/pd/6368307.html",
+          "author": "陆地燃烧",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "品牌追热点常被视为低成本获取流量的捷径，但盲目跟风往往容易‘烫伤’自身。文章以美国健身品牌Equinox的‘质疑一切，笃信自身’Campaign为例，深入剖析了如何在AI技术狂热与信任危机并存的当下，将热点转化为品牌价值观的助推器。通过对比可口可乐等案例，揭示了高级的热点营销应坚守品牌内核，用独立的文案姿态解构社会情绪，将短暂流量沉淀为长期的品牌资产。品牌追热点，说白了就是想走捷径。本来花100块...",
-          "published_at": "2026-04-01T02:32:19"
+          "summary": "一场看似简单的维修订单，却因优惠券使用问题演变成用户、商家与平台的三方博弈。当系统规则不透明、支付链路存在漏洞时，优惠券反而成为引发纠纷的导火索。本文通过真实案例拆解本地生活服务中的隐藏陷阱，揭示平台规则设计缺陷如何让三方陷入零和博弈，并给出产品经理构建良性生态的解决方案。一次维修订单引发的三方博弈：当优惠券变成“陷阱”，优惠到底是谁获利？昭总监现身说法：你以为的“优惠”，其实是平台、商家和你的一...",
+          "published_at": "2026-04-01T08:47:04"
         },
         {
-          "title": "ai-website-cloner-template评测：用一条命令克隆任何网站，AI逆向工程的新玩法",
-          "url": "https://www.woshipm.com/ai/6367382.html",
-          "author": "AI星球",
+          "title": "Flutter_OH 仓库贡献代码合入流程",
+          "url": "https://www.woshipm.com/share/6368290.html",
+          "author": "nutpi",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "最近在GitHub上发现了一个挺有意思的开源项目——ai-website-cloner-template。这个工具号称能用一条命令把任何网站”克隆”成一个结构清晰的Next.js代码库。说实话，第一次看到这个介绍的时候我有点半信半疑，毕竟逆向工程这种事涉及到截图分析、样式提取、组件重建等等，环节太多了，AI真能一键搞定？但仔细研究了一下项目的设计思路和实现方式，发现它背后的逻辑还挺有意思的。今天就...",
-          "published_at": "2026-04-01T02:28:32"
+          "summary": "向开源项目贡献代码是开发者进阶的必经之路，但复杂的流程往往让人望而却步。特别是面对Flutter-OH这样规范严格的仓库，从DCO签名到PR关联，每一个环节的疏忽都可能导致代码被拒。为了帮助大家避开“无效提交”的坑，顺利拿到开源路上的第一枚勋章，本文将全流程拆解贡献步骤，助你一次通过代码检视，轻松合入主仓。想要向 Flutter_OH 仓库贡献代码，但不清楚具体合入步骤？别担心！本文整理了从环境准...",
+          "published_at": "2026-04-01T08:30:22"
         },
         {
-          "title": "别让AI包办一切",
-          "url": "https://www.woshipm.com/share/6367383.html",
-          "author": "林骥",
+          "title": "原型做出来了，但你还是不知道自己在做什么",
+          "url": "https://www.woshipm.com/share/6368238.html",
+          "author": "知鱼之乐",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI正在以效率之名，悄然剥夺我们成长的养分。当算法替你完成选题、起草文案、生成结论，那些曾让你卡壳、焦虑、反复修改的痛苦时刻，恰恰是能力生长的关键节点。本文深刻剖析了将AI视为‘拐杖’还是‘教练’的本质区别，以及如何在人机协作中守住人类不可替代的判断力与连接温度。一个登山者爬到山顶时的那种满足感，是坐在路边看直播的观众永远体会不到的。这种满足感，来自过程的艰难，来自汗水的积累，来自「我真的做到了」...",
-          "published_at": "2026-04-01T02:24:02"
+          "summary": "AI工具能在两分钟内生成高保真可交互原型，但背后的业务逻辑你真的想清楚了吗？本文犀利指出：原型只是业务逻辑的表达形式，而非替代品。当工具越来越强，产品经理更需要警惕'手上快'带来的'脑子懒'。作者揭示了三件必须做在原型之前的事，以及为什么那些被AI加速跳过的'慢思考'，才是真正决定产品成败的关键。前段时间，有人在群里发了一张截图，配了一句话：”用AI生成了一套高保真可交互原型，两分钟搞定，效果还挺...",
+          "published_at": "2026-04-01T08:13:05"
         },
         {
-          "title": "当AI能做80%的工作，产品经理的那20%是什么？",
-          "url": "https://www.woshipm.com/share/6367373.html",
-          "author": "健彬的产品Live",
+          "title": "a16z：软件公司只剩两条路了，没有中间态",
+          "url": "https://www.woshipm.com/share/6366976.html",
+          "author": "张艾拉",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI能写PRD、画原型，已经能完成80%的产品执行工作，产品经理剩下的20%究竟是什么？本文直击痛点，犀利指出AI无法替代的三大核心：人性洞察、全局破局与跨域协作。这不仅是能力图谱的梳理，更是每一位PM在AI时代守住职场护城河的生存指南。同学们，今天我们来聊一个让不少PM直呼破防的话题：当AI能写PRD、画原型、做数据分析，甚至还能生成需求文档时，我们的核心竞争力到底剩啥？难道真要躺平让位？别慌...",
-          "published_at": "2026-04-01T02:19:15"
+          "summary": "a16z最新观点揭示了软件行业的残酷现实：企业只剩下两条可行路径——要么通过AI驱动新产品实现增长重启，要么转型为高利润效率型生意。本文深度解析为何中间态企业将难以生存，并指出真正的AI转型不是功能叠加，而是需要重构收入模式和业务流程。从客户买单逻辑到组织能力重建，这场变革正在倒逼企业做出战略级选择。周末看了 a16z 的一篇文章，标题很直接，叫《There are only two paths ...",
+          "published_at": "2026-04-01T08:02:40"
         }
       ]
     },
@@ -283,6 +300,15 @@
       "category": "网页设计",
       "count": 15,
       "items": [
+        {
+          "title": "A Practical Guide To Design Principles",
+          "url": "https://smashingmagazine.com/2026/04/practical-guide-design-principles/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "Design principles with references, examples, and methods for quick look-up. Brought to you byDesign Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.",
+          "published_at": "2026-04-01T10:00:00"
+        },
         {
           "title": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)",
           "url": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/",
@@ -408,30 +434,66 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Unseen Studio 2025 Wrapped",
-          "url": "https://www.awwwards.com/sites/unseen-studio-2025-wrapped",
-          "author": "Unseen Studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 1,
+      "count": 6,
       "items": [
         {
-          "title": "FireAPI",
-          "url": "https://www.producthunt.com/products/fireapi",
-          "author": "AJAY CHAUHAN",
+          "title": "Noiz Easter Voice",
+          "url": "https://www.producthunt.com/products/noiz-studio",
+          "author": "Aleksandar Blazhev",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Discover, consume, and monetize APIs in one placeDiscussion|Link",
-          "published_at": "2026-03-30T16:35:27"
+          "summary": "Crack an Easter egg to generate an AI voiceDiscussion|Link",
+          "published_at": "2026-03-29T19:27:00"
+        },
+        {
+          "title": "EDAMAME Security",
+          "url": "https://www.producthunt.com/products/axios-litellm-detector",
+          "author": "Frank Lyonnet",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Axios / LiteLLM hacks behavioral detector app for Mac/PCDiscussion|Link",
+          "published_at": "2026-03-31T12:48:23"
+        },
+        {
+          "title": "Claras",
+          "url": "https://www.producthunt.com/products/claras",
+          "author": "Guillermo Morales",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Skip ahead & chat with any YouTube video using AIDiscussion|Link",
+          "published_at": "2026-03-31T12:55:10"
+        },
+        {
+          "title": "Ollama v0.19",
+          "url": "https://www.producthunt.com/products/ollama",
+          "author": "Zac Zuo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Massive local model speedup on Apple Silicon with MLXDiscussion|Link",
+          "published_at": "2026-04-01T02:56:44"
+        },
+        {
+          "title": "Ray-Ban Meta G2 Blayzer & Scriber Optics",
+          "url": "https://www.producthunt.com/products/ray-ban-meta-g2-blayzer-scriber-optics",
+          "author": "Rohan Chaubey",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Meta's first AI glasses built for prescriptionsDiscussion|Link",
+          "published_at": "2026-03-31T20:04:50"
+        },
+        {
+          "title": "CapyCursor",
+          "url": "https://www.producthunt.com/products/capycursor",
+          "author": "Capy",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Cursor highlight, screen draw, zoom & spotlightDiscussion|Link",
+          "published_at": "2026-03-31T07:38:46"
         }
       ]
     },
@@ -485,8 +547,8 @@
           "published_at": null
         },
         {
-          "title": "摆脱 AI 拍马屁式回复，Claude 如何通过交互引导用户理清思路？",
-          "url": "https://www.uisdc.com/hunter/0221665043.html",
+          "title": "拆解飞书文档卡片，好的产品设计如何做到信息流不中断？",
+          "url": "https://www.uisdc.com/hunter/0221665131.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -500,73 +562,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Perspective",
-          "url": "https://www.doc.cc/syntax/perspective",
+          "title": "Your ticket is a prompt",
+          "url": "https://dheer.co/tickets-are-prompts/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "On rational thinking, taking action, and the courage to choose.",
-          "published_at": "2026-03-31T05:42:37"
+          "summary": "The instinct to break work into atomic tickets was right for human teams. For agents, it reproduces the same fragmentation disease at machine speed.",
+          "published_at": "2026-04-01T07:48:26"
         },
         {
-          "title": "Game Accessibility Guidelines",
-          "url": "https://gameaccessibilityguidelines.com/",
+          "title": "Ban Ray: Your face is not inventory",
+          "url": "https://banray.eu/en/index.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A straightforward reference for inclusive game design, supporting the industry since 2012.",
-          "published_at": "2026-03-31T05:42:07"
+          "summary": "Meta sold seven million pairs of camera glasses. The people being filmed never consented. Ban them.",
+          "published_at": "2026-04-01T07:47:36"
         },
         {
-          "title": "Why are executives enamored with AI but ICs aren’t?",
-          "url": "https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/",
+          "title": "Design Systems Report 2026",
+          "url": "https://report.zeroheight.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Executives have always had to deal with non-determinism, while individual contributors are evaluated by their execution on deterministic tasks.",
-          "published_at": "2026-03-31T05:40:59"
+          "summary": "Buy-in is down. Adoption is stalling. But AI is changing the game.",
+          "published_at": "2026-04-01T07:46:23"
         },
         {
-          "title": "Procedural Tree Generator",
-          "url": "https://www.eztree.dev/",
+          "title": "Portfolio Tips",
+          "url": "https://www.edkf.fyi/portfolio-tips",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "EZ-Tree is a procedural tree generator that allows you to create realistic 3D tree models with ease.",
-          "published_at": "2026-03-31T05:39:56"
+          "summary": "Tips from designer friends on what they like to see in portfolios.",
+          "published_at": "2026-04-01T07:45:48"
         },
         {
-          "title": "AI agents could make free software matter again",
-          "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
+          "title": "The first 40 months of the AI era",
+          "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Free software once mattered deeply, but faded when SaaS made those freedoms feel irrelevant.",
-          "published_at": "2026-03-31T05:39:24"
-        }
-      ]
-    },
-    {
-      "category": "前端设计",
-      "count": 2,
-      "items": [
-        {
-          "title": "What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More",
-          "url": "https://css-tricks.com/whats-important-8/",
-          "author": "Daniel Schwarz",
-          "category": "前端设计",
-          "source": "CSS-Tricks",
-          "summary": "Short n’ sweet but ever so neat, this issue covers light/dark favicons, @mixin, anchor-interpolated morphing, object-view-box, new web features, and more.What’s !important #8: Light/Dark Favicons, @mi...",
-          "published_at": "2026-03-31T14:14:07"
-        },
-        {
-          "title": "Form Automation Tips for Happier User and Clients",
-          "url": "https://css-tricks.com/form-automation-tips-for-happier-user-and-clients/",
-          "author": "Iqra Naaem",
-          "category": "前端设计",
-          "source": "CSS-Tricks",
-          "summary": "That gap between \"the form works\" and \"the business works\" is something we don't really tend to discuss much as front-enders. We focus a great deal on user experience, validation methods, and accessib...",
-          "published_at": "2026-03-30T14:12:14"
+          "summary": "Accumulated thoughts and ideas about AI since the launch of ChatGPT in November 2022.",
+          "published_at": "2026-04-01T07:45:15"
         }
       ]
     },
@@ -574,6 +612,24 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "本月玩什么｜失落星船：马拉松、Pokémon Pokopia 等",
+          "url": "https://sspai.com/post/108163",
+          "author": "板斧",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "最近值得一试的新作汇总。查看全文",
+          "published_at": "2026-04-01T09:00:14"
+        },
+        {
+          "title": "Agent 的家：如何在 AI 时代搭建硬件基座",
+          "url": "https://sspai.com/post/108064",
+          "author": "张立行",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "published_at": "2026-04-01T06:48:37"
+        },
         {
           "title": "派早报：Claude Code 源码意外泄露、OpenAI 获 1220 亿美元融资等",
           "url": "https://sspai.com/post/108133",
@@ -609,24 +665,6 @@
           "source": "少数派",
           "summary": "按：我们之前制作过一期题为《少数派编辑部怎么用AI打工？》的装了啥特别篇，其中介绍了AI工具在编辑部日常工作中的实际应用。本期中，编辑部成员们将根据最近使用AI工具的经验和心得，继续介绍一些自己认为有 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
           "published_at": "2026-03-31T08:57:38"
-        },
-        {
-          "title": "一日一技 | 如何正确进行 vivo Log 的色彩空间转换",
-          "url": "https://sspai.com/post/108101",
-          "author": "张奕源Nick",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "随着vivoX300系列发布，专业视频模式和vivoLog再度成了摄影爱好者们关注的焦点。从X200系列开始，我也用vivo手机拍摄过不少长片和短片。在此过程中，我不可避免地要将vivoLog转至其它 ...查看全文",
-          "published_at": "2026-03-31T07:03:08"
-        },
-        {
-          "title": "不用可以先收藏 | 有备无患：我的逃生包和生存盒都装了啥？",
-          "url": "https://sspai.com/post/108027",
-          "author": "太空小孩",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "如果只有 3 分钟紧急撤离，这两个逃生包能帮我活过 72 小时查看全文",
-          "published_at": "2026-03-31T03:31:02"
         }
       ]
     }
