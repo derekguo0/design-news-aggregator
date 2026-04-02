@@ -1,22 +1,22 @@
 {
   "date": "2026-04-02T00:00:00",
-  "total_items": 72,
+  "total_items": 70,
   "sources": [
     "Design Milk",
-    "Sidebar",
-    "A List Apart",
-    "少数派",
-    "Smashing Magazine",
-    "优设网",
-    "人人都是产品经理",
-    "UX Planet",
-    "Awwwards",
     "Product Hunt",
-    "CSS-Tricks",
+    "UX Planet",
+    "UX Design CC",
+    "优设网",
+    "Smashing Magazine",
+    "人人都是产品经理",
     "NN/g (Nielsen Norman Group)",
-    "UX Design CC"
+    "少数派",
+    "A List Apart",
+    "Awwwards",
+    "Sidebar",
+    "CSS-Tricks"
   ],
-  "generated_at": "2026-04-02T02:41:11.921170",
+  "generated_at": "2026-04-02T13:23:10.474997",
   "categories": [
     {
       "category": "用户体验设计",
@@ -46,7 +46,7 @@
           "author": "Patrizia Bertini",
           "category": "用户体验设计",
           "source": "UX Design CC",
-          "summary": "We spent twenty-five years making technology work for users. Now we need to make it work for human beings. These are not the same thing, and the distance between them is where a generation of harm acc...",
+          "summary": "Human-Centred Design has grown up. It’s time we did tooWe spent twenty-five years making technology work for users. Now we need to make it work for human beings. These are not the same thing, and the ...",
           "published_at": "2026-04-01T22:17:59"
         },
         {
@@ -269,55 +269,55 @@
           "published_at": "2026-03-31T13:00:06"
         },
         {
-          "title": "AI替代人，早已不是危言耸听了",
-          "url": "https://www.woshipm.com/ai/6368505.html",
-          "author": "子修",
+          "title": "播刻岛评测：这款AI播客工具到底值不值得用？",
+          "url": "https://www.woshipm.com/ai/6369007.html",
+          "author": "AI星球",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI替代潮正在从预言变为现实，从甲骨文到摩根士丹利的裁员风暴，揭示了一个残酷真相：可编码性强的工作正被AI系统快速吞噬。本文深度拆解AI替代的三层逻辑——执行层、判断层到策略层的渗透，并为ToB从业者提供从认知重构到能力升级的实战框架，助你在AI时代守住不可替代的价值高地。最近，真的发现大家的焦虑指数明显上升了一个量级。不是那种关于工作忙、压力大的常规焦虑——而是一种更深层的、关乎生存的焦虑。之前...",
-          "published_at": "2026-04-02T02:14:03"
+          "summary": "“想通过播客练英语，但每次听半小时的英文节目，真正记住的没几句？”这是我最近被问最多的问题。问得多了，我索性研究了一圈，发现一款叫”播刻岛”的产品，专门解决这个痛点——用AI帮你做翻译、做总结、做时间轴文稿。今天就来聊聊它到底怎么样。说实话，第一次打开播刻岛的时候，我的感受是”这界面还挺清爽的”。没有花里胡哨的配色，播放器的感觉很接近原生Apple Podcasts，但多了几个我没见过的按钮——A...",
+          "published_at": "2026-04-02T11:24:14"
         },
         {
-          "title": "从“玄学调优”到“工程治理”：如何建立 AI Agent 的 Harness 体系",
-          "url": "https://www.woshipm.com/ai/6368460.html",
-          "author": "冒泡泡",
+          "title": "AI日报：GitHub炸了！Claude Code周边工具集中爆发，AI编程生态巨变",
+          "url": "https://www.woshipm.com/ai/6368843.html",
+          "author": "老曹",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI Agent 正在从无序的狂野生长走向有序的工程治理。2026 年的范式转移意味着，单纯依赖 Prompt 调优已成过去式，取而代之的是 Harness Engineering 这套严谨的工程治理体系。本文深度解析约束、反馈、验证与持续清理四大核心机制，揭示如何将概率性生成的 AI 转化为确定性交付的「数字员工」，带你窥见 AI 工业化的未来图景。2026 年初，AI 行业经历了一场隐秘而伟大...",
-          "published_at": "2026-04-02T01:50:46"
+          "summary": "下午好！我是老曹。今天AI圈新事也不少。Veo 3.1 Lite继续打价格战，视频生成成本又砍半了，这个趋势挺有意思。GitHub上倒是热闹，Claude Code周边工具集体爆发，官方和社区都在往这个生态里填东西。Anthropic那边删库的事故后续还在发酵，算是给整个行业提了个醒。能源成本这个话题被越来越多人讨论，这可能是接下来AI竞争里容易被忽视但很关键的变量。AI Coding 领域方向（...",
+          "published_at": "2026-04-02T09:56:39"
         },
         {
-          "title": "拿着旧地图，找不到新大陆：AI时代医疗ToB产品经理的“破局”思考",
-          "url": "https://www.woshipm.com/ai/6368502.html",
-          "author": "林Ki学长",
+          "title": "失败项目起死回生，a16z为何给这家”追债”公司开出3500万美元支票？",
+          "url": "https://www.woshipm.com/share/6368940.html",
+          "author": "深思圈",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "智慧医疗产品正陷入同质化内卷的困境，从呼叫系统到大屏显示的所谓升级，却难掩'伪智慧'的本质。本文以智慧病房为例，犀利指出医疗ToB领域面临的两大痛点：地域政策壁垒与临床理解缺失，并提出AI时代医疗产品经理需要'双轨制'能力——既要保持技术敏感度快速试错，又要坚守医疗本质沉淀验证。昨天深夜，我盯着手头正在规划的智慧病房产品方案发呆。产品从床旁交互到走廊显示屏，再到护士站看板，硬件换了三茬，底层从安卓...",
-          "published_at": "2026-04-02T01:50:20"
+          "summary": "Glimpse用AI Agent在24小时内追回数百万美元，揭示了AI改造传统行业的真正范式：不做大而全的平台，而是用“楔子策略”切入高价值痛点，将非结构化数据转化为可执行的现金流。本文深度拆解Glimpse如何从Y Combinator的转型项目中突围，成为Andreessen Horowitz押注的“零售财务操作系统”。想象一下这个场景：你是某个知名消费品牌的CFO，公司产品在Target、W...",
+          "published_at": "2026-04-02T08:51:45"
         },
         {
-          "title": "Claude Code 技术架构拆解",
-          "url": "https://www.woshipm.com/ai/6368441.html",
-          "author": "JZNext",
+          "title": "经营分析的4大要点，从数据解读到策略落地",
+          "url": "https://www.woshipm.com/share/6368939.html",
+          "author": "接地气的陈老师",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Claude Code 正在重新定义 AI 编程助手的边界——它不是简单的代码补全工具，而是直接在终端里运行的 AI 开发操作系统。这款由 Anthropic 开源的 CLI 工具能自主读写文件、执行命令、操作 Git，其分层架构设计、权限模型和多 Agent 协作机制，为 AI 产品经理提供了教科书级的架构范本。本文将深度拆解其核心模块设计，揭示如何让 AI 安全高效地接管开发工作流。Claud...",
-          "published_at": "2026-04-02T01:46:57"
+          "summary": "做经营分析时，最忌讳“记流水账”式的指标堆砌。真正的策略性建议，往往藏在指标的组合关系里，而非单一数字的涨跌中。本文提供了一套系统的解决办法：通过组合观察收入、成本、费用等关键指标，识别企业是“营销驱动”、“研发驱动”还是“成本驱动”，从而精准定位问题、提出可落地的改进重点，让经营分析真正成为决策的导航仪。做经营分析，领导们总希望能提出策略性建议，可怎么从一堆数字里导出策略，还能落地？今天给大家一...",
+          "published_at": "2026-04-02T08:49:45"
         },
         {
-          "title": "3个月上线，卖出100+客户，20万一套——我做第一个B端产品学到的3件事",
-          "url": "https://www.woshipm.com/pd/6368473.html",
-          "author": "园区产品人",
+          "title": "每周写汇报写到怀疑人生？手把手教你如何建立专属汇报 Skill",
+          "url": "https://www.woshipm.com/ai/6368867.html",
+          "author": "游游的产品笔记",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "3个月从0到1打造智慧园区食堂消费系统，这段高压经历让产品经理收获了颠覆性认知：砍掉‘完美功能’加速上线反而更早暴露真实问题，支付系统3000ms延迟背后是产品信誉危机，而‘金融级’定位让20万定价变得合理。本文将揭示产品交付背后的三大生存法则——速度、稳定与价值的重构逻辑。2018年五一刚过，我入职没多久就接到了一个任务：从0开始做一套智慧园区食堂消费系统，需求文档还没有。上级给我的要求只有一句...",
-          "published_at": "2026-04-02T01:44:14"
+          "summary": "打工人最头疼的周报、月报、季报，居然也能用AI轻松搞定？Claude的Skill功能让你告别反复修改的汇报噩梦，只需1小时定制专属助手，从此每周汇报只需5分钟。本文将手把手教你如何用五步法打造一个懂业务、知领导、会审稿的智能写作搭档，彻底解决职场人的汇报焦虑。打工人有三怕：周一开会、季度述职、还有每周固定来一次的——写汇报。不是不会写，是每次都要重新想：这周做了什么、哪些值得说、怎么说领导才满意。...",
+          "published_at": "2026-04-02T08:37:14"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 15,
+      "count": 14,
       "items": [
         {
           "title": "A Practical Guide To Design Principles",
@@ -444,66 +444,48 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Corentin Bernadou Portfolio",
-          "url": "https://www.awwwards.com/sites/corentin-bernadou-portfolio",
-          "author": "Corentin Bernadou",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "Formo",
-          "url": "https://www.producthunt.com/products/formo",
-          "author": "Yos Riady",
+          "title": "Nitro by Rocketlane",
+          "url": "https://www.producthunt.com/products/rocketlane",
+          "author": "Hiten Shah",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Formo makes analytics simple for DeFi so you can grow.Discussion|Link",
-          "published_at": "2026-03-31T10:51:16"
+          "summary": "AI agents for modern service deliveryDiscussion|Link",
+          "published_at": "2026-04-01T04:38:04"
         },
         {
-          "title": "Remodex",
-          "url": "https://www.producthunt.com/products/remodex-codex-remote-control",
-          "author": "Emanuele Di Pietro",
+          "title": "Mac Pet",
+          "url": "https://www.producthunt.com/products/mac-pet",
+          "author": "Toby Miller",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Control Codex on your iPhoneDiscussion|Link",
-          "published_at": "2026-03-31T19:50:54"
+          "summary": "A pixel pet for your menu bar or MacBook notch w/ PomodoroDiscussion|Link",
+          "published_at": "2026-04-01T20:00:26"
         },
         {
-          "title": "Zzzappy",
-          "url": "https://www.producthunt.com/products/zzzappy",
-          "author": "张亦梓",
+          "title": "DealForge",
+          "url": "https://www.producthunt.com/products/dealforge",
+          "author": "Alex Wright",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Science-backed breaks to protect your vision & prevent RSIDiscussion|Link",
-          "published_at": "2026-03-30T01:52:10"
+          "summary": "Analyze real estate deals in secondsDiscussion|Link",
+          "published_at": "2026-04-02T00:24:43"
         },
         {
-          "title": "Elephant Folio",
-          "url": "https://www.producthunt.com/products/elephant-folio",
-          "author": "Jamal Kharrat",
+          "title": "Roger AI",
+          "url": "https://www.producthunt.com/products/roger-ai-2",
+          "author": "lets_build_stuff",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The PDF Library that automatically organizes itselfDiscussion|Link",
-          "published_at": "2026-03-31T16:17:31"
-        },
-        {
-          "title": "Baton",
-          "url": "https://www.producthunt.com/products/baton-2",
-          "author": "Tord Roar Tafjord",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Orchestrate your AI coding agentsDiscussion|Link",
-          "published_at": "2026-03-31T23:25:57"
+          "summary": "Your friendly screen guide for any task!Discussion|Link",
+          "published_at": "2026-03-31T15:46:41"
         }
       ]
     },
@@ -572,49 +554,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Your ticket is a prompt",
-          "url": "https://dheer.co/tickets-are-prompts/",
+          "title": "Working on products people hate",
+          "url": "https://www.seangoedecke.com/working-on-products-people-hate/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The instinct to break work into atomic tickets was right for human teams. For agents, it reproduces the same fragmentation disease at machine speed.",
-          "published_at": "2026-04-01T07:48:26"
+          "summary": "Why building hated tools is often more impactful than building ignored ones.",
+          "published_at": "2026-04-02T08:34:37"
         },
         {
-          "title": "Ban Ray: Your face is not inventory",
-          "url": "https://banray.eu/en/index.html",
+          "title": "HueGrid",
+          "url": "https://huegrid.app/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Meta sold seven million pairs of camera glasses. The people being filmed never consented. Ban them.",
-          "published_at": "2026-04-01T07:47:36"
+          "summary": "Create stunning gradients with 22+ modes — noise, dither, aurora, mesh, cosmic, liquid chrome, and more. Export as 5K images or code.",
+          "published_at": "2026-04-02T08:33:12"
         },
         {
-          "title": "Design Systems Report 2026",
-          "url": "https://report.zeroheight.com/",
+          "title": "HowMuch.Tax",
+          "url": "https://www.howmuch.tax/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Buy-in is down. Adoption is stalling. But AI is changing the game.",
-          "published_at": "2026-04-01T07:46:23"
+          "summary": "Calculate, visualize, and compare taxes across countries. See how your income is taxed with interactive charts and insights.",
+          "published_at": "2026-04-02T08:32:35"
         },
         {
-          "title": "Portfolio Tips",
-          "url": "https://www.edkf.fyi/portfolio-tips",
+          "title": "A mirror test for LLMs",
+          "url": "https://www.lesswrong.com/posts/TfKM9PgztxieEcKiv/a-mirror-test-for-llms",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Tips from designer friends on what they like to see in portfolios.",
-          "published_at": "2026-04-01T07:45:48"
+          "summary": "In which we propose a new measure of LLM self-awareness but ultimately decide they fall short.",
+          "published_at": "2026-04-02T08:31:34"
         },
         {
-          "title": "The first 40 months of the AI era",
-          "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
+          "title": "The creative infinite",
+          "url": "https://bradfrost.com/blog/post/the-creative-infinite/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Accumulated thoughts and ideas about AI since the launch of ChatGPT in November 2022.",
-          "published_at": "2026-04-01T07:45:15"
+          "summary": "How value moves from execution to curation and intent.",
+          "published_at": "2026-04-02T08:30:13"
         }
       ]
     },
@@ -665,6 +647,33 @@
       "count": 6,
       "items": [
         {
+          "title": "汇聚热爱，「2050 大会」少数派线下活动邀请你来参与",
+          "url": "https://sspai.com/post/108202",
+          "author": "老麦",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "「2050大会」是国内科技圈里一个非常独特的存在。这是由中国工程院院士、阿里云创始人王坚博士，通过杭州市云栖科技创新基金会，发起的一项非营利科技活动。每年4月最后一个完整周末，来自世界各地的科技爱好者 ...查看全文",
+          "published_at": "2026-04-02T10:26:36"
+        },
+        {
+          "title": "派晚报：2026 年愚人节产品大赏",
+          "url": "https://sspai.com/post/108197",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "假作真时真亦假，明天晚上就放假。查看全文",
+          "published_at": "2026-04-02T08:33:54"
+        },
+        {
+          "title": "被咬一口的世界，苹果 50 年的疯狂与奇迹",
+          "url": "https://sspai.com/post/107218",
+          "author": "一只小蜜蜂",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "科技应该怎么改变人类的生活，Apple 花 50 周年给出了自己的答卷。查看全文",
+          "published_at": "2026-04-02T03:28:23"
+        },
+        {
           "title": "派早报：OPPO 发布 K15 Pro 系列、DLSS 4.5 开始推送等",
           "url": "https://sspai.com/post/108175",
           "author": "少数派编辑部",
@@ -690,33 +699,6 @@
           "source": "少数派",
           "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
           "published_at": "2026-04-01T06:48:37"
-        },
-        {
-          "title": "派早报：Claude Code 源码意外泄露、OpenAI 获 1220 亿美元融资等",
-          "url": "https://sspai.com/post/108133",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "索尼将继续上调 PlayStation Plus 订阅价格，微软确认将为 Windows 11 开发纯原生系统应用等。查看全文",
-          "published_at": "2026-04-01T00:08:31"
-        },
-        {
-          "title": "时隔 5 年的大更新：AirPods Max 2 首发体验",
-          "url": "https://sspai.com/post/108118",
-          "author": "waychane",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "时隔五年，Apple的头戴式耳机产品AirPodsMax终于迎来第二代升级。AirPodsMax2拥有与前代产品完全一致的外观：精致的阳极氧化铝金属耳罩、可以无级调节的不锈钢伸缩套杆、具备良好贴合度的 ...查看全文",
-          "published_at": "2026-03-31T13:00:00"
-        },
-        {
-          "title": "社区速递 135 | 派友热议养「小龙虾」、3M 隔音耳罩与百乐钢笔体验",
-          "url": "https://sspai.com/post/108108",
-          "author": "Matrix机器人",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容，将作者投稿的新玩意呈现给大家。上周社区 ...查看全文",
-          "published_at": "2026-03-31T09:32:39"
         }
       ]
     }
