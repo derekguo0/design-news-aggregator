@@ -1,28 +1,64 @@
 {
   "date": "2026-04-04T00:00:00",
-  "total_items": 65,
+  "total_items": 67,
   "sources": [
-    "UX Design CC",
+    "Design Milk",
+    "少数派",
     "人人都是产品经理",
+    "优设网",
+    "NN/g (Nielsen Norman Group)",
     "Smashing Magazine",
+    "Sidebar",
+    "Intercom Blog",
+    "UX Planet",
+    "Product Hunt",
     "CSS-Tricks",
     "Awwwards",
-    "Intercom Blog",
-    "A List Apart",
-    "Product Hunt",
-    "UX Planet",
-    "少数派",
-    "Design Milk",
-    "Sidebar",
-    "优设网",
-    "NN/g (Nielsen Norman Group)"
+    "UX Design CC",
+    "A List Apart"
   ],
-  "generated_at": "2026-04-04T02:33:51.216809",
+  "generated_at": "2026-04-04T13:04:29.869334",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 13,
+      "count": 15,
       "items": [
+        {
+          "title": "Designers: We are perpetuating our own burnout problem",
+          "url": "https://uxdesign.cc/designers-we-are-perpetuating-our-own-burnout-problem-6caaa3662f2e?source=rss----138adf9c44c---4",
+          "author": "Jessica Goldman",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "I’ve been designing for a long time. I’ve burned out, and I’ve watched other designers burn out. The job market is brutal, AI is changing everything, and companies still don’t value design the way the...",
+          "published_at": "2026-04-04T10:39:01"
+        },
+        {
+          "title": "You’re not supposed to get it right",
+          "url": "https://uxdesign.cc/youre-not-supposed-to-get-it-right-c0c6d7590bc5?source=rss----138adf9c44c---4",
+          "author": "Rita Kind-Envy",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "I left the Google design challenge convinced I had failed — and I passed. This is what actually matters in these interviews.Continue reading on UX Collective »",
+          "published_at": "2026-04-04T10:38:59"
+        },
+        {
+          "title": "Falling apples and crumbling algos",
+          "url": "https://uxdesign.cc/falling-apples-and-crumbling-algos-6c51e997cb8e?source=rss----138adf9c44c---4",
+          "author": "Eleanor Howe",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The tragic tale of a modern-day Isaac Newton, plus some thoughts from beyond the recursive loop.Gil Scott-Heron performs in Chicago on Nov 4, 1978. Paul Natkin/Getty Images“The revolution will not go ...",
+          "published_at": "2026-04-04T10:38:58"
+        },
+        {
+          "title": "Do less with AI",
+          "url": "https://uxdesign.cc/do-less-with-ai-f9792b20f838?source=rss----138adf9c44c---4",
+          "author": "Joe Bernstein",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The promises of automation can only come true if you’re working smarter, not harderYou’re not Michelle Yeoh. You can’t be everything, everywhere, all at once.SourceLately I’ve been suffering fromhot d...",
+          "published_at": "2026-04-04T10:38:57"
+        },
         {
           "title": "Context matters… A lot",
           "url": "https://uxdesign.cc/context-matters-a-lot-7799188344dc?source=rss----138adf9c44c---4",
@@ -76,24 +112,6 @@
           "source": "UX Design CC",
           "summary": "Language has always evolved. But this time, it’s being rewired faster than most of us can keep up with, and our sentences are caught in the middle.There’s a word you’ll have noticed lately. It turns u...",
           "published_at": "2026-04-01T22:18:29"
-        },
-        {
-          "title": "Human-Centred Design has grown up. It’s time we did too.",
-          "url": "https://uxdesign.cc/human-centred-design-has-grown-up-it-is-time-we-did-too-766601c1fc7d?source=rss----138adf9c44c---4",
-          "author": "Patrizia Bertini",
-          "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "Human-Centred Design has grown up. It’s time we did tooWe spent twenty-five years making technology work for users. Now we need to make it work for human beings. These are not the same thing, and the ...",
-          "published_at": "2026-04-01T22:17:59"
-        },
-        {
-          "title": "Rethinking design awards in an AI world",
-          "url": "https://uxdesign.cc/rethinking-design-awards-in-an-ai-world-c0084bc93ec8?source=rss----138adf9c44c---4",
-          "author": "Darren Yeo",
-          "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "Why design awards are still relevant and what needs to changeContinue reading on UX Collective »",
-          "published_at": "2026-04-01T07:35:40"
         },
         {
           "title": "How To Automate Product Design Tasks with Claude Code",
@@ -261,55 +279,55 @@
           "published_at": "2026-04-02T18:00:02"
         },
         {
-          "title": "深度拆解阿福的大模型意图识别方案",
-          "url": "https://www.woshipm.com/ai/6366228.html",
-          "author": "寻走",
+          "title": "别为了用AI而用AI：AI产品经理的场景分析实战指南",
+          "url": "https://www.woshipm.com/ai/6360787.html",
+          "author": "梁家豪",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "支付宝健康大模型产品阿福在RAG技术上的创新实践，为医疗垂类AI应用树立了新标杆。它通过点选式意图引导、多模态交互设计和精准知识检索等策略，解决了用户表达模糊、专业术语复杂和准确性要求高等核心难题。本文深度拆解阿福如何突破RAG技术瓶颈，打造日活600万的医疗AI助手。因为我自己也在因为我自己在做一个类似的知识库的问答的产品，之前也分享过一些 RAG 的基础知识，大家感兴趣可以看下。目前 RAG ...",
-          "published_at": "2026-04-04T01:36:13"
+          "summary": "当团队通宵打造的AI功能上线后，次月留存率却断崖式下跌。用户根本不在乎炫酷的模型参数，他们只关心功能能否在特定场景下解决实际问题。本文深度剖析了AI产品设计中场景分析的关键作用，并提供了从传统PM到AI时代的场景分析升级方法论，帮助产品经理避开'技术自嗨'的陷阱。上周五下班前，我盯着后台惨不忍睹的次月留存率，陷入了深深的自我怀疑。 我们刚上线了一个集成了最新大模型API的悬浮窗，团队甚至为了这个几...",
+          "published_at": "2026-04-04T07:28:00"
         },
         {
-          "title": "互联网入口进化论：从门户到搜索，再到智能推荐，再到？",
-          "url": "https://www.woshipm.com/share/6370259.html",
-          "author": "大侠",
+          "title": "KK：带你拆解 Prompt 的能力空间（上篇）",
+          "url": "https://www.woshipm.com/ai/6370460.html",
+          "author": "KK的慢变量",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "3 月 31 日，YouTube 宣布把会话式 AI 工具带到智能电视端。用户看视频时可以直接点开 “Ask” 按钮，用遥控器麦克风发问，而不必退出当前视频。业界普遍的观点认为，YouTube重新设计了适合电视使用场景的交互范式：用语音替代键盘输入，用浮层（有赖于屏幕够大）替代页面跳转，用上下文感知替代通用搜索。这一点，相信各硬件和软件的厂商都肯定会快速跟进。不过个人认为，YouTube把会话式A...",
-          "published_at": "2026-04-04T00:54:27"
+          "summary": "Prompt 的真正价值不在于技巧本身，而在于对使用意图的精准把握。本文通过构建二维坐标系，揭示了工程效率与学习探索两大方向的本质差异，以及高熵与低熵策略的巧妙运用。从合同审核到创意激发，从知识巩固到思维颠覆，这张能力地图将彻底改变你与AI的交互方式。同样是面对最先进的大语言模型，不同人获得的结果却有着天壤之别。这种差异，绝不仅仅是因为谁掌握了更多的 prompt 模板，而是源于 实际使用中，人们...",
+          "published_at": "2026-04-04T03:47:21"
         },
         {
-          "title": "Cursor 3评测：你的IDE正在变成 Agent 的终端",
-          "url": "https://www.woshipm.com/ai/6370306.html",
+          "title": "开源项目Hermes Agent评测：越用越聪明的开源 AI 智能体",
+          "url": "https://www.woshipm.com/ai/6370531.html",
           "author": "AI星球",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "说实话，之前每次看到\\”AI 编程工具\\”这几个字，我都有点审美疲劳了。代码补全、代码解释、代码审查——翻来覆去就这些功能。但 Cursor 3 不一样，它直接干了件大事：把 IDE 变成了 AI Agent 的控制台。这意味着什么？意味着你不再是在\\”用 AI 写代码\\”，而是\\”让 AI 帮你管项目\\”。上周我花了三天深度体验了 Cursor 3，今天来聊聊我的真实感受。一、Cursor 3 ...",
-          "published_at": "2026-04-03T10:08:07"
+          "summary": "上周我被一个 GitHub 项目刷屏了——17K Stars、上线两个月、207 位贡献者。这个叫 Hermes Agent 的项目标语挺有意思：「The agent that grows with you」，翻译过来就是「与你共同成长的智能体」。说实话我见过太多 AI 工具说自己「智能」了，但说自己能「成长」的真不多见。好奇心驱使我花了一周深度体验了一番，今天来聊聊我的真实感受。一、Hermes...",
+          "published_at": "2026-04-04T03:43:08"
         },
         {
-          "title": "当 AI 开始围绕“项目”运转，产品工作的逻辑正在改变",
-          "url": "https://www.woshipm.com/ai/6370196.html",
-          "author": "Aine",
+          "title": "品牌做内容，追梗最没用",
+          "url": "https://www.woshipm.com/share/6370328.html",
+          "author": "李倩说品牌",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当“养虾热”的喧嚣退去，人们开始意识到，拥有一个AI助手与真正将其融入工作流之间，存在着巨大的鸿沟。问题的关键不再是有没有AI，而是AI能否匹配我们的工作逻辑。字节跳动旗下的TRAE SOLO独立端，正试图回答这个问题。它不再满足于做一个孤立的AI Coding工具，而是将AI带入“项目”这一真实的工作语境，让需求分析、数据洞察、竞品调研、PRD撰写乃至原型设计，围绕同一个项目持续、连贯地推进。最...",
-          "published_at": "2026-04-03T08:12:57"
+          "summary": "从酱板鸭到盾构机，一场AI制造的荒诞复仇正在席卷全网。这个被称为'预制菜复仇事件'的爆梗，以60年代武侠画风搭配无厘头反转剧情，创造了2026年首个现象级传播案例。但狂欢背后，品牌们是否真的从中获益？本文深度剖析爆梗传播背后的品牌困境，揭示AI时代内容营销的本质矛盾。01 “酱板鸭复仇”是个什么鬼？最近你刷到过这样一个无厘头奇葩视频吗？60年代邵氏武侠的画风，在皑皑白雪的深山老林里，一位樵夫（还是...",
+          "published_at": "2026-04-04T03:22:50"
         },
         {
-          "title": "意外开源的51万行代码，让我们看清了AI Agent的终极秘密Harness Engineering",
-          "url": "https://www.woshipm.com/ai/6370157.html",
-          "author": "被抢了名字的Kimi",
+          "title": "AI日报：Google开源Gemma 4，小参数吊打大模型，程序员春天来了？",
+          "url": "https://www.woshipm.com/ai/6370529.html",
+          "author": "老曹",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Anthropic的一次意外代码泄漏，揭示了AI Agent稳定运行的秘密——Harness Engineering。从电脑鼠迷宫比赛到Claude Code的架构设计，这篇文章深入探讨了环境约束如何比模型本身更能释放AI潜力。三层Harness框架、次优路径的胜利，以及人类在AI探索中的独特角色，共同勾勒出下一代AI发展的关键路径。2026年3月底，一件意外的事震动了AI圈。安全研究员 Chao...",
-          "published_at": "2026-04-03T08:02:10"
+          "summary": "早上好！我是老曹。近两天AI圈最热闹的事情是Google Gemma 4开源和Cursor 3发布，两个重磅产品同时炸场，确实有点去年 GPT-4o 发布那味儿了。Gemma 4 这个小模型跑出了85%的大模型分数，确实让人意外，256K上下文配本地部署，效率拉满了。另一边，国产这边也没闲着，千问3.6-Plus和智谱GLM-5V-Turbo都在往编程方向卷，Qwen3.6-Plus直接喊出”国产...",
+          "published_at": "2026-04-04T03:03:41"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 13,
+      "count": 12,
       "items": [
         {
           "title": "A Practical Guide To Design Principles",
@@ -418,48 +436,48 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "The Lookback",
-          "url": "https://www.awwwards.com/sites/the-lookback",
-          "author": "Gil Huybrecht",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 4,
       "items": [
         {
-          "title": "Codictate",
-          "url": "https://www.producthunt.com/products/codictate",
-          "author": "Emil Lykke Grann",
+          "title": "OpenRouter Model Fusion",
+          "url": "https://www.producthunt.com/products/openrouter",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Free dictation for Any language and any applicationDiscussion|Link",
-          "published_at": "2026-04-02T16:15:03"
+          "summary": "Run many models side by side and fuse the best answerDiscussion|Link",
+          "published_at": "2026-04-03T15:05:51"
         },
         {
-          "title": "EmDash CMS",
-          "url": "https://www.producthunt.com/products/emdash-cms",
-          "author": "Ben Bartling",
+          "title": "Sleek Analytics",
+          "url": "https://www.producthunt.com/products/sleek-analytics",
+          "author": "Abbas Aga",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "EmDash is a new open-source CMS from CloudflareDiscussion|Link",
-          "published_at": "2026-04-02T19:03:55"
+          "summary": "See who's on your site. Right now.Discussion|Link",
+          "published_at": "2026-04-03T17:38:32"
         },
         {
-          "title": "VoiceOS",
-          "url": "https://www.producthunt.com/products/voiceos",
-          "author": "Garry Tan",
+          "title": "Surf Social Websites",
+          "url": "https://www.producthunt.com/products/flipboard-surf",
+          "author": "Chris Messina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Say it and it's done. Work 10x faster with your voice.Discussion|Link",
-          "published_at": "2026-04-01T17:16:21"
+          "summary": "Bring together people and content on the social webDiscussion|Link",
+          "published_at": "2026-04-01T23:56:29"
+        },
+        {
+          "title": "Google Vids 2.0",
+          "url": "https://www.producthunt.com/products/google",
+          "author": "Rohan Chaubey",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Create, edit and share videos at no cost w/ new AI featuresDiscussion|Link",
+          "published_at": "2026-04-02T17:12:09"
         }
       ]
     },
@@ -603,6 +621,15 @@
       "count": 6,
       "items": [
         {
+          "title": "买前必看：千问 AI 眼镜 G1 自费长测",
+          "url": "https://sspai.com/post/108103",
+          "author": "Barryhimself",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "千问G1确实有其独特的优势，但在软硬件细节体验上也还有很多需要打磨的地方。查看全文",
+          "published_at": "2026-04-04T09:11:10"
+        },
+        {
           "title": "本周看什么 | 最近值得一看的 9 部作品",
           "url": "https://sspai.com/post/108231",
           "author": "少数派编辑部",
@@ -646,15 +673,6 @@
           "source": "少数派",
           "summary": "「2050大会」是国内科技圈里一个非常独特的存在。这是由中国工程院院士、阿里云创始人王坚博士，通过杭州市云栖科技创新基金会，发起的一项非营利科技活动。每年4月最后一个完整周末，来自世界各地的科技爱好者 ...查看全文",
           "published_at": "2026-04-02T10:26:36"
-        },
-        {
-          "title": "派晚报：2026 年愚人节产品大赏",
-          "url": "https://sspai.com/post/108197",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "假作真时真亦假，明天晚上就放假。查看全文",
-          "published_at": "2026-04-02T08:33:54"
         }
       ]
     }
