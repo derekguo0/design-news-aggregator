@@ -1,27 +1,45 @@
 {
   "date": "2026-04-05T00:00:00",
-  "total_items": 62,
+  "total_items": 61,
   "sources": [
-    "UX Planet",
-    "人人都是产品经理",
+    "Intercom Blog",
+    "Awwwards",
     "优设网",
-    "少数派",
-    "Product Hunt",
-    "Design Milk",
+    "UX Planet",
+    "NN/g (Nielsen Norman Group)",
+    "Sidebar",
+    "人人都是产品经理",
     "A List Apart",
     "CSS-Tricks",
-    "Sidebar",
-    "UX Design CC",
-    "NN/g (Nielsen Norman Group)",
-    "Awwwards",
-    "Intercom Blog"
+    "Product Hunt",
+    "Design Milk",
+    "少数派",
+    "UX Design CC"
   ],
-  "generated_at": "2026-04-05T02:51:25.074654",
+  "generated_at": "2026-04-05T13:06:46.967504",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 12,
+      "count": 14,
       "items": [
+        {
+          "title": "The invisible layer of UX most designers ignore",
+          "url": "https://uxdesign.cc/the-invisible-layer-of-ux-most-designers-ignore-69272cda4468?source=rss----138adf9c44c---4",
+          "author": "Allie Paschal",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How your design decisions translate to screen reader outputMost designers spend their time editing and improving what our users see, like color palettes, layout grids, and type hierarchy. We obsess ov...",
+          "published_at": "2026-04-05T11:01:28"
+        },
+        {
+          "title": "“Vibe coding” is accelerating the erosion of design authority",
+          "url": "https://uxdesign.cc/vibe-coding-is-accelerating-the-erosion-of-design-authority-4dc21b233606?source=rss----138adf9c44c---4",
+          "author": "Michael Buckley",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "When artifacts replace architecture,we substitutesimulation for trusted judgment.Image source: Adobe StockI recently reviewed several demonstrations ofGoogle Stitch. It is genuinely impressive as a ra...",
+          "published_at": "2026-04-05T11:01:16"
+        },
         {
           "title": "Designers: We are perpetuating our own burnout problem",
           "url": "https://uxdesign.cc/designers-we-are-perpetuating-our-own-burnout-problem-6caaa3662f2e?source=rss----138adf9c44c---4",
@@ -251,49 +269,49 @@
           "published_at": "2026-04-02T18:00:02"
         },
         {
-          "title": "做私域最大的错误：太努力加人",
-          "url": "https://www.woshipm.com/share/6370516.html",
-          "author": "私域何老师",
+          "title": "当每一次生成都要花钱：从Sora之死看AI时代的产品新逻辑",
+          "url": "https://www.woshipm.com/ai/6370855.html",
+          "author": "ChenXiaowu",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在私域运营的战场上，5000好友可能只是虚假繁荣的数字游戏。真正残酷的真相是：80%的「僵尸好友」不仅消耗精力，更可能将潜在客户转化为黑粉。本文拆解从流量陷阱到精准筛选的四步法则，揭示为何「少即是多」才是私域成交的终极密码。做私域的人，微信好友一般都不少2000，3000，加满5000的也大有人在但有个问题很少有人敢认真想：上个月，到底成交了几单？因为大概率还是那几个老客户在撑场面剩下那几千号人，...",
-          "published_at": "2026-04-05T02:09:55"
+          "summary": "AI视频生成的商业逻辑正在经历残酷洗牌。OpenAI突然关停Sora的背后，是每天烧掉1亿人民币却只收回零头的经济灾难；而中国可灵和即梦的涨价策略，则展示了B端商业场景的惊人盈利能力。本文深度拆解两种商业模式的生死分野，揭示AI产品必须面对的五大成本革命。最近刷到一条旧闻的二次讨论——OpenAI在3月24号正式宣布关停Sora。这个事情发生已经有一段时间了，但我最近反复看到各种角度的讨论，突然冒...",
+          "published_at": "2026-04-05T08:20:27"
         },
         {
-          "title": "“上线产品就能找到工作”——这个谎言害了多少转行的人",
-          "url": "https://www.woshipm.com/zhichang/6370507.html",
-          "author": "YHZ的AI日记",
+          "title": "AI日报：Anthropic封杀OpenClaw、Meta开源Llama 4、优必选日薪50万招人",
+          "url": "https://www.woshipm.com/ai/6371098.html",
+          "author": "老曹",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI产品经理的转型之路远比想象中复杂。上线一个产品并不足以敲开职场大门，行业认知偏差、能力建设误区才是阻碍多数人的隐形门槛。本文直击三大认知陷阱，拆解AI时代真正值钱的能力模型，告诉你如何将时间窗口转化为不可替代的竞争力。很多人是这样走进AI产品这个行业的：辞掉原来的工作，或者利用业余时间，花几个月学完一套课程，做出一个”真实可访问”的产品，信心满满地开始投简历。然后——石沉大海。偶尔有面试，聊了...",
-          "published_at": "2026-04-05T01:09:27"
+          "summary": "今天是清明节假期，AI圈也没闲着。Anthropic突然对OpenClaw下手了，从4月4日起正式封杀这个第三方工具，开发者们一片哀嚎。另一边，优必选开出了天价年薪招人，最高1.24亿元，日薪约50万，看来具身智能的人才战已经打响了。Meta也开源了Llama 4系列，阿里三天发了三款模型，竞争越来越激烈。往下看详情吧。1. Anthropic正式封杀OpenClaw，全球开发者24小时血崩关键内...",
+          "published_at": "2026-04-05T07:29:43"
         },
         {
-          "title": "测试模型六小虎（智谱、Kimi等）中的Step 3.5 Flash 2603，它到底什么水平？",
-          "url": "https://www.woshipm.com/share/6370962.html",
-          "author": "叶小钗",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "当大家都在讨论 Agent 如何改变工作流时，阶跃星辰发布的 Step 3.5 Flash 2603 无疑提供了一个极具说服力的样本。它不追求虚浮的通用知识堆砌，而是以“实用主义”为核心，通过极高的推理速度（350 token/s）和对复杂工具链（如 OpenClaw Skills、飞书 API）的精准调度，证明了模型可以成为真正可靠的“数字员工”。本文将深入测评其在真实开发、数据可视化及多步骤业...",
-          "published_at": "2026-04-04T13:36:27"
-        },
-        {
-          "title": "在“人人都在聊Agent”的时代，如何搭建你的第一个自动化闭环？",
-          "url": "https://www.woshipm.com/ai/6370527.html",
-          "author": "AI 新知社",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "Agent和大模型的风口下，真正能落地的自动化闭环寥寥无几。本文撕掉行业炒作的外衣，用电商竞品监控的实战案例，拆解从SOP设计、Prompt Chain优化到API调用的全流程方法论，告诉你如何打造一个不智障、能真正扛业务的AI工作流。这大半年，只要你打开各种行业社群、科技媒体，满屏乱飞的都是“Agent（智能体）”、“大模型”、“重构一切”。搞得好像今天你不懂Agent，明天就要被扫地出门去送外...",
-          "published_at": "2026-04-04T13:18:04"
-        },
-        {
-          "title": "GenAI根本就不懂你！它只是在找“关联”！",
-          "url": "https://www.woshipm.com/ai/6370808.html",
+          "title": "AI浪潮之巅，顶尖高手为何死磕“数据库”？",
+          "url": "https://www.woshipm.com/ai/6370866.html",
           "author": "古元",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "生成式AI正以惊人的创造力重塑世界，但它的内核并非真正的理解，而是强大的关联机制。从文字接龙到像素演变，从词向量空间到世界模型，AI系统如何通过统计关联模拟智能？本文深度解析GenAI背后的关联引擎，揭示其如何从海量数据中构建知识网络，以及为何会陷入幻觉陷阱——在这场人类与关联机器的共舞中，我们需要既欣赏其可能性，又清醒认识其边界。从ChatGPT写诗、Sora生成电影级视频，到Midjourne...",
-          "published_at": "2026-04-04T10:15:48"
+          "summary": "当AI大模型风光无限时，顶尖学子却在数据库赛道上通宵鏖战。这背后揭示了一个关键趋势：RAG技术正成为AI落地的核心支撑，而高性能数据库则是这场'开卷考试'的超级百科全书。本文深度解析数据库如何通过混合查询与多模态进化，成为决定AI智能上限的隐形冠军。当GPT-4和Sora刷屏朋友圈，当“大模型”成为资本宠儿，当无数人高呼“AI取代程序员”，你是否想过：国内最顶尖的计算机院校的学生们，却在一场名为“...",
+          "published_at": "2026-04-05T07:20:08"
+        },
+        {
+          "title": "AI产品的RAG系统，到底该怎么做业务验收？",
+          "url": "https://www.woshipm.com/ai/6370846.html",
+          "author": "AI 新知社",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "当AI知识库系统在实际业务中频频翻车，产品经理该如何避免成为\"背锅侠\"？本文深度解析RAG系统验收的三大核心维度：从检索命中率、生成忠实度到业务体验指标，揭秘如何通过黄金数据集和错题本机制，将人工智障变成真正可落地的业务助手。今天咱们不聊那些虚头巴脑的宏大叙事，什么“AGI时代降临”、“大模型颠覆一切”。咱们关起门来，聊一个极其痛、极其现实，而且每天都在各大厂和小厂的会议室里真实发生的问题：你们公...",
+          "published_at": "2026-04-05T06:19:13"
+        },
+        {
+          "title": "一篇讲透小红书闭环电商的5种常见策略打法",
+          "url": "https://www.woshipm.com/share/6370877.html",
+          "author": "林卿LinQ.",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "小红书闭环电商的玩法正在颠覆传统认知。从店铺运营的搜索红利到买手直播的信任经济，再到笔直群广的系统化经营，本文将拆解6种主流打法背后的底层逻辑，帮助品牌找到最适合的冷启动路径与增长飞轮。随着小红书闭环电商的热度渐起，好多小伙伴一头扎进来，却有点“找不着北”。有的照着传统电商的老路子硬套，结果水土不服；有的想复制抖音的爆款逻辑，却发现流量怎么都撬不动；还有的听说了一些玩法，像“买手”、“笔直群广”，...",
+          "published_at": "2026-04-05T05:24:12"
         }
       ]
     },
@@ -356,6 +374,15 @@
           "published_at": null
         },
         {
+          "title": "Artem Shcherban Portfolio",
+          "url": "https://www.awwwards.com/sites/artem-shcherban-portfolio",
+          "author": "Artem Shcherban",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Artefakt",
           "url": "https://www.awwwards.com/sites/artefakt",
           "author": "Greg Lallé",
@@ -390,22 +417,22 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "SUTÉRA",
-          "url": "https://www.awwwards.com/sites/sutera",
-          "author": "Okey Studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 2,
       "items": [
+        {
+          "title": "Influcio",
+          "url": "https://www.producthunt.com/products/influcio-2",
+          "author": "Chris Messina",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "AI marketing Agent for result-driven influencer campaignDiscussion|Link",
+          "published_at": "2026-04-04T10:57:03"
+        },
         {
           "title": "Fluently",
           "url": "https://www.producthunt.com/products/fluently-accurate-youtube-subtitles",
@@ -414,42 +441,6 @@
           "source": "Product Hunt",
           "summary": "AI subtitles & translations for YouTube. 20+ Languages.Discussion|Link",
           "published_at": "2026-04-03T13:21:21"
-        },
-        {
-          "title": "Mercury Edit 2",
-          "url": "https://www.producthunt.com/products/mercury-412",
-          "author": "Zac Zuo",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Ultra-fast next-edit prediction for codingDiscussion|Link",
-          "published_at": "2026-04-03T15:32:18"
-        },
-        {
-          "title": "Faahh",
-          "url": "https://www.producthunt.com/products/faahh-app-that-roasts-you-back-to-work",
-          "author": "Nagaraj M",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Slap your desk. Unplug distractions. Get back to focus.Discussion|Link",
-          "published_at": "2026-04-03T08:20:59"
-        },
-        {
-          "title": "OpenRouter Model Fusion",
-          "url": "https://www.producthunt.com/products/openrouter",
-          "author": "Zac Zuo",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Run many models side by side and fuse the best answerDiscussion|Link",
-          "published_at": "2026-04-03T15:05:51"
-        },
-        {
-          "title": "Google Vids 2.0",
-          "url": "https://www.producthunt.com/products/google",
-          "author": "Rohan Chaubey",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Create, edit and share videos at no cost w/ new AI featuresDiscussion|Link",
-          "published_at": "2026-04-02T17:12:09"
         }
       ]
     },
@@ -503,8 +494,8 @@
           "published_at": null
         },
         {
-          "title": "亏50块更心痛！看坚果云如何利用损失厌恶提高续费率",
-          "url": "https://www.uisdc.com/hunter/0221665314.html",
+          "title": "强烈建议Ribbi去申请吉尼斯，这加载文案多到让人不可思议！",
+          "url": "https://www.uisdc.com/hunter/0221665492.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -575,6 +566,15 @@
       "count": 6,
       "items": [
         {
+          "title": "愿君多修葺，此物最相思：从我的故事谈「数字遗产」保护",
+          "url": "https://sspai.com/post/69901",
+          "author": "Microhoo",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "「数字遗产」对现代人越来越重要，尤其是具有隐私属性的数据，有可能会导致用户逝世后叠加「社会性死亡」的风险，更别提敏感隐私数据暴露后，对逝者家属的进一步打击。查看全文",
+          "published_at": "2026-04-05T08:41:08"
+        },
+        {
           "title": "买前必看：千问 AI 眼镜 G1 自费长测",
           "url": "https://sspai.com/post/108103",
           "author": "Barryhimself",
@@ -618,15 +618,6 @@
           "source": "少数派",
           "summary": "Google 将强制要求所有 Wear OS 手表应用支持 64 位，中国广电联合会演员委员会就 AI 换脸与声纹克隆侵权问题发布声明等。查看全文",
           "published_at": "2026-04-03T00:39:38"
-        },
-        {
-          "title": "汇聚热爱，「2050 大会」少数派线下活动邀请你来参与",
-          "url": "https://sspai.com/post/108202",
-          "author": "老麦",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "「2050大会」是国内科技圈里一个非常独特的存在。这是由中国工程院院士、阿里云创始人王坚博士，通过杭州市云栖科技创新基金会，发起的一项非营利科技活动。每年4月最后一个完整周末，来自世界各地的科技爱好者 ...查看全文",
-          "published_at": "2026-04-02T10:26:36"
         }
       ]
     }
