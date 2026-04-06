@@ -1,25 +1,61 @@
 {
   "date": "2026-04-06T00:00:00",
-  "total_items": 54,
+  "total_items": 63,
   "sources": [
-    "Sidebar",
-    "Awwwards",
-    "优设网",
-    "少数派",
+    "UX Design CC",
     "Product Hunt",
+    "优设网",
+    "Sidebar",
+    "Design Milk",
     "A List Apart",
-    "人人都是产品经理",
     "UX Planet",
     "NN/g (Nielsen Norman Group)",
-    "UX Design CC",
-    "Design Milk"
+    "Awwwards",
+    "人人都是产品经理",
+    "少数派"
   ],
-  "generated_at": "2026-04-06T02:52:55.049114",
+  "generated_at": "2026-04-06T13:19:34.089225",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 12,
+      "count": 13,
       "items": [
+        {
+          "title": "The UX ground is shaking, synthetic users, building perspective",
+          "url": "https://uxdesign.cc/the-ux-ground-is-shaking-synthetic-users-building-perspective-38635c3677e1?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“To have a perspective is to say ‘no’ to things that are technically possible but strategically wrong. Most products fail not because they ...",
+          "published_at": "2026-04-06T11:07:55"
+        },
+        {
+          "title": "Data models: the shared language your AI and team are both missing",
+          "url": "https://uxdesign.cc/data-models-the-shared-language-your-ai-and-team-are-both-missing-e36807c7f665?source=rss----138adf9c44c---4",
+          "author": "‍ Alexandra Vasquez",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The one thing your team needs to agree on before prompting any AI toolHave you seen that meme with the guy pointing at a wall covered in papers, pictures, and strings and conspiracy theories? That was...",
+          "published_at": "2026-04-06T08:47:07"
+        },
+        {
+          "title": "We didn’t mean to build this- engagement at any cost",
+          "url": "https://uxdesign.cc/we-didnt-mean-to-build-this-engagement-at-any-cost-f0d80c24e14f?source=rss----138adf9c44c---4",
+          "author": "Heenesh Patel",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "We didn’t mean to build this— engagement at any costHow well-meaning designers became complicit in broken systems and why handing those same briefs to AI could prove catastrophic.Image generated with ...",
+          "published_at": "2026-04-06T08:47:06"
+        },
+        {
+          "title": "Who are we really designing for?",
+          "url": "https://uxdesign.cc/who-are-we-really-designing-for-95d2a2848390?source=rss----138adf9c44c---4",
+          "author": "Daleen Rabe",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "A guide to the conflicting needs of the individual User and the collective Customer.Continue reading on UX Collective »",
+          "published_at": "2026-04-06T08:46:27"
+        },
         {
           "title": "The invisible layer of UX most designers ignore",
           "url": "https://uxdesign.cc/the-invisible-layer-of-ux-most-designers-ignore-69272cda4468?source=rss----138adf9c44c---4",
@@ -75,40 +111,13 @@
           "published_at": "2026-04-04T10:38:57"
         },
         {
-          "title": "Context matters… A lot",
-          "url": "https://uxdesign.cc/context-matters-a-lot-7799188344dc?source=rss----138adf9c44c---4",
-          "author": "Connor Joyce",
+          "title": "MCP is Dead",
+          "url": "https://uxplanet.org/mcp-is-dead-cf16b667ba6d?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
           "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "Building intuitive AI products requires designing for context managementSelecting the right context among the noise can make the world of differenceLarge language models are becoming remarkably good a...",
-          "published_at": "2026-04-03T09:19:51"
-        },
-        {
-          "title": "Running your life from terminal is peak 2026 — and that’s not the flex you think it is",
-          "url": "https://uxdesign.cc/running-your-life-from-terminal-is-peak-2026-and-thats-not-the-flex-you-think-it-is-281f1f616a07?source=rss----138adf9c44c---4",
-          "author": "Arpy Dragffy",
-          "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "“I run my life from terminal.” Peak 2026 energy. And I get it — I really do.Hilary Gridleywas just on “How I AI” — the sister podcast to Lenny’s Newsletter — talking about turning #ClaudeCode into you...",
-          "published_at": "2026-04-03T09:19:25"
-        },
-        {
-          "title": "Interview with Amy Huang, Leadership in Design",
-          "url": "https://uxdesign.cc/interview-with-amy-huang-leadership-in-design-194f73ac7b2f?source=rss----138adf9c44c---4",
-          "author": "Emi Knight",
-          "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "Amy Huang has a fintech and healthcare background including creative direction at Citibank and consulting for BCBSRI.She has a B.F.A. in Industrial Design from RISD as well as various other qualificat...",
-          "published_at": "2026-04-03T09:19:00"
-        },
-        {
-          "title": "Is AI addiction a thing?",
-          "url": "https://uxdesign.cc/is-ai-addiction-a-thing-8c9baaafa679?source=rss----138adf9c44c---4",
-          "author": "Catherine Chu",
-          "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "And is it really that bad?Photo byMia AndersononUnsplashAnarticlepublished in 2025 proposed a newly observed disorder called Generative AI Addiction Syndrome (GAID), describing how some users feel anx...",
-          "published_at": "2026-04-03T09:18:49"
+          "source": "UX Planet",
+          "summary": "Why you should avoid using MCP in Claude Code and what to use insteadContinue reading on UX Planet »",
+          "published_at": "2026-04-06T12:24:25"
         },
         {
           "title": "How To Automate Product Design Tasks with Claude Code",
@@ -132,7 +141,7 @@
     },
     {
       "category": "用户体验研究",
-      "count": 5,
+      "count": 6,
       "items": [
         {
           "title": "A Concrete Definition of an AI Agent",
@@ -171,6 +180,15 @@
           "published_at": null
         },
         {
+          "title": "The 3 C’s of Informational Microcopy",
+          "url": "https://www.nngroup.com/articles/3-cs-microcopy/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "What Is Your Site's AI Chatbot for? Users Can't Tell",
           "url": "https://www.nngroup.com/articles/site-ai-chatbot/",
           "author": null,
@@ -183,8 +201,17 @@
     },
     {
       "category": "产品设计",
-      "count": 8,
+      "count": 9,
       "items": [
+        {
+          "title": "TSATSAS Unveils a New Hue for the 931 Bag by Dieter Rams",
+          "url": "https://design-milk.com/tsatsas-unveils-a-new-hue-for-the-931-bag-by-dieter-rams/",
+          "author": "Elizabeth Pagliacolo",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "The iconic design now comes in a burgundy calfskin—a supple, luxurious tone that highlights the handbag's craftsmanship.",
+          "published_at": "2026-04-06T13:00:48"
+        },
         {
           "title": "F5: Alex Lerian on Live Music, a Favorite Burrito Spot, Materials + More",
           "url": "https://design-milk.com/f5-alex-lerian-on-live-music-a-favorite-burrito-spot-materials-more/",
@@ -213,49 +240,49 @@
           "published_at": "2026-04-03T14:00:13"
         },
         {
-          "title": "医疗AI中的交互体验",
-          "url": "https://www.woshipm.com/ai/6370968.html",
-          "author": "来都来了",
+          "title": "5个自媒体的流量密码！",
+          "url": "https://www.woshipm.com/share/6371726.html",
+          "author": "十里村",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI遇上医疗诊断，如何平衡效率与责任成为关键挑战。一位产品经理回顾了自己设计的医疗AI辅助系统，通过‘人造摩擦力’与数据可视化方案，巧妙解决了黑盒信任与权责划分问题。这个案例揭示了优秀交互设计的本质：不是追求炫技，而是构建多方共赢的服务闭环。最近沉溺于工作无法自拔，工作内容逐渐偏向更底层与数据、安全、上链相关，好久没有动过我的脑子做设计相关的事情了，前两天面试的时候面试官提到了一个问题，关于我之...",
-          "published_at": "2026-04-06T02:03:19"
+          "summary": "做内容1000多篇，阅读量几百，但我确实掌握了流量密码。美女、热点、冲突、博眼球、替人发声——这五招百试百灵。只是我选择不用。虽然我文章阅读量并不怎么样，但是我的的确确掌握了普通用户快速出圈、做内容爆火的流量密码。只是每一个人的选择不同，我自己更喜欢这种简单、直接的交流方式，所以我才能在几百个阅读量的情况下，坚持写了1000多篇文章到现在。但很多人，如果 想要在写文章、拍视频领域，快速出圈。那么在...",
+          "published_at": "2026-04-06T12:53:51"
         },
         {
-          "title": "满地小板凳",
-          "url": "https://www.woshipm.com/it/6370972.html",
-          "author": "啸天的AI Lab",
+          "title": "我在终端里装了一个桌面宠物，用了一周后，同事说我”魔怔了”",
+          "url": "https://www.woshipm.com/ai/6371371.html",
+          "author": "AI星球",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在这个效率至上的时代，一群三十出头的城市白领正在用深夜时光悄悄重塑自我认知。他们从零开始搓小程序、抓数据、剪视频、做游戏，明知这些‘板凳’难成气候，却依然乐此不疲。本文深度剖析这种新型创作现象背后的认知升级逻辑，揭示当‘消费心态’取代‘投资心态’时，个人成长可能发生的奇妙化学反应。深夜再开机近期，我越来越频繁地看到一种人他们大多三十出头，白天有一份正经工作。开会、写方案、对需求、回消息、做汇报，跟...",
-          "published_at": "2026-04-06T01:01:58"
+          "summary": "说实话，桌面宠物这玩意儿，我向来是嗤之以鼻的。什么猫娘狗娘电子老婆，放在桌面上除了占地方就是碍眼。但今天要聊的这个Clawd on Desk，让我彻底改变了看法——它不是一个花瓶，而是一个真正能提升编程幸福感的工具。而且，最近它刚刚更新到v0.5.10，Star数已经到了776。让我意外的是，这个项目更新速度相当勤快，4月6日还有新版本发布。如果你也是Claude Code或Cursor的用户，听...",
+          "published_at": "2026-04-06T10:10:48"
         },
         {
-          "title": "当每一次生成都要花钱：从Sora之死看AI时代的产品新逻辑",
-          "url": "https://www.woshipm.com/ai/6370855.html",
-          "author": "ChenXiaowu",
+          "title": "分享我在坚持的27条工作习惯，请收好！",
+          "url": "https://www.woshipm.com/share/6371115.html",
+          "author": "林卿LinQ.",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI视频生成的商业逻辑正在经历残酷洗牌。OpenAI突然关停Sora的背后，是每天烧掉1亿人民币却只收回零头的经济灾难；而中国可灵和即梦的涨价策略，则展示了B端商业场景的惊人盈利能力。本文深度拆解两种商业模式的生死分野，揭示AI产品必须面对的五大成本革命。最近刷到一条旧闻的二次讨论——OpenAI在3月24号正式宣布关停Sora。这个事情发生已经有一段时间了，但我最近反复看到各种角度的讨论，突然冒...",
-          "published_at": "2026-04-05T08:20:27"
+          "summary": "高效工作的秘诀往往藏于日常习惯中。本文揭秘27条经过实战检验的工作法则，从信息筛选到沟通技巧，从SOP沉淀到心力管理，帮你构建职业能力的底层操作系统。这些看似简单的细节叠加，正是拉开职场效率差距的关键所在。经常有朋友问我，你是怎么保持高效的？说实话，我不是什么时间管理大师，之所以看着如此高效，靠的不是什么惊天动地的秘诀，而是一些细水长流、雷打不动的工作习惯。今天就把我保持的27条工作习惯毫无保留地...",
+          "published_at": "2026-04-06T08:18:32"
         },
         {
-          "title": "AI日报：Anthropic封杀OpenClaw、Meta开源Llama 4、优必选日薪50万招人",
-          "url": "https://www.woshipm.com/ai/6371098.html",
-          "author": "老曹",
+          "title": "一人公司的本质不是一人，而是公司",
+          "url": "https://www.woshipm.com/share/6371117.html",
+          "author": "王小小",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "今天是清明节假期，AI圈也没闲着。Anthropic突然对OpenClaw下手了，从4月4日起正式封杀这个第三方工具，开发者们一片哀嚎。另一边，优必选开出了天价年薪招人，最高1.24亿元，日薪约50万，看来具身智能的人才战已经打响了。Meta也开源了Llama 4系列，阿里三天发了三款模型，竞争越来越激烈。往下看详情吧。1. Anthropic正式封杀OpenClaw，全球开发者24小时血崩关键内...",
-          "published_at": "2026-04-05T07:29:43"
+          "summary": "AI时代下，一人公司（OPC）的叙事正在社交媒体上疯狂传播，但背后隐藏着危险的幸存者偏差。数据显示，96.8%的AI创业项目沦为基础设施供应商的打工仔，而真正的商业成功绝非靠Prompt和工具堆砌。本文犀利指出：没有行业洞察和市场需求的支点，AI杠杆只是在空气中空转。当标准化产出边际价值归零时，深耕行业的默会知识才是真正的护城河。被 AI 包装的“幸存者偏差”打开社交媒体，你会发现OPC的叙事无处...",
+          "published_at": "2026-04-06T07:17:18"
         },
         {
-          "title": "AI浪潮之巅，顶尖高手为何死磕“数据库”？",
-          "url": "https://www.woshipm.com/ai/6370866.html",
-          "author": "古元",
+          "title": "OpenClaw只是过渡，SaaS全家桶正在瓦解：AI如何暗中重写商业与社会的”底层契约”？​",
+          "url": "https://www.woshipm.com/ai/6371053.html",
+          "author": "王明北",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI大模型风光无限时，顶尖学子却在数据库赛道上通宵鏖战。这背后揭示了一个关键趋势：RAG技术正成为AI落地的核心支撑，而高性能数据库则是这场'开卷考试'的超级百科全书。本文深度解析数据库如何通过混合查询与多模态进化，成为决定AI智能上限的隐形冠军。当GPT-4和Sora刷屏朋友圈，当“大模型”成为资本宠儿，当无数人高呼“AI取代程序员”，你是否想过：国内最顶尖的计算机院校的学生们，却在一场名为“...",
-          "published_at": "2026-04-05T07:20:08"
+          "summary": "OpenClaw的爆火只是AI时代的冰山一角，真正的革命在于软件服务的第一对象正从人转向Agent。从原生操作系统rOS的发布到SaaS全家桶的解构，再到情绪代币PNUT的疯狂崛起，这场变革正在撕碎我们熟悉的商业逻辑与权力结构。本文深度剖析Agent时代的产品设计范式转移，以及身处风暴中心的产品经理该如何重构自己的生存法则。如果你今天依然坐在工位上，为了某个按钮零点几个百分点的点击率熬夜画Axur...",
+          "published_at": "2026-04-06T06:15:01"
         }
       ]
     },
@@ -318,6 +345,15 @@
           "published_at": null
         },
         {
+          "title": "Champions For Good",
+          "url": "https://www.awwwards.com/sites/champions-for-good",
+          "author": "Double Play",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Artem Shcherban Portfolio",
           "url": "https://www.awwwards.com/sites/artem-shcherban-portfolio",
           "author": "Artem Shcherban",
@@ -352,39 +388,75 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Utopia Tokyo",
-          "url": "https://www.awwwards.com/sites/utopia-tokyo",
-          "author": "spotheroz",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 7,
       "items": [
         {
-          "title": "Influcio",
-          "url": "https://www.producthunt.com/products/influcio-2",
-          "author": "Chris Messina",
+          "title": "Epismo Context Pack",
+          "url": "https://www.producthunt.com/products/epismo",
+          "author": "Hiroki",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI marketing Agent for result-driven influencer campaignDiscussion|Link",
-          "published_at": "2026-04-04T10:57:03"
+          "summary": "Portable memory for agent workflowsDiscussion|Link",
+          "published_at": "2026-04-05T19:51:46"
         },
         {
-          "title": "Fluently",
-          "url": "https://www.producthunt.com/products/fluently-accurate-youtube-subtitles",
-          "author": "Edmund Yong",
+          "title": "Moonshot",
+          "url": "https://www.producthunt.com/products/moonshot-13",
+          "author": "Aaron O'Leary",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI subtitles & translations for YouTube. 20+ Languages.Discussion|Link",
-          "published_at": "2026-04-03T13:21:21"
+          "summary": "Track the Artemis II mission from your MacDiscussion|Link",
+          "published_at": "2026-04-05T20:56:31"
+        },
+        {
+          "title": "Glassbrain",
+          "url": "https://www.producthunt.com/products/glassbrain",
+          "author": "Sai Ram Muthineni",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Visual trace replay for AI apps to fix bugs in one clickDiscussion|Link",
+          "published_at": "2026-04-06T03:33:53"
+        },
+        {
+          "title": "HyperCap",
+          "url": "https://www.producthunt.com/products/hypercap-reclaim-your-keyboard",
+          "author": "Jacob H",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Remap Caps Lock to a hyperkey, just hold it + any keyDiscussion|Link",
+          "published_at": "2026-04-05T09:01:44"
+        },
+        {
+          "title": "AgentPulse by Rectify",
+          "url": "https://www.producthunt.com/products/rectify",
+          "author": "fmerian",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "All of OpenClaw, visually. For teams and agencies.Discussion|Link",
+          "published_at": "2026-04-03T22:02:20"
+        },
+        {
+          "title": "Walkie",
+          "url": "https://www.producthunt.com/products/b150",
+          "author": "Adam Perlis",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Free local speech-to-text toolDiscussion|Link",
+          "published_at": "2026-04-05T21:00:08"
+        },
+        {
+          "title": "Ogoron",
+          "url": "https://www.producthunt.com/products/ogoron",
+          "author": "Elena Nimchenko",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Your best QA team — 9x faster, 20х cheaperDiscussion|Link",
+          "published_at": "2026-04-06T03:31:26"
         }
       ]
     },
@@ -392,6 +464,15 @@
       "category": "设计教程",
       "count": 6,
       "items": [
+        {
+          "title": "想让视觉设计更有力量感？收藏好这款免费字体！",
+          "url": "https://www.uisdc.com/humane",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
         {
           "title": "资讯/灵感全都有！2026年4月设计资讯第一波！",
           "url": "https://www.uisdc.com/ai-trends-4",
@@ -429,17 +510,8 @@
           "published_at": null
         },
         {
-          "title": "当人人都是设计师，真正的设计师还剩什么？",
-          "url": "https://www.uisdc.com/the-designers-moat",
-          "author": "",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "强烈建议Ribbi去申请吉尼斯，这加载文案多到让人不可思议！",
-          "url": "https://www.uisdc.com/hunter/0221665492.html",
+          "title": "长安汽车全景切分法，让小红书轮播图玩出横向卷轴感",
+          "url": "https://www.uisdc.com/hunter/0221665554.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -450,43 +522,52 @@
     },
     {
       "category": "设计资讯",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "The ground is shaking: Why designers must flip the script on AI",
-          "url": "https://uxdesign.cc/the-ground-is-shaking-why-designers-must-flip-the-script-on-ai-9211053bbadd",
+          "title": "AI prototyping tools: why control matters as much as speed",
+          "url": "https://bit.ly/side-pie1",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Something has shifted in the way the design field operates, and we haven’t yet found the words or identified the exact schema for it.",
-          "published_at": "2026-04-03T09:29:23"
+          "summary": "Most AI tools optimize for speed. ProtoPie AI is built for validation. Here’s why that matters for design teams working at a professional level.",
+          "published_at": "2026-04-06T09:04:00"
         },
         {
-          "title": "Design tokens visualizer",
-          "url": "https://design-tokens-visualizer.vercel.app/",
+          "title": "The design engineer symptom: what a rising job title reveals",
+          "url": "https://uxdesign.cc/the-design-engineer-symptom-what-a-rising-job-title-reveals-850d5e4fd9cc",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Interactive visualization tool for exploring design tokens and their relationships across design systems.",
-          "published_at": "2026-04-03T09:28:24"
+          "summary": "Trying to define Design Engineering today, and why the confusion around it turned out to matter.",
+          "published_at": "2026-04-06T09:02:47"
         },
         {
-          "title": "The 3 C’s of informational microcopy",
-          "url": "https://www.nngroup.com/articles/3-cs-microcopy/",
+          "title": "30 Under 30: Fraud Watch",
+          "url": "https://30u30.fyi/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Well-written informational microcopy should be clear, concise, and have character.",
-          "published_at": "2026-04-03T09:27:57"
+          "summary": "We track the burn, the hype, and the inevitable pivot to litigation.",
+          "published_at": "2026-04-06T09:02:17"
         },
         {
-          "title": "The longest line of sight",
-          "url": "https://tombh.co.uk/longest-line-of-sight",
+          "title": "The beginning of programming as we’ll know it",
+          "url": "https://bitsplitting.org/2026/04/01/the-beginning-of-programming-as-well-know-it/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How massive data processing and high-performance code can solve a singular, poetic curiosity.",
-          "published_at": "2026-04-03T09:27:28"
+          "summary": "Is the human role of “computer programmer” coming to an end? Will the AI bots one day do all the programming for us?",
+          "published_at": "2026-04-06T09:01:20"
+        },
+        {
+          "title": "What if AI just makes us work harder?",
+          "url": "https://timharford.com/2026/04/what-if-ai-just-makes-us-work-harder/",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "More multitasking. AI introduced a new rhythm in which workers managed several active threads at once.",
+          "published_at": "2026-04-06T09:00:22"
         }
       ]
     },
