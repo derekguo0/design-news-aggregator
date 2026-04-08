@@ -2,21 +2,21 @@
   "date": "2026-04-08T00:00:00",
   "total_items": 67,
   "sources": [
-    "UX Planet",
-    "人人都是产品经理",
-    "CSS-Tricks",
-    "UX Design CC",
-    "少数派",
-    "Awwwards",
-    "Design Milk",
-    "Product Hunt",
-    "NN/g (Nielsen Norman Group)",
     "优设网",
+    "少数派",
+    "UX Design CC",
+    "Design Milk",
+    "NN/g (Nielsen Norman Group)",
+    "人人都是产品经理",
     "Smashing Magazine",
+    "UX Planet",
+    "Product Hunt",
+    "CSS-Tricks",
+    "Awwwards",
     "A List Apart",
     "Sidebar"
   ],
-  "generated_at": "2026-04-08T02:47:39.152575",
+  "generated_at": "2026-04-08T10:10:42.348124",
   "categories": [
     {
       "category": "用户体验设计",
@@ -269,49 +269,49 @@
           "published_at": "2026-04-06T13:00:48"
         },
         {
-          "title": "生鲜B端供应链：品控与商家补发全流程产品设计",
-          "url": "https://www.woshipm.com/pd/6372911.html",
-          "author": "Totoro畅",
+          "title": "我不想再教 AI 做事了：一个 AI 产品经理对工作方式的重新理解",
+          "url": "https://www.woshipm.com/share/6372769.html",
+          "author": "岩风",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在B端供货履约场景中，发货与补发的闭环管理是长期困扰生鲜、快消品行业的痛点。本文提出一套基于真实业务场景的设计方案，通过数量闭环、批次可追溯的标准化流程，彻底解决传统系统存在的串单、入口混用、状态不同步等问题。从核心流程到商家操作界面，全面解析如何实现发货→品控→补发的无缝衔接。在生鲜、快消品等B端供货履约场景中，商家发货→仓库品控→不合格驳回→重新补发是高频且核心的业务流程。传统系统普遍存在数量...",
-          "published_at": "2026-04-08T02:23:32"
+          "summary": "从手工调研到自动化工作流，AI产品经理的岗位内核正在经历一场静默革命。本文作者通过四次关键转变，揭示了AI如何重写产品经理的工作方式：从替代脏活累活的初级应用，到自主构建工具链；从苦练prompt技巧到建立AI驱动的交付体系。当原型设计先于PRD、判断力取代执行力的新时代来临，传统产品方法论正在被彻底重构。如果你看过我上一篇《从传统制造到 AI 产品经理：29 岁，我用半年完成从零转型》，那你应该...",
+          "published_at": "2026-04-08T08:28:28"
         },
         {
-          "title": "从 Vibe Coding 到电子老婆：Qwen3.6-Plus 实测，编程门槛真的被打下来了？",
-          "url": "https://www.woshipm.com/ai/6370832.html",
-          "author": "苏苏肌肉大",
+          "title": "别搞聊天框了！AI落地的生死劫，全藏在毫无性感的“规则引擎”里",
+          "url": "https://www.woshipm.com/ai/6373427.html",
+          "author": "无º糖气₇泡水ᰔᩚ",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Qwen3.6-Plus 的发布正在颠覆编程世界的游戏规则。这款搭载了 ATH 架构和 1M 上下文的 AI 工具，不仅能自主调试代码，还能通过“氛围编程”理解你的审美意图。当产品经理都能用几句话生成 3D 小游戏时，我们该重新思考：在 AI 时代，真正的竞争力究竟是什么？如果你在 2000 年问一个老司机怎么开车，他会跟你聊离合、两脚离合换挡、降挡补油。那时候，开车是一门手艺，没个一年半载练不出...",
-          "published_at": "2026-04-08T02:23:25"
+          "summary": "AI在B端业务的落地远非想象中那样简单。本文通过一个真实的CRM系统改造案例，揭示了从2分钟到30秒的效率跃迁背后的关键：不是盲目追求大模型的智能，而是如何用业务规则、权限控制和数据校验将其驯服。那些看似不性感的约束机制，才是AI真正发挥价值的核心所在。过去的大半年里，国内互联网圈被各种大模型和“智能体”的狂欢所包围。发布会上，AI能写诗、能作画、能扮演各种角色和用户谈笑风生。但如果把视线拉回真实...",
+          "published_at": "2026-04-08T08:19:10"
         },
         {
-          "title": "当国产大模型杀入编程「决赛圈」：一个产品经理的冷思考",
-          "url": "https://www.woshipm.com/ai/6372886.html",
-          "author": "铭白AI",
+          "title": "Mythos 全面解读：Anthropic 最强模型发布",
+          "url": "https://www.woshipm.com/ai/6373474.html",
+          "author": "赛博禅心",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "阿里Qwen3.6-Plus的发布，将国产大模型的编程能力推向了世界顶尖水平，成本低至让人咋舌。当AI能在8分钟内生成一个完整网页，产品经理的价值正被重新定义——执行能力在贬值，判断力却在飙升。本文深度剖析在这场AI革命中，产品经理如何找到新的价值锚点，从\"Harness Engineering\"到垂直场景的深度理解，为你揭示未来不可替代的核心竞争力。4月2日，阿里发布Qwen3.6-Plus。行...",
-          "published_at": "2026-04-08T02:18:38"
+          "summary": "从为OpenBSD发现27年历史的远程崩溃漏洞，到在Linux内核中实现自主链式攻击，Mythos Preview展现了超越代码生成的“攻防一体”能力。本文深入剖析Anthropic“强到不能公开”的战略选择，解读其如何通过1亿美元额度的防御性投入与$25/$125的全新定价，在确立生态定价权的同时，为AI安全治理划定了一条前所未有的红线。2026 年 4 月 7 日，Anthropic 发布了 ...",
+          "published_at": "2026-04-08T08:07:13"
         },
         {
-          "title": "分镜脚本有了，配图怎么搞？我把市面上的生图模型全试了一遍",
-          "url": "https://www.woshipm.com/ai/6372875.html",
-          "author": "zNONOz",
+          "title": "你的知识库已经死了——卡帕西的「活体维基」，才是AI时代真正的第二大脑",
+          "url": "https://www.woshipm.com/ai/6373344.html",
+          "author": "一起听歌",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在AI漫剧分镜制作中，图像生成远非简单的提示词输入。从Google的Nano Banana到Midjourney的美学天花板，再到开源生态的精准控制，每种方案都有独特的优势与局限。本文将深度剖析五大主流方案的实战表现，帮你找到最适合项目需求的AI生图组合拳。上一篇我们聊了”精调到底是不是陷阱”这个争议话题。结尾我预告了接下来要聊图像生成。今天就来兑现承诺。分镜脚本写得再好，最终还是要变成画面的。而...",
-          "published_at": "2026-04-08T02:16:24"
+          "summary": "在这个信息过载的时代，我们都在数字囤积症中挣扎。从微信文件助手到Notion剪藏，那些被遗忘的'稍后阅读'堆积如山，形成了一座座'信息坟场'。前特斯拉AI总监Andrej Karpathy提出的活体知识库方案，用AI重新定义了知识管理——不是静态存储，而是能自动更新、自我修复的'数字第二大脑'。本文深度解析这套方案如何突破传统知识库的局限，带你看懂AI时代的知识管理新范式。你有没有算过，你的微信“...",
+          "published_at": "2026-04-08T08:06:21"
         },
         {
-          "title": "为什么 AI 还没好到能让我们交出判断权？",
-          "url": "https://www.woshipm.com/share/6371731.html",
-          "author": "骑着猪跑",
+          "title": "车轮上的管理革命：中国车企的“华为IPD一课”",
+          "url": "https://www.woshipm.com/share/6373347.html",
+          "author": "IPD产品研发管理",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "本文主要受安妮杜克的《对赌》与丹尼尔卡尼曼《噪声》这两本书所研究的决策心理学的启发而写。关于人的决策习惯和相关心理学的理论，如果需要澄清需要涉及非常详细严谨的表述，为了控制篇幅，本文对一些理论的表述并未展开介绍，如果对您的阅读造成影响，提前表示歉意。想进一步了解这些理论，欢迎您一起阅读作者原文并分享感想。随着AI技术的飞速发展，许多人都期望着AI能“代替”人做出更好的决策，但在实际运用过程中，AI...",
-          "published_at": "2026-04-08T02:12:49"
+          "summary": "2025年，中国车企的竞争焦点从流量争夺转向内功修炼，华为验证的IPD体系成为行业转型的关键引擎。这套系统通过市场驱动、跨部门协同和决策前置三大核心逻辑，帮助车企将研发周期缩短40%-60%，开发浪费减少50%-80%。本文深度解析广汽、吉利等头部车企的IPD实践案例，同时揭露70%企业落地失败的三大致命症结，为行业提供从流程复制到深度落地的破局之道。如果说2024年是汽车行业的流量元年，这一年新...",
+          "published_at": "2026-04-08T08:04:56"
         }
       ]
     },
@@ -383,6 +383,15 @@
           "published_at": null
         },
         {
+          "title": "Nine To Five",
+          "url": "https://www.awwwards.com/sites/nine-to-five",
+          "author": "ET Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Maxima Therapy",
           "url": "https://www.awwwards.com/sites/maxima-therapy",
           "author": "Louis Paquet",
@@ -417,15 +426,6 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "San Rita",
-          "url": "https://www.awwwards.com/sites/san-rita",
-          "author": "San Rita",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -434,49 +434,49 @@
       "count": 5,
       "items": [
         {
-          "title": "OpenBrowser-AI",
-          "url": "https://www.producthunt.com/products/openbrowser-ai-59-less-100-accurate",
-          "author": "Billy Enrizky",
+          "title": "LookAway 2",
+          "url": "https://www.producthunt.com/products/lookaway",
+          "author": "Kushagra Agarwal",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Connect AI agents to browser through raw CDPDiscussion|Link",
-          "published_at": "2026-04-06T18:38:40"
+          "summary": "The Mac app your body thanks you forDiscussion|Link",
+          "published_at": "2026-04-08T04:58:31"
         },
         {
-          "title": "Highlight Studio",
-          "url": "https://www.producthunt.com/products/highlight-studio",
-          "author": "Nedim",
+          "title": "RoomieU",
+          "url": "https://www.producthunt.com/products/roomieu",
+          "author": "New User",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Record, edit, and brand screen recordings Metal poweredDiscussion|Link",
-          "published_at": "2026-04-07T00:47:06"
+          "summary": "The roommate matching app built for college studentsDiscussion|Link",
+          "published_at": "2026-04-07T14:11:53"
         },
         {
-          "title": "Netflix Playground",
-          "url": "https://www.producthunt.com/products/netflix",
-          "author": "Zac Zuo",
+          "title": "Timeliner.io",
+          "url": "https://www.producthunt.com/products/timeliner-io",
+          "author": "Noam Tryber",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A world for kids to explore along their favorite charactersDiscussion|Link",
-          "published_at": "2026-04-07T02:32:57"
+          "summary": "The all-in-one workspace for content agencies & editorsDiscussion|Link",
+          "published_at": "2026-04-07T15:31:44"
         },
         {
-          "title": "Cheese! OCR",
-          "url": "https://www.producthunt.com/products/cheese-ocr",
-          "author": "張詩楓（カエデエエエ）",
+          "title": "Flint",
+          "url": "https://www.producthunt.com/products/flint-6",
+          "author": "fmerian",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Select any screen area, get text instantlyDiscussion|Link",
-          "published_at": "2026-04-06T09:16:38"
+          "summary": "Launch on-brand pages for every campaign, ad, and prospect.Discussion|Link",
+          "published_at": "2026-04-06T16:14:03"
         },
         {
-          "title": "Couch",
-          "url": "https://www.producthunt.com/products/couch",
-          "author": "Hemendra Khatik",
+          "title": "Keeby",
+          "url": "https://www.producthunt.com/products/keeby",
+          "author": "Adrian Angelo Abelarde (Belards)",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your online couch for movies, games, and good timesDiscussion|Link",
-          "published_at": "2026-04-06T08:00:11"
+          "summary": "Mechanical keyboard sounds for your MacDiscussion|Link",
+          "published_at": "2026-04-07T22:28:59"
         }
       ]
     },
@@ -545,49 +545,49 @@
       "count": 5,
       "items": [
         {
-          "title": "The machines are fine. I’m worried about us.",
-          "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
+          "title": "AI fatigue is real and nobody talks about it",
+          "url": "https://siddhantkhare.com/writing/ai-fatigue-is-real",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "On AI agents, grunt work, and the part of science that isn’t replaceable.",
-          "published_at": "2026-04-07T08:57:40"
+          "summary": "You’re using AI to be more productive. So why are you more exhausted than ever? The paradox every engineer needs to confront.",
+          "published_at": "2026-04-08T08:30:55"
         },
         {
-          "title": "ShadCN Themer",
-          "url": "https://shadcnthemer.com/",
+          "title": "Bernie vs. Claude",
+          "url": "https://www.youtube.com/watch?v=h3AtWdeu_G0",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Browse and create stunning themes for shadcn/ui. Customize colors, fonts, and export with one click.",
-          "published_at": "2026-04-07T08:56:53"
+          "summary": "Speaking to Anthropic’s AI agent Claude about AI collecting massive amounts of personal data and how that violates our privacy rights.",
+          "published_at": "2026-04-08T08:30:16"
         },
         {
-          "title": "Designers finally have a say in the product they design",
-          "url": "https://uxdesign.cc/designers-finally-have-a-say-in-the-product-they-design-396c999e1227",
+          "title": "Shot on iPhone in black & white",
+          "url": "https://shotoniphone.lorenzobocchi.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "AI didn’t teach designers to code. It gave them back the decisions that were always theirs.",
-          "published_at": "2026-04-07T08:56:15"
+          "summary": "No warmth borrowed from a golden hour, no colour to flatter or distract. Just light, and the absence of it.",
+          "published_at": "2026-04-08T08:28:53"
         },
         {
-          "title": "AI Interaction Atlas",
-          "url": "https://ai-interaction.com/",
+          "title": "Making emojis and icons screen reader accessible",
+          "url": "https://blog.pope.tech/2026/04/01/making-emojis-and-icons-screen-reader-accessible/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Comprehensive reference for designing AI experiences. 100+ patterns, visual examples, and reusable components.",
-          "published_at": "2026-04-07T08:55:37"
+          "summary": "How emojis and icons are often not traditional images that need special considerations to be screen reader accessible.",
+          "published_at": "2026-04-08T08:27:00"
         },
         {
-          "title": "On velocity gating",
-          "url": "https://karlkoch.me/writing/on-velocity-gating",
+          "title": "Craft is untouchable",
+          "url": "https://www.chrbutler.com/craft-is-untouchable",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "EMA smoothing, split engage/disengage thresholds, and directional hysteresis prevent strobe effects without debounce lag.",
-          "published_at": "2026-04-07T08:54:58"
+          "summary": "AI doesn’t threaten craft—the temptation to skip iteration does.",
+          "published_at": "2026-04-08T08:25:59"
         }
       ]
     },
@@ -620,6 +620,33 @@
       "count": 6,
       "items": [
         {
+          "title": "Type-C 接口最大的问题，是看起来已经「统一」了",
+          "url": "https://sspai.com/post/108325",
+          "author": "流歌",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "真正的问题在于，Type-C 用一个统一的接口形态，掩盖了背后复杂且分裂的实现与协议。查看全文",
+          "published_at": "2026-04-08T06:42:09"
+        },
+        {
+          "title": "谈谈 Windows 的视觉风格与交互演变",
+          "url": "https://sspai.com/prime/story/windows-ui-styles-history",
+          "author": "广陵止息",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Windows 11 一度能同时包含十多种不同的界面风格视觉效果，这是纯粹的泥古不化还是另有苦衷？查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "published_at": "2026-04-08T06:05:12"
+        },
+        {
+          "title": "🎁 福利派 | 少数派首款超薄钢化膜今日开售",
+          "url": "https://sspai.com/post/108285",
+          "author": "福利派",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "少数派出手机钢化膜啦！查看全文",
+          "published_at": "2026-04-08T03:01:54"
+        },
+        {
           "title": "派早报：macOS 内核 TCP 协议栈存在溢出漏洞、Google Pixel 10a 推出独占版本等",
           "url": "https://sspai.com/post/108380",
           "author": "少数派编辑部",
@@ -645,33 +672,6 @@
           "source": "少数派",
           "summary": "提到跑步热身，你想到的是什么？查看全文",
           "published_at": "2026-04-07T07:00:00"
-        },
-        {
-          "title": "互联网，电子游戏与屏幕之后的个人健康",
-          "url": "https://sspai.com/post/108322",
-          "author": "Leobai",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "互联网与现实世界融合后的世界，会是什么样子？查看全文",
-          "published_at": "2026-04-07T03:26:55"
-        },
-        {
-          "title": "派早报：OpenAI 发布文章探讨 AI 时代的政策建议等",
-          "url": "https://sspai.com/post/108326",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "OPPO 上架 OPPO A6k，工信部发布 iOS 特定版本防范漏洞攻击利用的风险提示等。查看全文",
-          "published_at": "2026-04-07T00:18:12"
-        },
-        {
-          "title": "App+1｜装上它、然后忘掉它：用 ShotClean 自动化管理截图",
-          "url": "https://sspai.com/post/108294",
-          "author": "烧饼",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "截图作为一种「临时性内容」，一直有点尴尬——不值得精心管理，但也不该被粗暴删除，大多数相册工具也没有专门对它做什么。查看全文",
-          "published_at": "2026-04-06T12:45:30"
         }
       ]
     }
