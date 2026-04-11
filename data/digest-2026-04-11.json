@@ -2,25 +2,25 @@
   "date": "2026-04-11T00:00:00",
   "total_items": 61,
   "sources": [
-    "Smashing Magazine",
-    "UX Planet",
-    "CSS-Tricks",
-    "Sidebar",
-    "Design Milk",
     "人人都是产品经理",
-    "A List Apart",
-    "Product Hunt",
-    "UX Design CC",
-    "NN/g (Nielsen Norman Group)",
-    "少数派",
+    "Sidebar",
+    "UX Planet",
     "Awwwards",
-    "优设网"
+    "CSS-Tricks",
+    "少数派",
+    "NN/g (Nielsen Norman Group)",
+    "UX Design CC",
+    "Product Hunt",
+    "优设网",
+    "Design Milk",
+    "A List Apart",
+    "Smashing Magazine"
   ],
-  "generated_at": "2026-04-11T02:38:13.043324",
+  "generated_at": "2026-04-11T13:07:31.251488",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 6,
+      "count": 7,
       "items": [
         {
           "title": "Notes from the people building your future",
@@ -48,6 +48,15 @@
           "source": "UX Design CC",
           "summary": "How design was used to target vulnerable childrenContinue reading on UX Collective »",
           "published_at": "2026-04-08T11:22:41"
+        },
+        {
+          "title": "Top 7 Claude Code Skills Repos for Product Designers",
+          "url": "https://uxplanet.org/top-7-claude-code-skills-repos-for-product-designers-0ff8c9cf796f?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Skills are quickly becoming one of the most popular ways to improve Claude Code efficiency for a specific task . But creating a new skill…Continue reading on UX Planet »",
+          "published_at": "2026-04-11T11:05:18"
         },
         {
           "title": "10 Claude Code Tips & Tricks from Boris Cherny for Product Teams",
@@ -197,49 +206,49 @@
           "published_at": "2026-04-09T13:00:18"
         },
         {
-          "title": "Mythos 事件：前沿 AI 治理的意外实验",
-          "url": "https://www.woshipm.com/ai/6374874.html",
-          "author": "悠酱",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "Anthropic 的一次手滑意外曝光了代号 'Mythos' 的超强 AI 模型，引发全球对超级 AI 使用边界的激烈讨论。这个能发现人类几十年都找不到的漏洞、甚至可能成为自动黑客的系统，正通过 'Project Glasswing' 计划以 VIP 俱乐部模式分发给特定机构。当 AI 能力触及社会安全红线，谁来决定谁能拥有这种力量？这场意外泄露撕开了科技公司权力分配的新战场。一、事情怎么曝光的...",
-          "published_at": "2026-04-11T02:11:11"
-        },
-        {
-          "title": "货代CRM：信用与风险管理怎么做，才能把坏账风险拦在放货之前？",
-          "url": "https://www.woshipm.com/share/6284071.html",
-          "author": "天涯轩",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "货代行业的风控管理正面临关键转型——从被动记录到主动拦截。许多企业虽有信用管理系统，却在超额、逾期等风险事件发生时反应滞后。本文深度解析如何构建真正的业务防火墙：从授信账本实时计算到信控规则自动拦截，从风险预警闭环处理到催收恢复机制联动，揭示货代企业如何将风险管理前移到接单、放货等关键业务节点，让信用体系从「财务台账」蜕变为「安全控制链」。一、货代风控最危险的误区：把信用管理当成“财务后置动作”许...",
-          "published_at": "2026-04-11T02:05:02"
-        },
-        {
-          "title": "从HR收集自拍照到员工自助录入——我见证了园区人脸识别从”不可用”到”真好用”的全过程",
-          "url": "https://www.woshipm.com/share/6374849.html",
+          "title": "和甲方吵了一架，最后加钱做了——我学到的ToB产品经理生存法则",
+          "url": "https://www.woshipm.com/share/6374848.html",
           "author": "园区产品人",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "人脸识别技术从早期频频翻车到如今流畅运行，背后是园区产品经理们的血泪进化史。从物业大叔当人肉开关的尴尬，到考勤打到别人身上的崩溃；从HR收集五花八门自拍照的混乱，到自助录入系统的优雅升级——本文用亲身经历揭秘技术迭代背后的产品逻辑，更给出所有创新者都该牢记的黄金准则。说真的，我做园区产品这些年，见过人脸识别最狼狈的样子，也见过它最成熟的样子。这中间隔了大概五六年的样子。变化大到我有时候回想起来都会...",
-          "published_at": "2026-04-11T02:03:15"
+          "summary": "ToB项目中，甲方频繁提出合同外的需求是产品经理最头疼的挑战之一。本文通过一个真实的食堂消费系统项目案例，揭示了从硬刚对抗到商务化处理的思维转变。当技术负责人要求增加复杂的餐补功能时，作者如何从崩溃边缘学会用三步策略化解危机：先接住需求、提供双选项、让商务介入谈判。这套方法不仅能维护合作关系，更能将边界争议转化为商业机会。做ToB产品这么多年，我遇到过各种各样的甲方。但有一类最让人抓狂——合同签了...",
+          "published_at": "2026-04-11T09:09:10"
         },
         {
-          "title": "千问闯关AI混沌期：阿里画靶，吴嘉张弓，马云射箭？",
-          "url": "https://www.woshipm.com/ai/6374948.html",
-          "author": "互联网江湖",
+          "title": "和几位小红书操盘手聊了8小时，干货全在这",
+          "url": "https://www.woshipm.com/share/6375260.html",
+          "author": "林卿LinQ.",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "阿里千问在C端市场快速布局AI打车、充话费等场景化服务，但用户增长却仍被豆包压制。这场AI超级入口之争背后，暴露出战略规划与真实需求的致命错位——当豆包以用户需求自然生长时，千问仍在用移动互联网时代的补贴逻辑强推AI消费习惯。本文深度拆解两大AI产品的底层逻辑差异，并犀利指出：阿里若想赢得这场入口战争，或许需要马云级别的战略定力来重塑千问的发展路径。最近，阿里千问在C端市场上动作频频。先是上线了A...",
-          "published_at": "2026-04-11T02:00:41"
+          "summary": "爆款内容虽如流星划过，却能在有限生命周期里释放巨大商业价值。从内容形式裂变、模型沉淀到高低客单打法差异，本文揭秘电商操盘手如何榨干每寸流量红利，同时警醒：供应链管理、财务核算与团队协作才是持久战的胜负手。01.爆款内容是概率事件，且有一定生命周期，所以我们需要在它有限的生命周期里，薅光它的流量，把它吃干抹净，比如变换爆款内容形式，比如视频 -> 图文 -> live图 -> 拼图 -> 截图 ->...",
+          "published_at": "2026-04-11T07:36:47"
         },
         {
-          "title": "AI日报：阿里正式认领HappyHorse视频大模型，CEO挂帅成立技术委员会",
-          "url": "https://www.woshipm.com/ai/6375115.html",
-          "author": "AI星球",
+          "title": "智谱GLM-5.1登场，开源模型首超Opus4.6!!!",
+          "url": "https://www.woshipm.com/ai/6375239.html",
+          "author": "铭白AI",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "大家好，我是老曹。这周我实际体验了几个新出的AI工具，发现确实比之前的顺手不少——昨天刷新闻的时候注意到中国AI大模型的Token调用量已经连续五周超越美国了，这个趋势挺有意思的。另外智元那边把四足机器人业务分拆出去，阿里也认领了之前匿名屠榜的视频大模型HappyHorse。今天简单说几条真正4月10-11日发生的值得关注的动态，往下看吧。1. 智谱GLM-5.1开源发布：编程能力首次超越GPT-...",
-          "published_at": "2026-04-11T01:56:08"
+          "summary": "GLM-5.1的静默发布却在技术圈掀起巨浪，这款国产大模型不仅将AI编程能力从'分钟级'突破到'8小时级'，更在SWE-Bench Pro等硬核榜单上首次超越GPT-5.4和Claude Opus 4.6。其敢于提价10%的底气，标志着国产AI从价格战转向价值竞争的时代已经来临。没有发布会的”大事件”2026年3月27日深夜，智谱悄悄放出了GLM-5.1的早期访问权限，没有发布会，没有PPT，没有...",
+          "published_at": "2026-04-11T07:36:18"
+        },
+        {
+          "title": "Anthropic收入凭什么反超OpenAI，终于有人把这事说清楚了",
+          "url": "https://www.woshipm.com/ai/6375259.html",
+          "author": "硅基观察Pro",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "Anthropic年化收入从90亿飙升至300亿美金，14个月实现19倍增长的秘诀：放弃微小优化押注指数级创新，反常识地在新用户引导中增加\"摩擦力\"提升转化，推进\"CASH\"项目让AI自己操盘增长实验，极度聚焦编程与B2B场景锁定高价值客户。当技术底座趋同，商业洞察与组织效率才是AI竞争的核心变量。过去一年，AI 领域最让人瞠目结舌的增长奇迹，不是 OpenAI，而是 Anthropic。今天，A...",
+          "published_at": "2026-04-11T07:19:27"
+        },
+        {
+          "title": "SBTI一夜刷屏：它赢在了“太会说人话”",
+          "url": "https://www.woshipm.com/share/6375255.html",
+          "author": "吴怼怼",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "在MBTI追求体面分类的时代之后，SBTI用一种近乎冒犯的幽默感，让年轻人在自嘲中完成了对疲惫、拖延与失控生活的集体认领。这不仅是一场网络狂欢，更是一次关于“被瞬间说中”的社交货币迭代。昨晚到今天，社交媒体突然像被同一个链接接管了。朋友圈、小红书、微博，甚至连一些并不热衷于人格测试的人，也开始转发自己的 SBTI 结果。有人测出“无所谓人”，有人测出“装死者”，有人测出“吗喽”“尤物”“酒鬼”，一...",
+          "published_at": "2026-04-11T07:03:35"
         }
       ]
     },
@@ -311,6 +320,15 @@
           "published_at": null
         },
         {
+          "title": "Odd Ritual",
+          "url": "https://www.awwwards.com/sites/odd-ritual",
+          "author": "Malvah",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "MERSI",
           "url": "https://www.awwwards.com/sites/mersi",
           "author": "FLOT NOIR",
@@ -363,75 +381,57 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Artefakt",
-          "url": "https://www.awwwards.com/sites/artefakt",
-          "author": "Greg Lallé",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "Complexity Indicator",
-          "url": "https://www.producthunt.com/products/complexity-indicator",
-          "author": "Vedant Patel",
+          "title": "Capso",
+          "url": "https://www.producthunt.com/products/capso",
+          "author": "Kevin",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Know when your code becomes unmaintainableDiscussion|Link",
-          "published_at": "2026-04-09T20:13:46"
+          "summary": "Free open-source screenshot & screen recorder for MacDiscussion|Link",
+          "published_at": "2026-04-10T06:54:47"
         },
         {
-          "title": "Inbox Autopilot by Dimension",
-          "url": "https://www.producthunt.com/products/dimension-2",
-          "author": "fmerian",
+          "title": "Claude for Word",
+          "url": "https://www.producthunt.com/products/claude",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your inbox, handledDiscussion|Link",
-          "published_at": "2026-04-09T10:39:23"
+          "summary": "Bring Claude natively into your Microsoft Word workflowDiscussion|Link",
+          "published_at": "2026-04-11T03:43:49"
         },
         {
-          "title": "Nut Studio",
-          "url": "https://www.producthunt.com/products/nut-studio-3",
-          "author": "Nora Mo",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Deploy a personal AI Agent on your own computer quicklyDiscussion|Link",
-          "published_at": "2026-04-09T08:10:11"
-        },
-        {
-          "title": "SoulLink",
-          "url": "https://www.producthunt.com/products/soullinkai",
-          "author": "Michael Shang",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Mobile 3D Vibe Coding PartnerDiscussion|Link",
-          "published_at": "2026-04-08T19:40:50"
-        },
-        {
-          "title": "Vaultr",
-          "url": "https://www.producthunt.com/products/vaultr-2",
-          "author": "Sean",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Personal finance app built for young professionalsDiscussion|Link",
-          "published_at": "2026-04-09T07:33:11"
-        },
-        {
-          "title": "Google Finance",
-          "url": "https://www.producthunt.com/products/google",
+          "title": "Clicky",
+          "url": "https://www.producthunt.com/products/clicky-2",
           "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Ask complex finance questions, get AI-grounded answersDiscussion|Link",
-          "published_at": "2026-04-08T16:26:37"
+          "summary": "AI buddy next to your cursor on Mac—sees, guides, helps you!Discussion|Link",
+          "published_at": "2026-04-08T09:10:34"
+        },
+        {
+          "title": "LinkShell",
+          "url": "https://www.producthunt.com/products/linkshell",
+          "author": "LiuTianjie",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Control your AI terminal sessions from your phone.Discussion|Link",
+          "published_at": "2026-04-10T09:34:51"
+        },
+        {
+          "title": "Claude Code ultraplan",
+          "url": "https://www.producthunt.com/products/claude-code-ultraplan",
+          "author": "Rohan Chaubey",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Claude Code command that plans your codebase in the cloudDiscussion|Link",
+          "published_at": "2026-04-11T01:05:00"
         }
       ]
     },
@@ -485,8 +485,8 @@
           "published_at": null
         },
         {
-          "title": "别只盯着大模型了，快去AI星踪岛看看已经落地的AI机器人吧！",
-          "url": "https://www.uisdc.com/hunter/0221666004.html",
+          "title": "复杂概念一秒变交互演示，Gemini Pro这个新功能太好用了！",
+          "url": "https://www.uisdc.com/hunter/0221666166.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -566,6 +566,15 @@
       "count": 6,
       "items": [
         {
+          "title": "浅谈人工智能时代的用户体验：Agent Experience 导论",
+          "url": "https://sspai.com/post/107600",
+          "author": "LOSSES",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "AX 专门探讨如何设计产品形态，使 AI Agent 能够可靠地「理解」、自主操作并高效集成，而非仅服务于人类用户。查看全文",
+          "published_at": "2026-04-11T07:18:26"
+        },
+        {
           "title": "本周看什么 | 最近值得一看的 11 部作品",
           "url": "https://sspai.com/post/108496",
           "author": "少数派编辑部",
@@ -609,15 +618,6 @@
           "source": "少数派",
           "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
           "published_at": "2026-04-09T09:38:10"
-        },
-        {
-          "title": "疑难杂症不求人：如何在 Windows 11 中搞定「重装」这件事",
-          "url": "https://sspai.com/post/69533",
-          "author": "化学心情下2",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "掌握这些方法，重装 Windows 11 不求人。查看全文",
-          "published_at": "2026-04-09T06:32:35"
         }
       ]
     }
