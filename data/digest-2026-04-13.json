@@ -1,26 +1,35 @@
 {
   "date": "2026-04-13T00:00:00",
-  "total_items": 58,
+  "total_items": 65,
   "sources": [
-    "Product Hunt",
-    "NN/g (Nielsen Norman Group)",
-    "Awwwards",
-    "Design Milk",
-    "A List Apart",
+    "优设网",
     "Sidebar",
     "UX Planet",
-    "优设网",
+    "Product Hunt",
+    "NN/g (Nielsen Norman Group)",
+    "人人都是产品经理",
     "UX Design CC",
+    "A List Apart",
     "Smashing Magazine",
     "少数派",
-    "人人都是产品经理"
+    "Awwwards",
+    "Design Milk"
   ],
-  "generated_at": "2026-04-13T03:22:22.608067",
+  "generated_at": "2026-04-13T13:48:14.091768",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 8,
+      "count": 9,
       "items": [
+        {
+          "title": "The erosion of design authority, burnout problems, invisible customers",
+          "url": "https://uxdesign.cc/the-erosion-of-design-authority-burnout-problems-invisible-customers-98e75650e97d?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“The excitement surrounding these tools does not come from the design itself. It comes from the collapse of the distance between descriptio...",
+          "published_at": "2026-04-13T12:25:05"
+        },
         {
           "title": "Most products don’t need tone of voice — they need a point",
           "url": "https://uxdesign.cc/most-products-dont-need-tone-of-voice-they-need-a-point-cf37f7c752ac?source=rss----138adf9c44c---4",
@@ -157,8 +166,17 @@
     },
     {
       "category": "产品设计",
-      "count": 9,
+      "count": 10,
       "items": [
+        {
+          "title": "These Ultra-Refined Outdoor Furnishings Take on The Shades of Spring",
+          "url": "https://design-milk.com/these-ultra-refined-outdoor-furnishings-take-on-the-shades-of-spring/",
+          "author": "Adrian Madlener",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Maverick French producer Tiptoe expands its expertly engineered folded steel PANORAMA collection and introduces fresh colorways.",
+          "published_at": "2026-04-13T13:00:42"
+        },
         {
           "title": "F5: Barry Ginder on a Finn Juhl Chair, Sean Scully, His Son’s Hands + More",
           "url": "https://design-milk.com/f5-barry-ginder-on-a-finn-juhl-chair-sean-scully-his-sons-hands-more/",
@@ -196,49 +214,49 @@
           "published_at": "2026-04-10T13:00:28"
         },
         {
-          "title": "Codex开PDD店复盘：12单之后，我对AI自动化电商有了更真实的判断",
-          "url": "https://www.woshipm.com/ai/6375952.html",
-          "author": "诸葛铁铁",
+          "title": "用小龙虾做竞品分析报告：从2天到20分钟，我是怎么做到的",
+          "url": "https://www.woshipm.com/ai/6375654.html",
+          "author": "张在旺",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI遇上电商创业，技术的光环下暴露出更残酷的现实瓶颈。一位实验者通过半个月的拼多多店铺运营，揭示了AI工具在选品逻辑、数据记忆、任务拆解等环节的核心缺陷——真正的挑战不在于模型能力，而在于如何将商业思维转化为可执行的系统设计。本文深度拆解从1688AI选品到gstack思维训练的全流程，带你看清AI电商创业中那些比技术更关键的认知升级。用AI开了半个月拼多多店。12单，200块，1单退货。不是来...",
-          "published_at": "2026-04-13T02:44:12"
+          "summary": "这篇文章会向你介绍：我基于\"小龙虾\"生态做了一款竞品分析技能，能让AI智能体帮我们高效、高质量地完成竞品分析报告。01 如果你还不知道”小龙虾”，可能已经脱离AI圈三天了2026年开年，一只”小龙虾”席卷了整个AI圈。它不是用来吃的，而是叫OpenClaw—— 一个图标形似龙虾的开源AI智能体框架。短短几个月，它在GitHub上的星标冲到了33万+，创下开源软件历史上最快的星标增长纪录。随后，腾讯...",
+          "published_at": "2026-04-13T09:43:00"
         },
         {
-          "title": "Hermes和OpenClaw的竞争，不只是功能之争，更是能力获取方式之争",
-          "url": "https://www.woshipm.com/ai/6375852.html",
-          "author": "XYKing",
+          "title": "货代SRM实战：供应商准入怎么做，才能让资源池不是通讯录而是可交付网络？",
+          "url": "https://www.woshipm.com/share/6376272.html",
+          "author": "天涯轩",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Agent产品的设计正在经历一场方法论之争——是依赖预设规则的外挂式能力，还是通过实践沉淀的内生式成长？Hermes与OpenClaw的路线差异揭示了两种底层设计逻辑，这场讨论将深刻影响AI助手的演进方向。本文从可控性、个性化、冷启动等维度，拆解不同业务场景下的最优解方案。当越来越多团队开始做 Agent，市场上的讨论常常集中在功能多少、生态大小和增长速度上。但对于产品经理来说，真正值得关注的问题...",
-          "published_at": "2026-04-13T02:42:47"
+          "summary": "很多企业自认为“供应商很多”，但一到旺季、突发异常或高要求项目时，真正能稳定接单、按时履约、风险可控的资源却很少。问题往往不在资源数量，而在准入机制过于粗放: 资料录入和审批通过，并不等于具备真实交付能力。本文从产品设计视角拆解“供应商目录与准入”模块，讨论为什么供应商主数据不是信息录入工具，而是交付网络的入口控制器；又该如何把查重、能力建模、观察期、变更审批和黑白名单做成一套可经营的机制。一、为...",
+          "published_at": "2026-04-13T08:42:54"
         },
         {
-          "title": "智能客服产品实战落地指南：从0到1怎么做",
-          "url": "https://www.woshipm.com/ai/6375218.html",
-          "author": "奥小画",
+          "title": "如何做好用户调研？详解基本技巧",
+          "url": "https://www.woshipm.com/share/6376394.html",
+          "author": "飞鱼 B端产品站",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "智能客服项目的成败关键不在技术，而在于对商业本质的洞察。本文从房地产中介行业实战出发，拆解智能客服如何通过自动问答、线索留资、员工助手和业务办理四类核心功能真正降本增效，并提供SaaS与自建选型的决策框架，帮助产品经理避开‘上线即烂尾’的陷阱。做任何产品之前，第一件事应该问：这个产品靠什么赚钱？利益 = 营收 – 成本想扩大利益，只有两条路：增加营收（获取更多客户、提升成交转化等）和降低成本（减少...",
-          "published_at": "2026-04-13T02:41:49"
+          "summary": "用户调研是产品经理获取话语权的关键武器，但多数人却陷入了方法论陷阱。本文深度拆解从样本筛选到需求挖掘的完整流程，揭示如何通过深度访谈建立真正的用户同理心，以及避免7大常见认知偏差的实战技巧。那些隐藏在用户‘跑题’对话中的惊喜洞察，往往是产品突破的真正契机。一、为什么要做用户调研（1）产品经理的权力来自于客户。产品经理的权力不是来源于产品经理职位，也不是主要来源于能力高低和经验多少，谁能讲清楚多数客...",
+          "published_at": "2026-04-13T08:22:24"
         },
         {
-          "title": "大模型ASR",
-          "url": "https://www.woshipm.com/ai/6375845.html",
-          "author": "卜小",
+          "title": "木鸟、途家、美团对打，平台春天行动开“卷”",
+          "url": "https://www.woshipm.com/it/6376392.html",
+          "author": "雨后伊晴",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从传统ASR到端到端大模型，语音识别技术正在经历一场架构革命。本文深入解析两种技术路线的核心差异，揭示大模型ASR在语言理解、多任务处理上的突破性优势，同时指出实时性与部署成本仍是传统方案的护城河。更值得关注的是，行业已悄然走向混合架构——轻量级前端保障实时响应，LLM后端负责语义优化，这种取长补短的模式正在腾讯、字节等头部产品中落地实践。架构层面的本质差异传统 ASR是一个典型的多模块 pipe...",
-          "published_at": "2026-04-13T02:40:27"
+          "summary": "民宿平台的春日经济大战正酣，木鸟、途家、美团三大玩家各出奇招。木鸟以三档主题活动领跑赛道，途家深耕家庭度假场景，美团聚焦大学生赏花需求。在这场围绕用户心智的争夺中，平台差异化竞争的背后，是供应链能力与长期运营的终极较量。本文将深度剖析三大平台的战略布局与市场机会。“春日经济”近来讨论度居高不下，民宿平台的争夺再次加剧。木鸟、途家、美团纷纷瞄准春日出游刚需，以各具特色的春游活动布局，试图在这场春日博...",
+          "published_at": "2026-04-13T08:22:18"
         },
         {
-          "title": "B端作品集展示AI能力的4个高级维度",
-          "url": "https://www.woshipm.com/share/6376048.html",
-          "author": "CE青年",
+          "title": "入职才发现公司不靠谱？小红书从业者求职避坑指南",
+          "url": "https://www.woshipm.com/share/6376369.html",
+          "author": "林卿LinQ.",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI浪潮下，B端作品集还停留在“我会用Midjourney”？太初级了！本文从物料输出、交互兜底、工作流蒸馏到Vibe Coding，层层拆解展示AI能力的四个高级段位。面试官真正想看的，是你如何用交互设计为不完美的模型兜底，用代码验证想法落地。最近在辅导作品集，我发现大家我发现大家集体陷入了一种“AI 焦虑”。每个人都知道要在作品集里塞点 AI 的内容，但是怎么塞？90% 的同学只会放几张用 M...",
-          "published_at": "2026-04-13T02:40:04"
+          "summary": "小红书从业者的职业选择中，选对公司远比盲目努力更重要。这份求职反向背调清单涵盖了从公司定位、资源投入到团队架构等12个关键问题，助你避开‘临时团队+空头预算’的深坑。掌握这些提问技巧，不仅能展现专业度，更能精准识别真正适合自己的‘好牌桌’。对于小红书从业者来说，选对公司比盲目努力更重要，毕竟在小红书这个领域，平台属性比较特殊、内容生态有点儿复杂、玩法迭代比较快，导致不少公司表面重视，实际上连基本的...",
+          "published_at": "2026-04-13T08:22:10"
         }
       ]
     },
@@ -310,6 +328,15 @@
           "published_at": null
         },
         {
+          "title": "Oryzo AI",
+          "url": "https://www.awwwards.com/sites/oryzo-ai",
+          "author": "Lusion",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "NaughtyDuk©",
           "url": "https://www.awwwards.com/sites/naughtyduk-c-1",
           "author": "NaughtyDuk",
@@ -371,48 +398,84 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Artem Shcherban Portfolio",
-          "url": "https://www.awwwards.com/sites/artem-shcherban-portfolio",
-          "author": "Artem Shcherban",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 8,
       "items": [
         {
-          "title": "Interactive Simulations in Gemini",
-          "url": "https://www.producthunt.com/products/gemini-6",
-          "author": "Zac Zuo",
+          "title": "REasy",
+          "url": "https://www.producthunt.com/products/reasy-2",
+          "author": "Rajiv Ayyangar",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Gemini now lets you play with the concepts you ask aboutDiscussion|Link",
-          "published_at": "2026-04-11T17:29:00"
+          "summary": "The operating system for African importersDiscussion|Link",
+          "published_at": "2026-04-12T19:42:50"
         },
         {
-          "title": "Layered",
-          "url": "https://www.producthunt.com/products/layered-2",
-          "author": "Vadim Drobinin",
+          "title": "Vekta",
+          "url": "https://www.producthunt.com/products/vekta",
+          "author": "Rajiv Ayyangar",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn your selfies into a personal AI stylistDiscussion|Link",
-          "published_at": "2026-04-11T23:43:28"
+          "summary": "AI training and coaching platform for endurance sportsDiscussion|Link",
+          "published_at": "2026-04-12T19:42:39"
         },
         {
-          "title": "Nicelydone MCP",
-          "url": "https://www.producthunt.com/products/nicely-done",
-          "author": "fmerian",
+          "title": "Legitify",
+          "url": "https://www.producthunt.com/products/legitify",
+          "author": "Rajiv Ayyangar",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Design context for AI agentsDiscussion|Link",
-          "published_at": "2026-04-10T13:15:37"
+          "summary": "Digital notarization across 50+ jurisdictionsDiscussion|Link",
+          "published_at": "2026-04-12T19:42:30"
+        },
+        {
+          "title": "Cleo Labs",
+          "url": "https://www.producthunt.com/products/cleo-labs",
+          "author": "Rajiv Ayyangar",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Automate global compliance for selling physical productsDiscussion|Link",
+          "published_at": "2026-04-12T19:42:17"
+        },
+        {
+          "title": "Clarm",
+          "url": "https://www.producthunt.com/products/clarm-ai-technical-support",
+          "author": "Marcus Storm-Mollard",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "AI inbound layer to capture, qualify, and route leadsDiscussion|Link",
+          "published_at": "2026-04-12T23:21:27"
+        },
+        {
+          "title": "GhostDesk",
+          "url": "https://www.producthunt.com/products/ghostdesk-2",
+          "author": "Mit Parikh",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Your invisible AI co-pilot for interviews & meetingsDiscussion|Link",
+          "published_at": "2026-04-12T19:02:21"
+        },
+        {
+          "title": "showmd",
+          "url": "https://www.producthunt.com/products/showmd-ai-markdown-quicklook-preview",
+          "author": "Johannes N",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Markdown was never meant to be previewed plain textDiscussion|Link",
+          "published_at": "2026-04-12T19:57:08"
+        },
+        {
+          "title": "Open Comet",
+          "url": "https://www.producthunt.com/products/open-comet",
+          "author": "Prince Chouhan",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The autonomous AI browser agent for deep research & tasksDiscussion|Link",
+          "published_at": "2026-04-12T23:36:26"
         }
       ]
     },
@@ -466,8 +529,8 @@
           "published_at": null
         },
         {
-          "title": "UI设计师必看的视觉博弈，浙师大校庆标识里的红白巧思",
-          "url": "https://www.uisdc.com/hunter/0221666172.html",
+          "title": "提升App精致感的秘密，用简单的遮挡关系构建虚拟空间纵深感",
+          "url": "https://www.uisdc.com/hunter/0221666335.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -481,49 +544,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Actually, people love to work hard",
-          "url": "https://www.anildash.com/2026/04/06/people-love-to-work-hard/",
+          "title": "html.to.design — chrome extension",
+          "url": "https://bit.ly/side-div3",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "When effort stems from purpose, agency, and trust, rather than oversight.",
-          "published_at": "2026-04-10T05:14:50"
+          "summary": "Browse any website. Capture the full page or just a section, and send it straight to Figma. Re-capture anytime.",
+          "published_at": "2026-04-13T07:30:00"
         },
         {
-          "title": "James Junk is the voice design needs now",
-          "url": "https://www.printmag.com/designer-interviews/james-junk-is-the-voice-design-needs-now/",
+          "title": "Visualizing Billions",
+          "url": "https://informationisbeautiful.net/visualizations/the-billion-dollar-gram/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Redefining what it means to be a creative in the age of the algorithm.",
-          "published_at": "2026-04-10T05:13:58"
+          "summary": "Some gargantuan numbers often make little sense unless put in context and comparison with other billions.",
+          "published_at": "2026-04-13T07:29:25"
         },
         {
-          "title": "Title Scream",
-          "url": "https://titlescream.cameronaskin.com/",
+          "title": "Productive procrastination",
+          "url": "https://www.maxvanijsselmuiden.nl/blog/productive-procrastination",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Type + Graphic inspiration from 8/16bit games.",
-          "published_at": "2026-04-10T05:12:57"
+          "summary": "Understanding why we avoid the work we actually love might be the key to getting more of it done.",
+          "published_at": "2026-04-13T07:27:38"
         },
         {
-          "title": "Principles of mechanical sympathy",
-          "url": "https://martinfowler.com/articles/mechanical-sympathy-principles.html",
+          "title": "Branding Amazonia",
+          "url": "https://www.visiteamazonia.com.br/en/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Memory access patterns, false sharing, the single-writer principle, and natural batching.",
-          "published_at": "2026-04-10T05:12:26"
+          "summary": "9 states. 772 cities. 28 million inhabitants. Among us, the largest tropical rainforest on the planet.",
+          "published_at": "2026-04-13T07:27:04"
         },
         {
-          "title": "The building block economy",
-          "url": "https://mitchellh.com/writing/building-block-economy",
+          "title": "Building agent memory that survives between sessions",
+          "url": "https://perevillega.com/posts/2026-03-24-building-agent-memory-that-survives-between-sessions/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How \"building blocks\" thrive by letting AI and niche users handle the customization.",
-          "published_at": "2026-04-10T05:11:42"
+          "summary": "Two practical approaches to the same insight: memory is a design problem, not a tooling problem.",
+          "published_at": "2026-04-13T07:22:48"
         }
       ]
     },
@@ -531,6 +594,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "派评 | 近期值得关注的 App",
+          "url": "https://sspai.com/post/108589",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "published_at": "2026-04-13T09:52:51"
+        },
+        {
+          "title": "城市漫步指南：在浓油赤酱中寻找江南底蕴",
+          "url": "https://sspai.com/post/108558",
+          "author": "Hermanchannn",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "趁着四月底的小长假，我去了趟南昌和赣州。此前，江西并不在我的旅行计划内。虽不至于被网上「环江西发展带」之类的梗影响情绪，但确实因为了解有限，一直没生出过探索的念头。转机源于深夜刷到的一段视频。那是家开 ...查看全文",
+          "published_at": "2026-04-13T07:00:00"
+        },
+        {
+          "title": "从 iPhone 随阿尔忒弥斯 2 号升空，谈谈 Apple 设备的太空征程",
+          "url": "https://sspai.com/post/108519",
+          "author": "Barryhimself",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "published_at": "2026-04-13T03:48:39"
+        },
         {
           "title": "派早报：微软宣布改进和简化 Windows 预览体验计划",
           "url": "https://sspai.com/post/108568",
@@ -557,33 +647,6 @@
           "source": "少数派",
           "summary": "AX 专门探讨如何设计产品形态，使 AI Agent 能够可靠地「理解」、自主操作并高效集成，而非仅服务于人类用户。查看全文",
           "published_at": "2026-04-11T07:18:26"
-        },
-        {
-          "title": "本周看什么 | 最近值得一看的 11 部作品",
-          "url": "https://sspai.com/post/108496",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "📅本周新预告《穿普拉达的女王2》终极预告4月6日，《穿普拉达的女王2》发布终极预告。前作演员梅丽尔·斯特里普、艾米丽·布朗特、安妮·海瑟薇、斯坦利·图齐、翠茜·索姆斯、蒂波·费德曼和导演大卫·弗兰科尔 ...查看全文",
-          "published_at": "2026-04-10T10:02:31"
-        },
-        {
-          "title": "深入 OPPO Find N6：一场关于大屏和效率的舞蹈",
-          "url": "https://sspai.com/post/108469",
-          "author": "张奕源Nick",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "我们把 Find N6 带进生活，带进真实场景，看看它用起来到底怎么样。查看全文",
-          "published_at": "2026-04-10T07:05:33"
-        },
-        {
-          "title": "Claude Code+HA 自动化实战：给宠物龟请个「电子保姆」",
-          "url": "https://sspai.com/post/108453",
-          "author": "叶水水",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "养龟是个慢节奏的事。但每天翻翻聊天软件的报告，看看谁又霸占了晒背台、谁偷偷换了个位置，比蹲在缸前看半天有意思多了。查看全文",
-          "published_at": "2026-04-10T03:35:33"
         }
       ]
     }
