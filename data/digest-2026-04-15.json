@@ -1,25 +1,26 @@
 {
   "date": "2026-04-15T00:00:00",
-  "total_items": 54,
+  "total_items": 67,
   "sources": [
+    "UX Planet",
+    "NN/g (Nielsen Norman Group)",
+    "Design Milk",
+    "优设网",
+    "Awwwards",
     "UX Design CC",
-    "Sidebar",
-    "CSS-Tricks",
     "Product Hunt",
     "少数派",
-    "Intercom Blog",
+    "Sidebar",
+    "CSS-Tricks",
+    "人人都是产品经理",
     "A List Apart",
-    "优设网",
-    "UX Planet",
-    "Design Milk",
-    "NN/g (Nielsen Norman Group)",
-    "人人都是产品经理"
+    "Intercom Blog"
   ],
-  "generated_at": "2026-04-15T02:53:16.501568",
+  "generated_at": "2026-04-15T13:47:38.366618",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 8,
+      "count": 9,
       "items": [
         {
           "title": "How to turn your competitor’s worst reviews into your strongest design argument",
@@ -67,6 +68,15 @@
           "published_at": "2026-04-12T12:32:26"
         },
         {
+          "title": "The Future of UI Design is Agentic Design",
+          "url": "https://uxplanet.org/the-future-of-ui-design-is-agentic-design-803977cd041f?source=rss----819cc2aaeee0---4",
+          "author": "uxplanet.org",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Deep dive into Anima AI agent for Figma2026 is the year that redefines how we design products. In 2026, when we need to create a new design, we start with AI tools and co-create it together. And if ju...",
+          "published_at": "2026-04-15T13:26:31"
+        },
+        {
           "title": "How To Use Andrej Karapthy’s Knowledge Wiki Approach for Product Research",
           "url": "https://uxplanet.org/how-to-use-andrej-karapthys-knowledge-wiki-approach-for-product-research-0acc73b9c821?source=rss----819cc2aaeee0---4",
           "author": "Nick Babich",
@@ -97,11 +107,20 @@
     },
     {
       "category": "用户体验研究",
-      "count": 5,
+      "count": 6,
       "items": [
         {
           "title": "AI Agents as Users",
           "url": "https://www.nngroup.com/articles/ai-agents-as-users/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Handmade Designs: The New Trust Signal",
+          "url": "https://www.nngroup.com/articles/handmade-designs/",
           "author": null,
           "category": "用户体验研究",
           "source": "NN/g (Nielsen Norman Group)",
@@ -151,6 +170,15 @@
       "count": 13,
       "items": [
         {
+          "title": "Talia Luvaton Centers Nature with TRACE Leather Vessels",
+          "url": "https://design-milk.com/talia-luvaton-centers-nature-with-trace-leather-vessels/",
+          "author": "Aria Lee",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "TRACE Leather Vessels are formed from distinct elements of wet-molded leather, presented by Talia Luvaton at Milan Design Week.",
+          "published_at": "2026-04-15T13:00:58"
+        },
+        {
           "title": "Marc Thorpe’s Forest Edge House Blends Beauty and Self Sufficiency",
           "url": "https://design-milk.com/marc-thorpes-forest-edge-house-blends-beauty-and-self-sufficiency/",
           "author": "Avinash Rajagopal",
@@ -169,7 +197,7 @@
           "published_at": "2026-04-14T14:00:56"
         },
         {
-          "title": "Meet The New Linea Collection by Romilly Newman for Armadillo",
+          "title": "Meet The New Linea Collection by Armadillo",
           "url": "https://design-milk.com/meet-the-new-linea-collection-by-romilly-newman-for-armadillo/",
           "author": "Aria Lee",
           "category": "产品设计",
@@ -196,15 +224,6 @@
           "published_at": "2026-04-13T14:00:13"
         },
         {
-          "title": "These Ultra-Refined Outdoor Furnishings Take on The Shades of Spring",
-          "url": "https://design-milk.com/these-ultra-refined-outdoor-furnishings-take-on-the-shades-of-spring/",
-          "author": "Adrian Madlener",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Maverick French producer Tiptoe expands its expertly engineered folded steel PANORAMA collection and introduces fresh colorways.",
-          "published_at": "2026-04-13T13:00:42"
-        },
-        {
           "title": "The hardest percentages",
           "url": "https://www.intercom.com/blog/the-hardest-percentages/",
           "author": "Pratik Bothra",
@@ -223,55 +242,55 @@
           "published_at": "2026-04-13T20:01:51"
         },
         {
-          "title": "1800星标 vs 5万星标：同一个想法，为什么结局天差地别？",
-          "url": "https://www.woshipm.com/ai/6377502.html",
-          "author": "桃子AI产品",
+          "title": "深度拆解Google AI逆风翻盘：打赢 ChatGPT 的，从来不是技术，而是组织与算力的残酷物语",
+          "url": "https://www.woshipm.com/it/6377936.html",
+          "author": "Percy",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "开源世界的创新与竞争从未如此激烈。Evolver 与 Hermes Agent 的自进化 AI Agent 之争揭示了两个关键问题：个人开发者如何在大厂资源碾压下保持竞争力？开源创新的护城河究竟在哪里？本文将深度剖析这场技术理念相似但实现路径迥异的争议，带你读懂 AI Agent 自进化赛道的底层逻辑与行业困境。昨天刷X的时候，刷到一条让我停下来的帖子。一个叫 autogame-17 的开发者，公...",
-          "published_at": "2026-04-15T02:36:11"
+          "summary": "Gemini的逆袭不仅是一场技术突围，更揭示了AI时代产品竞争的全新逻辑。从Google内部的组织阵痛到自研TPU的算力突围，这场千日反击战重新定义了产品经理的思考维度——真正的竞争力往往藏在组织协同、战场选择和成本基建这些看不见的底层。最近下班后去夜跑，耳机里一直循环播放着各种商业科技播客，脑子里却反反复复在推演 Google 靠 Gemini 绝地反击的这 1000 天。这段时间，我一直在摸索...",
+          "published_at": "2026-04-15T09:27:35"
         },
         {
-          "title": "AI 编码神器 Cursor 团队内部对谈！未来的 AI 究竟怎么思考？",
-          "url": "https://www.woshipm.com/ai/6367058.html",
-          "author": "芊羽",
+          "title": "在 AI 创业公司做产品负责人的一年",
+          "url": "https://www.woshipm.com/zhichang/6377784.html",
+          "author": "薛定谔的喵",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Cursor 团队在万字圆桌中揭示了 AI 编程背后的深度思考与进化逻辑。从强化学习的训练困境到真实世界的奖励机制，从智能体的工具设计到长上下文的硬件级优化，本文深度拆解了 AI 如何通过复杂的互动与反馈机制实现代码能力的突破。更揭示了 GRPO 算法如何颠覆传统 PRM 模式，以及未来 AI 编程在基础设施与数据稀缺挑战下的发展方向。最近看了一期 AI 编程神器Cursor背后的核心团队进行的一...",
-          "published_at": "2026-04-15T02:33:10"
+          "summary": "在AI创业浪潮中，产品经理的角色正在被重新定义。当技术幻觉与真实用户需求不断碰撞，一个资深产品人用一年时间验证了关键认知：AI产品的核心不是搬运模型能力，而是构建价值容器。从重构团队定位到定义数字主题世界，这篇文章揭示了AI产品经理如何在前沿技术与商业现实之间架起桥梁。如果要我用一句话总结过去这一年，我会说：我做的不是把技术变成功能，而是在反复区分两件事：什么是真实的用户需求，什么是技术给人制造的...",
+          "published_at": "2026-04-15T09:25:14"
         },
         {
-          "title": "Agent产品的定价、打包策略",
-          "url": "https://www.woshipm.com/ai/6377388.html",
-          "author": "朱莉的产品笔记",
+          "title": "别再吵了！财务、业务、IT眼里的ERP根本不是同一个东西",
+          "url": "https://www.woshipm.com/share/6377848.html",
+          "author": "Charlie",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Agent模式正在颠覆传统SaaS的经济逻辑，从按席位收费转向为AI自主创造的业务成果定价。本文将剖析四种新兴变现模式的优劣，从熟悉的权限定价到极具前景的成果定价，并提供一个两步法框架帮助产品经理制定与智能体成熟度匹配的定价策略。随着AI精准度和自主化程度提升，如何设计同步扩张的货币化策略成为决定产品成败的关键。Agent模式正在推动软件领域中主体能动性、控制权以及人类参与模式的范式性变革。通过主...",
-          "published_at": "2026-04-15T02:31:44"
+          "summary": "ERP系统的复杂性让不同角色产生了截然不同的理解，从业务操作到战略价值，每个视角都揭示着不同的真相。本文深入剖析ERP的6个关键视角，帮你掌握这套系统如何同时扮演流程引擎、数据中枢和战略基石的多元角色，解决团队认知不统一的痛点。作为产品经理，我经常遇到一个尴尬的场景：业务人员说“ERP就是进销存”，老板说“ERP要能管住所有流程”，IT说“ERP是一个集成数据库系统”，而财务说“ERP就是总账+供...",
+          "published_at": "2026-04-15T09:24:17"
         },
         {
-          "title": "产品经理AI落地实战：企业RAG全链路实施方案",
-          "url": "https://www.woshipm.com/ai/6377363.html",
-          "author": "王佳亮",
+          "title": "分享10个你可能不知道的Claude Code隐藏命令和技巧。",
+          "url": "https://www.woshipm.com/share/6378008.html",
+          "author": "卡尔的AI沃茨",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "RAG技术正成为企业知识管理的关键突破口，从实验室快速走向商业落地。面对420亿美元规模的知识库市场，企业如何将沉睡的知识资产转化为核心竞争优势？本文深度剖析RAG技术如何破解信息孤岛、提升检索效率、降低运营成本，并提供从架构设计到工具选型的全链路实施指南。在人工智能技术向企业深度渗透的当下，知识成为企业核心竞争力的关键载体，而如何高效盘活内部海量知识资产、实现精准检索与智能应用，成为企业数字化转...",
-          "published_at": "2026-04-15T02:30:32"
+          "summary": "Claude Code更新了Auto Mode、分支对话/btw、双击ESC回退、/powerup交互课程、/loop定时任务、/insight生成使用报告等10个隐藏命令。本文从入门到进阶，分享省token、hook自动化、多Agent协作等实用技巧，帮你把CC用出花来。来不及解释了，Claude Code又被大漏勺，说是要更新网页自动截图，代码扫描，一次性设计多种风格，还能把好几个代码仓库合到...",
+          "published_at": "2026-04-15T09:01:04"
         },
         {
-          "title": "从Hermes的微调策略看AI产品的场景化落地",
-          "url": "https://www.woshipm.com/ai/6377341.html",
-          "author": "煎bingo子",
+          "title": "你的公司为什么还在用上世纪的组织架构做AI时代的生意？",
+          "url": "https://www.woshipm.com/ai/6377933.html",
+          "author": "深思圈",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当多数AI工具陷入「越用越平庸」的怪圈时，Hermes带来了颠覆性的进化逻辑。这款开源AI Agent不仅能记住用户对话历史，更会通过Skill系统持续沉淀解决方案，实现真正的「越用越聪明」。从零配置部署到动态学习循环，它为解决AI落地难题提供了全新范式——或许真正的智能不在于预设完美方案，而在于和用户共同成长的能力。用过的AI工具越多，你越会有一个感受——这些家伙，越用越不听话。不是它变弱了。是...",
-          "published_at": "2026-04-15T02:25:10"
+          "summary": "AI时代组织架构正经历范式重构——层级制度的核心功能\"信息路由\"被AI瓦解，翻译层（PM→设计→工程→QA→GTM）被压缩至接近零，串行交付转向3-5人精锐小队同步推进。Meta、微软、Apple等巨头正系统性压缩中层：Meta推50:1工程师-管理者比例，Apple将Siri并入软件工程组织，微软合并Copilot架构。护城河从执行速度迁移到学习速度——组织能多快围绕AI重构自身。真正的AI-n...",
+          "published_at": "2026-04-15T08:19:57"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 6,
+      "count": 14,
       "items": [
         {
           "title": "Design for Amiability: Lessons from Vienna",
@@ -326,39 +345,138 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
+        },
+        {
+          "title": "Ravi Klaassens",
+          "url": "https://www.awwwards.com/sites/ravi-klaassens",
+          "author": "Ravi Klaassens",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "The Obsidian Assembly",
+          "url": "https://www.awwwards.com/sites/the-obsidian-assembly",
+          "author": "Fiddle.Digital Design Agency",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Oryzo AI",
+          "url": "https://www.awwwards.com/sites/oryzo-ai",
+          "author": "Lusion",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "NaughtyDuk©",
+          "url": "https://www.awwwards.com/sites/naughtyduk-c-1",
+          "author": "NaughtyDuk",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Odd Ritual",
+          "url": "https://www.awwwards.com/sites/odd-ritual",
+          "author": "Malvah",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "MERSI",
+          "url": "https://www.awwwards.com/sites/mersi",
+          "author": "FLOT NOIR",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "ICOMAT",
+          "url": "https://www.awwwards.com/sites/icomat",
+          "author": "REJOUICE®",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Nine To Five",
+          "url": "https://www.awwwards.com/sites/nine-to-five",
+          "author": "ET Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 6,
       "items": [
         {
-          "title": "Softr AI Co-Builder",
-          "url": "https://www.producthunt.com/products/softr",
-          "author": "Mariam Hakobyan",
+          "title": "Fathom 3.0",
+          "url": "https://www.producthunt.com/products/fathom",
+          "author": "Chris Messina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Build business apps with AI - that actually workDiscussion|Link",
-          "published_at": "2026-04-13T20:08:07"
+          "summary": "AI meeting notes: now bot-free, in ChatGPT & Claude + moreDiscussion|Link",
+          "published_at": "2026-04-14T21:36:11"
         },
         {
-          "title": "send/links",
-          "url": "https://www.producthunt.com/products/send-links",
-          "author": "Prashant",
+          "title": "Lovable Desktop App",
+          "url": "https://www.producthunt.com/products/lovable",
+          "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Save, organize, and find your links in one placeDiscussion|Link",
-          "published_at": "2026-04-14T00:51:25"
+          "summary": "Organize projects with tabs & power workflows via local MCPsDiscussion|Link",
+          "published_at": "2026-04-14T19:26:11"
         },
         {
-          "title": "Barometric Pressure Offline",
-          "url": "https://www.producthunt.com/products/barometric-pressure-offline",
-          "author": "Pablo",
+          "title": "Intent",
+          "url": "https://www.producthunt.com/products/augment-code",
+          "author": "Aleksandar Blazhev",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Track barometric pressure and altitude without internetDiscussion|Link",
-          "published_at": "2026-04-12T11:29:31"
+          "summary": "Describe a feature and AI agents build, verify, and ship itDiscussion|Link",
+          "published_at": "2026-04-13T12:54:49"
+        },
+        {
+          "title": "Wafer Pass",
+          "url": "https://www.producthunt.com/products/wafer",
+          "author": "Garry Tan",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Flat rate to the best LLMs for OpenClaw, Hermes Agent, etc.Discussion|Link",
+          "published_at": "2026-04-12T19:34:43"
+        },
+        {
+          "title": "Clide",
+          "url": "https://www.producthunt.com/products/clide-the-ai-native-mac-terminal",
+          "author": "Ryan",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Grid-layout terminal with an AI that drives your shells.Discussion|Link",
+          "published_at": "2026-04-14T08:16:25"
+        },
+        {
+          "title": "DataGrout AI",
+          "url": "https://www.producthunt.com/products/datagrout-ai",
+          "author": "Murali Gour",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Enterprise AI Platform for Agentic AI & MCP IntegrationDiscussion|Link",
+          "published_at": "2026-04-14T13:52:51"
         }
       ]
     },
@@ -427,49 +545,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Squash and stretch",
-          "url": "https://www.joshwcomeau.com/animation/squash-and-stretch/",
+          "title": "Design and engineering, as one",
+          "url": "https://matthiasott.com/articles/design-and-engineering-as-one",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Using Disney's animation principles to create SVG micro-interactions that feel way more natural and believable.",
-          "published_at": "2026-04-14T07:17:43"
+          "summary": "Most of us are still running product teams on a model that was designed for a problem we don’t have.",
+          "published_at": "2026-04-15T08:48:22"
         },
         {
-          "title": "Every train, a note",
-          "url": "https://www.trainjazz.com/",
+          "title": "Case study: 100 Lost Species",
+          "url": "https://www.awwwards.com/100-lost-species.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A jazz combo played in real time by every active NYC subway train.",
-          "published_at": "2026-04-14T07:16:15"
+          "summary": "A digital story about extinction that people could actively explore.",
+          "published_at": "2026-04-15T08:47:13"
         },
         {
-          "title": "They see your photos",
-          "url": "https://theyseeyourphotos.com/",
+          "title": "Aesthetics of AI",
+          "url": "https://www.acolorbright.com/en/insights/aesthetics-of-ai",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Upload a photo to find out how much an AI sees. Spoiler alert: more than you think.",
-          "published_at": "2026-04-14T07:15:48"
+          "summary": "Observations on the visual identities of standout AI brands and the trends shaping them.",
+          "published_at": "2026-04-15T08:46:22"
         },
         {
-          "title": "Handmade designs: the new trust signal",
-          "url": "https://www.nngroup.com/articles/handmade-designs/",
+          "title": "Org design in the age of AI",
+          "url": "https://robonomics.substack.com/p/org-design-in-the-age-of-ai",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "In an era of AI-generated-everything, AI-fatigued users want designs that look like they were made by a person.",
-          "published_at": "2026-04-14T07:14:30"
+          "summary": "Everyone is adding AI to their workflows. Almost no one is rethinking why the workflow is shaped that way in the first place.",
+          "published_at": "2026-04-15T08:45:42"
         },
         {
-          "title": "How missions work",
-          "url": "https://factory.ai/news/missions-architecture",
+          "title": "The endurance of brutalism",
+          "url": "https://aestheticamagazine.com/the-endurance-of-brutalism/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Agent sessions work well for focused tasks, but most real projects are too broad and complex for a single context window.",
-          "published_at": "2026-04-14T07:14:02"
+          "summary": "This new exhibition spotlights Scotland’s post-war modernist architecture, selected from Phipps’ photographs of 160 buildings across the country.",
+          "published_at": "2026-04-15T08:45:06"
         }
       ]
     },
@@ -502,6 +620,42 @@
       "count": 6,
       "items": [
         {
+          "title": "具透 Plus：Windows 预览体验计划新变化；Linux 系统的「年龄验证」闹剧",
+          "url": "https://sspai.com/prime/story/inside-release-notes-260415",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Windows预览体验计划的新变化@广陵止息：我们在4月13日的早报中详细介绍了Windows预览体验计划的新变化，总体来看是好事，所以这里就不再赘述了。在本期具透Plus中我想聊聊Windows、m ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "published_at": "2026-04-15T10:03:42"
+        },
+        {
+          "title": "开局收获上万差评的游戏：《红色沙漠》为何能这么快翻身？",
+          "url": "https://sspai.com/post/108679",
+          "author": "游研社",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "本文首发于「游研社」，作者@Oracle，少数派经授权转载，仅对排版略作调整。阅读原文在发售前后的48小时内，《红色沙漠》故事几乎就已经被写好了：3月18日，游戏上市前的宣发预热达到顶点时，媒体评分解 ...查看全文",
+          "published_at": "2026-04-15T09:39:51"
+        },
+        {
+          "title": "一日一技｜Liquid Glass 液态变磨砂",
+          "url": "https://sspai.com/post/108656",
+          "author": "克莱德",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "什么 Liquid Glass？我只喜欢 Windows Aero。查看全文",
+          "published_at": "2026-04-15T07:00:00"
+        },
+        {
+          "title": "从一夜无眠到夜夜香甜：睡个好觉并不难",
+          "url": "https://sspai.com/post/107146",
+          "author": "桌沿奇思",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "我想与你分享AI无法真正共情的人生大事：睡眠。查看全文",
+          "published_at": "2026-04-15T03:11:24"
+        },
+        {
           "title": "派早报：拓竹 X2D 正式发布、微软再次上调 Surface 全线产品定价等",
           "url": "https://sspai.com/post/108653",
           "author": "少数派编辑部",
@@ -518,42 +672,6 @@
           "source": "少数派",
           "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
           "published_at": "2026-04-14T09:04:43"
-        },
-        {
-          "title": "想在国内折腾全屋 Matter？这可能是一场属于极客的「苦修」",
-          "url": "https://sspai.com/post/108005",
-          "author": "南桥北桥不是桥",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "published_at": "2026-04-14T07:38:15"
-        },
-        {
-          "title": "首销优惠即将截止！少数派麦金獭无感膜 10 大常见问题解答",
-          "url": "https://sspai.com/post/108594",
-          "author": "Bluesky",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "如果你也在找一款「贴完就忘」的钢化膜，如果你不想再为厚重、反光、难贴的钢化膜烦恼，不妨趁首发优惠，入手体验一下。查看全文",
-          "published_at": "2026-04-14T03:00:00"
-        },
-        {
-          "title": "派早报：稳定版 Linux 7.0 内核发布等",
-          "url": "https://sspai.com/post/108614",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "少数派的近期动态少数派年度征文最终轮投票正在进行。手工匠人还是AI助力？选出你心目中更好的文章。前往投票薄至0.13mm的麦金獭手机钢化膜上线啦！首发限时优惠中。赶紧抢一张别让它吃灰：你为家里的「淘汰 ...查看全文",
-          "published_at": "2026-04-14T00:35:58"
-        },
-        {
-          "title": "派评 | 近期值得关注的 App",
-          "url": "https://sspai.com/post/108589",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
-          "published_at": "2026-04-13T09:52:51"
         }
       ]
     }
