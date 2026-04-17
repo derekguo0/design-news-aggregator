@@ -1,22 +1,21 @@
 {
   "date": "2026-04-17T00:00:00",
-  "total_items": 68,
+  "total_items": 58,
   "sources": [
-    "人人都是产品经理",
-    "Intercom Blog",
-    "少数派",
-    "UX Design CC",
     "Sidebar",
+    "Product Hunt",
+    "少数派",
+    "Intercom Blog",
+    "Design Milk",
+    "NN/g (Nielsen Norman Group)",
     "CSS-Tricks",
     "UX Planet",
-    "Awwwards",
+    "人人都是产品经理",
     "优设网",
-    "Design Milk",
-    "Product Hunt",
-    "NN/g (Nielsen Norman Group)",
-    "A List Apart"
+    "A List Apart",
+    "UX Design CC"
   ],
-  "generated_at": "2026-04-17T02:55:06.685505",
+  "generated_at": "2026-04-17T13:27:58.917002",
   "categories": [
     {
       "category": "用户体验设计",
@@ -197,6 +196,15 @@
       "count": 12,
       "items": [
         {
+          "title": "Sabah House NYC Pays Homage To Set + Setting",
+          "url": "https://design-milk.com/sabah-house-nyc-pays-homage-to-set-setting/",
+          "author": "Aria Lee",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Sit down, stay awhile – Sabah House NYC features low-rise furniture and solid oak cabinetry, creating a warm and welcoming interior.",
+          "published_at": "2026-04-17T13:00:32"
+        },
+        {
           "title": "This Residential Tower-Topped Hotel is a Ryokan-Styled Sky Oasis",
           "url": "https://design-milk.com/this-residential-tower-topped-hotel-is-a-ryokan-styled-sky-oasis/",
           "author": "Adrian Madlener",
@@ -242,15 +250,6 @@
           "published_at": "2026-04-15T13:00:58"
         },
         {
-          "title": "Marc Thorpe’s Forest Edge House Blends Beauty and Self Sufficiency",
-          "url": "https://design-milk.com/marc-thorpes-forest-edge-house-blends-beauty-and-self-sufficiency/",
-          "author": "Avinash Rajagopal",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Built by Edifice Upstate, the minimal wood-clad home in the Catskill mountains is powered by the sun and connected to nature.",
-          "published_at": "2026-04-14T17:00:46"
-        },
-        {
           "title": "The hardest percentages",
           "url": "https://www.intercom.com/blog/the-hardest-percentages/",
           "author": "Pratik Bothra",
@@ -260,55 +259,55 @@
           "published_at": "2026-04-14T14:40:07"
         },
         {
-          "title": "重新理解企业的内部协作",
-          "url": "https://www.woshipm.com/share/6379026.html",
-          "author": "李召羊",
+          "title": "AI内容生产别信全自动化的鬼话",
+          "url": "https://www.woshipm.com/ai/6378952.html",
+          "author": "鸣老师",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "企业内部协作产品的迭代困境往往被外界低估。从初创团队到万人企业，无论规模大小，组织内部的数字化管理始终是一场与人性、流程和部门墙的持久战。本文将剖析企业协作系统在信息化、数字化到智能化转型中的真实挑战，揭示那些隐藏在考勤打卡、数据录入背后的复杂因果链。尊重常识，敬畏前因后果。01在产品领域有个常识，用户越多越难迭代，因为每个细节的改动，都会影响不同人群的体验，超级App的简单升级，会被社媒放大观察...",
-          "published_at": "2026-04-17T02:25:07"
+          "summary": "AI内容生产系统的全自动化流程远没有想象中简单。从视频渲染的字幕对齐难题，到素材可用率的惊人低谷，再到Agent参数转换的精细要求，每个环节都暗藏陷阱。本文揭秘跨系统对接中的三大实战教训，告诉你为什么最小可行demo才是撬动AI内容生产的正确支点。「把脚本传给接口，等着拿成品视频就行。」我之前一直以为做视频生成是这么回事。这次对接内部的视频生产工具才发现，根本不是那么回事。今天聊聊 AI 内容生产...",
+          "published_at": "2026-04-17T09:25:58"
         },
         {
-          "title": "苹果的 AI 战略到底是什么？",
-          "url": "https://www.woshipm.com/ai/6378994.html",
-          "author": "张艾拉",
+          "title": "我们的品牌为啥缺少“娱乐精神”？",
+          "url": "https://www.woshipm.com/share/6379413.html",
+          "author": "李倩说品牌",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "苹果的AI战略正悄然改写行业规则——它不走通用大模型路线，而是将AI深度植入设备系统，让Siri成为生态入口。本文拆解苹果如何通过芯片、操作系统与终端控制的独特优势，构建一套从端侧推理到私有云协同的完整体系，以及为何Siri的进化将成为这场战略成败的关键变量。过去一年，外界看苹果公司的 AI，可能有两个印象：一是慢，二是不够“猛”。和 OpenAI、Google、Anthropic 这些公司比，苹...",
-          "published_at": "2026-04-17T02:14:23"
+          "summary": "当一场涉及12吨限量巧克力的离奇失窃案发生时，KitKat的应对方式堪称教科书。品牌没有陷入危机公关的常规套路，而是以一句“品味非凡”的幽默肯定，将重大运营事故转化为一场全球参与的营销狂欢。本文深度拆解其背后“娱乐精神”的组织逻辑，探讨为何多数品牌在危机面前，难以拥有这份松弛与创意。01 “事故”变成了“故事”外国人松弛，外国品牌离谱。上个月底，在意大利都灵，发生了个离谱的社会新闻：一辆装着 40...",
+          "published_at": "2026-04-17T07:47:48"
         },
         {
-          "title": "园区招商系统怎么做才能真正帮到去化？我加了这一个功能，推广链接转发400次阅读过万",
-          "url": "https://www.woshipm.com/share/6378959.html",
-          "author": "园区产品人",
+          "title": "三人团队用AI agent颠覆广告行业，20个月暴增7000万美元收入",
+          "url": "https://www.woshipm.com/share/6379396.html",
+          "author": "深思圈",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "招商系统的价值不仅在于管理信息，更在于推动房源去化。本文通过一个真实的园区招商案例，揭秘如何将传统管理系统升级为高效的销售工具——从H5推广链接设计到分佣机制搭建，作者用实战经验证明：真正能帮团队创造收入的功能，才是B端产品的核心竞争力。做园区产品这些年，招商模块我做过不止一次。说实话，招商系统本身不难做——客户信息录入、跟进记录、合同管理、数据看板，这些功能闭着眼睛都能设计出来。但有一个问题一直...",
-          "published_at": "2026-04-17T02:13:15"
+          "summary": "广告平台算法对创意素材的多样性与新鲜度要求，正与传统广告制作流程的漫长周期形成致命矛盾。Hightouch 凭借其 AI agent 平台 Ad Studio，将广告从洞察到上线的周期从数周压缩至几分钟，并解决了品牌一致性的核心挑战。这不仅重塑了营销效率，更预示着营销从创意艺术向数据科学的根本性转变。你有没有想过，为什么广告平台总是要求品牌提供更多创意素材？Meta明确告诉广告主要开发”在外观、感...",
+          "published_at": "2026-04-17T07:40:05"
         },
         {
-          "title": "医疗智能体·第2讲——合规护城河：等保、PIPL与HIPAA的架构实战",
-          "url": "https://www.woshipm.com/ai/6378591.html",
-          "author": "科技叨叨馆",
+          "title": "DeepSeek V4要来了，但我更想聊它最近在“憋”什么？",
+          "url": "https://www.woshipm.com/ai/6379332.html",
+          "author": "麦克先生",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "医疗AI的爆发不仅是底层技术的狂欢，更是产品合规设计的修罗场。面对极其敏感的患者健康数据，单纯的技术堆砌往往会带来致命风险。如何在严密监管下，将枯燥的合规要求转化为流畅的产品体验与底层架构特征？这是一份专为医疗产品经理准备的高阶实操指南。医疗Agent面临的“合规三角”底层博弈在严肃医疗行业做产品设计，合规从来不是产品上线前的最后一道安全检查，它必须是业务需求评审时的第一准则。随着智能体具备了自主...",
-          "published_at": "2026-04-17T02:05:41"
+          "summary": "DeepSeek的沉默背后，隐藏着比V4大模型更值得期待的战略布局。从Agent全链路人才储备到自建算力底座，这家公司正在构建一个完整的智能产品生态。当行业还在追逐参数竞赛时，DeepSeek可能正在酝酿一场真正的AI产品革命——从能对话的AI升级为能执行任务的智能体。最近，上海财经大学特聘教授胡延平发了封“给DeepSeek的最后一封催更信”。这封信说出了很多人现在的状态：既期待，又没耐心。今年...",
+          "published_at": "2026-04-17T07:38:47"
         },
         {
-          "title": "向量知识库五步法：从“答非所问”到“精准回复”",
-          "url": "https://www.woshipm.com/ai/6377797.html",
-          "author": "嘻嘻李",
+          "title": "鸿蒙PC三方库测试验证HPKCHECK 深度解读",
+          "url": "https://www.woshipm.com/share/6379381.html",
+          "author": "nutpi",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "用户问“积分怎么用”，我们的机器人回“天气变动请注意更衣”。这不是段子，是我们上线第二周的真实名场面。原因很简单：知识库用的是关键词匹配，用户换个说法就废。后来我用了向量知识库 + 大模型检索，终于让客服不再当智障。1. 翻车：一个让运营想摔键盘的回复智能客服上线第二周，一位用户问：“积分怎么用啊？”我们的知识库里有标准问答：问题：“积分如何使用”答案：“积分可在结算时抵扣现金，100积分=1元”...",
-          "published_at": "2026-04-17T01:54:39"
+          "summary": "OpenHarmony生态中的三方库适配面临一个关键挑战：如何确保交叉编译的产物能在真实设备上正确运行？HPKCHECK作为质量守门人，通过设备端测试彻底解决了这一痛点。本文将深入解析HPKCHECK的运行机制与编写规范，揭秘华为在开源生态建设中的工程实践智慧。在 OpenHarmony 三方库适配中，HPKBUILD 负责把源码编译成产物，HPKCHECK 负责验证产物是否真的能用。你可能会想：...",
+          "published_at": "2026-04-17T07:35:38"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 14,
+      "count": 6,
       "items": [
         {
           "title": "Design for Amiability: Lessons from Vienna",
@@ -363,78 +362,6 @@
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
           "published_at": null
-        },
-        {
-          "title": "Max Mara - Jacket Circle",
-          "url": "https://www.awwwards.com/sites/max-mara-jacket-circle",
-          "author": "Adoratorio Studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Ravi Klaassens",
-          "url": "https://www.awwwards.com/sites/ravi-klaassens",
-          "author": "Ravi Klaassens",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "The Obsidian Assembly",
-          "url": "https://www.awwwards.com/sites/the-obsidian-assembly",
-          "author": "Fiddle.Digital",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Oryzo AI",
-          "url": "https://www.awwwards.com/sites/oryzo-ai",
-          "author": "Lusion",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "NaughtyDuk©",
-          "url": "https://www.awwwards.com/sites/naughtyduk-c-1",
-          "author": "NaughtyDuk",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Odd Ritual",
-          "url": "https://www.awwwards.com/sites/odd-ritual",
-          "author": "Malvah",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "MERSI",
-          "url": "https://www.awwwards.com/sites/mersi",
-          "author": "FLOT NOIR",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "ICOMAT",
-          "url": "https://www.awwwards.com/sites/icomat",
-          "author": "REJOUICE®",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -443,49 +370,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Claude Code Desktop App Redesigned",
-          "url": "https://www.producthunt.com/products/claude-redesigned",
-          "author": "fmerian",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Run parallel coding agents from one desktop workspaceDiscussion|Link",
-          "published_at": "2026-04-14T19:22:22"
-        },
-        {
-          "title": "OpenAI Agents SDK",
-          "url": "https://www.producthunt.com/products/openai",
-          "author": "Zac Zuo",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Build production agents with harness and sandboxDiscussion|Link",
-          "published_at": "2026-04-16T06:51:50"
-        },
-        {
-          "title": "stagewise",
-          "url": "https://www.producthunt.com/products/stagewise-2",
-          "author": "Garry Tan",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The coding agent that works in its own browser environmentDiscussion|Link",
-          "published_at": "2026-04-14T07:57:22"
-        },
-        {
-          "title": "Chinilla",
-          "url": "https://www.producthunt.com/products/chinilla",
-          "author": "alex",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Design systems, simulate them and watch where they breakDiscussion|Link",
-          "published_at": "2026-04-15T03:37:18"
-        },
-        {
-          "title": "Subagents in Gemini CLI",
-          "url": "https://www.producthunt.com/products/google",
+          "title": "AI Mode in Chrome",
+          "url": "https://www.producthunt.com/products/ai-mode-in-chrome",
           "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Gemini CLI now runs specialist subagents in your terminalDiscussion|Link",
-          "published_at": "2026-04-15T20:06:05"
+          "summary": "Browse and search side-by-side, without switching tabsDiscussion|Link",
+          "published_at": "2026-04-16T17:10:18"
+        },
+        {
+          "title": "Form Dump",
+          "url": "https://www.producthunt.com/products/form-dump",
+          "author": "Gonçalo Henriques",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The form backend for AI Agents (and Humans)Discussion|Link",
+          "published_at": "2026-04-16T09:41:36"
+        },
+        {
+          "title": "Themery",
+          "url": "https://www.producthunt.com/products/themery",
+          "author": "Tiago Peter",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Build beautiful themes for your IDEDiscussion|Link",
+          "published_at": "2026-04-15T18:50:39"
+        },
+        {
+          "title": "Elvan",
+          "url": "https://www.producthunt.com/products/elvan-3",
+          "author": "Rohan Chaubey",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Turn customer feedback into decisions with AIDiscussion|Link",
+          "published_at": "2026-04-16T09:52:48"
+        },
+        {
+          "title": "Canva AI 2.0",
+          "url": "https://www.producthunt.com/products/canva",
+          "author": "Zac Zuo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "AI that creates with you, and connects to your worldDiscussion|Link",
+          "published_at": "2026-04-17T04:47:46"
         }
       ]
     },
@@ -539,8 +466,8 @@
           "published_at": null
         },
         {
-          "title": "还没决定周末去哪？大众点评赏花地图把春天搬进UI界面",
-          "url": "https://www.uisdc.com/hunter/0221666332.html",
+          "title": "AI只能用对话式 UI？ Lovable 给出了交互设计新思路",
+          "url": "https://www.uisdc.com/hunter/0221666948.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -551,52 +478,34 @@
     },
     {
       "category": "设计资讯",
-      "count": 5,
+      "count": 3,
       "items": [
         {
-          "title": "One developer, two dozen agents, zero alignment",
-          "url": "https://maggieappleton.com/zero-alignment",
+          "title": "The WebAIM Million",
+          "url": "https://webaim.org/projects/million/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Why we need collaborative AI engineering.",
-          "published_at": "2026-04-16T07:52:20"
+          "summary": "The 2026 report on the accessibility of the top 1,000,000 home pages.",
+          "published_at": "2026-04-17T08:46:41"
         },
         {
-          "title": "Analyze any font",
-          "url": "https://font-stealer.vercel.app/",
+          "title": "AI makes you boring",
+          "url": "https://www.marginalia.nu/log/a_132_ai_bores/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Extract and analyze fonts from any website instantly.",
-          "published_at": "2026-04-16T07:51:38"
+          "summary": "Prompting an AI model is not articulating an idea. You get the output, but in terms of ideation the output is discardable.",
+          "published_at": "2026-04-17T08:46:02"
         },
         {
-          "title": "How California fights fires from the skies",
-          "url": "https://www.reuters.com/graphics/CALIFORNIA-WILDFIRES/AIRCRAFTS/egvbjgkajvq/",
+          "title": "When moving fast, talking is the first thing to break",
+          "url": "https://daverupert.com/2026/04/more-talk-less-grok/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "High-stakes data visualization saves lives. This breakdown shows how clear mapping helps people navigate chaos.",
-          "published_at": "2026-04-16T07:50:54"
-        },
-        {
-          "title": "Playwright accessibility testing",
-          "url": "https://www.davidmello.com/software-testing/test-automation/playwright-accessibility-testing-axe-lighthouse-limitations",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "Axe and Lighthouse miss 60–70% of WCAG violations. Learn the limitations of automated accessibility testing and how to write smarter Playwright tests.",
-          "published_at": "2026-04-16T07:49:19"
-        },
-        {
-          "title": "The new designer/developer collaboration",
-          "url": "https://www.lukew.com/ff/entry.asp?2148",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "A collaboration model that shined a light on how things could (no, should) be.",
-          "published_at": "2026-04-16T07:48:28"
+          "summary": "Talking takes time. Consensus is expensive and slow. When speed is the priority, there’s no incentive to improve or invest in the shared system.",
+          "published_at": "2026-04-17T08:43:23"
         }
       ]
     },
@@ -629,6 +538,33 @@
       "count": 6,
       "items": [
         {
+          "title": "本周看什么 | 最近值得一看的 9 部作品",
+          "url": "https://sspai.com/post/108760",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "📅本周新预告《哥斯拉-0.0》首支预告4月15日，电影《哥斯拉-0.0》发布了首支预告，将于11月3日在日本上映、11月6日在北美上映。山崎贵回归担任导演、编剧和特效总监，神木隆之介、滨边美波回归出演 ...查看全文",
+          "published_at": "2026-04-17T09:50:57"
+        },
+        {
+          "title": "TDS REVIEW｜三星 Galaxy Buds4 Pro 降噪真无线耳机体验",
+          "url": "https://sspai.com/post/108741",
+          "author": "KingTsui",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "三星的 TWS 目前最大的问题（或者在三星的视角看来也可以是「护城河」）仍然在于比较局限的编码支持——你很难把它推荐给三星生态以外的用户。查看全文",
+          "published_at": "2026-04-17T08:22:42"
+        },
+        {
+          "title": "来一杯不翻车的自信：手冲咖啡入门指北",
+          "url": "https://sspai.com/post/108547",
+          "author": "一群小羊说",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "只要选对豆子、控制好手冲时的变量，一杯好咖啡也很简单。查看全文",
+          "published_at": "2026-04-17T03:29:29"
+        },
+        {
           "title": "派早报：Canva AI 2.0 发布、Anthropic 发布 Claude Opus 4.7 模型等",
           "url": "https://sspai.com/post/108742",
           "author": "少数派编辑部",
@@ -654,33 +590,6 @@
           "source": "少数派",
           "summary": "当代城市工作者的出行场景正变得越来越复合。人们希望在一个背包里装下工作所需的电脑与数码设备，同时塞入下班健身的衣物，甚至直接背着它开启一趟两三天的短途差旅。但要在同一个背包上同时实现「出色的设备保护」 ...查看全文",
           "published_at": "2026-04-16T07:30:00"
-        },
-        {
-          "title": "从画质玄学到改机热潮：浅谈拍立得的前世今生",
-          "url": "https://sspai.com/post/108630",
-          "author": "食肉库玛老师傅",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "这份坚守，无关情怀的浪漫，而在于技术的胜利。查看全文",
-          "published_at": "2026-04-16T07:00:00"
-        },
-        {
-          "title": "译文｜Tahoe 的图标令人难评",
-          "url": "https://sspai.com/post/105394",
-          "author": "克莱德",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Apple 成功地在一个操作系统版本中集齐了图标设计中的常见错误。查看全文",
-          "published_at": "2026-04-16T03:26:02"
-        },
-        {
-          "title": "派早报：Keychron 推出轻量化鼠标 G3、微软推出新模型等",
-          "url": "https://sspai.com/post/108692",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "OpenAI 推出网络安全专用模型 GPT-5.4-Cyber、索尼宣布将调整 Bravia 电视的功能等。查看全文",
-          "published_at": "2026-04-16T00:42:56"
         }
       ]
     }
