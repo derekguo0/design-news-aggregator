@@ -1,0 +1,680 @@
+{
+  "date": "2026-04-18T00:00:00",
+  "total_items": 68,
+  "sources": [
+    "Awwwards",
+    "A List Apart",
+    "Product Hunt",
+    "NN/g (Nielsen Norman Group)",
+    "Sidebar",
+    "优设网",
+    "UX Planet",
+    "少数派",
+    "人人都是产品经理",
+    "Design Milk",
+    "UX Design CC"
+  ],
+  "generated_at": "2026-04-18T02:46:15.928689",
+  "categories": [
+    {
+      "category": "用户体验设计",
+      "count": 15,
+      "items": [
+        {
+          "title": "Your AI agent can read your codebase. It doesn’t know your product.",
+          "url": "https://uxdesign.cc/your-ai-agent-can-read-your-codebase-it-doesnt-know-your-product-b5ea0cd77989?source=rss----138adf9c44c---4",
+          "author": "Gregory Muryn-Mukha",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How to feed AI coding agents the brand, patterns, and visual language that aren’t in your code.An open book of code lines beside a fanned deck of design specimens — the two artifacts of a product, onl...",
+          "published_at": "2026-04-17T21:56:02"
+        },
+        {
+          "title": "Folder instructions — Instructions for system-level AI",
+          "url": "https://uxdesign.cc/folder-instructions-instructions-for-system-level-ai-c6113ff78287?source=rss----138adf9c44c---4",
+          "author": "Karthikeya GS",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "An idea to turn folders from passive storage into active systems that organise, act, and evolve based on your intent.Folder instructionsThe Claws and Claudes of the world have introduced a new way of ...",
+          "published_at": "2026-04-17T21:55:46"
+        },
+        {
+          "title": "Haptics: how to build a consistent cross-platform solution and align code with Figma",
+          "url": "https://uxdesign.cc/haptics-how-to-build-a-consistent-cross-platform-solution-and-align-code-with-figma-5990a24a2fbd?source=rss----138adf9c44c---4",
+          "author": "Igor Dolgov",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How we turned Apple’s haptic semantics into three numeric parameters that work identically on iOS, Android, and web — and mirror our Figma components.I’m currently working on a design system for a lar...",
+          "published_at": "2026-04-17T21:55:28"
+        },
+        {
+          "title": "I watched the manosphere documentary; here is how design is making things worse.",
+          "url": "https://uxdesign.cc/i-watched-the-manosphere-documentary-here-is-how-design-is-making-things-worse-771de2bad594?source=rss----138adf9c44c---4",
+          "author": "Maria Teresa Stella",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Somewhere between the happy path and edge cases, we forgot to design against harmful actors.Source: NetflixLast month, Louis Theroux’s Netflix documentary, “Inside the Manosphere,”was released and has...",
+          "published_at": "2026-04-17T00:56:04"
+        },
+        {
+          "title": "Autopilot, agentic AI, and the dangers of imperfect metaphors",
+          "url": "https://uxdesign.cc/autopilot-agentic-ai-and-the-dangers-of-imperfect-metaphors-d94e96575153?source=rss----138adf9c44c---4",
+          "author": "Tom Seiple",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The language used to articulate AI is increasingly selling mathematics as magic and agency as intelligence; the words we use have power and meaningThe emerging technologies of AI, especially agentic A...",
+          "published_at": "2026-04-17T00:55:42"
+        },
+        {
+          "title": "Oh, but there’s one more thing",
+          "url": "https://uxdesign.cc/oh-but-theres-one-more-thing-edb9fbd79c95?source=rss----138adf9c44c---4",
+          "author": "Peter (Zak) Zakrzewski",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The value of design in the AI eraHeader image inspired by the original Macintosh ads and by Barbara Kruger’s conceptual art. The 1984 Apple Macintosh computer image was prompted, and finalized by the ...",
+          "published_at": "2026-04-17T00:55:19"
+        },
+        {
+          "title": "We become what we behold",
+          "url": "https://uxdesign.cc/we-become-what-we-behold-b552cad26702?source=rss----138adf9c44c---4",
+          "author": "Chris R Becker",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "A discussion of AI + Design and our shifting roles.Continue reading on UX Collective »",
+          "published_at": "2026-04-16T09:50:43"
+        },
+        {
+          "title": "AI, UX, and the factory model",
+          "url": "https://uxdesign.cc/ai-ux-and-the-factory-model-7c38802de4a5?source=rss----138adf9c44c---4",
+          "author": "Zeeshan Khalid",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The digital assembly line: Strategic orchestration and the industrialisation of user experienceOrder of designWhether you’re a designer, developer, or manager building or launching software and applic...",
+          "published_at": "2026-04-16T07:38:39"
+        },
+        {
+          "title": "The trust gap in healthcare AI isn’t about the AI",
+          "url": "https://uxdesign.cc/the-trust-gap-in-healthcare-ai-isnt-about-the-ai-42b437379369?source=rss----138adf9c44c---4",
+          "author": "Sibanu Bora",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Why the industry is investing billions in better models when the real failure happens before the model ever runsA few months ago, I watched a physician abandon an AI diagnostic tool in under 30 second...",
+          "published_at": "2026-04-16T07:38:03"
+        },
+        {
+          "title": "Claude Design: Figma Killer or Just Another Design Tool?",
+          "url": "https://uxplanet.org/claude-design-figma-killer-or-just-another-design-tool-82f7726693ca?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Anthropic just released a new tool called Claude Design, and as you probably guessed, this tool is built for product designers. It can be…Continue reading on UX Planet »",
+          "published_at": "2026-04-17T20:23:42"
+        },
+        {
+          "title": "New Claude Code Desktop App",
+          "url": "https://uxplanet.org/new-claude-code-desktop-app-77d198553e9a?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "The good and bad about the redesigned version of Claude CodeContinue reading on UX Planet »",
+          "published_at": "2026-04-17T14:17:23"
+        },
+        {
+          "title": "How to prevent “You’ve hit your limit” when working with Claude Code",
+          "url": "https://uxplanet.org/how-to-prevent-youve-hit-your-limit-when-working-with-claude-code-51c5241d7b9f?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Reaching the usage limit is by far one of the most annoying thing that happen when you work with Claude Code, especially when you need to…Continue reading on UX Planet »",
+          "published_at": "2026-04-16T17:13:47"
+        },
+        {
+          "title": "Nano Banana in Figma",
+          "url": "https://uxplanet.org/nano-banana-in-figma-e9c7522ec7ec?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Exploring image creation & editing with AI without leaving FigmaContinue reading on UX Planet »",
+          "published_at": "2026-04-16T13:50:28"
+        },
+        {
+          "title": "Figma Design System + Claude Code",
+          "url": "https://uxplanet.org/figma-design-system-claude-code-2907351c34c5?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "How to improve the consistency of Claude Code output when using Figma design systemContinue reading on UX Planet »",
+          "published_at": "2026-04-15T15:18:16"
+        },
+        {
+          "title": "The Future of UI Design is Agentic Design",
+          "url": "https://uxplanet.org/the-future-of-ui-design-is-agentic-design-803977cd041f?source=rss----819cc2aaeee0---4",
+          "author": "uxplanet.org",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Deep dive into Anima AI agent for Figma2026 is the year that redefines how we design products. In 2026, when we need to create a new design, we start with AI tools and co-create it together. And if ju...",
+          "published_at": "2026-04-15T13:26:31"
+        }
+      ]
+    },
+    {
+      "category": "用户体验研究",
+      "count": 6,
+      "items": [
+        {
+          "title": "Boost Design Autonomy with an Information Pipeline",
+          "url": "https://www.nngroup.com/articles/information-pipeline/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Less Chat, More Answer: Site AI Chatbots Need to Get to the Point",
+          "url": "https://www.nngroup.com/articles/less-chat-more-answer/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "AI Agents as Users",
+          "url": "https://www.nngroup.com/articles/ai-agents-as-users/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Handmade Designs: The New Trust Signal",
+          "url": "https://www.nngroup.com/articles/handmade-designs/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "A Concrete Definition of an AI Agent",
+          "url": "https://www.nngroup.com/articles/definition-ai-agent/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "AI Can Help with Survey Writing, But It Still Requires Human Expertise",
+          "url": "https://www.nngroup.com/articles/ai-survey-writing/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        }
+      ]
+    },
+    {
+      "category": "产品设计",
+      "count": 11,
+      "items": [
+        {
+          "title": "F5: Peter Pelsinski Talks Shadows and Light, Color, Play + More",
+          "url": "https://design-milk.com/f5-peter-pelsinski-talks-shadows-and-light-color-play-more/",
+          "author": "Anna Zappia",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Peter Pelsinski, principal and co-founder of SPAN Architecture, shares his love of science/science fiction, color, play, and more.",
+          "published_at": "2026-04-17T17:00:31"
+        },
+        {
+          "title": "An Asian Restaurant with a Contemporary Twist in Seoul",
+          "url": "https://design-milk.com/an-asian-restaurant-with-a-contemporary-twist-in-seoul/",
+          "author": "Anna Zappia",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Design2tone’s sleek setting complements the contemporary Asian cuisine at SSOC, guided by the principle “new harmony in diversity.”",
+          "published_at": "2026-04-17T15:00:57"
+        },
+        {
+          "title": "Sabah House NYC Pays Homage To Set + Setting",
+          "url": "https://design-milk.com/sabah-house-nyc-pays-homage-to-set-setting/",
+          "author": "Aria Lee",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Sit down, stay awhile – Sabah House NYC features low-rise furniture and solid oak cabinetry, creating a warm and welcoming interior.",
+          "published_at": "2026-04-17T13:00:32"
+        },
+        {
+          "title": "This Residential Tower-Topped Hotel is a Ryokan-Styled Sky Oasis",
+          "url": "https://design-milk.com/this-residential-tower-topped-hotel-is-a-ryokan-styled-sky-oasis/",
+          "author": "Adrian Madlener",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Designed by Studio Munge, Nobu Hotel Toronto is a soberly outfitted retreat looking out over the rapidly expanding metropolis.",
+          "published_at": "2026-04-16T17:00:28"
+        },
+        {
+          "title": "Emma In Paraty: A Study in Stitch, Scale, and Sincerity",
+          "url": "https://design-milk.com/emma-in-paraty-a-study-in-stitch-scale-and-sincerity/",
+          "author": "Aria Lee",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Embroidered details celebrate the organic nature of human life through Emma In Paraty by Olga Treivas, founder of Treivas Team.",
+          "published_at": "2026-04-16T14:00:06"
+        },
+        {
+          "title": "Grayhaus’ Preservation and Renovation of Tyron Hill Home Give Way to Possibility",
+          "url": "https://design-milk.com/grayhaus-preservation-and-renovation-of-tyron-hill-home-give-way-to-possibility/",
+          "author": "Leo Lei",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Grayhaus designer Sara Gray renovates a 1929 Cape Cod in Portland, Oregon, using unlacquered brass, Calacatta Viola marble, and natural textiles chosen to age gracefully with use.",
+          "published_at": "2026-04-16T13:00:39"
+        },
+        {
+          "title": "门店运维AI分不清小米华为：我用RAG给AI配了个“图书管理员”",
+          "url": "https://www.woshipm.com/ai/6379360.html",
+          "author": "嘻嘻李",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "智能客服上线只是万里长征第一步，当大模型遇到真实运维场景，机械回复和错误指引让AI秒变「人工智障」。本文揭秘如何通过语义切片、混合检索和动态权重三大实战策略，将RAG系统从翻车现场改造成精准应答的「老师傅」，最终实现90%的投诉下降。老板们都以为智能客服0到1，上线就完事儿，但其实上线只是开始，后面漫长的优化部分才是常态。我们刚给几千家连锁门店上线了智能客服，本以为接入了大模型（RAG），就能像个...",
+          "published_at": "2026-04-18T01:21:29"
+        },
+        {
+          "title": "AI产品MVP方法论—三天验证一个想法的实战指南",
+          "url": "https://www.woshipm.com/ai/6378953.html",
+          "author": "鸣老师",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "在AI产品开发中，最大的风险往往不是技术难题，而是产品做出来没人用。本文深入探讨了AI产品的MVP（最小可行产品）方法论，并分享了一套高效的「三天验证法」，帮助团队用最短时间、最低成本验证产品方向。「老板说要做一个 AI 客服，三个月后上线。」「结果三个月后发现用户根本不需要 AI 客服。」这种事我见过太多了。AI 产品最大的风险不是技术难，而是做出来没人用。今天聊聊 AI 产品的 MVP 方法论...",
+          "published_at": "2026-04-18T00:57:36"
+        },
+        {
+          "title": "AI内容生产别信全自动化的鬼话",
+          "url": "https://www.woshipm.com/ai/6378952.html",
+          "author": "鸣老师",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "AI内容生产系统的全自动化流程远没有想象中简单。从视频渲染的字幕对齐难题，到素材可用率的惊人低谷，再到Agent参数转换的精细要求，每个环节都暗藏陷阱。本文揭秘跨系统对接中的三大实战教训，告诉你为什么最小可行demo才是撬动AI内容生产的正确支点。「把脚本传给接口，等着拿成品视频就行。」我之前一直以为做视频生成是这么回事。这次对接内部的视频生产工具才发现，根本不是那么回事。今天聊聊 AI 内容生产...",
+          "published_at": "2026-04-17T09:25:58"
+        },
+        {
+          "title": "我们的品牌为啥缺少“娱乐精神”？",
+          "url": "https://www.woshipm.com/share/6379413.html",
+          "author": "李倩说品牌",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "当一场涉及12吨限量巧克力的离奇失窃案发生时，KitKat的应对方式堪称教科书。品牌没有陷入危机公关的常规套路，而是以一句“品味非凡”的幽默肯定，将重大运营事故转化为一场全球参与的营销狂欢。本文深度拆解其背后“娱乐精神”的组织逻辑，探讨为何多数品牌在危机面前，难以拥有这份松弛与创意。01 “事故”变成了“故事”外国人松弛，外国品牌离谱。上个月底，在意大利都灵，发生了个离谱的社会新闻：一辆装着 40...",
+          "published_at": "2026-04-17T07:47:48"
+        },
+        {
+          "title": "三人团队用AI agent颠覆广告行业，20个月暴增7000万美元收入",
+          "url": "https://www.woshipm.com/share/6379396.html",
+          "author": "深思圈",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "广告平台算法对创意素材的多样性与新鲜度要求，正与传统广告制作流程的漫长周期形成致命矛盾。Hightouch 凭借其 AI agent 平台 Ad Studio，将广告从洞察到上线的周期从数周压缩至几分钟，并解决了品牌一致性的核心挑战。这不仅重塑了营销效率，更预示着营销从创意艺术向数据科学的根本性转变。你有没有想过，为什么广告平台总是要求品牌提供更多创意素材？Meta明确告诉广告主要开发”在外观、感...",
+          "published_at": "2026-04-17T07:40:05"
+        }
+      ]
+    },
+    {
+      "category": "网页设计",
+      "count": 14,
+      "items": [
+        {
+          "title": "Design for Amiability: Lessons from Vienna",
+          "url": "https://alistapart.com/article/design-for-amiability-lessons-from-vienna/",
+          "author": "by Mark Bernstein",
+          "category": "网页设计",
+          "source": "A List Apart",
+          "summary": "Today’s web is not always an amiable place. Sites greet you with a popover that demands assent to their cookie policy, and leave you with Taboola ads promising “One Weird Trick!” to cure your ailments...",
+          "published_at": null
+        },
+        {
+          "title": "Design Dialects: Breaking the Rules, Not the System",
+          "url": "https://alistapart.com/article/design-dialects-breaking-the-rules-not-the-system/",
+          "author": "by Michel Ferreira",
+          "category": "网页设计",
+          "source": "A List Apart",
+          "summary": "\"Language is not merely a set of unrelated sounds, clauses, rules, and meanings; it is a totally coherent system bound to context and behavior.\"— Kenneth L. PikeThe web has accents. So should our desi...",
+          "published_at": null
+        },
+        {
+          "title": "An Holistic Framework for Shared Design Leadership",
+          "url": "https://alistapart.com/article/an-holistic-framework-for-shared-design-leadership/",
+          "author": "by Michel Ferreira",
+          "category": "网页设计",
+          "source": "A List Apart",
+          "summary": "Picture this: You’re in a meeting room at your tech company, and two people are having what looks like the same conversation about the same design problem. One is talking about whether the team has th...",
+          "published_at": null
+        },
+        {
+          "title": "From Beta to Bedrock: Build Products that Stick.",
+          "url": "https://alistapart.com/article/from-beta-to-bedrock-build-products-that-stick/",
+          "author": "by Liam Nugent",
+          "category": "网页设计",
+          "source": "A List Apart",
+          "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
+          "published_at": null
+        },
+        {
+          "title": "User Research Is Storytelling",
+          "url": "https://alistapart.com/article/user-research-is-storytelling/",
+          "author": "by Gerry Duffy",
+          "category": "网页设计",
+          "source": "A List Apart",
+          "summary": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things t...",
+          "published_at": null
+        },
+        {
+          "title": "To Ignite a Personalization Practice, Run this Prepersonalization Workshop",
+          "url": "https://alistapart.com/article/prepersonalization-workshop/",
+          "author": "by Colin Eagan, Jeffrey MacIntyre",
+          "category": "网页设计",
+          "source": "A List Apart",
+          "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
+          "published_at": null
+        },
+        {
+          "title": "Studio X",
+          "url": "https://www.awwwards.com/sites/studio-x",
+          "author": "Jordan Gilroy",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Max Mara - Jacket Circle",
+          "url": "https://www.awwwards.com/sites/max-mara-jacket-circle",
+          "author": "Adoratorio Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Ravi Klaassens",
+          "url": "https://www.awwwards.com/sites/ravi-klaassens",
+          "author": "Ravi Klaassens",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "The Obsidian Assembly",
+          "url": "https://www.awwwards.com/sites/the-obsidian-assembly",
+          "author": "Fiddle.Digital",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Oryzo AI",
+          "url": "https://www.awwwards.com/sites/oryzo-ai",
+          "author": "Lusion",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "NaughtyDuk©",
+          "url": "https://www.awwwards.com/sites/naughtyduk-c-1",
+          "author": "NaughtyDuk",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Odd Ritual",
+          "url": "https://www.awwwards.com/sites/odd-ritual",
+          "author": "Malvah",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "MERSI",
+          "url": "https://www.awwwards.com/sites/mersi",
+          "author": "FLOT NOIR",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        }
+      ]
+    },
+    {
+      "category": "产品发现",
+      "count": 7,
+      "items": [
+        {
+          "title": "Trackables",
+          "url": "https://www.producthunt.com/products/trackables-2",
+          "author": "Jeremy Colegrove",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Open source telemetry solvedDiscussion|Link",
+          "published_at": "2026-04-16T04:50:37"
+        },
+        {
+          "title": "CalendarPipe",
+          "url": "https://www.producthunt.com/products/calendarpipe",
+          "author": "Jakub Beneš",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Programmable calendar sync for humans and AI agentsDiscussion|Link",
+          "published_at": "2026-04-16T09:36:34"
+        },
+        {
+          "title": "Cloudflare Email Service",
+          "url": "https://www.producthunt.com/products/cloudflare",
+          "author": "Ankit Sharma",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Turn any email inbox into a native interface for AI agentsDiscussion|Link",
+          "published_at": "2026-04-16T14:56:49"
+        },
+        {
+          "title": "AI Mode in Chrome",
+          "url": "https://www.producthunt.com/products/ai-mode-in-chrome",
+          "author": "Rohan Chaubey",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Browse and search side-by-side, without switching tabsDiscussion|Link",
+          "published_at": "2026-04-16T17:10:18"
+        },
+        {
+          "title": "Visual PR Testing with AI",
+          "url": "https://www.producthunt.com/products/qa-tech",
+          "author": "fmerian",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Validate every PR with AI that runs tests for youDiscussion|Link",
+          "published_at": "2026-04-16T12:52:36"
+        },
+        {
+          "title": "Canva AI 2.0",
+          "url": "https://www.producthunt.com/products/canva",
+          "author": "Zac Zuo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "AI that creates with you, and connects to your worldDiscussion|Link",
+          "published_at": "2026-04-17T04:47:46"
+        },
+        {
+          "title": "Qwen3.6-35B-A3B",
+          "url": "https://www.producthunt.com/products/qwen3",
+          "author": "Zac Zuo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The open sparse MoE model for agentic codingDiscussion|Link",
+          "published_at": "2026-04-16T13:51:24"
+        }
+      ]
+    },
+    {
+      "category": "设计教程",
+      "count": 6,
+      "items": [
+        {
+          "title": "资讯/神器/素材全都有！2026年4月设计素材周刊第二波",
+          "url": "https://www.uisdc.com/design-source-material-36",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "AI还原页面设计怎么做？我实测后总结了这套「块状精修法」！",
+          "url": "https://www.uisdc.com/design-to-code-3",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "想让AI视频更专业可控？你一定要学会工作流！",
+          "url": "https://www.uisdc.com/deterministic-ai-video",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "那些说UI会消失的人，把人机交互理解错了一半",
+          "url": "https://www.uisdc.com/dynamic-ui-era",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "零基础轻松上手！Nano Banana2 十大必备玩法必备（附提示词）",
+          "url": "https://www.uisdc.com/nano-banana-2-9",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "AI只能用对话式 UI？ Lovable 给出了交互设计新思路",
+          "url": "https://www.uisdc.com/hunter/0221666948.html",
+          "author": "龙爪槐守望者",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        }
+      ]
+    },
+    {
+      "category": "设计资讯",
+      "count": 3,
+      "items": [
+        {
+          "title": "The WebAIM Million",
+          "url": "https://webaim.org/projects/million/",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "The 2026 report on the accessibility of the top 1,000,000 home pages.",
+          "published_at": "2026-04-17T08:46:41"
+        },
+        {
+          "title": "AI makes you boring",
+          "url": "https://www.marginalia.nu/log/a_132_ai_bores/",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "Prompting an AI model is not articulating an idea. You get the output, but in terms of ideation the output is discardable.",
+          "published_at": "2026-04-17T08:46:02"
+        },
+        {
+          "title": "When moving fast, talking is the first thing to break",
+          "url": "https://daverupert.com/2026/04/more-talk-less-grok/",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "Talking takes time. Consensus is expensive and slow. When speed is the priority, there’s no incentive to improve or invest in the shared system.",
+          "published_at": "2026-04-17T08:43:23"
+        }
+      ]
+    },
+    {
+      "category": "数字生活",
+      "count": 6,
+      "items": [
+        {
+          "title": "本周看什么 | 最近值得一看的 9 部作品",
+          "url": "https://sspai.com/post/108760",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "📅本周新预告《哥斯拉-0.0》首支预告4月15日，电影《哥斯拉-0.0》发布了首支预告，将于11月3日在日本上映、11月6日在北美上映。山崎贵回归担任导演、编剧和特效总监，神木隆之介、滨边美波回归出演 ...查看全文",
+          "published_at": "2026-04-17T09:50:57"
+        },
+        {
+          "title": "TDS REVIEW｜三星 Galaxy Buds4 Pro 降噪真无线耳机体验",
+          "url": "https://sspai.com/post/108741",
+          "author": "KingTsui",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "三星的 TWS 目前最大的问题（或者在三星的视角看来也可以是「护城河」）仍然在于比较局限的编码支持——你很难把它推荐给三星生态以外的用户。查看全文",
+          "published_at": "2026-04-17T08:22:42"
+        },
+        {
+          "title": "来一杯不翻车的自信：手冲咖啡入门指北",
+          "url": "https://sspai.com/post/108547",
+          "author": "一群小羊说",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "只要选对豆子、控制好手冲时的变量，一杯好咖啡也很简单。查看全文",
+          "published_at": "2026-04-17T03:29:29"
+        },
+        {
+          "title": "派早报：Canva AI 2.0 发布、Anthropic 发布 Claude Opus 4.7 模型等",
+          "url": "https://sspai.com/post/108742",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "OpenAI 升级 Codex 新增多项实用功能，大疆发布 Osmo Pocket 4 云台相机等。查看全文",
+          "published_at": "2026-04-17T01:04:59"
+        },
+        {
+          "title": "城市漫步指南：在沿海宜居小城，过一段不赶时间的日子",
+          "url": "https://sspai.com/post/108070",
+          "author": "Sholmes",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "前言工作的疲惫和生活中琐事积压，让我产生了换个环境去旅居的念头，最近在积极的考察一些比较宜居的城市。四月初趁着出差的机会来到了福建和广西，边应付公司的事物边考察当地的宜居城市。我先去了厦门，之后从南宁 ...查看全文",
+          "published_at": "2026-04-16T09:15:42"
+        },
+        {
+          "title": "众测 | 让通勤路上的你「重装简行」：邀你一同体验 tomtoc T77 双肩包",
+          "url": "https://sspai.com/post/108694",
+          "author": "听歌的水獭",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "当代城市工作者的出行场景正变得越来越复合。人们希望在一个背包里装下工作所需的电脑与数码设备，同时塞入下班健身的衣物，甚至直接背着它开启一趟两三天的短途差旅。但要在同一个背包上同时实现「出色的设备保护」 ...查看全文",
+          "published_at": "2026-04-16T07:30:00"
+        }
+      ]
+    }
+  ]
+}
