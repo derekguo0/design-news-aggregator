@@ -1,20 +1,20 @@
 {
   "date": "2026-04-18T00:00:00",
-  "total_items": 68,
+  "total_items": 67,
   "sources": [
-    "Awwwards",
-    "A List Apart",
-    "Product Hunt",
-    "NN/g (Nielsen Norman Group)",
-    "Sidebar",
-    "优设网",
-    "UX Planet",
-    "少数派",
     "人人都是产品经理",
+    "少数派",
+    "Product Hunt",
     "Design Milk",
-    "UX Design CC"
+    "Sidebar",
+    "UX Design CC",
+    "UX Planet",
+    "NN/g (Nielsen Norman Group)",
+    "A List Apart",
+    "优设网",
+    "Awwwards"
   ],
-  "generated_at": "2026-04-18T02:46:15.928689",
+  "generated_at": "2026-04-18T13:10:57.581514",
   "categories": [
     {
       "category": "用户体验设计",
@@ -276,49 +276,49 @@
           "published_at": "2026-04-16T13:00:39"
         },
         {
-          "title": "门店运维AI分不清小米华为：我用RAG给AI配了个“图书管理员”",
-          "url": "https://www.woshipm.com/ai/6379360.html",
-          "author": "嘻嘻李",
+          "title": "Vibe Coding：程序员的效率革命，还是产品经理的集体幻觉？",
+          "url": "https://www.woshipm.com/ai/6379607.html",
+          "author": "AI驯化师的好奇心",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "智能客服上线只是万里长征第一步，当大模型遇到真实运维场景，机械回复和错误指引让AI秒变「人工智障」。本文揭秘如何通过语义切片、混合检索和动态权重三大实战策略，将RAG系统从翻车现场改造成精准应答的「老师傅」，最终实现90%的投诉下降。老板们都以为智能客服0到1，上线就完事儿，但其实上线只是开始，后面漫长的优化部分才是常态。我们刚给几千家连锁门店上线了智能客服，本以为接入了大模型（RAG），就能像个...",
-          "published_at": "2026-04-18T01:21:29"
+          "summary": "\"我只是描述我想要什么，剩下的让 AI 搞定。\"——这句话，正在成为2026年技术圈最流行的口头禅。但它到底是解放生产力的真理，还是一厢情愿的幻觉？01 一个 PR，炸出了整个行业的焦虑2026年4月，Node.js 核心贡献者 Matteo Collina 提交了一个 PR——代码量1.9万行。社区炸了。一个人怎么可能一周写出将近两万行高质量代码？要知道，Node.js 作为一个成熟的开源项目，...",
+          "published_at": "2026-04-18T08:55:35"
         },
         {
-          "title": "AI产品MVP方法论—三天验证一个想法的实战指南",
-          "url": "https://www.woshipm.com/ai/6378953.html",
-          "author": "鸣老师",
+          "title": "AI产品意图识别：从“调个大模型”到系统工程的认知跃迁",
+          "url": "https://www.woshipm.com/ai/6379589.html",
+          "author": "姬小光",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在AI产品开发中，最大的风险往往不是技术难题，而是产品做出来没人用。本文深入探讨了AI产品的MVP（最小可行产品）方法论，并分享了一套高效的「三天验证法」，帮助团队用最短时间、最低成本验证产品方向。「老板说要做一个 AI 客服，三个月后上线。」「结果三个月后发现用户根本不需要 AI 客服。」这种事我见过太多了。AI 产品最大的风险不是技术难，而是做出来没人用。今天聊聊 AI 产品的 MVP 方法论...",
-          "published_at": "2026-04-18T00:57:36"
+          "summary": "意图识别正成为AI产品的关键命门，但90%的团队都在用错误方式对待它。从通用聊天机器人到功能型AI，意图识别从不是简单的Prompt工程，而是决定产品生死的地基设计。本文将揭示分层意图架构如何同时解决响应速度、准确性与成本控制三大痛点，并给出产品经理必须掌握的三大决策原则与实战方法论。做 AI 产品这两年，我发现一个有意思的现象。几乎所有团队在立项阶段都会聊到“意图识别”，但十个团队里有九个，都把...",
+          "published_at": "2026-04-18T07:54:29"
         },
         {
-          "title": "AI内容生产别信全自动化的鬼话",
-          "url": "https://www.woshipm.com/ai/6378952.html",
-          "author": "鸣老师",
+          "title": "人是第一要素，我认为这还远远不够",
+          "url": "https://www.woshipm.com/share/6379477.html",
+          "author": "林裕虎",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI内容生产系统的全自动化流程远没有想象中简单。从视频渲染的字幕对齐难题，到素材可用率的惊人低谷，再到Agent参数转换的精细要求，每个环节都暗藏陷阱。本文揭秘跨系统对接中的三大实战教训，告诉你为什么最小可行demo才是撬动AI内容生产的正确支点。「把脚本传给接口，等着拿成品视频就行。」我之前一直以为做视频生成是这么回事。这次对接内部的视频生产工具才发现，根本不是那么回事。今天聊聊 AI 内容生产...",
-          "published_at": "2026-04-17T09:25:58"
+          "summary": "脊柱侧弯康复行业正面临服务标准化与规模化扩张的双重挑战。AI+数字化系统+五师共管的创新模式，正在重构这个高度依赖专业人力的赛道——AI处理数据初筛风险，系统固化服务流程，而专家专注价值决策。这种三位一体的闭环不仅解决了服务质量与扩张效率的矛盾，更将单次交易转化为终身健康管理。脊柱侧弯康复有人提出，人是第一生产要素，五师共管的理念，精准地抓住了脊柱侧弯康复长周期，高专业度，强信任依赖的本质。这个行...",
+          "published_at": "2026-04-18T06:25:20"
         },
         {
-          "title": "我们的品牌为啥缺少“娱乐精神”？",
-          "url": "https://www.woshipm.com/share/6379413.html",
-          "author": "李倩说品牌",
+          "title": "阿里发布了一个”弱”工具，但它瞄准的问题比Cursor更难",
+          "url": "https://www.woshipm.com/ai/6379551.html",
+          "author": "秋叶的枫",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当一场涉及12吨限量巧克力的离奇失窃案发生时，KitKat的应对方式堪称教科书。品牌没有陷入危机公关的常规套路，而是以一句“品味非凡”的幽默肯定，将重大运营事故转化为一场全球参与的营销狂欢。本文深度拆解其背后“娱乐精神”的组织逻辑，探讨为何多数品牌在危机面前，难以拥有这份松弛与创意。01 “事故”变成了“故事”外国人松弛，外国品牌离谱。上个月底，在意大利都灵，发生了个离谱的社会新闻：一辆装着 40...",
-          "published_at": "2026-04-17T07:47:48"
+          "summary": "阿里最新推出的AI产品'秒悟'正以惊人的速度改变软件开发的门槛。这款工具让1万名非技术员工能够用自然语言直接生成完整网站并一键部署，但背后隐藏着更深刻的行业变革：当代码生成不再是障碍，需求表达能力和产品思维将成为新的分水岭。本文深度剖析这款产品如何重构开发流程，以及它给开发者和企业带来的真正挑战与机遇。4月15日，阿里ATH事业群发布了一款叫做秒悟（Meoo）的产品。发布当天的新闻稿写得中规中矩：...",
+          "published_at": "2026-04-18T04:25:34"
         },
         {
-          "title": "三人团队用AI agent颠覆广告行业，20个月暴增7000万美元收入",
-          "url": "https://www.woshipm.com/share/6379396.html",
-          "author": "深思圈",
+          "title": "AI大事件：Claude Opus 4.7再升级，梁文锋计划融资20亿，阿里、腾讯同日开源世界模型",
+          "url": "https://www.woshipm.com/ai/6379704.html",
+          "author": "AI星球",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "广告平台算法对创意素材的多样性与新鲜度要求，正与传统广告制作流程的漫长周期形成致命矛盾。Hightouch 凭借其 AI agent 平台 Ad Studio，将广告从洞察到上线的周期从数周压缩至几分钟，并解决了品牌一致性的核心挑战。这不仅重塑了营销效率，更预示着营销从创意艺术向数据科学的根本性转变。你有没有想过，为什么广告平台总是要求品牌提供更多创意素材？Meta明确告诉广告主要开发”在外观、感...",
-          "published_at": "2026-04-17T07:40:05"
+          "summary": "今天我认真翻了翻AI圈的新消息，发现有几个变化挺有意思的——Anthropic这次直接把Claude Opus拉到了4.7，编码和Agent能力又上了一个台阶；具身智能那边，智元直接搞了2500人的合作伙伴大会，4款新本体现成亮相，这个赛道真的在加速；阿里的世界模型也出来了，视频编辑方向直接冲到了全球第一。数字层面上，中国日均词元调用量突破140万亿，Stanford的报告说中美模型差距只剩2.7...",
+          "published_at": "2026-04-18T04:00:36"
         }
       ]
     },
@@ -378,6 +378,15 @@
           "category": "网页设计",
           "source": "A List Apart",
           "summary": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented apersonalization engine. Either way...",
+          "published_at": null
+        },
+        {
+          "title": "Evolve",
+          "url": "https://www.awwwards.com/sites/evolve-2",
+          "author": "Evolve",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
           "published_at": null
         },
         {
@@ -442,84 +451,66 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "MERSI",
-          "url": "https://www.awwwards.com/sites/mersi",
-          "author": "FLOT NOIR",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 7,
+      "count": 6,
       "items": [
         {
-          "title": "Trackables",
-          "url": "https://www.producthunt.com/products/trackables-2",
-          "author": "Jeremy Colegrove",
+          "title": "Grok Voice API",
+          "url": "https://www.producthunt.com/products/grok",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Open source telemetry solvedDiscussion|Link",
-          "published_at": "2026-04-16T04:50:37"
+          "summary": "Fast, accurate STT and TTS APIs at the best priceDiscussion|Link",
+          "published_at": "2026-04-18T06:11:31"
         },
         {
-          "title": "CalendarPipe",
-          "url": "https://www.producthunt.com/products/calendarpipe",
-          "author": "Jakub Beneš",
+          "title": ".MD This Page",
+          "url": "https://www.producthunt.com/products/md-this-page",
+          "author": "Adem Kouki",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Programmable calendar sync for humans and AI agentsDiscussion|Link",
-          "published_at": "2026-04-16T09:36:34"
+          "summary": "Convert any page to clean Markdown instantlyDiscussion|Link",
+          "published_at": "2026-04-17T08:39:10"
         },
         {
-          "title": "Cloudflare Email Service",
-          "url": "https://www.producthunt.com/products/cloudflare",
-          "author": "Ankit Sharma",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Turn any email inbox into a native interface for AI agentsDiscussion|Link",
-          "published_at": "2026-04-16T14:56:49"
-        },
-        {
-          "title": "AI Mode in Chrome",
-          "url": "https://www.producthunt.com/products/ai-mode-in-chrome",
+          "title": "Claude Design by Anthropic Labs",
+          "url": "https://www.producthunt.com/products/claude",
           "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Browse and search side-by-side, without switching tabsDiscussion|Link",
-          "published_at": "2026-04-16T17:10:18"
+          "summary": "Make prototypes, slides & one-pagers by talking to ClaudeDiscussion|Link",
+          "published_at": "2026-04-17T15:21:45"
         },
         {
-          "title": "Visual PR Testing with AI",
-          "url": "https://www.producthunt.com/products/qa-tech",
-          "author": "fmerian",
+          "title": "Notebooks in Gemini",
+          "url": "https://www.producthunt.com/products/google",
+          "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Validate every PR with AI that runs tests for youDiscussion|Link",
-          "published_at": "2026-04-16T12:52:36"
+          "summary": "Keep every project, chat, and file in one focused spaceDiscussion|Link",
+          "published_at": "2026-04-15T03:06:12"
         },
         {
-          "title": "Canva AI 2.0",
-          "url": "https://www.producthunt.com/products/canva",
-          "author": "Zac Zuo",
+          "title": "CapyPlan",
+          "url": "https://www.producthunt.com/products/gentle-daily-planner-capyplan",
+          "author": "Summer Liu",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI that creates with you, and connects to your worldDiscussion|Link",
-          "published_at": "2026-04-17T04:47:46"
+          "summary": "Your no stress chearleader for tiny tasksDiscussion|Link",
+          "published_at": "2026-04-17T11:44:10"
         },
         {
-          "title": "Qwen3.6-35B-A3B",
-          "url": "https://www.producthunt.com/products/qwen3",
-          "author": "Zac Zuo",
+          "title": "Lounge",
+          "url": "https://www.producthunt.com/products/lounge-2",
+          "author": "AskToBuild",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The open sparse MoE model for agentic codingDiscussion|Link",
-          "published_at": "2026-04-16T13:51:24"
+          "summary": "macOS Tahoe menu bar manager with notch-aware icon controlDiscussion|Link",
+          "published_at": "2026-04-17T14:46:56"
         }
       ]
     },
@@ -621,6 +612,15 @@
       "count": 6,
       "items": [
         {
+          "title": "你好，我是一名「火腿」",
+          "url": "https://sspai.com/post/87807",
+          "author": "休伯利安",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "入门业余无线电，圆梦童年时的梦想。查看全文",
+          "published_at": "2026-04-18T02:33:57"
+        },
+        {
           "title": "本周看什么 | 最近值得一看的 9 部作品",
           "url": "https://sspai.com/post/108760",
           "author": "少数派编辑部",
@@ -664,15 +664,6 @@
           "source": "少数派",
           "summary": "前言工作的疲惫和生活中琐事积压，让我产生了换个环境去旅居的念头，最近在积极的考察一些比较宜居的城市。四月初趁着出差的机会来到了福建和广西，边应付公司的事物边考察当地的宜居城市。我先去了厦门，之后从南宁 ...查看全文",
           "published_at": "2026-04-16T09:15:42"
-        },
-        {
-          "title": "众测 | 让通勤路上的你「重装简行」：邀你一同体验 tomtoc T77 双肩包",
-          "url": "https://sspai.com/post/108694",
-          "author": "听歌的水獭",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "当代城市工作者的出行场景正变得越来越复合。人们希望在一个背包里装下工作所需的电脑与数码设备，同时塞入下班健身的衣物，甚至直接背着它开启一趟两三天的短途差旅。但要在同一个背包上同时实现「出色的设备保护」 ...查看全文",
-          "published_at": "2026-04-16T07:30:00"
         }
       ]
     }
