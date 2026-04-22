@@ -1,27 +1,27 @@
 {
   "date": "2026-04-22T00:00:00",
-  "total_items": 65,
+  "total_items": 73,
   "sources": [
-    "CSS-Tricks",
-    "A List Apart",
-    "Design Milk",
-    "Sidebar",
-    "UX Design CC",
     "Intercom Blog",
-    "人人都是产品经理",
-    "Smashing Magazine",
-    "Awwwards",
-    "少数派",
-    "优设网",
+    "A List Apart",
     "UX Planet",
+    "Sidebar",
+    "优设网",
+    "UX Design CC",
     "Product Hunt",
-    "NN/g (Nielsen Norman Group)"
+    "CSS-Tricks",
+    "少数派",
+    "Smashing Magazine",
+    "NN/g (Nielsen Norman Group)",
+    "人人都是产品经理",
+    "Awwwards",
+    "Design Milk"
   ],
-  "generated_at": "2026-04-22T02:54:39.768292",
+  "generated_at": "2026-04-22T13:51:42.219411",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 13,
+      "count": 14,
       "items": [
         {
           "title": "How design leaders influence decisions without being in the room",
@@ -114,6 +114,15 @@
           "published_at": "2026-04-20T09:26:46"
         },
         {
+          "title": "How to improve code quality with Claude Code",
+          "url": "https://uxplanet.org/how-to-improve-code-quality-with-claude-code-4e529ded8b4e?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "The best way to improve code quality is to do two things: plan the solution before development and run code reviews regularly.Continue reading on UX Planet »",
+          "published_at": "2026-04-22T13:01:05"
+        },
+        {
           "title": "Using Design Systems in Claude Design: How Good Is It?",
           "url": "https://uxplanet.org/using-design-systems-in-claude-design-how-good-is-it-bb697a767b44?source=rss----819cc2aaeee0---4",
           "author": "Nick Babich",
@@ -204,8 +213,17 @@
     },
     {
       "category": "产品设计",
-      "count": 11,
+      "count": 12,
       "items": [
+        {
+          "title": "Bang & Olufsen Brings the Outdoors Inside at Milan Design Week",
+          "url": "https://design-milk.com/bang-olufsen-brings-the-outdoors-inside-at-milan-design-week/",
+          "author": "Adrian Madlener",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "The strength of stone and the resonance of sound meet in the new Beosound Haven, presented by Bang & Olufsen with Antolini.",
+          "published_at": "2026-04-22T13:00:33"
+        },
         {
           "title": "studio vapore Turns Up the Color in its Music Classrooms",
           "url": "https://design-milk.com/__studio-vapore-music-classrooms-beijing/",
@@ -261,56 +279,65 @@
           "published_at": "2026-04-21T15:36:28"
         },
         {
-          "title": "当AI有了抑郁症：关于“非指令性陪伴”与数字生命伦理的产品思考",
-          "url": "https://www.woshipm.com/share/6381477.html",
-          "author": "鑫酱",
+          "title": "Nature 论文导读 – AI 反馈引发的偏见",
+          "url": "https://www.woshipm.com/share/6381978.html",
+          "author": "HAI Design",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "最近在构思一个项目《西瓜王国》。我不把它定义为游戏，而是一个关于情感交互的实验。现在的AI陪伴产品大多陷入了两极：要么过度顺从导致虚伪，要么逻辑僵硬导致冷漠。我们能不能换个思路？我们与AI的关系随着AI的发展，大家对AI的使用频率越来越高，有用AI当工具，做Vibe coding，证明自己不会被AI替代，能更好跟上新的技术，然后做出来一堆AI生成的app，游戏，但我想市场压根不可能有这么多需求，同...",
-          "published_at": "2026-04-22T02:32:36"
+          "summary": "AI系统如何成为隐形的偏见放大器？《Nature Human Behaviour》的最新研究揭示了人机交互中的危险循环：AI不仅能放大人类数据中的微小偏见，更会通过反馈回路重塑社会认知。从情绪判断到职业刻板印象，实验证明AI标签比技术本身更能引发人类服从，这种机制可能导致现实不平等的系统性加剧。本文深度解析微软HAX指南中‘避免偏见’原则背后的科学依据，并探讨负责任的AI设计路径。引言回顾前段时间...",
+          "published_at": "2026-04-22T11:04:42"
         },
         {
-          "title": "AI 会取代UI吗？至少Stitch 现在还不行",
-          "url": "https://www.woshipm.com/ai/6381478.html",
-          "author": "B端设计情报局",
+          "title": "五一民宿争爆战：木鸟途家美团隔空对打",
+          "url": "https://www.woshipm.com/it/6381559.html",
+          "author": "雨后伊晴",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Google Stitch 的横空出世让设计圈沸腾，但它真的能颠覆UI设计流程吗？经过三组深度测试发现，这款AI工具在方案发散阶段表现出色，却难以驾驭有严格约束的设计落地环节。本文通过C端与B端对比实验，揭示Stitch作为‘创意加速器’的真实边界，以及设计师在AI时代不可替代的核心价值。两天，我认真测了下刷屏的Google Stitch。伴随着各种演示视频，网上再次充斥着“UI 设计师要彻底失业...",
-          "published_at": "2026-04-22T02:15:58"
+          "summary": "五一民宿大战一触即发！木鸟、途家、美团三大平台各显神通，从网红特色到连住优惠，从价格战到本地生活整合，谁能在这场没有硝烟的战争中胜出？本文深度剖析三大平台的战略布局与用户争夺战，揭秘民宿行业背后的增长逻辑与未来趋势。五一将至，近期各家发布都发布了相关数据报告。木鸟民宿热门低线城市订单同比翻倍增长，途家民宿大城市近郊民宿增长近两成。美团民宿连住7天及以上的民宿订单量同比增长超过40%。作为三大小长假...",
+          "published_at": "2026-04-22T09:57:39"
         },
         {
-          "title": "AI、失业、转型",
-          "url": "https://www.woshipm.com/share/6381629.html",
-          "author": "林骥",
+          "title": "AI时代真的太爽了！人人都可以做自己的工具",
+          "url": "https://www.woshipm.com/share/6381975.html",
+          "author": "Vic的营销思考",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "2025年文科应届生秋招落实率35%，AI影响3亿全职岗位。但真正扎心的是结构性失业：不是工作不够多，是你的技能和新工作对不上。中年人的困境不是学不会，是三个字：没余量。转型不是清零重来，而是“AI+你现在做的事”，找到AI能放大你现有能力的交叉点。刷到一组数据，感觉挺扎心的。2026届高校毕业生预计1270万，又是一个新纪录。但这个数字还不是最扎心的。麦肯锡研究报告说全球3.75亿工人需要转换职...",
-          "published_at": "2026-04-22T02:01:29"
+          "summary": "Vibe Coding工具让不懂代码的营销人也能在两小时内手搓出专属应用。本文作者用自然语言搭建了一个任务管理工具，并分享了5个营销场景下的实用小工具创意，证明产品能力比代码能力更重要。我一直觉得苹果生态的提醒事项和备忘录不够好用，也一直没有找到适合自己需求的应用，所以，我干脆自己用Vibe Coding工具自己手搓了一个体验比我想象中更丝滑，大概也就花了两小时，一行代码没写，完全靠自然语言。做完...",
+          "published_at": "2026-04-22T09:41:05"
         },
         {
-          "title": "从0到1搭建AI内容产品体系：批量产出爆款内容的全流程",
-          "url": "https://www.woshipm.com/ai/6381200.html",
-          "author": "君安",
+          "title": "10万预算，小红书卖不动一盒茶？",
+          "url": "https://www.woshipm.com/share/6381905.html",
+          "author": "妍霏聊品牌",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI内容产品正面临同质化与转化难的行业痛点。本文深度拆解如何将平台流量规则融入产品设计，打造可批量复制的爆款生成体系，从赛道选择、技术底座到六大引擎设计，揭示构建高留存、高变现AI内容产品的核心方法论。本篇聚焦于两大行业痛点：一是AI内容产品“同质化严重、尝鲜即流失、无核心壁垒”，二是AI内容生成“爆款靠运气、产出无标准、转化无闭环”。那么，如何融入AI产品设计链路与爆款内容落地运营的生成呢？先锚...",
-          "published_at": "2026-04-22T01:55:11"
+          "summary": "冷泡茶在小红书的转化困境，折射出平台电商闭环的深层矛盾。当10万预算遭遇用户习惯的『种草不拔草』怪圈，品牌究竟该all in内容种草、聚焦单一场景，还是押注搜索拦截？本文从品类特性、用户心智到组织KPI冲突，层层拆解小红书电商的『心态问题』，并给出三条实战路径与终局思考。这两年讨论小红书电商的文章很多，从买手电商、种草闭环，到直播生态，但很少有人问一个最扎心的问题：为什么一个品牌在小红书铺了再多内...",
+          "published_at": "2026-04-22T09:38:23"
         },
         {
-          "title": "大健康连锁品牌的标准化之路：以一站式调体减肥与亚健康调理为例",
-          "url": "https://www.woshipm.com/share/6381438.html",
-          "author": "运营怪咖",
+          "title": "做AI系统别为了技术概念把架构做重",
+          "url": "https://www.woshipm.com/ai/6381893.html",
+          "author": "鸣老师",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从单店验证到全国2000+门店的跨越，这家区域品牌用14年时间构建了技术、运营与合规的完整体系。在万亿级的体重管理市场，它如何通过中医辨证与现代仪器的融合、全产业链合规基建以及八大帮扶体系，实现93%的门店存活率？本文深度拆解其从单店模型到全国连锁的标准化路径，揭示大健康行业规模化扩张的核心逻辑。从单店深耕到全国2000+门店，一家区域品牌如何用14年构建技术、运营与合规的系统化能力。一、行业背景...",
-          "published_at": "2026-04-22T01:52:28"
+          "summary": "在AI系统设计中，简单往往比复杂更有效。本文通过多模态文件处理和短视频脚本优化两个实战案例，揭示了过度设计的陷阱——从图片解析的RAG化到脚本生成的架构膨胀，作者用亲身经历告诉你：满足核心需求的轻量方案，往往比追求技术概念的复杂系统更实用。「本来我们想做的事情比较简单，对AI很友好，现在又好像变得很复杂。」这是我最近在做AI Agent内容生产系统时的真实感受。一开始想的很简单，做着做着就想加东西...",
+          "published_at": "2026-04-22T09:00:50"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 15,
+      "count": 16,
       "items": [
+        {
+          "title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
+          "url": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/",
+          "author": "hello@smashingmagazine.com (Carrie Webster)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why des...",
+          "published_at": "2026-04-22T10:00:00"
+        },
         {
           "title": "Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design",
           "url": "https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/",
@@ -375,6 +402,15 @@
           "published_at": null
         },
         {
+          "title": "Jasmine Gunarto",
+          "url": "https://www.awwwards.com/sites/jasmine-gunarto",
+          "author": "diar adelita sury",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Ruinart - Digital fresco",
           "url": "https://www.awwwards.com/sites/ruinart-digital-fresco",
           "author": "makemepulse",
@@ -436,39 +472,66 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "The Obsidian Assembly",
-          "url": "https://www.awwwards.com/sites/the-obsidian-assembly",
-          "author": "Fiddle.Digital",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 6,
       "items": [
         {
-          "title": "Chat Skills for AI Agents",
-          "url": "https://www.producthunt.com/products/cometchat-skills",
-          "author": "Anant Garg",
+          "title": "ChatFolders",
+          "url": "https://www.producthunt.com/products/chatfolders",
+          "author": "guanjie zhou",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "One file. Any agent. Working chat in under 10 minutes.Discussion|Link",
-          "published_at": "2026-04-20T09:18:23"
+          "summary": "Folders for your AI chats with ChatGPT Claude, Gemini & GrokDiscussion|Link",
+          "published_at": "2026-04-21T08:55:25"
         },
         {
-          "title": "Chronicle",
-          "url": "https://www.producthunt.com/products/openai",
+          "title": "Iris Studio",
+          "url": "https://www.producthunt.com/products/iris-studio",
+          "author": "Ibrahim Yaacob",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The Swiss Army Knife for AI & Video CreatorsDiscussion|Link",
+          "published_at": "2026-04-21T08:18:54"
+        },
+        {
+          "title": "Android Studio Panda 4",
+          "url": "https://www.producthunt.com/products/android-studio-panda-4",
+          "author": "Rohan Chaubey",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "AI agent IDE for Android with planning and edit predictionDiscussion|Link",
+          "published_at": "2026-04-21T14:41:34"
+        },
+        {
+          "title": "Instant Highlights V2 by Heygen",
+          "url": "https://www.producthunt.com/products/heygen",
           "author": "Aleksandar Blazhev",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Build Codex memories from recent screen context.Discussion|Link",
-          "published_at": "2026-04-20T19:29:35"
+          "summary": "Turn long videos into viral clips in secondsDiscussion|Link",
+          "published_at": "2026-04-21T17:03:21"
+        },
+        {
+          "title": "Loomal",
+          "url": "https://www.producthunt.com/products/loomal",
+          "author": "Danny Heng",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Identity infrastructure for AI agentsDiscussion|Link",
+          "published_at": "2026-04-21T07:07:27"
+        },
+        {
+          "title": "Stanley For 𝕏",
+          "url": "https://www.producthunt.com/products/stanley-for-x",
+          "author": "Pascio",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The world's first AI Head of ContentDiscussion|Link",
+          "published_at": "2026-04-20T16:52:38"
         }
       ]
     },
@@ -537,56 +600,65 @@
       "count": 5,
       "items": [
         {
-          "title": "Expansion artifacts",
-          "url": "https://mattstromawn.com/writing/expansion-artifacts/",
+          "title": "Thoughts and feelings around Claude Design",
+          "url": "https://samhenri.gold/blog/20260418-claude-design/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "AI output gets inflated into blog posts and LinkedIn thoughtspam, software platforms, omnichannel advertising campaigns, and more.",
-          "published_at": "2026-04-21T08:34:46"
+          "summary": "The beast is hairy enough that entire design roles now specialize in wrangling the system itself.",
+          "published_at": "2026-04-22T08:27:52"
         },
         {
-          "title": "ASCII art generator",
-          "url": "https://asc11.com/",
+          "title": "Wiretext",
+          "url": "https://wiretext.app/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Create ASCII art for websites and marketing from images, video, live cam, and templates.",
-          "published_at": "2026-04-21T08:33:22"
+          "summary": "A spatial design tool where everything renders as Unicode box-drawing characters. Create wireframes, diagrams, and mockups.",
+          "published_at": "2026-04-22T08:27:05"
         },
         {
-          "title": "If you thought the speed of writing code was your problem, you have a problem",
-          "url": "https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems",
+          "title": "There are only four skills: design, technical, management and physical",
+          "url": "https://www.lesswrong.com/posts/KRLGxCaqdgrotyB8z/there-are-only-four-skills-design-technical-management-and",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "AI coding tools are optimising the wrong thing and nobody wants to hear it.",
-          "published_at": "2026-04-21T08:32:23"
+          "summary": "What determines whether someone is capable of relatively quickly acquiring expert-level performance in other domains?",
+          "published_at": "2026-04-22T08:26:27"
         },
         {
-          "title": "The AI adoption spiral",
-          "url": "https://thoughtshrapnel.com/2026/04/18/the-ai-adoption-spiral.html",
+          "title": "Tailwind CSS colors",
+          "url": "https://uicolors.app/generate/00ccff",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The journey that people go on with any new tool.",
-          "published_at": "2026-04-21T08:31:18"
+          "summary": "Generate, edit, save and share Tailwind CSS color shades based on a given hexcode or HSL color.",
+          "published_at": "2026-04-22T08:25:12"
         },
         {
-          "title": "Design isn’t dying. It’s shifting left.",
-          "url": "https://microsoft.design/articles/design-isnt-dying-its-shifting-left/",
+          "title": "The AI chasm",
+          "url": "https://www.antmurphy.me/newsletter/the-ai-chasm",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "When the model is the new medium, shaping how it behaves in humanistic ways is design.",
-          "published_at": "2026-04-21T08:30:35"
+          "summary": "Why most companies are still early in the AI journey—and what product leaders should focus on instead.",
+          "published_at": "2026-04-22T08:24:30"
         }
       ]
     },
     {
       "category": "前端设计",
-      "count": 1,
+      "count": 2,
       "items": [
+        {
+          "title": "Enhancing Astro With a Markdown Component",
+          "url": "https://css-tricks.com/astro-markdown-component/",
+          "author": "Zell Liew",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "I use a Markdown Component for two main reasons: (1) It reduces the amount of markup I need to write, and (2) it converts typographic symbols. Here's how it works.Enhancing Astro With a Markdown Compo...",
+          "published_at": "2026-04-22T13:49:57"
+        },
         {
           "title": "Markdown + Astro = ❤️",
           "url": "https://css-tricks.com/markdown-astro/",
@@ -602,6 +674,42 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "飞傲 x FM3.14｜2026 第一季度音乐精选：这耐听的 8 张专辑包办你的春天",
+          "url": "https://sspai.com/post/108574",
+          "author": "麻乐",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文",
+          "published_at": "2026-04-22T09:37:54"
+        },
+        {
+          "title": "原来你对写作是真爱：少数派 2025 年度征文结果公布",
+          "url": "https://sspai.com/post/108976",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "我们得到了一个或许没什么代表性的「答案」：真实的体验和细腻的情感，更能打动屏幕前的各位读者。查看全文",
+          "published_at": "2026-04-22T08:10:06"
+        },
+        {
+          "title": "把家里的游戏带出门：开源本地串流方案 Sunshine 上手指南",
+          "url": "https://sspai.com/post/108857",
+          "author": "化学心情下2",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "想窝在沙发上拿平板接着打电脑游戏，或者睡前躺床上用手机多玩一会儿，Sunshine 都能帮你实现。查看全文",
+          "published_at": "2026-04-22T06:33:21"
+        },
+        {
+          "title": "中年人兼职开车送货，20 天学会的 7 个真相",
+          "url": "https://sspai.com/post/108148",
+          "author": "约斯特普通",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "开车送货的 20 天，对我这个中年人来说无疑是一堂姗姗来迟的社会实践课。查看全文",
+          "published_at": "2026-04-22T02:57:10"
+        },
         {
           "title": "派早报：OPPO Find X9 Ultra 发布等",
           "url": "https://sspai.com/post/108962",
@@ -619,42 +727,6 @@
           "source": "少数派",
           "summary": "4月20日，苹果宣布TimCook将于8月31日卸任CEO，并自9月1日起担任董事会执行董事长（ExecutiveChair）。现任硬件工程高级副总裁JohnTernus将接替Cook担任CEO并加入 ...查看全文",
           "published_at": "2026-04-21T10:09:24"
-        },
-        {
-          "title": "社区速递 138 | 派友让闲置旧设备「再就业」、大疆 Mic Mini 与 MUJI 桧木蜡烛",
-          "url": "https://sspai.com/post/108943",
-          "author": "Matrix机器人",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
-          "published_at": "2026-04-21T09:32:51"
-        },
-        {
-          "title": "众测招募｜从 Quote/0 到口袋先知，我们需要的只是一个轻回应",
-          "url": "https://sspai.com/post/108909",
-          "author": "什么陈",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "口袋先知是一款专为日常决策和轻量陪伴打造的包挂，它既可以无缝融入你的日常，也可以随时拿起来把玩。查看全文",
-          "published_at": "2026-04-21T03:30:00"
-        },
-        {
-          "title": "派早报：华为举办 Pura 系列及全场景新品发布会等",
-          "url": "https://sspai.com/post/108921",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "少数派的近期动态首款MBTI定制墨水屏「口袋先知」周四上线预售。直播预约薄至0.13mm的麦金獭手机钢化膜上线啦！赶紧抢一张别让它吃灰：你为家里的「淘汰设备」找到了哪些新用途？来一派展开聊聊少数派全新 ...查看全文",
-          "published_at": "2026-04-21T00:20:19"
-        },
-        {
-          "title": "派评 | 近期值得关注的 App",
-          "url": "https://sspai.com/post/108898",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
-          "published_at": "2026-04-20T09:49:53"
         }
       ]
     }
