@@ -1,27 +1,27 @@
 {
   "date": "2026-04-24T00:00:00",
-  "total_items": 73,
+  "total_items": 72,
   "sources": [
-    "A List Apart",
-    "CSS-Tricks",
     "Sidebar",
-    "Design Milk",
-    "NN/g (Nielsen Norman Group)",
-    "人人都是产品经理",
-    "Smashing Magazine",
-    "Product Hunt",
-    "Intercom Blog",
+    "A List Apart",
     "UX Design CC",
-    "少数派",
-    "Awwwards",
+    "NN/g (Nielsen Norman Group)",
+    "Intercom Blog",
     "UX Planet",
-    "优设网"
+    "Awwwards",
+    "少数派",
+    "人人都是产品经理",
+    "Product Hunt",
+    "CSS-Tricks",
+    "优设网",
+    "Design Milk",
+    "Smashing Magazine"
   ],
-  "generated_at": "2026-04-24T03:19:16.663306",
+  "generated_at": "2026-04-24T13:44:55.594458",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 12,
+      "count": 13,
       "items": [
         {
           "title": "Designing with AI without losing your mind",
@@ -85,6 +85,15 @@
           "source": "UX Design CC",
           "summary": "Some parts of the browser feel untouchable, like they came built-in from the browser itself. Can CSS help us with that?CSS you didn’t know you could styleMost developers think of CSS as the tool for s...",
           "published_at": "2026-04-21T11:31:46"
+        },
+        {
+          "title": "GPT 5.5 vs Opus 4.7: Which AI Model Is Best for Product Design?",
+          "url": "https://uxplanet.org/gpt-5-5-vs-opus-4-7-which-ai-model-is-best-for-product-design-23752483196a?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "OpenAI released its new flagship AI model GPT-5.5, and it demonstrates excellent performance in many tasks. In this article, I want to…Continue reading on UX Planet »",
+          "published_at": "2026-04-24T12:20:28"
         },
         {
           "title": "The Death of Digital Product Design",
@@ -198,6 +207,15 @@
       "count": 14,
       "items": [
         {
+          "title": "A Los Cabos Home Raises the Roof(s)",
+          "url": "https://design-milk.com/a-los-cabos-home-raises-the-roofs/",
+          "author": "Elizabeth Pagliacolo",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "The 6,450-square-foot home by ESTUDIO Ignacio Urquiza Ana Paula de Alba luxuriates in the shade and solace afforded by a central courtyard.",
+          "published_at": "2026-04-24T13:00:57"
+        },
+        {
           "title": "An Architecture Firm Celebrates Canadian Design and Craft in a New Office",
           "url": "https://design-milk.com/an-architecture-firm-celebrates-canadian-design-craft-in-a-new-office/",
           "author": "Anna Zappia",
@@ -243,15 +261,6 @@
           "published_at": "2026-04-22T13:00:33"
         },
         {
-          "title": "studio vapore Turns Up the Color in its Music Classrooms",
-          "url": "https://design-milk.com/__studio-vapore-music-classrooms-beijing/",
-          "author": "Elizabeth Pagliacolo",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Studio Vapore's revamp of the spaces at the Western Academy of Beijing strike a high note by combining elevated color theory with acoustic know-how.",
-          "published_at": "2026-04-21T14:00:23"
-        },
-        {
           "title": "Introducing the Sales Agent Blueprint",
           "url": "https://www.intercom.com/blog/introducing-the-sales-agent-blueprint/",
           "author": "Ciaran Nolan",
@@ -279,49 +288,49 @@
           "published_at": "2026-04-21T15:36:28"
         },
         {
-          "title": "DeepSeek-V4 预览版：迈入百万上下文普惠时代",
-          "url": "https://www.woshipm.com/ai/6383155.html",
-          "author": "人人都是产品经理",
+          "title": "我做了一个工具，让剪映剪辑师彻底告别手动找 B-Roll 的痛苦",
+          "url": "https://www.woshipm.com/share/6382900.html",
+          "author": "被抢了名字的Kimi",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "百万级上下文不再是概念，而是DeepSeek-V4的标配。这款全新开源模型在Agent能力、世界知识与推理性能上全面突破，Pro版比肩顶级闭源，Flash版兼顾效率与成本。本文详解其创新架构、专项优化与战略布局，看国产模型如何重新定义竞争格局。今天，我们全新系列模型 DeepSeek-V4 的预览版本正式上线并同步开源。DeepSeek-V4 拥有百万字超长上下文，在 Agent 能力、世界知识和...",
-          "published_at": "2026-04-24T03:04:02"
+          "summary": "视频创作者们正在被B-Roll素材搜索这一隐形时间杀手困扰——看似简单的找素材环节，实则暗含多重判断逻辑。本文深度剖析创作者工作流中的关键断点，揭示AI时代效率工具设计的三个反直觉原则，助力创作者从机械劳动中解放双手，将时间真正还给创意本身。视频内容的生产门槛在降低，但优质内容的制作时间并没有减少。我和身边几个做视频的朋友聊过，他们都有一个共同的困惑：剪辑软件越来越智能，AI 字幕、一键调色、模板...",
+          "published_at": "2026-04-24T08:34:19"
         },
         {
-          "title": "一人公司，如何活过“一人”？",
-          "url": "https://www.woshipm.com/share/6383139.html",
-          "author": "张书乐",
+          "title": "DeepSeek告别“孤胆英雄”时代",
+          "url": "https://www.woshipm.com/ai/6383412.html",
+          "author": "吴怼怼",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "一人公司热潮背后，是AI将创业门槛从团队降至个人的技术革命。但个人IP驱动与算法外挂，能否突破跑单帮的宿命？本文拆解OPC的底层逻辑、代际差异与瓶颈，探讨一人公司如何避免成为昙花一现的创业泡沫。一人公司，如不能快速三人成团，就代表失败。今年以来，“一人公司”（OPC，One Person Company）成为网络热词。一个人即可组建创新团队，独立完成从创意萌芽到项目落地的全过程。这种人工智能（AI...",
-          "published_at": "2026-04-24T02:53:22"
+          "summary": "DeepSeek V4的发布不仅标志着其在Agent能力和推理技术上的重大突破，更揭示了这家中国AI独角兽从研究团队向基础设施级玩家的战略转变。面对训练成本飙升、人才争夺战和生态布局需求，DeepSeek正在与腾讯、阿里展开18亿美元融资谈判，这场关乎中国大模型未来格局的资本博弈背后，隐藏着技术路线与商业逻辑的深层抉择。DeepSeek V4发布是确定的，而融资仍属于媒体报道和交易传闻阶段。Dee...",
+          "published_at": "2026-04-24T08:33:27"
         },
         {
-          "title": "实测 GPT-Image-2：6 个能落地的提效场景",
-          "url": "https://www.woshipm.com/ai/6383134.html",
-          "author": "AI产品经理四月",
+          "title": "MVP是什么？如何快速设计MVP",
+          "url": "https://www.woshipm.com/pd/6382883.html",
+          "author": "鲁班快跑",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "GPT-Image-2 的生图能力让产品经理直呼“进化”。实测发现，从产品架构图、高保真 UI 到可直接运行的前端页面，仅需两句话。当执行门槛被 AI 抹平，真正的分水岭在于你对需求的判断力与对“什么是好”的洞察。昨天，我一直在被 GPT-Image-2 生成的图片刷屏。我从前晚就开始体验，实测下来，这个生图模型太强了，肉眼可见的进化（原谅我读书少词穷）：审美变好了。不只是”画得真实”，是真的”画...",
-          "published_at": "2026-04-24T02:47:41"
+          "summary": "MVP不是功能最少的版本，而是用最低成本验证核心假设的工具。本文通过Dropbox用一段视频获7.5万注册的经典案例、Zappos创始人亲自跑鞋店的”绿野仙踪”MVP，以及真实操盘的体育健身卡项目，系统拆解MVP的正确设计方法，帮助产品经理避开”假MVP”陷阱。一个让你醍醐灌顶的故事故事是这样的。2007年，一个叫德鲁·休斯顿（Drew Houston）的年轻人，有一个痛点——他在通勤路上没法访问...",
+          "published_at": "2026-04-24T07:32:19"
         },
         {
-          "title": "“跨店下单”引出的战略思维：产品经理的终极进化之路",
-          "url": "https://www.woshipm.com/pmd/6382902.html",
-          "author": "俊驰产品观",
+          "title": "数字政府建设指南（经验篇·政策解读）",
+          "url": "https://www.woshipm.com/ai/6383093.html",
+          "author": "PM小刘",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从外卖用户的一个简单疑问出发，这篇文章揭示了产品经理从执行者到战略家的蜕变之路。作者通过‘跨店下单’这一突破性功能的诞生历程，剖析了产品经理的四重能力境界，并指出战略型产品经理与业务负责人的边界正在消失。文章不仅拆解了字节跳动等顶尖公司的用人逻辑，更提供了从功能创意到生态构建的完整思考框架，为产品人的职业进阶提供了清晰路径。这篇文章源于多年前我作为外卖用户时的一个困惑，也源于工作第二年时在朋友圈和...",
-          "published_at": "2026-04-24T02:44:33"
+          "summary": "数字政府建设中，政策解读是产品设计的基石。本文通过物业维修资金系统的实操案例，揭秘如何用GPT高效拆解政策条文：从关键内容抽取到业务语言转换，再到强制规则与边界条件的系统化梳理，AI工具正在重构G端产品的需求分析方法论。一、背景本指南，基于数字政府建设的要求和趋势，从多个角度阐述数字政府建设的行业经验和方式方法，包含涵义篇、体系篇、建设篇、经验篇等内容，供各位想从事了解或者已经从事政务行业的人士参...",
+          "published_at": "2026-04-24T07:12:31"
         },
         {
-          "title": "【分享】一份农业商业策划书",
-          "url": "https://www.woshipm.com/share/6383133.html",
-          "author": "农业数字化",
+          "title": "当AI被解构成糊弄型人格，我怀念「百度一下」了",
+          "url": "https://www.woshipm.com/ai/6383326.html",
+          "author": "唐辰同学",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "一份2016年的生鲜B2B商业计划书模板，至今仍具参考价值。从目标市场解析到投入产出预估，六大模块拆解了如何向投资人讲好一个产业互联网故事。核心在于用清晰的逻辑线，展示从市场选择到商业闭环的全过程。之前从理论层面介绍了一个通用的商业计划书模板，这次结合实例再来一个商业计划书模板。此商业计划书模板主要是基于生鲜2B产业服务平台为背景展开讲解，并会把上一个模板的内容融合应用进来。规则是：文字在上，图片...",
-          "published_at": "2026-04-24T02:40:56"
+          "summary": "从豆包型人格到AI幻觉危机，普通用户对AI工具的信任正在崩塌。本文深度剖析AI搜索的先天缺陷——答案来源不透明、模型幻觉泛滥，以及GEO黑产如何利用这些漏洞。通过果壳实验和百度最新架构升级，揭示AI可信度重建的关键：权威信源接入与平台治理机制的双重突破。普通用户凭什么相信AI？这两天新学到一个梗词——豆包型人格。网友给出的解释是：啥事都瞎糊弄，被发现就嬉皮笑脸道歉。还有人模仿它的交互风格，与家人逗...",
+          "published_at": "2026-04-24T07:02:08"
         }
       ]
     },
@@ -393,6 +402,15 @@
           "published_at": null
         },
         {
+          "title": "Ashley Brooke",
+          "url": "https://www.awwwards.com/sites/ashley-brooke",
+          "author": "Ethan Suero",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Off Menu",
           "url": "https://www.awwwards.com/sites/off-menu",
           "author": "Petr Knoll",
@@ -454,84 +472,57 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Max Mara - Jacket Circle",
-          "url": "https://www.awwwards.com/sites/max-mara-jacket-circle",
-          "author": "Adoratorio Studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 7,
+      "count": 5,
       "items": [
         {
-          "title": "Speakmac",
-          "url": "https://www.producthunt.com/products/speakmac",
-          "author": "Kiran Jd",
+          "title": "Your Name in Landsat 🛰️",
+          "url": "https://www.producthunt.com/products/your-name-in-landsat",
+          "author": "Adithya Shreshti",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Private voice typing for Mac that works anywhereDiscussion|Link",
-          "published_at": "2026-04-22T10:30:26"
+          "summary": "The planet can spell your name – literally!Discussion|Link",
+          "published_at": "2026-04-23T08:50:38"
         },
         {
-          "title": "Gemini Enterprise Agent Platform",
-          "url": "https://www.producthunt.com/products/google",
+          "title": "TuneJourney.com",
+          "url": "https://www.producthunt.com/products/tunejourney-com",
+          "author": "Binary",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "AI learns your listening habits and curates your live radioDiscussion|Link",
+          "published_at": "2026-04-24T04:39:59"
+        },
+        {
+          "title": "SaveForm.io",
+          "url": "https://www.producthunt.com/products/saveform-io",
+          "author": "Marco Ruch",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Automated form tracking and e-mail notifications & webhooksDiscussion|Link",
+          "published_at": "2026-04-23T14:24:35"
+        },
+        {
+          "title": "Spira AI",
+          "url": "https://www.producthunt.com/products/spira-ai",
+          "author": "Chris Messina",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "AI Influencer that always on trend, create & grow your brandDiscussion|Link",
+          "published_at": "2026-04-23T08:15:57"
+        },
+        {
+          "title": "Codex 3.0 by OpenAI",
+          "url": "https://www.producthunt.com/products/codex-3-0-by-openai",
           "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Google's platform to run AI agents at enterprise scaleDiscussion|Link",
-          "published_at": "2026-04-22T16:14:59"
-        },
-        {
-          "title": "FocuSee 2.0",
-          "url": "https://www.producthunt.com/products/focusee",
-          "author": "Morgan Kung",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Record screen to get polished demos & tutorialsDiscussion|Link",
-          "published_at": "2026-04-21T10:16:14"
-        },
-        {
-          "title": "Blink AI CFO",
-          "url": "https://www.producthunt.com/products/blink-21",
-          "author": "Garry Tan",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "AI CFO that autonomously trades stocks and options via SlackDiscussion|Link",
-          "published_at": "2026-04-22T02:36:26"
-        },
-        {
-          "title": "Monid",
-          "url": "https://www.producthunt.com/products/monid",
-          "author": "Aleksandar Blazhev",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "One wallet, every paid tool your agent needsDiscussion|Link",
-          "published_at": "2026-04-23T07:06:33"
-        },
-        {
-          "title": "Instamor",
-          "url": "https://www.producthunt.com/products/instamor-short-video-dating",
-          "author": "Ping",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Video-first partner matching per your personal vibeDiscussion|Link",
-          "published_at": "2026-04-22T19:51:28"
-        },
-        {
-          "title": "octoscope",
-          "url": "https://www.producthunt.com/products/octoscope",
-          "author": "Giovambattista Fazioli",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Your GitHub profile as a live terminal dashboardDiscussion|Link",
-          "published_at": "2026-04-22T16:26:01"
+          "summary": "Codex can now build, test & debug on autopilotDiscussion|Link",
+          "published_at": "2026-04-23T18:48:21"
         }
       ]
     },
@@ -600,49 +591,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Headless everything for personal AI",
-          "url": "https://interconnected.org/home/2026/04/18/headless",
+          "title": "I love AI, but it still can’t design for shit",
+          "url": "https://jonnyburch.com/i-love-ai-but-it-still-cant-design-for-shit/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Headless services are quicker and more dependable for the personal AIs than having them click round a GUI with a bot-controlled mouse.",
-          "published_at": "2026-04-23T08:33:29"
+          "summary": "Without a critical human eye, AI produces slop. The quality bar is yours to maintain.",
+          "published_at": "2026-04-24T05:50:57"
         },
         {
-          "title": "GPT image gen prompting guide",
-          "url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+          "title": "Grit Garden",
+          "url": "https://www.grit.garden/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Prompting patterns, best practices, and example prompts drawn from real production use cases for gpt-image-2.",
-          "published_at": "2026-04-23T08:32:33"
+          "summary": "Each Wordle game becomes a bouquet of flowers and a story. The emotional arc of every game mapped onto prose.",
+          "published_at": "2026-04-24T05:48:47"
         },
         {
-          "title": "Six levels of dark mode",
-          "url": "https://cssence.com/2024/six-levels-of-dark-mode/",
+          "title": "Why productivity needs to be redefined",
+          "url": "https://www.sidjha.com/2026/02/why-productivity-needs-to-be-redefined/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "From HTML-only to JS-infused, and all the CSS in between.",
-          "published_at": "2026-04-23T08:31:27"
+          "summary": "We’ll need to redefine what productivity means in the context of humans. If we don’t, we’re all kind of screwed, and yes, AI will take our jobs away.",
+          "published_at": "2026-04-24T05:48:00"
         },
         {
-          "title": "AI as a fascist artifact",
-          "url": "https://tante.cc/2026/04/21/ai-as-a-fascist-artifact/",
+          "title": "Early signals of AI impact",
+          "url": "https://jobsdata.ai/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Our world is built around technological infrastructures that define what we see, who we can talk to and what information gets presented to us.",
-          "published_at": "2026-04-23T08:30:54"
+          "summary": "462+ sources, one pattern: AI adoption is accelerating, productivity is climbing, and jobs are changing faster than they’re disappearing.",
+          "published_at": "2026-04-24T05:47:00"
         },
         {
-          "title": "I don’t want a screenshot of your Claude conversation",
-          "url": "https://daverupert.com/2026/04/claude-no/",
+          "title": "Mouth Coding",
+          "url": "https://bradfrost.com/blog/post/mouth-coding/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The number of screenshots of Claude conversations is going up in my life and it’s beginning to have an impact on my general mood.",
-          "published_at": "2026-04-23T08:29:38"
+          "summary": "Talking websites into existence.",
+          "published_at": "2026-04-24T05:46:25"
         }
       ]
     },
@@ -675,6 +666,33 @@
       "count": 6,
       "items": [
         {
+          "title": "本周看什么 | 最近值得一看的 11 部作品",
+          "url": "https://sspai.com/post/109050",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "📅本周新预告《泥面人》首支预告4月23日，DC新片《泥面人》发布了首支预告，将于10月23日在北美上映。詹姆斯·瓦特金斯执导，汤姆·里斯·哈里斯、娜奥米·阿基、麦克思·明格拉等主演，一位B级片演员给自 ...查看全文",
+          "published_at": "2026-04-24T10:17:33"
+        },
+        {
+          "title": "换了新显示器怎么验？我做了一个开箱即用的全平台屏幕检测工具",
+          "url": "https://sspai.com/post/108455",
+          "author": "码客旅人",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "一站式、在线测试屏幕的各项功能。查看全文",
+          "published_at": "2026-04-24T07:06:50"
+        },
+        {
+          "title": "汇聚热爱，「2050 大会」少数派线下活动邀请你来参与",
+          "url": "https://sspai.com/post/108202",
+          "author": "老麦",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "4月24日-4月26日，新一届2050大会将在云栖小镇如期举行。期间，少数派将会组织《少数派的共创时代》社区交流活动，围绕AI降低创造门槛后，从想法到产品落地的真实路径展开讨论。以下是活动的详细信息： ...查看全文",
+          "published_at": "2026-04-24T03:25:15"
+        },
+        {
           "title": "手机和平板间的新品类：华为 Pura X Max 漫谈",
           "url": "https://sspai.com/post/109024",
           "author": "Microhoo",
@@ -700,33 +718,6 @@
           "source": "少数派",
           "summary": "都说「人间四月鲜，尝鲜好时节」，说的不仅是各种时令蔬菜上市了，还有经过了一个冬季蛰伏后，开始出现在了菜市场海鲜档口的海鲜与河鲜。虽说现如今，随着时代的发展和科技的进步，我们的人工养殖水平已经日益见长， ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
           "published_at": "2026-04-23T10:38:26"
-        },
-        {
-          "title": "新玩意 239｜少数派的编辑们最近买了啥？",
-          "url": "https://sspai.com/post/109007",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
-          "published_at": "2026-04-23T09:42:33"
-        },
-        {
-          "title": "Notion 和 Obsidian 应该怎么选？聊聊我的思考和建议",
-          "url": "https://sspai.com/post/108971",
-          "author": "二一的笔记",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Notion的优缺点Notion的门槛在于，当一个页面被创建，在Notion的整套叙事里，你需要尽快为这个页面找到它在系统中的位置和关系，它是什么、属于哪里、是否和某个具体的任务或项目有关系？尽管你可 ...查看全文",
-          "published_at": "2026-04-23T07:12:16"
-        },
-        {
-          "title": "App+1｜秒看视频参数，我做了个免费的 Mac 小工具",
-          "url": "https://sspai.com/post/108385",
-          "author": "少数派50348770",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "视频党狂喜！查看全文",
-          "published_at": "2026-04-23T03:00:00"
         }
       ]
     }
