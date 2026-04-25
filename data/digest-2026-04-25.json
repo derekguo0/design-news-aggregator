@@ -1,23 +1,22 @@
 {
   "date": "2026-04-25T00:00:00",
-  "total_items": 68,
+  "total_items": 57,
   "sources": [
-    "Product Hunt",
-    "CSS-Tricks",
-    "UX Planet",
-    "人人都是产品经理",
-    "Awwwards",
-    "NN/g (Nielsen Norman Group)",
-    "优设网",
-    "UX Design CC",
-    "Sidebar",
     "Smashing Magazine",
-    "A List Apart",
-    "Design Milk",
+    "UX Planet",
     "少数派",
-    "Intercom Blog"
+    "Intercom Blog",
+    "Awwwards",
+    "CSS-Tricks",
+    "Design Milk",
+    "A List Apart",
+    "优设网",
+    "Sidebar",
+    "Product Hunt",
+    "UX Design CC",
+    "人人都是产品经理"
   ],
-  "generated_at": "2026-04-25T02:48:18.667859",
+  "generated_at": "2026-04-25T13:14:08.878516",
   "categories": [
     {
       "category": "用户体验设计",
@@ -107,66 +106,6 @@
       ]
     },
     {
-      "category": "用户体验研究",
-      "count": 6,
-      "items": [
-        {
-          "title": "10 Guidelines for Designing Your Site’s AI Chatbots",
-          "url": "https://www.nngroup.com/articles/ai-chatbots-design-guidelines/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Why User Panels Fail",
-          "url": "https://www.nngroup.com/articles/user-panels-fail/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Boost Design Autonomy with an Information Pipeline",
-          "url": "https://www.nngroup.com/articles/information-pipeline/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Less Chat, More Answer: Site AI Chatbots Need to Get to the Point",
-          "url": "https://www.nngroup.com/articles/less-chat-more-answer/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "AI Agents as Users",
-          "url": "https://www.nngroup.com/articles/ai-agents-as-users/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Handmade Designs: The New Trust Signal",
-          "url": "https://www.nngroup.com/articles/handmade-designs/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        }
-      ]
-    },
-    {
       "category": "产品设计",
       "count": 13,
       "items": [
@@ -243,49 +182,49 @@
           "published_at": "2026-04-22T15:12:14"
         },
         {
-          "title": "飞书项目生态日：AI+项目管理，toB软件行业一个时代切换的信号",
-          "url": "https://www.woshipm.com/ai/6383689.html",
-          "author": "PM熊叔",
+          "title": "上线三月揽下400万下载，这支北京团队踩中海外AI社交缺口",
+          "url": "https://www.woshipm.com/share/6384078.html",
+          "author": "扬帆出海",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI Agent的崛起正在重塑SaaS行业的竞争逻辑，飞书项目通过三层架构革新，将AI从辅助层推向执行层。本文深度解析飞书项目如何通过CLI+MCP+AAMP协议重构项目管理范式，并揭秘制造业、自动驾驶等头部企业的实战案例，带你看懂AI时代协作工具的生态化转型与战略卡位。一年来，华尔街和美股投资者因为担心「AI Agent不再需要SaaS软件」，导致美股软件板块估值断崖式下跌。但4月23日的飞书项...",
-          "published_at": "2026-04-25T02:13:20"
+          "summary": "当海外用户厌倦了AI聊天的付费墙与内容限制时，Dootchi以惊人的速度闯入视野。这款北京团队打造的出海产品，凭借角色记忆与情感密度两大杀手锏，三个月斩获420万下载量。从拉美到北美，其轻量化订阅模式与病毒式投放在Reddit和TikTok掀起风暴，却也因对比广告陷入争议。本文深度拆解这款现象级AI社交应用如何用‘自由对话’改写赛道规则。近一段时间来，热衷于在AI机器人身上寻求情感寄托的海外用户坐...",
+          "published_at": "2026-04-25T07:30:00"
         },
         {
-          "title": "我做了一个工具，让剪映剪辑师彻底告别手动找 B-Roll 的痛苦",
-          "url": "https://www.woshipm.com/share/6382900.html",
-          "author": "被抢了名字的Kimi",
+          "title": "产品运营的工作思路和方法",
+          "url": "https://www.woshipm.com/share/6384075.html",
+          "author": "刘志兴",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "视频创作者们正在被B-Roll素材搜索这一隐形时间杀手困扰——看似简单的找素材环节，实则暗含多重判断逻辑。本文深度剖析创作者工作流中的关键断点，揭示AI时代效率工具设计的三个反直觉原则，助力创作者从机械劳动中解放双手，将时间真正还给创意本身。视频内容的生产门槛在降低，但优质内容的制作时间并没有减少。我和身边几个做视频的朋友聊过，他们都有一个共同的困惑：剪辑软件越来越智能，AI 字幕、一键调色、模板...",
-          "published_at": "2026-04-24T08:34:19"
+          "summary": "运营与产品的共生关系如何重构增长逻辑？本文深度拆解产品生命周期各阶段运营策略，从MVP验证到爆发期拉新，再到成熟期留存，揭秘如何通过精准定位、数据驱动和持续优化打造产品竞争力。有运营就有产品，产品是运营最核心的一部分，因为再好的运营也得配合产品的优势进行结合才能发挥产品效果。结合产品的各项环节运营和设计时，分享几点工作思路和思维供参考：一、先搞懂：你的产品到底是谁？（产品定位）运营的第一步，不是急...",
+          "published_at": "2026-04-25T07:26:06"
         },
         {
-          "title": "DeepSeek告别“孤胆英雄”时代",
-          "url": "https://www.woshipm.com/ai/6383412.html",
-          "author": "吴怼怼",
+          "title": "AI视频，这一次中国真赢了",
+          "url": "https://www.woshipm.com/share/6384073.html",
+          "author": "硅基观察Pro",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "DeepSeek V4的发布不仅标志着其在Agent能力和推理技术上的重大突破，更揭示了这家中国AI独角兽从研究团队向基础设施级玩家的战略转变。面对训练成本飙升、人才争夺战和生态布局需求，DeepSeek正在与腾讯、阿里展开18亿美元融资谈判，这场关乎中国大模型未来格局的资本博弈背后，隐藏着技术路线与商业逻辑的深层抉择。DeepSeek V4发布是确定的，而融资仍属于媒体报道和交易传闻阶段。Dee...",
-          "published_at": "2026-04-24T08:33:27"
+          "summary": "AI视频赛道正上演中美分道扬镳的戏剧性场景。当OpenAI关停Sora、Runway转型之际，中国的生数科技、爱诗科技却以10亿级融资冲向IPO。可灵、海螺等本土模型不仅占据Artificial Analysis榜单前列，更在商业变现上率先突破。本文将深度解析中国视频模型如何通过超短反馈回路实现'群体性领先'。这两天，生数科技、爱诗科技相继传出要港股IPO的消息。这个节奏，有点不讲道理。两家公司都...",
+          "published_at": "2026-04-25T07:23:38"
         },
         {
-          "title": "MVP是什么？如何快速设计MVP",
-          "url": "https://www.woshipm.com/pd/6382883.html",
-          "author": "鲁班快跑",
+          "title": "GPT-Image-2 的护城河不是「好看」，是「听话」",
+          "url": "https://www.woshipm.com/ai/6384035.html",
+          "author": "AGI Wish",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "MVP不是功能最少的版本，而是用最低成本验证核心假设的工具。本文通过Dropbox用一段视频获7.5万注册的经典案例、Zappos创始人亲自跑鞋店的”绿野仙踪”MVP，以及真实操盘的体育健身卡项目，系统拆解MVP的正确设计方法，帮助产品经理避开”假MVP”陷阱。一个让你醍醐灌顶的故事故事是这样的。2007年，一个叫德鲁·休斯顿（Drew Houston）的年轻人，有一个痛点——他在通勤路上没法访问...",
-          "published_at": "2026-04-24T07:32:19"
+          "summary": "GPT-Image-2的突破性表现彻底改写了AI工具的产品竞争逻辑。从精准还原小学数学试卷到一键生成抖音直播界面，这款工具不仅实现了视觉上的以假乱真，更在理解中文排版规则、界面设计规范等深层逻辑上展现了质变。本文将深度解析其11个实战玩法，拆解OpenAI如何通过「听话」三层理论颠覆传统AI生图市场，并揭示这一技术突破背后的商业战略与行业影响。当 AI 能生成以假乱真的数学试卷和抖音直播界面，Op...",
+          "published_at": "2026-04-25T07:21:44"
         },
         {
-          "title": "数字政府建设指南（经验篇·政策解读）",
-          "url": "https://www.woshipm.com/ai/6383093.html",
-          "author": "PM小刘",
+          "title": "当中型餐饮的扩张焦虑，遇上小红书的本地生活野心。",
+          "url": "https://www.woshipm.com/share/6384037.html",
+          "author": "妍霏聊品牌",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "数字政府建设中，政策解读是产品设计的基石。本文通过物业维修资金系统的实操案例，揭秘如何用GPT高效拆解政策条文：从关键内容抽取到业务语言转换，再到强制规则与边界条件的系统化梳理，AI工具正在重构G端产品的需求分析方法论。一、背景本指南，基于数字政府建设的要求和趋势，从多个角度阐述数字政府建设的行业经验和方式方法，包含涵义篇、体系篇、建设篇、经验篇等内容，供各位想从事了解或者已经从事政务行业的人士参...",
-          "published_at": "2026-04-24T07:12:31"
+          "summary": "中型中餐连锁正在面临新店冷启动难、老店增长停滞的困境。这些品牌既无头部企业的品牌光环，又失去了小店的个性魅力，陷入同质化竞争的泥潭。本文深度剖析这类餐饮企业的三大核心痛点，并提出小红书作为破解之道的关键价值——通过内容塑造'为什么非你不可'的品牌认知，帮助中型连锁在有限预算下实现市场突围。01 一个被遗忘的物种论坛里、饭局上、行业报告里，人们不断讨论海底捞的数字化、新消费餐饮的融资、茶饮连锁的股价...",
+          "published_at": "2026-04-25T07:17:33"
         }
       ]
     },
@@ -357,6 +296,15 @@
           "published_at": null
         },
         {
+          "title": "Don Molinico",
+          "url": "https://www.awwwards.com/sites/don-molinico",
+          "author": "AUGE EXPERIENCE",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Ashley Brooke",
           "url": "https://www.awwwards.com/sites/ashley-brooke",
           "author": "Ethan Suero",
@@ -418,75 +366,21 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Studio X",
-          "url": "https://www.awwwards.com/sites/studio-x",
-          "author": "Jordan Gilroy",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 1,
       "items": [
         {
-          "title": "Onboarding0",
-          "url": "https://www.producthunt.com/products/onboarding0",
-          "author": "Leon Arnovitz",
+          "title": "MiMo-V2.5 Voice",
+          "url": "https://www.producthunt.com/products/mimo-v2-5-voice",
+          "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn company knowledge into AI-guided onboardingDiscussion|Link",
-          "published_at": "2026-04-23T08:07:22"
-        },
-        {
-          "title": "Haiker",
-          "url": "https://www.producthunt.com/products/haiker",
-          "author": "Randy",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Hacker News App for non-native english speakerDiscussion|Link",
-          "published_at": "2026-04-23T14:43:39"
-        },
-        {
-          "title": "MailCue",
-          "url": "https://www.producthunt.com/products/mailcue-realistic-email-testing-server",
-          "author": "Akram H. Sharkar",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Run as a fully hardened production email server.Discussion|Link",
-          "published_at": "2026-04-23T17:36:07"
-        },
-        {
-          "title": "Universal Gas Framework (UGF)",
-          "url": "https://www.producthunt.com/products/universal-gas-framework-ugf",
-          "author": "Yash Singh",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Route Actions, Not LiquidityDiscussion|Link",
-          "published_at": "2026-04-23T13:09:27"
-        },
-        {
-          "title": "Nordcraft 2.0",
-          "url": "https://www.producthunt.com/products/toddle",
-          "author": "Salma Alam-Naylor",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "I design agent with full HTML/CSS control and SSRDiscussion|Link",
-          "published_at": "2026-04-23T10:43:25"
-        },
-        {
-          "title": "Your Name in Landsat 🛰️",
-          "url": "https://www.producthunt.com/products/your-name-in-landsat",
-          "author": "Adithya Shreshti",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The planet can spell your name – literally!Discussion|Link",
-          "published_at": "2026-04-23T08:50:38"
+          "summary": "Bilingual ASR for dialects, code-switching, and songsDiscussion|Link",
+          "published_at": "2026-04-23T18:36:14"
         }
       ]
     },
@@ -630,6 +524,15 @@
       "count": 6,
       "items": [
         {
+          "title": "掌控专注力，你需要做的和没必要做的",
+          "url": "https://sspai.com/post/108977",
+          "author": "知道分子吴先先",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点，少数派仅对标题和排 ...查看全文",
+          "published_at": "2026-04-25T10:18:17"
+        },
+        {
           "title": "本周看什么 | 最近值得一看的 11 部作品",
           "url": "https://sspai.com/post/109050",
           "author": "少数派编辑部",
@@ -673,15 +576,6 @@
           "source": "少数派",
           "summary": "汉王发布 Clear7C 彩色墨水屏电纸书、文石发布 Leaf5+ 黑白墨水屏电纸书等。查看全文",
           "published_at": "2026-04-24T00:52:21"
-        },
-        {
-          "title": "一口春鲜，半是江河半是海",
-          "url": "https://sspai.com/prime/story/recipes-for-spring",
-          "author": "潘誉晗",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "都说「人间四月鲜，尝鲜好时节」，说的不仅是各种时令蔬菜上市了，还有经过了一个冬季蛰伏后，开始出现在了菜市场海鲜档口的海鲜与河鲜。虽说现如今，随着时代的发展和科技的进步，我们的人工养殖水平已经日益见长， ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "published_at": "2026-04-23T10:38:26"
         }
       ]
     }
