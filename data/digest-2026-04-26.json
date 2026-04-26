@@ -1,26 +1,26 @@
 {
   "date": "2026-04-26T00:00:00",
-  "total_items": 56,
+  "total_items": 61,
   "sources": [
-    "Product Hunt",
-    "人人都是产品经理",
-    "少数派",
-    "UX Design CC",
-    "UX Planet",
-    "Sidebar",
     "A List Apart",
+    "人人都是产品经理",
+    "UX Design CC",
     "Intercom Blog",
-    "CSS-Tricks",
-    "优设网",
+    "Product Hunt",
     "Awwwards",
+    "优设网",
+    "CSS-Tricks",
+    "少数派",
+    "Sidebar",
     "NN/g (Nielsen Norman Group)",
+    "UX Planet",
     "Design Milk"
   ],
-  "generated_at": "2026-04-26T03:25:50.269881",
+  "generated_at": "2026-04-26T13:15:02.268742",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 5,
+      "count": 6,
       "items": [
         {
           "title": "The rulebook for designing AI experiences",
@@ -48,6 +48,15 @@
           "source": "UX Design CC",
           "summary": "A unique design challengePhoto byGeorg Arthur PfluegeronUnsplashAI has changed so many parts of our lives, for better and for worse. Beyond the uses we see every day, it’s also quietly serving groups ...",
           "published_at": "2026-04-23T08:11:50"
+        },
+        {
+          "title": "Vibe Coding Myths Debunked",
+          "url": "https://uxplanet.org/vibe-coding-myths-debunked-e0ad58e47e6a?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Vibe coding is an approach for generating functional products by providing natural language prompts to AI tools rather than writing code…Continue reading on UX Planet »",
+          "published_at": "2026-04-26T10:16:54"
         },
         {
           "title": "GPT 5.5 vs Opus 4.7: Which AI Model Is Best for Product Design?",
@@ -197,6 +206,33 @@
           "published_at": "2026-04-23T14:30:24"
         },
         {
+          "title": "公共卫生间的“纸困”",
+          "url": "https://www.woshipm.com/share/6384234.html",
+          "author": "第七题选C",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "公共卫生间里的抽纸装置看似简单，却隐藏着令人抓狂的设计痛点。从底部开口式卷纸的‘速度失配’到中心节流式的‘湿润手指困境’，这些被忽视的用户真实场景正在制造尴尬时刻。本文将深入拆解两种主流设计的致命缺陷，并给出低成本却高效的改良方案——在产品设计的夹缝中，如何用几毛钱的改动拯救用户的体面。场景公共卫生间里，墙壁上通常装着免费抽纸装置。市面上最常见的有两种：一种是底部开口的圆盘式，另一种是中心出纸的节...",
+          "published_at": "2026-04-26T05:47:04"
+        },
+        {
+          "title": "小红书经营实录：50条价值百万的实战心得",
+          "url": "https://www.woshipm.com/share/6384199.html",
+          "author": "林卿LinQ.",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "《rise100经营实录》揭示了小红书品牌经营的核心密码：从细分人群的产品微创新到买手经济的深度运营，这本经营宝典为商家提供了从产品研发到内容营销的全套方法论。本文提炼50条实战经验，带你看懂如何在小红书打造爆款、建立品牌壁垒，以及买手经济背后的商业逻辑与人群运营精髓。最近在阅读小红书出品的《rise100经营实录》，分享一下我的阅读笔记，如果你也在经营小红书，这篇笔记或许会有些许价值。01.看到...",
+          "published_at": "2026-04-26T03:39:38"
+        },
+        {
+          "title": "AI大事件：美团LongCat-2.0开放测试、黄仁勋要求员工使用OpenAI Codex、DeepSeek开启促销",
+          "url": "https://www.woshipm.com/ai/6384343.html",
+          "author": "AI星球",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "这周我试用了一个新出来的AI编程工具，复活了一个被弃置两年的开源项目——全程只用了三个小时。这个体验让我意识到，AI编程工具的能力边界，已经不是”辅助写代码”那么简单了。周末，AI圈有几个信号值得关注：美团的长文本模型LongCat-2.0挤进万亿俱乐部，地平线发布了被业内认为”打开舱驾融合新时代”的芯片”星空”，而全球AI编程工具正在加速替代传统IDE。更实际的一点是：CPU涨价了，而且可能还要...",
+          "published_at": "2026-04-26T03:12:45"
+        },
+        {
           "title": "做打车Agent半年我终于搞懂了置信度这个东西",
           "url": "https://www.woshipm.com/ai/6384136.html",
           "author": "鸣老师",
@@ -213,33 +249,6 @@
           "source": "人人都是产品经理",
           "summary": "Anthropic官方近期承认Claude Code存在性能下降问题，引发的不只是技术层面的讨论，更揭示了AI时代生产力工具的隐形控制权之争。从效率的呼吸机效应到平台级垄断的威胁，再到降智风险的蝴蝶效应，这场关于工具话语权的暗战正在深刻影响每一个从业者。本文将从产品逻辑与行业生态角度，剖析AI工具背后的权力博弈与生存策略。4月24日凌晨，Anthropic 官方发布了一篇引起技术圈地震的帖子。他们...",
           "published_at": "2026-04-26T02:39:45"
-        },
-        {
-          "title": "为电脑上的所有 Agent，统一一套 Skill 库",
-          "url": "https://www.woshipm.com/ai/6384088.html",
-          "author": "亨亨",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "AI工具的繁荣带来了Skill管理的混乱噩梦——多Agent并存时，重复安装、版本漂移、资产黑盒化等问题层出不穷。本文提出革命性的「中央Skill」方案，通过软链接技术实现跨工具统一管理，不仅彻底解决同步难题，更揭示了Skill作为AI时代确定性资产的核心价值：它是沉淀工作方法的SOP，会随AI进化而增值而非贬值。Skill 使用中易被忽视的割裂电脑上的 AI 工具越来越多，有 Claude Co...",
-          "published_at": "2026-04-26T01:42:47"
-        },
-        {
-          "title": "汽车行业出海，用户APP架构该“大一统”还是“搞割据”？",
-          "url": "https://www.woshipm.com/share/6384030.html",
-          "author": "翰文Hanwen",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "数字钥匙已成为新能源汽车APP的核心功能，一旦失效将引发车企的Top 0级危机。本文揭露了全球化架构中APP'掉链子'的两大痛点——高度耦合的架构设计与非标准化的发布流程，并提出了从'中心集成'转向'适度冗余'的解决方案，为车企守护品牌信任的护城河提供实战策略。在新能源汽车时代，用户APP的功能早已超越了单纯的远程控车或营销社区，它更核心的身份是数字钥匙。当用户APP承载了“钥匙”的功能时，其可靠...",
-          "published_at": "2026-04-26T00:36:52"
-        },
-        {
-          "title": "上线三月揽下400万下载，这支北京团队踩中海外AI社交缺口",
-          "url": "https://www.woshipm.com/share/6384078.html",
-          "author": "扬帆出海",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "当海外用户厌倦了AI聊天的付费墙与内容限制时，Dootchi以惊人的速度闯入视野。这款北京团队打造的出海产品，凭借角色记忆与情感密度两大杀手锏，三个月斩获420万下载量。从拉美到北美，其轻量化订阅模式与病毒式投放在Reddit和TikTok掀起风暴，却也因对比广告陷入争议。本文深度拆解这款现象级AI社交应用如何用‘自由对话’改写赛道规则。近一段时间来，热衷于在AI机器人身上寻求情感寄托的海外用户坐...",
-          "published_at": "2026-04-25T07:30:00"
         }
       ]
     },
@@ -299,6 +308,15 @@
           "category": "网页设计",
           "source": "A List Apart",
           "summary": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things t...",
+          "published_at": null
+        },
+        {
+          "title": "Wild Week - Athens",
+          "url": "https://www.awwwards.com/sites/wild-week-athens",
+          "author": "WILD",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
           "published_at": null
         },
         {
@@ -363,22 +381,49 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Evolve",
-          "url": "https://www.awwwards.com/sites/evolve-2",
-          "author": "Evolve",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 1,
+      "count": 5,
       "items": [
+        {
+          "title": "QuickCompare by Trismik",
+          "url": "https://www.producthunt.com/products/quickcompare-by-trismik",
+          "author": "Aleksandar Blazhev",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Compare LLMs on your data, measure, and pick the best.Discussion|Link",
+          "published_at": "2026-04-24T14:07:21"
+        },
+        {
+          "title": "Claude Connectors",
+          "url": "https://www.producthunt.com/products/claude-connectors",
+          "author": "Rohan Chaubey",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "New connectors in Claude for everyday lifeDiscussion|Link",
+          "published_at": "2026-04-25T04:15:20"
+        },
+        {
+          "title": "Edgee Team",
+          "url": "https://www.producthunt.com/products/edgee",
+          "author": "fmerian",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Strava for your coding assistantsDiscussion|Link",
+          "published_at": "2026-04-24T12:51:45"
+        },
+        {
+          "title": "GPT-5.5 by OpenAI",
+          "url": "https://www.producthunt.com/products/openai",
+          "author": "Rohan Chaubey",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "OpenAI's smartest and most intuitive to use model yetDiscussion|Link",
+          "published_at": "2026-04-25T03:54:05"
+        },
         {
           "title": "MiMo-V2.5 Voice",
           "url": "https://www.producthunt.com/products/mimo-v2-5-voice",
@@ -521,6 +566,15 @@
       "count": 6,
       "items": [
         {
+          "title": "App+1 | 谈谈网页浏览器中的一个异类：qutebrowser",
+          "url": "https://sspai.com/post/98931",
+          "author": "Cheech",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "对以键盘操作为优先的用户来说，一旦学会了如何退出Vim，可能不消多久，便想在肉眼可见之处使用Vim的这套模态编辑。多年来，不少软件都内置了Vim风格的按键绑定，来迎合这类用户的肌肉记忆。其中，更有一些 ...查看全文",
+          "published_at": "2026-04-26T07:00:00"
+        },
+        {
           "title": "掌控专注力，你需要做的和没必要做的",
           "url": "https://sspai.com/post/108977",
           "author": "知道分子吴先先",
@@ -564,15 +618,6 @@
           "source": "少数派",
           "summary": "折叠屏手机这两年并不太好过。按照IDC的年度报告，2025年中国折叠屏手机市场出货约1001万台，同比增速9.2%，而2024年这个数字还是30.8%——一年之间，增速接近腰斩。而折叠屏手机在全球智能 ...查看全文",
           "published_at": "2026-04-24T01:54:28"
-        },
-        {
-          "title": "派早报：OpenAI 发布 GPT-5.5 系列模型等",
-          "url": "https://sspai.com/post/109032",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "汉王发布 Clear7C 彩色墨水屏电纸书、文石发布 Leaf5+ 黑白墨水屏电纸书等。查看全文",
-          "published_at": "2026-04-24T00:52:21"
         }
       ]
     }
