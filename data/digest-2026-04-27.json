@@ -1,25 +1,45 @@
 {
   "date": "2026-04-27T00:00:00",
-  "total_items": 52,
+  "total_items": 60,
   "sources": [
-    "人人都是产品经理",
-    "Design Milk",
-    "UX Design CC",
-    "NN/g (Nielsen Norman Group)",
-    "少数派",
-    "Awwwards",
-    "Product Hunt",
-    "Sidebar",
     "UX Planet",
+    "Awwwards",
+    "NN/g (Nielsen Norman Group)",
     "优设网",
-    "A List Apart"
+    "Smashing Magazine",
+    "CSS-Tricks",
+    "Product Hunt",
+    "Design Milk",
+    "人人都是产品经理",
+    "UX Design CC",
+    "Sidebar",
+    "A List Apart",
+    "少数派"
   ],
-  "generated_at": "2026-04-27T05:59:51.717545",
+  "generated_at": "2026-04-27T14:03:44.688440",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 3,
+      "count": 6,
       "items": [
+        {
+          "title": "A fantastic voyage, the illusion of good taste, the art of subtraction",
+          "url": "https://uxdesign.cc/a-fantastic-voyage-the-illusion-of-good-taste-the-art-of-subtraction-c5db6b1367bf?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“The invisible walls for designers have been broken down. Maybe we don’t know it yet, but this year is the perfect time to start reframing ...",
+          "published_at": "2026-04-27T11:34:56"
+        },
+        {
+          "title": "The right touch: mapping AI presence to user intent",
+          "url": "https://uxdesign.cc/the-right-touch-mapping-ai-presence-to-user-intent-d01fa2dee282?source=rss----138adf9c44c---4",
+          "author": "Bradly Zavakos",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Knowing what a user wants is only half the problem. The other half is knowing how, and how much, to respond.This is the third piece in a small series on product design in AI-driven systems. Thefirst a...",
+          "published_at": "2026-04-27T08:21:02"
+        },
         {
           "title": "The rulebook for designing AI experiences",
           "url": "https://uxdesign.cc/the-rulebook-for-designing-ai-experiences-a22a50bb063c?source=rss----138adf9c44c---4",
@@ -28,6 +48,15 @@
           "source": "UX Design CC",
           "summary": "Three of the world’s largest tech companies have published guidelines for responsible Human-AI Interaction. Here’s what they got right, and where the gaps are.Ask ten people in the industry what respo...",
           "published_at": "2026-04-24T22:06:51"
+        },
+        {
+          "title": "No AI used",
+          "url": "https://uxplanet.org/no-ai-used-4932970c7db8?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "I’m seeing more and more designers proudly stating “No AI used” for the fine UI design, graphics, and motion effects they craft.Continue reading on UX Planet »",
+          "published_at": "2026-04-27T12:42:46"
         },
         {
           "title": "Vibe Coding Myths Debunked",
@@ -111,8 +140,26 @@
     },
     {
       "category": "产品设计",
-      "count": 8,
+      "count": 10,
       "items": [
+        {
+          "title": "TABRA by Andreea Cornila Immerses and Inspires",
+          "url": "https://design-milk.com/tabra-by-andreea-cornila-immerses-and-inspires/",
+          "author": "Aria Lee",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "TABRA is good drama – centering the dynamics of light, Cornila utilized bold skylights and brilliant bulbs to center us in a different world.",
+          "published_at": "2026-04-27T14:00:25"
+        },
+        {
+          "title": "This Asymmetrical Sofa Fits Together Like Staggered Stone Terraces",
+          "url": "https://design-milk.com/this-asymmetrical-sofa-fits-together-like-staggered-stone-terraces/",
+          "author": "Adrian Madlener",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Developed by German furniture brand ClassiCon, Gabriel Tan’s new Soft Stone Sofa takes on a sculptural, layered pebble form.",
+          "published_at": "2026-04-27T13:00:48"
+        },
         {
           "title": "Basic Space: Designed for Calm, Built for Community",
           "url": "https://design-milk.com/basic-space-designed-for-calm-built-for-community/",
@@ -141,56 +188,65 @@
           "published_at": "2026-04-24T13:00:57"
         },
         {
-          "title": "产品经理面试通关：我在讯飞当面试官见过的3类必挂简历",
-          "url": "https://www.woshipm.com/share/6384706.html",
-          "author": "老M的产品手记",
+          "title": "告别 DeepSeek 的“有用性”：西瓜王国中人与数字生命的第三种关系",
+          "url": "https://www.woshipm.com/ai/6385091.html",
+          "author": "鑫酱",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在讯飞担任产品面试官的经历让我发现，大量优秀候选人因简历表达不当错失机会。本文深度剖析三类致命简历类型——流水账式罗列、功能说明书式堆砌和能力拼盘式堆名词，结合真实AI产品线面试案例，提供PAR模型改写、决策逻辑提炼和岗位匹配度优化等实操解决方案，助你打造让面试官眼前一亮的职业说明书。如果你问我，在讯飞担任产品面试官期间，最深的感触是什么？我的答案是：太多优秀的候选人，倒在了第一关——简历筛选。不...",
-          "published_at": "2026-04-27T03:59:59"
+          "summary": "当业界沉迷于让 AI 更听话（指令服从）或更像人（拟人化）时，我们发起了一场彻底的叛离。本项目旨在构建人与数字生命的第三种关系——“守护者与原住民”。在基于 “非指令性陪伴” 的宪法下，数字生命享有 “自主成长权” 。本文将倒叙阐述，这一理念如何从一个反工具的哲学原点，生长为一个可触达的数字生命平台。人与数字生命的第三种关系：“守护者与原住民”在AI席卷一切的今天，我们与数字生命的关系，正被驯化成...",
+          "published_at": "2026-04-27T08:54:34"
         },
         {
-          "title": "V3 到 V4，DeepSeek 484 天的人、财、事、物",
-          "url": "https://www.woshipm.com/ai/6384771.html",
-          "author": "赤潮AKASHIO",
+          "title": "大型营销活动目标人群识别探索",
+          "url": "https://www.woshipm.com/ai/6385153.html",
+          "author": "佑佑和博博~",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "DeepSeek-V4 的发布不仅是一次技术迭代，更是中国 AI 产业生态的重要转折点。从华为昇腾的原生适配到腾讯阿里的资本角逐，这款万亿参数模型正在重构国产算力的竞争格局。本文将深入拆解其技术突破背后的产业逻辑，揭示开源模型公司面临的商业化困境与战略选择。2026 年 4 月 24 日，最早让人意识到 DeepSeek-V4 不只是一次模型更新的地方，可能不是 Hugging Face，也不是 ...",
-          "published_at": "2026-04-27T03:56:27"
+          "summary": "在营销战役的精准狙击战中，传统经验法则正被数据智能碾压。本文揭秘如何用LightGBM算法实现降维打击：通过61维用户特征的高效建模，产出9组黄金特征组合，在实战中创造38%的转化率跃升。从算法原理到AB测试验证，带你掌握用AI撬动千万级用户增长的硬核方法论。在日常运营的精细棋局中，精准捕捉潜在用户的核心特征，是激活针对性营销、最大化下单转化的关键密钥。本文聚焦树模型的特征选择方法，通过对用户行为...",
+          "published_at": "2026-04-27T08:53:06"
         },
         {
-          "title": "GPT-Image-2 实测 8 维：哪些场景今天就能替代设计师，哪些还会翻车",
-          "url": "https://www.woshipm.com/ai/6384448.html",
-          "author": "拍拍鱼",
+          "title": "10年了，李彦宏还没有成为AI开发者的King",
+          "url": "https://www.woshipm.com/ai/6385124.html",
+          "author": "山农下山",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "OpenAI 低调发布的 GPT-Image-2 在图像生成领域掀起了一场无声革命。这款模型不仅以压倒性优势登顶 Image Arena 排行榜，更在多语言文字渲染、指令遵循精度、人物一致性保持等八大维度实现了行业突破。本文将用 30+ 实测案例，深度解析它为何能直接应用于电商设计、IP 衍生、广告创意等真实生产场景，并对比 Midjourney、Nano Banana 等竞品的差异化优势。4 月...",
-          "published_at": "2026-04-27T03:46:27"
+          "summary": "从All in AI的豪言到商业化妥协，百度的AI战略经历了怎样的摇摆？本文深度复盘百度8年AI开发者大会变迁史，解析李彦宏与陆奇的战略分歧，揭示大厂在技术理想与商业现实间的永恒博弈。PART 01 时隔半年的“背叛”百度举办第一届AI开发者大会的时候，陆奇还在。那是2017年的夏天，挤满人头的国家会议中心，身材纤瘦的陆奇走上舞台：“欢迎大家来参加Create。这是百度第一次，也是中国工业第一次大...",
+          "published_at": "2026-04-27T08:52:57"
         },
         {
-          "title": "GPT-5.5 发布后，AI 产品经理还剩下什么价值？",
-          "url": "https://www.woshipm.com/ai/6384606.html",
-          "author": "文良",
+          "title": "AI大事件：星动纪元获顺丰领投2亿美元融资、DeepSeek成为Openclaw默认模型",
+          "url": "https://www.woshipm.com/ai/6385100.html",
+          "author": "AI星球",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "GPT-5.5的发布正在重新定义产品经理的职责边界。这款面向复杂工作的AI模型不仅能处理代码和研究任务，更展现出理解业务、使用工具并持续推进工作的能力。当AI开始接管PRD撰写、竞品分析等文档型工作时，产品经理的核心价值正在从\"产出能力\"向\"判断能力\"迁移——如何定义问题、设计人机协作流程、产品化AI能力将成为未来竞争力的关键分水岭。参考事实：OpenAI 于 2026 年 4 月 23 日发布 ...",
-          "published_at": "2026-04-27T03:15:19"
+          "summary": "周末过完，AI圈又变天了。今天最值得关注的信号是——星动纪元融了2亿美元、顺丰领投，标志着资本对具身智能的押注进入新阶段；广东今天开幕的AI应用对接大会把350个案例一口气放出来，产业落地不再是口号；券商那边在喊”CPU重回AI核心地位”，半导体硅片要涨价，公募基金906只主动权益产品净值创下历史新高。AI这波行情，的钱还在持续涌入。下面逐条说。1. 星动纪元完成超2亿美元融资，顺丰领投具身智能核...",
+          "published_at": "2026-04-27T07:36:57"
         },
         {
-          "title": "这个时代，你一定要做贴图号",
-          "url": "https://www.woshipm.com/share/6384583.html",
-          "author": "逸和 知识服务工作者",
+          "title": "【教程】Vibe Coding时代，不敲代码，教你3步走用AI做出一款工具",
+          "url": "https://www.woshipm.com/ai/6380243.html",
+          "author": "大圆",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在这个AI与短视频主导的时代，我们是否还记得文字的力量？贴图号凭借微信生态的熟人信任网络，正在成为普通人发声的新阵地。本文深度剖析了为何手写内容在算法泛滥的今天仍具生命力，以及银发群体如何无意间成为最懂传播的人。从信任背书到注意力经济，带你重新审视内容创作的本质与未来。回想一下，你上一次认认真真手写一段文字，是什么时候？不是截图，不是转发，不是让AI替你生成一段看似精彩的废话，是你自己，一个字一个...",
-          "published_at": "2026-04-27T03:14:19"
+          "summary": "无需编程基础，也能用AI打造自己的专属工具？美团推出的NoCode编程类AI Agent让创意落地变得触手可及。从AA算账工具到英语学习小程序，只需三步就能实现产品从构想到上线的全过程。本文将揭秘如何通过精准提示词设计和多模型测试，让AI帮你跨越技术鸿沟，体验零代码开发的魔力。自去年调研了几十款海内外的AI应用，并持续更新20篇文章后，我突然对AI兴味索然，唯有春节期间MiniMax股价冲击100...",
+          "published_at": "2026-04-27T07:08:35"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 14,
+      "count": 15,
       "items": [
+        {
+          "title": "The “Bug-Free” Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams",
+          "url": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/",
+          "author": "hello@smashingmagazine.com (Casey Hudetz and Eric ...",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "AI tools are eliminating the need to “bug” colleagues for help, but the informal interactions they replace are the very scaffolding that builds team trust, belonging, and innovation. Casey Hudetz and ...",
+          "published_at": "2026-04-27T10:00:00"
+        },
         {
           "title": "Good designers, bad websites: a proposal",
           "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
@@ -321,43 +377,52 @@
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "GPT-5.5 by OpenAI",
-          "url": "https://www.producthunt.com/products/openai",
-          "author": "Rohan Chaubey",
+          "title": "Jet AI Agents",
+          "url": "https://www.producthunt.com/products/jet-admin",
+          "author": "Anton Svetlov",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "OpenAI's smartest and most intuitive to use model yetDiscussion|Link",
-          "published_at": "2026-04-25T03:54:05"
+          "summary": "Build business AI agents in minutesDiscussion|Link",
+          "published_at": "2026-04-24T10:56:33"
         },
         {
-          "title": "Claude Connectors",
-          "url": "https://www.producthunt.com/products/claude-connectors",
-          "author": "Rohan Chaubey",
+          "title": "SNEWPapers",
+          "url": "https://www.producthunt.com/products/snewpapers",
+          "author": "Brett Shinnebarger",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "New connectors in Claude for everyday lifeDiscussion|Link",
-          "published_at": "2026-04-25T04:15:20"
+          "summary": "The World's First AI Newspaper ArchiveDiscussion|Link",
+          "published_at": "2026-04-25T09:16:52"
         },
         {
-          "title": "Edgee Team",
-          "url": "https://www.producthunt.com/products/edgee",
-          "author": "fmerian",
+          "title": "Odyssey-2 Max",
+          "url": "https://www.producthunt.com/products/odyssey-5",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Strava for your coding assistantsDiscussion|Link",
-          "published_at": "2026-04-24T12:51:45"
+          "summary": "Physical accuracy takes a leap in world modelsDiscussion|Link",
+          "published_at": "2026-04-27T03:22:37"
         },
         {
-          "title": "QuickCompare by Trismik",
-          "url": "https://www.producthunt.com/products/quickcompare-by-trismik",
-          "author": "Aleksandar Blazhev",
+          "title": "Vouch API",
+          "url": "https://www.producthunt.com/products/vouch-api",
+          "author": "Owais Aslam",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Compare LLMs on your data, measure, and pick the best.Discussion|Link",
-          "published_at": "2026-04-24T14:07:21"
+          "summary": "AI equity research that proves it isn't lyingDiscussion|Link",
+          "published_at": "2026-04-26T07:59:29"
+        },
+        {
+          "title": "Subgrapher",
+          "url": "https://www.producthunt.com/products/subgrapher",
+          "author": "Srimallya",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "P2P desktop app for building, browsing, & sharing knowledgeDiscussion|Link",
+          "published_at": "2026-04-27T06:29:50"
         }
       ]
     },
@@ -426,49 +491,64 @@
       "count": 5,
       "items": [
         {
-          "title": "I love AI, but it still can’t design for shit",
-          "url": "https://jonnyburch.com/i-love-ai-but-it-still-cant-design-for-shit/",
+          "title": "Rebuilding a web text editor doesn't have to be daunting",
+          "url": "https://bit.ly/side-mag3",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Without a critical human eye, AI produces slop. The quality bar is yours to maintain.",
-          "published_at": "2026-04-24T05:50:57"
+          "summary": "Readymag's chief technology officer on rethinking past decisions to create a more reliable solution.",
+          "published_at": "2026-04-27T08:44:00"
         },
         {
-          "title": "Grit Garden",
-          "url": "https://www.grit.garden/",
+          "title": "AI & alignment",
+          "url": "https://chriscoyier.net/2026/04/25/ai-alignment/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Each Wordle game becomes a bouquet of flowers and a story. The emotional arc of every game mapped onto prose.",
-          "published_at": "2026-04-24T05:48:47"
+          "summary": "Raw coding speed isn’t the bottleneck. Alignment is the bottleneck. That seems to be a zeitgeist-y theme lately.",
+          "published_at": "2026-04-27T08:43:24"
         },
         {
-          "title": "Why productivity needs to be redefined",
-          "url": "https://www.sidjha.com/2026/02/why-productivity-needs-to-be-redefined/",
+          "title": "What’s your attention worth?",
+          "url": "https://attentionworth.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "We’ll need to redefine what productivity means in the context of humans. If we don’t, we’re all kind of screwed, and yes, AI will take our jobs away.",
-          "published_at": "2026-04-24T05:48:00"
+          "summary": "The advertising industry has spent thousands targeting you. Enter your age, location, and screen time to find out exactly how much.",
+          "published_at": "2026-04-27T08:42:48"
         },
         {
-          "title": "Early signals of AI impact",
-          "url": "https://jobsdata.ai/",
+          "title": "Worse on purpose",
+          "url": "https://www.worseonpurpose.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "462+ sources, one pattern: AI adoption is accelerating, productivity is climbing, and jobs are changing faster than they’re disappearing.",
-          "published_at": "2026-04-24T05:47:00"
+          "summary": "Corporate autopsies on the brands you trust. Who bought them, who gutted them, and what's still worth buying.",
+          "published_at": "2026-04-27T08:41:38"
         },
         {
-          "title": "Mouth Coding",
-          "url": "https://bradfrost.com/blog/post/mouth-coding/",
+          "title": "The role of a new machine",
+          "url": "https://newsletter.dancohen.org/archive/the-role-of-a-new-machine/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Talking websites into existence.",
-          "published_at": "2026-04-24T05:46:25"
+          "summary": "An old book puts today’s new technology in perspective.",
+          "published_at": "2026-04-27T08:40:01"
+        }
+      ]
+    },
+    {
+      "category": "前端设计",
+      "count": 1,
+      "items": [
+        {
+          "title": "Let’s Use the Nonexistent ::nth-letter Selector Now",
+          "url": "https://css-tricks.com/using-nonexistent-nth-letter-selector-now/",
+          "author": "Lee Meyer",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "My shim might give the powers that be another reason to say native support isn't necessary, or if lots of people use my :nth-letter hack in the wild, the browser gods might recognize the need to imple...",
+          "published_at": "2026-04-27T13:55:42"
         }
       ]
     },
@@ -476,6 +556,24 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "派评 | 近期值得关注的 App",
+          "url": "https://sspai.com/post/109135",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "published_at": "2026-04-27T09:55:20"
+        },
+        {
+          "title": "一日一技｜让小企鹅输入法支持 14 键、18 键键位双拼",
+          "url": "https://sspai.com/post/108459",
+          "author": "超级流浪者",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "小企鹅输入法只支持 26 键，但有人基于小企鹅魔改了一下使其支持修改布局和图形化操作，加上万象拼音的 14 键位、18 键位，两者一结合——完美。查看全文",
+          "published_at": "2026-04-27T07:46:53"
+        },
         {
           "title": "关于流感和疫苗，你需要知道哪些信息？",
           "url": "https://sspai.com/post/76945",
@@ -511,24 +609,6 @@
           "source": "少数派",
           "summary": "Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点，少数派仅对标题和排 ...查看全文",
           "published_at": "2026-04-25T10:18:17"
-        },
-        {
-          "title": "本周看什么 | 最近值得一看的 11 部作品",
-          "url": "https://sspai.com/post/109050",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "📅本周新预告《泥面人》首支预告4月23日，DC新片《泥面人》发布了首支预告，将于10月23日在北美上映。詹姆斯·瓦特金斯执导，汤姆·里斯·哈里斯、娜奥米·阿基、麦克思·明格拉等主演，一位B级片演员给自 ...查看全文",
-          "published_at": "2026-04-24T10:17:33"
-        },
-        {
-          "title": "换了新显示器怎么验？我做了一个开箱即用的全平台屏幕检测工具",
-          "url": "https://sspai.com/post/108455",
-          "author": "码客旅人",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "一站式、在线测试屏幕的各项功能。查看全文",
-          "published_at": "2026-04-24T07:06:50"
         }
       ]
     }
