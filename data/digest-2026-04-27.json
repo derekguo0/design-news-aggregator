@@ -2,19 +2,19 @@
   "date": "2026-04-27T00:00:00",
   "total_items": 52,
   "sources": [
-    "A List Apart",
-    "优设网",
-    "Product Hunt",
-    "Design Milk",
-    "少数派",
-    "UX Design CC",
-    "UX Planet",
     "人人都是产品经理",
-    "Sidebar",
+    "Design Milk",
+    "UX Design CC",
     "NN/g (Nielsen Norman Group)",
-    "Awwwards"
+    "少数派",
+    "Awwwards",
+    "Product Hunt",
+    "Sidebar",
+    "UX Planet",
+    "优设网",
+    "A List Apart"
   ],
-  "generated_at": "2026-04-27T03:30:16.987106",
+  "generated_at": "2026-04-27T05:59:51.717545",
   "categories": [
     {
       "category": "用户体验设计",
@@ -141,49 +141,49 @@
           "published_at": "2026-04-24T13:00:57"
         },
         {
-          "title": "劝你不要做GEO！战略偷的懒，都会用预算还回去",
-          "url": "https://www.woshipm.com/share/6384620.html",
-          "author": "小僧鲲鲲",
+          "title": "产品经理面试通关：我在讯飞当面试官见过的3类必挂简历",
+          "url": "https://www.woshipm.com/share/6384706.html",
+          "author": "老M的产品手记",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "第一批做GEO的已经吃大亏：堆关键词、改TDK、发种草，结果AI推荐里依然查无此牌。2026年AI算法已全面升级为语义向量理解+多源交叉验证，单点内容被屏蔽概率高达95%。GEO不是AI版SEO，而是品牌必须构建的顶层战略。第一批做GEO的已经吃大亏！教训值千金你是不是也陷入了这样的GEO困境：堆了满屏的行业关键词，改了官网的 TDK，发了几十篇种草内容，甚至找了垂类 KOL 做了背书，结果主流 ...",
-          "published_at": "2026-04-27T02:54:50"
+          "summary": "在讯飞担任产品面试官的经历让我发现，大量优秀候选人因简历表达不当错失机会。本文深度剖析三类致命简历类型——流水账式罗列、功能说明书式堆砌和能力拼盘式堆名词，结合真实AI产品线面试案例，提供PAR模型改写、决策逻辑提炼和岗位匹配度优化等实操解决方案，助你打造让面试官眼前一亮的职业说明书。如果你问我，在讯飞担任产品面试官期间，最深的感触是什么？我的答案是：太多优秀的候选人，倒在了第一关——简历筛选。不...",
+          "published_at": "2026-04-27T03:59:59"
         },
         {
-          "title": "下一代协作工具的第一用户居然不是人",
-          "url": "https://www.woshipm.com/ai/6384349.html",
-          "author": "鸣老师",
+          "title": "V3 到 V4，DeepSeek 484 天的人、财、事、物",
+          "url": "https://www.woshipm.com/ai/6384771.html",
+          "author": "赤潮AKASHIO",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "下一代协作工具正在颠覆传统认知——AI正成为一等用户。这款AI原生协作工具彻底重构了文件组织逻辑，所有存储结构都为机器阅读优化，人类反而退居二线。本文将揭示这种设计范式如何解决飞书在AI协作上的短板，同时剖析其在多模态内容处理和RAG检索上的技术挑战。你以为协作工具是给人用的对吧。我之前也这么想。直到我看到一款新型协作工具，才发现下一代协作工具的第一用户可能不是人，而是AI。它的一等使用者是AI，...",
-          "published_at": "2026-04-27T02:53:06"
+          "summary": "DeepSeek-V4 的发布不仅是一次技术迭代，更是中国 AI 产业生态的重要转折点。从华为昇腾的原生适配到腾讯阿里的资本角逐，这款万亿参数模型正在重构国产算力的竞争格局。本文将深入拆解其技术突破背后的产业逻辑，揭示开源模型公司面临的商业化困境与战略选择。2026 年 4 月 24 日，最早让人意识到 DeepSeek-V4 不只是一次模型更新的地方，可能不是 Hugging Face，也不是 ...",
+          "published_at": "2026-04-27T03:56:27"
         },
         {
-          "title": "地铁车厢“反着”的宣传语",
-          "url": "https://www.woshipm.com/share/6384236.html",
-          "author": "第七题选C",
+          "title": "GPT-Image-2 实测 8 维：哪些场景今天就能替代设计师，哪些还会翻车",
+          "url": "https://www.woshipm.com/ai/6384448.html",
+          "author": "拍拍鱼",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "地铁车厢里的标语设计暗藏玄机——那些看似随意的反字其实是对人体工学的极致考量。当乘客自然抬头时，视线远端永远呈现正向文字，这种设计不仅降低阅读负担，更揭示出优秀体验设计的本质：用最朴素的调整精准匹配用户行为轨迹。场景乘坐地铁，座位分居车厢两侧。车厢三面都贴有宣传标语，内容是关于垃圾分类和生态卫生的。观察无意间抬头看向顶部的标语时，第一眼发现很多句标语的字，朝向不同——有的是正的，有的是反着的。仔细...",
-          "published_at": "2026-04-27T02:52:50"
+          "summary": "OpenAI 低调发布的 GPT-Image-2 在图像生成领域掀起了一场无声革命。这款模型不仅以压倒性优势登顶 Image Arena 排行榜，更在多语言文字渲染、指令遵循精度、人物一致性保持等八大维度实现了行业突破。本文将用 30+ 实测案例，深度解析它为何能直接应用于电商设计、IP 衍生、广告创意等真实生产场景，并对比 Midjourney、Nano Banana 等竞品的差异化优势。4 月...",
+          "published_at": "2026-04-27T03:46:27"
         },
         {
-          "title": "AI聊天就能点外卖：AI正在从工具升级为消费入口和重构消费体验",
-          "url": "https://www.woshipm.com/share/6384604.html",
-          "author": "品牌市场相对论",
+          "title": "GPT-5.5 发布后，AI 产品经理还剩下什么价值？",
+          "url": "https://www.woshipm.com/ai/6384606.html",
+          "author": "文良",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "对着AI说“帮我点一份30分钟内到家、50元以内的家常菜”，短短10秒，AI精准推荐3家店铺并自动勾选常点配菜。AI正在从工具升级为消费入口，重构营销逻辑：品牌竞争从“争夺注意力”转向“进入AI推荐池”。周末的傍晚，不想打开多个外卖APP翻找比价，也懒得纠结菜品口味与配送时效，我只是对着阿里千问随口说了一句“帮我点一份清淡不油腻、30分钟内送到家的家常菜，预算50元以内”，短短10秒，AI就精准推...",
-          "published_at": "2026-04-27T02:41:27"
+          "summary": "GPT-5.5的发布正在重新定义产品经理的职责边界。这款面向复杂工作的AI模型不仅能处理代码和研究任务，更展现出理解业务、使用工具并持续推进工作的能力。当AI开始接管PRD撰写、竞品分析等文档型工作时，产品经理的核心价值正在从\"产出能力\"向\"判断能力\"迁移——如何定义问题、设计人机协作流程、产品化AI能力将成为未来竞争力的关键分水岭。参考事实：OpenAI 于 2026 年 4 月 23 日发布 ...",
+          "published_at": "2026-04-27T03:15:19"
         },
         {
-          "title": "卖完最后一单后，我才发现：很多人不会做项目收尾",
-          "url": "https://www.woshipm.com/share/6384582.html",
-          "author": "曙欧巴",
+          "title": "这个时代，你一定要做贴图号",
+          "url": "https://www.woshipm.com/share/6384583.html",
+          "author": "逸和 知识服务工作者",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "很多人做电商只关注上架、出单、回款，却忽略项目收尾。作者分享清库存经验：不可售库存提交移除处理，腾仓位、止损。完整闭环应该是：选品→上架→出单→回款→清库存→复盘。最后两步，才决定你能不能长期做下去。这两天，我把之前那个木制按摩工具SKU清了库存。因为货基本卖完了，昨天调了一次价格后，又出了一单，后台现在只剩预留订单和一批不可售库存。很多人理解电商，只停留在：上架、出单、回款。但真实运营里，还有一...",
-          "published_at": "2026-04-27T02:37:48"
+          "summary": "在这个AI与短视频主导的时代，我们是否还记得文字的力量？贴图号凭借微信生态的熟人信任网络，正在成为普通人发声的新阵地。本文深度剖析了为何手写内容在算法泛滥的今天仍具生命力，以及银发群体如何无意间成为最懂传播的人。从信任背书到注意力经济，带你重新审视内容创作的本质与未来。回想一下，你上一次认认真真手写一段文字，是什么时候？不是截图，不是转发，不是让AI替你生成一段看似精彩的废话，是你自己，一个字一个...",
+          "published_at": "2026-04-27T03:14:19"
         }
       ]
     },
@@ -243,6 +243,15 @@
           "category": "网页设计",
           "source": "A List Apart",
           "summary": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things t...",
+          "published_at": null
+        },
+        {
+          "title": "Detroit Paris",
+          "url": "https://www.awwwards.com/sites/detroit-paris",
+          "author": "Thomas Carré",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
           "published_at": null
         },
         {
@@ -307,15 +316,6 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "The Agency of Love & Logic",
-          "url": "https://www.awwwards.com/sites/the-agency-of-love-logic",
-          "author": "The Agency of Love & Logic",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -333,15 +333,6 @@
           "published_at": "2026-04-25T03:54:05"
         },
         {
-          "title": "Edgee Team",
-          "url": "https://www.producthunt.com/products/edgee",
-          "author": "fmerian",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Strava for your coding assistantsDiscussion|Link",
-          "published_at": "2026-04-24T12:51:45"
-        },
-        {
           "title": "Claude Connectors",
           "url": "https://www.producthunt.com/products/claude-connectors",
           "author": "Rohan Chaubey",
@@ -349,6 +340,15 @@
           "source": "Product Hunt",
           "summary": "New connectors in Claude for everyday lifeDiscussion|Link",
           "published_at": "2026-04-25T04:15:20"
+        },
+        {
+          "title": "Edgee Team",
+          "url": "https://www.producthunt.com/products/edgee",
+          "author": "fmerian",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Strava for your coding assistantsDiscussion|Link",
+          "published_at": "2026-04-24T12:51:45"
         },
         {
           "title": "QuickCompare by Trismik",
@@ -477,6 +477,15 @@
       "count": 6,
       "items": [
         {
+          "title": "关于流感和疫苗，你需要知道哪些信息？",
+          "url": "https://sspai.com/post/76945",
+          "author": "鸿苓",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "冬天往往是传染病肆虐的季节。除了在全世界范围内流行已久的新冠病毒，引起季节性流感的流感病毒也不可小视。想要预防流感带来的后果，最简单的方法就是接种流感疫苗。本文就将介绍在打流感疫苗之前，关于流感和疫苗，你需要知道什么。查看全文",
+          "published_at": "2026-04-27T03:30:55"
+        },
+        {
           "title": "派早报：X 推出聊天软件 XChat",
           "url": "https://sspai.com/post/109114",
           "author": "少数派编辑部",
@@ -520,15 +529,6 @@
           "source": "少数派",
           "summary": "一站式、在线测试屏幕的各项功能。查看全文",
           "published_at": "2026-04-24T07:06:50"
-        },
-        {
-          "title": "汇聚热爱，「2050 大会」少数派线下活动邀请你来参与",
-          "url": "https://sspai.com/post/108202",
-          "author": "老麦",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "4月24日-4月26日，新一届2050大会将在云栖小镇如期举行。期间，少数派将会组织《少数派的共创时代》社区交流活动，围绕AI降低创造门槛后，从想法到产品落地的真实路径展开讨论。以下是活动的详细信息： ...查看全文",
-          "published_at": "2026-04-24T03:25:15"
         }
       ]
     }
