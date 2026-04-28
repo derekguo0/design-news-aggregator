@@ -1,27 +1,44 @@
 {
   "date": "2026-04-28T00:00:00",
-  "total_items": 55,
+  "total_items": 56,
   "sources": [
-    "Product Hunt",
-    "少数派",
-    "UX Design CC",
-    "UX Planet",
-    "NN/g (Nielsen Norman Group)",
-    "CSS-Tricks",
-    "Awwwards",
-    "Sidebar",
-    "A List Apart",
     "优设网",
-    "Design Milk",
+    "Sidebar",
+    "Awwwards",
+    "UX Design CC",
+    "人人都是产品经理",
+    "Product Hunt",
     "Smashing Magazine",
-    "人人都是产品经理"
+    "少数派",
+    "NN/g (Nielsen Norman Group)",
+    "A List Apart",
+    "UX Planet",
+    "Design Milk"
   ],
-  "generated_at": "2026-04-28T06:30:04.092124",
+  "generated_at": "2026-04-28T14:22:02.985096",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 5,
+      "count": 7,
       "items": [
+        {
+          "title": "Staff designers aren’t about shipping the best work. That’s the point.",
+          "url": "https://uxdesign.cc/staff-designers-arent-about-shipping-the-best-work-that-s-the-point-974d7bc14f06?source=rss----138adf9c44c---4",
+          "author": "Kai Wong",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "I rewrote portfolios for 7 Staff/Principal designers. Here’s what I learnedContinue reading on UX Collective »",
+          "published_at": "2026-04-28T11:34:55"
+        },
+        {
+          "title": "The forgotten conversation problem in AI chat",
+          "url": "https://uxdesign.cc/the-forgotten-conversation-problem-in-ai-chat-4d3d0c3ea525?source=rss----138adf9c44c---4",
+          "author": "Adi Leviim",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "We built a messaging-app architecture for knowledge work. The recall failure that followed is structural, not optional.**Editor’s note: I wrote this article from firsthand experience as a founder and ...",
+          "published_at": "2026-04-28T11:34:24"
+        },
         {
           "title": "A fantastic voyage, the illusion of good taste, the art of subtraction",
           "url": "https://uxdesign.cc/a-fantastic-voyage-the-illusion-of-good-taste-the-art-of-subtraction-c5db6b1367bf?source=rss----138adf9c44c---4",
@@ -131,8 +148,17 @@
     },
     {
       "category": "产品设计",
-      "count": 7,
+      "count": 8,
       "items": [
+        {
+          "title": "A Study in Slowness: Forum Florum Counters Milan Design Week’s Pace",
+          "url": "https://design-milk.com/a-study-in-slowness-forum-florum-counters-milan-design-weeks-pace/",
+          "author": "Leo Lei",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Staged inside an 1838 educational institution rather than a commercial showroom, Marcin Rusak's Milan Design Week exhibition asks visitors to slow down, sit down, and listen to plants.",
+          "published_at": "2026-04-28T14:00:58"
+        },
         {
           "title": "TABRA by Andreea Cornila Immerses and Inspires",
           "url": "https://design-milk.com/tabra-by-andreea-cornila-immerses-and-inspires/",
@@ -152,49 +178,49 @@
           "published_at": "2026-04-27T13:00:48"
         },
         {
-          "title": "微信免费发了1亿Token，你的AI小程序还没立项？",
-          "url": "https://www.woshipm.com/share/6385569.html",
-          "author": "日拱一卒的产品人",
+          "title": "AI时代的产品经理应该是怎样的？聊聊我的新看法",
+          "url": "https://www.woshipm.com/pmd/6385922.html",
+          "author": "迎风尿尿尿不湿",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "微信的「AI小程序成长计划」正在重塑产品经理的价值定位。从免费云资源到1亿混元Token补贴，这场针对AI能力的战略布局，让一人创业公司也能轻松入局智能客服、商品推荐等场景。本文深度解析立项前必须想清楚的5个关键问题，以及产品经理如何抓住2026年最后的窗口期实现角色跃迁。现在是2026年4月。微信在年初悄悄推出了一个计划，叫「AI小程序成长计划」。核心内容说白了就是：免费给你云开发资源、免费给你...",
-          "published_at": "2026-04-28T03:39:10"
+          "summary": "导读：AI时代的产品经理不是互联网产品经理的「AI升级版」，而是面对不确定性系统的全新物种。本文从意图模糊性处理、失败体验设计、预期管理三个维度，重新定义AI产品经理的核心能力，帮你理解从「流程设计师」到「边界管理者」的范式转变。上周跟一个做SaaS的老哥聊天，他干了七年产品，从C端做到B端，履历挺漂亮。聊到一半，他突然问我，你说我现在去面AI产品经理的岗位，胜算有多大？我反问了他一句，你觉得AI...",
+          "published_at": "2026-04-28T12:12:30"
         },
         {
-          "title": "Keep 更新了，不，是更旧了",
-          "url": "https://www.woshipm.com/evaluating/6385599.html",
-          "author": "卫夕",
+          "title": "这家新公司融了 5500 万美元，想让 AI 真正能看懂图片",
+          "url": "https://www.woshipm.com/share/6384961.html",
+          "author": "张艾拉",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Keep 9.0反常识更新：不挂AI入口、不推会员，反而把海量精品课程免费开放。Tab重构为“课程、日程、运动、发现、我的”，商城被折叠。用AI垂直模型和十年数据资产做个性化推荐，从内容平台回归运动工具。新版本的气质是：舒服。最近有个小观察——这两年手机上的很多 App，很多都逃不过一件事：它有个 AI 助手。这个AI助手要么在右下角悬浮着一颗会呼吸的小圆球，要么直接在首页弹出一个对话框，张嘴就问...",
-          "published_at": "2026-04-28T02:55:31"
+          "summary": "英伟达押注的 AI 新秀 Elorian 横空出世，5500 万美元种子轮融资背后暗藏怎样的视觉推理革命？这家由 Google Brain 和苹果 AI 核心科学家创立的神秘公司，正试图攻克 AI 看懂图片却无法理解空间关系的终极难题。从机器人路径规划到工程设计意图识别，Elorian 要构建的是一套颠覆性的视觉推理底层能力。最近出来了一家新公司，叫Elorian。公司刚公开，就拿了5500 万美...",
+          "published_at": "2026-04-28T08:27:45"
         },
         {
-          "title": "AI时代，我们更应该认识到“工具之外，事情本身”",
-          "url": "https://www.woshipm.com/ai/6385409.html",
-          "author": "像一条鱼",
+          "title": "小红书AI治理主张上线，保护的是谁？",
+          "url": "https://www.woshipm.com/share/6385806.html",
+          "author": "Vic的营销思考",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在效率工具泛滥的今天，我们是否陷入了‘神器迷恋’的怪圈？从Notion到Obsidian，从滴答清单到Todoist，无数人像小张一样在工具间反复迁徙，却始终未能触及真正的生产力。本文深度解构‘工具焦虑’背后的心理机制与消费陷阱，揭示我们如何用产品经理的思维错误管理人生，并给出三条破局之道——从‘优化系统’转向解决实际问题，从‘拓展兴趣’转向承受枯燥深度，以及不断追问‘目的究竟是什么’。他叫小张，...",
-          "published_at": "2026-04-28T02:48:22"
+          "summary": "小红书首次针对技术工具发布AI治理主张，清晰划分了AI作为创作辅助工具与造假工具的边界。在鼓励知识可视化、虚拟角色创作的同时，严厉打击AI托管账号和克隆行为。这背后是平台对'真人体验'商业模式的坚守，更预示着创作者生态将迎来流量分配、工具使用和品牌投放的三重变革。昨天小红书发了AI治理主张，先看公告原文：这个公告看起来平常无奇，但这决定了小红书对AI的态度和边界，到底有哪些支持，哪些不支持这事也挺...",
+          "published_at": "2026-04-28T08:26:31"
         },
         {
-          "title": "如何把经验装到Skills？",
-          "url": "https://www.woshipm.com/ai/6385448.html",
-          "author": "产品方法论集散地",
+          "title": "AI 抢饭碗时代：像运营产品一样运营自己，从大学就赢在起点",
+          "url": "https://www.woshipm.com/ai/6385746.html",
+          "author": "杰运规划",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI工具Skills的真正价值不在于炫技，而在于如何将个人经验转化为生产力。本文通过一个SaaS产品经理的真实案例，深度剖析如何将自己的方法论「喂」给AI，让输出的结果从「看起来对」变成「对你有用」。从第一轮调试的贪心失败到最终实现稳定可用的Skill，揭示了AI应用中最关键的认知转变：不是让AI代替思考，而是帮我们复用专业判断。不知道你有没有留意，最近一直在分享Skills。从最早聊它如何完成 ...",
-          "published_at": "2026-04-28T02:33:03"
+          "summary": "在AI与技术迭代加速的今天，运营岗位正面临前所未有的替代危机。本文从人力资源专家的视角出发，揭示职场人最核心的能力不是运营产品，而是运营自己的职业生涯。通过拆解大学阶段的三大关键时期——准备期、实践期与确定期，提供打破思维误区、实现职业跃迁的实战方法论，帮助每一位职场人在变革浪潮中找准自己的成长路径。在互联网时代，“运营”早已不是陌生词。电商运营、数据运营、策略运营、社群运营…… 各类岗位层出不穷...",
+          "published_at": "2026-04-28T08:23:17"
         },
         {
-          "title": "使用AI成硬指标，大厂打工人被AI“困住”",
-          "url": "https://www.woshipm.com/ai/6385581.html",
-          "author": "趣解商业",
+          "title": "人人都能用AI做设计，但做不出好看的东西，这才是设计师的机会",
+          "url": "https://www.woshipm.com/ai/6385725.html",
+          "author": "浩子AIPM",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "使用AI成硬指标：微博研发全员AI能力考试，考不过要集中培训；昆仑万维AI编程月度考核末位淘汰5%-20%；字节技术岗每年1000美元AI学习补贴。但AI提效后工作量反而更大，交付周期从1周变2天，加班更猛。有员工为了token用量达标，开始研究空耗token的方法。谁为大厂的“AI焦虑”买单？最近，有新浪微博员工在社交媒体上表示，4月底公司全体研发人员将举行AI能力考试，负责APP的开发人员要考...",
-          "published_at": "2026-04-28T02:31:32"
+          "summary": "AI 能生图、出代码，但有一件事它做不了：判断哪个版本是好的。这恰恰是设计师每天在做的事。会用 AI 工具、有审美判断力、还能 vibecoding 的设计师，正在成为市场上最难被替代的人。设计师的时代，不是结束了，是真正开始了。image 2.0 发布那天，我看到设计师群里的消息没断过。有人发截图，说这下完了，AI 连产品海报都能生成了；有人发链接，某个博主的视频标题写着”2026，设计师失业潮...",
+          "published_at": "2026-04-28T08:18:27"
         }
       ]
     },
@@ -341,43 +367,34 @@
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 3,
       "items": [
         {
-          "title": "Epismo Agent Package",
-          "url": "https://www.producthunt.com/products/epismo",
-          "author": "Hiroki",
+          "title": "Markdown Editor For Notion Lovers",
+          "url": "https://www.producthunt.com/products/markdown-editor-for-notion-lovers",
+          "author": "Diego Iglesias",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Run agent workflows the community already builtDiscussion|Link",
-          "published_at": "2026-04-26T08:25:12"
+          "summary": "A clean Markdown editor with a smooth, block-based UXDiscussion|Link",
+          "published_at": "2026-04-25T19:00:43"
         },
         {
-          "title": "Vouch API",
-          "url": "https://www.producthunt.com/products/vouch-api",
-          "author": "Owais Aslam",
+          "title": "Thoth",
+          "url": "https://www.producthunt.com/products/thoth-your-private-ai-scribe",
+          "author": "Matthieu V",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI equity research that proves it isn't lyingDiscussion|Link",
-          "published_at": "2026-04-26T07:59:29"
+          "summary": "Private, local AI transcription for your MacDiscussion|Link",
+          "published_at": "2026-04-27T14:14:47"
         },
         {
-          "title": "Atech",
-          "url": "https://www.producthunt.com/products/atech",
-          "author": "Gustav Hugpd",
+          "title": "Lumen Tool",
+          "url": "https://www.producthunt.com/products/lumen-tool",
+          "author": "Franck",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Snap-together electronics built from a chatDiscussion|Link",
-          "published_at": "2026-04-26T16:58:14"
-        },
-        {
-          "title": "SNEWPapers",
-          "url": "https://www.producthunt.com/products/snewpapers",
-          "author": "Brett Shinnebarger",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The World's First AI Newspaper ArchiveDiscussion|Link",
-          "published_at": "2026-04-25T09:16:52"
+          "summary": "A 3D portrait lighting simulatorDiscussion|Link",
+          "published_at": "2026-04-27T12:26:39"
         }
       ]
     },
@@ -446,64 +463,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Rebuilding a web text editor doesn't have to be daunting",
-          "url": "https://bit.ly/side-mag3",
+          "title": "Do I belong in tech anymore?",
+          "url": "https://ky.fyi/posts/ai-burnout",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Readymag's chief technology officer on rethinking past decisions to create a more reliable solution.",
-          "published_at": "2026-04-27T08:44:00"
+          "summary": "On quitting, the spread of AI, and the loss of an ideal.",
+          "published_at": "2026-04-28T08:02:22"
         },
         {
-          "title": "AI & alignment",
-          "url": "https://chriscoyier.net/2026/04/25/ai-alignment/",
+          "title": "On the right tool for the job",
+          "url": "https://karlkoch.me/writing/on-the-right-tool-for-the-job",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Raw coding speed isn’t the bottleneck. Alignment is the bottleneck. That seems to be a zeitgeist-y theme lately.",
-          "published_at": "2026-04-27T08:43:24"
+          "summary": "Choose the right tool for each project based on its requirements, not past preferences.",
+          "published_at": "2026-04-28T08:01:56"
         },
         {
-          "title": "What’s your attention worth?",
-          "url": "https://attentionworth.com/",
+          "title": "A11Y.md",
+          "url": "https://github.com/fecarrico/A11Y.md",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The advertising industry has spent thousands targeting you. Enter your age, location, and screen time to find out exactly how much.",
-          "published_at": "2026-04-27T08:42:48"
+          "summary": "A context system for building accessible software by default—for developers and AI, with enforceable rules aligned to WCAG.",
+          "published_at": "2026-04-28T08:01:26"
         },
         {
-          "title": "Worse on purpose",
-          "url": "https://www.worseonpurpose.com/",
+          "title": "Tokenmaxxing as a weird new trend",
+          "url": "https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Corporate autopsies on the brands you trust. Who bought them, who gutted them, and what's still worth buying.",
-          "published_at": "2026-04-27T08:41:38"
+          "summary": "Devs are purposefully burning tokens (and money!) to inflate their AI usage and hit AI usage metrics which they treat as targets.",
+          "published_at": "2026-04-28T07:59:29"
         },
         {
-          "title": "The role of a new machine",
-          "url": "https://newsletter.dancohen.org/archive/the-role-of-a-new-machine/",
+          "title": "AI reads my meetings. I take more notes than ever.",
+          "url": "https://crixu.blog/2026/04/09/ai-reads-my-meetings-i-take-more-notes-than-ever/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "An old book puts today’s new technology in perspective.",
-          "published_at": "2026-04-27T08:40:01"
-        }
-      ]
-    },
-    {
-      "category": "前端设计",
-      "count": 1,
-      "items": [
-        {
-          "title": "Let’s Use the Nonexistent ::nth-letter Selector Now",
-          "url": "https://css-tricks.com/using-nonexistent-nth-letter-selector-now/",
-          "author": "Lee Meyer",
-          "category": "前端设计",
-          "source": "CSS-Tricks",
-          "summary": "My shim might give the powers that be another reason to say native support isn't necessary, or if lots of people use my :nth-letter hack in the wild, the browser gods might recognize the need to imple...",
-          "published_at": "2026-04-27T13:55:42"
+          "summary": "Discover why combining AI meeting tools with handwritten notes enhances your insights.",
+          "published_at": "2026-04-28T07:58:37"
         }
       ]
     },
@@ -511,6 +513,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "住久了没意思（二）：从有光的地方开始动手",
+          "url": "https://sspai.com/prime/story/how-to-renovate-a-rental-balcony",
+          "author": "程天冲",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "上一篇文章中，我大概分析了一下租房常见的一些户型以及对应的问题，并且对一些通用的改造方法和原则做了简单的阐述。从这一期开始，这个主题将正式进入分区域对症下药的模式：详细探讨不同区域的针对性改造。最近上 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "published_at": "2026-04-28T09:50:32"
+        },
+        {
+          "title": "社区速递 139 | 派友热议三月买了啥、复古单反尼康 Df 体验",
+          "url": "https://sspai.com/post/109183",
+          "author": "Matrix机器人",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+          "published_at": "2026-04-28T08:50:44"
+        },
+        {
+          "title": "TDS REVIEW｜索尼 WF-1000XM6 降噪真无线耳机体验",
+          "url": "https://sspai.com/post/109163",
+          "author": "KingTsui",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "WF-1000XM6 是目前我们最满意的索尼真无线耳机产品，也是整个降噪豆系列目前最完整的一代产品。它是否无暇？非也。但是否解决了很多问题？是的。查看全文",
+          "published_at": "2026-04-28T07:26:25"
+        },
         {
           "title": "关于胃肠镜，你需要知道的一切",
           "url": "https://sspai.com/post/109040",
@@ -537,33 +566,6 @@
           "source": "少数派",
           "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
           "published_at": "2026-04-27T09:55:20"
-        },
-        {
-          "title": "一日一技｜让小企鹅输入法支持 14 键、18 键键位双拼",
-          "url": "https://sspai.com/post/108459",
-          "author": "超级流浪者",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "小企鹅输入法只支持 26 键，但有人基于小企鹅魔改了一下使其支持修改布局和图形化操作，加上万象拼音的 14 键位、18 键位，两者一结合——完美。查看全文",
-          "published_at": "2026-04-27T07:46:53"
-        },
-        {
-          "title": "关于流感和疫苗，你需要知道哪些信息？",
-          "url": "https://sspai.com/post/76945",
-          "author": "鸿苓",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "冬天往往是传染病肆虐的季节。除了在全世界范围内流行已久的新冠病毒，引起季节性流感的流感病毒也不可小视。想要预防流感带来的后果，最简单的方法就是接种流感疫苗。本文就将介绍在打流感疫苗之前，关于流感和疫苗，你需要知道什么。查看全文",
-          "published_at": "2026-04-27T03:30:55"
-        },
-        {
-          "title": "派早报：X 推出聊天软件 XChat",
-          "url": "https://sspai.com/post/109114",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "X 推出聊天软件 XChat美国要求外交人员向他国警告中国 AI 蒸馏行为国内 AI 公司被要求不接受未经批准的美国投资香港在黄金周前加强电子烟禁令的内地宣传FILCO 键盘母公司关停官方回应豆包提前查到 2026 山东事业编成绩看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
-          "published_at": "2026-04-26T23:40:49"
         }
       ]
     }
