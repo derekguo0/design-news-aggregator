@@ -1,22 +1,22 @@
 {
   "date": "2026-04-28T00:00:00",
-  "total_items": 54,
+  "total_items": 55,
   "sources": [
+    "Product Hunt",
+    "少数派",
+    "UX Design CC",
+    "UX Planet",
+    "NN/g (Nielsen Norman Group)",
+    "CSS-Tricks",
+    "Awwwards",
     "Sidebar",
     "A List Apart",
-    "Awwwards",
-    "Product Hunt",
     "优设网",
     "Design Milk",
     "Smashing Magazine",
-    "少数派",
-    "NN/g (Nielsen Norman Group)",
-    "UX Planet",
-    "人人都是产品经理",
-    "UX Design CC",
-    "CSS-Tricks"
+    "人人都是产品经理"
   ],
-  "generated_at": "2026-04-28T03:35:29.904758",
+  "generated_at": "2026-04-28T06:30:04.092124",
   "categories": [
     {
       "category": "用户体验设计",
@@ -152,8 +152,17 @@
           "published_at": "2026-04-27T13:00:48"
         },
         {
+          "title": "微信免费发了1亿Token，你的AI小程序还没立项？",
+          "url": "https://www.woshipm.com/share/6385569.html",
+          "author": "日拱一卒的产品人",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "微信的「AI小程序成长计划」正在重塑产品经理的价值定位。从免费云资源到1亿混元Token补贴，这场针对AI能力的战略布局，让一人创业公司也能轻松入局智能客服、商品推荐等场景。本文深度解析立项前必须想清楚的5个关键问题，以及产品经理如何抓住2026年最后的窗口期实现角色跃迁。现在是2026年4月。微信在年初悄悄推出了一个计划，叫「AI小程序成长计划」。核心内容说白了就是：免费给你云开发资源、免费给你...",
+          "published_at": "2026-04-28T03:39:10"
+        },
+        {
           "title": "Keep 更新了，不，是更旧了",
-          "url": "https://www.woshipm.com/share/6385599.html",
+          "url": "https://www.woshipm.com/evaluating/6385599.html",
           "author": "卫夕",
           "category": "产品设计",
           "source": "人人都是产品经理",
@@ -180,21 +189,12 @@
         },
         {
           "title": "使用AI成硬指标，大厂打工人被AI“困住”",
-          "url": "https://www.woshipm.com/share/6385581.html",
+          "url": "https://www.woshipm.com/ai/6385581.html",
           "author": "趣解商业",
           "category": "产品设计",
           "source": "人人都是产品经理",
           "summary": "使用AI成硬指标：微博研发全员AI能力考试，考不过要集中培训；昆仑万维AI编程月度考核末位淘汰5%-20%；字节技术岗每年1000美元AI学习补贴。但AI提效后工作量反而更大，交付周期从1周变2天，加班更猛。有员工为了token用量达标，开始研究空耗token的方法。谁为大厂的“AI焦虑”买单？最近，有新浪微博员工在社交媒体上表示，4月底公司全体研发人员将举行AI能力考试，负责APP的开发人员要考...",
           "published_at": "2026-04-28T02:31:32"
-        },
-        {
-          "title": "从一个穿搭痛点到一款AI产品：AI PM的C端从0到1实录",
-          "url": "https://www.woshipm.com/ai/6385218.html",
-          "author": "洋洋",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "从B端AI产品经理转型打造C端AI虚拟试衣工具，经历了怎样的心路历程？一款名为'智搭衣橱'的产品如何在零预算下从概念走到原型？本文深度还原了一个AI产品经理利用周末时间，独自验证虚拟试衣市场空白的全过程——从甲方的随口一句需求，到精准砍掉VTON模型的MVP策略，再到用H5链接绕过应用商店审核的实战智慧。这篇文章不讲方法论框架，不列”AI产品经理必备的十大能力”。我想聊的是一个更具体的问题——如果...",
-          "published_at": "2026-04-28T02:29:54"
         }
       ]
     },
@@ -266,6 +266,15 @@
           "published_at": null
         },
         {
+          "title": "Silent House",
+          "url": "https://www.awwwards.com/sites/silent-house",
+          "author": "Louis Paquet",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Detroit Paris",
           "url": "https://www.awwwards.com/sites/detroit-paris",
           "author": "Thomas Carré",
@@ -327,39 +336,39 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Shader Development Studio",
-          "url": "https://www.awwwards.com/sites/shader-development-studio",
-          "author": "Shader",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 4,
       "items": [
         {
-          "title": "Subgrapher",
-          "url": "https://www.producthunt.com/products/subgrapher",
-          "author": "Srimallya",
+          "title": "Epismo Agent Package",
+          "url": "https://www.producthunt.com/products/epismo",
+          "author": "Hiroki",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "P2P desktop app for building, browsing, & sharing knowledgeDiscussion|Link",
-          "published_at": "2026-04-27T06:29:50"
+          "summary": "Run agent workflows the community already builtDiscussion|Link",
+          "published_at": "2026-04-26T08:25:12"
         },
         {
-          "title": "Replyless",
-          "url": "https://www.producthunt.com/products/replylessai",
-          "author": "Srivatsa Mudumby",
+          "title": "Vouch API",
+          "url": "https://www.producthunt.com/products/vouch-api",
+          "author": "Owais Aslam",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI Email app that sends daily email briefs on TelegramDiscussion|Link",
-          "published_at": "2026-04-26T11:12:50"
+          "summary": "AI equity research that proves it isn't lyingDiscussion|Link",
+          "published_at": "2026-04-26T07:59:29"
+        },
+        {
+          "title": "Atech",
+          "url": "https://www.producthunt.com/products/atech",
+          "author": "Gustav Hugpd",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Snap-together electronics built from a chatDiscussion|Link",
+          "published_at": "2026-04-26T16:58:14"
         },
         {
           "title": "SNEWPapers",
@@ -503,6 +512,15 @@
       "count": 6,
       "items": [
         {
+          "title": "关于胃肠镜，你需要知道的一切",
+          "url": "https://sspai.com/post/109040",
+          "author": "刀客特Leslie",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "在需要筛查的时候不怕做检查，在有症状的时候及时去就诊，拥有健康才能享受生活。查看全文",
+          "published_at": "2026-04-28T03:00:00"
+        },
+        {
           "title": "派早报：阿里巴巴发布视频生成模型 HappyHorse 1.0 等",
           "url": "https://sspai.com/post/109160",
           "author": "少数派编辑部",
@@ -546,15 +564,6 @@
           "source": "少数派",
           "summary": "X 推出聊天软件 XChat美国要求外交人员向他国警告中国 AI 蒸馏行为国内 AI 公司被要求不接受未经批准的美国投资香港在黄金周前加强电子烟禁令的内地宣传FILCO 键盘母公司关停官方回应豆包提前查到 2026 山东事业编成绩看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
           "published_at": "2026-04-26T23:40:49"
-        },
-        {
-          "title": "App+1 | 谈谈网页浏览器中的一个异类：qutebrowser",
-          "url": "https://sspai.com/post/98931",
-          "author": "Cheech",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "对以键盘操作为优先的用户来说，一旦学会了如何退出Vim，可能不消多久，便想在肉眼可见之处使用Vim的这套模态编辑。多年来，不少软件都内置了Vim风格的按键绑定，来迎合这类用户的肌肉记忆。其中，更有一些 ...查看全文",
-          "published_at": "2026-04-26T07:00:00"
         }
       ]
     }
