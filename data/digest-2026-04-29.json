@@ -1,23 +1,23 @@
 {
   "date": "2026-04-29T00:00:00",
-  "total_items": 65,
+  "total_items": 64,
   "sources": [
-    "Intercom Blog",
-    "UX Planet",
-    "优设网",
+    "Product Hunt",
+    "Sidebar",
     "CSS-Tricks",
-    "Design Milk",
-    "UX Design CC",
     "Smashing Magazine",
+    "UX Planet",
+    "少数派",
+    "UX Design CC",
+    "优设网",
+    "Intercom Blog",
+    "Design Milk",
+    "人人都是产品经理",
     "Awwwards",
     "NN/g (Nielsen Norman Group)",
-    "人人都是产品经理",
-    "Product Hunt",
-    "少数派",
-    "Sidebar",
     "A List Apart"
   ],
-  "generated_at": "2026-04-29T02:07:32.414537",
+  "generated_at": "2026-04-29T03:33:38.326448",
   "categories": [
     {
       "category": "用户体验设计",
@@ -234,49 +234,49 @@
           "published_at": "2026-04-28T17:29:23"
         },
         {
-          "title": "传统媒体开始向AI“谈钱”",
-          "url": "https://www.woshipm.com/ai/6385829.html",
-          "author": "吴怼怼",
+          "title": "我用 Vibe Coding 做了一个 AI 小工具，第一版直接废了 ——因为我跳过了最重要的一步",
+          "url": "https://www.woshipm.com/ai/6386071.html",
+          "author": "3Mz",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "7大财经媒体罕见同步更新版权声明，矛头直指AI大模型训练的数据掠夺。这场冲突不仅关乎内容版权，更是媒体在AI时代核心资产定价权的生死争夺——当新闻内容从流量入口降维为AI训练原料，传统媒体正在用法律武器重构与科技巨头的新型商业关系。4月27日，7家财经媒体同时发布或更新版权声明。《证券时报》《上海证券报》《证券日报》《中国基金报》《21世纪经济报道》、第一财经集团、《每日经济新闻》，共同把一条过去...",
-          "published_at": "2026-04-29T01:48:04"
+          "summary": "当产品经理遭遇AI编程工具，从盲目编码到架构思维的转变带来截然不同的结果。本文通过一次竞品采集工具的开发历程，揭示跳过需求分析与架构设计的致命陷阱，并总结出六步Vibe Coding方法论——从MVP定义到模块化实施，展现产品思维如何成为AI时代开发者的核心优势。“帮我做一个竞品信息采集工具，我输入一个网址，它帮我提取产品名称、核心功能、定价、用户评价，然后输出成表格。”这是上个月，我对着 Cur...",
+          "published_at": "2026-04-29T02:48:03"
         },
         {
-          "title": "AI赋能广告素材：从标签解析到创作指导",
-          "url": "https://www.woshipm.com/ai/6385826.html",
-          "author": "暂时离线",
+          "title": "AI 更新越快，从业者越不能只追热点",
+          "url": "https://www.woshipm.com/ai/6385842.html",
+          "author": "小林LEO",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI技术正在彻底改变广告素材适配的游戏规则，从被动筛选到主动预判，从批量操作到精准赋能。本文将深度解析AI如何通过标签联动、行业差异化生成和ROI预估三大核心环节，重构广告投放的全流程闭环，实现素材适配的智能化升级与效果突破。素材是广告投放的核心载体，其适配效果直接决定流量质量与投放ROI。传统素材适配模式中，人工筛选依赖经验、变体生成效率低下、效果优化滞后等痛点，始终制约着投放效能的提升。而通过...",
-          "published_at": "2026-04-29T01:46:30"
+          "summary": "AI行业的快速迭代让从业者陷入信息焦虑的漩涡，但真正的挑战不是追逐每一个热点，而是培养从技术变化中提炼产品价值的判断力。本文揭示如何将模型升级、产品创新和行业术语转化为用户流程改进和商业假设验证，帮助从业者从‘信息收集者’蜕变为‘价值翻译官’。如果你在 AI 行业里工作，这样的场景大概率不陌生。早上刚刷到一个新模型发布，中午老板就在群里问：“这个能力我们要不要接一下？”下午竞品又更新了 AI 功能...",
+          "published_at": "2026-04-29T02:47:43"
         },
         {
-          "title": "食堂窗口“信息屏障”问题优化项目分析",
-          "url": "https://www.woshipm.com/share/6385242.html",
-          "author": "第七题选C",
+          "title": "鸿蒙 PC 三方库适配 HNP 打包流程的”入场券”hnp.json 文件解读",
+          "url": "https://www.woshipm.com/share/6386170.html",
+          "author": "nutpi",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "校园食堂的菜品展示难题，竟暗藏产品设计的黄金法则！当学生因看不清菜品而犹豫不决，商家因客流稀少而焦虑，一个低成本改造方案却巧妙解决了信息不对称与社交压力的双重困境。本文将揭秘如何通过不锈钢盘+热水保温的创新设计，实现用户决策门槛降低与商家营收提升的双赢局面。一、项目概览项目名称：校园食堂窗口信息透明化优化方案项目背景：午餐高峰时段，某菜品丰富档口客流量远低于隔壁套餐档口，学生驻足张望却极少上前，形...",
-          "published_at": "2026-04-29T01:29:55"
+          "summary": "hnp.json虽然只有几行JSON，但它是鸿蒙原生包打包流程的“入场券”。type声明文件类型，name必须与HPKBUILD和README.OpenSource保持一致，version是HNP包自身的发布版本而非上游版本。理解了它，就理解了OpenHarmony原生包打包的入口逻辑。鸿蒙 PC 三方库适配 HNP 打包流程的”入场券”hnp.json 文件解读项目路径[1]前言如果你刚接触 O...",
+          "published_at": "2026-04-29T02:45:05"
         },
         {
-          "title": "我向RedHat产品经理学习系列：如何做开源产品？",
-          "url": "https://www.woshipm.com/it/6385877.html",
-          "author": "七七",
+          "title": "百度不过是顺势戳破了专家岗的幻象",
+          "url": "https://www.woshipm.com/share/6386155.html",
+          "author": "职场人类学",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "开源产品的商业化之路并非功能堆砌或许可证博弈，真正的核心在于创造差异化价值。本文通过Redhat Enterprise Linux的实战经验，揭示了产品经理如何摆脱同质化陷阱，从功能、服务到生态构建三层差异化体系，让用户心甘情愿为开源产品买单。最近在研究Redhat Enterprise Linux产品经理的博客，颇有所得，现在输出我的学习心得。今天是第一篇，如何做开源产品？很多产品经理干久了，容...",
-          "published_at": "2026-04-29T01:29:29"
+          "summary": "百度取消T、P、M等职级标签，统一并入数字职级体系，将管理通道与专业通道全面打通。背后是业务边界模糊，需要跨职能快速执行。只懂技术不问业务、只管开会不对齐的专家岗与管理岗，好日子不多了。实验室躲在“专家岗”里不问业务，或是坐在“管理岗”上只管开会对齐，这样的职场好日子的确不多了。4月28日，百度宣布对其内部职级体系进行系统性重构。自5月1日起，原有的“T（技术）、P（产品）、E、Band、M（管理...",
+          "published_at": "2026-04-29T02:21:17"
         },
         {
-          "title": "没有评测集，迭代就是拍脑袋：“三分法”构建AI的导航系统",
-          "url": "https://www.woshipm.com/share/6377800.html",
-          "author": "嘻嘻李",
+          "title": "首发内测：那匹登顶榜单的 HappyHorse，终于开始跑进创作者的工作流",
+          "url": "https://www.woshipm.com/evaluating/6385943.html",
+          "author": "Mayrian",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "智能客服上线后算法与运营团队的矛盾暴露出AI产品迭代的关键问题——缺乏统一的评测标准。本文深度拆解如何构建高质量的AI评测集，从定义业务范围、数据标注规范到搭建自动化流水线，揭秘如何用‘导航系统’解决团队自说自话的困境，实现模型迭代的科学决策。智能客服上线一个月，算法同学说“准确率又涨了2个点”，运营同学却说“用户投诉更多了”。——没有统一的测评集，大家都在自说自话。本质：评测集是AI产品的“导航...",
-          "published_at": "2026-04-29T01:05:17"
+          "summary": "阿里视频生成模型HappyHorse 1.0正式开启灰度测试，支持文生视频、图生视频及多图参考生视频，具备15秒多镜头叙事、1080P分辨率等能力。本文通过生活情感叙事、风格化复刻和高概念视觉三大测试场景，深度剖析这款AI视频工具的实际表现与适用边界，揭示它如何改变内容创作流程。昨天，阿里的视频生成模型HappyHorse 1.0终于开启灰测，并接入千问 App 和Web 端，你们都被灰度到了吗？...",
+          "published_at": "2026-04-29T02:15:15"
         }
       ]
     },
@@ -423,52 +423,43 @@
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "Kinhub",
-          "url": "https://www.producthunt.com/products/kinhub",
-          "author": "Gabe Perez",
+          "title": "OrcaSheets AI Reports",
+          "url": "https://www.producthunt.com/products/orcasheets",
+          "author": "Yash Gandhi",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Scalable coaching that drives real business impactDiscussion|Link",
-          "published_at": "2026-04-28T14:46:39"
+          "summary": "Query data to build dashboards and generate detailed reportsDiscussion|Link",
+          "published_at": "2026-04-26T12:14:45"
         },
         {
-          "title": "Blueprint",
-          "url": "https://www.producthunt.com/products/imbue-7",
-          "author": "Alexander Tibbets",
+          "title": "Curflow",
+          "url": "https://www.producthunt.com/products/curflow",
+          "author": "Luis Mesa",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "One-shot bigger coding tasksDiscussion|Link",
-          "published_at": "2026-04-28T01:50:07"
+          "summary": "Draw a gesture for your Mac to executeDiscussion|Link",
+          "published_at": "2026-04-27T18:17:20"
         },
         {
-          "title": "Lovable mobile app",
-          "url": "https://www.producthunt.com/products/lovable",
-          "author": "Chris Messina",
+          "title": "Thoth",
+          "url": "https://www.producthunt.com/products/thoth-your-private-ai-scribe",
+          "author": "Matthieu V",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your ideas don't wait for you to sit down at a deskDiscussion|Link",
-          "published_at": "2026-04-27T21:13:00"
+          "summary": "Private, local AI transcription for your MacDiscussion|Link",
+          "published_at": "2026-04-27T14:14:47"
         },
         {
-          "title": "SimCam",
-          "url": "https://www.producthunt.com/products/simcam-2",
-          "author": "Krzysztof Magiera",
+          "title": "AISA AI Skills Test",
+          "url": "https://www.producthunt.com/products/aisa-ai-skills-test-ai-leaderboard",
+          "author": "Ozan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Test camera features directly in the iOS simulatorDiscussion|Link",
-          "published_at": "2026-04-27T09:19:07"
-        },
-        {
-          "title": "Happy Horse",
-          "url": "https://www.producthunt.com/products/happyhorse-10",
-          "author": "Zac Zuo",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Top-tier AI video generation and editing from Alibaba ATHDiscussion|Link",
-          "published_at": "2026-04-27T12:05:20"
+          "summary": "World's first conversational AI fluency and know-how testDiscussion|Link",
+          "published_at": "2026-04-27T10:29:14"
         }
       ]
     },
@@ -603,6 +594,15 @@
       "count": 6,
       "items": [
         {
+          "title": "用 iPad「画」出来的电影：《燃比娃》的幕后故事",
+          "url": "https://sspai.com/post/109188",
+          "author": "waychane",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "《燃比娃》是由李文愉执导、上海电影(集团)有限公司及上海美术电影制片厂有限公司出品的动画电影，也是国内首部宣纸手绘动画长片。本片导演李文愉毕业于北京大学、硕士研究生学历，毕业后任教于四川大学艺术学院数 ...查看全文",
+          "published_at": "2026-04-29T02:27:20"
+        },
+        {
           "title": "派早报：乐道 L80 发布、一加 Ace 6 至尊版发布等",
           "url": "https://sspai.com/post/109204",
           "author": "少数派编辑部",
@@ -646,15 +646,6 @@
           "source": "少数派",
           "summary": "在需要筛查的时候不怕做检查，在有症状的时候及时去就诊，拥有健康才能享受生活。查看全文",
           "published_at": "2026-04-28T03:00:00"
-        },
-        {
-          "title": "派早报：阿里巴巴发布视频生成模型 HappyHorse 1.0 等",
-          "url": "https://sspai.com/post/109160",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "微信：警惕「755」开头仿冒来电、JBL 推出两款音频类新品等。查看全文",
-          "published_at": "2026-04-28T00:55:37"
         }
       ]
     }
