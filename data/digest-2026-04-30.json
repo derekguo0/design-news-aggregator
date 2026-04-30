@@ -2,22 +2,22 @@
   "date": "2026-04-30T00:00:00",
   "total_items": 69,
   "sources": [
-    "NN/g (Nielsen Norman Group)",
-    "Product Hunt",
-    "Awwwards",
     "A List Apart",
-    "Intercom Blog",
-    "UX Planet",
-    "Design Milk",
-    "Sidebar",
-    "CSS-Tricks",
     "优设网",
+    "Intercom Blog",
+    "Sidebar",
+    "Awwwards",
+    "CSS-Tricks",
+    "Smashing Magazine",
     "UX Design CC",
+    "UX Planet",
     "少数派",
+    "NN/g (Nielsen Norman Group)",
     "人人都是产品经理",
-    "Smashing Magazine"
+    "Product Hunt",
+    "Design Milk"
   ],
-  "generated_at": "2026-04-30T03:34:52.324346",
+  "generated_at": "2026-04-30T05:45:25.315087",
   "categories": [
     {
       "category": "用户体验设计",
@@ -252,6 +252,15 @@
           "published_at": "2026-04-28T17:29:23"
         },
         {
+          "title": "泡泡玛特炒到10万的小冰箱, 谁在买啊？拆解王宁押注小家电背后的叙事逻辑",
+          "url": "https://www.woshipm.com/marketing/6386863.html",
+          "author": "超越爱丽丝",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "泡泡玛特跨界推出限量版Labubu小冰箱，预约量破6万、二手价格飙至10万，这个以盲盒起家的品牌为何突然杀入家电赛道？本文从需求侧的心理补偿机制、供给侧的IP溢价策略到战略层面的全球化布局，深度拆解泡泡玛特用‘无用有用品’重构商业逻辑的野望。当潮玩遇上小家电，一场关于生活方式定义的品牌革命正在发生。今晚22点，泡泡玛特限量999台的Labubu小冰箱正式开抢。截至发稿，LABUBU冰箱在京东的预约...",
+          "published_at": "2026-04-30T03:59:58"
+        },
+        {
           "title": "Codex、准备接管程序员的一切了！",
           "url": "https://www.woshipm.com/share/6386941.html",
           "author": "秀琴江湖飘",
@@ -286,15 +295,6 @@
           "source": "人人都是产品经理",
           "summary": "宠物经济持续火热，但AI创业者们却悄悄在医疗健康领域找到了突破口。本文深入剖析四家典型宠物AI公司，揭秘它们如何从健康筛查、疼痛识别、影像诊断到病历管理等细分场景切入，用技术解决宠物医疗中的真实痛点，展现出一条条小而美的商业化路径。我们都知道宠物赛道的盘子大，这几年也一直不缺钱。那宠物赛道的 AI 公司都在干什么呢？我找了几家宠物赛道的 AI 公司，本来以为这些公司会集中在宠物消费、宠物智能硬件这...",
           "published_at": "2026-04-30T02:50:47"
-        },
-        {
-          "title": "AI大事件：谷歌、微软、亚马逊、Meta四大科技巨头财报同日公布；9所高校获批开设具身智能本科专业",
-          "url": "https://www.woshipm.com/ai/6386930.html",
-          "author": "AI星球",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "有件事挺有意思——就在两天前，OpenAI还被《华尔街日报》爆出”营收和用户双未达标”，昨天Altman立刻反击称”标题党，业务火力全开”。今天谷歌、微软、亚马逊、Meta四大科技巨头财报同日公布，用真实数据给AI砸进去的几千亿美元交了答卷。结论是：AI的钱没白花，但不是每家都让市场满意——谷歌云暴涨63%盘后涨7%，Meta上调资本支出被直接砸盘。与此同时，马斯克继续坐在证人席上批判Altman...",
-          "published_at": "2026-04-30T02:47:01"
         }
       ]
     },
@@ -366,6 +366,15 @@
           "published_at": null
         },
         {
+          "title": "Studio375",
+          "url": "https://www.awwwards.com/sites/studio375-2",
+          "author": "Studio375",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "PieterKoopt®",
           "url": "https://www.awwwards.com/sites/pieterkoopt-r",
           "author": "UNCOMMON",
@@ -427,15 +436,6 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Jasmine Gunarto",
-          "url": "https://www.awwwards.com/sites/jasmine-gunarto",
-          "author": "diar adelita sury",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -444,15 +444,6 @@
       "count": 5,
       "items": [
         {
-          "title": "Plannotator",
-          "url": "https://www.producthunt.com/products/plannotator",
-          "author": "Michael",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Annotate any doc, URL, or folder - send feedback to agentsDiscussion|Link",
-          "published_at": "2026-04-29T05:30:31"
-        },
-        {
           "title": "Gro v2",
           "url": "https://www.producthunt.com/products/gro-2",
           "author": "Zac Zuo",
@@ -460,6 +451,15 @@
           "source": "Product Hunt",
           "summary": "Spot signals, trigger outreach - turn posts into pipelineDiscussion|Link",
           "published_at": "2026-04-28T07:10:55"
+        },
+        {
+          "title": "ZenTrack",
+          "url": "https://www.producthunt.com/products/zentrack-finances-streaks-health",
+          "author": "Shivansh Dengla",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Notes, money, and health. Sorted.Discussion|Link",
+          "published_at": "2026-04-28T11:45:55"
         },
         {
           "title": "Picsart CLI",
@@ -480,13 +480,13 @@
           "published_at": "2026-04-28T21:32:44"
         },
         {
-          "title": "noirdoc",
-          "url": "https://www.producthunt.com/products/noirdoc",
-          "author": "Antonio Maiolo",
+          "title": "Plannotator",
+          "url": "https://www.producthunt.com/products/plannotator",
+          "author": "Michael",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "PII guard for Claude Code to keep client data out of contextDiscussion|Link",
-          "published_at": "2026-04-28T15:32:08"
+          "summary": "Annotate any doc, URL, or folder - send feedback to agentsDiscussion|Link",
+          "published_at": "2026-04-29T05:30:31"
         }
       ]
     },
