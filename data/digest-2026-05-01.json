@@ -1,26 +1,46 @@
 {
   "date": "2026-05-01T00:00:00",
-  "total_items": 55,
+  "total_items": 72,
   "sources": [
-    "Design Milk",
-    "Sidebar",
-    "人人都是产品经理",
-    "CSS-Tricks",
-    "少数派",
-    "Smashing Magazine",
-    "优设网",
-    "Intercom Blog",
+    "Awwwards",
     "UX Design CC",
     "UX Planet",
+    "Intercom Blog",
     "Product Hunt",
-    "A List Apart"
+    "人人都是产品经理",
+    "NN/g (Nielsen Norman Group)",
+    "A List Apart",
+    "少数派",
+    "Sidebar",
+    "Smashing Magazine",
+    "Design Milk",
+    "优设网",
+    "CSS-Tricks"
   ],
-  "generated_at": "2026-05-01T03:46:39.891333",
+  "generated_at": "2026-05-01T13:26:29.095001",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 10,
+      "count": 12,
       "items": [
+        {
+          "title": "Usability, accessibility, and the human-AI paradigm",
+          "url": "https://uxdesign.cc/usability-accessibility-and-the-human-ai-paradigm-6ffda2806b56?source=rss----138adf9c44c---4",
+          "author": "Zeeshan Khalid",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The divergence between usability and accessibility in the age of AI and vibe codingUsability and AccessibilityToday, during what began as a routine discussion on accessibility with my Project Manager,...",
+          "published_at": "2026-05-01T11:19:38"
+        },
+        {
+          "title": "Thoughtful AI Implementation for UXR Leaders",
+          "url": "https://uxdesign.cc/ai-uxr-implementation-d0e1b8a33613?source=rss----138adf9c44c---4",
+          "author": "Ashlee Edwards, Ph.D.",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Thoughtful AI implementation for UXR leadersSetting a vision will guide you and team to the right tools, in the right context.Source:Aurora-Alley on DeviantArtI’m an AI skeptic.That feels like a room-...",
+          "published_at": "2026-05-01T11:19:22"
+        },
         {
           "title": "A GenAI perplexed by color theory",
           "url": "https://uxdesign.cc/a-genai-perplexed-by-color-theory-5416cbd3ef10?source=rss----138adf9c44c---4",
@@ -114,6 +134,57 @@
       ]
     },
     {
+      "category": "用户体验研究",
+      "count": 5,
+      "items": [
+        {
+          "title": "10 Guidelines for Designing Your Site’s AI Chatbots",
+          "url": "https://www.nngroup.com/articles/ai-chatbots-design-guidelines/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Why User Panels Fail",
+          "url": "https://www.nngroup.com/articles/user-panels-fail/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Less Chat, More Answer: Site AI Chatbots Need to Get to the Point",
+          "url": "https://www.nngroup.com/articles/less-chat-more-answer/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "AI Agents as Users",
+          "url": "https://www.nngroup.com/articles/ai-agents-as-users/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Handmade Designs: The New Trust Signal",
+          "url": "https://www.nngroup.com/articles/handmade-designs/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        }
+      ]
+    },
+    {
       "category": "产品设计",
       "count": 12,
       "items": [
@@ -181,6 +252,24 @@
           "published_at": "2026-04-28T17:29:23"
         },
         {
+          "title": "打破SaaS围墙：深度解析问卷星开源背后的架构逻辑与商业胆量",
+          "url": "https://www.woshipm.com/share/6387268.html",
+          "author": "宗上聊运营",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "问卷平台正在经历一场AI驱动的革命性转变。从腾讯问卷的轻量化Skill到问卷星全栈式开源工具包wjx-ai-kit，这场变革正从简单的功能拓展演变为平台能力的深度重构。本文将深入拆解两种技术路径的差异，揭示问卷工具如何通过CLI、SDK、MCP三位一体的架构，实现从被动响应到主动融入Agent工作流的质变。一、解析背景上次在 UXRen 分享的时候我就说，腾讯问卷做 skill 之后，其他家一定会...",
+          "published_at": "2026-05-01T07:03:19"
+        },
+        {
+          "title": "绝了！有些品牌部门开始“赚钱”了",
+          "url": "https://www.woshipm.com/share/6387213.html",
+          "author": "李倩说品牌",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "品牌不再是烧钱的代名词，那些深耕品牌建设的公司正在收获意外惊喜。从COMMUNE幻师吸引NBA、百老汇等大牌主动求合作，到亚朵通过一双定制鞋撬动员工忠诚与市场机会，本文用两个鲜活案例揭示：当品牌做到极致时，不仅能当饭吃，还能吃出意想不到的商业价值。人人都说做品牌花钱，搞的品牌像是个被包养的金丝雀，除了花钱啥也不会，在公司里受尽了屈辱。最近几年，我观察到一种苗头，有些前期工作做的扎实的品牌开始陆续收...",
+          "published_at": "2026-05-01T05:02:32"
+        },
+        {
           "title": "深度拆解拓竹科技：离职大疆5年营收百亿，要让AI拥有“造物的手”",
           "url": "https://www.woshipm.com/it/6379797.html",
           "author": "超越爱丽丝",
@@ -206,31 +295,22 @@
           "source": "人人都是产品经理",
           "summary": "AI时代正在重塑产品经理的角色与能力模型。Anthropic的极简流程让产品上线周期从6个月缩短到1天，而To B技术型PM必须转型为价值重构者、场景架构师和垂直领域专家。本文将揭示产品经理在AI浪潮中守住核心竞争力的三条生死线，以及如何将技术能力转化为不可替代的商业价值。Anthropic的Cat Wu在Lenny’s Podcast的长访谈里面提到几个点他们内部产品经理价值的转变：产品上线从6...",
           "published_at": "2026-05-01T01:51:27"
-        },
-        {
-          "title": "Starboy：挂在包上的 AI 时尚潮玩？",
-          "url": "https://www.woshipm.com/share/6384891.html",
-          "author": "张艾拉",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "在AI硬件竞相追求智能化的今天，Starboy选择了一条截然不同的道路。这款挂在包上的数字宠物拒绝成为你的AI助手，而是通过精致的工艺设计和轻量互动，重新定义了科技产品的情绪价值。本文深度拆解这款融合电子宠物、潮流配饰与轻奢工艺的颠覆性产品，揭示其如何用反主流策略打开成人玩具市场的新蓝海。和我一样有点儿年纪的人应该都养过电子宠物，那只每天都要看无数次的“电子小鸡”。今天分享的这家公司也做了个类似的...",
-          "published_at": "2026-05-01T00:50:20"
-        },
-        {
-          "title": "AI平权之后，我认为：不再需要考试。",
-          "url": "https://www.woshipm.com/ai/6386892.html",
-          "author": "bin",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "AI正以前所未有的速度颠覆我们对教育的传统认知。当GPT-4能轻松通过各类职业考试时，当偏远山区的孩子通过手机就能接触全球顶级教育资源时，考试作为筛选器的时代正在终结。本文深度剖析考试制度的零和博弈本质，揭示AI如何实现真正的教育平权，并探讨在这个新时代，我们是否还需要通过考试来证明自己的价值。写下这篇文章，不是为了替谁做决定，而是为自己——以及每一个正在被“考试焦虑”裹挟的人——做一个清醒的思考...",
-          "published_at": "2026-04-30T10:33:06"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 8,
+      "count": 16,
       "items": [
+        {
+          "title": "Designing Stable Interfaces For Streaming Content",
+          "url": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
+          "author": "hello@smashingmagazine.com (Joas Pambou)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to prope...",
+          "published_at": "2026-05-01T08:00:00"
+        },
         {
           "title": "A Fresh View In May (2026 Wallpapers Edition)",
           "url": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
@@ -239,15 +319,6 @@
           "source": "Smashing Magazine",
           "summary": "Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!",
           "published_at": "2026-04-30T11:00:00"
-        },
-        {
-          "title": "Designing Stable Interfaces For Streaming Content",
-          "url": "https://smashingmagazine.com/2026/04/designing-stable-interfaces-streaming-content/",
-          "author": "hello@smashingmagazine.com (Joas Pambou)",
-          "category": "网页设计",
-          "source": "Smashing Magazine",
-          "summary": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to prope...",
-          "published_at": "2026-04-30T08:00:00"
         },
         {
           "title": "Good designers, bad websites: a proposal",
@@ -302,57 +373,147 @@
           "source": "A List Apart",
           "summary": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things t...",
           "published_at": null
+        },
+        {
+          "title": "Adcker",
+          "url": "https://www.awwwards.com/sites/adcker",
+          "author": "Emele Collab",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Studio375",
+          "url": "https://www.awwwards.com/sites/studio375-2",
+          "author": "Studio375",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "PieterKoopt®",
+          "url": "https://www.awwwards.com/sites/pieterkoopt-r",
+          "author": "UNCOMMON",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Silent House",
+          "url": "https://www.awwwards.com/sites/silent-house",
+          "author": "Louis Paquet",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Detroit Paris",
+          "url": "https://www.awwwards.com/sites/detroit-paris",
+          "author": "Thomas Carré",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Wild Week - Athens",
+          "url": "https://www.awwwards.com/sites/wild-week-athens",
+          "author": "WILD",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Don Molinico",
+          "url": "https://www.awwwards.com/sites/don-molinico",
+          "author": "AUGE EXPERIENCE",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Ashley Brooke",
+          "url": "https://www.awwwards.com/sites/ashley-brooke",
+          "author": "Ethan Suero",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 7,
       "items": [
         {
-          "title": "Basedash Dashboard Agent",
-          "url": "https://www.producthunt.com/products/basedash",
-          "author": "Max Musing",
+          "title": "AnyDrop",
+          "url": "https://www.producthunt.com/products/anydrop-3",
+          "author": "Gemshi",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Builds entire dashboards from a single promptDiscussion|Link",
-          "published_at": "2026-04-30T03:05:57"
+          "summary": "AirDrop for the browser: share files, chat and sync notesDiscussion|Link",
+          "published_at": "2026-04-29T09:48:08"
         },
         {
-          "title": "Mistral Medium 3.5",
-          "url": "https://www.producthunt.com/products/mistral-medium-3-5",
-          "author": "Kumar Abhishek",
+          "title": "CipherLock",
+          "url": "https://www.producthunt.com/products/cipherlock",
+          "author": "Rafael Sampaio e Silva",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A 128B model for coding, reasoning, and long tasksDiscussion|Link",
-          "published_at": "2026-04-29T16:27:11"
+          "summary": "Learn ciphers by breaking themDiscussion|Link",
+          "published_at": "2026-04-30T13:09:03"
         },
         {
-          "title": "Mintlify Editor",
-          "url": "https://www.producthunt.com/products/mintlify",
-          "author": "Garry Tan",
+          "title": "LaunchCut",
+          "url": "https://www.producthunt.com/products/launchcut-2",
+          "author": "Andrew Hoffart",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI-native collaborative editorDiscussion|Link",
-          "published_at": "2026-04-28T23:01:20"
+          "summary": "Interactive iOS Demo BuilderDiscussion|Link",
+          "published_at": "2026-04-30T21:35:28"
         },
         {
-          "title": "SuperMind",
-          "url": "https://www.producthunt.com/products/supermind-2",
-          "author": "Damanjeet Singh",
+          "title": "Bitgrain",
+          "url": "https://www.producthunt.com/products/bitgrain",
+          "author": "Diptanshu Mahish",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Business that Runs ItselfDiscussion|Link",
-          "published_at": "2026-04-30T05:03:57"
+          "summary": "Design studio lighter than Figma & more flexible than CanvaDiscussion|Link",
+          "published_at": "2026-04-28T04:44:07"
         },
         {
-          "title": "Voice Agent API",
-          "url": "https://www.producthunt.com/products/assemblyai",
-          "author": "Meredith Rauch",
+          "title": "Beauty Diagram",
+          "url": "https://www.producthunt.com/products/beauty-diagram",
+          "author": "Levi.l",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "One API to build production-ready voice agentsDiscussion|Link",
-          "published_at": "2026-04-29T17:35:52"
+          "summary": "Diagrams that don't look like they were auto-generatedDiscussion|Link",
+          "published_at": "2026-04-30T16:57:43"
+        },
+        {
+          "title": "Montage",
+          "url": "https://www.producthunt.com/products/montage-3",
+          "author": "Aarav Makadia",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "UI Agentic framework for quicker output & less token usageDiscussion|Link",
+          "published_at": "2026-04-30T15:50:23"
+        },
+        {
+          "title": "ScreenVeil",
+          "url": "https://www.producthunt.com/products/screenveil",
+          "author": "Egor Griva",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Hide what shouldn’t be seen on your computerDiscussion|Link",
+          "published_at": "2026-04-28T07:56:19"
         }
       ]
     },
@@ -421,49 +582,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Output isn’t design",
-          "url": "https://linear.app/now/output-isn-t-design",
+          "title": "On being a designer in the most interesting, exhausting moment of our careers",
+          "url": "https://medium.com/design-bootcamp/on-being-a-designer-in-the-most-interesting-exhausting-moment-of-our-careers-7284735e0927",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The assumption behind AI design tools is very clear: that design is the act of producing.",
-          "published_at": "2026-04-30T06:49:23"
+          "summary": "Prioritizing mental clarity over speed to maintain high craft standards.",
+          "published_at": "2026-05-01T06:32:06"
         },
         {
-          "title": "designtools.fyi",
-          "url": "https://designtools.fyi/",
+          "title": "CSS or BS?",
+          "url": "https://www.keithcirkel.co.uk/css-or-bs/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Compare design tools across different capabilities. Find the best tools for designers, design engineers, and non-designers.",
-          "published_at": "2026-04-30T06:48:30"
+          "summary": "Think you know CSS? Real property or made-up nonsense? 20 rounds. No mercy.",
+          "published_at": "2026-05-01T06:31:04"
         },
         {
-          "title": "154 Macs since 1983",
-          "url": "https://sheets.works/data-viz/every-mac",
+          "title": "Open web vs AI: what can W3C do?",
+          "url": "https://hidde.blog/web-ai-breakout/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A visual biography.",
-          "published_at": "2026-04-30T06:47:53"
+          "summary": "Thoughts after breakout at AC meeting.",
+          "published_at": "2026-05-01T06:30:41"
         },
         {
-          "title": "AI-generated UI is inaccessible by default",
-          "url": "https://frontendmasters.com/blog/ai-generated-ui-is-inaccessible-by-default/",
+          "title": "Boost design autonomy with an information pipeline",
+          "url": "https://www.nngroup.com/articles/information-pipeline/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "It doesn’t mean you can’t get AI to help with accessible code, you’ve just got to know what you’re doing.",
-          "published_at": "2026-04-30T06:47:23"
+          "summary": "A four-step framework for building influence over product direction by closing the information gaps that large, complex organizations create.",
+          "published_at": "2026-05-01T06:30:08"
         },
         {
-          "title": "The world can’t keep up with AI Labs",
-          "url": "https://www.greaterwrong.com/posts/fewDbvpKMZLgGuWT2/the-world-can-t-keep-up-with-ai-labs",
+          "title": "Users own the present. You own the future.",
+          "url": "https://www.dir14.com/articles/users-own-the-present-you-own-the-future",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Rapid AI scaling outpaces our ability to build safety guardrails.",
-          "published_at": "2026-04-30T06:46:49"
+          "summary": "Users know their day. They don’t know your roadmap. Why smart users give convincing wrong answers, and how to do research that opens product space.",
+          "published_at": "2026-05-01T06:29:01"
         }
       ]
     },
@@ -504,6 +665,15 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "本周看什么 | 最近值得一看的 10 部作品",
+          "url": "https://sspai.com/post/109266",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "📅本周新预告《暗影蜘蛛侠》正式预告4月26日，剧集《暗影蜘蛛侠》发布了黑白和彩色双版本正式预告，将于5月27日上线PrimeVideo。尼古拉斯·凯奇领衔主演，聚焦1930年代纽约的一个上了年纪、倒霉 ...查看全文",
+          "published_at": "2026-05-01T09:00:00"
+        },
         {
           "title": "本月玩什么｜朋友收藏、识质存在、沙罗周期",
           "url": "https://sspai.com/post/109257",
@@ -548,15 +718,6 @@
           "source": "少数派",
           "summary": "我觉得手机 AI 再次爆发式发展的时间节点已经不远了，应用与安卓的底层权限开放像是 MCP，而基于自动操作的积木像是 Skills，配合不断增强的端侧模型，或许能让 GUI Agent 更进一步。查看全文",
           "published_at": "2026-04-29T07:00:00"
-        },
-        {
-          "title": "先别一股脑扔进洗衣机：换季衣物洗护指南",
-          "url": "https://sspai.com/post/60247",
-          "author": "包包呀嘿",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "用心呵护自己的衣物，就从这个春天做起吧(๑•̀ㅂ•́)و✧查看全文",
-          "published_at": "2026-04-29T06:41:02"
         }
       ]
     }
