@@ -1,20 +1,22 @@
 {
   "date": "2026-05-02T00:00:00",
-  "total_items": 54,
+  "total_items": 65,
   "sources": [
-    "Sidebar",
-    "A List Apart",
-    "Design Milk",
-    "Smashing Magazine",
+    "NN/g (Nielsen Norman Group)",
     "Product Hunt",
-    "少数派",
-    "优设网",
-    "人人都是产品经理",
-    "UX Design CC",
     "UX Planet",
-    "NN/g (Nielsen Norman Group)"
+    "A List Apart",
+    "Awwwards",
+    "优设网",
+    "Sidebar",
+    "UX Design CC",
+    "少数派",
+    "Smashing Magazine",
+    "人人都是产品经理",
+    "CSS-Tricks",
+    "Design Milk"
   ],
-  "generated_at": "2026-05-02T03:22:31.601148",
+  "generated_at": "2026-05-02T13:20:36.385798",
   "categories": [
     {
       "category": "用户体验设计",
@@ -204,55 +206,55 @@
           "published_at": "2026-04-30T13:00:04"
         },
         {
-          "title": "OpenClaw教会我们：AI产品不缺能力，缺一个每天用的理由",
-          "url": "https://www.woshipm.com/ai/6387068.html",
-          "author": "王小佳",
+          "title": "我用AI做了第一个产品，聊聊全过程和踩过的坑",
+          "url": "https://www.woshipm.com/ai/6387543.html",
+          "author": "刘刚",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "OpenClaw 以革命性的 AI Agent 框架重新定义人机协作，短短数月便从现象级爆火到热度退潮，揭示了一个更深刻的行业命题：当 AI 的能力边界不断突破，如何将其转化为用户每日依赖的刚需场景？本文深度拆解这款工具从技术震撼到使用困境的全过程，剖析 AI 产品从‘能做’到‘常用’必须跨越的三重鸿沟。2026 年开年，OpenClaw 以近乎疯狂的速度席卷全球科技圈。尤其是 3 月，“养龙虾”...",
-          "published_at": "2026-05-02T02:20:34"
+          "summary": "从AI使用者到产品创造者的蜕变，一次完整的AI视频生成网站开发之旅。作者不仅成功对接Seedance系列API，实现文本/图片生视频的核心功能，更通过Cursor+Claude Code的AI组合拳完成全流程开发。本文将揭秘从开源模板改造到支付闭环搭建的全过程，分享如何用AI工具突破个人开发者的技术边界。这段时间，我用AI编程工具，开发了一款视频生成网站，域名也申请了，并且可以进行访问了。因为支付...",
+          "published_at": "2026-05-02T08:37:47"
         },
         {
-          "title": "高客单价产品如何经营好小红书闭环电商？！",
-          "url": "https://www.woshipm.com/share/6387363.html",
-          "author": "林卿LinQ.",
+          "title": "从Chat到Agent：一份给所有人的AI范式跃迁实践指南 不是教你”用”，而是教你”成为”",
+          "url": "https://www.woshipm.com/ai/6387601.html",
+          "author": "Echo想要全链跑通",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "小红书正成为高客单价产品的新战场，从2500元的吸顶灯到上万的私人定制旅行，越来越多品牌在这里实现闭环成交。但为何有些产品销量喜人，有些却颗粒无收？本文深度剖析高客单价用户的六阶段消费决策心理，拆解闭环、外溢、私域三条经营链路的选择逻辑，为你揭示高客单价产品在小红书实现转化的底层方法论。小红书上，高客单价产品跑通闭环的案例，已经越来越多、越来越密集地出现在我们的视野里了。2500块钱的吸顶灯、80...",
-          "published_at": "2026-05-02T00:20:03"
+          "summary": "当Claude Code的Opus模型让小米大模型团队负责人连续沉浸4小时时，一个AI Agent的新范式正在崛起。这不仅仅是一次工具升级，而是从被动响应到主动执行的思维革命。本文将揭示Agent框架如何让中等模型实现顶尖性能，分享小米团队从100轮对话实践到组织重构的实战经验，为产品经理、管理者和开发者提供从认知到落地的完整行动指南。撰写来源：基于小米大模型团队负责人罗福莉访谈整理2025年春节...",
+          "published_at": "2026-05-02T06:36:10"
         },
         {
-          "title": "AI 办公产品正在从“聊天框”走向“工作台”",
-          "url": "https://www.woshipm.com/ai/6387615.html",
-          "author": "AP视界",
+          "title": "当大家都用AI获取信息，我开始担心小红书搜索",
+          "url": "https://www.woshipm.com/ai/6387528.html",
+          "author": "寻空",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI工具正从简单的聊天框向功能完整的工作台演进。当用户面临复杂任务时，单一问答模式已无法满足需求，真正的价值在于AI能否嵌入工作流，减少工具切换与重复操作。本文深度剖析AI产品从内容生成到任务承接的转型关键，揭示工作台如何通过任务链路设计成为用户真实工作场景的智能中枢。以前我们用 AI，最常见的方式就是打开一个聊天框，输入一句需求，然后等它回复。这个形态很简单，也很容易理解。用户想写文案，就让 A...",
-          "published_at": "2026-05-01T07:51:18"
+          "summary": "AI正在悄然改变用户获取信息的路径，小红书搜索的入口价值面临前所未有的挑战。当用户更倾向于先向AI提问获取结构化答案，而非直接搜索真实笔记时，平台如何守住决策链条的关键位置？本文深度剖析AI如何『蒸馏』小红书的内容价值，以及平台必须面对的答案系统升级之战。先讲一个我个人获取信息的例子。前段时间我听说了豆包输入法，但我想先了解一下它是否支持跨设备复制粘贴，再决定是否下载，因为我现在使用微信输入法有这...",
+          "published_at": "2026-05-02T05:34:28"
         },
         {
-          "title": "打破SaaS围墙：深度解析问卷星开源背后的架构逻辑与商业胆量",
-          "url": "https://www.woshipm.com/share/6387268.html",
-          "author": "宗上聊运营",
+          "title": "梁文锋不掀桌子，DeepSeek登上半山腰",
+          "url": "https://www.woshipm.com/ai/6387519.html",
+          "author": "唐辰同学",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "问卷平台正在经历一场AI驱动的革命性转变。从腾讯问卷的轻量化Skill到问卷星全栈式开源工具包wjx-ai-kit，这场变革正从简单的功能拓展演变为平台能力的深度重构。本文将深入拆解两种技术路径的差异，揭示问卷工具如何通过CLI、SDK、MCP三位一体的架构，实现从被动响应到主动融入Agent工作流的质变。一、解析背景上次在 UXRen 分享的时候我就说，腾讯问卷做 skill 之后，其他家一定会...",
-          "published_at": "2026-05-01T07:03:19"
+          "summary": "DeepSeek-V4的发布不仅是一次技术迭代，更是国产AI生态的一次重要突破。Pro和Flash双版本精准覆盖从专业分析到日常办公的全场景需求，百万token超长上下文处理能力全版本标配，加之极致的成本控制和开源策略，正在重塑行业竞争格局。更值得关注的是，其与华为昇腾芯片的深度适配，标志着国产AI全栈自主化迈出关键一步。梁文锋不是来掀桌子的。4月24日，DeepSeek-V4（下称“V4”）低调...",
+          "published_at": "2026-05-02T04:32:57"
         },
         {
-          "title": "绝了！有些品牌部门开始“赚钱”了",
-          "url": "https://www.woshipm.com/share/6387213.html",
-          "author": "李倩说品牌",
+          "title": "大疆、特斯拉与人形机器人：产品经理如何理解”新物种产品”的诞生？",
+          "url": "https://www.woshipm.com/ai/6387399.html",
+          "author": "Mark-AIPM",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "品牌不再是烧钱的代名词，那些深耕品牌建设的公司正在收获意外惊喜。从COMMUNE幻师吸引NBA、百老汇等大牌主动求合作，到亚朵通过一双定制鞋撬动员工忠诚与市场机会，本文用两个鲜活案例揭示：当品牌做到极致时，不仅能当饭吃，还能吃出意想不到的商业价值。人人都说做品牌花钱，搞的品牌像是个被包养的金丝雀，除了花钱啥也不会，在公司里受尽了屈辱。最近几年，我观察到一种苗头，有些前期工作做的扎实的品牌开始陆续收...",
-          "published_at": "2026-05-01T05:02:32"
+          "summary": "从大疆到特斯拉再到人形机器人，这些看似迥异的领域背后隐藏着共通的产品逻辑——真正的'新物种'不是技术的堆砌，而是体验的重构。本文深度剖析了硬科技产品从实验室走向市场的关键节点，揭示了如何将复杂技术转化为用户愿意买单的日常体验，以及为什么99%的酷炫Demo最终都倒在了产品化的门槛上。大疆、特斯拉与人形机器人：产品经理如何理解”新物种产品”的诞生？真正的新产品，不是把新技术拿出来展示，而是把复杂技术...",
+          "published_at": "2026-05-02T03:32:09"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 8,
+      "count": 16,
       "items": [
         {
           "title": "Designing Stable Interfaces For Streaming Content",
@@ -325,57 +327,120 @@
           "source": "A List Apart",
           "summary": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things t...",
           "published_at": null
+        },
+        {
+          "title": "Fourmula AI",
+          "url": "https://www.awwwards.com/sites/fourmula-ai",
+          "author": "Fourmeta Agency",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Adcker",
+          "url": "https://www.awwwards.com/sites/adcker",
+          "author": "Emele Collab",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Studio375",
+          "url": "https://www.awwwards.com/sites/studio375-2",
+          "author": "Studio375",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "PieterKoopt®",
+          "url": "https://www.awwwards.com/sites/pieterkoopt-r",
+          "author": "UNCOMMON",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Silent House",
+          "url": "https://www.awwwards.com/sites/silent-house",
+          "author": "Louis Paquet",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Detroit Paris",
+          "url": "https://www.awwwards.com/sites/detroit-paris",
+          "author": "Thomas Carré",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Wild Week - Athens",
+          "url": "https://www.awwwards.com/sites/wild-week-athens",
+          "author": "WILD",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Don Molinico",
+          "url": "https://www.awwwards.com/sites/don-molinico",
+          "author": "AUGE EXPERIENCE",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "nudge",
-          "url": "https://www.producthunt.com/products/nudge-26",
-          "author": "Shunsuke Nakagawa",
+          "title": "YouTube TV Custom Multiview",
+          "url": "https://www.producthunt.com/products/google",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Drop your tasks. AI auto-schedules your whole week.Discussion|Link",
-          "published_at": "2026-04-30T09:59:09"
+          "summary": "Mix and match up to 4 live streams at onceDiscussion|Link",
+          "published_at": "2026-04-29T02:51:28"
         },
         {
-          "title": "Montage",
-          "url": "https://www.producthunt.com/products/montage-3",
-          "author": "Aarav Makadia",
+          "title": "Feather",
+          "url": "https://www.producthunt.com/products/feather-18",
+          "author": "Luca Miglioli",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The runtime framework for agentic user interfaces!Discussion|Link",
-          "published_at": "2026-04-30T15:50:23"
+          "summary": "Photo editor with local AIDiscussion|Link",
+          "published_at": "2026-04-30T00:13:24"
         },
         {
-          "title": "HiveTerm",
-          "url": "https://www.producthunt.com/products/hiveterm",
-          "author": "Ebrahim P. Leite",
+          "title": "Cloud Computer by Manus",
+          "url": "https://www.producthunt.com/products/manus",
+          "author": "Aleksandar Blazhev",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "One workspace for Claude, Codex, Gemini and your stackDiscussion|Link",
-          "published_at": "2026-04-30T09:41:22"
+          "summary": "A dedicated cloud machine for bots and softwareDiscussion|Link",
+          "published_at": "2026-04-30T15:50:18"
         },
         {
-          "title": "LaunchCut",
-          "url": "https://www.producthunt.com/products/launchcut-2",
-          "author": "Andrew Hoffart",
+          "title": "Breaks",
+          "url": "https://www.producthunt.com/products/breaks",
+          "author": "Gjin Prelvukaj",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Interactive iOS Demo BuilderDiscussion|Link",
-          "published_at": "2026-04-30T21:35:28"
-        },
-        {
-          "title": "Beauty Diagram",
-          "url": "https://www.producthunt.com/products/beauty-diagram",
-          "author": "Levi.l",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Diagrams that don't look like they were auto-generatedDiscussion|Link",
-          "published_at": "2026-04-30T16:57:43"
+          "summary": "A quiet Pomodoro that lives in your menu bar.Discussion|Link",
+          "published_at": "2026-04-29T10:16:20"
         }
       ]
     },
@@ -487,6 +552,48 @@
           "source": "Sidebar",
           "summary": "Users know their day. They don’t know your roadmap. Why smart users give convincing wrong answers, and how to do research that opens product space.",
           "published_at": "2026-05-01T06:29:01"
+        }
+      ]
+    },
+    {
+      "category": "前端设计",
+      "count": 4,
+      "items": [
+        {
+          "title": "What’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and More",
+          "url": "https://css-tricks.com/whats-important-10/",
+          "author": "Daniel Schwarz",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "Developers have been experimenting with HTML-in-Canvas, a hexagonal world map-analytics feature, a web-based OS for e-ink devices, replacing image sources using the content property, and more. This is...",
+          "published_at": "2026-05-01T13:43:26"
+        },
+        {
+          "title": "The Importance of Native Randomness in CSS",
+          "url": "https://css-tricks.com/the-importance-of-native-randomness-in-css/",
+          "author": "Alvaro Montoro",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "We're getting new functions for generating random numbers in CSS! But the road to get here has been a long and winding one.The Importance of Native Randomness in CSSoriginally handwritten and publishe...",
+          "published_at": "2026-04-30T15:26:18"
+        },
+        {
+          "title": "contrast()",
+          "url": "https://css-tricks.com/almanac/functions/c/contrast/",
+          "author": "Gabriel Shoyombo",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "Thecontrast()filter function increases or decreases the contrast of an element.contrast()originally handwritten and published with love onCSS-Tricks. You should reallyget the newsletteras well.",
+          "published_at": "2026-04-29T14:58:19"
+        },
+        {
+          "title": "contrast-color()",
+          "url": "https://css-tricks.com/almanac/functions/c/contrast-color/",
+          "author": "Gabriel Shoyombo",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "Thecontrast-color()function takes a<color>and returns either black or white, whichever is the most contrasting color for that value.contrast-color()originally handwritten and published with love onCSS...",
+          "published_at": "2026-04-29T14:57:48"
         }
       ]
     },
