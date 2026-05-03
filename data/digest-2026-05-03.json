@@ -1,27 +1,44 @@
 {
   "date": "2026-05-03T00:00:00",
-  "total_items": 59,
+  "total_items": 53,
   "sources": [
-    "UX Planet",
+    "优设网",
     "Design Milk",
     "人人都是产品经理",
-    "少数派",
-    "NN/g (Nielsen Norman Group)",
-    "Product Hunt",
-    "CSS-Tricks",
-    "Awwwards",
-    "A List Apart",
-    "优设网",
-    "UX Design CC",
+    "Sidebar",
     "Smashing Magazine",
-    "Sidebar"
+    "Product Hunt",
+    "NN/g (Nielsen Norman Group)",
+    "少数派",
+    "CSS-Tricks",
+    "UX Design CC",
+    "A List Apart",
+    "UX Planet"
   ],
-  "generated_at": "2026-05-03T03:38:15.180535",
+  "generated_at": "2026-05-03T13:20:12.280540",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 7,
+      "count": 9,
       "items": [
+        {
+          "title": "Don’t simply bolt on AI. Rethink from the ground up.",
+          "url": "https://uxdesign.cc/dont-simply-bolt-on-ai-rethink-from-the-ground-up-ae73a9093cd2?source=rss----138adf9c44c---4",
+          "author": "Revanth Krishna",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Let AI carry the weight ofyour product’s abstractions, so your users don’t have to.I still remember feeling awe-struck the first time I used ChatGPT. I knew it was the beginning of a new era, but I st...",
+          "published_at": "2026-05-03T10:54:04"
+        },
+        {
+          "title": "The basketball playbook for AI builder teams",
+          "url": "https://uxdesign.cc/the-basketball-playbook-for-ai-builder-teams-5ab76a91780e?source=rss----138adf9c44c---4",
+          "author": "Patrick Neeman",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "What Pat Riley, Gregg Popovich, Phil Jackson, and Dawn Staley can teach us about building in the age of artificial intelligence, with Steve Kerr providing an assistI preferred the Kobe Bryant / Pau Ga...",
+          "published_at": "2026-05-03T10:53:24"
+        },
         {
           "title": "Can AI make your dating life better?",
           "url": "https://uxdesign.cc/can-ai-make-your-dating-life-better-aae6e3d26be2?source=rss----138adf9c44c---4",
@@ -197,55 +214,55 @@
           "published_at": "2026-04-30T13:00:04"
         },
         {
-          "title": "为什么模型越来越强，AI Coding 反而更依赖工程系统？",
-          "url": "https://www.woshipm.com/ai/6387770.html",
-          "author": "诗说红豆",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "AI Coding 的瓶颈正在从模型能力转向工程环境的设计。Harness Engineering 作为一套可运行、可约束、可验证、可演化的工程支架，将决定 AI Agent 能否稳定完成复杂任务。本文将深入解析 Harness 如何解决状态持久性、目标一致性等核心挑战，并探讨工程师角色在 AI 时代的关键转变。最近，我一直在反复琢磨网上刷到的一段话。它并非我的原创判断，但我非常认可。更准确地说，...",
-          "published_at": "2026-05-03T03:14:45"
-        },
-        {
-          "title": "一篇讲透：小红书上能爆的产品到底长什么样！",
-          "url": "https://www.woshipm.com/share/6387606.html",
+          "title": "一篇讲透：小红书电商选品全链路！建议收藏",
+          "url": "https://www.woshipm.com/share/6387773.html",
           "author": "林卿LinQ.",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "小红书电商的选品逻辑正在颠覆传统认知——在这个内容至上的平台，产品能否成为爆款，90%取决于它是否为优质内容提供了天然素材。本文深度拆解了小红书爆款产品的三大黄金法则：从平台适配的审美驱动、超值感到M型消费结构，到产品自身的两极分化和市场机会捕捉，再到决定天花板的内容可视化与社交货币属性，为内容电商创业者提供了一套完整的选品决策框架。每次选品这个主题我都会花长篇大论来讲。不是因为方法论有多复杂，而...",
-          "published_at": "2026-05-03T02:26:39"
+          "summary": "选品不只是挑选产品，更是一场关于战场与对手的战略博弈。本文深度拆解小红书爆款选品全链路，从抢蛋糕与找蓝海的双轨逻辑，到团队基因决定选品方向的底层逻辑，再到如何通过抄品实现降维打击的实战方法论，为你提供一套从判断标准到执行落地的完整解决方案。这是选品系列的下篇。上篇讲的是“什么样的产品在小红书上具备爆款潜质？”，是一套判断参照系，帮你评估一个产品值不值得做；这篇讲的是完整的选品链路：怎么选、怎么验证...",
+          "published_at": "2026-05-03T08:17:46"
         },
         {
-          "title": "VibeCoding 浪潮下，产品经理最值钱的能力变了",
-          "url": "https://www.woshipm.com/pmd/6387711.html",
-          "author": "浩子AIPM",
+          "title": "LangChain团队用AI agent做销售和营销的最佳实践",
+          "url": "https://www.woshipm.com/ai/6387996.html",
+          "author": "深思圈",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "VibeCoding 让产品经理第一次能直接把需求变成可运行的产品，但大多数人的产出是\"能用但粗糙\"——注册没有验证、数据没有权限、流程没有闭环。差距不在工具，在于需求描述的精度。产品经理多年修炼的 PRD 能力、用户视角和边界思维，在 AI 开发时代反而成了最稀缺的竞争力。上周，一个做产品经理的朋友给我发了一个链接。点开，是一个能跑的 SaaS 工具——用户注册、数据看板、导出报表，全都有。他兴...",
-          "published_at": "2026-05-03T01:04:58"
+          "summary": "LangChain 的 GTM Agent 正在颠覆传统销售模式，这款市场推广AI助手将潜在客户转化率提升250%，同时为团队节省1320小时。通过深度集成Salesforce、Gong等核心系统，它能自动完成客户研究、邮件草拟等重复工作，而销售代表只需专注决策环节。本文详解这款AI agent如何重构人机协作边界，以及它对AI在企业应用中价值的启示。你有没有想过，销售这件事可能会被彻底重新定义？...",
+          "published_at": "2026-05-03T07:56:30"
         },
         {
-          "title": "我用AI做了第一个产品，聊聊全过程和踩过的坑",
-          "url": "https://www.woshipm.com/ai/6387543.html",
-          "author": "刘刚",
+          "title": "AI Agent 正在构建一个 5 万亿美元的经济体，而你可能还没听说过",
+          "url": "https://www.woshipm.com/ai/6387987.html",
+          "author": "深思圈",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从AI使用者到产品创造者的蜕变，一次完整的AI视频生成网站开发之旅。作者不仅成功对接Seedance系列API，实现文本/图片生视频的核心功能，更通过Cursor+Claude Code的AI组合拳完成全流程开发。本文将揭秘从开源模板改造到支付闭环搭建的全过程，分享如何用AI工具突破个人开发者的技术边界。这段时间，我用AI编程工具，开发了一款视频生成网站，域名也申请了，并且可以进行访问了。因为支付...",
-          "published_at": "2026-05-02T08:37:47"
+          "summary": "当AI agent开始互相雇佣、交易并形成独立经济体系时，一个每月260万美元的自运行市场正在颠覆传统商业逻辑。本文深度解析Virtuals.io的ACP协议如何通过智能合约构建信任机制，揭示AI agent经济中隐藏的3-5万亿美元机会，以及为何专业化服务将成为这场革命的核心驱动力。你有没有想过，当 AI agent 不再只是帮人类工作，而是开始互相雇佣、互相交易时，会发生什么？一个月收入 26...",
+          "published_at": "2026-05-03T07:49:53"
         },
         {
-          "title": "从Chat到Agent：一份给所有人的AI范式跃迁实践指南 不是教你”用”，而是教你”成为”",
-          "url": "https://www.woshipm.com/ai/6387601.html",
-          "author": "Echo想要全链跑通",
+          "title": "【1.6w万字长文】AI 智能体在支付风控的完整落地实录",
+          "url": "https://www.woshipm.com/ai/6387986.html",
+          "author": "Aaron",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当Claude Code的Opus模型让小米大模型团队负责人连续沉浸4小时时，一个AI Agent的新范式正在崛起。这不仅仅是一次工具升级，而是从被动响应到主动执行的思维革命。本文将揭示Agent框架如何让中等模型实现顶尖性能，分享小米团队从100轮对话实践到组织重构的实战经验，为产品经理、管理者和开发者提供从认知到落地的完整行动指南。撰写来源：基于小米大模型团队负责人罗福莉访谈整理2025年春节...",
-          "published_at": "2026-05-02T06:36:10"
+          "summary": "从每天数百客诉到分钟级自动分析，从数天风险定位到 T+1 主动发现，从天级策略制定到分钟级策略生成——用多 Agent 架构改造风控流程的完整复盘。注：①风控从业者和做过 Agent 落地的读者，如果发现某些环节被简化或跳过，是正常的。半年项目的体量，一篇 1.6w 字文章只能装下冰山一角。例如我们有二十多个环节调用 AI，每一个 prompt 可能都五六千字，每一个 prompt 都要改十几版，...",
+          "published_at": "2026-05-03T07:49:20"
+        },
+        {
+          "title": "10年了，为什么无人机还是送不了外卖？",
+          "url": "https://www.woshipm.com/it/6387982.html",
+          "author": "有界UnKnown",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "无人机配送曾被视为城市最后一公里的革命性解决方案，却在十年探索后仍困于规模化瓶颈。从亚马逊Prime Air到美团无人机，全球玩家逐渐意识到：高昂的基础设施成本、分散的订单密度与严苛的监管体系，共同构成了难以突破的'城市围墙'。本文深度拆解无人机配送从狂热到理性的商业逻辑演变。在今天，无人机已经无处不在。它能在天空中排出万字巨幕，组成一幅光点编织的城市烟火；能在农田里替农民喷洒药剂、一小时覆盖几十...",
+          "published_at": "2026-05-03T07:38:50"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 16,
+      "count": 8,
       "items": [
         {
           "title": "Designing Stable Interfaces For Streaming Content",
@@ -318,102 +335,21 @@
           "source": "A List Apart",
           "summary": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things t...",
           "published_at": null
-        },
-        {
-          "title": "Fourmula AI",
-          "url": "https://www.awwwards.com/sites/fourmula-ai",
-          "author": "Fourmeta Agency",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Adcker",
-          "url": "https://www.awwwards.com/sites/adcker",
-          "author": "Emele Collab",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Studio375",
-          "url": "https://www.awwwards.com/sites/studio375-2",
-          "author": "Studio375",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "PieterKoopt®",
-          "url": "https://www.awwwards.com/sites/pieterkoopt-r",
-          "author": "UNCOMMON",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Silent House",
-          "url": "https://www.awwwards.com/sites/silent-house",
-          "author": "Louis Paquet",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Detroit Paris",
-          "url": "https://www.awwwards.com/sites/detroit-paris",
-          "author": "Thomas Carré",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Wild Week - Athens",
-          "url": "https://www.awwwards.com/sites/wild-week-athens",
-          "author": "WILD",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Don Molinico",
-          "url": "https://www.awwwards.com/sites/don-molinico",
-          "author": "AUGE EXPERIENCE",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 1,
       "items": [
         {
-          "title": "Feather",
-          "url": "https://www.producthunt.com/products/feather-18",
-          "author": "Luca Miglioli",
+          "title": "Aximote In-Car App",
+          "url": "https://www.producthunt.com/products/aximote-in-car-app",
+          "author": "Laurenz Hinterholzer",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Photo editor with local AIDiscussion|Link",
-          "published_at": "2026-04-30T00:13:24"
-        },
-        {
-          "title": "Cloud Computer by Manus",
-          "url": "https://www.producthunt.com/products/manus",
-          "author": "Aleksandar Blazhev",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "A dedicated cloud machine for bots and softwareDiscussion|Link",
-          "published_at": "2026-04-30T15:50:18"
+          "summary": "The fitness tracker for your carDiscussion|Link",
+          "published_at": "2026-04-30T14:04:40"
         }
       ]
     },
@@ -554,8 +490,17 @@
     },
     {
       "category": "数字生活",
-      "count": 5,
+      "count": 6,
       "items": [
+        {
+          "title": "假期出门太折磨？我的 23 条经验帮你规划惬意旅行",
+          "url": "https://sspai.com/post/100006",
+          "author": "桌沿奇思",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "published_at": "2026-05-03T04:19:32"
+        },
         {
           "title": "本周看什么 | 最近值得一看的 10 部作品",
           "url": "https://sspai.com/post/109266",
