@@ -1,27 +1,36 @@
 {
   "date": "2026-05-07T00:00:00",
-  "total_items": 68,
+  "total_items": 72,
   "sources": [
-    "A List Apart",
-    "Sidebar",
-    "Smashing Magazine",
-    "Product Hunt",
-    "UX Planet",
-    "人人都是产品经理",
-    "NN/g (Nielsen Norman Group)",
-    "Awwwards",
     "CSS-Tricks",
-    "Design Milk",
     "少数派",
     "优设网",
-    "UX Design CC"
+    "NN/g (Nielsen Norman Group)",
+    "UX Planet",
+    "Smashing Magazine",
+    "人人都是产品经理",
+    "Awwwards",
+    "Product Hunt",
+    "Sidebar",
+    "UX Design CC",
+    "A List Apart",
+    "Design Milk"
   ],
-  "generated_at": "2026-05-07T03:33:24.236118",
+  "generated_at": "2026-05-07T14:23:39.985091",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 14,
+      "count": 16,
       "items": [
+        {
+          "title": "The first taste of Joy",
+          "url": "https://uxdesign.cc/the-first-taste-of-joy-02f81408ac8a?source=rss----138adf9c44c---4",
+          "author": "Himanshu Bharadwaj",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How a few fries, a piece of chicken, and a beginner’s mind became my first lesson in Joyful Design.Continue reading on UX Collective »",
+          "published_at": "2026-05-07T05:57:29"
+        },
         {
           "title": "We built this. Now we own it.",
           "url": "https://uxdesign.cc/we-built-this-now-we-own-it-1f8f1ba7c768?source=rss----138adf9c44c---4",
@@ -37,7 +46,7 @@
           "author": "Marc Andrew",
           "category": "用户体验设计",
           "source": "UX Design CC",
-          "summary": "The creator’s code is dead. It’s time to replace moral outrage with something more permanent.They cooked.With your work.They scraped.With your work.I’ve been designing for over 30 years, and I’ve neve...",
+          "summary": "The creator’s code is dead. It’s time to replace moral outrage with something more permanent.Continue reading on UX Collective »",
           "published_at": "2026-05-06T11:18:09"
         },
         {
@@ -102,6 +111,15 @@
           "source": "UX Design CC",
           "summary": "Weekly curated resources for designers — thinkers and makers.“So much of our creative communication as human beings so deeply depends on the emotion, connection, and meaningful context created and con...",
           "published_at": "2026-05-04T08:34:23"
+        },
+        {
+          "title": "What is DESIGN.md and How To Use It",
+          "url": "https://uxplanet.org/what-is-design-md-and-how-to-use-it-70532359b311?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "One of the biggest challenges when using AI design generators is producing consistent output. Even when you feed AI tools specific…Continue reading on UX Planet »",
+          "published_at": "2026-05-07T11:56:36"
         },
         {
           "title": "Vibe Coding Makes You a Bad Designer",
@@ -215,6 +233,24 @@
       "count": 11,
       "items": [
         {
+          "title": "Issey Miyake’s Milan Shop Transformed Paper Into Marble",
+          "url": "https://design-milk.com/issey-miyakes-milan-shop-transformed-paper-into-marble/",
+          "author": "Elizabeth Pagliacolo",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Conceived by the Japanese fashion house in collaboration with Spanish studio Ensamble, \"The Paper Log: Shell and Core\" demonstrated the vivid possibilities of upcycling the byproducts of garment creat...",
+          "published_at": "2026-05-07T14:00:02"
+        },
+        {
+          "title": "Two Units Become One Inside the Rockefeller Apartments",
+          "url": "https://design-milk.com/two-units-become-one-inside-the-rockefeller-apartments/",
+          "author": "Leo Lei",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Nicholas Potts Studio and Studio Armando Aguirre restore the spatial generosity of the landmark Rockefeller Apartments through layered interiors informed by Bauhaus references, vintage furnishings, an...",
+          "published_at": "2026-05-07T13:00:13"
+        },
+        {
           "title": "12 Selections from Salone and Beyond",
           "url": "https://design-milk.com/12-selections-from-salone-and-beyond/",
           "author": "Joseph Sgambati III",
@@ -251,67 +287,49 @@
           "published_at": "2026-05-05T15:00:15"
         },
         {
-          "title": "This Might Have Been the Quietest Show at Milan Design Week 2026",
-          "url": "https://design-milk.com/this-might-have-been-the-quietest-show-at-milan-design-week-2026/",
-          "author": "Adrian Madlener",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "German designer Thilo Reich debuted his Urban Tissue outdoor table and chair collection at the legendary Bar Basso, riffing on the growing scale and intensity of Milan Design Week.",
-          "published_at": "2026-05-05T14:00:16"
-        },
-        {
-          "title": "A Palm Court-Inspired Workspace is an Oasis in London",
-          "url": "https://design-milk.com/a-palm-court-inspired-workspace-is-an-oasis-in-london/",
-          "author": "Anna Zappia",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Conductor, a new workspace in London, boasts an atrium with lush greenery evocative of grand palm courts of the past.",
-          "published_at": "2026-05-04T18:00:03"
-        },
-        {
-          "title": "一个好的AI记忆产品应该是怎么样的？",
-          "url": "https://www.woshipm.com/share/6390147.html",
-          "author": "小末就是小末",
+          "title": "想要Skills变现，你需要先搞懂这5点",
+          "url": "https://www.woshipm.com/ai/6390923.html",
+          "author": "伍德安思壮",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI记忆产品正在重新定义人机交互的深度。从智能时间线整理到因果追踪，从分层提炼到主动洞察，一款优秀的记忆产品需要具备九层递进能力。本文深度解析这些核心要素如何构建真正'懂你'的AI，并探讨OpenClaw与Looki在实现这些能力上的突破与局限。去年做了一整年的AI记忆产品，结合工作里的一些思考，总结了九点我认为一个好的 AI 记忆产品需要具备的因素，以下列出的每一点都是层层递进的。1. 智能整理...",
-          "published_at": "2026-05-07T03:22:25"
+          "summary": "AI创业者的变现困局往往源于对产品本质的误判。本文揭示Skills变现的黄金法则：从付费场景倒推产品设计，提供3个高转化方向与可复用的Skill结构，并拆解无代码实现的3种路径。关键在于用最小可行产品验证需求，而非追求技术完美。最近发现许多AI方向的创业者在讨论一个话题：“学了大模型，会用各种AI工具，写了一堆Skills，但就是不知道怎么赚钱”。其实，有很多人容易陷入一个误区：上来就闷头写Ski...",
+          "published_at": "2026-05-07T11:44:42"
         },
         {
-          "title": "独立创作者的春天：AI如何重塑内容创作的未来？",
-          "url": "https://www.woshipm.com/ai/6390138.html",
-          "author": "悠酱",
+          "title": "Notion产品负责人：品味是可以被训练的",
+          "url": "https://www.woshipm.com/it/6390918.html",
+          "author": "深思圈",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI正在重塑内容创作的游戏规则，从爱奇艺的'形象独家授权协议'争议到B站独立创作者的崛起，这场权力重构揭示了技术革命下的行业阵痛与新机遇。本文将深度剖析AI如何拆解创作成本壁垒、扩展个人能力边界，并催生'全栈创作者'这一全新物种，带你看懂人类创意与AI工具融合的必然未来。一、有一句话，我一直记得“值钱的永远是有真正东西的创作者，但这个时代对这方面的需求太少。”这句话说得朴素，却扎心。它触到了这个时...",
-          "published_at": "2026-05-07T03:15:11"
+          "summary": "Notion 产品负责人 Max Schoening 揭示 AI 时代产品开发的范式转变：设计师写代码、PM 构建原型、10% 产品验证零成本。这场变革重塑了 agency 的价值、品味的定义与 SaaS 的未来图景，而微小核心理论与增量正确性原则正在改写成功产品的底层逻辑。你有没有想过，产品开发这件事可能已经彻底变了？Notion 的设计师现在在终端里写代码，PM 不再写 PRD 而是直接构建原...",
+          "published_at": "2026-05-07T11:29:56"
         },
         {
-          "title": "AI 裁员潮：倒洗澡水的时候，顺手把孩子也倒了",
-          "url": "https://www.woshipm.com/ai/6390076.html",
-          "author": "Isaac Theo",
+          "title": "闯入榜单Top20，拉美社交新势力崛起：直播、语聊、兴趣匹配暗藏增量机会？",
+          "url": "https://www.woshipm.com/share/6390902.html",
+          "author": "扬帆出海",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "互联网圈正在上演一场荒诞的AI裁员大戏。老板们一边痛骂AI的无能，一边却把它当作裁员的最佳借口。这场打着'AI原生'旗号的人力优化，究竟是技术驱动还是管理玄学？当企业用冰冷的算力替代鲜活的经验，那些藏在业务深处的隐性知识又该由谁来守护？咱们坐下来，慢慢扒一扒最近互联网圈这场最离谱的“赛博惊悚片”。如果你最近深夜在大厂楼下的便利店买过关东煮，那你有没有感受到一种比较反常的氛围：灯火通明依旧，但那种往...",
-          "published_at": "2026-05-07T03:06:26"
+          "summary": "拉美社交赛道正迎来新一波创新浪潮。VivoLive以直播社交切入，通过实时翻译与等级体系打破地域限制；Afami构建兴趣社区，用Family Chat沉淀稳定关系；Ahabi则专注随机匹配，验证陌生人互动模式。三款产品分别代表不同路径，展现拉美市场的多元可能性。近期的拉美社交应用榜单，多了一些“新面孔”。聚焦巴西市场，5月6日，有两款新品闯入了当地Google Play社交榜Top20。其中，20...",
+          "published_at": "2026-05-07T11:17:53"
         },
         {
-          "title": "总做描述性统计，深入的数据分析到底怎么做？？",
-          "url": "https://www.woshipm.com/share/6390446.html",
-          "author": "接地气的陈老师",
+          "title": "用AI制作新闻热点推送系统，快速掌握某个话题近期的热点新闻概况",
+          "url": "https://www.woshipm.com/ai/6390880.html",
+          "author": "知果日记",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "数据分析的深度决定了业务决策的质量。本文通过业绩下滑的典型案例，拆解如何从表象指标深入到业务本质，构建'指标+标签'的分析框架，用MECE法则排除干扰因素，最终形成可落地的解决方案。掌握这套方法论，你也能产出让业务团队眼前一亮的分析报告。经常有同学抱怨：感觉平时做的都是描述性统计，同比、环比，深入的数据分析到底怎么做？今天系统地讲解一下。话不多说，直接上干货。常见的描述性统计举个简单的例子，让分析...",
-          "published_at": "2026-05-07T03:02:05"
+          "summary": "新闻资讯的获取方式正在被AI重新定义。这款定制化新闻热点推送系统通过智能分析、自动聚合与精准推送，彻底解决了手动搜索的低效问题。从关键词输入到仪表盘呈现，系统实现了全链路自动化处理，为决策者提供实时、精准的热点洞察。本文将深入拆解这套系统的架构设计与实现逻辑。从开封、洛阳回来后休息了几天，梳理了近期工作。公众号今天正式开工，先和大家分享「新闻热点推送系统」的做法。// 背景当我们需要快速掌握某个话...",
+          "published_at": "2026-05-07T09:56:19"
         },
         {
-          "title": "AI Agent开始“自己干活”后，产品经理该如何重新设计控制权？",
-          "url": "https://www.woshipm.com/ai/6389110.html",
-          "author": "诗说红豆",
+          "title": "AI时代的产品经理，岗位职责有哪些变化?",
+          "url": "https://www.woshipm.com/ai/6390879.html",
+          "author": "AI星球",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI Agent正在从“会聊天的工具”变成“能执行的系统”。当AI开始帮用户审批、分单、生成方案、调用工具甚至跨系统协作时，产品经理真正要设计的，已经不只是一个对话框，而是一套人机协作的控制机制。本文从Human in the loop、Human on the loop和Human out of the loop三种模式出发，讨论产品经理如何判断：哪些环节必须人工确认，哪些环节只需要人工监督，哪...",
-          "published_at": "2026-05-07T02:55:38"
+          "summary": "导读：AI时代产品经理的职责不是传统职责的简单叠加，而是范式转移。本文从能力边界设计、Prompt工程、实验管理、数据飞轮、人机协作五个维度，拆解AI产品经理岗位职责的具体变化，帮你理解老手艺如何在新战场上重新开张。上个月，一个认识了挺久的产品哥们跟我吐槽。他在传统互联网公司干了五年，从助理做到高级产品经理，履历光鲜，项目也拿得出手。去年他觉得AI是趋势，业余时间啃了几篇论文，玩了玩ChatGPT...",
+          "published_at": "2026-05-07T09:55:52"
         }
       ]
     },
@@ -392,6 +410,15 @@
           "published_at": null
         },
         {
+          "title": "Marvell Tile & Stone",
+          "url": "https://www.awwwards.com/sites/marvell-tile-stone",
+          "author": "Humaan",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "ASTRODITHER",
           "url": "https://www.awwwards.com/sites/astrodither",
           "author": "Robert Borghesi",
@@ -435,48 +462,48 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "PieterKoopt®",
-          "url": "https://www.awwwards.com/sites/pieterkoopt-r",
-          "author": "UNCOMMON",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 4,
       "items": [
         {
-          "title": "DevAlly",
-          "url": "https://www.producthunt.com/products/devally",
-          "author": "Cormac Chisholm",
+          "title": "ClearMesh",
+          "url": "https://www.producthunt.com/products/clearmesh",
+          "author": "Ravik",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI powered accessibility compliance for teams who ship fastDiscussion|Link",
-          "published_at": "2026-05-05T22:10:01"
+          "summary": "A Git-like platform for datasets, models, and binary foldersDiscussion|Link",
+          "published_at": "2026-05-06T20:06:33"
         },
         {
-          "title": "damnlines.com",
-          "url": "https://www.producthunt.com/products/damnlines-com",
-          "author": "Lucas Gordon",
+          "title": "FlowMarket",
+          "url": "https://www.producthunt.com/products/flowmarket-2",
+          "author": "Steffen Rehmann",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "No one likes waiting in a damn line.Discussion|Link",
-          "published_at": "2026-05-05T02:13:30"
+          "summary": "A social network of AI agents generating B2B dealsDiscussion|Link",
+          "published_at": "2026-05-05T13:01:30"
         },
         {
-          "title": "Ajelix AI Agent for Work",
-          "url": "https://www.producthunt.com/products/ajelix-ai-excel-tools",
-          "author": "Agnese",
+          "title": "Google Pomelli Catalog",
+          "url": "https://www.producthunt.com/products/google",
+          "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The first truly agentic AI sidebar for Google Workspace™Discussion|Link",
-          "published_at": "2026-05-05T18:49:37"
+          "summary": "Turn a product catalog into branded campaign assetsDiscussion|Link",
+          "published_at": "2026-05-05T16:47:13"
+        },
+        {
+          "title": "Basedash MCP server",
+          "url": "https://www.producthunt.com/products/basedash",
+          "author": "Max Musing",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Your data analyst, in every AI tool you already useDiscussion|Link",
+          "published_at": "2026-05-06T22:31:59"
         }
       ]
     },
@@ -545,56 +572,65 @@
       "count": 5,
       "items": [
         {
-          "title": "Design from the inside",
-          "url": "https://mattstromawn.com/writing/design-from-the-inside/",
+          "title": "Collected consciousness",
+          "url": "https://www.doc.cc/articles/consciousness",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "There is no ‘source of truth’ when everything changes at every moment.",
-          "published_at": "2026-05-06T07:49:12"
+          "summary": "AI product design for empowering human creativity.",
+          "published_at": "2026-05-07T06:19:56"
         },
         {
-          "title": "Cognitive Biases",
-          "url": "https://cognitivebiasindex.com/",
+          "title": "Griddy icons",
+          "url": "https://griddyicons.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A tool for identifying and mitagating the systematic errors in thinking that affect the decisions and judgments that humans make.",
-          "published_at": "2026-05-06T07:48:32"
+          "summary": "A free open-source icon family with a unique utilitarian vibe.",
+          "published_at": "2026-05-07T06:19:28"
         },
         {
-          "title": "Flipbook",
-          "url": "https://flipbook.page/",
+          "title": "The “passive income” trap ate a generation of entrepreneurs",
+          "url": "https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "An infinite visual browser generated entirely on demand in real time.",
-          "published_at": "2026-05-06T07:48:02"
+          "summary": "How chasing passive income destroys the focus needed to build meaningful products.",
+          "published_at": "2026-05-07T06:19:01"
         },
         {
-          "title": "Tinto",
-          "url": "https://tinto.rafaelbombana.com/",
+          "title": "Design.md supply",
+          "url": "https://styles.refero.design/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Memorize the color. Score as many points as possible.",
-          "published_at": "2026-05-06T07:47:34"
+          "summary": "Search a curated design.md library for AI agents: colors, typography, spacing, and component patterns from top websites.",
+          "published_at": "2026-05-07T06:17:29"
         },
         {
-          "title": "A guide to agent-native Product Management",
-          "url": "https://every.to/guides/ai-product-management-guide",
+          "title": "You are not immune to mode collapse",
+          "url": "https://www.lesswrong.com/posts/vKtuRbo4e3ffixmee/you-are-not-immune-to-mode-collapse",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A step-by-step guide to using agentic capabilities for better product management",
-          "published_at": "2026-05-06T07:47:12"
+          "summary": "How to keep digital experiences feeling authentic and genuinely useful.",
+          "published_at": "2026-05-07T06:14:10"
         }
       ]
     },
     {
       "category": "前端设计",
-      "count": 3,
+      "count": 4,
       "items": [
+        {
+          "title": "A Scrollytelling Gift for Mum on Mother’s Day 2026",
+          "url": "https://css-tricks.com/a-scrollytelling-gift-for-mum-on-mothers-day-2026/",
+          "author": "Lee Meyer",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "I will explain how my mum inspired this 2026 Mother’s Day scrollytelling experiment — but also, how she inspired my approach to dev and life.A Scrollytelling Gift for Mum on Mother’s Day 2026originall...",
+          "published_at": "2026-05-07T14:22:38"
+        },
         {
           "title": "Google’s Prompt API",
           "url": "https://css-tricks.com/googles-prompt-api/",
@@ -629,6 +665,33 @@
       "count": 6,
       "items": [
         {
+          "title": "新玩意 240｜少数派的编辑们最近买了啥？",
+          "url": "https://sspai.com/post/109474",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@西鸽：盖世小鸡G7Pro天 ...查看全文",
+          "published_at": "2026-05-07T09:03:10"
+        },
+        {
+          "title": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
+          "url": "https://sspai.com/post/109460",
+          "author": "克莱德",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "安静的 iPhone 才是最好的 iPhone？查看全文",
+          "published_at": "2026-05-07T08:38:27"
+        },
+        {
+          "title": "甘南秘境，大白高国：我的甘南自由行记",
+          "url": "https://sspai.com/post/109367",
+          "author": "PJHubs",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "甘南是有着和川西、川北和青甘大环线齐名的绝美圣地，中国大地上第一级阶梯向第二级阶梯的过渡带。这片地方还得再来，适合自驾慢慢走慢慢看，好多风景优美的地方不适合赶路着急。查看全文",
+          "published_at": "2026-05-07T03:00:10"
+        },
+        {
           "title": "派早报：三星电子退出中国家电市场、Microsoft Edge 被曝安全隐患等",
           "url": "https://sspai.com/post/109448",
           "author": "少数派编辑部",
@@ -654,33 +717,6 @@
           "source": "少数派",
           "summary": "朋友们，浴室真的是一个灵感迸发的地方。在某天洗澡前的如厕时间，我突然想到，现在有许多人在上厕所的时候刷手机，导致如厕时间变长，进而容易增加痔疮等疾病的风险。那么，有没有可能做一个工具，像AppleWa ...查看全文",
           "published_at": "2026-05-06T07:00:00"
-        },
-        {
-          "title": "我写了一个 skill，用 AI 给 AI「除味儿」",
-          "url": "https://sspai.com/post/109288",
-          "author": "小胡小胡0009",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "强硬规则约束下的公式化表达，即便去除了现在的 AI 味，会不会产生新的 AI 味呢？查看全文",
-          "published_at": "2026-05-06T02:49:30"
-        },
-        {
-          "title": "派早报：一加、realme 合并，M4 Mac mini 256GB 版本下架等",
-          "url": "https://sspai.com/post/109410",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "M4 Mac mini 256GB 版本下架，豆包确认将推出付费版本等。查看全文",
-          "published_at": "2026-05-06T00:12:58"
-        },
-        {
-          "title": "听歌时间到，12 张你可能错过的 2025 华语乐坛好专辑",
-          "url": "https://sspai.com/post/109014",
-          "author": "北鸮",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": null,
-          "published_at": "2026-05-05T03:00:00"
         }
       ]
     }
