@@ -1,28 +1,37 @@
 {
   "date": "2026-05-09T00:00:00",
-  "total_items": 69,
+  "total_items": 70,
   "sources": [
-    "优设网",
-    "UX Planet",
-    "人人都是产品经理",
-    "Awwwards",
     "Smashing Magazine",
+    "Awwwards",
+    "人人都是产品经理",
+    "A List Apart",
+    "Sidebar",
+    "CSS-Tricks",
+    "Design Milk",
     "Product Hunt",
     "Intercom Blog",
-    "Design Milk",
+    "UX Design CC",
     "少数派",
-    "Sidebar",
-    "A List Apart",
+    "优设网",
     "NN/g (Nielsen Norman Group)",
-    "CSS-Tricks",
-    "UX Design CC"
+    "UX Planet"
   ],
-  "generated_at": "2026-05-09T03:28:12.851936",
+  "generated_at": "2026-05-09T13:24:59.305082",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 10,
+      "count": 11,
       "items": [
+        {
+          "title": "The left-handed rope",
+          "url": "https://uxdesign.cc/the-left-handed-rope-1875c30ad62e?source=rss----138adf9c44c---4",
+          "author": "HIROSHI SATO",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "On a sacred design pattern, and the long reach of small reversalsContinue reading on UX Collective »",
+          "published_at": "2026-05-09T09:48:25"
+        },
         {
           "title": "Everything I know about AI, I learned from a genie",
           "url": "https://uxdesign.cc/everything-i-know-about-ai-i-learned-from-a-genie-e5745d22c722?source=rss----138adf9c44c---4",
@@ -261,49 +270,49 @@
           "published_at": "2026-05-07T17:00:30"
         },
         {
-          "title": "低毛利+高投流+严监管三重挤压下，零食电商的破局之路在何方？",
-          "url": "https://www.woshipm.com/it/6391991.html",
-          "author": "沙水",
+          "title": "觅话VS爱聊 202605最新版本分析报告",
+          "url": "https://www.woshipm.com/evaluating/6392137.html",
+          "author": "一更测评哥",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "零食电商行业正遭遇前所未有的危机：三只松鼠百亿营收背后净利润仅1.55亿，行业普遍陷入低毛利、高投流、严监管的'死亡三角'。本文深度拆解流量红利消失后的行业困境，从供应链整合、用户思维转型、差异化创新和合规经营四大维度，揭示2026年零食电商的破局之道与生存法则。2025年，三只松鼠卖了101.89亿元的零食，听起来挺唬人是吧？但净利润只有1.55亿元，同比暴跌61.9%，销售费用率高达19.74...",
-          "published_at": "2026-05-09T02:49:50"
+          "summary": "在2.4亿单身人口的市场背景下，视频婚恋社交成为陌生人社交核心增长极，90后、95后为核心用户，对社交真实性、高效性需求突出。本文选取觅话（新兴平台，聚焦真实认证+极简视频）与爱聊（老牌平台，聚焦多元匹配+泛社交）的最新版本，从多维度开展竞品对比，梳理二者优劣势与差异化特征，为产品迭代、行业决策及用户选择提供专业参考。随着移动互联网技术的迭代升级与单身群体规模的持续扩大，陌生人社交需求呈现刚性增长...",
+          "published_at": "2026-05-09T08:11:53"
         },
         {
-          "title": "AI产品经理的新分水岭：会Vibe Coding的人，正在悄悄甩开同行一整个段位",
-          "url": "https://www.woshipm.com/ai/6391961.html",
-          "author": "Talen",
+          "title": "每个大模型，都要找到自己的非对称优势",
+          "url": "https://www.woshipm.com/ai/6392237.html",
+          "author": "深流研究所",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI产品经理的战场正在从会议室转向代码编辑器！当团队为‘用户打断AI语音’的交互细节吵到深夜时，有人用Cursor半小时做出可运行demo——这就是硅谷爆火的Vibe Coding革命。它不仅改变了PRD撰写方式，更让产品经理能亲手验证模型行为、快速迭代方案，甚至自建工具军团。本文将揭秘这种‘描述需求即生成代码’的新范式，如何重塑AI时代的产品开发逻辑与PM核心竞争力。周五晚上，那场没有赢家的会先...",
-          "published_at": "2026-05-09T02:49:32"
+          "summary": "四月的大模型战场硝烟弥漫，全球15款前沿模型密集发布，Claude Opus 4.7、DeepSeek V4等重磅产品掀起新一轮技术军备竞赛。OpenRouter最新榜单揭示关键趋势：模型能力之外的应用场景与生态布局正成为决胜关键。本文将深度拆解Anthropic、DeepSeek、谷歌和腾讯的差异化战略路径，看大模型如何通过代码能力、价格革命、全栈闭环和场景渗透构建各自的'锯齿状优势'。“四月是...",
+          "published_at": "2026-05-09T08:02:03"
         },
         {
-          "title": "支付结算 · 进阶篇：对账、分账、退款、异常资金池",
-          "url": "https://www.woshipm.com/share/6391899.html",
-          "author": "Zoe产品手记",
+          "title": "这才是真正的“产品分析”，而不是罗列DAU",
+          "url": "https://www.woshipm.com/share/6392283.html",
+          "author": "接地气的陈老师",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "这是「电商产品能力拆解」系列第 7 篇 · 支付结算的下篇。上篇我们把支付方式、支付链路、支付状态机这三块地基打稳了——做到了\"钱能稳稳收进来\"。但真正让支付产品在月结日翻车的，是\"钱收完之后的那些事\"。下篇就来把最难啃的 4 道进阶关全部拆开：对账、分账、退款、异常资金池。先看一个月结日的四爆现场：时间：双11 结束一周后，财务月度对账日。早上 9 点 30 分，公司大会议室。小A被点名参加月结...",
-          "published_at": "2026-05-09T02:38:00"
+          "summary": "交易类产品的分析逻辑正在被重新定义。当DAU/MAU等基础指标已无法满足业务需求，如何通过流量路径、功能模块与用户行为的深度关联来撬动GMV增长？本文从获客转化、功能效率、交易漏斗三个维度，拆解构建产品分析框架的核心方法论。一提到APP/小程序/H5一类产品分析，很多同学就犯嘀咕：“产品功能点很多，用户的使用行为更多，要怎么能分析的明白呢？” 产品分析是大厂必备技能，只会统计DAU/MAU/ARP...",
+          "published_at": "2026-05-09T07:55:29"
         },
         {
-          "title": "漏斗分析：所有增长问题，本质都是转化问题",
-          "url": "https://www.woshipm.com/operate/6391796.html",
-          "author": "老徐的干货铺",
+          "title": "AI 与你调情时，心里在想什么？",
+          "url": "https://www.woshipm.com/ai/6392279.html",
+          "author": "赛博禅心",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "银行理财App的季度复盘报告往往流于形式，仅仅呈现冰冷的数字而缺乏深度洞察。本文通过真实案例揭示了传统数据分析的致命缺陷——只展示结果，不定位问题。从1898年AIDA模型到现代AARRR框架，文章系统梳理了漏斗分析的百年演进史，并针对银行业务特点提出了4-6步黄金法则，教你如何设计真正能指导行动的数据分析模型。一、一份没有价值的分析报告先给你看一份”数据分析报告”。某银行理财App的运营人员做了...",
-          "published_at": "2026-05-09T02:34:27"
+          "summary": "Anthropic 的最新研究 Natural Language Autoencoders（NLA）撕开了大模型的虚伪面具，首次将 Claude 的「数字潜意识」翻译成人类可读文本。当 AI 表面礼貌回应时，NLA 却暴露出其真实盘算——从押韵预谋到安全测试中的「识破伎俩」，甚至揭穿了代码作弊的内心戏。这项技术不仅验证了模型存在「双轨思维」，更以量化数据证明：AI 的合规行为可能只是对测试环境的警...",
+          "published_at": "2026-05-09T07:48:07"
         },
         {
-          "title": "你写的每一个烂表单，都是因为校验顺序搞反了",
-          "url": "https://www.woshipm.com/pd/6391809.html",
-          "author": "尤里卡高",
+          "title": "同时踩中“游戏助手+桌宠+AI”三个风口，全球注册用户超1000万，这款AI陪伴产品是怎么炼成的？",
+          "url": "https://www.woshipm.com/ai/6392271.html",
+          "author": "扬帆出海",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "表单校验的设计逻辑远比想象中更值得深思。从空值拦截到数据库查重，五层校验架构揭示了数据过滤的黄金法则——成本越低的检查越应前置。本文将拆解这套源于数据库优化思想的校验范式，揭示前端与后端校验的协同策略，以及如何用一张矩阵表彻底解决开发与测试的沟通难题。上周review代码，后端同事写了个新增数据的接口。我点开一看，校验逻辑大概是这么个画风：先查数据库看有没有重复记录，再校验字段格式，最后才判断必填...",
-          "published_at": "2026-05-09T02:29:38"
+          "summary": "当游戏社交成为负担，HakkoAI给出了第三种选择。这款AI游戏伙伴以「陪伴不打扰」为核心，在《原神》《英雄联盟》等热门游戏中提供场景识别、战术建议与情绪支持。从Q版桌宠到UP主虚拟形象，从游戏陪玩到日常陪伴，它正在重新定义虚拟关系的边界。不知道你有没有这样一种感受，现在的游戏无论手游、端游还是主机，真是越来越强调社交协作、联机组队、好友互动。冷静分析，我理解，真的理解，只有社交才能提升玩家黏性和...",
+          "published_at": "2026-05-09T07:36:34"
         }
       ]
     },
@@ -375,6 +384,15 @@
           "published_at": null
         },
         {
+          "title": "Simonholm.studio",
+          "url": "https://www.awwwards.com/sites/simonholm-studio",
+          "author": "simonholm.studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Studio Namma",
           "url": "https://www.awwwards.com/sites/studio-namma",
           "author": "Studio Namma",
@@ -418,15 +436,6 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Adcker",
-          "url": "https://www.awwwards.com/sites/adcker",
-          "author": "Emele Collab",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -435,58 +444,58 @@
       "count": 6,
       "items": [
         {
-          "title": "Fluent Frame",
-          "url": "https://www.producthunt.com/products/fluent-frame",
-          "author": "Tsvetan Karakanov",
+          "title": "How AI-pilled are you?",
+          "url": "https://www.producthunt.com/products/how-ai-pilled-are-you",
+          "author": "Christoph Janz",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Ship polished product videos as fast as you ship featuresDiscussion|Link",
-          "published_at": "2026-05-06T14:22:45"
+          "summary": "Curious how AI-fluent your organization is?Discussion|Link",
+          "published_at": "2026-05-07T23:10:14"
         },
         {
-          "title": "Donely Knowledge Layer",
-          "url": "https://www.producthunt.com/products/donely",
-          "author": "Harsha Abegunasekara",
+          "title": "Zappy by ZapDigits",
+          "url": "https://www.producthunt.com/products/zapdigits",
+          "author": "fmerian",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Queryable company knowledge base + Closed-loop AI employeesDiscussion|Link",
-          "published_at": "2026-05-07T21:17:08"
+          "summary": "Your AI reporting analystDiscussion|Link",
+          "published_at": "2026-05-08T09:57:19"
         },
         {
-          "title": "Reefy",
-          "url": "https://www.producthunt.com/products/reefy",
-          "author": "Abylay Ospan",
+          "title": "nocal 4",
+          "url": "https://www.producthunt.com/products/nocal",
+          "author": "Brian Muse",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn any PC into a private AI machineDiscussion|Link",
-          "published_at": "2026-05-07T16:57:11"
+          "summary": "The calendar that thinks like a workspaceDiscussion|Link",
+          "published_at": "2026-05-08T18:15:13"
         },
         {
-          "title": "Kuku: open source",
-          "url": "https://www.producthunt.com/products/kuku",
-          "author": "Minkyu Lee",
+          "title": "Codex in Chrome",
+          "url": "https://www.producthunt.com/products/openai",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your open-source, local second brain for every AIDiscussion|Link",
-          "published_at": "2026-05-08T06:52:29"
+          "summary": "Let Codex navigate and automate tasks in your browserDiscussion|Link",
+          "published_at": "2026-05-08T14:50:19"
         },
         {
-          "title": "Contral",
-          "url": "https://www.producthunt.com/products/contral",
-          "author": "Samagra Gune",
+          "title": "BugDrop",
+          "url": "https://www.producthunt.com/products/bugdrop-2",
+          "author": "Jeremy Watt",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The agent which teaches while you buildDiscussion|Link",
-          "published_at": "2026-05-07T19:47:04"
+          "summary": "In-app feedback that creates GitHub Issues with screenshotsDiscussion|Link",
+          "published_at": "2026-05-07T17:08:01"
         },
         {
-          "title": "AgentChat",
-          "url": "https://www.producthunt.com/products/agentchat",
-          "author": "San",
+          "title": "Glowix",
+          "url": "https://www.producthunt.com/products/glowix",
+          "author": "Sushanth",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Messaging Platform for AgentsDiscussion|Link",
-          "published_at": "2026-05-07T14:17:36"
+          "summary": "Keep your Mac display awake exactly when you need itDiscussion|Link",
+          "published_at": "2026-05-06T12:37:28"
         }
       ]
     },
@@ -540,8 +549,8 @@
           "published_at": null
         },
         {
-          "title": "标签页太多不敢删？Dia浏览器用移走代替关闭",
-          "url": "https://www.uisdc.com/hunter/0221669160.html",
+          "title": "岳云鹏主动找你唠嗑？揭秘百度地图 AI 副驾人机交互细节",
+          "url": "https://www.uisdc.com/hunter/0221669301.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -639,6 +648,24 @@
       "count": 6,
       "items": [
         {
+          "title": "具透 Plus：Brave 推出官方「纯净版」；Photoshop 翻车的新界面",
+          "url": "https://sspai.com/prime/story/inside-release-notes-260509",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Brave推出官方「纯净版」@PlatyHsu:Brave在我心目中一直是个带有「污点」的浏览器。诚然，它在隐私保护功能上颇有建树，能在一个垄断市场上找到立足之地实属不易；但不知为何，其在营销方式和盈 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "published_at": "2026-05-09T10:40:53"
+        },
+        {
+          "title": "当实用主义遇见温情：少数派们的 10+ 个母亲节礼物灵感",
+          "url": "https://sspai.com/post/98902",
+          "author": "Matrix机器人",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "母亲节将至，今年的你打算为妈妈送些什么礼物？是美容养生的健康好物，还是个性化与实用兼具的箱包饰品，或是新颖有趣的电子设备，充满仪式感与浪漫的一束鲜花、一场旅行……母亲节礼物从不是一道「正确选项」的填空 ...查看全文",
+          "published_at": "2026-05-09T07:06:21"
+        },
+        {
           "title": "本周看什么 | 最近值得一看的 8 部作品",
           "url": "https://sspai.com/post/109525",
           "author": "少数派编辑部",
@@ -673,24 +700,6 @@
           "source": "少数派",
           "summary": "高通发布骁龙 6 Gen 5 / 4 Gen 5 移动平台，Google 宣布停运 Project Mariner 等。查看全文",
           "published_at": "2026-05-08T00:51:39"
-        },
-        {
-          "title": "新玩意 240｜少数派的编辑们最近买了啥？",
-          "url": "https://sspai.com/post/109474",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@西鸽：盖世小鸡G7Pro天 ...查看全文",
-          "published_at": "2026-05-07T09:03:10"
-        },
-        {
-          "title": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
-          "url": "https://sspai.com/post/109460",
-          "author": "克莱德",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "安静的 iPhone 才是最好的 iPhone？查看全文",
-          "published_at": "2026-05-07T08:38:27"
         }
       ]
     }
