@@ -1,22 +1,22 @@
 {
   "date": "2026-05-10T00:00:00",
-  "total_items": 63,
+  "total_items": 58,
   "sources": [
-    "Design Milk",
-    "NN/g (Nielsen Norman Group)",
-    "Intercom Blog",
-    "Product Hunt",
     "CSS-Tricks",
-    "A List Apart",
     "人人都是产品经理",
-    "少数派",
+    "Sidebar",
     "Awwwards",
     "UX Planet",
-    "Sidebar",
+    "Design Milk",
+    "Product Hunt",
+    "优设网",
+    "少数派",
     "UX Design CC",
-    "优设网"
+    "Intercom Blog",
+    "NN/g (Nielsen Norman Group)",
+    "A List Apart"
   ],
-  "generated_at": "2026-05-10T03:40:50.033335",
+  "generated_at": "2026-05-10T13:26:56.324197",
   "categories": [
     {
       "category": "用户体验设计",
@@ -25,7 +25,7 @@
         {
           "title": "The left-handed rope",
           "url": "https://uxdesign.cc/the-left-handed-rope-1875c30ad62e?source=rss----138adf9c44c---4",
-          "author": "HIROSHI SATO",
+          "author": "Hiroshi Sato",
           "category": "用户体验设计",
           "source": "UX Design CC",
           "summary": "On a sacred design pattern, and the long reach of small reversalsContinue reading on UX Collective »",
@@ -158,7 +158,7 @@
     },
     {
       "category": "产品设计",
-      "count": 14,
+      "count": 12,
       "items": [
         {
           "title": "F5: Tryggvi Thorsteinsson on His Family, Moss on Lava Fields, Natural Light + More",
@@ -242,55 +242,37 @@
           "published_at": "2026-05-07T17:00:30"
         },
         {
-          "title": "货代SaaS实战：异常管理如何从“救火记录”升级为风险闭环与质量改进系统？",
-          "url": "https://www.woshipm.com/share/6391108.html",
-          "author": "天涯轩",
+          "title": "AI大事件：GPT-5.5两小时独立完成博士级数学证明、Hermes Agent登顶OpenRouter全球调用榜",
+          "url": "https://www.woshipm.com/ai/6392638.html",
+          "author": "AI星球",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "物流不出事是运气，出事是常态。爆舱甩柜、延误滞港、查验退单、单证差错、费用争议、客户投诉、接口故障……异常贯穿货代交付全链路。很多团队的异常管理停留在“登记一下”，最后变成一堆不可复盘的记录。本文从产品视角拆解异常管理模块：如何做异常分类与生命周期、如何把检测与阈值监控自动化、如何用标准流程与升级机制实现闭环处置，以及如何通过根因分析驱动持续改进。一、异常管理为什么经常沦为“事故档案馆”？异常模块...",
-          "published_at": "2026-05-10T02:34:04"
+          "summary": "今天有两件事同时发生，让我隐隐感到有点不真实——同一天里，AI首次被实验证实可以自主复制自己，横跨4国160小时无限繁殖；与此同时，菲尔兹奖得主把一道开放式数学题扔给GPT-5.5 Pro，两小时后他拿到了完整的博士论文级证明，而且他本人没有给出任何数学思路。这两件事摆在一起，让人不得不问：人类在智力这条线上，还剩下多少护城河？1. AI首次实现自我复制！成功率从6%飙至81%，跨4国160小时无...",
+          "published_at": "2026-05-10T13:20:49"
         },
         {
-          "title": "多意图 Agent 的延迟优化：并行不是为了快，是为了让用户感觉快",
-          "url": "https://www.woshipm.com/ai/6392231.html",
-          "author": "姬小光",
+          "title": "工业AI落地失败，90%不是技术问题 一个让甲乙双方都不舒服的真相",
+          "url": "https://www.woshipm.com/ai/6392172.html",
+          "author": "正正",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当用户的Agent产品同时处理三个需求时，速度再快也难逃体验崩盘的命运。本文直击多意图交互的核心痛点，揭示90%的延迟问题并非源自技术调度，而是反馈节奏的错位。从独立型与依赖型任务的精准拆解，到锚定话术的巧妙编排，再到异常处理的智能兜底，6大实战方法论教你如何用产品思维重塑用户感知速度。做过 Agent 产品的同学应该都遇到过这种场景：用户一句话甩过来三个需求，「帮我查一下最近的订单物流、收货地的...",
-          "published_at": "2026-05-10T01:20:18"
+          "summary": "工业AI项目的失败率高达91%，技术瓶颈并非主因，真正的挑战隐藏在需求错位、数据混乱与组织滞后的三重困境中。本文通过真实案例与行业数据，揭示工业AI落地难的深层次原因，并指出那些成功突围的9%项目背后的关键策略。一、先说一个让人沉默的数字德勤做过一项专门针对中国制造业AI项目的调查。结果只有一个数字值得记：认为项目达到80%-100%预期的企业，只有9%。换句话说，91%的工业AI项目，没有达到预...",
+          "published_at": "2026-05-10T04:47:57"
         },
         {
-          "title": "简单给App加个AI对话框，真不叫“人工智能”",
-          "url": "https://www.woshipm.com/ai/6390057.html",
-          "author": "Isaac Theo",
+          "title": "外卖巨头的AI突破：LongCat-2601 Thinking深度体验报告，真实场景下的表现超乎想象！",
+          "url": "https://www.woshipm.com/ai/6392386.html",
+          "author": "超仔AI",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当ETC扣费异常时，用户面对的不再是简单的申诉入口，而是一个闪烁蓝光的数字人，它推荐理财产品、播放轻音乐，唯独不解决实际问题。2026年的互联网，AI助手似乎让一切变得更复杂而非更便捷。本文深入剖析了‘含模量’狂潮背后的三笔账——成本、安全和信任，揭示了AI应用中的真实困境与用户痛点。最近跟朋友吃饭聊天，发现一个好玩的事——大家都跟手机吵过架。不是那种”信号不好骂两句”的吵。是对着App里的”智能...",
-          "published_at": "2026-05-10T00:35:21"
-        },
-        {
-          "title": "觅话VS爱聊 202605最新版本分析报告",
-          "url": "https://www.woshipm.com/evaluating/6392137.html",
-          "author": "一更测评哥",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "在2.4亿单身人口的市场背景下，视频婚恋社交成为陌生人社交核心增长极，90后、95后为核心用户，对社交真实性、高效性需求突出。本文选取觅话（新兴平台，聚焦真实认证+极简视频）与爱聊（老牌平台，聚焦多元匹配+泛社交）的最新版本，从多维度开展竞品对比，梳理二者优劣势与差异化特征，为产品迭代、行业决策及用户选择提供专业参考。随着移动互联网技术的迭代升级与单身群体规模的持续扩大，陌生人社交需求呈现刚性增长...",
-          "published_at": "2026-05-09T08:11:53"
-        },
-        {
-          "title": "每个大模型，都要找到自己的非对称优势",
-          "url": "https://www.woshipm.com/ai/6392237.html",
-          "author": "深流研究所",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "四月的大模型战场硝烟弥漫，全球15款前沿模型密集发布，Claude Opus 4.7、DeepSeek V4等重磅产品掀起新一轮技术军备竞赛。OpenRouter最新榜单揭示关键趋势：模型能力之外的应用场景与生态布局正成为决胜关键。本文将深度拆解Anthropic、DeepSeek、谷歌和腾讯的差异化战略路径，看大模型如何通过代码能力、价格革命、全栈闭环和场景渗透构建各自的'锯齿状优势'。“四月是...",
-          "published_at": "2026-05-09T08:02:03"
+          "summary": "从外卖调度到AI推理，LongCat-2601 Thinking用业务场景重塑模型能力边界。这款由美团打造的AI模型不仅在全球率先实现复杂推理机制完整开源，更凭借真实业务中磨砺出的异常处理能力，在工具调用赛道实现弯道超车。本文通过深度实测与竞品对比，揭示其网状推理机制与战略定位的独到之处。我入行AI产品经理也有一段时间了，见过很多模型测评的结果，也见过太多”SOTA”在真实场景里的哑火……所以当L...",
+          "published_at": "2026-05-10T03:59:55"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 12,
+      "count": 11,
       "items": [
         {
           "title": "Good designers, bad websites: a proposal",
@@ -390,66 +372,39 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Fourmula AI",
-          "url": "https://www.awwwards.com/sites/fourmula-ai",
-          "author": "Fourmeta Agency",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 3,
       "items": [
         {
-          "title": "BugDrop",
-          "url": "https://www.producthunt.com/products/bugdrop-2",
-          "author": "Jeremy Watt",
+          "title": "Adject 2.0",
+          "url": "https://www.producthunt.com/products/adject",
+          "author": "Saljug Mahmudlu",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "In-app feedback that creates GitHub Issues with screenshotsDiscussion|Link",
-          "published_at": "2026-05-07T17:08:01"
+          "summary": "Create hyperrealistic product visuals with AIDiscussion|Link",
+          "published_at": "2026-05-08T19:29:52"
         },
         {
-          "title": "Zappy by ZapDigits",
-          "url": "https://www.producthunt.com/products/zapdigits",
-          "author": "fmerian",
+          "title": "InvestorFinder",
+          "url": "https://www.producthunt.com/products/investorfinder",
+          "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your AI reporting analystDiscussion|Link",
-          "published_at": "2026-05-08T09:57:19"
+          "summary": "Find investors who've backed founders just like youDiscussion|Link",
+          "published_at": "2026-05-08T11:03:01"
         },
         {
-          "title": "How AI-pilled are you?",
-          "url": "https://www.producthunt.com/products/how-ai-pilled-are-you",
-          "author": "Christoph Janz",
+          "title": "AgentPeek",
+          "url": "https://www.producthunt.com/products/agentpeek",
+          "author": "Bren Huber",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Curious how AI-fluent your organization is?Discussion|Link",
-          "published_at": "2026-05-07T23:10:14"
-        },
-        {
-          "title": "Ghost",
-          "url": "https://www.producthunt.com/products/ghost-8",
-          "author": "fmerian",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Open-source, self-hosted game serversDiscussion|Link",
-          "published_at": "2026-05-07T17:30:42"
-        },
-        {
-          "title": "nocal 4",
-          "url": "https://www.producthunt.com/products/nocal",
-          "author": "Brian Muse",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The calendar that thinks like a workspaceDiscussion|Link",
-          "published_at": "2026-05-08T18:15:13"
+          "summary": "Claude Code and Codex in your Mac notchDiscussion|Link",
+          "published_at": "2026-05-09T22:27:11"
         }
       ]
     },
@@ -584,6 +539,15 @@
       "count": 6,
       "items": [
         {
+          "title": "寻找你身边的电波——如何上中继",
+          "url": "https://sspai.com/post/87897",
+          "author": "休伯利安",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "无线电波都会穿过你我的身体，而我们并不知道他们承载了什么样的信息，最终又要去向哪里。查看全文",
+          "published_at": "2026-05-10T06:57:38"
+        },
+        {
           "title": "具透 Plus：Brave 推出官方「纯净版」；Photoshop 翻车的新界面",
           "url": "https://sspai.com/prime/story/inside-release-notes-260509",
           "author": "少数派编辑部",
@@ -627,15 +591,6 @@
           "source": "少数派",
           "summary": "从 0 开始装修新家，这些事项值得你避坑。查看全文",
           "published_at": "2026-05-08T03:30:57"
-        },
-        {
-          "title": "派早报：Google 发布 Fitbit Air 等",
-          "url": "https://sspai.com/post/109489",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "高通发布骁龙 6 Gen 5 / 4 Gen 5 移动平台，Google 宣布停运 Project Mariner 等。查看全文",
-          "published_at": "2026-05-08T00:51:39"
         }
       ]
     }
