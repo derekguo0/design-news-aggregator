@@ -1,26 +1,36 @@
 {
   "date": "2026-05-11T00:00:00",
-  "total_items": 50,
+  "total_items": 58,
   "sources": [
-    "少数派",
-    "Intercom Blog",
-    "Awwwards",
-    "Product Hunt",
-    "A List Apart",
-    "人人都是产品经理",
-    "Sidebar",
-    "Design Milk",
+    "优设网",
     "NN/g (Nielsen Norman Group)",
-    "CSS-Tricks",
     "UX Design CC",
-    "优设网"
+    "UX Planet",
+    "人人都是产品经理",
+    "Product Hunt",
+    "Awwwards",
+    "Design Milk",
+    "少数派",
+    "Sidebar",
+    "CSS-Tricks",
+    "Intercom Blog",
+    "A List Apart"
   ],
-  "generated_at": "2026-05-11T03:54:12.909411",
+  "generated_at": "2026-05-11T15:19:38.745034",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 2,
+      "count": 5,
       "items": [
+        {
+          "title": "Discovery is the work AI gives back",
+          "url": "https://uxdesign.cc/discovery-is-the-work-ai-gives-back-d2a429b64bcc?source=rss----138adf9c44c---4",
+          "author": "Gale Robins",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Productivity is the floor of AI’s value, not the ceiling. New McKinsey research on where the durable returns actually live, and what that means for teams deciding what to build.Generated with AI by Au...",
+          "published_at": "2026-05-11T08:13:35"
+        },
         {
           "title": "The left-handed rope",
           "url": "https://uxdesign.cc/the-left-handed-rope-1875c30ad62e?source=rss----138adf9c44c---4",
@@ -38,6 +48,24 @@
           "source": "UX Design CC",
           "summary": "A content designer's guide to not wasting your wishes on something stupidI Dream of JeanieI was a lucky child. My parents and grandparents spent hours reading and reciting fairytales to me. Most of th...",
           "published_at": "2026-05-08T20:55:36"
+        },
+        {
+          "title": "7 Advanced CLAUDE.md Tips for Claude Code",
+          "url": "https://uxplanet.org/7-advanced-claude-md-tips-for-claude-code-b34e86b3275a?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "CLAUDE.md is the first file that Claude reads when it starts working on your project. This file typically contains essential details about…Continue reading on UX Planet »",
+          "published_at": "2026-05-11T14:24:21"
+        },
+        {
+          "title": "Checklist for Creating Effective Claude Code Skills",
+          "url": "https://uxplanet.org/checklist-for-creating-effective-claude-code-skills-07196734340e?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "20 rules to follow when crafting Claude SkillContinue reading on UX Planet »",
+          "published_at": "2026-05-11T11:43:04"
         }
       ]
     },
@@ -103,8 +131,17 @@
     },
     {
       "category": "产品设计",
-      "count": 10,
+      "count": 11,
       "items": [
+        {
+          "title": "This Alarm Clock Coheres Past and Present in a Pithy Package",
+          "url": "https://design-milk.com/this-alarm-clock-coheres-past-and-present-in-a-pithy-package/",
+          "author": "Adrian Madlener",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "BALMUDA’s just released The Clock translates the best qualities of a classic pocket watch with innovative modalities to better support rest, relaxation, and focus.",
+          "published_at": "2026-05-11T14:00:20"
+        },
         {
           "title": "F5: Tryggvi Thorsteinsson on His Family, Moss on Lava Fields, Natural Light + More",
           "url": "https://design-milk.com/f5-tryggvi-thorsteinsson-on-his-family-moss-on-lava-fields-natural-light-more/",
@@ -151,49 +188,49 @@
           "published_at": "2026-05-08T10:32:03"
         },
         {
-          "title": "RAG 落地手记一：知识入库这一步，决定了问答效果的上限",
-          "url": "https://www.woshipm.com/ai/6392512.html",
-          "author": "肥源",
+          "title": "图解：资管行业「大模型」50个核心名词（首篇)",
+          "url": "https://www.woshipm.com/ai/6393240.html",
+          "author": "围炉喝茶聊产品",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "RAG技术看似链路清晰，实则暗藏玄机。当文档解析错位、切片切断语义、召回偏离重点时，再强大的模型也无法给出准确答案。本文将深入拆解RAG落地过程中最容易被忽视的前置环节，揭示知识工程如何决定AI问答系统的成败，带你看懂从混乱文档到精准答案的关键跃迁。很多人第一次接触 RAG，会觉得它的链路很清楚：上传文档、切片、向量化、检索、再让大模型生成答案。这条链路没有错，但真正落地时，问题往往不出在“大模型...",
-          "published_at": "2026-05-11T03:24:14"
+          "summary": "大模型技术正深刻重塑资管行业的智能投研与合规生态。本文以10个核心概念为脉络，系统拆解LLM在金融领域的垂直应用——从Transformer架构的底层原理，到行业大模型的知识蒸馏；从Token计费机制的成本控制，到多模态处理的财报分析实战。这是一份面向金融科技从业者的AI认知升级指南。烦请大家看一张：大模型技术发展历程图（如下图1）图1：大模型技术发展历程，图源于智能投研技术联盟公众号既然聊得是资...",
+          "published_at": "2026-05-11T08:50:36"
         },
         {
-          "title": "双非硕士5年产品经理之路，从中小厂打杂到大厂上岸，每一步都算数",
-          "url": "https://www.woshipm.com/zhichang/6392572.html",
-          "author": "医疗产品小小白",
+          "title": "Airbnb创始人说：AI时代只有一种人能活下来",
+          "url": "https://www.woshipm.com/ai/6393237.html",
+          "author": "深思圈",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "对于双非硕士的产品经理来说，大厂并非遥不可及的梦想。本文作者通过自身从中小厂到BAT的逆袭历程，详细拆解了可复制的成长路径——从夯实产品基本功到精准对接大厂需求，从单一模块执行到完整业务闭环，用实战案例告诉你如何打破学历偏见，实现职业跃迁。产品经理，向来是个学历内卷严重的岗位。后台经常收到同是双非硕士的私信，满是相似的焦虑：“校招只拿到中小厂offer，还有机会冲进大厂吗？”“在小公司天天做杂活，...",
-          "published_at": "2026-05-11T03:03:07"
+          "summary": "Airbnb创始人Brian Chesky的成长轨迹揭示了从设计师到CEO的蜕变密码。这位工业设计出身的创业者分享了如何用设计思维破解管理难题，为何在AI时代Founder Mode将更加强大，以及消费级AI为何即将迎来爆发。他关于11 Star体验、招聘哲学和艺术创作本质的思考，为创业者提供了颠覆性的认知升级。你有没有想过，创始人和 CEO 其实是两种完全不同的物种？做创始人靠的是本能，但做 C...",
+          "published_at": "2026-05-11T08:37:11"
         },
         {
-          "title": "RAG 落地踩坑实录：采纳率从 38% 到 72%，中间全是弯路",
-          "url": "https://www.woshipm.com/ai/6390825.html",
-          "author": "Zoey",
+          "title": "到底有没有必要日更100条？",
+          "url": "https://www.woshipm.com/share/6393235.html",
+          "author": "Vic的营销思考",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从38%到72%的采纳率跃升，一个能源行业合同审核AI产品的实战复盘揭示了RAG技术的真实挑战。当标准方案遭遇法务的犀利评价，产品团队如何通过切片策略重构、企业规章补充和提示词革命，最终让AI输出从‘学术摘要’蜕变为‘专业意见’？本文深度拆解了那些教科书不会告诉你的关键突破点。去年带团队做了一个合同审核的 AI 产品，给一家能源集团用的。核心就是 RAG，把法规文档、内部规章什么的灌进知识库，合同...",
-          "published_at": "2026-05-11T02:49:13"
+          "summary": "日更100条正在内容创作圈掀起风暴，但这场游戏存在残酷的阶层分化。头部IP靠资源、积累与容错三重buff玩转规则，普通创作者却可能被算法反噬。本文撕开数据繁荣的表象，揭示内容赛道的真实生存法则与三大认知底线。日更 100 条最近的风很大啊很多 IP 在号召大家日更 100 条，很多创作者在跟风，最近就连追觅CEO俞浩都开始日更100条了内容基本都看了一遍，评论区两极分化。有人觉得俞总接地气，有人觉...",
+          "published_at": "2026-05-11T08:23:14"
         },
         {
-          "title": "SaaS产品原则系列（五）：以业务正循环锚定需求本质，搭建产品增长闭环",
-          "url": "https://www.woshipm.com/share/6392569.html",
-          "author": "SaaS产品笔记",
+          "title": "货代员工管理实战：如何把“员工资料”变成可派单的能力画像？",
+          "url": "https://www.woshipm.com/share/6393023.html",
+          "author": "天涯轩",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "SaaS产品的成功绝非偶然，背后是业务正循环与需求正循环的精密咬合。本文从三维价值闭环切入，深度解析如何通过用户效用分层、续费率指标、业务路径验证构建可持续的SaaS产品生态，并揭示那些看似诱人实则危险的‘伪需求’陷阱。本系列前文已陆续拆解SaaS产品从0到1、从搭建到落地的核心底层逻辑，分别聚焦产品全流程的关键核心模块：精益探索：明确SaaS产品轻量化、高适配的研发落地思路；客户分层：精准定位核...",
-          "published_at": "2026-05-11T02:48:37"
+          "summary": "货代企业最怕的不是系统里没有员工资料，而是资料无法判断“这个人能不能处理这票业务”。危险品、报关、冷链、特种柜、航线经验、客户熟悉度和证书有效期，都会直接影响任务能否安全分派。员工档案与资质模块的价值，正是把传统HR信息升级为业务能力画像，让系统在派单、授权、交接和风控时有可信依据。一、为什么员工档案齐全，派单时还是不敢全自动？传统员工档案解决的是“这个人是谁”，但货代现场更关心“这个人能做什么”...",
+          "published_at": "2026-05-11T07:47:15"
         },
         {
-          "title": "别只会写PRD了：AI产品经理真正该补的是评测闭环",
-          "url": "https://www.woshipm.com/pd/6392513.html",
-          "author": "Keating",
+          "title": "微信输入法为什么突然火了？微信输入法“隔空传送”怎么用？",
+          "url": "https://www.woshipm.com/share/6393184.html",
+          "author": "郭静",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "很多传统产品经理转AI产品时，第一反应还是写需求、画流程、推开发。但AI产品上线后最容易翻车的地方，往往不是“有没有功能”，而是“效果到底有没有变好”。我做金融投研Agent项目后，一个很深的感受是：AI产品经理一定要会搭评测闭环，否则你根本不知道问题出在模型、提示词、检索召回，还是Agent链路。我以前也容易把AI产品当成“传统产品 + 大模型能力”来理解。传统产品里，产品经理把需求说清楚，PR...",
-          "published_at": "2026-05-11T02:44:01"
+          "summary": "微信输入法凭借「隔空传送」功能突然杀入App Store免费榜前十，这款低调的工具型产品如何实现「自发热」？本文深度拆解其跨设备文件传输的创新设计，同时剖析输入法赛道中用户习惯与产品定位的深层矛盾。从功能迭代到市场策略，揭示微信输入法面临的机遇与挑战。七麦数据显示，5月8日，微信输入法App突然冲到了苹果应用商店App Store免费总榜的前10名，目前位于第6名。作为一款典型的工具型产品，在没有...",
+          "published_at": "2026-05-11T07:20:57"
         }
       ]
     },
@@ -256,6 +293,15 @@
           "published_at": null
         },
         {
+          "title": "Outfit",
+          "url": "https://www.awwwards.com/sites/outfit",
+          "author": "++hellohello",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Simonholm.studio",
           "url": "https://www.awwwards.com/sites/simonholm-studio",
           "author": "simonholm.studio",
@@ -290,57 +336,66 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Where Worlds Take Shape",
-          "url": "https://www.awwwards.com/sites/where-worlds-take-shape",
-          "author": "jerome-reynet",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 6,
       "items": [
         {
-          "title": "Adject 2.0",
-          "url": "https://www.producthunt.com/products/adject",
-          "author": "Saljug Mahmudlu",
+          "title": "Snapseed 4.0",
+          "url": "https://www.producthunt.com/products/google",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Create hyperrealistic product visuals with AIDiscussion|Link",
-          "published_at": "2026-05-08T19:29:52"
+          "summary": "Google’s best photo editor just got seriously betterDiscussion|Link",
+          "published_at": "2026-05-11T02:40:08"
         },
         {
-          "title": "InvestorFinder",
-          "url": "https://www.producthunt.com/products/investorfinder",
-          "author": "Rohan Chaubey",
+          "title": "Web Speed",
+          "url": "https://www.producthunt.com/products/web-speed",
+          "author": "Dominic Pi-Sunyer",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Find investors who've backed founders just like youDiscussion|Link",
-          "published_at": "2026-05-08T11:03:01"
+          "summary": "Kill the 'Token Tax.' 90% cheaper agents.Discussion|Link",
+          "published_at": "2026-05-09T20:54:58"
         },
         {
-          "title": "AgentPeek",
-          "url": "https://www.producthunt.com/products/agentpeek",
-          "author": "Bren Huber",
+          "title": "Connector.wtf",
+          "url": "https://www.producthunt.com/products/connector-wtf",
+          "author": "Tommi Heikkilä",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Claude Code and Codex in your Mac notchDiscussion|Link",
-          "published_at": "2026-05-09T22:27:11"
+          "summary": "Plug Google Ads, Meta & LinkedIn into your AI chat. FreeDiscussion|Link",
+          "published_at": "2026-05-09T10:58:37"
         },
         {
-          "title": "Better Sol",
-          "url": "https://www.producthunt.com/products/better-sol",
-          "author": "pow",
+          "title": "LinCal",
+          "url": "https://www.producthunt.com/products/lincal",
+          "author": "Rolf Mistelbacher",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Develop Solana applications end-to-end using TypeScriptDiscussion|Link",
-          "published_at": "2026-05-10T03:07:49"
+          "summary": "See your team's work on a Linear-like calendarDiscussion|Link",
+          "published_at": "2026-05-10T20:22:25"
+        },
+        {
+          "title": "Yeta AI",
+          "url": "https://www.producthunt.com/products/yeta-ai",
+          "author": "Edward Shumkov",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Real-time AI dubbing for any YouTube videoDiscussion|Link",
+          "published_at": "2026-05-09T09:10:49"
+        },
+        {
+          "title": "Grok Connectors",
+          "url": "https://www.producthunt.com/products/grok",
+          "author": "Zac Zuo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Bring your daily apps into GrokDiscussion|Link",
+          "published_at": "2026-05-11T03:41:57"
         }
       ]
     },
@@ -394,8 +449,8 @@
           "published_at": null
         },
         {
-          "title": "苹果发布会同款布局现身京东，设计师必看的传达技巧！",
-          "url": "https://www.uisdc.com/hunter/0221669380.html",
+          "title": "微信UI小改动背后的逻辑，为什么语音预览变灰了？",
+          "url": "https://www.uisdc.com/hunter/0221669388.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -406,50 +461,68 @@
     },
     {
       "category": "设计资讯",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Appearing productive in the workplace",
-          "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-          "author": null,
+          "title": "ProtoPie User Testing is here. Track every action, one workflow.",
+          "url": "https://bit.ly/side-pie3",
+          "author": "@ProtoPie",
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "AI can produce work that looks expert without being expert. The failure arrives in two shapes, and both are reshaping the workplace.",
-          "published_at": "2026-05-08T08:17:31"
+          "summary": "Run moderated tests on high-fidelity prototypes. Capture gestures, logic paths, and goal-path scores without leaving ProtoPie.",
+          "published_at": "2026-05-11T08:26:00"
         },
         {
-          "title": "Caligra c100 Developer Terminal",
-          "url": "https://www.pentagram.com/work/caligra-c100-developer-terminal",
+          "title": "The organization is the bottleneck",
+          "url": "https://www.oreilly.com/radar/the-organization-is-the-bottleneck/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Industrial design of computer hardware for professional environments—a case study.",
-          "published_at": "2026-05-08T08:16:58"
+          "summary": "Everyone is adopting AI coding tools. Engineers are writing code faster than ever. But are organizations actually delivering value faster?",
+          "published_at": "2026-05-11T08:24:51"
         },
         {
-          "title": "Wordamour",
-          "url": "https://wordamour.com/",
+          "title": "The unreasonable effectiveness of HTML",
+          "url": "https://thariqs.github.io/html-effectiveness/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Turn your cherished words into a beautiful, printed word search puzzle.",
-          "published_at": "2026-05-08T08:15:20"
+          "summary": "Markdowns are in the past. Twenty self-contained .html files an agent produced instead of a wall of markdown.",
+          "published_at": "2026-05-11T08:24:10"
         },
         {
-          "title": "The bottleneck was never the code",
-          "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
+          "title": "All aboard the voice to text train",
+          "url": "https://bryanmanio.com/blog/all-aboard-the-voice-to-text-train/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The other month I finally ran an experiment we had been postponing for over a year at .txt.",
-          "published_at": "2026-05-08T08:13:54"
+          "summary": "One of the great things about LLMs is how prevalent voice-to-text apps have now become.",
+          "published_at": "2026-05-11T08:23:27"
+        },
+        {
+          "title": "How the heck does Shazam work?",
+          "url": "https://perthirtysix.com/how-the-heck-does-shazam-work",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "Spectrograms, constellation maps, hash fingerprints, and time-offset matching.",
+          "published_at": "2026-05-11T08:22:51"
         }
       ]
     },
     {
       "category": "前端设计",
-      "count": 1,
+      "count": 2,
       "items": [
+        {
+          "title": "Why Keyboard Users Can’t Scroll Your Overflow Containers",
+          "url": "https://css-tricks.com/why-keyboard-users-cant-scroll-your-overflow-containers/",
+          "author": "Godstime Aburu",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "When a keyboard user Tabs into the table, its focus lands on a cell. Then they press the arrow keys to read across the row but nothing happens. Your screen reader users never noticed because they navi...",
+          "published_at": "2026-05-11T13:42:35"
+        },
         {
           "title": "Using CSS corner-shape For Folded Corners",
           "url": "https://css-tricks.com/using-css-corner-shape-for-folded-corners/",
@@ -465,6 +538,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "派评 | 近期值得关注的 App",
+          "url": "https://sspai.com/post/109636",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "published_at": "2026-05-11T10:01:05"
+        },
+        {
+          "title": "手冲咖啡进阶指北：如何让「冠军参数」变成「你的日常」",
+          "url": "https://sspai.com/post/109461",
+          "author": "一群小羊说",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "五一期间到朋友家做客，他从餐边柜里搬出一整套器具——V60、手磨、手冲壶、分享壶，一顿操作「猛如虎」，三分钟后说「好像有点苦」。我喝了一口，确实苦，不是风味描述里「可可」的那种苦，而是翻车的苦。入坑那 ...查看全文",
+          "published_at": "2026-05-11T07:22:59"
+        },
+        {
+          "title": "监工水獭 × 明基挂灯：老朋友回来了，新福利也一并送到",
+          "url": "https://sspai.com/post/109542",
+          "author": "Microhoo",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "五年前，我们做了一只水獭造型的玩偶挂件。我们希望桌面上能有这样一个小东西：不闪光光、不发声、不吵吵你，只是趴在那里，偶尔被你眼角扫到一眼，心情突然就柔软几秒。首批监工水獭用户返图首批监工水獭做出来后反 ...查看全文",
+          "published_at": "2026-05-11T03:01:36"
+        },
         {
           "title": "派早报：苹果与英特尔就芯片代工达成初步协议",
           "url": "https://sspai.com/post/109610",
@@ -491,33 +591,6 @@
           "source": "少数派",
           "summary": "Brave推出官方「纯净版」@PlatyHsu:Brave在我心目中一直是个带有「污点」的浏览器。诚然，它在隐私保护功能上颇有建树，能在一个垄断市场上找到立足之地实属不易；但不知为何，其在营销方式和盈 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
           "published_at": "2026-05-09T10:40:53"
-        },
-        {
-          "title": "当实用主义遇见温情：少数派们的 10+ 个母亲节礼物灵感",
-          "url": "https://sspai.com/post/98902",
-          "author": "Matrix机器人",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "母亲节将至，今年的你打算为妈妈送些什么礼物？是美容养生的健康好物，还是个性化与实用兼具的箱包饰品，或是新颖有趣的电子设备，充满仪式感与浪漫的一束鲜花、一场旅行……母亲节礼物从不是一道「正确选项」的填空 ...查看全文",
-          "published_at": "2026-05-09T07:06:21"
-        },
-        {
-          "title": "本周看什么 | 最近值得一看的 8 部作品",
-          "url": "https://sspai.com/post/109525",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "📅本周新预告《奥德赛》正式预告5月5日，克里斯托弗·诺兰导演新作《奥德赛》发布了正式预告，将于7月17日在北美上映。马特·达蒙、汤姆·霍兰德、安妮·海瑟薇、赞达亚、露皮塔·尼永奥、罗伯特·帕丁森、查理 ...查看全文",
-          "published_at": "2026-05-08T10:04:50"
-        },
-        {
-          "title": "在 WWDC26 之前，与四位中国获奖者聊聊他们的 Swift 学生挑战赛",
-          "url": "https://sspai.com/post/109521",
-          "author": "waychane",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "新一届WWDC26全球开发者大会还有一个月时间就要开幕，作为每年WWDC大会的「前菜」，第七届Swift学生挑战赛也一如以往在大会开幕前夕圆满收官。在这场一年一度的全球性Apple编程竞赛中，今年共有 ...查看全文",
-          "published_at": "2026-05-08T09:31:36"
         }
       ]
     }
