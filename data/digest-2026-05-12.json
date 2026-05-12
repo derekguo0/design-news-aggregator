@@ -1,25 +1,44 @@
 {
   "date": "2026-05-12T00:00:00",
-  "total_items": 51,
+  "total_items": 61,
   "sources": [
-    "优设网",
-    "少数派",
-    "Sidebar",
-    "Product Hunt",
-    "NN/g (Nielsen Norman Group)",
-    "UX Design CC",
-    "Awwwards",
+    "UX Planet",
     "Design Milk",
     "A List Apart",
     "人人都是产品经理",
-    "UX Planet"
+    "Sidebar",
+    "CSS-Tricks",
+    "优设网",
+    "NN/g (Nielsen Norman Group)",
+    "少数派",
+    "Awwwards",
+    "UX Design CC",
+    "Product Hunt"
   ],
-  "generated_at": "2026-05-12T03:37:37.016323",
+  "generated_at": "2026-05-12T14:33:06.229860",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 7,
+      "count": 10,
       "items": [
+        {
+          "title": "Be like water: Rethinking the design process with AI",
+          "url": "https://uxdesign.cc/be-like-water-rethinking-design-process-and-ai-experimentation-5db3c32eff7a?source=rss----138adf9c44c---4",
+          "author": "Luis Berumen Castro",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "What Bruce Lee can teach us about structure, flow, and intention.Continue reading on UX Collective »",
+          "published_at": "2026-05-12T08:55:34"
+        },
+        {
+          "title": "How I use AI to partner on design problems",
+          "url": "https://uxdesign.cc/how-i-use-ai-to-think-through-design-problems-4a484080484b?source=rss----138adf9c44c---4",
+          "author": "Suleiman Shakir",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "A design workflow where AI holds the context, I do the thinking: from brainstorm to prototypeWorking through a complex design problem means holding a lot in my head. Research synthesis, product metric...",
+          "published_at": "2026-05-12T08:54:23"
+        },
         {
           "title": "Rethinking design with your hands in the AI world",
           "url": "https://uxdesign.cc/rethinking-design-with-your-hands-in-the-ai-world-b8d4adf3322c?source=rss----138adf9c44c---4",
@@ -64,6 +83,15 @@
           "source": "UX Design CC",
           "summary": "On a sacred design pattern, and the long reach of small reversalsContinue reading on UX Collective »",
           "published_at": "2026-05-09T09:48:25"
+        },
+        {
+          "title": "Claude Design vs Google Stitch",
+          "url": "https://uxplanet.org/claude-design-vs-google-stitch-5dfbae46aa79?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Both Claude Design and Google Stitch are design tools that are trying to bridge the gap between “idea” and “working product” but they are…Continue reading on UX Planet »",
+          "published_at": "2026-05-12T13:06:56"
         },
         {
           "title": "7 Advanced CLAUDE.md Tips for Claude Code",
@@ -147,8 +175,26 @@
     },
     {
       "category": "产品设计",
-      "count": 7,
+      "count": 9,
       "items": [
+        {
+          "title": "5 Balloon Wonders at Milan Design Week",
+          "url": "https://design-milk.com/5-balloon-installations-at-milan-design-week/",
+          "author": "Sophie Sobol",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "From drones to sea creatures, explore the inflated installations making their debut in Milan.",
+          "published_at": "2026-05-12T14:00:08"
+        },
+        {
+          "title": "How Material Bank Continues to Transform Material Sourcing Across Europe",
+          "url": "https://design-milk.com/how-material-bank-continues-to-transform-material-sourcing-across-europe/",
+          "author": "Joseph Sgambati III",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Material Bank brings its game-changing logistics platform to Europe—streamlining search, sampling, and specification for architects and interior designers.",
+          "published_at": "2026-05-12T13:00:09"
+        },
         {
           "title": "Breaking Bread is an Artful Experience at This New Dallas Bakery",
           "url": "https://design-milk.com/breaking-bread-is-an-artful-experience-at-this-new-dallas-bakery/",
@@ -168,55 +214,55 @@
           "published_at": "2026-05-11T14:00:20"
         },
         {
-          "title": "我搭了一个AI agent帮我做竞品分析，直到它一本正经告诉我剪映有个不存在的功能",
-          "url": "https://www.woshipm.com/ai/6393887.html",
-          "author": "凹凸曼",
+          "title": "医药AI，从哪下手？一个三年从业者的三段式判断法",
+          "url": "https://www.woshipm.com/ai/6394130.html",
+          "author": "CyberHuck",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI一本正经地编造出剪映并不存在的'AI转绘'功能时，产品经理的信任被彻底打破。这篇文章揭秘了一个视频剪辑工具团队如何用两周时间打造竞品分析Agent的全过程——从最初的结构设计、prompt调优到实际应用效果，再到那个令人警醒的'幻觉功能'时刻。作者最终得出的结论犀利而实用：我们可以信任AI搭建的分析框架，但永远需要对具体内容保持警惕。那天开会前一晚，我坐在工位上盯着空白文档，手头一份需求文档...",
-          "published_at": "2026-05-12T03:30:55"
+          "summary": "医药行业与AI的结合正从实验室走向文档处理与项目管理，带来效率革命。从蛋白结构预测到注册文件翻译，从临床方案撰写到法规跟踪，AI正在重塑医药行业的工作方式。本文将深入剖析医药行业三大环节中AI的落地场景与商业机会，揭示那些看似不性感却最具商业价值的'铲子型'应用。事情是这样的。上个月，一个爱丁堡的大学同窗，现在在读博，突然在微信上问我，医药行业用AI，到底能搞点啥？我说你等会儿，这个问题太大了，我...",
+          "published_at": "2026-05-12T09:11:01"
         },
         {
-          "title": "牛客网爆火的这两道AI PM高频题",
-          "url": "https://www.woshipm.com/share/6393960.html",
-          "author": "健彬的产品Live",
+          "title": "千问“折叠”淘宝？",
+          "url": "https://www.woshipm.com/share/6394173.html",
+          "author": "见实",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI PM面试中的高频题正成为筛选真金的关键试金石。本文深度剖析两道经典面试题的答题陷阱与思维框架，从'三维对比'到'四层防火墙'，揭示AI产品经理与传统PM的本质差异——不是技术术语的堆砌，而是用AI思维定义问题、设计解决方案的能力重塑。今天来聊聊牛客网爆火的这两道AI PM高频题——当年我第一次帮下属模拟面试时，他直接把其中一道题答成了”AI功能说明书”，差点把我气笑。后来我才发现，10个候选...",
-          "published_at": "2026-05-12T03:25:50"
+          "summary": "千问与淘宝的全新整合正在颠覆传统电商体验！这次升级不仅打通支付闭环，更让大模型深度介入消费决策：从长尾条件秒筛到模糊意图推理，从场景化打包到理性劝退机制，AI正重新定义'智能导购'的边界。但推荐算法差异与决策权让渡背后的商业逻辑，更值得产品人深思。今日上午，千问与淘宝同步官宣全面打通。将千问APP更新至最新版（6.9.1及以上）后，即可在对话框内完成淘宝商品的挑选、对比与下单。然而，早在今年1月，...",
+          "published_at": "2026-05-12T08:23:57"
         },
         {
-          "title": "别造工具，交付结果。AI时代硬件产品经理的生存指南",
-          "url": "https://www.woshipm.com/ai/6393860.html",
-          "author": "产品人老吴",
+          "title": "从个人痛点到企业级知识库：一款基于大模型的智能知识管理产品设计实践",
+          "url": "https://www.woshipm.com/ai/6394061.html",
+          "author": "王佳亮",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI正在彻底重构硬件产品的设计逻辑与商业模式。红杉AI峰会上Andrej Karpathy揭示的『中间步骤蒸发』现象，正在动摇传统硬件产品经理赖以生存的功能定义方法论。当用户只需说出『我要干净的水』就能获得完整服务时，那些精心设计的APP界面和智能提醒功能是否还有存在价值？本文深度剖析硬件行业从『卖设备』到『卖结果』的范式转移，揭示产品经理在AI时代不可替代的核心竞争力。红杉AI Ascent 2...",
-          "published_at": "2026-05-12T03:21:37"
+          "summary": "知识工作者的痛点被精准击中——当传统文件搜索沦为低效的‘文件名匹配游戏’，如何跨越从存储到理解的认知鸿沟？本文揭秘一款云端AI知识库的实战搭建过程，从RAG技术选型到Yuxi框架的巧妙应用，展示如何让尘封文档在对话中‘活’起来，打造真正的智能知识副驾。一、洞察本质：从“文件名称搜索”到“语义意图理解”的鸿沟1.1 用户故事：一个真实的“知识焦虑”场景我是一名AI领域的研究者与内容创作者，电脑中存储...",
+          "published_at": "2026-05-12T07:12:37"
         },
         {
-          "title": "「招投标AI落地观察」效率、边界与博弈——AI 投标工具的真实处境",
-          "url": "https://www.woshipm.com/ai/6393728.html",
-          "author": "雪碧要提升算力",
+          "title": "B端产品出海——为什么你产品的逻辑完美，却没人买单？",
+          "url": "https://www.woshipm.com/operate/6349568.html",
+          "author": "牛马体验家",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在招投标这个充满博弈的竞技场，AI工具正掀起一场效率革命——它们能将废标率从18%降到0.3%，把标书制作时间从3-5天压缩到几小时。但这并不意味着AI能替代人的策略判断与行业洞察。本文深度剖析AI投标工具的真实边界：从废标检测、文件解析到标书生成的核心能力，再到信息不对称、隐性规则和商业策略这三道AI永远跨不过的高墙。一、从一个”不该发生的废标”说起某项目，一家投标单位准备了很久。技术方案写得很...",
-          "published_at": "2026-05-12T03:21:30"
+          "summary": "当中国SaaS产品凭借功能优势与低价策略出海时，却频频遭遇海外客户的无情抛弃。本文深度剖析了SaaS产品出海的最大误区——过分追求功能堆砌而忽视数字体验。从首因效应到认知卸载，从材质设计到交互革新，揭示了海外市场为何愿意为视觉体验买单的商业逻辑，并给出了从Demo制作到产品包装的实战策略。在国内的SaaS圈中，有一个大家心照不宣但又极其憋屈的现象：“ 我们带着在国内卷了几年、打磨得无比完善的B2B...",
+          "published_at": "2026-05-12T07:12:23"
         },
         {
-          "title": "用AI编程Vibe Coding赚钱，它真的靠谱吗？",
-          "url": "https://www.woshipm.com/ai/6393804.html",
-          "author": "逸和 知识服务工作者",
+          "title": "千问AI与淘宝打通，搜索到成功下单，电商流量即将大爆发",
+          "url": "https://www.woshipm.com/ai/6394024.html",
+          "author": "陌晨",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI编程工具如Cursor、Claude Code等正掀起'人人都是开发者'的热潮，但真相往往藏在细节里。本文深度剖析Vibe Coding的实际边界，从服务器配置到商业合规，用真实账单和四道关键门槛，帮你避开'500元网站惨案'的坑，看清AI辅助创业的底层逻辑与生存法则。2026年，你的信息流里一定出现过这样的内容。“文科生用AI三天做出自己的产品。”“不会代码没关系，AI帮你写。”“普通人靠V...",
-          "published_at": "2026-05-12T03:11:26"
+          "summary": "千问打通淘宝，彻底颠覆了传统电商的搜索购物路径，将复杂的选择过程简化为一句对话即可完成交易。AI掌握了商品推荐的终极话语权，这种排他性的推荐机制正在重塑商家生存法则。本文揭秘600+商家验证有效的GEO四步法，从数据体检到内容种草，带你看懂如何在AI时代抢占流量新入口。千问打通淘宝，意味着什么？意味着”搜索→浏览→比价→下单”这个传统路径，被压缩成了”对话即交易”。用户不再需要在40亿商品里自己挑...",
+          "published_at": "2026-05-12T06:51:33"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 11,
+      "count": 12,
       "items": [
         {
           "title": "Good designers, bad websites: a proposal",
@@ -273,6 +319,15 @@
           "published_at": null
         },
         {
+          "title": "Happly",
+          "url": "https://www.awwwards.com/sites/happly",
+          "author": "Better Off Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Outfit",
           "url": "https://www.awwwards.com/sites/outfit",
           "author": "++hellohello",
@@ -321,34 +376,61 @@
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 6,
       "items": [
         {
-          "title": "Bruin",
-          "url": "https://www.producthunt.com/products/bruin",
-          "author": "Burak Karakan",
+          "title": "Hyperswitch Prism",
+          "url": "https://www.producthunt.com/products/hyperswitch-2",
+          "author": "Kevin William David",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The AI data agent that collaborates with your teamDiscussion|Link",
-          "published_at": "2026-05-09T13:22:22"
+          "summary": "Library to plug-n-switch payment processorsDiscussion|Link",
+          "published_at": "2026-05-09T07:20:21"
         },
         {
-          "title": "Connector.wtf",
-          "url": "https://www.producthunt.com/products/connector-wtf",
-          "author": "Tommi Heikkilä",
+          "title": "TabGroup Vault",
+          "url": "https://www.producthunt.com/products/tabgroup-vault",
+          "author": "Hannan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Plug Google Ads, Meta & LinkedIn into your AI chat. FreeDiscussion|Link",
-          "published_at": "2026-05-09T10:58:37"
+          "summary": "Keep your tab groups safe, searchable, and restorableDiscussion|Link",
+          "published_at": "2026-05-11T11:21:44"
         },
         {
-          "title": "Snapseed 4.0",
-          "url": "https://www.producthunt.com/products/google",
-          "author": "Zac Zuo",
+          "title": "ContentPilots",
+          "url": "https://www.producthunt.com/products/contentpilots",
+          "author": "Georgi Georgiev",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Google’s best photo editor just got seriously betterDiscussion|Link",
-          "published_at": "2026-05-11T02:40:08"
+          "summary": "Turn any video into endless Shorts & Reels with AIDiscussion|Link",
+          "published_at": "2026-05-10T23:02:13"
+        },
+        {
+          "title": "Hopper",
+          "url": "https://www.producthunt.com/products/hopper-4",
+          "author": "Chris Messina",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "First agentic development environment for mainframe/COBOLDiscussion|Link",
+          "published_at": "2026-05-11T05:25:42"
+        },
+        {
+          "title": "Keeby for Windows",
+          "url": "https://www.producthunt.com/products/keeby",
+          "author": "Adrian Angelo Abelarde (Belards)",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Satisfying mechanical keyboard sounds, now on WindowsDiscussion|Link",
+          "published_at": "2026-05-11T13:42:56"
+        },
+        {
+          "title": "DeepFrame",
+          "url": "https://www.producthunt.com/products/deepframe",
+          "author": "Jonh Alex",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Serious security before public exposureDiscussion|Link",
+          "published_at": "2026-05-11T14:48:21"
         }
       ]
     },
@@ -417,49 +499,64 @@
       "count": 5,
       "items": [
         {
-          "title": "ProtoPie User Testing is here. Track every action, one workflow.",
-          "url": "https://bit.ly/side-pie3",
-          "author": "@ProtoPie",
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "Run moderated tests on high-fidelity prototypes. Capture gestures, logic paths, and goal-path scores without leaving ProtoPie.",
-          "published_at": "2026-05-11T08:26:00"
-        },
-        {
-          "title": "The organization is the bottleneck",
-          "url": "https://www.oreilly.com/radar/the-organization-is-the-bottleneck/",
+          "title": "Mockups were never the hard part",
+          "url": "https://www.lukew.com/ff/entry.asp?2152",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Everyone is adopting AI coding tools. Engineers are writing code faster than ever. But are organizations actually delivering value faster?",
-          "published_at": "2026-05-11T08:24:51"
+          "summary": "With AI, anyone on a team can generate mockups in minutes. That was never the hard part.",
+          "published_at": "2026-05-12T09:11:36"
         },
         {
-          "title": "The unreasonable effectiveness of HTML",
-          "url": "https://thariqs.github.io/html-effectiveness/",
+          "title": "Taken",
+          "url": "https://sinceyouarrived.world/taken",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Markdowns are in the past. Twenty self-contained .html files an agent produced instead of a wall of markdown.",
-          "published_at": "2026-05-11T08:24:10"
+          "summary": "A web page that tells you what your browser gave away the moment you arrived. No login, no form, no permission.",
+          "published_at": "2026-05-12T09:10:48"
         },
         {
-          "title": "All aboard the voice to text train",
-          "url": "https://bryanmanio.com/blog/all-aboard-the-voice-to-text-train/",
+          "title": "Agentic coding is a trap",
+          "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "One of the great things about LLMs is how prevalent voice-to-text apps have now become.",
-          "published_at": "2026-05-11T08:23:27"
+          "summary": "Remaining vigilant about cognitive debt and atrophy.",
+          "published_at": "2026-05-12T09:09:57"
         },
         {
-          "title": "How the heck does Shazam work?",
-          "url": "https://perthirtysix.com/how-the-heck-does-shazam-work",
+          "title": "The accursèd alphabetical clock",
+          "url": "https://boat.horse/clock/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Spectrograms, constellation maps, hash fingerprints, and time-offset matching.",
-          "published_at": "2026-05-11T08:22:51"
+          "summary": "A clock that displays the current time alphabetically.",
+          "published_at": "2026-05-12T09:09:00"
+        },
+        {
+          "title": "The boring internet",
+          "url": "https://www.terrygodier.com/the-boring-internet",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "The internet you grew up on isn’t dying. A commercial veneer glued on top of it is. A visual essay about what actually persists.",
+          "published_at": "2026-05-12T09:08:12"
+        }
+      ]
+    },
+    {
+      "category": "前端设计",
+      "count": 1,
+      "items": [
+        {
+          "title": "Soon We Can Finally Banish JavaScript to the ShadowRealm",
+          "url": "https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/",
+          "author": "Mat Marquis",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "The proposed ShadowRealm API introduces a new kind of realm specifically designed for isolation, andonlythat.Soon We Can Finally Banish JavaScript to the ShadowRealmoriginally handwritten and publishe...",
+          "published_at": "2026-05-12T13:59:35"
         }
       ]
     },
@@ -467,6 +564,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "社区速递 140 | 派友热议状态栏里藏了啥、两款百元级新玩意体验",
+          "url": "https://sspai.com/post/109674",
+          "author": "Matrix机器人",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿「新玩意」呈现给大家。上周社区 ...查看全文",
+          "published_at": "2026-05-12T09:40:02"
+        },
+        {
+          "title": "精彩之下的反常时刻：聊聊 F1 2026 年新规悖论",
+          "url": "https://sspai.com/post/109546",
+          "author": "GiraffeB1ues",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "在这篇文章里，让我们聊聊 F1 赛事 2026 年的新规，和可能出现的 Super Clipping 现象。查看全文",
+          "published_at": "2026-05-12T06:15:12"
+        },
+        {
+          "title": "App+1 | 如果你的手机没有内置地震预警，这款 App 不妨常备",
+          "url": "https://sspai.com/post/73727",
+          "author": "北鸮",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "希望大家都可以在灾害中保持冷静，保证安全。查看全文",
+          "published_at": "2026-05-12T03:01:33"
+        },
         {
           "title": "派早报：大疆发布扫拖机器人 ROMO 2 系列等",
           "url": "https://sspai.com/post/109647",
@@ -493,33 +617,6 @@
           "source": "少数派",
           "summary": "五一期间到朋友家做客，他从餐边柜里搬出一整套器具——V60、手磨、手冲壶、分享壶，一顿操作「猛如虎」，三分钟后说「好像有点苦」。我喝了一口，确实苦，不是风味描述里「可可」的那种苦，而是翻车的苦。入坑那 ...查看全文",
           "published_at": "2026-05-11T07:22:59"
-        },
-        {
-          "title": "监工水獭 × 明基挂灯：老朋友回来了，新福利也一并送到",
-          "url": "https://sspai.com/post/109542",
-          "author": "Microhoo",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "五年前，我们做了一只水獭造型的玩偶挂件。我们希望桌面上能有这样一个小东西：不闪光光、不发声、不吵吵你，只是趴在那里，偶尔被你眼角扫到一眼，心情突然就柔软几秒。首批监工水獭用户返图首批监工水獭做出来后反 ...查看全文",
-          "published_at": "2026-05-11T03:01:36"
-        },
-        {
-          "title": "派早报：苹果与英特尔就芯片代工达成初步协议",
-          "url": "https://sspai.com/post/109610",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "苹果与英特尔就芯片代工达成初步协议芯片缺货导致主板厂商出货暴跌人形机器人在韩国受戒入佛门AI 儿童玩具泛滥引发担忧特朗普政府通过 ChatGPT 做出的停止拨款决定被判无效谷歌验证码将检查 Play 框架，非原版 Android 用户或受阻看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
-          "published_at": "2026-05-10T23:12:39"
-        },
-        {
-          "title": "寻找你身边的电波——如何上中继",
-          "url": "https://sspai.com/post/87897",
-          "author": "休伯利安",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "无线电波都会穿过你我的身体，而我们并不知道他们承载了什么样的信息，最终又要去向哪里。查看全文",
-          "published_at": "2026-05-10T06:57:38"
         }
       ]
     }
