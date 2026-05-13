@@ -1,25 +1,26 @@
 {
   "date": "2026-05-13T00:00:00",
-  "total_items": 59,
+  "total_items": 68,
   "sources": [
+    "Awwwards",
     "优设网",
+    "A List Apart",
+    "Product Hunt",
+    "人人都是产品经理",
+    "Intercom Blog",
+    "UX Planet",
+    "CSS-Tricks",
+    "少数派",
     "NN/g (Nielsen Norman Group)",
     "Design Milk",
-    "少数派",
-    "UX Planet",
-    "UX Design CC",
-    "人人都是产品经理",
-    "A List Apart",
     "Sidebar",
-    "Intercom Blog",
-    "Product Hunt",
-    "CSS-Tricks"
+    "UX Design CC"
   ],
-  "generated_at": "2026-05-13T03:46:59.297675",
+  "generated_at": "2026-05-13T14:43:09.835010",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 13,
+      "count": 14,
       "items": [
         {
           "title": "What do you do if your best design work is a small project?",
@@ -101,6 +102,15 @@
           "source": "UX Design CC",
           "summary": "Productivity is the floor of AI’s value, not the ceiling. New McKinsey research on where the durable returns actually live, and what that means for teams deciding what to build.Generated with AI by Au...",
           "published_at": "2026-05-11T08:13:35"
+        },
+        {
+          "title": "Rapid prototyping with Claude Code",
+          "url": "https://uxplanet.org/rapid-prototyping-with-claude-code-a3da8f2338c1?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "10 Practical techniques for making the most of Claude CodeContinue reading on UX Planet »",
+          "published_at": "2026-05-13T13:24:44"
         },
         {
           "title": "Creating Visual Schemes with Claude Code",
@@ -202,8 +212,17 @@
     },
     {
       "category": "产品设计",
-      "count": 11,
+      "count": 12,
       "items": [
+        {
+          "title": "MUHLY Celebrates Texture At Afternoon Light",
+          "url": "https://design-milk.com/muhly-celebrates-texture-at-afternoon-light/",
+          "author": "Aria Lee",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "The depth of oxidized copper meets the luminosity of cherry wood in MUHLY's latest releases: Dekko, Pokal and the Prairie Pendant.",
+          "published_at": "2026-05-13T13:00:22"
+        },
         {
           "title": "The Nimbus Vase Bridges Art, Light, and Design",
           "url": "https://design-milk.com/the-nimbus-vase-bridges-art-light-and-design/",
@@ -259,55 +278,55 @@
           "published_at": "2026-05-12T16:52:37"
         },
         {
-          "title": "头部产品年收入700万美元？拆解韩国AI聊天赛道，新的商业化高度诞生",
-          "url": "https://www.woshipm.com/share/6394855.html",
-          "author": "扬帆出海",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "当深夜成为情感代偿的黄金时段，韩国AI聊天应用正以惊人的商业表现改写市场规则。Zeta、Crack等产品通过游戏化设计、亚文化深耕和精品化体验，精准收割着为‘心动瞬间’付费的年轻用户。本文将深度解析这些应用如何将情感缺口转化为高溢价收入，以及它们如何依托韩国成熟的网漫付费生态构建商业护城河。凌晨往往是AI陪伴类应用的使用高峰。对于许多在高压环境下学习、工作的韩国年轻人来说，结束一天的日程安排后，卧...",
-          "published_at": "2026-05-13T03:33:13"
-        },
-        {
-          "title": "一文快速解锁“标签体系”：开发思路，搭建模型，业务价值",
-          "url": "https://www.woshipm.com/share/6394842.html",
+          "title": "完整的数据分析体系是什么？该怎么搭建？",
+          "url": "https://www.woshipm.com/share/6395174.html",
           "author": "接地气的陈老师",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "标签体系是驱动业务决策的隐形引擎。本文深度拆解从静态用户标签到动态偏好标签的构建逻辑，揭示如何通过价值标识、行为追踪与数据迭代，为管理层、运营和一线人员打造精准的数据武器库。标签体系，是数据分析工作的重要基建。经营分析、用户画像、推荐策略、商品运营、投放优化、用户运营……都和标签体系有关，今天一篇文章，跟大家讲清楚。文章较长，同学们记得先给陈老师点个赞，回来慢慢看哦。一、理解标签含义标签是有业务含...",
-          "published_at": "2026-05-13T03:21:43"
+          "summary": "数据分析体系的搭建绝非简单罗列指标，而是需要精准对接业务需求的系统工程。本文深度剖析企业常见三大误区，从部门分工、目标拆解到行动复盘，揭示如何构建真正驱动业务增长的数据分析框架。我们经常听到“搭建运营分析体系、搭建业绩监控体系、搭建商品分析体系”等求。可数据分析体系到底是什么？似乎经常看到的，只有AARRR五个字母，又语焉不详，到底怎样才算是建了个体系？搭建数据分析体系，是初级数据分析向高级发展的...",
+          "published_at": "2026-05-13T11:00:57"
         },
         {
-          "title": "300+个合规自查点，免费自取",
-          "url": "https://www.woshipm.com/share/6394350.html",
-          "author": "敏尔说",
+          "title": "Cursor CEO 最新演讲：AI coding的下一个时代",
+          "url": "https://www.woshipm.com/ai/6395131.html",
+          "author": "深思圈",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "财税合规是企业的生命线，这份300+自查点清单从增值税、企业所得税到费用报销全覆盖，帮你精准识别75个进项税抵扣雷区、82个收入确认陷阱和63个费用报销漏洞。无论是三流不一致的发票风险，还是小微企业税收优惠的合规边界，这里都有详细的整改指引和应对策略。为大家提供300+个财税合规自查点，帮大家轻松搞定年底自查～一、增值税模块（75个）核心风险点进项税抵扣：开票方为非正常户，发票无法正常抵扣进项税抵...",
-          "published_at": "2026-05-13T03:08:54"
+          "summary": "当企业客户 75% 的代码完全由 AI 生成时，软件开发已迎来'星球大战时刻'。Cursor CEO 用震撼数据揭示：工程师正从代码编写者转型为'幽灵同事'管理者，而 agent 团队甚至能独立开发浏览器原型。这场变革不仅重构技术流程，更将颠覆创业门槛与教育体系。你有没有想过，”写代码” 这件事的本质，可能已经彻底变了？不是那种小修小补的变化，而是从根上变了。就在最近，Cursor 的联合创始人兼...",
+          "published_at": "2026-05-13T09:53:56"
         },
         {
-          "title": "效率之外：一人公司真正需要的是什么",
-          "url": "https://www.woshipm.com/ai/6394778.html",
-          "author": "妍霏聊品牌",
+          "title": "OpenAI 在抢一个比 ChatGPT 更大的入口",
+          "url": "https://www.woshipm.com/ai/6394915.html",
+          "author": "阐述你的梦",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI工具正在重塑创意行业的工作方式，但成功的关键从不在于工具本身。本文通过两个设计师的真实案例，揭示了AI时代最致命的认知陷阱——用AI替代思考还是赋能思考。你将看到深度思考、批判判断和完整责任如何构成不可替代的职业内核，以及为什么那些『月入十万』的故事背后总是隐藏着5-8年的积累。故事A：小G是资深平面设计师，有15年行业经验。他的设计过程是这样的：与客户沟通需求 → 自己思考品牌策略和视觉方向...",
-          "published_at": "2026-05-13T03:03:07"
+          "summary": "当一通教育咨询电话让你分不清是真人还是AI，GPT-Realtime-2正在悄然改变人机交互的底层规则。OpenAI最新发布的语音模型不仅实现了1.12秒的极速响应，更通过端到端架构保留了人类对话中的微妙细节。这场从键盘到麦克风的入口争夺战，正在重构客服、医疗、金融等行业的服务范式。上周白天，我打电话给一家在线教育机构咨询课程。电话那头是个女声，语速不快、会停顿、偶尔还有点轻微的”呃”——那种你在...",
+          "published_at": "2026-05-13T09:50:06"
         },
         {
-          "title": "每个没用到的Skill，都在悄悄收你的租",
-          "url": "https://www.woshipm.com/ai/6394660.html",
+          "title": "企业可以这样落地 AI 能力（一）：路径规划",
+          "url": "https://www.woshipm.com/ai/6395069.html",
+          "author": "Isaac Theo",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "在AI浪潮席卷全行业的当下，企业如何避免盲目跟风？本文从实战角度提出『安全区练新兵』策略，建议从重复性高、风险低的边缘任务切入，通过『AI执行+人工验证』的渐进模式建立团队掌控感。更揭示了用『比大小』筛选AI应用场景的核心方法论，帮助企业将转型焦虑转化为可执行的量化指标。在“全员拥抱AI”的大背景下，大厂在快速迭代，同行在疯狂奔跑，那种“生怕被时代落下”的紧迫感很容易让决策者感到焦虑，这种心情完全...",
+          "published_at": "2026-05-13T09:48:01"
+        },
+        {
+          "title": "xAI死了，但马斯克没输，一次被所有人看错的战略撤退",
+          "url": "https://www.woshipm.com/ai/6394988.html",
           "author": "智火流辉",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Claude AI的skill机制暗藏消费陷阱！实测显示，挂载15个未使用skill时单句话消耗51K token，精简到5个后骤降至31K——那些你以为‘闲置免费’的能力，正在每轮对话中悄悄吞噬token。本文深度拆解Anthropic底层机制，揭示skill描述全量预加载+轮询判断的双重消耗逻辑，更带来ToolSearch优化方案与三大实战策略，帮你截流隐性AI成本。我说了同一句话，token...",
-          "published_at": "2026-05-13T02:43:06"
+          "summary": "马斯克将xAI并入SpaceX并将22万张GPU租给Anthropic的举动，表面上看似AI业务的失败退场，实则暗藏着一场精密的商业布局。本文深度拆解SpaceX的IPO时间线与算力租赁合同背后的战略逻辑，揭示AI行业从模型竞争转向基础设施争夺的残酷现实。2026年5月6日，北京时间清晨，有两条消息几乎同时出现在科技圈的信息流里。第一条：马斯克在X上宣布，xAI将停止作为独立公司运营，整体并入Sp...",
+          "published_at": "2026-05-13T09:37:38"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 6,
+      "count": 12,
       "items": [
         {
           "title": "Good designers, bad websites: a proposal",
@@ -362,57 +381,84 @@
           "source": "A List Apart",
           "summary": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things t...",
           "published_at": null
+        },
+        {
+          "title": "Floema",
+          "url": "https://www.awwwards.com/sites/floema",
+          "author": "Bürocratik",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Happly",
+          "url": "https://www.awwwards.com/sites/happly",
+          "author": "Better Off Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Outfit",
+          "url": "https://www.awwwards.com/sites/outfit",
+          "author": "++hellohello",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Simonholm.studio",
+          "url": "https://www.awwwards.com/sites/simonholm-studio",
+          "author": "simonholm.studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Studio Namma",
+          "url": "https://www.awwwards.com/sites/studio-namma",
+          "author": "Studio Namma",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Marvell Tile & Stone",
+          "url": "https://www.awwwards.com/sites/marvell-tile-stone",
+          "author": "Humaan",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 2,
       "items": [
         {
-          "title": "Habitvs",
-          "url": "https://www.producthunt.com/products/habitvs",
-          "author": "Igor Maciel",
+          "title": "Latitude for Claude Code",
+          "url": "https://www.producthunt.com/products/latitude-4",
+          "author": "fmerian",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "An Apple Health companion that grows with your habitsDiscussion|Link",
-          "published_at": "2026-05-10T15:00:00"
+          "summary": "See where Claude Code burns tokens. Hit your limits less.Discussion|Link",
+          "published_at": "2026-05-11T14:12:35"
         },
         {
-          "title": "knooth",
-          "url": "https://www.producthunt.com/products/knooth",
-          "author": "Baisampayan Saha",
+          "title": "Polygram",
+          "url": "https://www.producthunt.com/products/polygram-4",
+          "author": "Darshan Purani",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Screen recording with AI-powered editing for MacDiscussion|Link",
-          "published_at": "2026-05-11T14:28:36"
-        },
-        {
-          "title": "Klyxshot",
-          "url": "https://www.producthunt.com/products/klyxshot",
-          "author": "Oleh",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The screenshot tool that thinks with youDiscussion|Link",
-          "published_at": "2026-05-10T14:39:30"
-        },
-        {
-          "title": "MY AI Agent",
-          "url": "https://www.producthunt.com/products/my-ai-agent",
-          "author": "こうたけ",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "AI assembles a 3-10 agent team from one sentenceDiscussion|Link",
-          "published_at": "2026-05-11T02:04:13"
-        },
-        {
-          "title": "Whale Starts",
-          "url": "https://www.producthunt.com/products/whale-starts",
-          "author": "Aziz Kira",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The website builder that can copy any design on the webDiscussion|Link",
-          "published_at": "2026-05-11T09:45:29"
+          "summary": "AI-native design and coding app to build mobile & web appsDiscussion|Link",
+          "published_at": "2026-05-11T21:26:17"
         }
       ]
     },
@@ -466,8 +512,8 @@
           "published_at": null
         },
         {
-          "title": "图标设计别只盯着大图，看不清的通知栏图标真累人！",
-          "url": "https://www.uisdc.com/hunter/0221669684.html",
+          "title": "微信群聊AI摘要上线，为何产品经理要把路径设计得这么深？",
+          "url": "https://www.uisdc.com/hunter/0221669774.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -481,56 +527,92 @@
       "count": 5,
       "items": [
         {
-          "title": "Mockups were never the hard part",
-          "url": "https://www.lukew.com/ff/entry.asp?2152",
+          "title": "Renovate with Figma (and AI)",
+          "url": "https://www.shapes.gg/renovate-with-figma/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "With AI, anyone on a team can generate mockups in minutes. That was never the hard part.",
-          "published_at": "2026-05-12T09:11:36"
+          "summary": "Can your interior project benefit from using Figma and a touch of AI? Of course it can.",
+          "published_at": "2026-05-13T08:10:01"
         },
         {
-          "title": "Taken",
-          "url": "https://sinceyouarrived.world/taken",
+          "title": "Apps and programming: two accidental tyrannies",
+          "url": "https://andymatuschak.org/tat/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A web page that tells you what your browser gave away the moment you arrived. No login, no form, no permission.",
-          "published_at": "2026-05-12T09:10:48"
+          "summary": "On coding agents, malleable software, and the future of interface invention.",
+          "published_at": "2026-05-13T08:09:34"
         },
         {
-          "title": "Agentic coding is a trap",
-          "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+          "title": "Your name in Landsat",
+          "url": "https://science.nasa.gov/specials/your-name-in-landsat/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Remaining vigilant about cognitive debt and atrophy.",
-          "published_at": "2026-05-12T09:09:57"
+          "summary": "Type your name and see it spelled out in stunning Landsat satellite imagery.",
+          "published_at": "2026-05-13T08:09:08"
         },
         {
-          "title": "The accursèd alphabetical clock",
-          "url": "https://boat.horse/clock/",
-          "author": null,
+          "title": "@web-kits/audio",
+          "url": "https://audio.raphaelsalaja.com/",
+          "author": "@raphaelsalaja",
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A clock that displays the current time alphabetically.",
-          "published_at": "2026-05-12T09:09:00"
+          "summary": "Declarative audio synthesis for the web. Define sounds as plain objects and play them with a single function call.",
+          "published_at": "2026-05-13T08:08:27"
         },
         {
-          "title": "The boring internet",
-          "url": "https://www.terrygodier.com/the-boring-internet",
+          "title": "Three stoic principles for better web accessibility",
+          "url": "https://piccalil.li/blog/three-stoic-principles-for-better-web-accessibility/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The internet you grew up on isn’t dying. A commercial veneer glued on top of it is. A visual essay about what actually persists.",
-          "published_at": "2026-05-12T09:08:12"
+          "summary": "Some simple principles here from Steve Frenzel that you can apply whether you’re highly experienced in web accessibility or a beginner.",
+          "published_at": "2026-05-13T08:07:22"
         }
       ]
     },
     {
       "category": "前端设计",
-      "count": 1,
+      "count": 5,
       "items": [
+        {
+          "title": "rotateX()",
+          "url": "https://css-tricks.com/almanac/functions/r/rotatex/",
+          "author": "Gabriel Shoyombo",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "TherotateX()function rotates an element around the x-axis in a three-dimensional spacerotateX()originally handwritten and published with love onCSS-Tricks. You should reallyget the newsletteras well.",
+          "published_at": "2026-05-13T14:36:54"
+        },
+        {
+          "title": "rotateY()",
+          "url": "https://css-tricks.com/almanac/functions/r/rotatey/",
+          "author": "Gabriel Shoyombo",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "TherotateY()function rotates an element around its vertical y-axis.rotateY()originally handwritten and published with love onCSS-Tricks. You should reallyget the newsletteras well.",
+          "published_at": "2026-05-13T14:33:58"
+        },
+        {
+          "title": "rotateZ()",
+          "url": "https://css-tricks.com/almanac/functions/r/rotatez/",
+          "author": "Gabriel Shoyombo",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "TherotateZ()function rotates an element around its z-axis, so clockwise or counterclockwise.rotateZ()originally handwritten and published with love onCSS-Tricks. You should reallyget the newsletteras ...",
+          "published_at": "2026-05-13T14:33:03"
+        },
+        {
+          "title": "rotate()",
+          "url": "https://css-tricks.com/almanac/functions/r/rotate/",
+          "author": "Gabriel Shoyombo",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "Therotate()function spins an element either clockwise or counterclockwise in a 2D plane.rotate()originally handwritten and published with love onCSS-Tricks. You should reallyget the newsletteras well.",
+          "published_at": "2026-05-13T14:32:47"
+        },
         {
           "title": "Soon We Can Finally Banish JavaScript to the ShadowRealm",
           "url": "https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/",
@@ -546,6 +628,24 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "App+1 | 把笔记软件「装进」浏览器：SilverBullet.md",
+          "url": "https://sspai.com/post/109399",
+          "author": "Cheech",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "我试过的笔记软件可能比记过的笔记都多——这样说或许有些夸张，但自2019年RoamResearch进入大众视野，各种支持双链笔记的PKM软件有如过江之鲫。多年来，我也辗转于各类方案、各种组合。我尝试过 ...查看全文",
+          "published_at": "2026-05-13T09:30:00"
+        },
+        {
+          "title": "佳明本能 Instinct 3 太阳能版评测：我的智能手表终章",
+          "url": "https://sspai.com/post/108228",
+          "author": "带电的泡芙",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "本能 3 太阳能版这种追求长久耐用、长续航的理念更显可贵，以至于我找不到它的任何替代品，我想，这就是我的智能手表终章了。查看全文",
+          "published_at": "2026-05-13T06:56:59"
+        },
         {
           "title": "Google 提前给 Android 办了场发布会，但主角依然不是 Android",
           "url": "https://sspai.com/post/109699",
@@ -581,24 +681,6 @@
           "source": "少数派",
           "summary": "在这篇文章里，让我们聊聊 F1 赛事 2026 年的新规，和可能出现的 Super Clipping 现象。查看全文",
           "published_at": "2026-05-12T06:15:12"
-        },
-        {
-          "title": "App+1 | 如果你的手机没有内置地震预警，这款 App 不妨常备",
-          "url": "https://sspai.com/post/73727",
-          "author": "北鸮",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "希望大家都可以在灾害中保持冷静，保证安全。查看全文",
-          "published_at": "2026-05-12T03:01:33"
-        },
-        {
-          "title": "派早报：大疆发布扫拖机器人 ROMO 2 系列等",
-          "url": "https://sspai.com/post/109647",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "千问与淘宝全面打通，Google 安全团队首次发现 AI 参与黑客活动的迹象等。查看全文",
-          "published_at": "2026-05-11T23:53:05"
         }
       ]
     }
