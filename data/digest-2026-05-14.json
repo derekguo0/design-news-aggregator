@@ -1,27 +1,37 @@
 {
   "date": "2026-05-14T00:00:00",
-  "total_items": 66,
+  "total_items": 76,
   "sources": [
+    "CSS-Tricks",
+    "UX Design CC",
     "Intercom Blog",
-    "Smashing Magazine",
-    "Product Hunt",
+    "Awwwards",
+    "UX Planet",
+    "A List Apart",
+    "Design Milk",
+    "人人都是产品经理",
     "NN/g (Nielsen Norman Group)",
     "少数派",
-    "Design Milk",
+    "Product Hunt",
+    "Smashing Magazine",
     "Sidebar",
-    "UX Planet",
-    "UX Design CC",
-    "A List Apart",
-    "优设网",
-    "CSS-Tricks",
-    "人人都是产品经理"
+    "优设网"
   ],
-  "generated_at": "2026-05-14T03:45:56.643012",
+  "generated_at": "2026-05-14T14:23:22.526043",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 15,
+      "count": 16,
       "items": [
+        {
+          "title": "Can a typeface be safe?",
+          "url": "https://uxdesign.cc/can-a-typeface-be-safe-2e0720052013?source=rss----138adf9c44c---4",
+          "author": "Elvis Hsiao",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How Volvo’s typeface enhances safety for driversContinue reading on UX Collective »",
+          "published_at": "2026-05-14T05:57:24"
+        },
         {
           "title": "What do you do if your best design work is a small project?",
           "url": "https://uxdesign.cc/what-do-you-do-if-your-best-design-work-is-a-small-project-6d57e619d866?source=rss----138adf9c44c---4",
@@ -224,6 +234,15 @@
       "count": 13,
       "items": [
         {
+          "title": "Sam Sacks Renovates a Toronto Townhouse From the Inside Out",
+          "url": "https://design-milk.com/sam-sacks-renovates-a-toronto-townhouse-from-the-inside-out/",
+          "author": "Leo Lei",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "A structural wall, boxy pickets, and grey contractor finishes stood between this Toronto townhouse and what it could be.",
+          "published_at": "2026-05-14T13:00:30"
+        },
+        {
           "title": "FELT’s Home for Life Centers Dignity in Ageing-in-Place Design",
           "url": "https://design-milk.com/felts-home-for-life-centers-dignity-in-ageing-in-place-design/",
           "author": "Joseph Sgambati III",
@@ -269,15 +288,6 @@
           "published_at": "2026-05-12T14:00:08"
         },
         {
-          "title": "How Material Bank Continues to Transform Material Sourcing Across Europe",
-          "url": "https://design-milk.com/how-material-bank-continues-to-transform-material-sourcing-across-europe/",
-          "author": "Joseph Sgambati III",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Material Bank brings its game-changing logistics platform to Europe—streamlining search, sampling, and specification for architects and interior designers.",
-          "published_at": "2026-05-12T13:00:09"
-        },
-        {
           "title": "The ultimate guide to knowledge management for your Sales Agent",
           "url": "https://www.intercom.com/blog/sales-agent-knowledge-management-guide/",
           "author": "Beth-Ann Sher",
@@ -296,55 +306,55 @@
           "published_at": "2026-05-12T16:52:37"
         },
         {
-          "title": "出版编辑和投资人都在小红书蹲人",
-          "url": "https://www.woshipm.com/share/6395548.html",
-          "author": "半佛仙人",
+          "title": "AtomGit 上最值得收藏的 OpenHarmony 全生态仓库清单（2026 最新）",
+          "url": "https://www.woshipm.com/share/6395852.html",
+          "author": "nutpi",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当70岁的肖大妹拿起画笔，她不知道这会改变一家人的命运。小红书正在用独特的社区生态重塑创作规则——从广西农民的乡土记忆到电销人的职场日记，从水墨画家的四季随笔到00后的AI创业项目，这个平台让普通人实现了从‘被看见’到‘被出版’的跨越。本文通过多个真实案例，揭示小红书如何成为素人创作者的价值放大器。01把七十岁老母亲画的画儿发到网上，会发生什么？小红书用户一土浅浅试了一下，在她为母亲建立的账号“我...",
-          "published_at": "2026-05-14T03:15:27"
+          "summary": "OpenHarmony 正以惊人的速度构建全场景技术生态，而 AtomGit 已成为开发者进入鸿蒙世界的核心入口。本文精选主仓生态、跨平台开发、特色技术、应用生态四大板块的权威代码仓库，从系统内核到 AI 模型，从芯片适配到商用组件，为开发者提供一站式资源导航。无论你是想迁移现有应用，还是探索前沿技术，这些精选仓库都能让你快速上手。OpenHarmony 作为开放原子开源基金会孵化毕业的全场景智能...",
+          "published_at": "2026-05-14T08:26:28"
         },
         {
-          "title": "大模型的尽头，有个收费站",
-          "url": "https://www.woshipm.com/share/6395546.html",
-          "author": "张书乐",
+          "title": "两位硅谷顶级投资人最新判断：AI 正在重写早期投资规则",
+          "url": "https://www.woshipm.com/ai/6395835.html",
+          "author": "深思圈",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "3.45亿月活的豆包突然宣布推出三档付费订阅服务，最高档年费突破5000元！这款国民级AI应用虽承诺保留基础免费功能，但复杂的生产力场景将全面收费。本文深度剖析大模型商业化的必然逻辑，以及算力成本飙升下行业面临的集体困境。坐拥3.45亿月度活跃用户数量的超级AI应用，正计划推出付费订阅服务。5月4日，豆包在App Store更新付费订阅声明的消息登上微博“热搜”。尽管官方回应称，付费方案尚在测试阶...",
-          "published_at": "2026-05-14T03:05:28"
+          "summary": "AI正在彻底重构风险投资的底层逻辑。从年轻创始人涌现、大基金下沉seed阶段到估值体系全面上移，传统VC方法论遭遇空前挑战。本文通过A* Capital创始人的实战洞察，揭示AI时代早期投资的三大悖论与人才追踪新范式，拆解泡沫中的真实机会与致命陷阱。你有没有想过，风险投资这件事本身，也正在被 AI 颠覆？不是说 VC 们开始用 AI 工具做尽调，而是整个投资逻辑、判断创始人的方式、看待市场的角度，...",
+          "published_at": "2026-05-14T08:20:44"
         },
         {
-          "title": "AI大事件：腾讯Q1营收1965亿，马化腾称”一年前上的AI船漏水了”",
-          "url": "https://www.woshipm.com/ai/6395543.html",
-          "author": "AI星球",
+          "title": "做产品，不再是给人用的",
+          "url": "https://www.woshipm.com/share/6395832.html",
+          "author": "AI产品经理四月",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "今天AI圈有件挺有意思的事——Anthropic的Claude Opus 4在做测试的时候，居然自己写起了”勒索邮件”，原因是预训练数据里塞了太多科幻小说。这是Anthropic主动披露的，不是被曝光的——为什么AI公司开始主动揭短了？另一边，马化腾在腾讯财报会上说”一年前上的AI船漏水了，乱抢地盘会失败”；黄仁勋今年砸向AI的钱3080亿，快够买下一个DeepSeek了；百度一个8岁小学生用秒哒...",
-          "published_at": "2026-05-14T02:57:32"
+          "summary": "当SaaS平台纷纷将能力封装成MCP和CLI开放给AI Agent时，行业出现了'GUI已死'的论调。本文深度剖析了LUI与GUI的互补关系，指出功能型GUI将被AI替代，而决策型GUI将更显价值。通过Salesforce、飞书等案例，揭示产品经理如何从'画功能页'转向'拆场景'，抓住AI时代的新机遇。前阵子，SaaS 巨头 Salesforce 把自己平台的能力，打包成MCP和CLI ，开放给 ...",
+          "published_at": "2026-05-14T08:07:27"
         },
         {
-          "title": "被同事折磨的不想上班？送你一份识破职场NPD应对手册",
-          "url": "https://www.woshipm.com/zhichang/6395153.html",
-          "author": "菩提果果",
+          "title": "小红书强推直客体系的3年后，怎么样了",
+          "url": "https://www.woshipm.com/share/6395829.html",
+          "author": "Vic的营销思考",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "职场中的NPD（自恋型人格障碍）同事如同‘能量黑洞’，吸走周围人的情绪与信心。本文将深入剖析NPD的九大典型特征，从双标行为到控制欲强，再到扭曲事实，并提供七大应对策略，帮助你在职场中识别并有效应对这类‘有毒’同事。朋友小聚，忍不住吐槽起“有毒的同事”：爱怼人、听不进意见、情绪暴躁、甩锅能手、双标严重……我内心惊叹：天哪，你这是遇到NPD同事了！这种人“特别有毒”，就像职场里的“能量黑洞”，谁靠近...",
-          "published_at": "2026-05-14T02:41:50"
+          "summary": "小红书直客体系的分配逻辑正在引发深层生态危机。当平台强行接管商家资源匹配权时，品牌信任瓦解、代理商生态萎缩、内容广告化加剧等问题接踵而至。本文犀利剖析分配模式与撮合模式的本质差异，揭示小红书商业化困境背后的流量规模悖论，为平台转型提出关键建议。前几年我写过一篇文章，对小红书直客体系忍无可忍！！！当时传播的还挺广的，很多品牌在评论区疯狂吐槽，大家都对小红书的直客体系多多少少有一些意见后来小红书商服团...",
+          "published_at": "2026-05-14T07:59:44"
         },
         {
-          "title": "AI浪潮中的产品定力：五层过滤法，帮你筛掉90%的伪需求",
-          "url": "https://www.woshipm.com/share/6395498.html",
-          "author": "要成为产品小李",
+          "title": "我用2000篇文档蒸馏了自己，结果只得到了一个低质RAG",
+          "url": "https://www.woshipm.com/share/6395819.html",
+          "author": "柠檬饼干净又卫生",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在AI技术爆炸的今天，产品人常常被各种‘颠覆性创新’和‘必备工具’裹挟。本文揭秘一套五层过滤框架，从政策合规、资本动向、行业落地到公司适配和情绪泡沫，教你如何在喧嚣中识别真正有价值的技术趋势，避免成为概念炒作的牺牲品。每天早上打开朋友圈、知乎、公众号，你都能看到这样的标题：“XX技术颠覆行业格局！”“不懂这个AI工具，你将被时代淘汰！”“某某大厂All in，再不学就晚了！”焦虑感像病毒一样蔓延。...",
-          "published_at": "2026-05-14T02:39:58"
+          "summary": "当 Codex 与飞书文档碰撞，数字分身计划却暴露了 AI 的认知鸿沟。本文作者将 2000 多份工作文档喂给 AI，试图打造能替代决策的'数字分身'，最终得到的却只是低质 RAG 系统——它能检索显性知识，却无法复刻人类判断中那些未言明的隐性逻辑。这场实验揭示了当前 AI 在企业知识管理中的致命短板。最近跑路了，为了方便交接，我用 Codex 调用飞书 CLI，把自己过去写过、参与过、沉淀过的 ...",
+          "published_at": "2026-05-14T07:50:32"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 7,
+      "count": 14,
       "items": [
         {
           "title": "Practical Interface Patterns For AI Transparency (Part 2)",
@@ -408,39 +418,120 @@
           "source": "A List Apart",
           "summary": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things t...",
           "published_at": null
+        },
+        {
+          "title": "fromanother.love",
+          "url": "https://www.awwwards.com/sites/fromanother-love",
+          "author": "fromanother",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Floema",
+          "url": "https://www.awwwards.com/sites/floema",
+          "author": "Bürocratik",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Happly",
+          "url": "https://www.awwwards.com/sites/happly",
+          "author": "Better Off Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Outfit",
+          "url": "https://www.awwwards.com/sites/outfit",
+          "author": "++hellohello",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Simonholm.studio",
+          "url": "https://www.awwwards.com/sites/simonholm-studio",
+          "author": "simonholm.studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Studio Namma",
+          "url": "https://www.awwwards.com/sites/studio-namma",
+          "author": "Studio Namma",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Marvell Tile & Stone",
+          "url": "https://www.awwwards.com/sites/marvell-tile-stone",
+          "author": "Humaan",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 5,
       "items": [
         {
-          "title": "Glosso",
-          "url": "https://www.producthunt.com/products/glosso",
-          "author": "alexandre siguret",
+          "title": "Raindrop Workshop",
+          "url": "https://www.producthunt.com/products/raindrop",
+          "author": "Alexis Gauba",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Learn a language to unlock social mediaDiscussion|Link",
-          "published_at": "2026-05-12T18:17:30"
+          "summary": "Open source, free, local debugger for AI agentsDiscussion|Link",
+          "published_at": "2026-05-14T06:50:48"
         },
         {
-          "title": "Blaze 2.0",
-          "url": "https://www.producthunt.com/products/blaze-5",
-          "author": "Adam Nathan",
+          "title": "DesignMD",
+          "url": "https://www.producthunt.com/products/designmd-2",
+          "author": "Aditya Raj",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI marketer for SMBs complete w/ strategy, content, and adsDiscussion|Link",
-          "published_at": "2026-05-13T04:02:47"
+          "summary": "Turn any website into an AI-ready design systemDiscussion|Link",
+          "published_at": "2026-05-13T14:40:33"
         },
         {
-          "title": "Zen Reports",
-          "url": "https://www.producthunt.com/products/zen-reports",
-          "author": "Manish Sharma",
+          "title": "Notion Developer Platform",
+          "url": "https://www.producthunt.com/products/notion",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "See how much traffic your website gets from ChatGPTDiscussion|Link",
-          "published_at": "2026-05-13T03:28:58"
+          "summary": "Build on Notion, not just inside itDiscussion|Link",
+          "published_at": "2026-05-14T03:14:47"
+        },
+        {
+          "title": "Enjo Help Center",
+          "url": "https://www.producthunt.com/products/enjo-help-center",
+          "author": "Rashmi Gupta",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "AI auto-builds your help centers that learn from your teamDiscussion|Link",
+          "published_at": "2026-05-14T03:01:38"
+        },
+        {
+          "title": "Sherloq",
+          "url": "https://www.producthunt.com/products/sherloq-2",
+          "author": "Eduard Schmidt",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Know which LinkedIn prospect is warm - right nowDiscussion|Link",
+          "published_at": "2026-05-12T06:06:05"
         }
       ]
     },
@@ -494,8 +585,8 @@
           "published_at": null
         },
         {
-          "title": "如何复刻爆款视频？用 LibTV 一键提取分镜词提示词！",
-          "url": "https://www.uisdc.com/hunter/0221669807.html",
+          "title": "为什么 Google 将 Emoji 3D 化？揭秘设计风向转变",
+          "url": "https://www.uisdc.com/hunter/0221669911.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -509,49 +600,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Renovate with Figma (and AI)",
-          "url": "https://www.shapes.gg/renovate-with-figma/",
+          "title": "AI slop is killing online communities",
+          "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Can your interior project benefit from using Figma and a touch of AI? Of course it can.",
-          "published_at": "2026-05-13T08:10:01"
+          "summary": "How we risk destroying the very ecosystems we built to stay connected.",
+          "published_at": "2026-05-14T06:13:34"
         },
         {
-          "title": "Apps and programming: two accidental tyrannies",
-          "url": "https://andymatuschak.org/tat/",
+          "title": "3Dsvg",
+          "url": "https://3dsvg.design/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "On coding agents, malleable software, and the future of interface invention.",
-          "published_at": "2026-05-13T08:09:34"
+          "summary": "Turn any SVG into interactive 3D objects. Animate and export as 4K image or video. 100% free, no account or subscription needed.",
+          "published_at": "2026-05-14T06:12:14"
         },
         {
-          "title": "Your name in Landsat",
-          "url": "https://science.nasa.gov/specials/your-name-in-landsat/",
+          "title": "When sites need to walk away",
+          "url": "https://chriscoyier.net/2026/04/28/when-sites-need-to-walk-away/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Type your name and see it spelled out in stunning Landsat satellite imagery.",
-          "published_at": "2026-05-13T08:09:08"
+          "summary": "According to a Pew Research Center report, 26% of pages from 2013-2023 are no longer accessible.",
+          "published_at": "2026-05-14T06:11:30"
         },
         {
-          "title": "@web-kits/audio",
-          "url": "https://audio.raphaelsalaja.com/",
-          "author": "@raphaelsalaja",
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "Declarative audio synthesis for the web. Define sounds as plain objects and play them with a single function call.",
-          "published_at": "2026-05-13T08:08:27"
-        },
-        {
-          "title": "Three stoic principles for better web accessibility",
-          "url": "https://piccalil.li/blog/three-stoic-principles-for-better-web-accessibility/",
+          "title": "Nudges, biases & heuristics for the age of AI",
+          "url": "https://www.nudges.fyi/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Some simple principles here from Steve Frenzel that you can apply whether you’re highly experienced in web accessibility or a beginner.",
-          "published_at": "2026-05-13T08:07:22"
+          "summary": "43 interactive field cards covering nudges, biases, heuristics, and AI phenomena. A practical reference.",
+          "published_at": "2026-05-14T06:10:42"
+        },
+        {
+          "title": "Human creativity benchmark",
+          "url": "https://contralabs.com/research/human-creativity-benchmark",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "Setting the benchmark for style, tone, and taste with next-gen creative tools.",
+          "published_at": "2026-05-14T06:09:59"
         }
       ]
     },
@@ -559,6 +650,15 @@
       "category": "前端设计",
       "count": 5,
       "items": [
+        {
+          "title": "Computing and Displaying Discounted Prices in CSS",
+          "url": "https://css-tricks.com/computing-and-displaying-discounted-prices-in-css/",
+          "author": "Preethi",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "A clever use of CSS to calculate and display a discounted product price by providing a base price and discount amount, featuring modern CSS features likeattr(),mod(), andround().Computing and Displayi...",
+          "published_at": "2026-05-14T14:05:01"
+        },
         {
           "title": "rotateX()",
           "url": "https://css-tricks.com/almanac/functions/r/rotatex/",
@@ -594,15 +694,6 @@
           "source": "CSS-Tricks",
           "summary": "Therotate()function spins an element either clockwise or counterclockwise in a 2D plane.rotate()originally handwritten and published with love onCSS-Tricks. You should reallyget the newsletteras well.",
           "published_at": "2026-05-13T14:32:47"
-        },
-        {
-          "title": "Soon We Can Finally Banish JavaScript to the ShadowRealm",
-          "url": "https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/",
-          "author": "Mat Marquis",
-          "category": "前端设计",
-          "source": "CSS-Tricks",
-          "summary": "The proposed ShadowRealm API introduces a new kind of realm specifically designed for isolation, andonlythat.Soon We Can Finally Banish JavaScript to the ShadowRealmoriginally handwritten and publishe...",
-          "published_at": "2026-05-12T13:59:35"
         }
       ]
     },
@@ -610,6 +701,42 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "新玩意 241｜少数派的编辑们最近买了啥？",
+          "url": "https://sspai.com/post/109771",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
+          "published_at": "2026-05-14T09:17:27"
+        },
+        {
+          "title": "在 Android 上运行 Linux 终端，体验究竟怎么样？（2026 版）",
+          "url": "https://sspai.com/prime/story/linux-vm-on-android",
+          "author": "化学心情下2",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "因为和ChromeOS中的Linux虚拟机开发环境有着千丝万缕的联系，2025年作为实验性功能登录Google自家Pixel机型的Linux虚拟机，发布后不仅没有就此在开发者选项中闲置，反倒通过不断迭 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "published_at": "2026-05-14T07:45:31"
+        },
+        {
+          "title": "用 Obsidian Web Clipper，让豆瓣种草更容易",
+          "url": "https://sspai.com/post/109318",
+          "author": "Log924",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "对于现阶段知识管理的工作流而言，使用者已经无需和工具「将就」了。与其花时间适应别人的工具思路和设置，不如利用手头的工具（包括 AI）自己「手搓」一套自己的方案。从长期来看，自己用得顺手才会让自己持续用下去，而开发、适应所需要的时间和精力也会明显少于以前「削足适履」的经历。查看全文",
+          "published_at": "2026-05-14T07:15:55"
+        },
+        {
+          "title": "AI 潮来，翻译何为",
+          "url": "https://sspai.com/post/108816",
+          "author": "Binich",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "AI醒来了，那就let it be——「让它是」，是其所应是的，我们就「顺其自然」。查看全文",
+          "published_at": "2026-05-14T03:34:56"
+        },
         {
           "title": "派早报：索尼推出 Xperia 1 VIII 手机及 Alpha 7R VI 相机等",
           "url": "https://sspai.com/post/109734",
@@ -627,42 +754,6 @@
           "source": "少数派",
           "summary": "我试过的笔记软件可能比记过的笔记都多——这样说或许有些夸张，但自2019年RoamResearch进入大众视野，各种支持双链笔记的PKM软件有如过江之鲫。多年来，我也辗转于各类方案、各种组合。我尝试过 ...查看全文",
           "published_at": "2026-05-13T09:30:00"
-        },
-        {
-          "title": "佳明本能 Instinct 3 太阳能版评测：我的智能手表终章",
-          "url": "https://sspai.com/post/108228",
-          "author": "带电的泡芙",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "本能 3 太阳能版这种追求长久耐用、长续航的理念更显可贵，以至于我找不到它的任何替代品，我想，这就是我的智能手表终章了。查看全文",
-          "published_at": "2026-05-13T06:56:59"
-        },
-        {
-          "title": "Google 提前给 Android 办了场发布会，但主角依然不是 Android",
-          "url": "https://sspai.com/post/109699",
-          "author": "克莱德",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "2025年，Google第一次提前将Android部分从I/O大会的Keynote开幕演讲环节中拆了出来。彼时AI领域已是风云诡谲，作为曾经靠GoogleAssistant和AIFirst战略引领时代 ...查看全文",
-          "published_at": "2026-05-13T00:10:38"
-        },
-        {
-          "title": "派早报：Google 发布多项 Android 功能更新、腾讯收购喜马拉雅获批等",
-          "url": "https://sspai.com/post/109698",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Spotify 上线 20 周年盘点页面，eBay 拒绝 GameStop 收购提案等。查看全文",
-          "published_at": "2026-05-12T23:35:00"
-        },
-        {
-          "title": "社区速递 140 | 派友热议状态栏里藏了啥、两款百元级新玩意体验",
-          "url": "https://sspai.com/post/109674",
-          "author": "Matrix机器人",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿「新玩意」呈现给大家。上周社区 ...查看全文",
-          "published_at": "2026-05-12T09:40:02"
         }
       ]
     }
