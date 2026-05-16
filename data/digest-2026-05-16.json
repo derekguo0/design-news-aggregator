@@ -1,22 +1,23 @@
 {
   "date": "2026-05-16T00:00:00",
-  "total_items": 62,
+  "total_items": 70,
   "sources": [
-    "UX Design CC",
-    "Intercom Blog",
     "A List Apart",
-    "Sidebar",
-    "CSS-Tricks",
-    "UX Planet",
-    "人人都是产品经理",
-    "Design Milk",
+    "UX Design CC",
+    "NN/g (Nielsen Norman Group)",
+    "Awwwards",
     "Product Hunt",
-    "Smashing Magazine",
-    "优设网",
+    "UX Planet",
+    "Sidebar",
     "少数派",
-    "NN/g (Nielsen Norman Group)"
+    "优设网",
+    "Intercom Blog",
+    "CSS-Tricks",
+    "Design Milk",
+    "Smashing Magazine",
+    "人人都是产品经理"
   ],
-  "generated_at": "2026-05-16T03:33:08.619912",
+  "generated_at": "2026-05-16T13:40:15.995314",
   "categories": [
     {
       "category": "用户体验设计",
@@ -242,55 +243,55 @@
           "published_at": "2026-05-13T17:59:20"
         },
         {
-          "title": "需求评审过了，排了期，上线了，没人用——一个项目到底在哪个环节出了问题",
-          "url": "https://www.woshipm.com/share/6396753.html",
-          "author": "Talen",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "从埋点缺失到需求评审走过场，产品经理的每一步都可能埋下失败的种子。本文深度剖析AI产品开发中的四大关键陷阱，尤其针对AI产品的特殊性，提出核心逻辑预验证等实操解法，帮助产品人从'功能交付'转向'效果交付'。需求评审顺利通过，开发按时交付，测试没有找到什么大问题，然后就上线了。半个月后复盘，没有什么数据能说明这个功能有没有用，因为压根没有埋点。再过一个月，老板问效果怎么样，所有人沉默。这件事我认识的...",
-          "published_at": "2026-05-16T02:22:58"
-        },
-        {
-          "title": "AI时代，我们该把自己放在哪里？在我亲身使用Claude Design/Code一段时间后的4点思考",
-          "url": "https://www.woshipm.com/share/6396809.html",
-          "author": "知果日记",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "Claude Design 正在重塑人与AI的协作方式。当多数人还在空谈AI理论时，实践者已通过真实场景验证了它的思考伙伴价值——不是简单提效工具，而是认知放大器。本文揭示从提示词迷信到深度思考的转变关键，以及如何用个人专业壁垒构建AI时代的不可替代性。过去一个月，我一直在深度使用Claude Design。从最初的好奇，到反复尝试，再到用它探索各种可能性，以及与大家分享、演示、交流，这个过程让我...",
-          "published_at": "2026-05-16T01:57:10"
-        },
-        {
-          "title": "从一份剧本大纲，到分集成片，完整工作流拆解 + 三类题材提示词模板，开箱即用",
-          "url": "https://www.woshipm.com/ai/6395777.html",
-          "author": "宅宅夏的AI实验室",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "AI短剧制作正在经历革命性变革。5人团队8天产出60集内容、上线4天播放破亿的案例背后，是全新的AI工作流在发挥作用。本文深度拆解从小云雀短剧Agent到完整商业变现的全链路操作，包括三类爆款题材的提示词模板、角色一致性解决方案以及平台投放策略，揭示AI时代短剧生产的核心法则。5 个人，8 天，60 集，抖音上线 4 天播放破亿。这是创翊传媒用小云雀短剧 Agent 制作《万兽独尊》的真实数据。如...",
-          "published_at": "2026-05-16T01:35:43"
-        },
-        {
-          "title": "AI 陪伴产品太多了，这家公司干脆陪人打游戏去了",
-          "url": "https://www.woshipm.com/ai/6396494.html",
+          "title": "Corgi：两个年轻人花两年时间，重做了一家 AI 保险公司",
+          "url": "https://www.woshipm.com/ai/6396511.html",
           "author": "张艾拉",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当大多数AI陪伴产品还在为提升用户粘性苦苦挣扎时，心影随形(LynkSoul)旗下逗逗游戏伙伴和HakkoAI给出了一个巧妙的解法——切入游戏场景。这篇文章将深度剖析这个将AI陪伴与游戏需求完美结合的创新案例，揭示其如何在具体场景中重构AI陪伴的价值链条，以及在商业化道路上面临的核心挑战与破局可能。今天分享的这家公司叫：心影随形，英文是 LynkSoul。这家公司在国内比较低调，我最先关注的反倒是...",
-          "published_at": "2026-05-16T00:40:17"
+          "summary": "当AI遇见传统保险业，Corgi正在掀起一场颠覆性的革命。这家2024年创立的AI保险公司，从创业公司的保险刚需切入，毅然放弃已盈利的经纪模式，用两年时间、上亿美元资金打造全栈承保能力。本文将深度解析Corgi如何用AI重构保险核心流程，以及它对AI创业'由轻到重'转型的战略启示。今天分享的这家公司叫：Corgi（没错，就是柯基），https://www.corgi.insure/Corgi是一家...",
+          "published_at": "2026-05-16T09:41:12"
         },
         {
-          "title": "AI 没说不可能，是你读成了不可能",
-          "url": "https://www.woshipm.com/ai/6396319.html",
-          "author": "Iris",
+          "title": "未来的渠道，都是“特渠”",
+          "url": "https://www.woshipm.com/share/6396964.html",
+          "author": "李倩说品牌",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI工具给出复杂的可行性分析时，我们却习惯于只抓取一句'结论'就做出决策。本文通过一个AI小镇项目的真实案例，揭示了AI时代产品决策的三大误区，并给出五条实用建议，教你如何真正读懂AI的限定条件与隐藏价值。在AI风险评估越来越精准的今天，产品人最稀缺的能力恰恰是敢于挑战'无成功先例'的勇气。前几天一个朋友跟我聊他的产品想法：他想做一个“AI 小镇”，里面所有 NPC 都由 AI 驱动，可以自由生...",
-          "published_at": "2026-05-15T09:09:30"
+          "summary": "当传统渠道遭遇内容革命，'特渠化'正在重构商业底层逻辑。从寺庙手串到精神卫生中心月饼，封闭场景与精准需求正催生新一代消费范式。本文深度拆解渠道属性从'销售管道'到'内容通道'的质变，揭示流量再分配时代如何用场景想象力撬动增长。从开始创业那会儿开始，我一直隐约有个感觉：过去的销售场景/渠道好像要全面颠覆。这个感觉当然不止是针对电商、直播带货什么的，更大的感受其实来自于线下，最近两年我也陆续写过关于特...",
+          "published_at": "2026-05-16T08:52:30"
+        },
+        {
+          "title": "AI写PRD：我是在用工具，还是在被工具用？",
+          "url": "https://www.woshipm.com/share/6396754.html",
+          "author": "超仔AI",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "当AI成为产品经理的得力助手，我们是否正在悄悄交出思考的主权？本文深入剖析AI辅助撰写PRD的双面性，通过真实案例拆解如何在效率提升与判断力退化之间找到平衡点。从核心框架构建到细节填充，揭示AI工具使用中的那些不易察觉的认知陷阱。最近看到一个观点，大概是说：用AI代替写PRD，是不是正在慢性变笨。我第一反应不是点头，也不是反驳，而是有点坐不住——我打开了自己的”画成长”产品文档，想对着它认真问一遍...",
+          "published_at": "2026-05-16T07:44:43"
+        },
+        {
+          "title": "腾讯正在“换船”",
+          "url": "https://www.woshipm.com/it/6396712.html",
+          "author": "深流研究所",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "腾讯在AI领域的加速布局正引发行业关注。混元大模型的快速迭代与WorkBuddy等Agent产品的爆发，标志着这家互联网巨头正在经历一场深刻的组织变革。从底层技术重构到产品开发流程再造，腾讯展现出的solid文化和low-ego态度，正在重新定义大厂面对AI革命的应对策略。本文将深入解析腾讯如何通过组织能力升级来应对这个10倍速变化的AI时代。经常被诟病“AI慢了”的腾讯，在刚发布的2026一季度...",
+          "published_at": "2026-05-16T07:05:58"
+        },
+        {
+          "title": "Agent生态中出现五大黄金创业赛道——《重构与崛起—OpenClaw时代的中国Agent产业生态报告》解读二",
+          "url": "https://www.woshipm.com/share/6395376.html",
+          "author": "易观",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "OpenClaw正在重塑AI产业格局，催生从基础设施到垂直应用的五大全新赛道。Agent行动时代的到来，不仅改变了既有环节，更创造了包括Skill经济、AI原生硬件、一人公司等结构性机会。本文将深入解析这些赛道的底层逻辑与商业机遇，为创业者划出清晰的生态位坐标。OpenClaw催生AI产业链全新生态位。Agent基础设施、Skill经济、AI原生硬件、一人公司（OPC）以及垂直行业Agent化重构...",
+          "published_at": "2026-05-16T06:43:36"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 8,
+      "count": 15,
       "items": [
         {
           "title": "Ten Data-Backed Truths Of User Experience ROI",
@@ -363,48 +364,120 @@
           "source": "A List Apart",
           "summary": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things t...",
           "published_at": null
+        },
+        {
+          "title": "Enerblock",
+          "url": "https://www.awwwards.com/sites/enerblock",
+          "author": "BANILA Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Juan Mora",
+          "url": "https://www.awwwards.com/sites/juan-mora-1",
+          "author": "Juan Mora",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "fromanother.love",
+          "url": "https://www.awwwards.com/sites/fromanother-love",
+          "author": "fromanother",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Floema",
+          "url": "https://www.awwwards.com/sites/floema",
+          "author": "Bürocratik",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Happly",
+          "url": "https://www.awwwards.com/sites/happly",
+          "author": "Better Off Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Outfit",
+          "url": "https://www.awwwards.com/sites/outfit",
+          "author": "++hellohello",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Simonholm.studio",
+          "url": "https://www.awwwards.com/sites/simonholm-studio",
+          "author": "simonholm.studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Gradient Bang",
-          "url": "https://www.producthunt.com/products/gradient-bang",
-          "author": "Kwindla Kramer",
+          "title": "ChatGPT for Personal Finance",
+          "url": "https://www.producthunt.com/products/openai",
+          "author": "Ankit Sharma",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Massively multi-player game played by talking to an LLMDiscussion|Link",
-          "published_at": "2026-05-13T23:38:02"
+          "summary": "Personal finance guidance powered by ChatGPTDiscussion|Link",
+          "published_at": "2026-05-15T19:16:51"
         },
         {
-          "title": "Atter AI",
-          "url": "https://www.producthunt.com/products/atter-ai-ai-transcription-for-meetings",
-          "author": "ha zhang",
+          "title": "Wring",
+          "url": "https://www.producthunt.com/products/wring",
+          "author": "Ashwani Gupta",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI transcription app that turns meetings into action itemsDiscussion|Link",
-          "published_at": "2026-05-14T10:15:38"
+          "summary": "Developer tools, one menu click away.Discussion|Link",
+          "published_at": "2026-05-15T14:24:23"
         },
         {
-          "title": "AgentRail",
-          "url": "https://www.producthunt.com/products/agentrail",
-          "author": "Onyeka Nwamba",
+          "title": "Raybeam",
+          "url": "https://www.producthunt.com/products/raybeam",
+          "author": "Nathan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A local control plane for AI coding agentsDiscussion|Link",
-          "published_at": "2026-05-14T14:51:39"
+          "summary": "A better way to screen share on macOSDiscussion|Link",
+          "published_at": "2026-05-16T04:29:06"
         },
         {
-          "title": "PromptScout",
-          "url": "https://www.producthunt.com/products/promptscout",
-          "author": "Łukasz Starosta",
+          "title": "M5Stack PaperColor",
+          "url": "https://www.producthunt.com/products/m5stack",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Track your brand visibility across AI modelsDiscussion|Link",
-          "published_at": "2026-05-14T13:13:48"
+          "summary": "4-inch color E-ink dev board with ESP32 and audio I/ODiscussion|Link",
+          "published_at": "2026-05-15T14:37:56"
+        },
+        {
+          "title": "Standboy",
+          "url": "https://www.producthunt.com/products/standboy",
+          "author": "Michael",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "A Game Boy that wakes up while your agent worksDiscussion|Link",
+          "published_at": "2026-05-14T13:02:59"
         }
       ]
     },
@@ -575,6 +648,15 @@
       "count": 6,
       "items": [
         {
+          "title": "为什么我觉得好的东西，媒体评测却给了低分？",
+          "url": "https://sspai.com/post/109777",
+          "author": "Leobai",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "为什么我觉得好玩的游戏，你却要给出这么低的分？为什么最后在使用中出了问题的产品，你却要在首发评测中大肆吹捧？查看全文",
+          "published_at": "2026-05-16T07:38:00"
+        },
+        {
           "title": "本周看什么 | 最近值得一看的 8 部作品",
           "url": "https://sspai.com/post/109825",
           "author": "少数派编辑部",
@@ -618,15 +700,6 @@
           "source": "少数派",
           "summary": "如果你发现自己也很喜欢阅读器这个品类的话，那就放下「非得用它们读点什么」的执念，愉快地买起来、玩起来吧！查看全文",
           "published_at": "2026-05-15T03:33:05"
-        },
-        {
-          "title": "派早报：戴尔推出 Alienware 15 入门游戏本，Spotify 将支持 HLS 视频播客技术等",
-          "url": "https://sspai.com/post/109787",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "少数派的近期动态可爱又好玩的经典萌物——监工水獭挂件复刻啦！给獭一个家首款MBTI定制墨水屏「口袋先知」预售进行中，一按知运势。立刻预购麦金獭钢化膜单膜补充装已上线，替换装，更划算。立即抢购你可能错过 ...查看全文",
-          "published_at": "2026-05-15T00:25:21"
         }
       ]
     }
