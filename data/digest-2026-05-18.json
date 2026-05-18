@@ -1,27 +1,46 @@
 {
   "date": "2026-05-18T00:00:00",
-  "total_items": 52,
+  "total_items": 67,
   "sources": [
-    "UX Design CC",
     "CSS-Tricks",
-    "少数派",
-    "Smashing Magazine",
-    "Product Hunt",
-    "NN/g (Nielsen Norman Group)",
-    "Sidebar",
-    "A List Apart",
-    "Design Milk",
-    "Intercom Blog",
-    "人人都是产品经理",
     "优设网",
-    "UX Planet"
+    "UX Design CC",
+    "UX Planet",
+    "A List Apart",
+    "Intercom Blog",
+    "Product Hunt",
+    "少数派",
+    "Sidebar",
+    "Awwwards",
+    "NN/g (Nielsen Norman Group)",
+    "Design Milk",
+    "人人都是产品经理",
+    "Smashing Magazine"
   ],
-  "generated_at": "2026-05-18T04:03:20.062359",
+  "generated_at": "2026-05-18T15:40:06.168295",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 8,
+      "count": 12,
       "items": [
+        {
+          "title": "Be like water, The death of the empty state, AI for UX",
+          "url": "https://uxdesign.cc/be-like-water-the-death-of-the-empty-state-ai-for-ux-88654390e8ee?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“You have likely seen companies quickly introduce AI mandates to keep pace with these trends. In the blink of an eye, we went from having n...",
+          "published_at": "2026-05-18T12:46:45"
+        },
+        {
+          "title": "The big M&M’s color investigation you could’ve totally lived without",
+          "url": "https://uxdesign.cc/the-big-m-ms-color-investigation-you-could-ve-totally-lived-without-f836bd2697ec?source=rss----138adf9c44c---4",
+          "author": "Rita Kind-Envy",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How colors manipulate our brain, and why switch them up? A deep dive into M&M's product tactics and controversies.Continue reading on UX Collective »",
+          "published_at": "2026-05-18T12:43:35"
+        },
         {
           "title": "How mobile apps are reshaping screening for cognitive decline",
           "url": "https://uxdesign.cc/how-mobile-apps-are-reshaping-screening-for-cognitive-decline-a26391fe3ae1?source=rss----138adf9c44c---4",
@@ -75,6 +94,24 @@
           "source": "UX Design CC",
           "summary": "AI products skipped designing undo and shipped branching as the retrofit. The two are not the same thing.Editor’s note: I wrote this article from firsthand experience as a founder and engineer. I used...",
           "published_at": "2026-05-16T19:08:45"
+        },
+        {
+          "title": "7 Claude Code Prompt Keywords to Improve AI Coding Efficiency",
+          "url": "https://uxplanet.org/7-claude-code-prompt-keywords-to-improve-ai-coding-efficiency-e6025ddebda3?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "List of high-leverage keywords & instruction patterns that dramatically improve output quality in Claude Code.Continue reading on UX Planet »",
+          "published_at": "2026-05-18T14:53:28"
+        },
+        {
+          "title": "Claude Haiku: The Most Underrated AI Model on the Market",
+          "url": "https://uxplanet.org/claude-haiku-the-most-underrated-ai-model-on-the-market-a83197203565?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "When & How to Use Anthropic Claude Haiku in Product DesignContinue reading on UX Planet »",
+          "published_at": "2026-05-18T12:08:08"
         },
         {
           "title": "AI-Powered Product Design: Myths & Reality",
@@ -158,7 +195,7 @@
     },
     {
       "category": "产品设计",
-      "count": 10,
+      "count": 11,
       "items": [
         {
           "title": "Empathy is the Future of AI-Responsive Experiences",
@@ -188,6 +225,15 @@
           "published_at": "2026-05-15T13:00:16"
         },
         {
+          "title": "Agents can do the work",
+          "url": "https://www.intercom.com/blog/agents-can-do-the-work/",
+          "author": "Jennifer Murphy",
+          "category": "产品设计",
+          "source": "Intercom Blog",
+          "summary": "Agents today are more capable than ever. When businesses struggle to deploy them, it's a reflection of organizational readiness.",
+          "published_at": "2026-05-18T12:34:51"
+        },
+        {
           "title": "Operator: A look under the hood",
           "url": "https://www.intercom.com/blog/operator-a-look-under-the-hood/",
           "author": "Jack Ryan",
@@ -206,55 +252,55 @@
           "published_at": "2026-05-15T01:29:02"
         },
         {
-          "title": "创业最难受的阶段：每天都在干活，但外人看起来什么都没发生",
-          "url": "https://www.woshipm.com/share/6397720.html",
-          "author": "曙欧巴",
+          "title": "今年618，为什么大家都在变安静",
+          "url": "https://www.woshipm.com/it/6397920.html",
+          "author": "妍霏聊品牌",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "跨境电商的运营逻辑正在发生深刻变革。本文通过亚马逊MVP02项目的实战复盘，揭示从关键词筛选到A+内容审核的运营细节转变，展现如何通过长尾词策略和系统化布局构建可持续的现金流体系。这两天一直在推进我的第二个亚马逊MVP项目。很多人可能以为，最近MVP01数据波动比较大，有些亏损，我是不是就有点摆烂了。其实恰恰相反。做电商，真正重要的工作，很多都发生在“还没开卖”的时候。目前第二个品的整个前端销售系...",
-          "published_at": "2026-05-18T03:31:51"
+          "summary": "618大促正在经历一场静默的革命——从轰轰烈烈的价格战演变为润物细无声的常态化运营。当消费者不再迷信'618最便宜'，品牌的营销策略也随之转向全年均衡布局。本文深度解析这场变革背后的消费习惯迁移、品牌运营逻辑重构，以及大促节点如何从'销量冲刺'转变为'品牌检验'的关键转折点。今年618最明显的变化，不是更便宜了，而是变得更平常了。如果放在几年前，618是品牌一年一度的”孤注一掷”时刻。所有的预算、...",
+          "published_at": "2026-05-18T10:45:47"
         },
         {
-          "title": "红杉资本 AI Ascent Keynote—— 2026：This is AGI",
-          "url": "https://www.woshipm.com/ai/6396570.html",
-          "author": "张艾拉",
+          "title": "AI Agent 不是聊天框：一次企业财务数据质检 AI Agent 实战复盘",
+          "url": "https://www.woshipm.com/ai/6397917.html",
+          "author": "Alex的荒诞产品观",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "红杉资本在AI Ascent活动上抛出了一个震撼预言：2026年我们将迎来AGI时代。这场演讲深刻剖析了AI作为计算革命的核心本质，揭示了Agent技术如何从实验室走向商业落地，并提出了创业者构建护城河的MAD框架。当AI开始真正『把事情做完』时，10万亿美元的市场机会正在被撬动。上周，红杉在AI Ascent上做了一场很重要的演讲，2026: This is AGI.AI Ascent 是红杉每...",
-          "published_at": "2026-05-18T03:12:13"
+          "summary": "企业AI落地的真正挑战并非技术模型，而是复杂的业务场景与数据孤岛。本文通过一个制造业财务数据质检案例，揭示了如何将人工排查经验转化为可执行的业务Skill，构建具备证据链的AI Agent系统——不是替代决策者，而是为每个财务差异案件建立可审计的标准化侦查流程。一、企业 AI 最难的不是模型，而是真实业务现场过去一年，很多企业都在谈 AI Agent。但真正进了企业现场，你会发现，落地最难的往往不...",
+          "published_at": "2026-05-18T09:43:42"
         },
         {
-          "title": "有些东西，企业知识图谱永远装不下",
-          "url": "https://www.woshipm.com/ai/6396931.html",
-          "author": "是AD",
+          "title": "用户思维效能最大化有哪些路径？",
+          "url": "https://www.woshipm.com/share/6397848.html",
+          "author": "铭航创想",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "企业AI项目落地的困境往往与技术无关，而是隐藏在那些无法被结构化的知识背后。从「为什么」到「潜规则」，从「情绪」到「变化」，再到「组织」的惰性，这些难以捕捉的维度才是真正的挑战。本文通过一线AI产品经理的深度观察，揭示了AI客服与知识图谱无法触及的五大盲区，并提出了人与AI边界划分的新思路。——一个一线AI产品经理的5个观察半年前，我从一个 Agent 项目转去做企业知识图谱。那个 Agent 项...",
-          "published_at": "2026-05-18T03:11:32"
+          "summary": "用户思维不是一句口号，而是决定商业成败的关键武器。本文摒弃空泛理论，直击实操痛点，用四步方法论教你如何精准锁定核心用户、深挖真实需求、高效落地执行并持续优化迭代。从副业创业者到实体店主，这套可复用的策略将帮你避开“广撒网”陷阱，把有限精力转化为最大商业价值。现在不管做副业、开门店还是做项目，人人都在喊“要懂用户思维”，可大多人忙活半天却没效果：觉得自己贴心，用户不买账；喊着“用户至上”，销量上不去...",
+          "published_at": "2026-05-18T09:29:35"
         },
         {
-          "title": "干翻“孤岛”产品论——为什么我坚持 AI 必须是隐形的“Skill”？",
-          "url": "https://www.woshipm.com/ai/6396988.html",
-          "author": "JK硅行者",
+          "title": "贴贴有什么套路？柠檬市场视角下的语音社交信任机制解析",
+          "url": "https://www.woshipm.com/pd/6397834.html",
+          "author": "什么魑魅魍魉",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "企业AI助手沦为摆设？背后的真相竟是产品经理的孤岛思维在作祟。本文通过两个实战案例，揭秘如何将AI隐形嵌入现有工作流，实现0秒归档与80%报销效率提升，告诉你真正的B端AI落地应该是长在业务骨架里的肌肉，而非需要用户顶礼膜拜的超级工具。最近在跑内部业务的 AI 自动化 MVP，在跟同行交流时，我发现了一个极其毁三观、但又无比普遍的现象：很多公司花了大力气、砸了几百万搞出来的企业内部 AI 助手，一...",
-          "published_at": "2026-05-18T03:11:12"
+          "summary": "语音社交平台如何破解‘柠檬市场’困境？本文基于经济学中的柠檬市场理论，深度剖析贴贴平台如何通过资本合规、技术投入与监管协同三重可信信号机制，构建行业信任体系。从信息不对称的行业根源到平台应对策略，揭示社交产品如何在‘高增长-高投诉’的悖论中突围而出。“贴贴有什么套路？” 这一追问的本质，是信息不对称背景下用户对平台可信度的核心关切。在经济学中，乔治・阿克洛夫提出的柠檬市场理论（Lemon Mark...",
+          "published_at": "2026-05-18T09:27:07"
         },
         {
-          "title": "我有个朋友想做 agent，但评论说：“agent 死路一条”",
-          "url": "https://www.woshipm.com/ai/6397189.html",
-          "author": "Iris",
+          "title": "放羊大叔一行代码把AI逼疯，OpenAI、Anthropic、Nous Research 抄作业！他到底干了啥？",
+          "url": "https://www.woshipm.com/ai/6397914.html",
+          "author": "Blues",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Agent领域正在经历一场残酷的商业逻辑验证。从OpenClaw到Hermes，用户留存与付费率的割裂揭示了行业真相：独立订阅模式可能已走到尽头。本文将深度剖析Agent赛道存活下来的四条路径，以及CS毕业生该如何重新定义这个时代的'硬技能'。我有个朋友马上本科毕业，她想做 agent。CS 专业，双非。她跟我说她想学“硬东西”，怕被替代。我没立刻劝她什么。这种话从一个比她大几岁的人嘴里说出来，太...",
-          "published_at": "2026-05-18T03:07:28"
+          "summary": "澳洲程序员Geoffrey Huntley用3行Bash代码重构了AI工作流，让OpenAI、Anthropic等巨头争相效仿。这套'无限循环+Git存档+小模型验收'机制，彻底改变了人机协作模式——从此AI可以像计件工人般自主完成任务。本文深度解析这个颠覆性创意如何重新定义AI时代的'护城河'与生产力边界。在澳洲乡下放羊的大叔，随手写了3行Bash代码，短短11天内，OpenAI、Anthrop...",
+          "published_at": "2026-05-18T08:48:40"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 7,
+      "count": 15,
       "items": [
         {
           "title": "Ten Data-Backed Truths Of User Experience ROI",
@@ -318,39 +364,120 @@
           "source": "A List Apart",
           "summary": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things t...",
           "published_at": null
+        },
+        {
+          "title": "Capitolium",
+          "url": "https://www.awwwards.com/sites/capitolium",
+          "author": "Supercolor",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "KVS Studio",
+          "url": "https://www.awwwards.com/sites/kvs-studio",
+          "author": "KVS Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Enerblock",
+          "url": "https://www.awwwards.com/sites/enerblock",
+          "author": "BANILA Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Juan Mora",
+          "url": "https://www.awwwards.com/sites/juan-mora-1",
+          "author": "Juan Mora",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "fromanother.love",
+          "url": "https://www.awwwards.com/sites/fromanother-love",
+          "author": "fromanother",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Floema",
+          "url": "https://www.awwwards.com/sites/floema",
+          "author": "Bürocratik",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Happly",
+          "url": "https://www.awwwards.com/sites/happly",
+          "author": "Better Off Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Outfit",
+          "url": "https://www.awwwards.com/sites/outfit",
+          "author": "++hellohello",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 4,
       "items": [
         {
-          "title": "Kirki",
-          "url": "https://www.producthunt.com/products/kirki",
-          "author": "Kawshar Ahmed",
+          "title": "ReactVision Studio",
+          "url": "https://www.producthunt.com/products/reactvision-studio",
+          "author": "Paul Mit",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "WordPress finally has a freeform canvas website builder.Discussion|Link",
-          "published_at": "2026-05-16T11:15:00"
+          "summary": "Build AR/VR Apps in React Native + ship directly to devicesDiscussion|Link",
+          "published_at": "2026-05-17T12:40:43"
         },
         {
-          "title": "ChatGPT for Personal Finance",
-          "url": "https://www.producthunt.com/products/openai",
-          "author": "Ankit Sharma",
+          "title": "LobeHub",
+          "url": "https://www.producthunt.com/products/lobehub",
+          "author": "Justin Jincaid",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Personal finance guidance powered by ChatGPTDiscussion|Link",
-          "published_at": "2026-05-15T19:16:51"
+          "summary": "Your Chief Agent Operator for multi-agent workDiscussion|Link",
+          "published_at": "2026-05-15T09:48:13"
         },
         {
-          "title": "Wring",
-          "url": "https://www.producthunt.com/products/wring",
-          "author": "Ashwani Gupta",
+          "title": "QuickRight",
+          "url": "https://www.producthunt.com/products/capture-6",
+          "author": "Huating Liu",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Developer tools, one menu click away.Discussion|Link",
-          "published_at": "2026-05-15T14:24:23"
+          "summary": "The missing right-click features for macOS FinderDiscussion|Link",
+          "published_at": "2026-05-15T06:31:18"
+        },
+        {
+          "title": "pixserp",
+          "url": "https://www.producthunt.com/products/pixserp",
+          "author": "Kevin William David",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Your LLM on the live web. One endpoint, ten answer shapes.Discussion|Link",
+          "published_at": "2026-05-16T12:11:38"
         }
       ]
     },
@@ -404,8 +531,8 @@
           "published_at": null
         },
         {
-          "title": "丢个文档就能打包技能，Kimi 让复刻文档风格变简单",
-          "url": "https://www.uisdc.com/hunter/0221670243.html",
+          "title": "支付宝定期扣款页面为什么有2套？原来是历史包袱",
+          "url": "https://www.uisdc.com/hunter/0221670380.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -467,8 +594,17 @@
     },
     {
       "category": "前端设计",
-      "count": 1,
+      "count": 2,
       "items": [
+        {
+          "title": "Cross-Document View Transitions: The Gotchas Nobody Mentions",
+          "url": "https://css-tricks.com/cross-document-view-transitions-part-1/",
+          "author": "Durgesh Rajubhai Pawar",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "This is Part 1 of a two-part series about cross-document view transitions, going over all the gotchas, from ditching the deprecated way to opt into them to a little-known 4-second timeout.Cross-Docume...",
+          "published_at": "2026-05-18T13:47:19"
+        },
         {
           "title": "What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More",
           "url": "https://css-tricks.com/whats-important-11/",
@@ -484,6 +620,24 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "派评 | 近期值得关注的 App",
+          "url": "https://sspai.com/post/109886",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "published_at": "2026-05-18T10:05:00"
+        },
+        {
+          "title": "打破虚拟与现实的边界，这 6 款网页解谜游戏值得一试",
+          "url": "https://sspai.com/post/109743",
+          "author": "Tp",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "只需要一个浏览器就能玩，很适合上班时间摸鱼🌝查看全文",
+          "published_at": "2026-05-18T07:00:00"
+        },
         {
           "title": "四天三夜，用小长假的时间体验青海湖小环线",
           "url": "https://sspai.com/post/103407",
@@ -519,24 +673,6 @@
           "source": "少数派",
           "summary": "为什么我觉得好玩的游戏，你却要给出这么低的分？为什么最后在使用中出了问题的产品，你却要在首发评测中大肆吹捧？查看全文",
           "published_at": "2026-05-16T07:38:00"
-        },
-        {
-          "title": "本周看什么 | 最近值得一看的 8 部作品",
-          "url": "https://sspai.com/post/109825",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "📅本周新预告《攻壳机动队THEGHOSTINTHESHELL》新预告5月11日，TV动画《攻壳机动队THEGHOSTINTHESHELL》发布了新预告，定档7月7日开始播出。木村翔马执导，圆城塔编剧， ...查看全文",
-          "published_at": "2026-05-15T10:00:00"
-        },
-        {
-          "title": "装了啥：编辑部用什么转写音视频内容？",
-          "url": "https://sspai.com/prime/story/zhuanglesha-260515",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "按：从播客访谈到深度长视频，越来越多的内容创作者把表达重心放到了音视频里；「先转录、再阅读」也因此成了不少重度信息消费者的日常工作流。本期「装了啥」，我们请编辑部几位同事分享各自正在使用的转录方案，希 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "published_at": "2026-05-15T09:56:34"
         }
       ]
     }
