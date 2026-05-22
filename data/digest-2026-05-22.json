@@ -1,26 +1,26 @@
 {
   "date": "2026-05-22T00:00:00",
-  "total_items": 60,
+  "total_items": 61,
   "sources": [
-    "Sidebar",
     "Design Milk",
-    "NN/g (Nielsen Norman Group)",
-    "优设网",
-    "Intercom Blog",
-    "UX Planet",
-    "少数派",
-    "UX Design CC",
     "A List Apart",
+    "少数派",
     "CSS-Tricks",
+    "优设网",
+    "UX Planet",
+    "UX Design CC",
+    "Sidebar",
     "Product Hunt",
+    "人人都是产品经理",
     "Smashing Magazine",
-    "人人都是产品经理"
+    "NN/g (Nielsen Norman Group)",
+    "Intercom Blog"
   ],
-  "generated_at": "2026-05-22T04:01:09.321346",
+  "generated_at": "2026-05-22T14:47:03.914736",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 11,
+      "count": 12,
       "items": [
         {
           "title": "Designing the Human+AI system",
@@ -84,6 +84,15 @@
           "source": "UX Design CC",
           "summary": "You can get there, but it’s about making the effort.The next decade of user experience work is not about prompting better, it’s about owning the systems, the white space, and trade-offs nobody has map...",
           "published_at": "2026-05-19T07:32:58"
+        },
+        {
+          "title": "Dos and Don’ts for Markdown Files",
+          "url": "https://uxplanet.org/dos-and-donts-for-markdown-files-a6f870c22132?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Markdown is quickly becoming the most important file format for AI systems. Both CLAUDE.md (the first file that Claude Code reads when it…Continue reading on UX Planet »",
+          "published_at": "2026-05-22T12:56:17"
         },
         {
           "title": "Google Search is Dead. Long Live Google Search.",
@@ -185,7 +194,7 @@
     },
     {
       "category": "产品设计",
-      "count": 13,
+      "count": 14,
       "items": [
         {
           "title": "Menu Extra Crafts a Dinner Party Around Brutalist Architecture",
@@ -242,6 +251,15 @@
           "published_at": "2026-05-19T18:00:45"
         },
         {
+          "title": "What really matters when evaluating AI Agents for customer service?",
+          "url": "https://www.intercom.com/blog/what-matters-when-evaluating-ai-agents-for-customer-service/",
+          "author": "Declan Ivory",
+          "category": "产品设计",
+          "source": "Intercom Blog",
+          "summary": "Performance is only one factor in determining if an AI Agent is the right fit. Here's what else to consider.",
+          "published_at": "2026-05-22T14:02:39"
+        },
+        {
           "title": "How we develop pricing and packaging at Fin",
           "url": "https://www.intercom.com/blog/how-we-develop-pricing-and-packaging-at-fin/",
           "author": "Sophie Woods",
@@ -260,56 +278,65 @@
           "published_at": "2026-05-19T15:31:43"
         },
         {
-          "title": "Claude 三件套：从想清楚，到看得见，到做出来。它要把”想法变产品”全包了",
-          "url": "https://www.woshipm.com/it/6400365.html",
-          "author": "知果日记",
+          "title": "如何创建一家AI Native公司？Anthropic刚发的这份手册，把答案说清楚了",
+          "url": "https://www.woshipm.com/ai/6400687.html",
+          "author": "AI星球",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Anthropic 用 Claude、Claude Design、Claude Code 构建了一条从想法到产品的 AI 流水线。这套组合拳让产品经理在一天内完成从需求梳理、原型设计到代码落地的全流程，将传统耗时一个月的验证周期压缩到 8 小时。本文深度解析这条颠覆性的生产链路如何重构产品开发逻辑。周一早上，你脑子里冒出一个想法，做一个帮人冥想的 App。放在几年前，把这个想法推到”可以拿出去聊”...",
-          "published_at": "2026-05-22T04:00:19"
+          "summary": "Anthropic在2026年5月发布的《创始人手册》，系统阐述了如何从零构建一家AI Native公司。本文结合手册核心框架和31家精益AI小团队的真实案例，拆解AI Native公司的本质，不是贴AI膏药，而是从第一天起以AI为基础设重新设计生产关系、工作流和组织形态。核心观点：AI时代最稀缺的不再是执行力，而是判断力；小团队正在成为巨头的标准配置。前段时间，Anthropic在他们官网上悄悄...",
+          "published_at": "2026-05-22T10:12:21"
         },
         {
-          "title": "为什么餐厅都在劝你去买团购券？",
-          "url": "https://www.woshipm.com/marketing/6400346.html",
-          "author": "有界UnKnown",
+          "title": "跨境账务系统：在不确定中形成可解释结果05",
+          "url": "https://www.woshipm.com/share/6398156.html",
+          "author": "敏尔说",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当商家主动引导顾客使用团购券时，背后隐藏着怎样的商业逻辑？本文深度剖析餐饮行业与平台的合谋现象，揭示团购如何将非标消费转化为标准化流程，同时解析抖音、美团等平台如何争夺本地生活入口的控制权。这场双向奔赴正在重塑城市消费决策链。不知道有没有人，有跟我一样的疑问。就是每次在餐厅结账时，商家都会好心的提醒你：现在通过某某平台团券，还可以给你打个八折。你将信将疑，抱着试一试的心态，在商家的指引下完成操作，...",
-          "published_at": "2026-05-22T03:32:11"
+          "summary": "跨境财税系统的关键在于解释而非计算，但当企业扩张时，依赖人肉经验的风险就会暴露。本文从系统实现视角出发，深入剖析跨境账务系统中的三大核心挑战：收入确认时点的选择、平台服务费的复杂处理，以及多法域会计准则的兼容问题，揭示如何构建真正经得起审计考验的财税系统。本系列共七篇文章，意在探索跨境数字化财税产品存在的意义。跨境财税系统的核心价值，不在于算得多准，而在于解释得通。但问题是——解释，是靠人解释，还...",
+          "published_at": "2026-05-22T09:20:11"
         },
         {
-          "title": "最近几个月的AI大模型独立应用实践-1",
-          "url": "https://www.woshipm.com/share/6400340.html",
-          "author": "markzou",
+          "title": "Electron-OH 37.2.1 正式发布：鸿蒙PC开发体验全面升级，跨端开发再提速",
+          "url": "https://www.woshipm.com/share/6400556.html",
+          "author": "nutpi",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从AI旅行规划到食品合规工具，两个大模型独立应用的失败案例揭示了创业者的致命盲区。本文深度剖析资源评估、行业认知与AI边界三大关键失误，为试图用大模型颠覆传统行业的产品人敲响警钟。最近几个月在做大模型独立应用的项目，踩了很多坑，同大家聊聊。先说结论1、做对的事情比把事情作对更重要2、各岗位之间的职责已经比较模糊3、大模型解决不了一切，做对的事情比把事情作对更重要这几个月，做了两个项目，但效果不太好...",
-          "published_at": "2026-05-22T03:25:47"
+          "summary": "Electron‑OH v37.2.1 的发布标志着鸿蒙生态与 Web 技术的深度融合迈入新阶段。全新 NodeHandle 架构重构底层交互，在窗口管理、音视频处理、传感器适配等核心场景实现原生级体验，更通过崩溃防护与性能优化解决长期商用痛点。这套框架正重新定义跨平台开发的效率边界。面向开源鸿蒙生态的跨平台桌面应用框架 Electron‑OH v37.2.1 现已正式发布。本次版本基于 138 ...",
+          "published_at": "2026-05-22T08:20:51"
         },
         {
-          "title": "别让模型拖后腿：我用6年产品经验总结的AI选型法则",
-          "url": "https://www.woshipm.com/ai/6399844.html",
-          "author": "灵艺",
+          "title": "Notion CEO重新定义了一件事：什么样的人在AI时代真正值钱",
+          "url": "https://www.woshipm.com/ai/6400554.html",
+          "author": "深思圈",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "面对AI工具的选择困境，产品经理们往往陷入‘最强模型’的误区。本文通过实测对比Kimi与Claude在长文写作、竞品分析等场景的表现，揭示了模型选择的关键在于任务匹配而非技术榜单。从中文语境的微妙差异到逻辑链条的稳定性，深度解析如何根据业务场景挑选最适合的AI助手，让技术真正为产品赋能。1. 为什么你总感觉AI“不够聪明”？做产品6年，我见过太多团队把AI当“万能插件”——随便接个API，丢进去就...",
-          "published_at": "2026-05-22T02:48:44"
+          "summary": "Notion创始人Ivan Zhao在红杉资本访谈中首次披露'爵士模式'组织哲学：当GPT-4带来'宗教体验'时，他为何不惜推倒500人公司重构AI战略？本文深度拆解两次重建背后的产品信仰与人才公式，揭示AI时代组织进化的关键材料。你有没有想过，一家公司可以被创始人亲手推倒重建不止一次？第一次是只剩五个人、快要断粮，跑去京都的小公寓里从零写代码。第二次是公司已经五百人，却在坎昆拿到GPT-4早期访...",
+          "published_at": "2026-05-22T08:12:29"
         },
         {
-          "title": "我做了一个对比实验：为什么同一个模型，两个 AI 工具产出差距如此巨大",
-          "url": "https://www.woshipm.com/ai/6400282.html",
-          "author": "于小鱼",
+          "title": "AI搜索的广告比你想象中更危险：它连你的怀疑都省了",
+          "url": "https://www.woshipm.com/ai/6400530.html",
+          "author": "Crisson",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当同一个AI模型在Claude Design和Claude Code中产生截然不同的输出质量时，我们发现了AI产品的隐藏真相。这篇文章通过一场简单实验，揭示了决定AI工具品质的关键不在模型本身，而在于背后的工程包装体系。作者不仅拆解了Claude Design的系统级指令秘密，更提供了一份可立即复用的DESIGN.md模板，帮助产品经理将粗糙的AI输出提升至专业水准。这篇文章记录我作为一个 B 端...",
-          "published_at": "2026-05-22T02:46:15"
+          "summary": "AI 搜索正在重塑广告行业的游戏规则。当 Google 的 AI Overviews 和 AI Mode 将商业推荐伪装成个性化建议，用户甚至意识不到自己正在被说服。这种隐蔽的广告形式不仅颠覆了传统 CPC 模式，更带来了前所未有的转化率——代价是用户的信任防线正在被悄然瓦解。本文深度剖析 AI 广告的隐蔽性、商业化路径与伦理边界，揭示这场没有硝烟的注意力争夺战中，产品经理必须提前想清楚的关键选择...",
+          "published_at": "2026-05-22T07:59:30"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 7,
+      "count": 8,
       "items": [
+        {
+          "title": "Four Levels Of Customer Understanding",
+          "url": "https://smashingmagazine.com/2026/05/four-levels-customer-understanding/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "What people say, feel, think, and do are often very different things. To understand the underlying reasons for user behavior, it helps to look beyond the surface and explore hidden motivations, root c...",
+          "published_at": "2026-05-22T13:00:00"
+        },
         {
           "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
           "url": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
@@ -377,52 +404,25 @@
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 2,
       "items": [
         {
-          "title": "InstaVM",
-          "url": "https://www.producthunt.com/products/instavm",
-          "author": "manish kumar",
+          "title": "Smart Miles",
+          "url": "https://www.producthunt.com/products/smart-miles",
+          "author": "Alex Phelps",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Instant computers for AI agentsDiscussion|Link",
-          "published_at": "2026-05-20T07:05:28"
+          "summary": "Automatic trip tracking for tax-ready exportsDiscussion|Link",
+          "published_at": "2026-05-21T13:17:20"
         },
         {
-          "title": "Tycoon AI",
-          "url": "https://www.producthunt.com/products/tycoon-us",
-          "author": "Rajiv Ayyangar",
+          "title": "Shuffle Design CLI",
+          "url": "https://www.producthunt.com/products/shuffle-design-cli",
+          "author": "Dawid Andrzejewski",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Run one-person companies entirely with AI agentsDiscussion|Link",
-          "published_at": "2026-05-21T02:08:22"
-        },
-        {
-          "title": "WarmIntro",
-          "url": "https://www.producthunt.com/products/warmintro",
-          "author": "Rohan Chaubey",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Free tool to find your warmest path into any companyDiscussion|Link",
-          "published_at": "2026-05-20T07:02:17"
-        },
-        {
-          "title": "Framed",
-          "url": "https://www.producthunt.com/products/framed-mockup-studio",
-          "author": "Brandon",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Turn screenshots, videos, and code into polished visualsDiscussion|Link",
-          "published_at": "2026-05-21T04:00:21"
-        },
-        {
-          "title": "Vivaldi 8.0",
-          "url": "https://www.producthunt.com/products/vivaldi",
-          "author": "Uladzislau Rasliak",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "New unified look for full customizationDiscussion|Link",
-          "published_at": "2026-05-20T14:41:40"
+          "summary": "Multi-AI CLI for building and redesigning websitesDiscussion|Link",
+          "published_at": "2026-05-21T19:18:28"
         }
       ]
     },
@@ -539,8 +539,17 @@
     },
     {
       "category": "前端设计",
-      "count": 1,
+      "count": 2,
       "items": [
+        {
+          "title": "The State of CSS Centering in 2026",
+          "url": "https://css-tricks.com/the-state-of-css-centering-in-2026/",
+          "author": "Temani Afif",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "Despite the countless number of online resources, it’s easy to get confused when trying to center an element. There are documented solutions, but do you really understand why the code you picked works...",
+          "published_at": "2026-05-22T13:44:40"
+        },
         {
           "title": "Stack Overflow: When We Stop Asking",
           "url": "https://css-tricks.com/stack-overflow-when-we-stop-asking/",
@@ -556,6 +565,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "本周看什么 | 最近值得一看的 7 部作品",
+          "url": "https://sspai.com/post/110046",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "📅本周新预告《死神千年血战篇-祸进谭-》正式预告5月19日，TV动画《死神千年血战篇-祸进谭-》发布了正式预告，第1-3集将于6月21日在日本影院先行上映，7月开始播出。田口智久担任总导演，村田光执导 ...查看全文",
+          "published_at": "2026-05-22T10:12:14"
+        },
+        {
+          "title": "浏览器扩展合集：我们为你找到了这 6 款实用、有趣的「新玩意」",
+          "url": "https://sspai.com/post/110044",
+          "author": "克莱德",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "在浏览器扩展这边，近期又有哪些好用、有趣的「新玩意」呢？查看全文",
+          "published_at": "2026-05-22T07:37:11"
+        },
+        {
+          "title": "Maptoposter Online：把你爱的城市画成艺术海报",
+          "url": "https://sspai.com/post/109287",
+          "author": "heyheyiann",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "如果你喜欢城市地图、旅行纪念、桌面壁纸、打印海报，或者只是想看看一座城市的路网长什么样，可以试试这个工具。查看全文",
+          "published_at": "2026-05-22T03:03:50"
+        },
         {
           "title": "派早报：小米召开新品发布会、Photoshop 移除工具支持端侧 AI 模型等",
           "url": "https://sspai.com/post/110020",
@@ -582,33 +618,6 @@
           "source": "少数派",
           "summary": "说到辅助功能，或许很多人对它的回忆还停留在「小白点」。但随着 iPhone 彻底进入全面屏时代，辅助功能也慢慢变得陌生起来。实际上，Apple 每年都会给它添加不少功能，来方便更多身体有障人士来使用 iPhone。不过，尽管它是为了各种有障人群而开发，其中不少功能却能惠及所有 iPhone 用户。而随着 iOS 26 的更新，辅助功能又迎来了不少升级。下面这些实用的小功能，或许还真能帮到你不少。防...",
           "published_at": "2026-05-21T07:39:30"
-        },
-        {
-          "title": "少数派 × 飞傲 多功能便携 CD 音箱一体机 BEATBOX 预售开启",
-          "url": "https://sspai.com/post/109957",
-          "author": "听歌的水獭",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "前段时间，少数派联合飞傲一起做了点有意思的事情：开启「BEATBOXCD机盖板设计大赛」。我们不想它只是一个标准化的CD机，而是希望它带着用户自己的审美和表达，一起参与这台BEATBOXCD机的共创。 ...查看全文",
-          "published_at": "2026-05-21T03:30:00"
-        },
-        {
-          "title": "派早报：iQOO 15T 正式发布、小鹏 GX 上市等",
-          "url": "https://sspai.com/post/109976",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Apple 公布 App Store 2025 反欺诈报告、微软发布 Azure Linux 4.0、战马工作室同时公开两款新作等。查看全文",
-          "published_at": "2026-05-21T00:36:46"
-        },
-        {
-          "title": "当 AI 成为角色：漫谈我的 SillyTavern 使用经验",
-          "url": "https://sspai.com/post/109869",
-          "author": "甜食",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "ST 以及它背后的这套工作流起初只是我的无心的收获，但网上关于这方面的讨论并不多，实在可惜，故有此文。查看全文",
-          "published_at": "2026-05-20T09:04:05"
         }
       ]
     }
