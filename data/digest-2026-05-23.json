@@ -1,22 +1,23 @@
 {
   "date": "2026-05-23T00:00:00",
-  "total_items": 56,
+  "total_items": 66,
   "sources": [
-    "Intercom Blog",
-    "UX Planet",
-    "Product Hunt",
-    "UX Design CC",
-    "Design Milk",
-    "A List Apart",
-    "NN/g (Nielsen Norman Group)",
     "少数派",
-    "CSS-Tricks",
-    "Smashing Magazine",
+    "Product Hunt",
     "Sidebar",
+    "Smashing Magazine",
+    "UX Planet",
+    "UX Design CC",
+    "优设网",
+    "Design Milk",
     "人人都是产品经理",
-    "优设网"
+    "CSS-Tricks",
+    "Intercom Blog",
+    "Awwwards",
+    "A List Apart",
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2026-05-23T03:38:35.412434",
+  "generated_at": "2026-05-23T13:43:41.275070",
   "categories": [
     {
       "category": "用户体验设计",
@@ -215,6 +216,42 @@
           "published_at": "2026-05-20T10:29:33"
         },
         {
+          "title": "AI互联网日报：Spotify把AI翻唱推向版权灰区/Google AI眼镜接近可用/京东或20亿英镑竞购英国电商",
+          "url": "https://www.woshipm.com/ai/6400984.html",
+          "author": "AI星球",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "一起来看看这两天发生在AI和互联网赛道的大事件吧！最明显的感觉是，AI产品已经不只是拼模型了，而是在拼“入口靠不靠谱”。Google AI搜索被一个词绕晕，OpenAI和Codex继续挤进企业开发，Spotify把AI翻唱推向版权灰区；互联网这边，Waymo暂停高速服务，Meta重做社区，Apple还在守App Store规则。今天像一次压力测试：AI越靠近入口，问题就越真实。AI赛道观察1. G...",
+          "published_at": "2026-05-23T07:48:52"
+        },
+        {
+          "title": "一文看懂VLA：自动驾驶的下一个范式",
+          "url": "https://www.woshipm.com/pd/6400774.html",
+          "author": "小王的智驾科普",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "VLA（视觉语言动作模型）正在颠覆自动驾驶的底层逻辑。这项源自机器人领域的技术，通过整合视觉感知、语言推理与动作控制，让车辆首次具备'理解世界'的能力。从谷歌DeepMind的RT-2到小鹏VLA 2.0的量产落地，本文将深度解析这一技术如何跨越行动鸿沟，以及它面临的泛化挑战与安全考验。上一篇文章也提到，VLM的输出仅停留在语言层面，无法直接驱动车辆执行动作，存在行动鸿沟。为了弥补这个断层，VLA...",
+          "published_at": "2026-05-23T06:35:29"
+        },
+        {
+          "title": "终于，微信公众号也不让你留个人微信号了",
+          "url": "https://www.woshipm.com/share/6400909.html",
+          "author": "郭静",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "当作者在文章底部留下个人联系方式时，系统会通过『账号检测』功能标记为『不良信息』并停止推荐。本文通过亲身踩坑经历，揭示内容创作者与平台规则间的微妙博弈。微信的“公众号助手”App在3.12.0版本中进行了大幅度优化，其中，“我”的界面变得清晰简洁，用户可以在该界面中一目了然地看到自己账号的情况，包括流量主收入、付费体现、互选订单等。其中，有一个功能叫“账号检测”，一开始我也不知道这个功能是干嘛的，...",
+          "published_at": "2026-05-23T06:25:20"
+        },
+        {
+          "title": "中国Agent产业发展趋势——《重构与崛起——OpenClaw时代的中国Agent产业生态报告》解读五",
+          "url": "https://www.woshipm.com/ai/6400148.html",
+          "author": "易观",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "OpenClaw的爆发标志着AI产业从“对话与生成”的“辅助时代”正式迈入“自主执行”的“行动时代”。这一范式革命不仅催生了全新的技术演进路径——从单智能体执行向多智能体协作、从短期记忆向持续学习深化，更推动着产品形态、产业生态和价值链的系统性重构。2025年底至2026年初，一个名为OpenClaw的开源AI Agent框架在GitHub上创造了星标数月飙升至超31.5万的“现象级”增长，登顶全...",
+          "published_at": "2026-05-23T03:45:07"
+        },
+        {
           "title": "AI还原页面设计怎么做？我实测后总结了这套「块状精修法」！",
           "url": "https://www.woshipm.com/ai/6400770.html",
           "author": "B端设计情报局",
@@ -222,48 +259,12 @@
           "source": "人人都是产品经理",
           "summary": "AI辅助还原设计稿并非一键生成完事的魔法，而是需要层层迭代的精细活。本文通过实战还原后台Dashboard的完整过程，揭秘如何让Cursor与MasterGo MCP协同作战——从骨架搭建到细节调整，从资源管理到Git版本控制，带你掌握分块精修的核心方法论，看清AI在落地环节的真实能力边界与提效空间。一、全文速览图前面那篇，我先把环境跑通了：Cursor +Node.js + MasterGo M...",
           "published_at": "2026-05-23T03:01:51"
-        },
-        {
-          "title": "AI用户体验要素二：那些无法忽略的UI交互行为",
-          "url": "https://www.woshipm.com/ai/6400006.html",
-          "author": "热心网友小陈",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "AI时代正在重塑交互设计的底层逻辑，从传统GUI的树状操作到Agent协作的动态对话，用户体验迎来革命性转变。本文深度解析两种模式在任务流、信息呈现与决策效率上的本质差异，并揭示设计师如何构建新型'任务剧本'，在空间映射、手势操作等关键领域实现人机协作的最优解。从GUI到Agent协作，用户体验设计正经历一场范式转移。本系列分享将从八个核心维度，系统对比传统纯GUI交互与“自然语言+Agent协作...",
-          "published_at": "2026-05-23T02:45:50"
-        },
-        {
-          "title": "货代员工管理实战：如何把考勤、加班和人力成本做成可控的经营数据？",
-          "url": "https://www.woshipm.com/share/6400776.html",
-          "author": "天涯轩",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "跨国货代企业的工时管理，不只是员工填报和主管审批。不同国家的劳动法、加班规则、休息间隔、移动打卡、值班安排和项目成本分摊，都会影响企业用工风险和单票利润。合规与工时管理模块的价值，是把考勤数据、任务投入、法规规则和成本核算连接起来，让企业既能保障连续运营，也能避免疲劳作业、违规用工和人力成本失真。本文后半部分补充了核心数据示例、规则判定逻辑和四条完整业务链路，便于业务与 HR 对照自身制度，评估方...",
-          "published_at": "2026-05-23T02:45:45"
-        },
-        {
-          "title": "月薪5万也招不到？AI产品经理的真实薪资与隐形门槛",
-          "url": "https://www.woshipm.com/zhichang/6400757.html",
-          "author": "Barry设集屋",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "AI产品经理岗位暴增12倍，但真正能填坑的人才寥寥无几。从百万年薪到高淘汰率，这个看似火热的赛道正在经历残酷洗牌。本文深度剖析AI产品经理的真实能力模型、薪资地图与行业趋势，揭示那些能站稳脚跟的从业者如何在技术理解与商业算账间找到黄金平衡点。1. 招聘市场信号灯：岗位暴增12倍，但人才池没跟上今年年初脉脉那报告刚出来，我朋友圈就刷屏了。新发的AI岗位占到26.23%，比去年多了12倍。AI产品经理...",
-          "published_at": "2026-05-23T02:40:04"
-        },
-        {
-          "title": "大多数AI产品，其实是在给自己人做的",
-          "url": "https://www.woshipm.com/ai/6400741.html",
-          "author": "Talen",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "当AI产品团队陷入自嗨式迭代时，真正的大众用户却因'不知道问什么'而悄然离开。本文通过便利店老板、三线大妈等真实案例，犀利指出当前AI产品与普通人生活的致命断层——不是技术不够强，而是产品设计者与真实用户之间存在认知鸿沟。那些留存率翻倍的极简改动背后，藏着从'军师型'到'保姆型'的产品逻辑跃迁。上个月，有个做AI产品的朋友跟我说了一件让他挺受触动的事。他们团队留存一直不好，他就拉了一批真实用户来聊...",
-          "published_at": "2026-05-23T02:39:46"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 8,
+      "count": 16,
       "items": [
         {
           "title": "Four Levels Of Customer Understanding",
@@ -336,48 +337,138 @@
           "source": "A List Apart",
           "summary": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things t...",
           "published_at": null
+        },
+        {
+          "title": "Cleo AI",
+          "url": "https://www.awwwards.com/sites/cleo-ai",
+          "author": "OddCommon",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Sidewave",
+          "url": "https://www.awwwards.com/sites/sidewave",
+          "author": "Sidewave",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "La Revoltosa",
+          "url": "https://www.awwwards.com/sites/la-revoltosa",
+          "author": "Waka",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "aino.agency",
+          "url": "https://www.awwwards.com/sites/aino-agency",
+          "author": "Aino",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Thorgal",
+          "url": "https://www.awwwards.com/sites/thorgal",
+          "author": "Caracal",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Capitolium",
+          "url": "https://www.awwwards.com/sites/capitolium",
+          "author": "Supercolor",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "KVS Studio",
+          "url": "https://www.awwwards.com/sites/kvs-studio",
+          "author": "KVS Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Enerblock",
+          "url": "https://www.awwwards.com/sites/enerblock",
+          "author": "BANILA Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 6,
       "items": [
         {
-          "title": "Smart Miles",
-          "url": "https://www.producthunt.com/products/smart-miles",
-          "author": "Alex Phelps",
+          "title": "note.md",
+          "url": "https://www.producthunt.com/products/note-md",
+          "author": "André Aigner",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Automatic trip tracking for tax-ready exportsDiscussion|Link",
-          "published_at": "2026-05-21T13:17:20"
+          "summary": "Local-first markdown based workspace for research writingsDiscussion|Link",
+          "published_at": "2026-05-22T09:27:42"
         },
         {
-          "title": "Zero Assist",
-          "url": "https://www.producthunt.com/products/zero-assist",
-          "author": "Vaibhav Devere",
+          "title": "Spantop",
+          "url": "https://www.producthunt.com/products/spantop",
+          "author": "Aditya Dewaskar",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Real-time AI cheating detection for technical interviewsDiscussion|Link",
-          "published_at": "2026-05-21T15:06:30"
+          "summary": "Turn any Mac into a real second monitorDiscussion|Link",
+          "published_at": "2026-05-22T04:14:40"
         },
         {
-          "title": "iPromise",
-          "url": "https://www.producthunt.com/products/ipromise-ai-focus-buddy-for-deep-work",
-          "author": "Todd Jiang",
+          "title": "Command A+",
+          "url": "https://www.producthunt.com/products/cohere-2",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Bring \"Body Doubling\" to your Mac notchDiscussion|Link",
-          "published_at": "2026-05-21T10:45:24"
+          "summary": "Cohere’s open enterprise workhorseDiscussion|Link",
+          "published_at": "2026-05-22T14:16:45"
         },
         {
-          "title": "WordPress 7.0",
-          "url": "https://www.producthunt.com/products/wordpress-7-0",
-          "author": "Ankit Sharma",
+          "title": "Vibedock",
+          "url": "https://www.producthunt.com/products/vibedock",
+          "author": "Theo Wtmn",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Introducing AI tools, new admin experience & design controlsDiscussion|Link",
-          "published_at": "2026-05-21T19:14:44"
+          "summary": "Toggle Claude Code MCP servers from your menu barDiscussion|Link",
+          "published_at": "2026-05-22T13:28:39"
+        },
+        {
+          "title": "Google Antigravity CLI",
+          "url": "https://www.producthunt.com/products/google-antigravity",
+          "author": "Rohan Chaubey",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Run coding agents directly from your terminalDiscussion|Link",
+          "published_at": "2026-05-20T05:19:28"
+        },
+        {
+          "title": "RetroMac",
+          "url": "https://www.producthunt.com/products/retromac",
+          "author": "Maik Klotz",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Turn your Mac into a time machine.Discussion|Link",
+          "published_at": "2026-05-22T10:09:53"
         }
       ]
     },
@@ -431,8 +522,8 @@
           "published_at": null
         },
         {
-          "title": "别让写实插图，变成你 UI 设计里的干扰",
-          "url": "https://www.uisdc.com/hunter/0221670932.html",
+          "title": "腾讯Marvis用拟人化场景，让AI控制电脑变得更好玩",
+          "url": "https://www.uisdc.com/hunter/0221670961.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -521,6 +612,15 @@
       "count": 6,
       "items": [
         {
+          "title": "这个周末，来深圳文博会和少数派打个卡吧",
+          "url": "https://sspai.com/post/110052",
+          "author": "侧脸君",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "熟悉少数派的朋友都知道，我们一直在研究怎么让数字生活变得更好玩、更高效。今天（5月22日），这件事有了新的进展。第二十二届中国（深圳）国际文化产业博览交易会之元匠坊分会场正式开幕。这一次，少数派不仅参 ...查看全文",
+          "published_at": "2026-05-23T03:29:35"
+        },
+        {
           "title": "本周看什么 | 最近值得一看的 7 部作品",
           "url": "https://sspai.com/post/110046",
           "author": "少数派编辑部",
@@ -564,15 +664,6 @@
           "source": "少数派",
           "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
           "published_at": "2026-05-21T09:11:19"
-        },
-        {
-          "title": "iOS 里的这些实用辅助功能，每个人都可能用得上",
-          "url": "https://sspai.com/post/104073",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "说到辅助功能，或许很多人对它的回忆还停留在「小白点」。但随着 iPhone 彻底进入全面屏时代，辅助功能也慢慢变得陌生起来。实际上，Apple 每年都会给它添加不少功能，来方便更多身体有障人士来使用 iPhone。不过，尽管它是为了各种有障人群而开发，其中不少功能却能惠及所有 iPhone 用户。而随着 iOS 26 的更新，辅助功能又迎来了不少升级。下面这些实用的小功能，或许还真能帮到你不少。防...",
-          "published_at": "2026-05-21T07:39:30"
         }
       ]
     }
