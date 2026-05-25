@@ -1,27 +1,72 @@
 {
   "date": "2026-05-25T00:00:00",
-  "total_items": 53,
+  "total_items": 61,
   "sources": [
+    "NN/g (Nielsen Norman Group)",
     "A List Apart",
-    "CSS-Tricks",
-    "少数派",
-    "Smashing Magazine",
+    "人人都是产品经理",
     "UX Planet",
     "Awwwards",
+    "CSS-Tricks",
     "Sidebar",
-    "人人都是产品经理",
-    "NN/g (Nielsen Norman Group)",
     "Product Hunt",
+    "优设网",
     "Intercom Blog",
-    "UX Design CC",
-    "优设网"
+    "Smashing Magazine",
+    "少数派",
+    "UX Design CC"
   ],
-  "generated_at": "2026-05-25T04:11:10.583848",
+  "generated_at": "2026-05-25T15:15:34.872013",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 4,
+      "count": 10,
       "items": [
+        {
+          "title": "Being kind to machines, the genius of Claude’s branding, AI UX debt",
+          "url": "https://uxdesign.cc/being-kind-to-machines-the-genius-of-claudes-branding-ai-ux-debt-f40c616102bd?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“The way we talk to technology has always said something about us. We barked commands at early voice recognition software. We typed queries...",
+          "published_at": "2026-05-25T11:17:57"
+        },
+        {
+          "title": "The permalink problem in AI chat",
+          "url": "https://uxdesign.cc/the-permalink-problem-in-ai-chat-1f1579ec991c?source=rss----138adf9c44c---4",
+          "author": "Adi Leviim",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "AI chat made the conversation addressable and the message ephemeral. Knowledge work needs the opposite.Editor’s note: I wrote this article from firsthand experience as a founder and engineer.Disclosur...",
+          "published_at": "2026-05-25T11:10:59"
+        },
+        {
+          "title": "Designing locality, by redrawing the lines",
+          "url": "https://uxdesign.cc/designing-locality-by-redrawing-the-lines-120200ee81df?source=rss----138adf9c44c---4",
+          "author": "Hiroshi Sato",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "On a Bruno Munari picture book, an old Buddhist phrase, and an empty field in the middle of a townContinue reading on UX Collective »",
+          "published_at": "2026-05-25T11:10:40"
+        },
+        {
+          "title": "How Grok guided me through the new Adobe color interface",
+          "url": "https://uxdesign.cc/how-grok-guided-me-through-the-new-adobe-color-interface-5edca179f10b?source=rss----138adf9c44c---4",
+          "author": "Theresa-Marie Rhyne",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "GenAI navigation on shaky ground.Continue reading on UX Collective »",
+          "published_at": "2026-05-25T07:22:20"
+        },
+        {
+          "title": "Is hot coral a feature or a liability? A closer look at the colour of your bank card.",
+          "url": "https://uxdesign.cc/is-hot-coral-a-feature-or-a-liability-a-closer-look-at-the-colour-of-your-bank-card-fbd2f987d359?source=rss----138adf9c44c---4",
+          "author": "Dora Czerna",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "What a pair of trainers, Dutch car thieves, 17,000 lost wallets and the pain of paying tell us about the influence of colour.Most bank cards used to look like they had been designed for people who did...",
+          "published_at": "2026-05-25T07:22:18"
+        },
         {
           "title": "You are no longer the user. You are the principal.",
           "url": "https://uxdesign.cc/you-are-no-longer-the-user-you-are-the-principal-3a6222e0780a?source=rss----138adf9c44c---4",
@@ -48,6 +93,15 @@
           "source": "UX Design CC",
           "summary": "Mastering an AI tool isn’t learning its correct use. It’s learning to bend it to how you already think — and that kind of mastery is personal, divergent, and never finished.Diagram illustrating that m...",
           "published_at": "2026-05-23T20:42:12"
+        },
+        {
+          "title": "Claude Code Guardrails",
+          "url": "https://uxplanet.org/claude-code-guardrails-70662eb6329c?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Practical guide for creating guardrails for Claude CodeContinue reading on UX Planet »",
+          "published_at": "2026-05-25T10:31:48"
         },
         {
           "title": "Dos and Don’ts for Markdown Files",
@@ -134,49 +188,49 @@
           "published_at": "2026-05-22T14:02:39"
         },
         {
-          "title": "小红书博主管理与深度链接",
-          "url": "https://www.woshipm.com/share/6401392.html",
-          "author": "林卿LinQ.",
+          "title": "小红书郑州帮打法进化成什么样了？",
+          "url": "https://www.woshipm.com/share/6402048.html",
+          "author": "Vic的营销思考",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在小红书营销中，如何高效管理博主资源并建立深度合作关系成为品牌突围的关键。从飞书多维表格到专业的数据管理工具，再到情感维系的实用技巧，本文揭秘如何降低投放成本、提高转化效率，构建品牌在内容营销中的核心壁垒。01.管理与深度链接小红书博主的价值在之前有阐述过“品牌商家/机构与小红书博主的关系”，从关系上可延伸出管理与深度链接小红书博主的相关价值，即降低金钱、沟通等各项成本；提高投放效率及效益；形成竞...",
-          "published_at": "2026-05-25T03:43:18"
+          "summary": "郑州帮的营销神话正在经历从野蛮生长到分化转型的关键阶段。从早期小红书的水下笔记矩阵到抖音白酒赛道的产业重构，这套极致人效+原生内容的打法不断突破平台规则边界。本文将深度剖析其核心的「原生故事框架」与进化路径，揭示流量套利背后的商业本质与生存法则。有关于郑州帮的消息，这两年好像越来越少他们这几年发生了什么？打法上有没有什么变化？面对平台一波又一波的规则变化，应对措施是什么？这篇文章也许会给你答案1）...",
+          "published_at": "2026-05-25T08:53:34"
         },
         {
-          "title": "企业经营分析・财务指标全景地图",
-          "url": "https://www.woshipm.com/share/6401140.html",
+          "title": "第一个游戏项目，别急着把 AI 塞进工作流",
+          "url": "https://www.woshipm.com/ai/6402000.html",
+          "author": "灵艺",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "当AI遇上游戏开发，一场关于控制权与创造力的博弈正在上演。一位3A大厂地编人员尝试用AI工具链开发独立游戏，却陷入技术黑箱与创作失控的困境。本文通过UE5实际案例，揭示AI在游戏开发中的能力边界——从结构体识别盲区到节奏感缺失，从协作区划分到禁区警示，为创作者提供一份避开AI陷阱的实战指南。前几天半夜十一点多，一个 3A 游戏公司做地编的朋友突然找我，跟我聊他自己的 UE5 项目。他白天在大厂里摆...",
+          "published_at": "2026-05-25T08:22:36"
+        },
+        {
+          "title": "AI时代，产品经理如何设计更懂用户的大屏可视化产品",
+          "url": "https://www.woshipm.com/ai/6401727.html",
+          "author": "陈默笙",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "大屏可视化正经历从展示工具到智能决策核心的蜕变。AI的深度融入正在改变产品经理的工作范式——需求分析不再依赖静态图表清单，而是通过智能拆解业务场景；设计方案不再追求视觉炫技，而是构建可行动的决策闭环。本文将揭示如何借助AI重构大屏产品的价值逻辑，打造真正懂业务、能进化的智能业务现场。大屏可视化产品正在从“展示型项目”走向“智能化业务入口”。未来产品经理做大屏，不只是把数据组织成漂亮界面，而是要借助...",
+          "published_at": "2026-05-25T08:21:25"
+        },
+        {
+          "title": "寻找Token之上的硬资产：2026年AI应用层的去泡沫与范式转移",
+          "url": "https://www.woshipm.com/ai/6401979.html",
+          "author": "三宝 Max",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "AI应用层的繁荣假象正在被底层技术红利溢出所掩盖，大量缺乏核心资产的AI应用面临被清场的风险。随着大模型技术的迭代和算力价格的暴跌，中间商模式的红利期已宣告终结。本文深度剖析了AI行业的结构性缺陷，并提出了四个构建高壁垒的商业范式，为创业者和投资人指明更具确定性的发展方向。在过去近三年的技术周期中，AI应用层呈现出一种由底层技术红利溢出带来的繁荣假象。海量的用户访问、陡峭的早期增长曲线，掩盖了一个...",
+          "published_at": "2026-05-25T08:16:29"
+        },
+        {
+          "title": "会计引擎原理及流程",
+          "url": "https://www.woshipm.com/share/6401157.html",
           "author": "敏尔说",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "财务分析作为企业经营决策的导航仪，贯穿筹资管理、投资决策、营运优化、盈利提升等全场景。本文系统拆解8大核心经营场景的财务指标应用逻辑，从资本成本测算到价值评估模型，为企业提供精细化财务分析框架，助力实现降本增效与风险防控的战略目标。企业经营是从战略规划、筹资融资、投资扩张、运营管控、盈利增长、风险防控到价值评估的全流程闭环管理，财务分析作为经营决策的核心工具，通过精准的指标测算与解读，为各经营场景...",
-          "published_at": "2026-05-25T03:35:02"
-        },
-        {
-          "title": "AI用户体验要素三：“Agent to UI”设计组件新范式",
-          "url": "https://www.woshipm.com/ai/6401833.html",
-          "author": "热心网友小陈",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "当AI Agent开始接管界面生成，传统GUI设计正面临前所未有的范式革命。本文深度解析Google提出的A2UI理念如何重构设计逻辑，从声明式UI描述、跨端渲染到动态交互循环，揭示Agent时代组件库设计的六大核心原则与四层架构升级路径，为产品团队提供从语义化分层到不确定性处理的完整转型方案。从GUI到Agent协作，用户体验设计正经历一场范式转移。本系列分享将从八个核心维度，系统对比传统纯GU...",
-          "published_at": "2026-05-25T03:34:39"
-        },
-        {
-          "title": "DTC 衰落，网红品牌大衰退",
-          "url": "https://www.woshipm.com/marketing/6401718.html",
-          "author": "寻空",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "从41亿市值到3900万甩卖，Allbirds的陨落不仅是一个品牌的悲剧，更是DTC神话破灭的缩影。当流量红利消退、资本热情冷却，这些曾颠覆行业的明星品牌们正集体面临生存拷问：从Casper退市到Glossier入驻丝芙兰，从完美日记巨亏到钟薛高坠落，本文将深度剖析DTC模式为何从颠覆者沦为被颠覆者，揭示消费品牌从爆品神话到长期生意的必经之路。曾经的 DTC 明星品牌 Allbirds，被卖了。2...",
-          "published_at": "2026-05-25T03:24:01"
-        },
-        {
-          "title": "AI生产力：从效率到工作流重构",
-          "url": "https://www.woshipm.com/share/6401651.html",
-          "author": "李召羊",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "AI正从单点工具演变为重构工作流的核心角色，OpenClaw和Codex等产品已从编程领域扩展至组织协作全链路。本文通过真实项目案例，揭示人机协作中标准化的力量与无幻觉共识的价值，探讨AI如何加速经验蒸馏与技能复用的新职场生态。人和人之间，没有幻觉是最大的共识。012023年人工智能彻底爆发，很多企业和个人在焦虑中观望，当时AI的能力尚不稳定，但在确定性的趋势中，互联网企业的一惯态度：参与或凑热闹...",
-          "published_at": "2026-05-25T03:22:17"
+          "summary": "会计引擎如何重塑企业财务自动化？从业务事件到标准会计凭证的转换，会计引擎正成为企业财务数字化的中枢神经。本文将深入解析其原理架构，拆解规则匹配与凭证生成的核心流程，并通过四大行业场景揭示不同业务复杂度下的设计挑战。我们今天要聊的话题是会计引擎，将会用3个篇幅，讲清楚：1. 会计引擎的原理、流程、凭证结构2. 凭证模板设计3. 凭证生成、反写和日志1在本文中重点阐述；2和3将在后续文章中讲述。第一篇...",
+          "published_at": "2026-05-25T08:05:51"
         }
       ]
     },
@@ -323,43 +377,52 @@
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "ModelHub",
-          "url": "https://www.producthunt.com/products/modelhub",
-          "author": "Priyanshu Ratnakar",
+          "title": "Orchestria",
+          "url": "https://www.producthunt.com/products/orchestria",
+          "author": "Batu Akdoğan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The missing menu bar app for local LLMs on Mac.Discussion|Link",
-          "published_at": "2026-05-22T16:29:50"
+          "summary": "AI music engine with granular stem controlDiscussion|Link",
+          "published_at": "2026-05-22T15:00:33"
         },
         {
-          "title": "DynamicNotch",
-          "url": "https://www.producthunt.com/products/dynamicnotch",
-          "author": "Evgeniy Petrukovich",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Dynamic island for macOSDiscussion|Link",
-          "published_at": "2026-05-23T19:24:38"
-        },
-        {
-          "title": "DockFlow",
-          "url": "https://www.producthunt.com/products/dockflow",
-          "author": "Asaf Mazuz",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Save, switch, and automate Dock layouts for every workflowDiscussion|Link",
-          "published_at": "2026-05-23T20:10:35"
-        },
-        {
-          "title": "WhatCable",
-          "url": "https://www.producthunt.com/products/whatcable",
+          "title": "Pi Coding Agent",
+          "url": "https://www.producthunt.com/products/pi-coding-agent-3",
           "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Know what your USB-C cable can really doDiscussion|Link",
-          "published_at": "2026-05-22T14:23:28"
+          "summary": "The coding-agent harness you can make your ownDiscussion|Link",
+          "published_at": "2026-05-25T03:24:52"
+        },
+        {
+          "title": "MashuPack",
+          "url": "https://www.producthunt.com/products/mashupack",
+          "author": "Spencer Nunamaker",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Turn codebases into a clean file for Claude and ChatGPTDiscussion|Link",
+          "published_at": "2026-05-25T06:30:11"
+        },
+        {
+          "title": "Yansu",
+          "url": "https://www.producthunt.com/products/yansu",
+          "author": "Justin Jincaid",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "AI that learns how you work and turns it into softwareDiscussion|Link",
+          "published_at": "2026-05-24T01:28:56"
+        },
+        {
+          "title": "Forum",
+          "url": "https://www.producthunt.com/products/meta",
+          "author": "Zac Zuo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Dedicated space for Facebook groupsDiscussion|Link",
+          "published_at": "2026-05-23T15:32:02"
         }
       ]
     },
@@ -413,8 +476,8 @@
           "published_at": null
         },
         {
-          "title": "刷笔记就能调用Skill？揭秘小红书在生态内玩的AI新花样",
-          "url": "https://www.uisdc.com/hunter/0221670989.html",
+          "title": "Figma界面一键发给CodeX，让AI帮你找找设计问题",
+          "url": "https://www.uisdc.com/hunter/0221671137.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -428,56 +491,65 @@
       "count": 5,
       "items": [
         {
-          "title": "The old world of tech is dying and the new cannot be born",
-          "url": "https://www.baldurbjarnason.com/2026/the-old-world-of-tech-is-dying/",
+          "title": "A smaller screen needs a different story",
+          "url": "https://bit.ly/side-mag4",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A major inflection point as the tech industry’s imperial mindset crumbles under intense social backlash.",
-          "published_at": "2026-05-22T04:53:00"
+          "summary": "Why adapting a website for mobile is rarely just about making things smaller — insights from Readymag’s marketing designer.",
+          "published_at": "2026-05-25T07:37:00"
         },
         {
-          "title": "Why I spent years trying to make CSS states predictable",
-          "url": "https://tenphi.me/blog/why-i-spent-years-trying-to-make-css-states-predictable/",
+          "title": "Everyone’s a thought leader. Almost no one is thinking.",
+          "url": "https://bernste.in/writings/everyones-a-thought-leader-almost-no-one-is-thinking/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Why predictable CSS state resolution matters, and how Tasty approaches it with state maps and non-overlapping selectors.",
-          "published_at": "2026-05-22T04:04:00"
+          "summary": "Thought leadership got cheap. Thinking didn’t.",
+          "published_at": "2026-05-25T07:35:51"
         },
         {
-          "title": "Just a design list",
-          "url": "https://www.justadesignlist.com/",
+          "title": "AI in Design Report 2026",
+          "url": "https://stateofaidesign.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A slow, curated index of design studios and independent practices. 814 entries across 54 countries.",
-          "published_at": "2026-05-22T04:03:00"
+          "summary": "How design teams are adapting to AI across tooling, craft, and org.",
+          "published_at": "2026-05-25T07:35:24"
         },
         {
-          "title": "The sites we lost",
-          "url": "https://theuselessweb.com/sites-we-lost/",
+          "title": "The interface is no longer the product",
+          "url": "https://blog.mozilla.ai/the-interface-is-no-longer-the-product/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A memorial to the weird little corners of the internet that lived on The Useless Web.",
-          "published_at": "2026-05-22T04:02:00"
+          "summary": "The deck, doc, or dashboard becomes the output, not the source of truth.",
+          "published_at": "2026-05-25T07:34:45"
         },
         {
-          "title": "WebAIM: Tolerating inaccessibility",
-          "url": "https://webaim.org/blog/tolerating-inaccessibility/",
+          "title": "After automation",
+          "url": "https://every.to/p/after-automation",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Despite an increase in interest and the tireless efforts of digital accessibility professionals, the web is less accessible than it was a year ago.",
-          "published_at": "2026-05-22T04:01:00"
+          "summary": "AI progress creates more work for humans, not less.",
+          "published_at": "2026-05-25T07:34:02"
         }
       ]
     },
     {
       "category": "前端设计",
-      "count": 1,
+      "count": 2,
       "items": [
+        {
+          "title": "Cross-Document View Transitions: Scaling Across Hundreds of Elements",
+          "url": "https://css-tricks.com/cross-document-view-transitions-part-2/",
+          "author": "Durgesh Rajubhai Pawar",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "Everyview-transition-nameon a page must be unique. The problem is that every pseudo-element selector in your CSS targets a specific name, so your animation styles explode into an unmanageable wall of ...",
+          "published_at": "2026-05-25T13:46:54"
+        },
         {
           "title": "The State of CSS Centering in 2026",
           "url": "https://css-tricks.com/the-state-of-css-centering-in-2026/",
@@ -493,6 +565,42 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "派评 | 近期值得关注的 App",
+          "url": "https://sspai.com/post/110156",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "published_at": "2026-05-25T10:00:27"
+        },
+        {
+          "title": "无障碍可感知，有爱亦无碍：藏在日常里的 Apple 辅助功能",
+          "url": "https://sspai.com/post/110144",
+          "author": "waychane",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "每年五月的第三个周四是全球无障碍宣传日(GlobalAccessibilityAwarenessDay,GAAD)，宣传日由美国开发者JoeDevon与无障碍专家JennisonAsuncion在20 ...查看全文",
+          "published_at": "2026-05-25T08:02:31"
+        },
+        {
+          "title": "被忙碌与焦虑裹挟时，学会「停下」比「开始」更重要",
+          "url": "https://sspai.com/post/81257",
+          "author": "胖鱼要进步",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "published_at": "2026-05-25T06:37:56"
+        },
+        {
+          "title": "五年陪伴依然不舍，DIY 换壳后让罗技 MX Master 3 继续服役",
+          "url": "https://sspai.com/post/109450",
+          "author": "今天的风儿有点喧嚣V",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "一晃近2000天，我手中的罗技MXMaster3，依旧是我办公时最顺手的伙伴。当初购入它，核心原因就是手大且需要一款适配办公的鼠标——此前我用过雷蛇、赛睿的多款鼠标，并非它们不好用，而是这些鼠标多偏向 ...查看全文",
+          "published_at": "2026-05-25T03:23:36"
+        },
         {
           "title": "派早报：GitHub 在微软治下面临技术和人员流失困境",
           "url": "https://sspai.com/post/110130",
@@ -510,42 +618,6 @@
           "source": "少数派",
           "summary": "一个常驻菜单栏的小工具，双击 ⌘ 就能截图、标注、长截、美化、上传图床——纯 AppKit、零依赖、零订阅、零遥测。查看全文",
           "published_at": "2026-05-24T06:21:48"
-        },
-        {
-          "title": "这个周末，来深圳文博会和少数派打个卡吧",
-          "url": "https://sspai.com/post/110052",
-          "author": "侧脸君",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "熟悉少数派的朋友都知道，我们一直在研究怎么让数字生活变得更好玩、更高效。今天（5月22日），这件事有了新的进展。第二十二届中国（深圳）国际文化产业博览交易会之元匠坊分会场正式开幕。这一次，少数派不仅参 ...查看全文",
-          "published_at": "2026-05-23T03:29:35"
-        },
-        {
-          "title": "本周看什么 | 最近值得一看的 7 部作品",
-          "url": "https://sspai.com/post/110046",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "📅本周新预告《死神千年血战篇-祸进谭-》正式预告5月19日，TV动画《死神千年血战篇-祸进谭-》发布了正式预告，第1-3集将于6月21日在日本影院先行上映，7月开始播出。田口智久担任总导演，村田光执导 ...查看全文",
-          "published_at": "2026-05-22T10:12:14"
-        },
-        {
-          "title": "浏览器扩展合集：我们为你找到了这 6 款实用、有趣的「新玩意」",
-          "url": "https://sspai.com/post/110044",
-          "author": "克莱德",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "在浏览器扩展这边，近期又有哪些好用、有趣的「新玩意」呢？查看全文",
-          "published_at": "2026-05-22T07:37:11"
-        },
-        {
-          "title": "Maptoposter Online：把你爱的城市画成艺术海报",
-          "url": "https://sspai.com/post/109287",
-          "author": "heyheyiann",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "如果你喜欢城市地图、旅行纪念、桌面壁纸、打印海报，或者只是想看看一座城市的路网长什么样，可以试试这个工具。查看全文",
-          "published_at": "2026-05-22T03:03:50"
         }
       ]
     }
