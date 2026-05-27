@@ -1,22 +1,23 @@
 {
   "date": "2026-05-27T00:00:00",
-  "total_items": 56,
+  "total_items": 66,
   "sources": [
-    "UX Planet",
     "人人都是产品经理",
-    "NN/g (Nielsen Norman Group)",
-    "Product Hunt",
-    "CSS-Tricks",
-    "Sidebar",
-    "A List Apart",
-    "UX Design CC",
-    "少数派",
     "Smashing Magazine",
+    "Sidebar",
     "Intercom Blog",
+    "NN/g (Nielsen Norman Group)",
+    "A List Apart",
+    "CSS-Tricks",
+    "Design Milk",
+    "Product Hunt",
     "优设网",
-    "Design Milk"
+    "UX Design CC",
+    "UX Planet",
+    "Awwwards",
+    "少数派"
   ],
-  "generated_at": "2026-05-27T04:11:15.499431",
+  "generated_at": "2026-05-27T15:54:09.423128",
   "categories": [
     {
       "category": "用户体验设计",
@@ -194,15 +195,24 @@
     },
     {
       "category": "产品设计",
-      "count": 9,
+      "count": 10,
       "items": [
+        {
+          "title": "This Lighting Collection Might Be The Best New York Design Industry Collab Yet",
+          "url": "https://design-milk.com/this-lighting-collection-might-be-the-best-new-york-design-industry-collab-yet/",
+          "author": "Adrian Madlener",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Local independent studios Kawabi and Christopher Merchant join forces on the Amica Collection, produced by design resource showroom and gallery Assembly Line.",
+          "published_at": "2026-05-27T14:00:53"
+        },
         {
           "title": "This Restaurant in Atlanta Celebrates Italian Cuisine and Culture",
           "url": "https://design-milk.com/this-restaurant-in-atlanta-celebrates-italian-cuisine-and-culture/",
           "author": "Anna Zappia",
           "category": "产品设计",
           "source": "Design Milk",
-          "summary": "In a setting with sculptural forms and artisanal touches, this new restaurant in Atlanta celebrates Italian cuisine and culture.",
+          "summary": "In a setting with sculptural forms and artisanal touches, Füm in West Midtown Atlanta celebrates Italian cuisine and culture.",
           "published_at": "2026-05-26T18:00:49"
         },
         {
@@ -233,55 +243,55 @@
           "published_at": "2026-05-25T15:38:49"
         },
         {
-          "title": "这才是有效的用户画像，而不是乱套RFM",
-          "url": "https://www.woshipm.com/share/6403387.html",
-          "author": "接地气的陈老师",
+          "title": "AI用户体验要素四：从精确指令到模糊意图",
+          "url": "https://www.woshipm.com/ai/6403504.html",
+          "author": "热心网友小陈",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "用户画像绝非简单的数据堆砌，而是驱动业务增长的核心引擎。本文以小说阅读APP为例，拆解如何通过动态行为标签构建精准用户分层，从内容偏好识别到付费阶段定位，揭示大厂如何用MECE方法将冰冷数据转化为可落地的运营策略。用户画像除了描述性别，年龄等基础情况，能不能指导运营策略，输出提升用户活跃/付费的方案？当然可以！只不过，必须结合具体业务情况。前几天有同学面试某大厂，光顾着背诵RFM指标，结果挂了……...",
-          "published_at": "2026-05-27T03:44:21"
+          "summary": "当GUI遇见Agent协作，用户体验设计正在经历一场革命性变革。从精确定义的按钮操作到自然语言的模糊意图表达，从静态界面模板到动态生成的场景化组件，这场范式转移正在重塑产品设计的底层逻辑。本文通过订票场景的深度对比，揭示AI时代下输入输出机制的根本性变化，以及设计师如何从页面制作者转型为意图响应规则的设计师。从GUI到Agent协作，用户体验设计正经历一场范式转移。本系列分享将从八个核心维度，系统...",
+          "published_at": "2026-05-27T09:38:20"
         },
         {
-          "title": "用Codex独立开发了一个产品，我收获的4个心得",
-          "url": "https://www.woshipm.com/ai/6403381.html",
-          "author": "AI产品经理四月",
+          "title": "先别谈智能，数据还没对齐：企业数字化的12条真相",
+          "url": "https://www.woshipm.com/ai/6403513.html",
+          "author": "Alex的荒诞产品观",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当 AI 开发工具遇上产品思维，会碰撞出怎样的火花？一位零代码基础的产品经理用 Codex 打造的 macOS 番茄时钟应用「专注时刻」，不仅验证了 AI 开发的可行性，更揭示了需求定义的关键作用。从液态玻璃特效的调试到 PRD 的精准传递，这场人机协作实验为 AI 产品开发提供了宝贵范式。最近我用 Codex 独立开发了一个产品，是苹果电脑 macOS 上的番茄时钟应用，叫「专注时刻」。之前我也...",
-          "published_at": "2026-05-27T03:33:28"
+          "summary": "当钉钉的审批记录与金蝶的报销数据无法对齐，一个看似简单的工作台原型揭示了中国企业财务数字化的深层痛点——不是缺乏系统，而是系统间『语言不通』。这篇文章拆解了替票检测背后的商业逻辑，揭示了初创企业如何用『数据翻译层』撬动百万级代理记账市场，更犀利指出：在中国做企业AI，可靠比聪明重要一百倍。上周，我看到了一个工作台原型。它只做了一件事：把钉钉的审批记录和金蝶的报销记录放在一起，然后告诉你——这两条说...",
+          "published_at": "2026-05-27T09:37:23"
         },
         {
-          "title": "从拉美突围到出海榜前四：“全能型”AI工具为何挺进「影视娱乐」深水区",
-          "url": "https://www.woshipm.com/share/6403378.html",
-          "author": "扬帆出海",
+          "title": "百年营销模型失效，翻转“漏斗”才是新出路！",
+          "url": "https://www.woshipm.com/marketing/6403535.html",
+          "author": "品牌猿",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Seekee正在用AI重构内容获取方式。这款席卷拉美市场的'全能型AI驱动网络助手'，通过深度融合影视搜索与浏览器功能，打造出从搜索到播放的极短链路。但其野蛮生长背后，版权争议与数据安全隐忧正成为悬顶之剑。本文深度剖析Seekee如何用'AI+娱乐'打开新兴市场，以及它必须面对的合规化转型。伴随AI应用步入深水区，传统垂类AI工具正逐渐被迭代式、全能型AI助手所取代。智能助手类产品的自我进化早已远...",
-          "published_at": "2026-05-27T03:27:46"
+          "summary": "传统营销漏斗正在崩塌，不是执行力的问题，而是模型已经过时。在注意力碎片化、信任向个体迁移的时代，继续往漏斗里「塞人」只会越做越亏。本文揭示了漏斗模型失效的底层逻辑，并提出90°翻转漏斗的全新框架——从「流量狩猎」转向「存量深耕」，让已经认可你的用户成为最强传播节点。一套可落地的八步战术体系，教你如何把麦克风递给真正能帮你发声的人。过去一百年里，营销人几乎都在做同一件事：拼命往漏斗里塞人。这个漏斗的...",
+          "published_at": "2026-05-27T09:35:01"
         },
         {
-          "title": "被AI折叠的硅谷：1万个亿万富翁的诞生，与每天消失的1000个饭碗",
-          "url": "https://www.woshipm.com/it/6403374.html",
+          "title": "这家创业公司发现了大模型的一个根本性缺陷",
+          "url": "https://www.woshipm.com/ai/6403520.html",
+          "author": "深思圈",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "当明星名字'马嘉祺'成为AI大模型系统性缺陷的引爆点，背后隐藏的其实是语言模型长期存在的低频token退化问题。脸谱心智早在2025年就通过EMNLP论文提出解决方案，而Anthropic在Claude Opus 4.7中的同方向改动，意外验证了这家中国创业公司的前瞻性研究。本文将揭示学术前沿与工业落地之间的时间差，以及低频词处理难题背后的语言规律与商业价值。你有没有想过，我们每天用的 AI 大模...",
+          "published_at": "2026-05-27T08:14:09"
+        },
+        {
+          "title": "这家AI独角兽，凭什么敢让美国医院利润翻10倍？",
+          "url": "https://www.woshipm.com/ai/6403505.html",
           "author": "硅基观察Pro",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "硅谷正在经历AI时代最剧烈的财富分化：Anthropic、OpenAI等公司的1万名员工通过股权套现实现财富自由，而科技行业日均裁员人数却飙升至986人。本文通过详实数据与案例，揭示这场由AI引发的生产力革命如何重塑社会结构，并预演‘第零世界国家’这一令人不安的未来图景。硅谷正在经历人类分化最剧烈的时刻。过去5年里，大约1万人已经实现了远超2000万美元的财富自由。他们来自 Anthropic、O...",
-          "published_at": "2026-05-27T03:17:59"
-        },
-        {
-          "title": "小厂的“韬定律”时刻：死磕业务，不只有算法与技术一条出路",
-          "url": "https://www.woshipm.com/share/6403299.html",
-          "author": "人工智能怨气指南",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "华为提出的‘韬定律’正在颠覆半导体行业的传统竞争逻辑，而这一思路同样适用于互联网行业。面对大厂的技术碾压，小厂如何通过深耕业务场景、精准适配需求实现突围？本文通过跨境翻译工具和AI生图平台两个案例，揭示小厂如何避开大厂盲区，用‘韬式创新’在细分市场占据优势。最近，华为“韬定律”刷屏，舆论场瞬间分裂成两派：大厂人津津乐道技术突破，小厂人看完只剩一声叹息——“这又是大厂的游戏，和我们有什么关系？”先把...",
-          "published_at": "2026-05-27T02:52:55"
+          "summary": "医疗AI公司Commure以7000万美元融资引爆行业，估值飙升至70亿美元。这家超级独角兽瞄准美国医疗系统每年1万亿美元的行政支出黑洞，用AI重构从病历生成到保险理赔的全流程自动化。本文将深度拆解其如何通过临床文档自动化和收入周期管理两大杀手锏，将医院运营利润率从3%提升至20%的颠覆性路径。最近，AI 医疗赛道又跑出了一家超级独角兽。5月19日，医疗AI公司 Commure 完成7000万美元...",
+          "published_at": "2026-05-27T07:49:38"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 7,
+      "count": 14,
       "items": [
         {
           "title": "Your Prototype Is Not Being Honest With Your Users (And Here’s How To Fix It)",
@@ -345,39 +355,120 @@
           "source": "A List Apart",
           "summary": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things t...",
           "published_at": null
+        },
+        {
+          "title": "Razorpay Sprint 26",
+          "url": "https://www.awwwards.com/sites/razorpay-sprint-26",
+          "author": "Razorpay Design",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Cartier Watches & Wonders 2026",
+          "url": "https://www.awwwards.com/sites/cartier-watches-wonders-2026",
+          "author": "Immersive Garden",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Aimee's Papercraft World",
+          "url": "https://www.awwwards.com/sites/aimees-papercraft-world",
+          "author": "Andrew Woan",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Cleo AI",
+          "url": "https://www.awwwards.com/sites/cleo-ai",
+          "author": "OddCommon",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Sidewave",
+          "url": "https://www.awwwards.com/sites/sidewave",
+          "author": "Sidewave",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "La Revoltosa",
+          "url": "https://www.awwwards.com/sites/la-revoltosa",
+          "author": "Waka",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "aino.agency",
+          "url": "https://www.awwwards.com/sites/aino-agency",
+          "author": "Aino",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 5,
       "items": [
         {
-          "title": "Ferrari Luce",
-          "url": "https://www.producthunt.com/products/ferrari-luce-2",
-          "author": "Chris Messina",
+          "title": "Local Panel",
+          "url": "https://www.producthunt.com/products/local-panel",
+          "author": "Oğuz Yeşil",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The first electric Ferrari designed by LoveFromDiscussion|Link",
-          "published_at": "2026-05-26T03:59:54"
+          "summary": "Local SSH server manager with no subscriptions or installsDiscussion|Link",
+          "published_at": "2026-05-26T12:28:56"
         },
         {
-          "title": "SelectPrism",
-          "url": "https://www.producthunt.com/products/selectprism",
-          "author": "Chris Messina",
+          "title": "QuickSheet v1.2",
+          "url": "https://www.producthunt.com/products/quicksheet-light-spreadsheet",
+          "author": "Kev",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Agents that screen and interview so you can hire fasterDiscussion|Link",
-          "published_at": "2026-05-26T02:26:22"
+          "summary": "Instantly create and edit spreadsheets from your menu barDiscussion|Link",
+          "published_at": "2026-05-24T09:08:42"
         },
         {
-          "title": "NoteCove",
-          "url": "https://www.producthunt.com/products/notecove",
-          "author": "Drew Csillag",
+          "title": "Netfox",
+          "url": "https://www.producthunt.com/products/netfox",
+          "author": "Giovambattista Fazioli",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Notes, tasks, and AI — offline-first, no SaaS bill.Discussion|Link",
-          "published_at": "2026-05-24T14:51:21"
+          "summary": "A native local macOS network monitorDiscussion|Link",
+          "published_at": "2026-05-26T14:39:38"
+        },
+        {
+          "title": "Pawse.ai",
+          "url": "https://www.producthunt.com/products/pawse-ai",
+          "author": "Katherine Munoz",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "An acoustic regulation system for dogsDiscussion|Link",
+          "published_at": "2026-05-26T10:02:57"
+        },
+        {
+          "title": "Calling Skills for AI Agents",
+          "url": "https://www.producthunt.com/products/cometchat-skills",
+          "author": "Swapnil Godambe",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Add voice and video calling via your coding agentDiscussion|Link",
+          "published_at": "2026-05-26T09:59:31"
         }
       ]
     },
@@ -404,6 +495,15 @@
           "published_at": null
         },
         {
+          "title": "AI图多人站位总翻车？这套工作流让你抽卡成功率飙到90%！",
+          "url": "https://www.uisdc.com/ai-workflow-2",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "资讯/神器/素材全都有！2026年5月设计素材周刊第三波",
           "url": "https://www.uisdc.com/shejisucai",
           "author": "",
@@ -415,15 +515,6 @@
         {
           "title": "AI时代的人才，我觉得最重要的是这6点特质！",
           "url": "https://www.uisdc.com/the-future-talent",
-          "author": "",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "为什么你的 Agent 明明装了一堆工具，还是像个傻子？",
-          "url": "https://www.uisdc.com/agent-10",
           "author": "",
           "category": "设计教程",
           "source": "优设网",
@@ -443,59 +534,59 @@
     },
     {
       "category": "设计资讯",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "What we lost in the AI chat stream",
-          "url": "https://medium.com/design-bootcamp/what-we-lost-in-the-ai-chat-stream-2f96a22a6b80",
+          "title": "TokenBlast",
+          "url": "https://www.tokenblast.cc/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Most of the chat is iteration, not insight. The real cost is the thinking we stop doing.",
-          "published_at": "2026-05-26T07:40:13"
+          "summary": "Interactive config generator for Claude Code environment flags. Find your preferred balance of cost, tokens, and thinking.",
+          "published_at": "2026-05-27T07:50:24"
         },
         {
-          "title": "Habib Hajallie’s meticulous ballpoint pen drawings",
-          "url": "https://www.thisiscolossal.com/2026/05/habib-hajallie-ballpoint-pen-drawings-portraits/",
+          "title": "The orchestration tax is you",
+          "url": "https://addyosmani.com/blog/orchestration-tax/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The Kent-based artist grapples memories, connection, and devastating loss.",
-          "published_at": "2026-05-26T07:39:47"
+          "summary": "More agents running doesn’t mean more of you available—your cognitive bandwidth doesn’t parallelize.",
+          "published_at": "2026-05-27T07:49:05"
         },
         {
-          "title": "The impact of AI-generated text on the Internet",
-          "url": "https://ai-on-the-internet.github.io/",
+          "title": "Impeccable: Design skills for AI harnesses",
+          "url": "https://impeccable.style/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "By mid-2025, roughly 35% of newly published websites were classified as AI-generated or AI-assisted.",
-          "published_at": "2026-05-26T07:39:01"
+          "summary": "1 skill, 23 commands, and curated anti-patterns for impeccable frontend design. Works with Cursor, Claude Code, Gemini CLI, and Codex CLI.",
+          "published_at": "2026-05-27T07:48:05"
         },
         {
-          "title": "The disappearance of the public bench",
-          "url": "https://placesjournal.org/article/the-disappearance-of-the-public-bench/",
+          "title": "Is AI profitable yet?",
+          "url": "https://isaiprofitable.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "When benches are removed or made uninviting, we lose more than just a place to rest.",
-          "published_at": "2026-05-26T07:38:21"
-        },
-        {
-          "title": "Showreel.design",
-          "url": "https://showreel.design/",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "Discover amazing motion design and animation work from talented creators worldwide.",
-          "published_at": "2026-05-26T07:37:14"
+          "summary": "Tracking the spend and revenue of frontier AI companies.",
+          "published_at": "2026-05-27T07:47:35"
         }
       ]
     },
     {
       "category": "前端设计",
-      "count": 2,
+      "count": 3,
       "items": [
+        {
+          "title": "Revealing Text With CSS letter-spacing",
+          "url": "https://css-tricks.com/revealing-text-with-css-letter-spacing/",
+          "author": "Preethi",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "Until we get something like::nth-letter, there are still some really cool text effects we can make from existing CSS features, likeletter-spacing,::first-wordand::first-line.Revealing Text With CSS le...",
+          "published_at": "2026-05-27T12:37:33"
+        },
         {
           "title": "Technical Writing in the AI Age",
           "url": "https://css-tricks.com/technical-writing-in-the-ai-age/",
@@ -520,6 +611,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "客制化键盘｜近期值得一看的套件与键帽：怪诞主题、复古创新与静电容",
+          "url": "https://sspai.com/post/108618",
+          "author": "车不能快",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "客制化键盘新品信息速览。查看全文",
+          "published_at": "2026-05-27T09:38:16"
+        },
+        {
+          "title": "屏忆：这款开源工具，把过目就忘的日常变成「上下文」",
+          "url": "https://sspai.com/post/110115",
+          "author": "少数派71601116",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "我们总在训练更聪明的 AI，却很少为未来的自己留下足够真实的生活切片。查看全文",
+          "published_at": "2026-05-27T07:10:53"
+        },
+        {
+          "title": "为什么没人会喜欢你用 LLM 写出来的东西？",
+          "url": "https://sspai.com/post/110102",
+          "author": "LOSSES",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "LLM 的后训练、对齐、蒸馏，不仅让模型输出变得更可控，但没人喜欢这样的东西。查看全文",
+          "published_at": "2026-05-27T03:31:24"
+        },
         {
           "title": "派早报：法拉利发布首款纯电跑车 Luce、森海塞尔发布 Momentum 5 耳机等",
           "url": "https://sspai.com/post/110297",
@@ -546,33 +664,6 @@
           "source": "少数派",
           "summary": "献给和我们当初一样跃跃欲试的朋友们。查看全文",
           "published_at": "2026-05-26T07:00:00"
-        },
-        {
-          "title": "App+1 | 有太多香水不知道用哪个？我做了一款能帮你选香水的记录 App",
-          "url": "https://sspai.com/post/109227",
-          "author": "TAKO",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Kaori 不仅是为了香水爱好者而设计，如果你有日常喷香水的习惯，不妨通过 Kaori 来记录你的日常和一闪而过与香水有关的想法。查看全文",
-          "published_at": "2026-05-26T02:59:16"
-        },
-        {
-          "title": "派早报：OPPO 与荣耀发布多款新品，华为发表半导体领域新定律等",
-          "url": "https://sspai.com/post/110171",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "少数派的近期动态少数派×飞傲多功能便携CD音箱一体机BEATBOX预售开启。火速入手可爱又好玩的经典萌物——监工水獭挂件复刻啦！给獭一个家首款MBTI定制墨水屏「口袋先知」预售进行中，一按知运势。立刻 ...查看全文",
-          "published_at": "2026-05-25T23:07:09"
-        },
-        {
-          "title": "派评 | 近期值得关注的 App",
-          "url": "https://sspai.com/post/110156",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
-          "published_at": "2026-05-25T10:00:27"
         }
       ]
     }
