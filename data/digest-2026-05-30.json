@@ -1,22 +1,22 @@
 {
   "date": "2026-05-30T00:00:00",
-  "total_items": 59,
+  "total_items": 54,
   "sources": [
-    "Awwwards",
     "UX Design CC",
-    "Intercom Blog",
-    "人人都是产品经理",
-    "Sidebar",
+    "A List Apart",
     "UX Planet",
+    "Intercom Blog",
+    "Design Milk",
+    "Smashing Magazine",
     "Product Hunt",
+    "Sidebar",
+    "CSS-Tricks",
+    "人人都是产品经理",
     "少数派",
     "优设网",
-    "CSS-Tricks",
-    "Design Milk",
-    "A List Apart",
-    "Smashing Magazine"
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2026-05-30T03:48:25.595038",
+  "generated_at": "2026-05-30T13:47:42.720542",
   "categories": [
     {
       "category": "用户体验设计",
@@ -97,6 +97,57 @@
       ]
     },
     {
+      "category": "用户体验研究",
+      "count": 5,
+      "items": [
+        {
+          "title": "How to Get Research Recommendations on the Roadmap",
+          "url": "https://www.nngroup.com/articles/research-recommendations-roadmap/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Using RAS to Guide UX Research Resource Allocation and Strategy",
+          "url": "https://www.nngroup.com/articles/ras-research-resource-allocation/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "The Case for Design Disposables",
+          "url": "https://www.nngroup.com/articles/design-disposables/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Small by Design: The Strength of Lean Design-System Teams",
+          "url": "https://www.nngroup.com/articles/lean-design-system-teams/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "What Designers Actually Struggle with on Product Teams",
+          "url": "https://www.nngroup.com/articles/designers-product-teams/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        }
+      ]
+    },
+    {
       "category": "产品设计",
       "count": 12,
       "items": [
@@ -164,55 +215,55 @@
           "published_at": "2026-05-27T17:00:09"
         },
         {
-          "title": "从 2024 长文本神话到 2026 开发基建：大模型价格战下 Kimi 的 B 端突围真相",
-          "url": "https://www.woshipm.com/ai/6404380.html",
-          "author": "JK硅行者",
+          "title": "私域运营聊得越久，客户跑得越快？你可能一开始就跟错了人",
+          "url": "https://www.woshipm.com/share/6405162.html",
+          "author": "秃头老王聊运营",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当大模型价格战席卷AI行业，月之暗面（Kimi）却悄然祭出两大杀手锏——全端畅写的Kimi Code和一键部署的Kimi Claw Beta，彻底颠覆传统开发门槛。本文深度解析Kimi如何从长文本神话转向B端硬核战场，用工程管线效率重塑AI产品的商业护城河。这两天，国内 AI 圈和产品经理群彻底被大模型价格战这三个字震麻了。就在 2026 年 5 月底，各大硬件与互联网巨头接连宣布大模型大幅降价，...",
-          "published_at": "2026-05-30T03:31:49"
+          "summary": "私域运营中，热情未必能换来成交，反而可能沦为客户的免费陪聊工具。本文通过一个托福留学运营的亲身经历，揭示了私域成交的真相：从‘车站拉客仔’到‘机场安检员’的转变。关键在于识别四个核心成交信号，避免无效噪音，精准狙击高价值客户。几年前我做托福留学运营的时候，不仅负责前端小红书公域引流，还负责后端私域的客户精细化分层，和私聊转化。直到对方主动提及，想了解托福课程或者一对一老师，我再对接给课程顾问跟进。...",
+          "published_at": "2026-05-30T07:59:58"
         },
         {
-          "title": "你的公司想上AI？先把二十年的数据烂账还了",
-          "url": "https://www.woshipm.com/ai/6404896.html",
-          "author": "Alex的荒诞产品观",
+          "title": "资金系统的逾期管理，怎么做？",
+          "url": "https://www.woshipm.com/share/6404272.html",
+          "author": "敏尔说",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "五家不同行业的企业，却在AI应用中面临同一个核心困境——数据孤岛。从制造业到连锁药店，企业都在问：AI能否直接处理散落在各系统的数据？本文将深入剖析这一现象背后的三层本质：技术上的数据断点、商业上的付费矛盾，以及中国企业数字化进程中的结构性欠账，并揭示AI时代真正的机会所在。一、一个反常的现象最近，我密集接触了五家背景迥异的企业：一家制造业巨头、一家电商上市集团、一家股份制银行、一家汽车金融公司，...",
-          "published_at": "2026-05-30T02:35:51"
+          "summary": "当数字化系统遇上资金逾期催收，一场科技与金融的碰撞正在重塑传统债务管理。从自动预警到多级催收，从风险分类到法律联动，资金系统如何通过智能化手段实现高效、合规的逾期管理？本文将深入拆解逾期管理全流程，揭示金融机构如何用算法与规则守护资金安全。老百姓催别人还钱，怎么说？——哪天一起吃个饭？我娃儿开学了？数字化系统催别人还钱怎么说？——资金逾期催收？资金系统的逾期管理是指在资金业务（如贷款、融资、应收账...",
+          "published_at": "2026-05-30T07:59:23"
         },
         {
-          "title": "内容越卷，品牌越要像一个真实的人",
-          "url": "https://www.woshipm.com/operate/6404687.html",
-          "author": "林卿LinQ.",
+          "title": "AI的下一个战场是宠物机器人",
+          "url": "https://www.woshipm.com/ai/6404921.html",
+          "author": "逸和 知识服务工作者",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在AI内容泛滥的今天，品牌如何在社交媒体上打造真实可信的'活人感'？从删掉官腔模板到暴露经营细节，从记录产品研发过程到让客服参与内容创作，本文深度拆解了5个关键维度和7个实操方法，揭示中小品牌如何用真实密度而非情绪浓度赢得用户信任。最近这两年，我越来越频繁地看到一个词：“活人感”。做小红书的人在讲，做品牌的人在讲，做IP的人在讲，甚至很多品牌官方账号也开始努力让自己看起来“不那么官方”。有的品牌开...",
-          "published_at": "2026-05-30T01:32:58"
+          "summary": "从拉布布到芙崽，Z世代的孤独经济正在催生一个全新的宠物机器人市场。这款售价369元的AI宠物不仅能回应主人的情感需求，更在银发族和青少年群体中引发共鸣。本文深度剖析了情感陪伴产品的市场逻辑、技术瓶颈与未来爆发点，揭示为何这个赛道会成为科技巨头与资本角逐的下一个战场。最近晚上，我都在高强度刷小红书，想更多了解现在最新的自由职业者动态，刷着刷着。看到一个养了五只芙崽的帖子，我还以为是她小狗的名字呢，心...",
+          "published_at": "2026-05-30T07:33:58"
         },
         {
-          "title": "A16Z合伙人最新判断：模型不会终结一切，AI应用还有机会",
-          "url": "https://www.woshipm.com/ai/6404804.html",
-          "author": "硅基观察Pro",
+          "title": "Claude Opus 4.8更新两天，我的开发节奏变了",
+          "url": "https://www.woshipm.com/share/6405160.html",
+          "author": "Zoey",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当通用大模型席卷全球时，垂直AI应用正在企业业务的深水区悄然崛起。本文深度剖析A16Z的投资逻辑，揭示保险、法律、医疗等行业中那些无法被标准化的工作流程，如何成为AI创业者抵御巨头入侵的真正护城河。从数据沉淀到成本优化，从合规架构到运营记忆，带你看见黄砖路之外的AI应用新大陆。最近，几乎所有人都在问同一个问题：AI 应用还有没有价值，OpenAI 和 Anthropic 会不会终结一切？这个问题背...",
-          "published_at": "2026-05-29T08:08:44"
+          "summary": "Claude Opus 4.8的升级看似低调，却在开发者体验上带来质的飞跃。它通过主动标注代码不确定性、精准遵循开发规范、支持对话中途指令调整等细节优化，显著降低了日常开发中的认知摩擦。这种'不起眼但确实有用'的进步，正在重新定义AI编程助手的可靠性标准。5月28号Anthropic发了Claude Opus 4.8。说实话看到更新公告的时候我没太当回事——这已经是今年第四次模型升级了，2月4.6...",
+          "published_at": "2026-05-30T06:56:29"
         },
         {
-          "title": "AI大模型智能旅游规划项目实战复盘",
-          "url": "https://www.woshipm.com/pd/6404761.html",
-          "author": "markzou",
+          "title": "大众人群消费：画像一览",
+          "url": "https://www.woshipm.com/share/6404595.html",
+          "author": "率剑士",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当大模型遇上旅行规划，效率提升的背后是AI落地的真实困境。本文作者通过3个月的实践，揭示了从提示词优化到第三方数据对接的全流程挑战，更直面了团队协作与算法备案等致命陷阱。这场关于效率与可行性的博弈，为AI产品商业化提供了鲜活样本。1、机会发现为啥会想走一个利用大模型来进行旅游规划的应用呢？在之前进行旅行规划，总是需要在小红书、马蜂窝等平台找信息，然后再进行规划，要几个小时的时间。去年下半年去环游中...",
-          "published_at": "2026-05-29T07:02:30"
+          "summary": "中国消费市场正经历前所未有的结构性分化，从都市青年到银发群体，九大核心消费人群展现出截然不同的价值观念与消费图谱。本文深度解析小镇青年的潮流本土化、学生党的圈层文化消费、都市白领的精致穷现象，以及银发经济下沉机遇等关键趋势，为品牌提供精准人群洞察与策略支点。引言：中国消费市场的结构性分化中国消费市场正经历深刻的结构性变革。在经济增速换挡、消费主力迭代与数字化深度渗透的多重驱动下，不同人群的消费图谱...",
+          "published_at": "2026-05-30T06:44:44"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 14,
+      "count": 7,
       "items": [
         {
           "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
@@ -276,129 +327,39 @@
           "source": "A List Apart",
           "summary": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things t...",
           "published_at": null
-        },
-        {
-          "title": "Sowieso Wero",
-          "url": "https://www.awwwards.com/sites/sowieso-wero",
-          "author": "51North",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Cdiscount - Jumping Max",
-          "url": "https://www.awwwards.com/sites/cdiscount-jumping-max",
-          "author": "Merci Michel",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Razorpay Sprint 26",
-          "url": "https://www.awwwards.com/sites/razorpay-sprint-26",
-          "author": "Razorpay Design",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Cartier Watches & Wonders 2026",
-          "url": "https://www.awwwards.com/sites/cartier-watches-wonders-2026",
-          "author": "Immersive Garden",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Aimee's Papercraft World",
-          "url": "https://www.awwwards.com/sites/aimees-papercraft-world",
-          "author": "Andrew Woan",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Cleo AI",
-          "url": "https://www.awwwards.com/sites/cleo-ai",
-          "author": "OddCommon",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Sidewave",
-          "url": "https://www.awwwards.com/sites/sidewave",
-          "author": "Sidewave",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 3,
       "items": [
         {
-          "title": "NODUS HN Radar",
-          "url": "https://www.producthunt.com/products/nodus-hn-radar",
-          "author": "M. M. Carvalho",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Track rising Hacker News posts before they explodeDiscussion|Link",
-          "published_at": "2026-05-28T15:16:09"
-        },
-        {
-          "title": "Clipline",
-          "url": "https://www.producthunt.com/products/clipline-2",
-          "author": "серж",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "AI Video Cutter for viral Shorts, Reels, TikTok in TelegramDiscussion|Link",
-          "published_at": "2026-05-28T14:56:30"
-        },
-        {
-          "title": "Coffee Piano",
-          "url": "https://www.producthunt.com/products/coffee-piano-harmony-lab",
-          "author": "Jaime",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Browser music and piano studio with visual harmony toolsDiscussion|Link",
-          "published_at": "2026-05-28T21:45:11"
-        },
-        {
-          "title": "Linear Diffs",
-          "url": "https://www.producthunt.com/products/linear",
+          "title": "Openstatus MCP Health Checker",
+          "url": "https://www.producthunt.com/products/openstatus-2",
           "author": "fmerian",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A new way to review PRs, directly inside LinearDiscussion|Link",
-          "published_at": "2026-05-28T18:09:28"
+          "summary": "Test MCP servers like a real AI client, not just a pingDiscussion|Link",
+          "published_at": "2026-05-28T14:14:25"
         },
         {
-          "title": "Integuru",
-          "url": "https://www.producthunt.com/products/integuru",
-          "author": "Garry Tan",
+          "title": "Step 3.7 Flash",
+          "url": "https://www.producthunt.com/products/step-3-5-flash",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Generate fast, reliable APIs for any platform. No browsersDiscussion|Link",
-          "published_at": "2026-05-28T13:41:04"
+          "summary": "Flash-speed agents model that can see and actDiscussion|Link",
+          "published_at": "2026-05-29T12:47:02"
         },
         {
-          "title": "Drafted",
-          "url": "https://www.producthunt.com/products/drafted-4",
-          "author": "Garry Tan",
+          "title": "Ava 2.0",
+          "url": "https://www.producthunt.com/products/artisan-3",
+          "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Design a home instantly with AIDiscussion|Link",
-          "published_at": "2026-05-29T05:25:33"
+          "summary": "Your AI BDR that runs outbound sales autonomouslyDiscussion|Link",
+          "published_at": "2026-05-27T22:10:18"
         }
       ]
     },
@@ -542,6 +503,15 @@
       "count": 6,
       "items": [
         {
+          "title": "AI 如何影响你的审美？",
+          "url": "https://sspai.com/post/110172",
+          "author": "AstrianZ",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "去感受、去思考、去创作吧，这是只有身为人类的你能做到的事情。查看全文",
+          "published_at": "2026-05-30T09:04:38"
+        },
+        {
           "title": "本周看什么 | 最近值得一看的 8 部作品",
           "url": "https://sspai.com/post/110446",
           "author": "少数派编辑部",
@@ -585,15 +555,6 @@
           "source": "少数派",
           "summary": "Anthropic 发布旗舰模型 Claude Opus 4.8，Intel 发布锐炫 G 系列处理器等。查看全文",
           "published_at": "2026-05-29T00:51:34"
-        },
-        {
-          "title": "从原理到实践：年轻人的第一篇染发及洗护指南",
-          "url": "https://sspai.com/prime/story/hair-dye-tutorial",
-          "author": "宛潼",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "我不用染发来对抗岁月，但我用它来对抗焦虑。[......]查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "published_at": "2026-05-28T09:42:02"
         }
       ]
     }
