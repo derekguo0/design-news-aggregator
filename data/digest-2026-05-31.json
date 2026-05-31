@@ -1,27 +1,54 @@
 {
   "date": "2026-05-31T00:00:00",
-  "total_items": 56,
+  "total_items": 61,
   "sources": [
-    "UX Design CC",
-    "优设网",
-    "UX Planet",
+    "Design Milk",
     "Sidebar",
-    "CSS-Tricks",
-    "少数派",
-    "人人都是产品经理",
     "Smashing Magazine",
     "Awwwards",
-    "Design Milk",
     "Product Hunt",
-    "A List Apart",
-    "NN/g (Nielsen Norman Group)"
+    "NN/g (Nielsen Norman Group)",
+    "UX Design CC",
+    "人人都是产品经理",
+    "少数派",
+    "UX Planet",
+    "优设网",
+    "CSS-Tricks",
+    "A List Apart"
   ],
-  "generated_at": "2026-05-31T04:12:38.450839",
+  "generated_at": "2026-05-31T13:53:09.715432",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 5,
+      "count": 8,
       "items": [
+        {
+          "title": "AI Token Scarcity and Arcade Economics",
+          "url": "https://uxdesign.cc/ai-token-scarcity-and-arcade-economics-5d6c0f2df3b5?source=rss----138adf9c44c---4",
+          "author": "Luis Berumen Castro",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The rising cost of computing is prompting a reevaluation of designers' expectations.Continue reading on UX Collective »",
+          "published_at": "2026-05-31T12:22:00"
+        },
+        {
+          "title": "Who is your content actually for?",
+          "url": "https://uxdesign.cc/who-is-your-content-actually-for-c9e40cca3d75?source=rss----138adf9c44c---4",
+          "author": "Dora Czerna",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "AI and SEO are converging. The combined pressure is reshaping how content gets made and read in ways that push the human reader further down the list of priorities.On a Tuesday morning in May 2024, Go...",
+          "published_at": "2026-05-31T12:22:00"
+        },
+        {
+          "title": "YouTube is gonna auto-tag AI, and it makes me angry",
+          "url": "https://uxdesign.cc/youtube-is-gonna-auto-tag-ai-and-it-makes-me-angry-598bff827a68?source=rss----138adf9c44c---4",
+          "author": "Rita Kind-Envy",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "So late to the party, so slimy, so angry.Continue reading on UX Collective »",
+          "published_at": "2026-05-31T12:21:58"
+        },
         {
           "title": "How to help people who don’t read discover new features",
           "url": "https://uxdesign.cc/how-to-help-people-who-dont-read-discover-new-features-310f88fd76cb?source=rss----138adf9c44c---4",
@@ -179,56 +206,65 @@
           "published_at": "2026-05-28T14:00:53"
         },
         {
-          "title": "【支付】银行发薪补充，第三方平台供应商发薪充值、余额管控、自动核销方案",
-          "url": "https://www.woshipm.com/pd/6405193.html",
-          "author": "首席道歉官",
+          "title": "带着5个人跑通14天MVP挑战：我是如何用AI工具矩阵干掉团队协作损耗的？",
+          "url": "https://www.woshipm.com/share/6404428.html",
+          "author": "JK硅行者",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "传统薪酬系统在第三方平台发薪场景下暴露出的资金流黑箱、余额校验缺失等致命痛点，正在被一套完整的解决方案颠覆。从协议配置到资金闭环，本文深度拆解如何通过四层架构设计与十大步骤流程，实现支付宝/微信发薪与原有系统的无缝整合，彻底解决企业资金追踪与风控难题。业务痛点企业薪酬发放场景中，很多系统只支持”银行代发”和”现金发放”两种传统途径。当客户提出”希望通过支付宝、微信支付等第三方平台发薪”时，系统层面...",
-          "published_at": "2026-05-31T03:53:50"
+          "summary": "当超级个体理念席卷职场时，这位产品经理却选择了一条更务实的道路——将全栈思维植入传统团队。通过14天极限实验，5人小队借助AI工具矩阵完成了1200+样本测试，砍掉90%会议文档，让销售培训周期从两周骤降至三天。这场组织变革证明：真正的竞争力不在于逃离公司，而在于驯服技术为业务创造稳定回报。现在的产品经理圈，只要一聊起个人转型，所有人都在谈 Dan Koe 的超级个体和一人公司。大家都觉得未来传统...",
+          "published_at": "2026-05-31T08:43:44"
         },
         {
-          "title": "HTML的隐藏能力：不只是网页，更是灵活丰富的办公工具",
-          "url": "https://www.woshipm.com/share/6405099.html",
-          "author": "AI产品喵",
+          "title": "看完 今年谷歌I/O 大会才看明白：谷歌的护城河从来不是模型",
+          "url": "https://www.woshipm.com/ai/6405442.html",
+          "author": "阿铭Ziven",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从死板的PPT到单调的表格，从繁琐的Word排版到失真的AI图片，HTML能以自适应布局、交互元素嵌入和零代码生成的特性，重构办公展示的每个环节。本文深度解析如何用HTML+CSS+JavaScript组合拳，在AI辅助下让非技术人员也能轻松驾驭这份被低估的生产力工具。在大众的普遍认知中，HTML不过是前端开发者用来编写网页的专属工具。这种看法本身并无错误，但却严重低估了HTML的多元价值——它藏...",
-          "published_at": "2026-05-31T02:24:49"
+          "summary": "Gemini正在重塑AI产品竞争格局。从模型货架到操作系统级Agent，谷歌通过Antigravity开发平台、Managed Agents沙箱环境和TPU架构革新，构建了完整的Agent生态链。9亿月活背后，是搜索分发与AI Overviews形成的护城河。本文将深入解析这次战略重组对AI产品经理的启示与挑战。这届 I/O 2026 的主 keynote 看完，谷歌当天博客的题目只有一句话——”...",
+          "published_at": "2026-05-31T06:30:15"
         },
         {
-          "title": "Claude Opus 4.8发布了，人的幻觉愈发严重",
-          "url": "https://www.woshipm.com/ai/6405548.html",
-          "author": "秀琴江湖飘",
+          "title": "无技术背景人员分享一次 Vibe Coding实践",
+          "url": "https://www.woshipm.com/ai/6405335.html",
+          "author": "Oli芬",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Claude Opus 4.8 的发布带来了三个关键变化：学会说「我不确定」的动态工作流、可调节的思考强度档位，以及预告中的 Mythos 模型。这些更新不仅提升了模型的可靠性，更展现了 AI 在代码迁移等复杂任务中的潜力。然而，文章犀利指出当前企业应用 AI 时普遍存在的三种幻觉，揭示了理想与现实之间的巨大鸿沟。昨天晚上claude Opus 4.8发布了，不得不感慨，模型迭代的速度太快了。这次...",
-          "published_at": "2026-05-31T02:17:26"
+          "summary": "AI正在彻底改变编程的底层逻辑。Vibe Coding让产品创造者从写代码转向定义意图，这种范式迁移正在重塑无技术背景人群的创造路径。本文深度拆解AI编程的6大认知变革，从意图工程到模块化搭建，并通过真实案例揭示如何在14小时内从0到1上线完整产品。案例过程写在最后。一、先说结论AI重新分配了编程工作的价值。Vibe Coding让产品创造者写代码转变为定义意图——专注于创意与产品价值，而非技术实...",
+          "published_at": "2026-05-31T06:14:07"
         },
         {
-          "title": "企业 Agent 的上限，不在模型参数里，在公司的知识管理能力里",
-          "url": "https://www.woshipm.com/ai/6405264.html",
-          "author": "墨峥说AI产品",
+          "title": "写给万金油的运营人：你的平庸，恰好是你的优势！",
+          "url": "https://www.woshipm.com/share/6405172.html",
+          "author": "秃头老王聊运营",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "企业级Agent为何难以稳定落地？模型参数的不断升级并未解决根本问题，真正瓶颈在于企业的知识管理能力。本文深度剖析Agent在实际应用中的三大阶段演进，揭示隐性知识显性化的关键路径，以及如何将组织记忆转化为AI可执行的智能资产。前阵子跟几个同行聊天，大家聊来聊去都绕不开一个话题——为什么明明现在模型都这么强了，各家Agent框架也层出不穷，但真正能跑到生产环境、稳定干活的企业级Agent，少得可怜...",
-          "published_at": "2026-05-31T02:16:44"
+          "summary": "许多新媒体运营人陷入‘综合却平庸’的困境，技能全面却缺乏核心竞争力。这篇文章揭示了一个颠覆性真相：真正的突围之道不是售卖单一技能，而是将‘万金油’属性转化为组装解决方案的独特优势。通过锁定精准人群、组合技能模块、验证MVP产品，普通运营人也能打造高价值的个人商业闭环。你是不是也这样？工作履历上写着文案策划、短视频拍摄剪辑、活动执行、社群运营……每个运营技能都懂，像一把什么都能拧两下的“瑞士军刀”。...",
+          "published_at": "2026-05-31T05:52:36"
         },
         {
-          "title": "业务型 VS 技术型数据分析师，哪个更有钱途？",
-          "url": "https://www.woshipm.com/share/6405546.html",
-          "author": "接地气的陈老师",
+          "title": "中小品牌的小红书预算，为什么越花越低效",
+          "url": "https://www.woshipm.com/share/6405495.html",
+          "author": "林卿LinQ.",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "技术型与业务型数据分析岗位的差异常让求职者陷入选择困境。前者扎根IT部门应对全业务线需求，后者深钻特定领域输出决策支持。本文通过面试场景、部门架构、发展路径三维对比，揭示两类岗位的核心差异与适配人群，助你避开'Excel搬运工'陷阱。很多同学都听说过，数据分析有技术型/业务型的区别。到底这俩有啥差异？哪个更适合自己？今天详细讲解一下。业务 VS技术，差异在哪里技术型数据分析岗位特征如下：1、任职部...",
-          "published_at": "2026-05-31T02:16:08"
+          "summary": "中小品牌在小红书营销中常陷入内容平庸的困境，但问题或许不在于技巧本身，而是缺乏精准的人群细分思维。本文深度拆解如何从关键词挖掘、用户原话分析到AI脑洞验证，构建一套可复制的细分人群洞察方法论，帮助品牌在有限预算下实现高效内容穿透。这段时间我看了很多中小品牌在小红书上的营销内容，有一个很强烈的感觉：大家不是完全不会写内容，也不是完全没有投放意识，但很多内容就是怎么刷都觉得差一口气。卖点有，场景也有，...",
+          "published_at": "2026-05-31T04:35:05"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 14,
+      "count": 15,
       "items": [
+        {
+          "title": "June Is For Exploring (2026 Wallpapers Edition)",
+          "url": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new col...",
+          "published_at": "2026-05-31T08:00:00"
+        },
         {
           "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
           "url": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
@@ -359,8 +395,35 @@
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 4,
       "items": [
+        {
+          "title": "Marqly 5.0",
+          "url": "https://www.producthunt.com/products/marqly",
+          "author": "Kim",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Your AI-powered bookmark managerDiscussion|Link",
+          "published_at": "2026-05-30T09:30:11"
+        },
+        {
+          "title": "TabTasker",
+          "url": "https://www.producthunt.com/products/tabtasker",
+          "author": "Çağlar SU",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Zero servers. Total privacy. Your new favorite toolbox.Discussion|Link",
+          "published_at": "2026-05-29T23:00:20"
+        },
+        {
+          "title": "Oura Ring 5",
+          "url": "https://www.producthunt.com/products/oura",
+          "author": "Zac Zuo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The world’s smallest smart ring, now even betterDiscussion|Link",
+          "published_at": "2026-05-30T18:05:21"
+        },
         {
           "title": "Openstatus MCP Health Checker",
           "url": "https://www.producthunt.com/products/openstatus-2",
@@ -369,24 +432,6 @@
           "source": "Product Hunt",
           "summary": "Test MCP servers like a real AI client, not just a pingDiscussion|Link",
           "published_at": "2026-05-28T14:14:25"
-        },
-        {
-          "title": "Step 3.7 Flash",
-          "url": "https://www.producthunt.com/products/step-3-5-flash",
-          "author": "Zac Zuo",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Flash-speed agents model that can see and actDiscussion|Link",
-          "published_at": "2026-05-29T12:47:02"
-        },
-        {
-          "title": "Coffee Piano",
-          "url": "https://www.producthunt.com/products/coffee-piano-harmony-lab",
-          "author": "Jaime",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Browser music and piano studio with visual harmony toolsDiscussion|Link",
-          "published_at": "2026-05-28T21:45:11"
         }
       ]
     },
@@ -521,6 +566,15 @@
       "count": 6,
       "items": [
         {
+          "title": "本月玩什么｜混音青春、007 初露锋芒、归零巡礼、地平线 6",
+          "url": "https://sspai.com/post/110488",
+          "author": "板斧",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "给你的快乐查漏补缺。查看全文",
+          "published_at": "2026-05-31T06:36:11"
+        },
+        {
           "title": "AI 如何影响你的审美？",
           "url": "https://sspai.com/post/110172",
           "author": "AstrianZ",
@@ -564,15 +618,6 @@
           "source": "少数派",
           "summary": "Android 早已具备高质量音频输出的能力，但一段声音从在抵达耳机之前，往往还要经过系统层层处理。下面我们一起探究 Android 高保真输出背后的秘密。查看全文",
           "published_at": "2026-05-29T02:57:32"
-        },
-        {
-          "title": "派早报：Sony 发布 Bravia 2026 款电视产品等",
-          "url": "https://sspai.com/post/110425",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Anthropic 发布旗舰模型 Claude Opus 4.8，Intel 发布锐炫 G 系列处理器等。查看全文",
-          "published_at": "2026-05-29T00:51:34"
         }
       ]
     }
