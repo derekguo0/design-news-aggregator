@@ -1,25 +1,26 @@
 {
   "date": "2026-06-03T00:00:00",
-  "total_items": 59,
+  "total_items": 76,
   "sources": [
+    "Awwwards",
+    "UX Design CC",
+    "CSS-Tricks",
     "优设网",
     "A List Apart",
-    "NN/g (Nielsen Norman Group)",
-    "UX Design CC",
-    "UX Planet",
-    "Sidebar",
     "少数派",
-    "Product Hunt",
+    "NN/g (Nielsen Norman Group)",
+    "UX Planet",
     "Smashing Magazine",
-    "Design Milk",
     "人人都是产品经理",
-    "CSS-Tricks"
+    "Design Milk",
+    "Sidebar",
+    "Product Hunt"
   ],
-  "generated_at": "2026-06-03T04:40:27.561977",
+  "generated_at": "2026-06-03T16:56:54.040298",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 13,
+      "count": 15,
       "items": [
         {
           "title": "AI-created document fatigue: how I designed my way out of it",
@@ -110,6 +111,24 @@
           "source": "UX Design CC",
           "summary": "The rising cost of computing is prompting a reevaluation of designers' expectations.Continue reading on UX Collective »",
           "published_at": "2026-05-31T12:22:00"
+        },
+        {
+          "title": "Voice is the New UI",
+          "url": "https://uxplanet.org/voice-is-the-new-ui-87e107c306d7?source=rss----819cc2aaeee0---4",
+          "author": "uxplanet.org",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "For decades, we interacted with computers through graphical interfaces: buttons, menus, forms, and screens. This paradigm of interaction worked perfectly fine since the early 90s till the modern day.W...",
+          "published_at": "2026-06-03T13:56:07"
+        },
+        {
+          "title": "Codex for Creating Diagrams",
+          "url": "https://uxplanet.org/codex-for-creating-diagram-8db199a622ff?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Codex is an AI assistant created by OpenAI that helps with coding, research, and productivity tasks. It’s also possible to use this tool…Continue reading on UX Planet »",
+          "published_at": "2026-06-03T11:51:12"
         },
         {
           "title": "Complex Animated Effects Design in Claude Code",
@@ -205,6 +224,42 @@
       "count": 11,
       "items": [
         {
+          "title": "This New Restaurant in Arizona Takes its Cues From Italian Modernism",
+          "url": "https://design-milk.com/this-new-restaurant-in-arizona-takes-its-cues-from-italian-modernism/",
+          "author": "Anna Zappia",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Designed by MMaison Interiors, il Bracco brings Italian flair to Arizona, with diverse materials from cork to travertine.",
+          "published_at": "2026-06-03T16:00:15"
+        },
+        {
+          "title": "A Quieter Stay, 1 Hotel Copenhagen Actually Embodies the Hygge Mindset",
+          "url": "https://design-milk.com/a-quieter-stay-1-hotel-copenhagen-actually-embodies-the-hygge-mindset/",
+          "author": "Adrian Madlener",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Prolific local firm Norm Architects imbued the new accommodation as a careful coherence of nature, tactility, and considered human facilitation.",
+          "published_at": "2026-06-03T15:00:02"
+        },
+        {
+          "title": "Design Milk Hosts Dialogues on Biophilia, Craft, and Neurodiversity",
+          "url": "https://design-milk.com/design-dialogues-on-biophilia-craft-neurodiversity/",
+          "author": "Avinash Rajagopal",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "The Design Dialogues at Clerkenwell Design Week 2026 surfaced a wide range of cutting-edge design ideas and approaches.",
+          "published_at": "2026-06-03T14:00:25"
+        },
+        {
+          "title": "This Zoomorphic Device Lulls Infants With Soft Light and Soothing Sound",
+          "url": "https://design-milk.com/this-zoomorphic-device-lulls-infants-with-soft-light-and-soothing-sound/",
+          "author": "Adrian Madlener",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Designed by Tej Chauhan for Motorola Nursery, the fresh format S1 Soother harnesses the power of joy and neotenic form to become a more effective nightlight.",
+          "published_at": "2026-06-03T13:00:43"
+        },
+        {
           "title": "Studio Modijefsky Crafts a Dutch Home in Two Parts",
           "url": "https://design-milk.com/studio-modijefsky-crafts-a-dutch-home-in-two-parts/",
           "author": "Elizabeth Pagliacolo",
@@ -223,92 +278,65 @@
           "published_at": "2026-06-02T15:00:45"
         },
         {
-          "title": "Coronette by Sara Schoenberger Animates Static Space",
-          "url": "https://design-milk.com/coronette-by-sara-schoenberger-animates-static-space/",
-          "author": "Aria Lee",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Fluttering ribbons of brass stay frozen in time in Coronette by Sara Schoenberger, soft globes adorning the ceiling-mounted collection.",
-          "published_at": "2026-06-02T13:00:20"
-        },
-        {
-          "title": "Building Block Etc. Marks a Recalibration With Objects That Earn Their Place",
-          "url": "https://design-milk.com/building-block-etc-marks-a-recalibration-with-objects-that-earn-their-place/",
-          "author": "TJ Girard",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "With BUILDING BLOCK ETC., sisters Kimberly and Nancy Wu recalibrate their design language through entertaining objects, curated materials, and a retail experience rooted in touch.",
-          "published_at": "2026-06-01T18:00:38"
-        },
-        {
-          "title": "This Yellow and Black Turntable Is All About Praising Eternal Vinyl Culture",
-          "url": "https://design-milk.com/this-yellow-and-black-turntable-is-all-about-praising-eternal-vinyl-culture/",
-          "author": "Adrian Madlener",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Jack White’s Third Man Records and Victrola team up on a special edition vinyl mixing set-up comprising a turntable and speakers.",
-          "published_at": "2026-06-01T15:00:48"
-        },
-        {
-          "title": "Hardman Design Introduces a Dog-Sized Version of its Popular LÜNA Bed",
-          "url": "https://design-milk.com/hardman-design-introduces-a-dog-sized-version-of-its-popular-luna-bed/",
-          "author": "Anna Zappia",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Hardman Design’s new version of the original LÜNA brings the same sophisticated style to this bed for beloved pups.",
-          "published_at": "2026-06-01T13:00:51"
-        },
-        {
-          "title": "AI互联网日报：OpenAI把Codex推向白领办公/美团 CEO 王兴称补贴拉动不可持续/抖音打击黑灰产抓获162人",
-          "url": "https://www.woshipm.com/ai/6407171.html",
-          "author": "AI星球",
+          "title": "从”优惠”到”不想换平台”，滴滴会员做了什么？",
+          "url": "https://www.woshipm.com/share/6407487.html",
+          "author": "Aine",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "5百万周活，97.5%的降价，48亿单交易，这三个数字把今天的主线说清了：AI不再只在模型榜单上竞争，而是在办公、微信入口、社区医疗和平台治理里抢位置。OpenAI和腾讯云在压成本，滴滴与抖音在修规则，Amazon把会员消费继续做厚。我更在意的是，入口越贴近日常，技术就越要拿结果和责任说话。一起来看看这两天发生的AI和互联网赛道的大事件吧！AI赛道观察1. OpenAI 将 Codex 推向白领办...",
-          "published_at": "2026-06-03T03:58:35"
+          "summary": "在网约车市场日趋同质化的今天，会员体系正在成为平台争夺用户忠诚度的新战场。滴滴会员最新升级不仅拓展了代驾、顺风车等业务场景，更通过成长值体系与12个月定级周期，将单次出行转化为长期价值积累。本文深度拆解这套会员体系如何通过场景覆盖、服务保障与身份认同，重塑用户与平台的深层连接。一、当 App 叫车成为日常，我们选择平台时在看什么？叫车出行已经不知不觉成为我们的日常习惯。无论是早高峰去公司、赶机场高...",
+          "published_at": "2026-06-03T11:07:44"
         },
         {
-          "title": "AI落地工程的三次进化：Prompt→Context→Agent",
-          "url": "https://www.woshipm.com/share/6407156.html",
-          "author": "瑞叔",
+          "title": "14倍增长背后：量贩零食正在发起一场「农村包围城市」的渠道变革",
+          "url": "https://www.woshipm.com/it/6407299.html",
+          "author": "沙水",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从Prompt到Context再到Agent，AI工程正经历三次范式跃迁。本文通过合同提取、催缴推荐和员工助手三个实战案例，揭示每次跃迁如何解决上一阶段的遗留问题。当行业焦点从措辞优化转向上下文架构，再到系统控制，模型能力与工程范式的螺旋上升正在重塑AI开发生态。2024 年，有个朋友找我说：帮我把合同里的关键字段自动提取出来吧。几百份 PDF，要抽签约方、金额、起止日期、服务条款等。做法很直接—...",
-          "published_at": "2026-06-03T03:45:57"
+          "summary": "量贩零食赛道正在上演一场颠覆性的渠道革命。鸣鸣很忙以900亿港元市值登陆港交所，背后是14倍增长的市场规模与19000家门店的扩张奇迹。本文深度拆解了这个行业的三大手术刀：去品牌化的供应链重构、高密度的线下覆盖策略、轻资产加盟模式的闪电扩张，揭示了低价表象下的商业本质与效率革命。2026年1月28日，鸣鸣很忙在港交所挂牌上市，市值突破900亿港元，成为”港股量贩零食第一股”。这个新闻让很多人愣了一...",
+          "published_at": "2026-06-03T09:16:08"
         },
         {
-          "title": "腾讯的底牌，从来不是大模型",
-          "url": "https://www.woshipm.com/it/6406963.html",
-          "author": "晓枫说",
+          "title": "用户增长的一些拉新玩法",
+          "url": "https://www.woshipm.com/share/6407322.html",
+          "author": "刘志兴",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "腾讯AI的沉默终于被打破，微信内嵌AI Agent的曝光揭示了其背后深藏的行业博弈。不同于字节、阿里的快速试错，微信作为国民级应用背负着14亿用户的信任与生态平衡的双重压力。这次突破性的尝试，或将彻底改写国内AI赛道的竞争格局，但随之而来的算力瓶颈、生态适配与合规挑战，才是真正考验腾讯战略定力的开始。外界恐怕一直都看错了腾讯的AI：它不是慢，是不敢。昨天某时报的独家爆料，彻底搅动了国内AI赛道的格...",
-          "published_at": "2026-06-03T02:02:52"
+          "summary": "用户运营的核心在于精准洞察需求而非盲目拉新。本文深度拆解'找对渠道+低成本测试+持续优化'的增长方法论，揭示如何通过策略性渠道选择与迭代优化，实现用户增长的效率最大化。用户运营是运营工作中的重要环节之一，要有足够的耐心和细心整理用户资料和信息，产品的核心应该是解决用户的问题，了解用户需求是用户运营最重要的一个点，知道用户要什么，然后更好的为用户服务。关于用户的拉新和增长来做一下拆解！一、用户拉新的...",
+          "published_at": "2026-06-03T09:13:54"
         },
         {
-          "title": "小红书流量不是玄学，真正要看懂的是这8个底层机制",
-          "url": "https://www.woshipm.com/share/6406921.html",
-          "author": "林卿LinQ.",
+          "title": "AI最大的陷阱是替你思考，而你最需要的是手脚",
+          "url": "https://www.woshipm.com/share/6407311.html",
+          "author": "小僧鲲鲲",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "小红书流量的秘密远不止标题和封面优化。平台正通过AI技术体系重构内容匹配逻辑，从社区、广告到电商三张牌桌同步发力。本文深度解析小红书如何用多模态识别、向量检索和实时实验等技术，重新定义内容价值与流量分配规则，帮助品牌跳出玄学陷阱。最近这两年，很多做小红书的品牌商家都会经历一种很强的无力感：明明封面改了，标题也改了，关键词也埋了，发布时间也测试了，甚至连评论区互动都做了，但流量还是忽高忽低。于是大家...",
-          "published_at": "2026-06-03T02:00:00"
+          "summary": "当75%的职场人仍困在‘AI无用论’的迷思中，Skills正在重塑AI时代的核心竞争力。最新行业报告揭示：纯人类创作内容流量是AI生成内容的5.44倍，而真正拉开差距的是将AI转化为‘能力放大器’的Skills体系。本文深度拆解Skills如何完成从提示词工程到生产级能力单元的进化，为营销人提供8步封装方法论。当你还在把AI当做玩具或者拼命用提示词调教AI的时候，大概率没有意识到，skills正在...",
+          "published_at": "2026-06-03T08:58:09"
         },
         {
-          "title": "硬件PM：没有实权，怎么让别人听你的？",
-          "url": "https://www.woshipm.com/share/6406917.html",
-          "author": "产品人老吴",
+          "title": "中转站爆火背后，钱流向了谁？",
+          "url": "https://www.woshipm.com/share/6407310.html",
+          "author": "刚哥",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "硬件产品经理的困境与破局之道：面对研发、采购、品质三座大山，他们如何在KPI冲突中寻找共同利益点？本文揭秘从‘被踢皮球’到成为‘项目推手’的三大核心策略，教你用数据权代替审批权，用利益翻译代替无效沟通，在结构性困境中杀出血路。硬件PM可能是公司里最拧巴的一个岗位。产品按时上市，是研发、采购、品质的功劳；产品出了问题，是你的问题，PM没把好关。你背着全部责任，却管不了研发的排期、采购的预算、品质的标...",
-          "published_at": "2026-06-03T01:53:50"
+          "summary": "AI 中转站正从地下灰产跃升为巨头角力的新基建战场。孙宇晨的 B.AI 以百亿 Token 补贴收割流量，傅盛则用合规化改造瞄准企业市场。这场狂欢背后，是 1400 倍暴增的模型调用需求与云厂商库存压力的双重驱动。本文深度拆解中转站如何从草根套利工具，蜕变为连接全球算力与支付网络的关键节点。这个五月 AI 圈子最大的热点不是又发布了什么大模型，而是顶级大佬们不约而同的开始推广“AI中转站”。孙宇晨...",
+          "published_at": "2026-06-03T08:38:38"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 7,
+      "count": 15,
       "items": [
+        {
+          "title": "How To Make Your Design System AI-Ready",
+          "url": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "Practical guide on how to reduce drifts, minimize mistakes, maintain context, and improve the quality of AI-generated prototypes. Brought to you byDesign Patterns For AI Interfaces, **friendly video c...",
+          "published_at": "2026-06-03T13:00:00"
+        },
         {
           "title": "June Is For Exploring (2026 Wallpapers Edition)",
           "url": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
@@ -371,39 +399,138 @@
           "source": "A List Apart",
           "summary": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things t...",
           "published_at": null
+        },
+        {
+          "title": "Truck’N Roll®",
+          "url": "https://www.awwwards.com/sites/truckn-roll-r",
+          "author": "Locomotive",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "REF Digital",
+          "url": "https://www.awwwards.com/sites/ref-digital",
+          "author": "REF Digital",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Hashgraph Ventures",
+          "url": "https://www.awwwards.com/sites/hashgraph-ventures",
+          "author": "Glenn Catteeuw",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Vaulk",
+          "url": "https://www.awwwards.com/sites/vaulk",
+          "author": "LEOLEO",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "ZettaJoule",
+          "url": "https://www.awwwards.com/sites/zettajoule",
+          "author": "Zypsy",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Sowieso Wero",
+          "url": "https://www.awwwards.com/sites/sowieso-wero",
+          "author": "51North",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Cdiscount - Jumping Max",
+          "url": "https://www.awwwards.com/sites/cdiscount-jumping-max",
+          "author": "Merci Michel",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 7,
       "items": [
         {
-          "title": "GlowPulse",
-          "url": "https://www.producthunt.com/products/glowpulse",
-          "author": "Vladislav Zhuzha",
+          "title": "Replicas",
+          "url": "https://www.producthunt.com/products/replicas",
+          "author": "Connor Loi",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your Mac's camera is now a heart-rate sensorDiscussion|Link",
-          "published_at": "2026-05-31T11:48:31"
+          "summary": "Run Claude Code and Codex in the cloudDiscussion|Link",
+          "published_at": "2026-06-03T02:10:40"
         },
         {
-          "title": "Branda",
-          "url": "https://www.producthunt.com/products/branda",
-          "author": "Eddie Lobanovskiy",
+          "title": "Uselink",
+          "url": "https://www.producthunt.com/products/uselink",
+          "author": "Ben Lang",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A fun new way to create & manage brands.Discussion|Link",
-          "published_at": "2026-06-02T02:29:12"
+          "summary": "host your html, share the link, and get commentsDiscussion|Link",
+          "published_at": "2026-06-01T10:35:49"
         },
         {
-          "title": "RingDisk",
-          "url": "https://www.producthunt.com/products/ringdisk",
-          "author": "Zhanna Jussipova",
+          "title": "Carbone Skill for AI",
+          "url": "https://www.producthunt.com/products/carbone",
+          "author": "Steeve",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Brighten your video calls with different toned ring lightsDiscussion|Link",
-          "published_at": "2026-06-01T08:20:26"
+          "summary": "Teach your AI to build document templatesDiscussion|Link",
+          "published_at": "2026-06-02T09:39:46"
+        },
+        {
+          "title": "Dropstone 1.5",
+          "url": "https://www.producthunt.com/products/dropstone-2",
+          "author": "Santosh Arron",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "2× Claude Code Pro's usage at $15/moDiscussion|Link",
+          "published_at": "2026-06-03T03:59:22"
+        },
+        {
+          "title": "superlog",
+          "url": "https://www.producthunt.com/products/superlog",
+          "author": "Garry Tan",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Autonomous observability tool that finds & fixes bugsDiscussion|Link",
+          "published_at": "2026-06-01T23:39:18"
+        },
+        {
+          "title": "Composer",
+          "url": "https://www.producthunt.com/products/composer-3",
+          "author": "Jesse Litton",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Multiplayer markdown for you, your team, and your agents.Discussion|Link",
+          "published_at": "2026-06-03T06:41:12"
+        },
+        {
+          "title": "Dispatch",
+          "url": "https://www.producthunt.com/products/dispatch-cae30304-5c83-4bd1-acc5-d5a9630193f1",
+          "author": "Michael Frankland",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Your app launch hub with ASO audit, keywords, and adsDiscussion|Link",
+          "published_at": "2026-05-31T05:36:31"
         }
       ]
     },
@@ -472,56 +599,83 @@
       "count": 5,
       "items": [
         {
-          "title": "AI job grief",
-          "url": "https://jackmaguire.org/blog/ai-job-grief/",
+          "title": "Two LLM UI patterns that aren’t chat",
+          "url": "https://poyo.co/note/20260525T094605/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "AI-driven displacement is producing an emotional category that most closely resembles grief, and the institutions causing it have no language for it.",
-          "published_at": "2026-06-02T07:54:34"
+          "summary": "Structures that manage context and data retrieval more effectively for complex, non-linear tasks.",
+          "published_at": "2026-06-03T07:52:14"
         },
         {
-          "title": "Toothcomb",
-          "url": "https://toothcomb.codebox.net/#c4cbe6a9-2856-4167-9b41-ec2d0e9f1c65",
+          "title": "heerich.js",
+          "url": "https://meodai.github.io/heerich/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "An AI-powered tool designed for analyzing and fact-checking live speech or text in real-time.",
-          "published_at": "2026-06-02T07:53:41"
+          "summary": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies.",
+          "published_at": "2026-06-03T07:49:48"
         },
         {
-          "title": "What Apple and Google are doing to your push notifications",
-          "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+          "title": "Motion vocabulary",
+          "url": "https://animations.dev/vocabulary",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Over the last five years the on-device model began summarizing, reordering and, on some surfaces, rewriting it.",
-          "published_at": "2026-06-02T07:52:31"
+          "summary": "A glossary of common animation patterns, so you know what to ask for.",
+          "published_at": "2026-06-03T07:48:47"
         },
         {
-          "title": "WikiCommute",
-          "url": "https://wikicommute.vercel.app/",
+          "title": "On frictionmaxxing and the creative virtues of inconvenience",
+          "url": "https://www.itsnicethat.com/articles/pov-friction-breeds-creativity-creative-industry-260526",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Enter your available minutes and get a curated Wikipedia reading path that fits your commute.",
-          "published_at": "2026-06-02T07:51:03"
+          "summary": "In a culture obsessed with seamlessness and instant fulfilment, inconvenience is starting to feel strangely radical again.",
+          "published_at": "2026-06-03T07:48:08"
         },
         {
-          "title": "Rethinking engineering productivity in the age of AI agents",
-          "url": "https://dropbox.tech/culture/beyond-code-generation-rethinking-engineering-productivity-in-the-age-of-ai-agents",
+          "title": "Self-fulfilling projects",
+          "url": "https://www.davesresearch.com/self-fulfilling-projects/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How Dropbox is moving towards agentic systems that can execute scoped tasks, and how we’re building platforms to support those workflows.",
-          "published_at": "2026-06-02T07:50:23"
+          "summary": "The projects that defy clarity and specificity.",
+          "published_at": "2026-06-03T07:47:06"
         }
       ]
     },
     {
       "category": "前端设计",
-      "count": 2,
+      "count": 5,
       "items": [
+        {
+          "title": "offset-path",
+          "url": "https://css-tricks.com/almanac/properties/o/offset-path/",
+          "author": "Geoff Graham",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "Theoffset-pathproperty in CSS defines a movement path for an element to follow during animation.This property began life asmotion-path. This, and all other relatedmotion-*properties, are being renamed...",
+          "published_at": "2026-06-03T15:02:38"
+        },
+        {
+          "title": "@custom-media",
+          "url": "https://css-tricks.com/almanac/rules/c/custom-media/",
+          "author": "Declan Chidlow",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "The CSS@custom-mediaat-rule allows creating aliases for media queries.@custom-mediaoriginally handwritten and published with love onCSS-Tricks. You should reallyget the newsletteras well.",
+          "published_at": "2026-06-03T13:03:21"
+        },
+        {
+          "title": "@function",
+          "url": "https://css-tricks.com/almanac/rules/f/function/",
+          "author": "Declan Chidlow",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "The@functionat-rule defines CSS custom functions. These custom functions are reusable blocks of CSS that can accept arguments, contain complex logic, and return values based on that logic.@functionori...",
+          "published_at": "2026-06-03T13:02:39"
+        },
         {
           "title": "::search-text",
           "url": "https://css-tricks.com/almanac/pseudo-selectors/s/search-text/",
@@ -546,6 +700,24 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "小车车里的大世界：车模收藏入坑指南",
+          "url": "https://sspai.com/post/110114",
+          "author": "别惹小炸毛",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "从小时候第一台保时捷卡宴车模，到工作后重新入坑小米 SU7，本文的作者把自己这些年收藏车模的经验整理成了一篇新手指南。文章从 1:18、1:43、1:64 等常见的车模比例谈起，涵盖了品牌选择、购买渠道、创意玩法等，很适合新手入坑。车模不只是玩具，也是一种能放在桌面上的汽车梦。查看全文",
+          "published_at": "2026-06-03T09:00:00"
+        },
+        {
+          "title": "让原生体验「接地气」：Pixel Text 与「原点系列」工具集",
+          "url": "https://sspai.com/post/110458",
+          "author": "Mystery0",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "「原点系列」希望能在那些真正影响使用的地方做一些细致的修补，这个名字也代表着我对工具应用的一点执念。一个工具最好有清楚的边界，知道自己要解决什么，也知道自己不应该做什么。查看全文",
+          "published_at": "2026-06-03T07:00:00"
+        },
         {
           "title": "App+1 | 零基础 3 分钟在线搞定产品演示视频：Mockup Studio",
           "url": "https://sspai.com/post/110059",
@@ -581,24 +753,6 @@
           "source": "少数派",
           "summary": "HDR 为静态图像的观看体验打开了一种新的可能。查看全文",
           "published_at": "2026-06-02T06:57:26"
-        },
-        {
-          "title": "从插件到 AI 辅助：Obsidian 如何成为我的主力工具",
-          "url": "https://sspai.com/post/109850",
-          "author": "Lars漫步",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "我觉得二十一世纪的知识管理工作者，不使用 Obsidian 真的是错过一个亿，真正怎么样还得上手体验了才知道。当我自己慢慢花时间沉浸式使用的时候，明显感觉现在的 Obsidian 真的好用了一倍不止。查看全文",
-          "published_at": "2026-06-02T03:00:00"
-        },
-        {
-          "title": "派早报：英伟达、华硕等多个厂商在 COMPUTEX 2026 发布新品",
-          "url": "https://sspai.com/post/110592",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "少数派的近期动态少数派×飞傲多功能便携CD音箱一体机BEATBOX预售开启。火速入手可爱又好玩的经典萌物——监工水獭挂件复刻啦！会员点数也可兑换！给獭一个家首款MBTI定制墨水屏「口袋先知」预售进行中 ...查看全文",
-          "published_at": "2026-06-02T00:03:23"
         }
       ]
     }
