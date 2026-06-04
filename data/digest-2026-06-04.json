@@ -1,26 +1,25 @@
 {
   "date": "2026-06-04T00:00:00",
-  "total_items": 72,
+  "total_items": 69,
   "sources": [
-    "Product Hunt",
-    "CSS-Tricks",
-    "UX Design CC",
-    "少数派",
-    "Smashing Magazine",
-    "优设网",
-    "人人都是产品经理",
-    "A List Apart",
+    "Sidebar",
     "NN/g (Nielsen Norman Group)",
+    "UX Design CC",
     "Design Milk",
-    "Awwwards",
+    "CSS-Tricks",
+    "人人都是产品经理",
+    "少数派",
     "UX Planet",
-    "Sidebar"
+    "Smashing Magazine",
+    "A List Apart",
+    "Product Hunt",
+    "优设网"
   ],
-  "generated_at": "2026-06-04T04:24:26.089510",
+  "generated_at": "2026-06-04T15:24:00.674936",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 15,
+      "count": 16,
       "items": [
         {
           "title": "AI-created document fatigue: how I designed my way out of it",
@@ -102,6 +101,15 @@
           "source": "UX Design CC",
           "summary": "Your website just got ghosted by an AI agent and why accessibility is your new best friend.Continue reading on UX Collective »",
           "published_at": "2026-06-01T08:10:07"
+        },
+        {
+          "title": "Creating AI-Ready Design System: Checklist",
+          "url": "https://uxplanet.org/creating-ai-ready-design-system-checklist-547a0256ad87?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "A 4-step process that will streamline your design process when you have a design system in placeContinue reading on UX Planet »",
+          "published_at": "2026-06-04T13:38:40"
         },
         {
           "title": "Ultimate Claude Code Setup for Product Designers",
@@ -224,6 +232,15 @@
       "count": 11,
       "items": [
         {
+          "title": "The Craft of Kawai Kanjira: Locating Truth and Beauty in Japanese Folk Pottery",
+          "url": "https://design-milk.com/the-craft-of-kawai-kanjira-locating-truth-and-beauty-in-japanese-folk-pottery/",
+          "author": "Jaxson Stone",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "On the 100th anniversary of the Japanese mingei movement, New York’s Japan Society puts on the first U.S. retrospective of the influential folk potter.",
+          "published_at": "2026-06-04T13:00:32"
+        },
+        {
           "title": "This New Restaurant in Arizona Takes its Cues From Italian Modernism",
           "url": "https://design-milk.com/this-new-restaurant-in-arizona-takes-its-cues-from-italian-modernism/",
           "author": "Anna Zappia",
@@ -269,64 +286,55 @@
           "published_at": "2026-06-02T17:00:45"
         },
         {
-          "title": "These Case-Piece Furnishings are Cleverly Embellished in Ceramic Tile",
-          "url": "https://design-milk.com/these-case-piece-furnishings-are-cleverly-embellished-in-ceramic-tile/",
-          "author": "Adrian Madlener",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "During NYCxDesign, local furniture brand Maiden Home debuted Eva, its second limited run craft-led commission collection.",
-          "published_at": "2026-06-02T15:00:45"
-        },
-        {
-          "title": "To B公司搞1人市场部，是老板“着急了”，还是确有可能？",
-          "url": "https://www.woshipm.com/share/6407290.html",
-          "author": "张张包",
+          "title": "从需求到成品：一个 AI 产品经理的面试训练工具诞生记",
+          "url": "https://www.woshipm.com/ai/6407180.html",
+          "author": "Ten",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI工具的崛起让'一人市场部'的概念在To B领域重新被热议，但真实情况究竟如何？本文基于十年B端市场实战经验，深度拆解To B市场部的五大核心模块工作量，结合AI在各环节的替代指数，给出不同发展阶段企业的配置建议。从初创期的0.5人配置到成熟期的完整团队搭建，揭示To B市场部人力配置的底层逻辑与AI赋能的真实边界。To B公司搞市场部，老板的第一句话往往是：”先一个人试试？”这句话背后有两层意...",
-          "published_at": "2026-06-04T03:52:05"
+          "summary": "求职过程中发现市面上的面试辅导工具不够\"懂自己\"，于是用 DeepSeek API + React 做了一个 AI 面试训练工具。这篇文章记录从挖掘需求到交付成品的完整产品思考过程。一、AI PM 求职者的共性痛点今年 AI 产品经理岗位集中爆发，但供需两端的错配也很明显。我在这轮求职中访谈了十几位同行，加上自己的面试经历，提炼出四个被反复提及的痛点：这些痛点不是某个人的问题，而是AI PM 这个...",
+          "published_at": "2026-06-04T08:40:14"
         },
         {
-          "title": "从“回答”到“完成”：一个 Agent 系统的工程手记",
-          "url": "https://www.woshipm.com/ai/6407666.html",
-          "author": "瑞叔",
+          "title": "流程都没梳理好，上个毛线ERP",
+          "url": "https://www.woshipm.com/pd/6407914.html",
+          "author": "业财老曾",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI Agent从'听懂问题'到'办成事'之间，隐藏着工程系统的致命鸿沟。本文以员工智能助手为例，深度拆解权限校验、API调用、数据转换等真实场景中的系统级难题，揭示如何通过三层兜底策略和结构化模板，让AI服务从'回答正确'升级为'可靠交付'。年初我做员工智能助手的时候，遇到了一个特别扎心的事。模型明明答对了问题，但事没办成。场景是这样的：员工问”帮我查一下上个月的任务执行情况”。模型理解得很准...",
-          "published_at": "2026-06-04T03:42:58"
+          "summary": "当ERP实施频频遇挫时，企业常陷入'先流程还是先系统'的困境。本文从制造业典型案例切入，揭示ERP与流程咨询的本质关联：真正的症结在于实施过程中流程梳理的缺位与资源投入不足。通过拆解订单交付、采购付款等核心链路，直击中小企业信息化建设中'重功能轻流程'的致命误区。最近看到果总George一篇很有代表性的观点：“中小型企业不要做啥流程咨询，先把ERP搞好。”@果总George作为ERP老兵及流程、管...",
+          "published_at": "2026-06-04T08:25:59"
         },
         {
-          "title": "AI互联网日报：ChatGPT接入Uber；亚马逊用AI商品图重做购物搜索；京东618把AI铺进3000个场景",
-          "url": "https://www.woshipm.com/ai/6407675.html",
-          "author": "AI星球",
+          "title": "我们究竟需要AI外脑还是AI大脑",
+          "url": "https://www.woshipm.com/it/6407911.html",
+          "author": "产品老高",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "如果一个聊天框能替你点餐、叫车、挑商品，还能顺手影响商家的成交节奏，它还只是工具吗？我会先盯住这条线：ChatGPT 接上 DoorDash 和 Uber，DeepSeek 补资本弹药，Meta 把 Agent 塞进商家消息流，京东用 618 压测 AI 和履约。入口更近，规则更硬，AI 正从“能聊”走向“能办事”。一起来看看这两天发生的AI和互联网赛道的大事件吧！AI赛道观察1. OpenAI ...",
-          "published_at": "2026-06-04T03:13:36"
+          "summary": "一个简单的字母 'g' 揭示了AI工具与系统的本质差异。当国产Agent机械执行指令时，Codex却选择追问用户意图，这背后是两种设计哲学的碰撞。本文作者通过亲身开发经历，犀利剖析了当前AI Agent的局限性——它们只是概率引擎而非思考者，并提出了构建'外脑'系统的解决方案，强调人类判断力在AI时代不可替代的核心价值。最近发生了一件小事，让我想了很多。事情的起因是这样的，我周末在用一个国产Age...",
+          "published_at": "2026-06-04T08:17:49"
         },
         {
-          "title": "陪伴式效率游戏开始向“多人模式”进化了？有的月销2万份，全球上亿人愿意为它买单",
-          "url": "https://www.woshipm.com/share/6407671.html",
-          "author": "扬帆出海",
+          "title": "流程架构的三种底层逻辑：OES、POS、PCF",
+          "url": "https://www.woshipm.com/share/6407883.html",
+          "author": "产品人卫朋",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当传统效率工具陷入自律困境，新一代陪伴式游戏正用情感共鸣重塑时间管理。《放松时光》以视频通话+文字冒险营造深度陪伴，《gogh》则用虚拟形象+多人自习室打开社交专注新场景。本文拆解两款标杆产品如何用游戏化设计破解‘孤独自律’难题，揭示小众赛道背后的爆发潜力。不知道你是不是曾经也有这样的时刻：无论是工作还是学习中，总告诉自己要自律、要专注，手机里装了好几个效率APP，壁纸也换成了励志语录，但就是会因...",
-          "published_at": "2026-06-04T03:06:22"
+          "summary": "企业流程架构的选择往往决定了管理体系的成败。PCF、OES、POS 三种主流方法论看似相似，实则暗藏截然不同的底层逻辑。本文深度解析这三种框架的本质差异与应用场景，揭示华为融合方案的实践智慧，帮助企业找到最适合自身发展阶段的流程架构之路。企业做流程管理，往往第一步就会卡在架构层面上。怎么给公司的业务流程分类？按什么逻辑分层？用哪套方法论？PCF（APQC流程分类框架）、OES（运营-使能-支撑）、...",
+          "published_at": "2026-06-04T08:02:46"
         },
         {
-          "title": "千问向第三方Agent、Skill全面开放",
-          "url": "https://www.woshipm.com/ai/6407653.html",
-          "author": "见实",
+          "title": "黄仁勋这一刀老深了",
+          "url": "https://www.woshipm.com/ai/6407809.html",
+          "author": "王智远",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "千问向第三方全面开放Agent运营权限，彻底重构品牌服务入口逻辑！从瑞幸咖啡到东方航空，企业首次能在AI平台构建具有人格化服务的品牌智能体。这不仅是客服升级，更是让每个品牌都拥有理解用户偏好、主动提供服务的数字化分身。高频消费场景正成为首批试验田，自然语言交互将如何重塑用户决策路径？千问今日宣布，将向第三方Agent、Skill全面开放，所有企业均可在千问中运营自己的品牌Agent。据悉，企业可以...",
-          "published_at": "2026-06-04T02:40:58"
+          "summary": "Wintel联盟正面临40年来最严峻的挑战。继苹果M1和高通骁龙X Elite之后，英伟达与微软联手推出的RTX Spark超级芯片彻底改写了PC底层架构。这款整合Grace CPU与Blackwell GPU的3nm芯片，不仅带来1 petaflop FP4的惊人算力，更通过统一内存架构实现了AI计算的革新。本文深度解析这场由芯片、操作系统与生态共同驱动的产业变局。有朋友问我，怎么看英伟达和微软...",
+          "published_at": "2026-06-04T07:24:26"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 15,
+      "count": 7,
       "items": [
         {
           "title": "How To Make Your Design System AI-Ready",
@@ -390,111 +398,75 @@
           "source": "A List Apart",
           "summary": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things t...",
           "published_at": null
-        },
-        {
-          "title": "Steven.com",
-          "url": "https://www.awwwards.com/sites/steven-com",
-          "author": "OFF+BRAND.",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Truck’N Roll®",
-          "url": "https://www.awwwards.com/sites/truckn-roll-r",
-          "author": "Locomotive",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "REF Digital",
-          "url": "https://www.awwwards.com/sites/ref-digital",
-          "author": "REF Digital",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Hashgraph Ventures",
-          "url": "https://www.awwwards.com/sites/hashgraph-ventures",
-          "author": "Glenn Catteeuw",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Vaulk",
-          "url": "https://www.awwwards.com/sites/vaulk",
-          "author": "LEOLEO",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "ZettaJoule",
-          "url": "https://www.awwwards.com/sites/zettajoule",
-          "author": "Zypsy",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Sowieso Wero",
-          "url": "https://www.awwwards.com/sites/sowieso-wero",
-          "author": "51North",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Cdiscount - Jumping Max",
-          "url": "https://www.awwwards.com/sites/cdiscount-jumping-max",
-          "author": "Merci Michel",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 7,
       "items": [
         {
-          "title": "Replicas",
-          "url": "https://www.producthunt.com/products/replicas",
-          "author": "Garry Tan",
+          "title": "Split Ninja",
+          "url": "https://www.producthunt.com/products/split-ninja",
+          "author": "Rino Wu",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Run Claude Code and Codex in the cloudDiscussion|Link",
-          "published_at": "2026-06-03T02:10:40"
+          "summary": "Cut, extract, mute, and split videos locallyDiscussion|Link",
+          "published_at": "2026-06-03T16:02:54"
         },
         {
-          "title": "Franz 6",
-          "url": "https://www.producthunt.com/products/franz-messenger",
-          "author": "Thomas Schranz ⛄️",
+          "title": "PlugTalk",
+          "url": "https://www.producthunt.com/products/plugtalk",
+          "author": "Thành Đạt Nguyễn",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "All your messaging apps in one window — with private AIDiscussion|Link",
-          "published_at": "2026-06-01T19:56:42"
+          "summary": "Your Mac talks back when you plug things inDiscussion|Link",
+          "published_at": "2026-06-03T14:05:03"
         },
         {
-          "title": "superlog",
-          "url": "https://www.producthunt.com/products/superlog",
-          "author": "Garry Tan",
+          "title": "Gather",
+          "url": "https://www.producthunt.com/products/gather-14",
+          "author": "Samuel Monteiro",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Make your product bug-freeDiscussion|Link",
-          "published_at": "2026-06-01T23:39:18"
+          "summary": "Save it once, never lose it againDiscussion|Link",
+          "published_at": "2026-06-01T18:42:16"
+        },
+        {
+          "title": "Carbon Voice Speed Dial",
+          "url": "https://www.producthunt.com/products/carbon-voice",
+          "author": "Chris Messina",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Get your whole team (humans and agents!) on speed dialDiscussion|Link",
+          "published_at": "2026-06-03T18:29:41"
+        },
+        {
+          "title": "Intelligent Terminal",
+          "url": "https://www.producthunt.com/products/microsoft-terminal",
+          "author": "Zac Zuo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Windows Terminal with native agent integrationDiscussion|Link",
+          "published_at": "2026-06-04T04:39:14"
+        },
+        {
+          "title": "Smart Runner",
+          "url": "https://www.producthunt.com/products/smart-runner",
+          "author": "Dor Tal",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Your training plan, rewritten after every runDiscussion|Link",
+          "published_at": "2026-06-03T19:38:03"
+        },
+        {
+          "title": "Audex Trace",
+          "url": "https://www.producthunt.com/products/audex-trace",
+          "author": "audex",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Trace what Apple Music is actually playingDiscussion|Link",
+          "published_at": "2026-06-03T07:12:46"
         }
       ]
     },
@@ -563,49 +535,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Two LLM UI patterns that aren’t chat",
-          "url": "https://poyo.co/note/20260525T094605/",
+          "title": "Designing how designers master AI",
+          "url": "https://uxdesign.cc/designing-how-designers-master-ai-642d8751d945",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Structures that manage context and data retrieval more effectively for complex, non-linear tasks.",
-          "published_at": "2026-06-03T07:52:14"
+          "summary": "Learning to bend it to how you already think—and how that kind of mastery is personal, divergent, and never finished.",
+          "published_at": "2026-06-04T07:48:13"
         },
         {
-          "title": "heerich.js",
-          "url": "https://meodai.github.io/heerich/",
+          "title": "Transitions.dev",
+          "url": "https://transitions.dev/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies.",
-          "published_at": "2026-06-03T07:49:48"
+          "summary": "Collection of the most essential transitions for web apps that you can just copy and paste into any project.",
+          "published_at": "2026-06-04T07:47:23"
         },
         {
-          "title": "Motion vocabulary",
-          "url": "https://animations.dev/vocabulary",
+          "title": "The speed of prototyping in the age of AI",
+          "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A glossary of common animation patterns, so you know what to ask for.",
-          "published_at": "2026-06-03T07:48:47"
+          "summary": "How AI has changed the way I prototype, plan, and ship; and what I’m doing to keep my hands dirty.",
+          "published_at": "2026-06-04T07:46:55"
         },
         {
-          "title": "On frictionmaxxing and the creative virtues of inconvenience",
-          "url": "https://www.itsnicethat.com/articles/pov-friction-breeds-creativity-creative-industry-260526",
+          "title": "Letterbox — Letters made of letters",
+          "url": "https://www.letterbox.sh/?text=Sidebar&font=Roboto+Mono&weight=700&style=italic&fill=13&cols=4&fc=upper&fm=lorem&bg=%23000000&fg=%23ededed",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "In a culture obsessed with seamlessness and instant fulfilment, inconvenience is starting to feel strangely radical again.",
-          "published_at": "2026-06-03T07:48:08"
+          "summary": "Letters shaped by text. Pick a font, choose your colors, and watch type come alive.",
+          "published_at": "2026-06-04T07:46:17"
         },
         {
-          "title": "Self-fulfilling projects",
-          "url": "https://www.davesresearch.com/self-fulfilling-projects/",
+          "title": "Building for voice In, visuals out",
+          "url": "https://allenpike.com/2026/voice-in-visuals-out/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The projects that defy clarity and specificity.",
-          "published_at": "2026-06-03T07:47:06"
+          "summary": "Flashes of brilliance, and the tyranny of latency.",
+          "published_at": "2026-06-04T07:45:45"
         }
       ]
     },
@@ -613,6 +585,15 @@
       "category": "前端设计",
       "count": 5,
       "items": [
+        {
+          "title": "Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!",
+          "url": "https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/",
+          "author": "Antoine Villepreux",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!ori...",
+          "published_at": "2026-06-04T13:14:49"
+        },
         {
           "title": "offset-path",
           "url": "https://css-tricks.com/almanac/properties/o/offset-path/",
@@ -648,15 +629,6 @@
           "source": "CSS-Tricks",
           "summary": "TheCSS ::search-textpseudo-element selects the matching text from your browser's \"find in page\" feature.::search-textoriginally handwritten and published with love onCSS-Tricks. You should reallyget t...",
           "published_at": "2026-06-02T12:59:21"
-        },
-        {
-          "title": "Astro Markdown Component Utility for Any Framework",
-          "url": "https://css-tricks.com/astro-markdown-component-utility-any-framework/",
-          "author": "Zell Liew",
-          "category": "前端设计",
-          "source": "CSS-Tricks",
-          "summary": "In the previous article, I spoke about thewhy and how to use a Markdown component in Astro.Here, we’re going to expand on that and help you use Markdown everywhere — regardless of the framework you us...",
-          "published_at": "2026-06-01T13:25:00"
         }
       ]
     },
@@ -664,6 +636,24 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "新玩意 243｜少数派的编辑们最近买了啥？",
+          "url": "https://sspai.com/post/110736",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
+          "published_at": "2026-06-04T11:15:27"
+        },
+        {
+          "title": "它不会是下一场新冠：简单了解汉坦病毒",
+          "url": "https://sspai.com/post/110717",
+          "author": "北鸮",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "人类研究了这么久流行病，虽说事故总难免，但还是有点本事在的，至少这回肯定控制得住。查看全文",
+          "published_at": "2026-06-04T07:00:00"
+        },
         {
           "title": "比 ZeroTier 更好的选择：EasyTier 去中心化异地组网全平台部署",
           "url": "https://sspai.com/post/110126",
@@ -699,24 +689,6 @@
           "source": "少数派",
           "summary": "「原点系列」希望能在那些真正影响使用的地方做一些细致的修补，这个名字也代表着我对工具应用的一点执念。一个工具最好有清楚的边界，知道自己要解决什么，也知道自己不应该做什么。查看全文",
           "published_at": "2026-06-03T07:00:00"
-        },
-        {
-          "title": "App+1 | 零基础 3 分钟在线搞定产品演示视频：Mockup Studio",
-          "url": "https://sspai.com/post/110059",
-          "author": "Akring",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "既不用安装客户端，也不用学习剪辑，Mockup Studio 帮你轻松制作产品演示视频。查看全文",
-          "published_at": "2026-06-03T03:19:02"
-        },
-        {
-          "title": "派早报：Apple 公布 2026 年 Apple 设计大奖得主等",
-          "url": "https://sspai.com/post/110658",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "微软 Build 2026 与索尼 6 月 State of Play 资讯汇总等。查看全文",
-          "published_at": "2026-06-03T00:12:45"
         }
       ]
     }
