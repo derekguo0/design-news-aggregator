@@ -1,27 +1,55 @@
 {
   "date": "2026-06-05T00:00:00",
-  "total_items": 66,
+  "total_items": 71,
   "sources": [
-    "Design Milk",
+    "Intercom Blog",
+    "优设网",
+    "UX Design CC",
+    "A List Apart",
+    "UX Planet",
+    "人人都是产品经理",
     "Smashing Magazine",
     "Sidebar",
-    "人人都是产品经理",
-    "A List Apart",
-    "Awwwards",
-    "UX Design CC",
-    "UX Planet",
     "CSS-Tricks",
-    "少数派",
     "NN/g (Nielsen Norman Group)",
     "Product Hunt",
-    "优设网"
+    "少数派",
+    "Awwwards",
+    "Design Milk"
   ],
-  "generated_at": "2026-06-05T04:07:53.693877",
+  "generated_at": "2026-06-05T15:12:31.755988",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 8,
+      "count": 12,
       "items": [
+        {
+          "title": "Design’s alive and kicking. It just got some flashy new names.",
+          "url": "https://uxdesign.cc/designs-alive-and-kicking-it-just-got-some-flashy-new-names-779b4503c869?source=rss----138adf9c44c---4",
+          "author": "Nicole Alexandra Michaelis",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Here’s which design roles are emerging in the age of AI.SourceThe tech community has been gripped by a collective anxiety. If you browse tech subreddits or check newsletters, the headlines paint a sta...",
+          "published_at": "2026-06-05T11:14:48"
+        },
+        {
+          "title": "Designing for care, not growth",
+          "url": "https://uxdesign.cc/designing-for-care-not-growth-274d460f968c?source=rss----138adf9c44c---4",
+          "author": "Dora Czerna",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "From healing fiction to smart feeders, the booming pet economy shows what design looks like when households shrink instead of grow.The modern companion of choice: self-contained, low-maintenance, and ...",
+          "published_at": "2026-06-05T11:14:28"
+        },
+        {
+          "title": "You’re not building a product. You’re running a project",
+          "url": "https://uxdesign.cc/youre-not-building-a-product-you-re-running-a-project-a8fdec68788c?source=rss----138adf9c44c---4",
+          "author": "Zeeshan Khalid",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "I said those words to a £30M bootstrapped CFO mid-interview.Continue reading on UX Collective »",
+          "published_at": "2026-06-05T07:39:19"
+        },
         {
           "title": "The rhetorical mask of innovation",
           "url": "https://uxdesign.cc/the-rhetorical-mask-of-innovation-12f3abcd6120?source=rss----138adf9c44c---4",
@@ -57,6 +85,15 @@
           "source": "UX Design CC",
           "summary": "People pull toward pre-selected options rather than actively choosing alternatives.When a choice arrives with one option already set, most people leave it in place, regardless of whether it reflects t...",
           "published_at": "2026-06-02T11:07:25"
+        },
+        {
+          "title": "Claude Code sucks at UI design",
+          "url": "https://uxplanet.org/claude-code-sucks-at-ui-design-6c83450e0090?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Here’s how to fix it in two simple stepsContinue reading on UX Planet »",
+          "published_at": "2026-06-05T14:11:17"
         },
         {
           "title": "Creating AI-Ready Design System: Checklist",
@@ -158,8 +195,17 @@
     },
     {
       "category": "产品设计",
-      "count": 11,
+      "count": 12,
       "items": [
+        {
+          "title": "Jasmin Reese on Her Cat, a Hercules Ring, the Driving Range + More",
+          "url": "https://design-milk.com/jasmin-reese-on-her-cat-a-hercules-ring-the-driving-range-more/",
+          "author": "Anna Zappia",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Known for her expressive use of color, interior designer Jasmin Reese shares her love of a Hercules ring, her cat, the driving range at night, and more.",
+          "published_at": "2026-06-05T14:00:16"
+        },
         {
           "title": "Japanese and Greek Influences Collide at Athen’s New Onuki Restaurant",
           "url": "https://design-milk.com/japanese-and-greek-influences-collide-at-athens-new-onuki-restaurant/",
@@ -179,7 +225,7 @@
           "published_at": "2026-06-04T16:00:21"
         },
         {
-          "title": "The Craft of Kawai Kanjira: Locating Truth and Beauty in Japanese Folk Pottery",
+          "title": "The Craft of Kawai Kanjiro: Locating Truth and Beauty in Japanese Folk Pottery",
           "url": "https://design-milk.com/the-craft-of-kawai-kanjira-locating-truth-and-beauty-in-japanese-folk-pottery/",
           "author": "Jaxson Stone",
           "category": "产品设计",
@@ -206,58 +252,58 @@
           "published_at": "2026-06-03T15:00:02"
         },
         {
-          "title": "Design Milk Hosts Dialogues on Biophilia, Craft, and Neurodiversity",
-          "url": "https://design-milk.com/design-dialogues-on-biophilia-craft-neurodiversity/",
-          "author": "Avinash Rajagopal",
+          "title": "Playing a different game",
+          "url": "https://www.intercom.com/blog/playing-a-different-game/",
+          "author": "Eoghan McCabe",
           "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "The Design Dialogues at Clerkenwell Design Week 2026 surfaced a wide range of cutting-edge design ideas and approaches.",
-          "published_at": "2026-06-03T14:00:25"
+          "source": "Intercom Blog",
+          "summary": "Announcing Fin Voice 2, a major upgrade to Fin Voice with over 20 new features, and our first product built on Apex Flash.",
+          "published_at": "2026-06-04T17:54:17"
         },
         {
-          "title": "AI 时代的新流量生意：帮商家出现在 AI 的推荐名单里",
-          "url": "https://www.woshipm.com/ai/6408330.html",
-          "author": "张艾拉",
+          "title": "中东用户为什么愿意在语音房送礼？答案不只是“土豪多”",
+          "url": "https://www.woshipm.com/operate/6408384.html",
+          "author": "我在做中东语音房",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当用户开始习惯向AI提问而非搜索关键词时，商家的流量逻辑正在经历一场静默革命。本文深度拆解AI搜索优化(GEO)的实战策略，从信息底座整理到问题型内容生产，揭示如何让品牌在AI答案中‘被看见’——这不仅关乎技术适配，更是对商业基本面的重构。前几天写了一篇2026 年，普通人能做的 6 个 AI 生意。里面提到一个方向是做 GEO，AI 搜索优化。这一篇就是对这个方向的具体延展和实操建议，也算是上面...",
-          "published_at": "2026-06-05T03:41:21"
+          "summary": "中东语音房的付费逻辑远非简单的‘土豪打赏’可以概括。当沙特大R进入房间时，真正决定他们是否持续消费的，是一套完整的身份确认体系——从主播互动、公屏反馈到关系沉淀。本文深度拆解Yalla、YoHo等成熟产品的运营密码，揭示为何有些房间能让用户月抛千万美元，而有些只能沦为一次性消费场景。做中东语音房，聊到付费时，很多人第一反应都是：中东有钱。海湾用户消费能力强。沙特容易出大 R。土耳其、伊拉克这些市场...",
+          "published_at": "2026-06-05T08:31:59"
         },
         {
-          "title": "AI互联网日报：Qwen接入瑞幸肯德基东航/美团与腾讯元宝互通/豆包打通抖音生活服务",
-          "url": "https://www.woshipm.com/ai/6408553.html",
-          "author": "AI星球",
+          "title": "领导力- 高阶产品人的核心必备能力",
+          "url": "https://www.woshipm.com/share/6408728.html",
+          "author": "万物复苏",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "饭点前刷新闻，最有意思的不是谁又发了一个炫技 demo，而是聊天框开始接单、算力账单继续变厚。Qwen 去连咖啡和航班，豆包、美团把本地服务往对话里塞；Anthropic、NVIDIA 则把安全和机器人训练拉到台前。我更在意的是这一点：AI 正从“会回答”变成“能调度”，互联网平台的下一轮竞争，会先发生在入口和履约之间。一起来看看这两天发生的AI和互联网赛道的大事件吧！AI赛道观察1. OpenA...",
-          "published_at": "2026-06-05T03:29:27"
+          "summary": "在当今复杂多变的商业环境中，产品经理的领导力已成为决定职业天花板的关键因素。从执行者到战略领导者，从个人贡献到团队赋能，真正的产品领导力体现在方向感、影响力、决策力、推动力和人才培养五大维度。本文将深度剖析产品经理领导力的核心要素与成长路径，揭示如何从'做事的人'蜕变为'成事的人'。众所周知，产品经理是产品开发的核心领导者，肩负统筹全局、协调资源、驱动跨部门协作的重任；真正的高阶产品人，其领导力不...",
+          "published_at": "2026-06-05T08:29:24"
         },
         {
-          "title": "DAU 的一生",
-          "url": "https://www.woshipm.com/data-analysis/6408288.html",
-          "author": "亨亨",
+          "title": "AI不是一项技术，而是一种生产关系",
+          "url": "https://www.woshipm.com/share/6408667.html",
+          "author": "噜噜猫",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从Facebook招股书里那组惊艳的DAU/MAU数据开始，这个指标如何从内部管理工具演变为互联网行业的通用语言？在AI时代算力成本与商业模式的双重冲击下，DAU指标正在经历怎样的价值重构？本文以编年史视角还原指标霸权的兴衰历程，揭示数字背后被压扁的行业真相。2012 年 5 月，Facebook 在纳斯达克上市。那是科技史上最受瞩目的 IPO 之一，公司估值 1040 亿美元，超越了当时任何一家...",
-          "published_at": "2026-06-05T03:04:09"
+          "summary": "当全行业聚焦AI的技术参数时，这场变革的本质正在被严重低估。本文穿透工具表象，揭示了AI作为新型生产关系正在重构企业权力结构、瓦解组织中间层、重塑协作逻辑的深层影响。从决策权集中化到组织扁平化，从执行自动化到协作关系设计，一场比技术迭代更彻底的组织革命正在发生。过去两年，我们讨论AI时，最常问的问题是：AI到底有多强？它会不会取代程序员？会不会取代设计师？会不会取代产品经理？会不会让企业少招人？但...",
+          "published_at": "2026-06-05T08:29:14"
         },
         {
-          "title": "面试题：AI产品经理如何进行大模型选型？",
-          "url": "https://www.woshipm.com/ai/6408296.html",
-          "author": "伍德安思壮",
+          "title": "基于设备占比数据：新鸿蒙应用优先选用 API23（6.1.0）开发",
+          "url": "https://www.woshipm.com/share/6408800.html",
+          "author": "nutpi",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "大模型选型绝非简单的性能对比赛，而是关乎产品成败的战略决策。从任务类型到成本控制，从工程化落地到风险规避，一套严谨的选型方法论正在成为AI产品经理的核心竞争力。本文深度拆解场景适配、模型对比、成本核算、部署验证四大关键维度，助你在面试和实战中做出精准判断。面试AI产品经理，10个面试官有9个会问这个问题：“如果让你给我们的产品选一个大模型，你会怎么做？”很多人一上来就说：“我会选GPT-5.4，因...",
-          "published_at": "2026-06-05T02:23:38"
+          "summary": "鸿蒙生态正迎来关键转折点！最新数据显示，HarmonyOS 6.1.0 (API23) 以97.55%的终端覆盖率成为开发黄金基线。本文从终端分布、API兼容性、市场审核三大维度，深度解析为何新项目必须锁定这一版本，以及如何实现老项目的平滑过渡。统计截止：2026 年 5 月 17 日｜数据更新周期：约 15 天一轮结合全量鸿蒙终端系统版本分布、官方机型升级规划，从用户覆盖、开发成本、长期维护三个...",
+          "published_at": "2026-06-05T08:05:17"
         },
         {
-          "title": "Anthropic一个人干翻整个市场部，To B公司能复制吗？怎么复制？",
-          "url": "https://www.woshipm.com/ai/6407796.html",
-          "author": "张张包",
+          "title": "如何玩转世界杯明星营销？微博实战五步拆解",
+          "url": "https://www.woshipm.com/share/6408548.html",
+          "author": "BoyoKa",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Anthropic的增长负责人用AI搭建了一个高效的市场部工作流，通过分工式Agent系统实现了单人市场部的运作。这一案例揭示了AI在To B市场工作中的潜力与局限，特别适合标准化程度高的内容生产。本文将深度拆解其底层逻辑，包括系统设计、记忆系统构建与角色转型，为To B公司提供可落地的AI应用路径。上篇文章我们拆解了一个结论：To B公司一人市场部是否可行，取决于三个变量——盘子有多大、目标有多...",
-          "published_at": "2026-06-05T02:07:45"
+          "summary": "明星代言营销绝不是简单拍支广告了事，如何让天价代言费真正转化为品牌资产？从世界杯期间瑞幸、可口可乐等品牌的实战案例出发，本文揭秘一套完整的五阶段方法论——从签约期的话题基因匹配，到官宣期的热搜引爆，再到话题破圈、粉丝沉淀和资产复用，教你打造真正闭环的明星营销全链路。签约明星代言人，是品牌营销中投入最大的决策之一。然而，大量品牌的现实是：签了代言人，拍一支TVC、发一条官宣微博，活动就此结束。代言费...",
+          "published_at": "2026-06-05T07:57:01"
         }
       ]
     },
@@ -407,40 +453,40 @@
       "count": 4,
       "items": [
         {
-          "title": "ChatPilot",
-          "url": "https://www.producthunt.com/products/chatpilot-2",
-          "author": "Yasin Muratogullari",
+          "title": "Minimi",
+          "url": "https://www.producthunt.com/products/shram",
+          "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Bulk delete, archive & timestamp your ChatGPT conversationsDiscussion|Link",
-          "published_at": "2026-06-03T20:47:05"
+          "summary": "Your ambient memory for ClaudeDiscussion|Link",
+          "published_at": "2026-06-04T08:29:10"
         },
         {
-          "title": "Intelligent Terminal",
-          "url": "https://www.producthunt.com/products/microsoft-terminal",
-          "author": "Zac Zuo",
+          "title": "Nemotron 3 Ultra by NVIDIA",
+          "url": "https://www.producthunt.com/products/nvidia",
+          "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Windows Terminal with native agent integrationDiscussion|Link",
-          "published_at": "2026-06-04T04:39:14"
+          "summary": "Powers faster, efficient reasoning for long-running agentsDiscussion|Link",
+          "published_at": "2026-06-04T20:02:11"
         },
         {
-          "title": "Boxes.dev",
-          "url": "https://www.producthunt.com/products/boxes-dev",
-          "author": "Nick Bushak",
+          "title": "Microsoft MAI-Voice-2",
+          "url": "https://www.producthunt.com/products/mai-image-2-3",
+          "author": "Habib Ferdous",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Run Claude Code and Codex in your own cloud environmentDiscussion|Link",
-          "published_at": "2026-06-04T01:25:01"
+          "summary": "Expressive TTS with voice cloning in 15 languagesDiscussion|Link",
+          "published_at": "2026-06-04T21:38:54"
         },
         {
-          "title": "Novus",
-          "url": "https://www.producthunt.com/products/novus-4",
-          "author": "Eric Boduch",
+          "title": "VisionSync",
+          "url": "https://www.producthunt.com/products/visionsync",
+          "author": "Taylor Korensky",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Catch and fix usability issues automatically as you shipDiscussion|Link",
-          "published_at": "2026-06-02T03:16:42"
+          "summary": "Where strategy execution meets the people doing the workDiscussion|Link",
+          "published_at": "2026-06-04T16:57:47"
         }
       ]
     },
@@ -509,49 +555,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Designing how designers master AI",
-          "url": "https://uxdesign.cc/designing-how-designers-master-ai-642d8751d945",
+          "title": "The parts of your system you never wrote down",
+          "url": "https://blog.murphytrueman.com/the-parts-of-your-system-you-never-wrote-down/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Learning to bend it to how you already think—and how that kind of mastery is personal, divergent, and never finished.",
-          "published_at": "2026-06-04T07:48:13"
+          "summary": "Reopening every decision you left implicit, and settling it without you.",
+          "published_at": "2026-06-05T07:46:20"
         },
         {
-          "title": "Transitions.dev",
-          "url": "https://transitions.dev/",
+          "title": "AI as social technology",
+          "url": "https://knightcolumbia.org/content/ai-as-social-technology",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Collection of the most essential transitions for web apps that you can just copy and paste into any project.",
-          "published_at": "2026-06-04T07:47:23"
+          "summary": "Artificial general intelligence does not hold out the promise of truly post-human bureaucracy.",
+          "published_at": "2026-06-05T07:45:39"
         },
         {
-          "title": "The speed of prototyping in the age of AI",
-          "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+          "title": "Soleio — The geometry of luck",
+          "url": "https://www.tokyodesignforum.com/library/2026/soleio",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How AI has changed the way I prototype, plan, and ship; and what I’m doing to keep my hands dirty.",
-          "published_at": "2026-06-04T07:46:55"
+          "summary": "The closing talk from Tokyo Design Forum 2026. The first piece in The Forum Library.",
+          "published_at": "2026-06-05T07:45:06"
         },
         {
-          "title": "Letterbox — Letters made of letters",
-          "url": "https://www.letterbox.sh/?text=Sidebar&font=Roboto+Mono&weight=700&style=italic&fill=13&cols=4&fc=upper&fm=lorem&bg=%23000000&fg=%23ededed",
+          "title": "Our CSS isn’t opinionated enough",
+          "url": "https://www.craigabbott.co.uk/blog/2026/our-css-isnt-opinionated-enough/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Letters shaped by text. Pick a font, choose your colors, and watch type come alive.",
-          "published_at": "2026-06-04T07:46:17"
+          "summary": "Why styling on semantics and roles could make accessibility harder to skip.",
+          "published_at": "2026-06-05T07:44:11"
         },
         {
-          "title": "Building for voice In, visuals out",
-          "url": "https://allenpike.com/2026/voice-in-visuals-out/",
+          "title": "Email Accessibility Report 2026",
+          "url": "https://emailmarkup.org/en/reports/accessibility/2026/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Flashes of brilliance, and the tyranny of latency.",
-          "published_at": "2026-06-04T07:45:45"
+          "summary": "A technical audit of the senders, platforms and email clients that define the modern inbox.",
+          "published_at": "2026-06-05T07:43:27"
         }
       ]
     },
@@ -611,6 +657,51 @@
       "count": 6,
       "items": [
         {
+          "title": "本周看什么 | 最近值得一看的 8 部作品",
+          "url": "https://sspai.com/post/110786",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "📅本周新预告《逃出绝命街》正式预告6月1日，电影《逃出绝命街》发布了正式预告，将于8月14日在北美上映。大卫·罗伯特·米切尔执导，J·J·艾布拉姆斯制片，安妮·海瑟薇、伊万·麦克格雷格主演，一场雷暴之 ...查看全文",
+          "published_at": "2026-06-05T10:19:28"
+        },
+        {
+          "title": "macOS 存储管理漫谈：去重是节约空间的最好方法",
+          "url": "https://sspai.com/prime/story/macos-storage-management-deduplication",
+          "author": "广陵止息",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "虽然最近各种用LLM帮忙整理电脑里的文件、删除垃圾数据的帖子很火，但我天然对这种LLM用法抱有一丝警惕，我始终相信电脑里存在的文件都有自己的意义。所以我就想在这篇文章里和大家聊聊macOS里的存储管理 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "published_at": "2026-06-05T10:00:12"
+        },
+        {
+          "title": "31 位普通人，给一只背包开出了成绩单",
+          "url": "https://sspai.com/post/110666",
+          "author": "听歌的水獭",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "写在前面一只背包，能不能让你体面地背去客户的会议室，也能陪你参加朋友聚会？装下两三天的差旅行李之后，它还能让你背得轻松吗？当包里同时塞着笔记本、平板和各种重设备，容量、舒适与防护，究竟能不能兼得？带着 ...查看全文",
+          "published_at": "2026-06-05T08:55:39"
+        },
+        {
+          "title": "再谈响度战争：为什么你看的视频越来越「吵」了？",
+          "url": "https://sspai.com/post/109483",
+          "author": "Nnnobel",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "「看视频」这件事，本不应该是一场「战争」。查看全文",
+          "published_at": "2026-06-05T07:21:14"
+        },
+        {
+          "title": "WWDC26 开幕在即，今年有哪些看点值得关注？",
+          "url": "https://sspai.com/post/110669",
+          "author": "Vanilla",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "今年WWDC全球开发者大会即将在北京时间6月9日凌晨拉开帷幕，对Apple来说今年这一次活动是一个非常关键的节点：首先，2024年WWDC上画的饼至今没有兑现，而AI竞赛在2026年已经进入了白热化， ...查看全文",
+          "published_at": "2026-06-05T03:45:01"
+        },
+        {
           "title": "派早报：Google 相关资讯三则、华为发布智慧屏 S7 X Pro等",
           "url": "https://sspai.com/post/110754",
           "author": "少数派编辑部",
@@ -618,51 +709,6 @@
           "source": "少数派",
           "summary": "Apple、Google 联合推出 Eclipsa Video HDR 开源标准等。查看全文",
           "published_at": "2026-06-05T00:52:50"
-        },
-        {
-          "title": "新玩意 243｜少数派的编辑们最近买了啥？",
-          "url": "https://sspai.com/post/110736",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
-          "published_at": "2026-06-04T11:15:27"
-        },
-        {
-          "title": "它不会是下一场新冠：简单了解汉坦病毒",
-          "url": "https://sspai.com/post/110717",
-          "author": "北鸮",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "人类研究了这么久流行病，虽说事故总难免，但还是有点本事在的，至少这回肯定控制得住。查看全文",
-          "published_at": "2026-06-04T07:00:00"
-        },
-        {
-          "title": "比 ZeroTier 更好的选择：EasyTier 去中心化异地组网全平台部署",
-          "url": "https://sspai.com/post/110126",
-          "author": "飘雷",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "published_at": "2026-06-04T03:02:55"
-        },
-        {
-          "title": "派早报：豆包确认将推出付费版服务、樱桃发布 UWB 键盘等",
-          "url": "https://sspai.com/post/110698",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "OpenAI 扩展 Codex 的使用场景、华米推出 Amazfit Balance 3 智能手表等。查看全文",
-          "published_at": "2026-06-04T00:36:32"
-        },
-        {
-          "title": "小车车里的大世界：车模收藏入坑指南",
-          "url": "https://sspai.com/post/110114",
-          "author": "别惹小炸毛",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "从小时候第一台保时捷卡宴车模，到工作后重新入坑小米 SU7，本文的作者把自己这些年收藏车模的经验整理成了一篇新手指南。文章从 1:18、1:43、1:64 等常见的车模比例谈起，涵盖了品牌选择、购买渠道、创意玩法等，很适合新手入坑。车模不只是玩具，也是一种能放在桌面上的汽车梦。查看全文",
-          "published_at": "2026-06-03T09:00:00"
         }
       ]
     }
