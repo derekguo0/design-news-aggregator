@@ -1,28 +1,55 @@
 {
   "date": "2026-06-06T00:00:00",
-  "total_items": 68,
+  "total_items": 73,
   "sources": [
-    "优设网",
-    "人人都是产品经理",
-    "Awwwards",
-    "少数派",
-    "Sidebar",
     "CSS-Tricks",
+    "少数派",
     "Product Hunt",
-    "Intercom Blog",
-    "A List Apart",
     "Design Milk",
+    "Smashing Magazine",
+    "Sidebar",
+    "人人都是产品经理",
+    "Intercom Blog",
+    "Awwwards",
     "UX Planet",
-    "UX Design CC",
+    "A List Apart",
     "NN/g (Nielsen Norman Group)",
-    "Smashing Magazine"
+    "UX Design CC",
+    "优设网"
   ],
-  "generated_at": "2026-06-06T03:51:53.513427",
+  "generated_at": "2026-06-06T13:51:36.389550",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 9,
+      "count": 12,
       "items": [
+        {
+          "title": "The psychological cost of moving too fast",
+          "url": "https://uxdesign.cc/the-psychological-cost-of-moving-too-fast-867fb3830722?source=rss----138adf9c44c---4",
+          "author": "Meg Kurdziolek",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Why discovery still matters in the age of AIHistorically, I used to pitch investment in early UX work as a cost-saving effort. Engineering time and resources were the most expensive assets a company p...",
+          "published_at": "2026-06-06T12:15:43"
+        },
+        {
+          "title": "Employment expiry and the end of workplace loyalty",
+          "url": "https://uxdesign.cc/employment-expiry-and-the-end-of-workplace-loyalty-8d238865a6e9?source=rss----138adf9c44c---4",
+          "author": "Raoul Flaminzeanu",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Employment no longer ends. It expires.Two signatures, one signature visible in clear blue ink, a second signature faded, barely visible.Talking about their experiences with layoffs, two women sat at a...",
+          "published_at": "2026-06-06T12:15:08"
+        },
+        {
+          "title": "Your user doesn’t care about your organization chart",
+          "url": "https://uxdesign.cc/your-user-doesnt-care-about-your-organization-chart-39bdde6b3b9c?source=rss----138adf9c44c---4",
+          "author": "Wira Indra Kusuma",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Your user never sees the org chart you fight over. So when it cracks, who do you let pay for it?Continue reading on UX Collective »",
+          "published_at": "2026-06-06T12:13:33"
+        },
         {
           "title": "Design’s alive and kicking. It just got some flashy new names.",
           "url": "https://uxdesign.cc/designs-alive-and-kicking-it-just-got-some-flashy-new-names-779b4503c869?source=rss----138adf9c44c---4",
@@ -234,6 +261,42 @@
           "published_at": "2026-06-04T17:54:17"
         },
         {
+          "title": "AI 产品经理如何从 0 到 1 搭建测试集：以智能购车问答为例",
+          "url": "https://www.woshipm.com/share/6409062.html",
+          "author": "Tuer AI",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "AI产品的验收标准正成为行业痛点，从购车问答到权益核销，模型幻觉与评测缺失让产品经理陷入主观判断的泥潭。本文深度拆解测试集设计七步法，揭示如何将业务风险转化为结构化指标，从模型选型到Prompt优化的全链路避坑指南，为AI产品经理提供从玄学到工程化的实战方法论。AI 产品验收的困境这两年做 AI 产品的产品经理越来越多，但一个现实问题很快浮现，AI 功能到底怎么验收？传统功能可以看流程是否跑通、接...",
+          "published_at": "2026-06-06T08:26:11"
+        },
+        {
+          "title": "2026零食消费新趋势白皮书发布：拆解8个颠覆认知的消费者行为变化",
+          "url": "https://www.woshipm.com/share/6409059.html",
+          "author": "沙水",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "零食已从消遣品升级为生活刚需，格力高最新白皮书揭示8大消费新趋势：银发族84.62%为自己购买，独居男性28.63%每天消费，宝爸比宝妈更关注营养标签。从精准健康定制到社交货币属性，1320亿规模的健康零食赛道正经历从「0添加」到「功能化」的质变。本文用5227份调研数据，拆解零食如何深度重构中国人的饮食结构与消费逻辑。你觉得零食是”可买可不买”的消遣？2026年的消费者不这么看。第一财经联合格力...",
+          "published_at": "2026-06-06T08:26:05"
+        },
+        {
+          "title": "可信数据空间是什么？从特征、技术到场景全梳理",
+          "url": "https://www.woshipm.com/share/6406575.html",
+          "author": "理望城",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "可信数据空间（TDS）正在重塑数据流通的规则与边界。这项国家推动的基础设施通过隐私计算、区块链等技术，实现了数据‘可用不可见、可控可审计’的突破性创新。从供应链协同到医疗科研，TDS如何为各行业构建安全的数据共享生态？本文将深度解析其核心能力、关键技术与应用场景。可信数据空间（Trusted Data Space, TDS），是国家层面正在推动的新型数据流通基础设施与生态体系，核心是让多方在数据不...",
+          "published_at": "2026-06-06T08:25:52"
+        },
+        {
+          "title": "高考那三天，1290万考生不知道的事：六大AI平台悄悄给自己装了个开关",
+          "url": "https://www.woshipm.com/ai/6394902.html",
+          "author": "靠谱瓦叔",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "国内六大AI平台在高考期间同步锁定拍题、搜题等功能，这场精准的\"功能管制\"背后暗藏怎样的技术实现与社会博弈？从三层技术栈的拦截逻辑到数百万大学生的\"误伤\"困境，再到AI作为社会基础设施的管控边界，本文将深度剖析这场关于能力与责任的行业觉醒。明天高考。今年高考报名人数1290万。明天开始，豆包、Kimi、DeepSeek、腾讯元宝、通义千问、百度文心——国内六大主流AI平台，会在考试时段同步锁死拍题...",
+          "published_at": "2026-06-06T03:59:40"
+        },
+        {
           "title": "用AI给自己搭一个AI导师专家",
           "url": "https://www.woshipm.com/ai/6409014.html",
           "author": "阿润的商业笔记",
@@ -241,42 +304,6 @@
           "source": "人人都是产品经理",
           "summary": "碎片化学习AI正在制造虚假的进步感。本文揭秘如何用大模型搭建私人学习系统：通过结构化提示词明确现状、目标和时间投入，让AI担任路径规划师、资料库、测评官和项目导师四重角色。这套方法将帮你绕过知识迷宫，直击核心能力建设。很多人学AI的方式，是追着热点走的。今天刷到一篇讲prompt的文章，存起来。明天看到谁推了一个新工具，下载了放在那里。后天某个课程在限时打折，买了之后大概率吃灰。三个月后，回头看，...",
           "published_at": "2026-06-06T03:19:56"
-        },
-        {
-          "title": "从腾讯文档升级看腾讯在Agent赛道上的节奏",
-          "url": "https://www.woshipm.com/ai/6409011.html",
-          "author": "卫夕",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "腾讯文档与WorkBuddy的深度整合正在重新定义AI办公协作。通过‘人机双写’模式，用户与AI能在同一文档实时共创，结合统一Agent内核与自研编辑引擎，实现了从对话式交互到协同创作的跨越。本文将从技术架构、企业级落地和生态开放三方面，解析这场效率革命的底层逻辑。2025 年，姚顺雨写过一篇传播很广的文章，叫《The Second Half》。核心观点就一句话——AI 的上半场，模型在拼在各种有...",
-          "published_at": "2026-06-06T03:14:09"
-        },
-        {
-          "title": "AI互联网日报：微信 A2A 打开手机助手入口；阿里Meoo 生成微信小程序；小红书整治港美股导流内容",
-          "url": "https://www.woshipm.com/ai/6409005.html",
-          "author": "AI星球",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "早上试着用手机助手发微信、查路线，我忽然觉得 AI 的变化不再只发生在聊天框里。华为云在算 Token 的生产力，微信把入口交给手机厂商，可灵、Kimi Work 又把创作和办公往付费场景推。海外的大厂也没闲着，Anthropic、Microsoft、Meta 都在补安全和边界。我的判断很简单：AI 正在从“会回答”变成“能接管一段真实流程”。一起来看看这两天发生的AI和互联网赛道的大事件吧！AI...",
-          "published_at": "2026-06-06T03:03:47"
-        },
-        {
-          "title": "人民不需要天涯",
-          "url": "https://www.woshipm.com/it/6408993.html",
-          "author": "有界UnKnown",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "中文互联网'活化石'天涯论坛在六一儿童节高调回归，却呈现出与节日氛围截然相反的'老人味'。这场由金融资本主导的复活计划，试图通过会员制、电商、短剧和Web3概念重振品牌，但面对早已变迁的互联网生态和用户习惯，这场'招魂'仪式能否唤醒沉睡的情怀？在今年六一儿童节这天，有一个非常古老的互联网产品，以一种非常高调的方式官宣了回归。这个产品，就是可以被称为中文互联网“活化石”的天涯论坛，它的回归冲上了微博...",
-          "published_at": "2026-06-06T02:57:44"
-        },
-        {
-          "title": "“Agent = model + Harnees”才是限制生产力的关键",
-          "url": "https://www.woshipm.com/ai/6408914.html",
-          "author": "冲量AI",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "AI Agent的引入正如同工业革命中的电动机替换蒸汽机，单纯的技术替代无法带来真正的生产力飞跃。本文深刻剖析了当前企业部署AI Agent的常见误区，指出生产力质变的关键在于重构组织治理体系，而非简单替换流程节点。从历史经验到现实困境，再到未来解决路径，揭示了'Agent + Harness'这一真正能带来组织级变革的核心公式。当社会讨论 AI Agent 时，最常见的误区，是把它理解为”把原来...",
-          "published_at": "2026-06-06T02:54:25"
         }
       ]
     },
@@ -348,6 +375,15 @@
           "published_at": null
         },
         {
+          "title": "Apechain",
+          "url": "https://www.awwwards.com/sites/apechain",
+          "author": "makemepulse",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Son Daven",
           "url": "https://www.awwwards.com/sites/son-daven",
           "author": "The First The Last",
@@ -409,39 +445,66 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Sowieso Wero",
-          "url": "https://www.awwwards.com/sites/sowieso-wero",
-          "author": "51North",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 7,
       "items": [
         {
-          "title": "Clarafy",
-          "url": "https://www.producthunt.com/products/clarafy",
-          "author": "Liam Tidholm",
+          "title": "Google Search Profiles",
+          "url": "https://www.producthunt.com/products/google",
+          "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Type messy and have it instantly polishedDiscussion|Link",
-          "published_at": "2026-06-04T17:33:12"
+          "summary": "Profile for publishers/creators to highlight work on SearchDiscussion|Link",
+          "published_at": "2026-06-04T19:56:28"
         },
         {
-          "title": "Treadmill Pro",
-          "url": "https://www.producthunt.com/products/treadmill-pro",
-          "author": "Nikita Spitsyn",
+          "title": "Manus Shopify Connector",
+          "url": "https://www.producthunt.com/products/manus-shopify-connector",
+          "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Control your treadmill from your iPhone, wirelesslyDiscussion|Link",
-          "published_at": "2026-06-04T16:59:38"
+          "summary": "Build and manage Shopify stores from one chatDiscussion|Link",
+          "published_at": "2026-06-04T15:34:33"
+        },
+        {
+          "title": "Gaming services by IFTTT",
+          "url": "https://www.producthunt.com/products/ifttt",
+          "author": "Chelsea C.",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Level up the way you play with Steam, Dota 2, and moreDiscussion|Link",
+          "published_at": "2026-06-04T19:54:09"
+        },
+        {
+          "title": "MAI-Image-2.5",
+          "url": "https://www.producthunt.com/products/mai-image-2-5",
+          "author": "Rohan Chaubey",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Generate and edit images with precise scene controlDiscussion|Link",
+          "published_at": "2026-06-04T03:20:01"
+        },
+        {
+          "title": "Navi+ Menu Builder",
+          "url": "https://www.producthunt.com/products/navi-menu-builder",
+          "author": "Henry Pham",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Add Tab Bar, Mega Menu & more to any website — no codeDiscussion|Link",
+          "published_at": "2026-06-05T10:40:09"
+        },
+        {
+          "title": "QWERTYS",
+          "url": "https://www.producthunt.com/products/qwertys",
+          "author": "Diego Dotta",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "My keyboard fell apart. Now it's your problem.Discussion|Link",
+          "published_at": "2026-06-05T19:12:55"
         },
         {
           "title": "FloatPic",
@@ -451,24 +514,6 @@
           "source": "Product Hunt",
           "summary": "Ultra-minimalist, borderless macOS native image viewerDiscussion|Link",
           "published_at": "2026-06-04T04:45:58"
-        },
-        {
-          "title": "Nemotron 3 Ultra by NVIDIA",
-          "url": "https://www.producthunt.com/products/nvidia",
-          "author": "Rohan Chaubey",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Powers faster, efficient reasoning for long-running agentsDiscussion|Link",
-          "published_at": "2026-06-04T20:02:11"
-        },
-        {
-          "title": "Microsoft MAI-Voice-2",
-          "url": "https://www.producthunt.com/products/mai-image-2-3",
-          "author": "Habib Ferdous",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Expressive TTS with voice cloning in 15 languagesDiscussion|Link",
-          "published_at": "2026-06-04T21:38:54"
         }
       ]
     },
