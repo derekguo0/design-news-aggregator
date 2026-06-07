@@ -1,21 +1,21 @@
 {
   "date": "2026-06-07T00:00:00",
-  "total_items": 58,
+  "total_items": 64,
   "sources": [
-    "Intercom Blog",
+    "UX Design CC",
+    "A List Apart",
     "UX Planet",
+    "少数派",
     "Design Milk",
+    "Product Hunt",
     "优设网",
     "人人都是产品经理",
-    "少数派",
-    "UX Design CC",
-    "CSS-Tricks",
-    "NN/g (Nielsen Norman Group)",
-    "Product Hunt",
-    "A List Apart",
-    "Sidebar"
+    "Intercom Blog",
+    "Awwwards",
+    "Sidebar",
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2026-06-07T04:18:09.244071",
+  "generated_at": "2026-06-07T14:01:47.031850",
   "categories": [
     {
       "category": "用户体验设计",
@@ -232,55 +232,55 @@
           "published_at": "2026-06-04T17:54:17"
         },
         {
-          "title": "当差评变成起点：如何在微博实践产品口碑逆转的认知重构法",
-          "url": "https://www.woshipm.com/share/6408668.html",
-          "author": "BoyoKa",
+          "title": "AI 时代的产品经理：不是被取代，是工作流被重写了",
+          "url": "https://www.woshipm.com/ai/6409303.html",
+          "author": "瑞叔",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在微博这个舆论发酵的超级场域，一条差评可能是危机也可能是转机。本文独创的'三阶认知重构模型'深度结合微博的热搜、超话、热点伴随等核心功能，揭秘如何将负面评价转化为品牌资产。从共情确认到场景置换，再到群体正当化，这套方法论将展示如何利用社交媒体的特有机制，实现用户认知框架的重构与品牌口碑的华丽转身。差评即入口：基于微博生态的产品口碑负转正方法论在微博，一条差评可能通过热搜、超话、热点伴随等机制迅速放...",
-          "published_at": "2026-06-07T02:07:53"
+          "summary": "当Claude Code能在两小时内产出可交互原型时，传统PRD的权威性正在崩塌。本文通过Anthropic团队的实战案例，揭示AI如何重构产品验证流程——从20页文档的纸上谈兵，到用原型直接对话用户。更值得关注的是，PM正从需求传递者升级为原型构建者，这种角色进化将彻底改写产品开发规则。我最近看到一句话，愣了好一会儿。”一个运营同事用 Claude Code 鼓捣了两个多小时，跑出来一个能点击的...",
+          "published_at": "2026-06-07T11:36:14"
         },
         {
-          "title": "AI生成的美女，正在“污染”人类审美！你还能分清真假吗？",
-          "url": "https://www.woshipm.com/ai/6409133.html",
-          "author": "抖知书",
+          "title": "今年618，AI到底帮了谁？",
+          "url": "https://www.woshipm.com/ai/6409302.html",
+          "author": "有界UnKnown",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI生成的美女越来越像流水线产品，我们是否正在失去对真实美的感知？本文揭露算法如何通过‘外貌主义’塑造单一审美标准，并带来一套硬核提示词框架，教你像专业导演一样操控AI镜头语言，打破‘塑料感’审美霸权，找回带有毛孔、雀斑和光影呼吸感的真实生命力。当你刷小红书或短视频时，是不是觉得现在的网红美女长得越来越像了？那种“白幼瘦”的滤镜、流水线般的五官，再加上毫无瑕疵的皮肤，虽然第一眼惊艳，但看多了总觉...",
-          "published_at": "2026-06-07T01:00:21"
+          "summary": "618大促正在经历一场AI主导的范式转移。淘宝千问、京东AI全场景、字节豆包等产品集体亮相，将电商战场从价格战转向技术战。但这场变革背后隐藏着平台、商家与消费者的三方博弈——当AI推荐成为新入口，谁在掌控商品分发权？本文深度剖析AI购物背后的权力再分配与生态重构。有没有人觉得，618变味儿了？以前的618，关键词是折扣、满减、补贴，各个渠道的宣传轮番轰炸，让人感觉不买就亏了。但今年的618，不提优...",
+          "published_at": "2026-06-07T11:30:08"
         },
         {
-          "title": "AI 产品经理如何从 0 到 1 搭建测试集：以智能购车问答为例",
-          "url": "https://www.woshipm.com/ai/6409062.html",
-          "author": "Tuer AI",
+          "title": "当产品经理遇上项目管理：我的跨角色实战总结",
+          "url": "https://www.woshipm.com/share/6409175.html",
+          "author": "产品经理 咕咕",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI产品的验收标准正成为行业痛点，从购车问答到权益核销，模型幻觉与评测缺失让产品经理陷入主观判断的泥潭。本文深度拆解测试集设计七步法，揭示如何将业务风险转化为结构化指标，从模型选型到Prompt优化的全链路避坑指南，为AI产品经理提供从玄学到工程化的实战方法论。AI 产品验收的困境这两年做 AI 产品的产品经理越来越多，但一个现实问题很快浮现，AI 功能到底怎么验收？传统功能可以看流程是否跑通、接...",
-          "published_at": "2026-06-06T08:26:11"
+          "summary": "在中小团队甚至大厂垂直业务线中，产品经理常常被默认承担项目推进的职责。本文基于财务产品领域的实战经验，深入剖析银企直连等复杂项目中面临的真实挑战——从外部依赖管理到上下游系统协调，再到资源冲突应对与变更管控。作者将产品思维注入项目管理框架，提炼出可复用的方法体系，帮助产品经理突破执行困境。很多人觉得产品经理和项目经理是两个岗位，各司其职。但现实是——在很多中小团队、甚至大厂的垂直业务线里，产品经理...",
+          "published_at": "2026-06-07T07:11:08"
         },
         {
-          "title": "2026零食消费新趋势白皮书发布：拆解8个颠覆认知的消费者行为变化",
-          "url": "https://www.woshipm.com/share/6409059.html",
-          "author": "沙水",
+          "title": "从“账户余额”到“可用余额”：看资金产品的信息认知转向",
+          "url": "https://www.woshipm.com/share/6409194.html",
+          "author": "灰度区透镜",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "零食已从消遣品升级为生活刚需，格力高最新白皮书揭示8大消费新趋势：银发族84.62%为自己购买，独居男性28.63%每天消费，宝爸比宝妈更关注营养标签。从精准健康定制到社交货币属性，1320亿规模的健康零食赛道正经历从「0添加」到「功能化」的质变。本文用5227份调研数据，拆解零食如何深度重构中国人的饮食结构与消费逻辑。你觉得零食是”可买可不买”的消遣？2026年的消费者不这么看。第一财经联合格力...",
-          "published_at": "2026-06-06T08:26:05"
+          "summary": "在资金账户设计中，将'账户余额'置于首页核心位置看似合理，实则暗藏体验陷阱。当用户将总额默认为可支配金额时，冻结资金、在途款项等隐藏细节会引发强烈认知偏差。本文深度剖析支付宝、淘宝账房等平台的解决方案，揭示从'系统完整性'到'用户决策支持'的体验设计转型关键。当用户打开账户，第一眼该看到什么数字？很长一段时间里，这个问题的答案似乎很明确：账户余额。从系统角度看，它完整呈现了资金总量，逻辑清楚、结构...",
+          "published_at": "2026-06-07T06:12:05"
         },
         {
-          "title": "可信数据空间是什么？从特征、技术到场景全梳理",
-          "url": "https://www.woshipm.com/share/6406575.html",
-          "author": "理望城",
+          "title": "别再迷信 RAG 了：在医疗产品里，我把通用 RAG 那套几乎全推翻了",
+          "url": "https://www.woshipm.com/ai/6409257.html",
+          "author": "Niney",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "可信数据空间（TDS）正在重塑数据流通的规则与边界。这项国家推动的基础设施通过隐私计算、区块链等技术，实现了数据‘可用不可见、可控可审计’的突破性创新。从供应链协同到医疗科研，TDS如何为各行业构建安全的数据共享生态？本文将深度解析其核心能力、关键技术与应用场景。可信数据空间（Trusted Data Space, TDS），是国家层面正在推动的新型数据流通基础设施与生态体系，核心是让多方在数据不...",
-          "published_at": "2026-06-06T08:25:52"
+          "summary": "当一个AI健康助手面对半夜的紧急求助时，常规的RAG技术可能成为致命漏洞。本文深度剖析医疗分诊场景下，为何标准技术方案会被完全重构——从融合策略的'取严'原则到评测指标的零容忍标准，揭示高风险产品设计中那些'错一步就赔命'的关键决策点。一个夜间 AI 健康助手项目，做完之后写下来的笔记。给那些做“做错会死人、会赔钱”类高风险产品的人。半夜两点多，后台进来一条消息：“我妈胸口闷了一晚上，有点喘不上气...",
+          "published_at": "2026-06-07T05:16:15"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 6,
+      "count": 14,
       "items": [
         {
           "title": "Good designers, bad websites: a proposal",
@@ -335,13 +335,112 @@
           "source": "A List Apart",
           "summary": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things t...",
           "published_at": null
+        },
+        {
+          "title": "SOHub",
+          "url": "https://www.awwwards.com/sites/sohub",
+          "author": "sohubdigital",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Apechain",
+          "url": "https://www.awwwards.com/sites/apechain",
+          "author": "makemepulse",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Son Daven",
+          "url": "https://www.awwwards.com/sites/son-daven",
+          "author": "The First The Last",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Steven.com",
+          "url": "https://www.awwwards.com/sites/steven-com",
+          "author": "OFF+BRAND.",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Truck’N Roll®",
+          "url": "https://www.awwwards.com/sites/truckn-roll-r",
+          "author": "Locomotive",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "REF Digital",
+          "url": "https://www.awwwards.com/sites/ref-digital",
+          "author": "REF Digital",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Hashgraph Ventures",
+          "url": "https://www.awwwards.com/sites/hashgraph-ventures",
+          "author": "Glenn Catteeuw",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Vaulk",
+          "url": "https://www.awwwards.com/sites/vaulk",
+          "author": "LEOLEO",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 7,
+      "count": 6,
       "items": [
+        {
+          "title": "Job Postings API",
+          "url": "https://www.producthunt.com/products/free-job-postings-api",
+          "author": "Sam Crombie",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "View, monitor, and analyze 1.8M+ US jobsDiscussion|Link",
+          "published_at": "2026-06-06T20:32:22"
+        },
+        {
+          "title": "Smmall Cloud for iOS",
+          "url": "https://www.producthunt.com/products/smmall-cloud",
+          "author": "Levi Nunnink",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Simple file sharing on your iPad or iPhoneDiscussion|Link",
+          "published_at": "2026-06-04T16:26:25"
+        },
+        {
+          "title": "CabinLink",
+          "url": "https://www.producthunt.com/products/cabinlink",
+          "author": "Vishrut Jha",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Flight map from cabin Wi-FiDiscussion|Link",
+          "published_at": "2026-06-04T21:23:43"
+        },
         {
           "title": "Google Search Profiles",
           "url": "https://www.producthunt.com/products/google",
@@ -350,15 +449,6 @@
           "source": "Product Hunt",
           "summary": "Profile for publishers/creators to highlight work on SearchDiscussion|Link",
           "published_at": "2026-06-04T19:56:28"
-        },
-        {
-          "title": "Manus Shopify Connector",
-          "url": "https://www.producthunt.com/products/manus-shopify-connector",
-          "author": "Rohan Chaubey",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Build and manage Shopify stores from one chatDiscussion|Link",
-          "published_at": "2026-06-04T15:34:33"
         },
         {
           "title": "QWERTYS",
@@ -370,15 +460,6 @@
           "published_at": "2026-06-05T19:12:55"
         },
         {
-          "title": "Gaming services by IFTTT",
-          "url": "https://www.producthunt.com/products/ifttt",
-          "author": "Chelsea C.",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Level up the way you play with Steam, Dota 2, and moreDiscussion|Link",
-          "published_at": "2026-06-04T19:54:09"
-        },
-        {
           "title": "Navi+ Menu Builder",
           "url": "https://www.producthunt.com/products/navi-menu-builder",
           "author": "Henry Pham",
@@ -386,24 +467,6 @@
           "source": "Product Hunt",
           "summary": "Add Tab Bar, Mega Menu & more to any website — no codeDiscussion|Link",
           "published_at": "2026-06-05T10:40:09"
-        },
-        {
-          "title": "MAI-Image-2.5",
-          "url": "https://www.producthunt.com/products/mai-image-2-5",
-          "author": "Rohan Chaubey",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Generate and edit images with precise scene controlDiscussion|Link",
-          "published_at": "2026-06-04T03:20:01"
-        },
-        {
-          "title": "Clarafy",
-          "url": "https://www.producthunt.com/products/clarafy",
-          "author": "Liam Tidholm",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Type messy and have it instantly polishedDiscussion|Link",
-          "published_at": "2026-06-04T17:33:12"
         }
       ]
     },
@@ -519,24 +582,18 @@
       ]
     },
     {
-      "category": "前端设计",
-      "count": 1,
-      "items": [
-        {
-          "title": "Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!",
-          "url": "https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/",
-          "author": "Antoine Villepreux",
-          "category": "前端设计",
-          "source": "CSS-Tricks",
-          "summary": "We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!ori...",
-          "published_at": "2026-06-04T13:14:49"
-        }
-      ]
-    },
-    {
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "接住来自空间站的信号：如何用手台接收 SSTV？",
+          "url": "https://sspai.com/post/110108",
+          "author": "休伯利安",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "它不是玄学，也不是单纯的浪漫。它是频率、传播、天线、轨道、多普勒效应，以及我们手中那一点点设备共同完成的一次小小实验。查看全文",
+          "published_at": "2026-06-07T08:34:12"
+        },
         {
           "title": "2026 Apple 设计奖正式揭晓，细数 12 款 App 的特别之处",
           "url": "https://sspai.com/post/110763",
@@ -581,15 +638,6 @@
           "source": "少数派",
           "summary": "「看视频」这件事，本不应该是一场「战争」。查看全文",
           "published_at": "2026-06-05T07:21:14"
-        },
-        {
-          "title": "WWDC26 开幕在即，今年有哪些看点值得关注？",
-          "url": "https://sspai.com/post/110669",
-          "author": "Vanilla",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "今年WWDC全球开发者大会即将在北京时间6月9日凌晨拉开帷幕，对Apple来说今年这一次活动是一个非常关键的节点：首先，2024年WWDC上画的饼至今没有兑现，而AI竞赛在2026年已经进入了白热化， ...查看全文",
-          "published_at": "2026-06-05T03:45:01"
         }
       ]
     }
