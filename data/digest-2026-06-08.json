@@ -1,25 +1,71 @@
 {
   "date": "2026-06-08T00:00:00",
-  "total_items": 55,
+  "total_items": 64,
   "sources": [
-    "Sidebar",
-    "Awwwards",
-    "Product Hunt",
-    "UX Planet",
     "NN/g (Nielsen Norman Group)",
-    "优设网",
-    "Design Milk",
+    "Sidebar",
+    "CSS-Tricks",
     "人人都是产品经理",
+    "少数派",
+    "Design Milk",
+    "Awwwards",
+    "UX Planet",
+    "Product Hunt",
     "A List Apart",
     "UX Design CC",
-    "少数派"
+    "优设网"
   ],
-  "generated_at": "2026-06-08T04:22:52.580413",
+  "generated_at": "2026-06-08T15:59:34.490049",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 8,
+      "count": 13,
       "items": [
+        {
+          "title": "We used to log off",
+          "url": "https://uxdesign.cc/we-used-to-log-off-36771c18926b?source=rss----138adf9c44c---4",
+          "author": "Wira Indra Kusuma",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Online used to be a place you could leave. We designed the exit out of it because an exit reads as a leak. Here is why building it back is…Continue reading on UX Collective »",
+          "published_at": "2026-06-08T11:13:18"
+        },
+        {
+          "title": "The flaw is the feature",
+          "url": "https://uxdesign.cc/the-flaw-is-the-feature-e6769c5cf5b4?source=rss----138adf9c44c---4",
+          "author": "Dora Czerna",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Perfection used to prove a person had tried. Now a machine conjures it in seconds, for nothing. So what is polish actually worth?Volunteers in a 1960s psychology study were played a tape of a man audi...",
+          "published_at": "2026-06-08T09:32:12"
+        },
+        {
+          "title": "Exapted for the AI Prompt",
+          "url": "https://uxdesign.cc/exapted-for-the-ai-prompt-0870f0d8d6f1?source=rss----138adf9c44c---4",
+          "author": "Hiroshi Sato",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "On prompts, graphic design, and a craft that was quietly about reading the other mind all alongContinue reading on UX Collective »",
+          "published_at": "2026-06-08T09:31:39"
+        },
+        {
+          "title": "Let the AI have the pixels",
+          "url": "https://uxdesign.cc/let-the-ai-have-the-pixels-1d51eeb4a020?source=rss----138adf9c44c---4",
+          "author": "Daleen Rabe",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Practical wisdom is the designer’s last and most important advantageContinue reading on UX Collective »",
+          "published_at": "2026-06-08T09:30:16"
+        },
+        {
+          "title": "Sharp tools, AI token scarcity, AI-created document fatigue",
+          "url": "https://uxdesign.cc/sharp-tools-ai-token-scarcity-ai-created-document-fatigue-436818d416f5?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“Super efficient, but over time, that efficiency started to shape how I thought. I was moving faster towards answers, but along narrower pa...",
+          "published_at": "2026-06-08T07:52:09"
+        },
         {
           "title": "You’re still archiving. Your files have already become substrate.",
           "url": "https://uxdesign.cc/youre-still-archiving-your-files-have-already-become-substrate-ce65f088b75a?source=rss----138adf9c44c---4",
@@ -66,22 +112,22 @@
           "published_at": "2026-06-05T11:14:48"
         },
         {
-          "title": "Designing for care, not growth",
-          "url": "https://uxdesign.cc/designing-for-care-not-growth-274d460f968c?source=rss----138adf9c44c---4",
-          "author": "Dora Czerna",
+          "title": "Figma skills for Claude Code: Complete Guide",
+          "url": "https://uxplanet.org/figma-skills-for-claude-code-complete-guide-c8db2b581a76?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
           "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "From healing fiction to smart feeders, the booming pet economy shows what design looks like when households shrink instead of grow.The modern companion of choice: self-contained, low-maintenance, and ...",
-          "published_at": "2026-06-05T11:14:28"
+          "source": "UX Planet",
+          "summary": "Skills are pre-built instructions that teach Claude how to handle common tasks reliably. Skills are especially valuable in product design…Continue reading on UX Planet »",
+          "published_at": "2026-06-08T15:12:32"
         },
         {
-          "title": "You’re not building a product. You’re running a project",
-          "url": "https://uxdesign.cc/youre-not-building-a-product-you-re-running-a-project-a8fdec68788c?source=rss----138adf9c44c---4",
-          "author": "Zeeshan Khalid",
+          "title": "Claude Code Glossary",
+          "url": "https://uxplanet.org/claude-code-glossary-2e00235be258?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
           "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "I said those words to a £30M bootstrapped CFO mid-interview.Continue reading on UX Collective »",
-          "published_at": "2026-06-05T07:39:19"
+          "source": "UX Planet",
+          "summary": "17 Most Important Terms ExplainedContinue reading on UX Planet »",
+          "published_at": "2026-06-08T11:16:56"
         },
         {
           "title": "Claude Code sucks at UI design",
@@ -156,8 +202,17 @@
     },
     {
       "category": "产品设计",
-      "count": 8,
+      "count": 9,
       "items": [
+        {
+          "title": "Nordic Knots Brings a Beauty Ritual Home With Its 2026 Season of Grandeur",
+          "url": "https://design-milk.com/nordic-knots-brings-a-beauty-ritual-home-with-its-2026-season-of-grandeur/",
+          "author": "Joseph Sgambati III",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Nordic Knots’ Spring 2026 palette borrows from the language of beauty to show how one chromatic gesture can define an entire room.",
+          "published_at": "2026-06-08T14:00:57"
+        },
         {
           "title": "This Eclectic Apartment by Antwe Celebrates Storage",
           "url": "https://design-milk.com/this-eclectic-apartment-by-antwe-celebrates-storage/",
@@ -186,49 +241,49 @@
           "published_at": "2026-06-05T14:00:16"
         },
         {
-          "title": "数字孪生的“情书”：从一部电影看产品设计的温度与逻辑",
-          "url": "https://www.woshipm.com/share/6409629.html",
-          "author": "Victoria",
+          "title": "第一次接触生物样本库，我用了3天画出系统架构图：靠的不是行业经验，而是这套思维方式",
+          "url": "https://www.woshipm.com/share/6409766.html",
+          "author": "树状产品观",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "一部成本仅1400万元的潮汕方言电影《给阿嬷的情书》，凭借真挚情感与素人演员的质朴表演，创造了16亿票房奇迹。这背后暗藏的产品逻辑与数字孪生平台惊人相似——从建立长期信任机制到精准满足用户需求，再到跨越时间的价值传递。本文通过四个独特视角，揭示好电影与好产品共通的底层方法论。最近看了《给阿嬷的情书》。这是一部没有流量明星、成本仅约1400万元的潮汕方言电影，截至当前票房已超16亿元，豆瓣评分9.2...",
-          "published_at": "2026-06-08T03:52:23"
+          "summary": "从生物样本库到ERP系统，看似迥异的行业背后隐藏着惊人的相似逻辑。本文通过真实项目案例，揭示产品经理如何运用抽象思维穿透行业术语迷雾，将复杂业务转化为可复用的系统模型。你会发现，跨行业解决方案的核心不在于掌握多少专业知识，而在于识别那些不断重复的底层业务结构。最开始做生物样本库项目时，有朋友问过我一个问题：“你以前做过生物样本库吗？”我回答没有。他接着问：“既然从来没有接触过这个行业，为什么能够这...",
+          "published_at": "2026-06-08T09:33:13"
         },
         {
-          "title": "高德发布全球首个基于3DGS数据训练的3D原生城市世界模型ABot-Earth0.5",
-          "url": "https://www.woshipm.com/ai/6409705.html",
-          "author": "Aine",
+          "title": "Distribution Engineer：市场人的新身份，是从”做”到”搭”",
+          "url": "https://www.woshipm.com/ai/6409855.html",
+          "author": "张张包",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "高德地图刚刚发布的ABot-Earth0.5正在颠覆传统3D建模方式。这款全球首个3D原生城市世界模型，通过直接从3D数据训练实现端到端场景生成，效率提升1000倍。本文将深度解析其创新的训练框架、推理机制和自动化交付管线，看它如何让3D城市场景创作进入AI时代。6月8日，阿里巴巴集团旗下高德正式发布ABot-Earth0.5——全球首个完全基于3D数据训练、工程可用的3D原生城市世界模型。依托3...",
-          "published_at": "2026-06-08T03:46:59"
+          "summary": "a16z开始招聘Distribution Engineer（DE）这一现象，标志着市场与工程的交叉领域正在崛起。DE并非简单的技术型市场人，而是具备工程思维的新物种，能将获客流程拆解为AI可执行的模块。本文深入解析DE的核心能力、工程思维的五大具体表现，以及To B市场人转型DE的三条路径，助你把握未来市场工作的关键趋势。最近一个很值得注意的信号：a16z自己开始招Distribution Eng...",
+          "published_at": "2026-06-08T09:32:14"
         },
         {
-          "title": "用户情绪驱动增长，科技不只是强功能，更是生活感受！",
-          "url": "https://www.woshipm.com/share/6409626.html",
-          "author": "洞见研报",
+          "title": "【万字长文】扒了 50 份 JD 后，我把”FDE前沿部署工程师”拆成了一套识别框架",
+          "url": "https://www.woshipm.com/ai/6409853.html",
+          "author": "james chan",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "科技数码产品的竞争已从参数堆叠转向体验可感，情绪成为用户决策的关键因素。这份报告将用户情绪拆解为35个大类95种具体信号，揭示如何通过惊喜感、启迪感和逗趣感构建产品价值，以及挫败感、困惑感如何成为增长阻力。AI时代的产品设计，正面临将复杂能力翻译成生活化体验的全新挑战。过去，科技数码产品的竞争，更多围绕参数展开：芯片性能、影像能力、屏幕素质、续航时间、AI功能、生态互联。但当技术迭代越来越快，功能...",
-          "published_at": "2026-06-08T03:37:07"
+          "summary": "AI落地95%的失败率背后，隐藏着一个年薪60万美元的神秘岗位——前沿部署工程师(FDE)。这个既写代码又跑客户、既交付项目又反哺产品的复合型角色，正在成为企业AI转型的关键枢纽。本文深度拆解FDE的四大核心能力与二元性本质，提供五道鉴别真假岗位的压测题，并为不同背景的从业者绘制转型路线图。一、背景与前置结论：从”这岗位怎么这么怪”到拆出一套框架先说一个让我后背发凉的数字。2025 年，麻省理工学...",
+          "published_at": "2026-06-08T09:30:30"
         },
         {
-          "title": "小白实战手记：React Native 应用部署到鸿蒙设备全流程详解",
-          "url": "https://www.woshipm.com/share/6409674.html",
-          "author": "nutpi",
+          "title": "用 MiniMax 把 M3 跑了几天，我对国产开源模型的判断",
+          "url": "https://www.woshipm.com/ai/6409775.html",
+          "author": "阿铭Ziven",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "React Native 开发者进军鸿蒙生态的必经之路，本文详细解析了从零开始将 RN 应用部署到 HarmonyOS 设备的全流程。通过 TTS 语音合成、WebView 浏览器等四大功能模块的实战案例，揭秘 RNOH 框架的架构设计与双项目协同机制，手把手教你解决环境配置、签名打包等关键问题。目标读者：刚接触鸿蒙 React Native 开发，想把应用部署到真机上的新手环境：macOS + ...",
-          "published_at": "2026-06-08T03:31:44"
+          "summary": "MiniMax M3的发布不仅刷新了国产开源模型的性能上限，更关键的是它首次将长上下文、Agentic Coding和原生多模态三大核心能力整合在单一模型中，彻底改变了AI工作流的拼接架构。本文从实际应用场景出发，深入剖析M3如何通过1/20的计算成本突破，让曾经因成本过高而搁置的产品方案重获商业可行性，同时揭示开源生态可能面临的重新洗牌。5 月 31 日下午，MiniMax 把 M3 发了出来。...",
+          "published_at": "2026-06-08T07:50:52"
         },
         {
-          "title": "ClaudeCode 的 172 个应用场景（1）：内容创作",
-          "url": "https://www.woshipm.com/ai/6409642.html",
-          "author": "Aaron",
+          "title": "AI+硬件+软件+内容的全链路协作指南",
+          "url": "https://www.woshipm.com/ai/6409648.html",
+          "author": "率剑士",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从选题拆解到风格说明书，从批量生产到多平台分发，这套系统化解决方案正在重新定义数字内容的生产逻辑。本文首次披露19个内容创作场景的完整操作手册，揭示AI如何将模糊的写作经验转化为可复用的工程流程。这是一个系列文章，一共 12 篇，会把实操的 ClaudeCode 的 172 个应用场景，完整详细的输出出来。我打算写这一个系列的背景是因为，最近给一家公司做 AI 实战培训，我在过程中演示了很多小技巧...",
-          "published_at": "2026-06-08T02:53:00"
+          "summary": "智能硬件的开发是一场涉及多领域、多部门的复杂交响曲。本文通过一个矩阵式协作框架，清晰呈现工业设计、电子电路、算法等8大职能如何贯穿项目评审、设计、整机联调、成熟度验证4个阶段，实现AI+硬件+软件的全链路高效协作。这套流程不仅优化了跨团队协同效率，更为复杂硬件产品开发提供了标准化解决方案。AI+硬件+软件全链路协作图解智能硬件开发是一个高度复杂的系统工程，经常是跨部门、跨企业合作，涉及工业设计、电...",
+          "published_at": "2026-06-08T07:48:30"
         }
       ]
     },
@@ -366,25 +421,43 @@
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 4,
       "items": [
         {
-          "title": "Job Postings API",
-          "url": "https://www.producthunt.com/products/free-job-postings-api",
-          "author": "Sam Crombie",
+          "title": "Tamadoggo",
+          "url": "https://www.producthunt.com/products/tamadoggo",
+          "author": "Sorin Vasiliu",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "View, monitor, and analyze 1.8M+ US jobsDiscussion|Link",
-          "published_at": "2026-06-06T20:32:22"
+          "summary": "A living journal for your pet's life, with AI insightsDiscussion|Link",
+          "published_at": "2026-06-07T16:39:30"
         },
         {
-          "title": "QWERTYS",
-          "url": "https://www.producthunt.com/products/qwertys",
-          "author": "Diego Dotta",
+          "title": "The Virtual OS Museum",
+          "url": "https://www.producthunt.com/products/the-virtual-os-museum",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "My keyboard fell apart. Now it's your problem.Discussion|Link",
-          "published_at": "2026-06-05T19:12:55"
+          "summary": "Relive vintage operating systems right on your desktopDiscussion|Link",
+          "published_at": "2026-06-08T04:41:15"
+        },
+        {
+          "title": "Vaani",
+          "url": "https://www.producthunt.com/products/vaani-2",
+          "author": "Rohan Chaubey",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Lip-synced AI dubbing for creators, brands and studiosDiscussion|Link",
+          "published_at": "2026-06-07T06:15:39"
+        },
+        {
+          "title": "Claude Artifact Player",
+          "url": "https://www.producthunt.com/products/claude-artifact-player",
+          "author": "Mazen ALSAREM",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Run Claude artifacts locallyDiscussion|Link",
+          "published_at": "2026-06-07T20:25:19"
         }
       ]
     },
@@ -438,8 +511,8 @@
           "published_at": null
         },
         {
-          "title": "联名知名设计师，Instagram这次把图标定制玩明白了",
-          "url": "https://www.uisdc.com/hunter/0221672745.html",
+          "title": "巧用Cursor设计模式，不用Figma就能轻松搞定UI验收",
+          "url": "https://www.uisdc.com/hunter/0221672748.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -453,49 +526,64 @@
       "count": 5,
       "items": [
         {
-          "title": "The parts of your system you never wrote down",
-          "url": "https://blog.murphytrueman.com/the-parts-of-your-system-you-never-wrote-down/",
+          "title": "Prototyping gamified e-commerce apps [Live Demo]",
+          "url": "https://bit.ly/side-pie4",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Reopening every decision you left implicit, and settling it without you.",
-          "published_at": "2026-06-05T07:46:20"
+          "summary": "Countdowns. Limited drops. Game-style hunts. Build real-world gamification patterns that keep users coming back.",
+          "published_at": "2026-06-08T07:48:00"
         },
         {
-          "title": "AI as social technology",
-          "url": "https://knightcolumbia.org/content/ai-as-social-technology",
+          "title": "A sharp tool can still ruin the cut",
+          "url": "https://www.doc.cc/articles/a-sharp-tool-can-still-ruin-the-cut",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Artificial general intelligence does not hold out the promise of truly post-human bureaucracy.",
-          "published_at": "2026-06-05T07:45:39"
+          "summary": "Some ideas only show up when you take the long way around, when you don’t quite know what you’re looking for yet.",
+          "published_at": "2026-06-08T07:47:32"
         },
         {
-          "title": "Soleio — The geometry of luck",
-          "url": "https://www.tokyodesignforum.com/library/2026/soleio",
+          "title": "Beyond the prompt: Claude Code",
+          "url": "https://arps18.github.io/posts/claude-code-mastery/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The closing talk from Tokyo Design Forum 2026. The first piece in The Forum Library.",
-          "published_at": "2026-06-05T07:45:06"
+          "summary": "A deep dive into Claude Code for daily users, including the .claude directory, CLAUDE.md the way Boris writes it, CLAUDE.local.md, and more.",
+          "published_at": "2026-06-08T07:46:53"
         },
         {
-          "title": "Our CSS isn’t opinionated enough",
-          "url": "https://www.craigabbott.co.uk/blog/2026/our-css-isnt-opinionated-enough/",
+          "title": "Daily Designer",
+          "url": "https://www.dailydesigner.net/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Why styling on semantics and roles could make accessibility harder to skip.",
-          "published_at": "2026-06-05T07:44:11"
+          "summary": "Every day, a thought-provoking quote from a designer.",
+          "published_at": "2026-06-08T07:45:42"
         },
         {
-          "title": "Email Accessibility Report 2026",
-          "url": "https://emailmarkup.org/en/reports/accessibility/2026/",
+          "title": "When AI builds itself",
+          "url": "https://www.anthropic.com/institute/recursive-self-improvement",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A technical audit of the senders, platforms and email clients that define the modern inbox.",
-          "published_at": "2026-06-05T07:43:27"
+          "summary": "Anthropic's progress toward recursive self-improvement, and its implications.",
+          "published_at": "2026-06-08T07:43:56"
+        }
+      ]
+    },
+    {
+      "category": "前端设计",
+      "count": 1,
+      "items": [
+        {
+          "title": "Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions",
+          "url": "https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/",
+          "author": "Geoff Graham",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "I've said one and mean another, and I've used one when I needed another. Comparing scroll-driven animations, scroll-triggered animations, container query scroll states, and view transitions for my fut...",
+          "published_at": "2026-06-08T13:00:34"
         }
       ]
     },
@@ -503,6 +591,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "派评｜近期值得关注的 App",
+          "url": "https://sspai.com/post/110874",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "published_at": "2026-06-08T10:16:23"
+        },
+        {
+          "title": "少数派正版软件 + 付费教程 618 促销活动限时开启",
+          "url": "https://sspai.com/post/110853",
+          "author": "福利派",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "又到了每年的618购物节，少数派照例为大家带来了众多优质正版软件和实用教程的大型活动专场。如果你有心仪的软件或者教程，都可以趁着优惠果断出手。TL;DR:活动时间：2025年6月8日（周一）至6月22 ...查看全文",
+          "published_at": "2026-06-08T08:11:23"
+        },
+        {
+          "title": "2026 美加墨世界杯观赛指南",
+          "url": "https://sspai.com/post/110681",
+          "author": "Copperfield",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "四年一届的暑期大片，又要上演啦。查看全文",
+          "published_at": "2026-06-08T07:00:00"
+        },
         {
           "title": "大语言模型正在变成大编程模型",
           "url": "https://sspai.com/post/110746",
@@ -529,33 +644,6 @@
           "source": "少数派",
           "summary": "它不是玄学，也不是单纯的浪漫。它是频率、传播、天线、轨道、多普勒效应，以及我们手中那一点点设备共同完成的一次小小实验。查看全文",
           "published_at": "2026-06-07T08:34:12"
-        },
-        {
-          "title": "2026 Apple 设计奖正式揭晓，细数 12 款 App 的特别之处",
-          "url": "https://sspai.com/post/110763",
-          "author": "Voyager_1",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Apple 设计大奖结果公布，而这 12 款 app 又有什么特别之处呢？查看全文",
-          "published_at": "2026-06-06T02:20:44"
-        },
-        {
-          "title": "本周看什么 | 最近值得一看的 8 部作品",
-          "url": "https://sspai.com/post/110786",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "📅本周新预告《逃出绝命街》正式预告6月1日，电影《逃出绝命街》发布了正式预告，将于8月14日在北美上映。大卫·罗伯特·米切尔执导，J·J·艾布拉姆斯制片，安妮·海瑟薇、伊万·麦克格雷格主演，一场雷暴之 ...查看全文",
-          "published_at": "2026-06-05T10:19:28"
-        },
-        {
-          "title": "macOS 存储管理漫谈：去重是节约空间的最好方法",
-          "url": "https://sspai.com/prime/story/macos-storage-management-deduplication",
-          "author": "广陵止息",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "虽然最近各种用LLM帮忙整理电脑里的文件、删除垃圾数据的帖子很火，但我天然对这种LLM用法抱有一丝警惕，我始终相信电脑里存在的文件都有自己的意义。所以我就想在这篇文章里和大家聊聊macOS里的存储管理 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "published_at": "2026-06-05T10:00:12"
         }
       ]
     }
