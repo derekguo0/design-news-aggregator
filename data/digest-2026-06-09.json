@@ -1,25 +1,53 @@
 {
   "date": "2026-06-09T00:00:00",
-  "total_items": 61,
+  "total_items": 65,
   "sources": [
-    "UX Planet",
-    "人人都是产品经理",
-    "A List Apart",
     "UX Design CC",
-    "Awwwards",
     "优设网",
-    "NN/g (Nielsen Norman Group)",
-    "少数派",
-    "Design Milk",
+    "Sidebar",
     "Product Hunt",
-    "Sidebar"
+    "少数派",
+    "Awwwards",
+    "人人都是产品经理",
+    "UX Planet",
+    "CSS-Tricks",
+    "NN/g (Nielsen Norman Group)",
+    "Design Milk",
+    "A List Apart"
   ],
-  "generated_at": "2026-06-09T03:53:54.233421",
+  "generated_at": "2026-06-09T15:15:22.118773",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 12,
+      "count": 13,
       "items": [
+        {
+          "title": "Strategy in the age of the machine",
+          "url": "https://uxdesign.cc/strategy-in-the-age-of-the-machine-48ac5b0e5788?source=rss----138adf9c44c---4",
+          "author": "Sam Belt",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Moving past the myth of productivity and experimenting with your own rules for imagination.AI often makes me feel like I am having one big, long crisis. Like I’m in limbo or purgatory, or something. D...",
+          "published_at": "2026-06-09T11:51:11"
+        },
+        {
+          "title": "Your design taste isn’t a feeling. It’s a prediction about user behavior.",
+          "url": "https://uxdesign.cc/your-design-taste-isnt-a-feeling-it-s-a-prediction-about-user-behavior-7a4a63f5f622?source=rss----138adf9c44c---4",
+          "author": "Kai Wong",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "What DataViz taught me about the importance of explaining designContinue reading on UX Collective »",
+          "published_at": "2026-06-09T11:46:27"
+        },
+        {
+          "title": "AI didn’t replace designers-it promoted them",
+          "url": "https://uxdesign.cc/ai-didnt-replace-designers-it-promoted-them-5b6d24de4e26?source=rss----138adf9c44c---4",
+          "author": "Lisa Demchenko",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How AI is rewriting the product designer’s role — from spec-maker to system architectContinue reading on UX Collective »",
+          "published_at": "2026-06-09T11:45:44"
+        },
         {
           "title": "AI design isn’t ugly. It’s fluent — and that’s the problem.",
           "url": "https://uxdesign.cc/ai-design-isnt-ugly-it-s-fluent-and-that-s-the-problem-131b2f4eb78c?source=rss----138adf9c44c---4",
@@ -84,31 +112,13 @@
           "published_at": "2026-06-08T09:30:16"
         },
         {
-          "title": "Sharp tools, AI token scarcity, AI-created document fatigue",
-          "url": "https://uxdesign.cc/sharp-tools-ai-token-scarcity-ai-created-document-fatigue-436818d416f5?source=rss----138adf9c44c---4",
-          "author": "Fabricio Teixeira",
+          "title": "A/B testing with Claude Code",
+          "url": "https://uxplanet.org/a-b-testing-with-claude-code-3a1e56df6684?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
           "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "Weekly curated resources for designers — thinkers and makers.“Super efficient, but over time, that efficiency started to shape how I thought. I was moving faster towards answers, but along narrower pa...",
-          "published_at": "2026-06-08T07:52:09"
-        },
-        {
-          "title": "You’re still archiving. Your files have already become substrate.",
-          "url": "https://uxdesign.cc/youre-still-archiving-your-files-have-already-become-substrate-ce65f088b75a?source=rss----138adf9c44c---4",
-          "author": "Adrian Levy",
-          "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "Same files. Second function. Different architecture entirely.Continue reading on UX Collective »",
-          "published_at": "2026-06-07T19:19:29"
-        },
-        {
-          "title": "The psychological cost of moving too fast",
-          "url": "https://uxdesign.cc/the-psychological-cost-of-moving-too-fast-867fb3830722?source=rss----138adf9c44c---4",
-          "author": "Meg Kurdziolek",
-          "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "Why discovery still matters in the age of AIHistorically, I used to pitch investment in early UX work as a cost-saving effort. Engineering time and resources were the most expensive assets a company p...",
-          "published_at": "2026-06-06T12:15:43"
+          "source": "UX Planet",
+          "summary": "A/B test compares two or more design variants to see which performs better against a measurable goal.Continue reading on UX Planet »",
+          "published_at": "2026-06-09T13:34:50"
         },
         {
           "title": "Figma skills for Claude Code: Complete Guide",
@@ -222,49 +232,49 @@
           "published_at": "2026-06-08T14:00:57"
         },
         {
-          "title": "张小龙15年前的预言成真：Vibe Coding成为现实，教你洞察AI产品的本质",
-          "url": "https://www.woshipm.com/it/6410208.html",
-          "author": "Blues",
+          "title": "商业需求分析：最重要的事最不被当回事",
+          "url": "https://www.woshipm.com/share/6410222.html",
+          "author": "率剑士",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "张小龙的2359条饭否日记正在AI时代焕发新生。这位微信之父在凌晨写下的碎片思考，精准预言了Vibe Coding等当代AI产品逻辑。本文通过解码这些'思维原矿'，揭示产品经理如何用工程师的严谨与诗人的敏感，在人性常量与AI变量的碰撞中寻找答案。“以后的互联网公司组成是，一个ceo和一堆会写程序的机器人。”——张小龙，2011年1月10日，发布于饭否。你看，15年前，张小龙就预言了今天的Vibe ...",
-          "published_at": "2026-06-09T03:30:07"
+          "summary": "商业需求分析长期被忽视却至关重要，它决定了产品能否真正实现商业化成功。本文从行业格局、商业模式拆解到需求研判方法论，结合定位四步法与PEST分析框架，为你揭示如何构建完整的商业分析体系，避开常见的决策陷阱。“夫未战而庙算胜者，得算多也；未战而庙算不胜者，得算少也。” —《孙子兵法·计篇》长期以来，提到商业需求分析，业内通常默认是走走形式。也不是说不重要，只是市场需求分析和产品需求分析已经包括了这部...",
+          "published_at": "2026-06-09T09:49:15"
         },
         {
-          "title": "测完三个天气MCP，我找到了把气象专家装进AI Agent的最佳路径",
-          "url": "https://www.woshipm.com/share/6410184.html",
-          "author": "硅基观察Pro",
+          "title": "AI陪老人，一个比养猫更大、也更难的赛道",
+          "url": "https://www.woshipm.com/ai/6410474.html",
+          "author": "老猫看赛道",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI智能体战场正从大模型转向MCP工具生态，天气服务成为检验平台实力的试金石。本文深度测评阿里云百炼平台三大天气MCP服务，揭示天气通在POI级定位、100天超长预报和token成本控制上的绝对优势，展现AI时代垂直服务的专业壁垒与生态逻辑。当大模型进入下半场，Agent（智能体）的争夺战已经悄然转移到了MCP（模型上下文协议）工具生态上。如果说大模型是AI的”大脑”，那么MCP工具就是连接真实世...",
-          "published_at": "2026-06-09T03:20:57"
+          "summary": "你上一次陪爸妈说满十分钟话，是什么时候？3亿多老人、过半空巢，这道题靠子女的愧疚解不开。AI正第一次让“陪老人说话”变得可行——市场比养猫大得多，但也难得多。这篇讲清楚：为什么是现在、谁来付钱、四个真实的坑，以及一套能照着做的方法论。上一篇我聊AI养猫，后台被问得最多的一句是：下一个被低估的情感赛道是什么？我的答案，可能会让你沉默一下——是陪你爸妈。先问你一个问题，别急着答。你家老人，今天跟人说过...",
+          "published_at": "2026-06-09T09:48:59"
         },
         {
-          "title": "用AI生成了100篇废稿，我发现应该让它干这件事",
-          "url": "https://www.woshipm.com/share/6410181.html",
-          "author": "杨泽l社交式增长",
+          "title": "后台截图一扔，你的Agent是不是也傻眼了",
+          "url": "https://www.woshipm.com/ai/6410468.html",
+          "author": "下一个Token",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当多数人还在用AI批量生成平庸内容时，这篇深度体验揭示了更颠覆的打开方式——让AI成为你的终身导师。从四柱八字到专业领域，作者通过构建专属Agent验证了AI在个性化教学上的惊人潜力：拆解知识盲区、定制学习路径、无限耐心答疑。这或许正是大模型最被低估的杀手级应用。前两天群友问我，龙虾是不是过气了？好久没人讨论了。我说没声音通常有两种可能：一种是真过气了，一种是已经渗透进工作生活，没必要再一惊一乍了...",
-          "published_at": "2026-06-09T03:07:07"
+          "summary": "现阶段很多人都在卷各类 Agent 自动化。但说实话，大部分产品真到了实际业务场景，经常连个最基础的后台配置按钮都找不明白。我们总觉得是模型智商不够、推理掉链子，但很少有人意识到，它其实是眼睛\"瞎\"了。这篇文章不聊虚的算法架构，就想结合我自己在多模态项目里的踩坑经历，聊聊幕后的 AI 训练师到底是怎么给 Agent 装上\"眼睛\"的，以及为什么多模态下半场的胜负手，早就变成了谁的数据生产体系更硬核。...",
+          "published_at": "2026-06-09T09:32:44"
         },
         {
-          "title": "一只没有脚的鸟：钉钉 ONE 死亡复盘，与一个产品人最该警惕的事",
-          "url": "https://www.woshipm.com/pd/6410167.html",
-          "author": "Link",
+          "title": "面试被”灵魂四问”问懵？聊聊我从抽卡式 Vibe Coding 到规划化的过程",
+          "url": "https://www.woshipm.com/ai/6410422.html",
+          "author": "阿K的AI 碎记",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "钉钉 ONE 的陨落揭示了 AI 产品最危险的陷阱——将上一代的成功经验奉为真理。这款曾获无招亲自挂帅的 AI 原生应用，在资源充沛的情况下快速起飞又急速坠落，核心症结在于把'已读未读'的胜利手感简单移植到 AI 时代。当团队沉浸在技术履约的自我感动中时，用户却承受着'已读恐怖主义'的压迫感。这场价值 7.5 万字的深度复盘，残酷解构了从产品设计到组织决策的连环失误。钉钉 ONE 大概是这两年最值...",
-          "published_at": "2026-06-09T02:51:14"
+          "summary": "当AI编程工具让你误以为'说话就能当全栈'时，职场现实会给你当头一棒。本文揭露Vibe Coding热潮背后的工程化陷阱，从前后端对接崩坏、设计规范失控到AI死循环等真实案例，提炼出可落地的四大解决方案：规范文件化、接口契约先行、模型切换策略与教训文档体系。这些从血泪教训中总结的实战经验，将帮你跨越从'AI聊天'到'工程交付'的关键鸿沟。最近技术圈被”Vibe Coding”刷屏，搞得不少人产生了...",
+          "published_at": "2026-06-09T08:50:19"
         },
         {
-          "title": "数据分析，如何挖掘潜在业务机会",
-          "url": "https://www.woshipm.com/share/6410142.html",
-          "author": "接地气的陈老师",
+          "title": "企业财务系统的GDPR合规设计",
+          "url": "https://www.woshipm.com/share/6410378.html",
+          "author": "敏尔说",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在数据驱动的商业决策中，如何真正识别并抓住机会点？本文通过四种典型数据形态的对比分析，揭示完美机会点的核心特征——从业务盲区发现增量空间。通过评估增长趋势、复现可能性和细分领域潜力三大方法论，教你避开‘三无分析’陷阱，建立可验证的机会挖掘体系。“数据分析，不能光讲已经发生过的事，要找到业务机会点”不管是工作还是面试，同学们都经常听到这种说法。问题是：怎么才算“找到机会点”呢?今天我们系统讲解下，全...",
-          "published_at": "2026-06-09T01:58:48"
+          "summary": "GDPR合规不是简单的界面补丁，而是需要从数据模型层重构系统设计。本文通过真实案例拆解欧盟《通用数据保护条例》的核心要求，揭示中国企业出海常见的三大合规陷阱，并给出从数据收集、存储到销毁的全链路解决方案，帮助产品经理在系统架构层面构建合规护城河。2018年，GDPR正式生效的第一天，谷歌就被罚了5000万欧元。不是因为他们不知道这部法律，而是因为他们的系统，没有从底层把合规逻辑嵌进去。GDPR，中...",
+          "published_at": "2026-06-09T08:46:47"
         }
       ]
     },
@@ -324,6 +334,15 @@
           "category": "网页设计",
           "source": "A List Apart",
           "summary": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things t...",
+          "published_at": null
+        },
+        {
+          "title": "Pacôme Pertant Portfolio",
+          "url": "https://www.awwwards.com/sites/pacome-pertant-portfolio",
+          "author": "Louis Bocquet",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
           "published_at": null
         },
         {
@@ -388,57 +407,66 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Hashgraph Ventures",
-          "url": "https://www.awwwards.com/sites/hashgraph-ventures",
-          "author": "Glenn Catteeuw",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 6,
       "items": [
         {
-          "title": "Vaani",
-          "url": "https://www.producthunt.com/products/vaani-2",
-          "author": "Rohan Chaubey",
+          "title": "agmsg",
+          "url": "https://www.producthunt.com/products/agmsg",
+          "author": "Koichi Fujikawa",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Lip-synced AI dubbing for creators, brands and studiosDiscussion|Link",
-          "published_at": "2026-06-07T06:15:39"
+          "summary": "Stop copy-pasting between your AI coding agentsDiscussion|Link",
+          "published_at": "2026-06-07T03:17:24"
         },
         {
-          "title": "The Virtual OS Museum",
-          "url": "https://www.producthunt.com/products/the-virtual-os-museum",
+          "title": "Solarch",
+          "url": "https://www.producthunt.com/products/solarch",
+          "author": "Ugur Akdogan",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Interactive diagrams with AI, and your code always in syncDiscussion|Link",
+          "published_at": "2026-06-08T01:48:48"
+        },
+        {
+          "title": "Uiverse Design",
+          "url": "https://www.producthunt.com/products/uiverse-io",
+          "author": "Adam Giebl",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "De-slop your AI generated websitesDiscussion|Link",
+          "published_at": "2026-06-08T20:01:02"
+        },
+        {
+          "title": "AgentOS",
+          "url": "https://www.producthunt.com/products/agentos-run-agents-like-a-company",
+          "author": "Kazim Akgül",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Manage AI agents, tasks, workspaces from one control layerDiscussion|Link",
+          "published_at": "2026-06-08T21:45:38"
+        },
+        {
+          "title": "Kimi Work",
+          "url": "https://www.producthunt.com/products/kimi-ai-assistant",
           "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Relive vintage operating systems right on your desktopDiscussion|Link",
-          "published_at": "2026-06-08T04:41:15"
+          "summary": "The AI desktop for knowledge workDiscussion|Link",
+          "published_at": "2026-06-09T03:15:05"
         },
         {
-          "title": "Tamadoggo",
-          "url": "https://www.producthunt.com/products/tamadoggo",
-          "author": "Sorin Vasiliu",
+          "title": "agentcad",
+          "url": "https://www.producthunt.com/products/agentcad",
+          "author": "James Dillard",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A living journal for your pet's life, with AI insightsDiscussion|Link",
-          "published_at": "2026-06-07T16:39:30"
-        },
-        {
-          "title": "NTSC-RS",
-          "url": "https://www.producthunt.com/products/ntsc-rs",
-          "author": "Zac Zuo",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Open-source video emulation of analog TV and VHS artifactsDiscussion|Link",
-          "published_at": "2026-06-08T05:18:36"
+          "summary": "A CAD design tool for coding agents (free + open source)Discussion|Link",
+          "published_at": "2026-06-07T10:53:08"
         }
       ]
     },
@@ -492,8 +520,8 @@
           "published_at": null
         },
         {
-          "title": "巧用Cursor设计模式，不用Figma就能轻松搞定UI验收",
-          "url": "https://www.uisdc.com/hunter/0221672748.html",
+          "title": "MacOS部菜单栏图标塞满，苹果官方收纳功能终于来了",
+          "url": "https://www.uisdc.com/hunter/0221672961.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -507,49 +535,64 @@
       "count": 5,
       "items": [
         {
-          "title": "Prototyping gamified e-commerce apps [Live Demo]",
-          "url": "https://bit.ly/side-pie4",
+          "title": "Falling in love with the build",
+          "url": "https://karlkoch.me/writing/falling-in-love-with-the-build",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Countdowns. Limited drops. Game-style hunts. Build real-world gamification patterns that keep users coming back.",
-          "published_at": "2026-06-08T07:48:00"
+          "summary": "Write-first design prevents falling in love with the wrong thing by prioritizing reasoning over implementation.",
+          "published_at": "2026-06-09T07:05:15"
         },
         {
-          "title": "A sharp tool can still ruin the cut",
-          "url": "https://www.doc.cc/articles/a-sharp-tool-can-still-ruin-the-cut",
+          "title": "How to center an element horizontally and vertically",
+          "url": "https://css-generators.com/center/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Some ideas only show up when you take the long way around, when you don’t quite know what you’re looking for yet.",
-          "published_at": "2026-06-08T07:47:32"
+          "summary": "100 different ways to center a single element horizontally and vertically inside a container.",
+          "published_at": "2026-06-09T07:04:51"
         },
         {
-          "title": "Beyond the prompt: Claude Code",
-          "url": "https://arps18.github.io/posts/claude-code-mastery/",
+          "title": "Building a general-purpose accessibility agent",
+          "url": "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A deep dive into Claude Code for daily users, including the .claude directory, CLAUDE.md the way Boris writes it, CLAUDE.local.md, and more.",
-          "published_at": "2026-06-08T07:46:53"
+          "summary": "The experimental general-purpose accessibility agent that GitHub is piloting.",
+          "published_at": "2026-06-09T07:04:26"
         },
         {
-          "title": "Daily Designer",
-          "url": "https://www.dailydesigner.net/",
+          "title": "Enshittifier: replace AI with 💩",
+          "url": "https://enshittifier.wells.ee/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Every day, a thought-provoking quote from a designer.",
-          "published_at": "2026-06-08T07:45:42"
+          "summary": "The web is drowning in AI. We replace it with 💩. In your browser. In your fonts.",
+          "published_at": "2026-06-09T07:03:50"
         },
         {
-          "title": "When AI builds itself",
-          "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+          "title": "Loop engineering",
+          "url": "https://addyosmani.com/blog/loop-engineering/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Anthropic's progress toward recursive self-improvement, and its implications.",
-          "published_at": "2026-06-08T07:43:56"
+          "summary": "You don’t really need to be good at prompting anymore. The thing to get good at is the loop that does the prompting for you.",
+          "published_at": "2026-06-09T07:03:15"
+        }
+      ]
+    },
+    {
+      "category": "前端设计",
+      "count": 1,
+      "items": [
+        {
+          "title": "Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions",
+          "url": "https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/",
+          "author": "Geoff Graham",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "I've said one and mean another, and I've used one when I needed another. Comparing scroll-driven animations, scroll-triggered animations, container query scroll states, and view transitions for my fut...",
+          "published_at": "2026-06-08T13:00:34"
         }
       ]
     },
@@ -557,6 +600,24 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "社区速递 144 | 听 AI 开「营养处方」、无感耳夹耳机与磁吸支架",
+          "url": "https://sspai.com/post/110907",
+          "author": "Matrix机器人",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+          "published_at": "2026-06-09T09:06:41"
+        },
+        {
+          "title": "众测招募｜灵犀 Linx 键盘功能共创计划开启",
+          "url": "https://sspai.com/post/110863",
+          "author": "什么陈",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "少数派联合思维重置与Akko共创的新产品「灵犀Linx键盘」即将上市。在产品正式发布前，我们希望邀请一批用户提前参与体验，共同验证功能设计和使用场景。本次将面向少数派社区招募10名体验用户。关于灵犀L ...查看全文",
+          "published_at": "2026-06-09T04:00:00"
+        },
         {
           "title": "派早报：WWDC26 全球开发者大会开幕等",
           "url": "https://sspai.com/post/110889",
@@ -592,24 +653,6 @@
           "source": "少数派",
           "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
           "published_at": "2026-06-08T10:16:23"
-        },
-        {
-          "title": "少数派正版软件 + 付费教程 618 促销活动限时开启",
-          "url": "https://sspai.com/post/110853",
-          "author": "福利派",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "又到了每年的618购物节，少数派照例为大家带来了众多优质正版软件和实用教程的大型活动专场。如果你有心仪的软件或者教程，都可以趁着优惠果断出手。TL;DR:活动时间：2025年6月8日（周一）至6月22 ...查看全文",
-          "published_at": "2026-06-08T08:11:23"
-        },
-        {
-          "title": "2026 美加墨世界杯观赛指南",
-          "url": "https://sspai.com/post/110681",
-          "author": "Copperfield",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "四年一届的暑期大片，又要上演啦。查看全文",
-          "published_at": "2026-06-08T07:00:00"
         }
       ]
     }
