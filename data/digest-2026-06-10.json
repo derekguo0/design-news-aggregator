@@ -1,26 +1,37 @@
 {
   "date": "2026-06-10T00:00:00",
-  "total_items": 67,
+  "total_items": 71,
   "sources": [
-    "人人都是产品经理",
-    "Sidebar",
-    "NN/g (Nielsen Norman Group)",
-    "Design Milk",
-    "A List Apart",
-    "UX Design CC",
-    "少数派",
     "UX Planet",
+    "NN/g (Nielsen Norman Group)",
+    "A List Apart",
     "优设网",
     "Awwwards",
+    "Sidebar",
+    "CSS-Tricks",
+    "UX Design CC",
     "Product Hunt",
-    "CSS-Tricks"
+    "少数派",
+    "Smashing Magazine",
+    "Design Milk",
+    "Intercom Blog",
+    "人人都是产品经理"
   ],
-  "generated_at": "2026-06-10T04:04:54.812231",
+  "generated_at": "2026-06-10T15:45:24.922316",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 14,
+      "count": 15,
       "items": [
+        {
+          "title": "Liquid Glass: who gets to decide how an interface looks?",
+          "url": "https://uxdesign.cc/liquid-glass-who-gets-to-decide-how-an-interface-looks-a0abe75ae21e?source=rss----138adf9c44c---4",
+          "author": "Fabrizia Ausiello",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Notes from the 2026 WWDC keynoteContinue reading on UX Collective »",
+          "published_at": "2026-06-10T10:42:59"
+        },
         {
           "title": "Should you really give AI your whole digital life?",
           "url": "https://uxdesign.cc/should-you-really-give-ai-your-whole-digital-life-9b0c55df46e2?source=rss----138adf9c44c---4",
@@ -103,13 +114,13 @@
           "published_at": "2026-06-08T11:13:18"
         },
         {
-          "title": "The flaw is the feature",
-          "url": "https://uxdesign.cc/the-flaw-is-the-feature-e6769c5cf5b4?source=rss----138adf9c44c---4",
-          "author": "Dora Czerna",
+          "title": "Claude Fable 5 for Product Designers",
+          "url": "https://uxplanet.org/claude-fable-5-for-product-designers-8858690a420a?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
           "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "Perfection used to prove a person had tried. Now a machine conjures it in seconds, for nothing. So what is polish actually worth?Volunteers in a 1960s psychology study were played a tape of a man audi...",
-          "published_at": "2026-06-08T09:32:12"
+          "source": "UX Planet",
+          "summary": "Claude Fable 5 is a Mythos-class model that Anthropic made safe for general use. At the time of writing this article, Fable 5 is the most…Continue reading on UX Planet »",
+          "published_at": "2026-06-10T13:01:01"
         },
         {
           "title": "Deel vs Remote for Product Design Organizations",
@@ -151,17 +162,8 @@
     },
     {
       "category": "用户体验研究",
-      "count": 6,
+      "count": 5,
       "items": [
-        {
-          "title": "The Four Design Jobs AI Created (So Far)",
-          "url": "https://www.nngroup.com/articles/design-jobs-ai-created/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
         {
           "title": "The Hidden Why: Behavioral Economics for UX",
           "url": "https://www.nngroup.com/articles/behavioral-economics-for-ux/",
@@ -211,8 +213,17 @@
     },
     {
       "category": "产品设计",
-      "count": 10,
+      "count": 12,
       "items": [
+        {
+          "title": "These Revival Rugs Bring Summer Color Indoors and Out",
+          "url": "https://design-milk.com/these-revival-rugs-bring-summer-color-indoors-and-out/",
+          "author": "Anna Zappia",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Two new options from Revival Rugs, Shima and Khder, bring texture, pattern, and summer shades to indoor and outdoor spaces.",
+          "published_at": "2026-06-10T14:00:35"
+        },
         {
           "title": "Old Wine Tanks Become Suites at this Ionian Sea Resort",
           "url": "https://design-milk.com/old-wine-tanks-become-suites-at-this-ionian-sea-resort/",
@@ -259,56 +270,74 @@
           "published_at": "2026-06-08T14:00:57"
         },
         {
-          "title": "这一次，网红测评大变样！",
-          "url": "https://www.woshipm.com/share/6410792.html",
-          "author": "逸和 知识服务工作者",
+          "title": "Extending Fin as the most open Agent platform",
+          "url": "https://www.intercom.com/blog/extending-fin-as-the-most-open-agent-platform/",
+          "author": "Paul Adams",
           "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "国家网信办与市场监管总局联合重拳出击，新规直击网络测评行业乱象。从禁止主观体验冒充客观测评到封杀无资质性能测试，新规将彻底重塑网红测评与品牌营销的玩法。本文深度解析4项被禁测评行为与3种必须优化的营销策略，揭示监管如何倒逼行业回归真实本质，为从业者提供合规转型的实战指南。2026年6月8日消息，国家网信办、市场监管总局联合发布《网络测评活动规范》，针对当下网络测评夸大宣传、只评不测、商测一体等乱象...",
-          "published_at": "2026-06-10T03:29:14"
+          "source": "Intercom Blog",
+          "summary": "Fin can be used as a Service Agent on top of HubSpot and Freshworks, meaning you can use the world’s best Agent without migrating off your helpdesk.",
+          "published_at": "2026-06-09T16:45:42"
         },
         {
-          "title": "会计引擎：凭证模板设计",
-          "url": "https://www.woshipm.com/pd/6410811.html",
-          "author": "敏尔说",
+          "title": "AI产品的冷启动：从0到1000用户的真实案例拆解",
+          "url": "https://www.woshipm.com/share/6411231.html",
+          "author": "李明Bright",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "财务数字化转型的关键一步——会计引擎如何通过凭证模板实现自动化记账？本文深度解析从业务事件触发到凭证生成的全流程架构设计，揭秘采购付款、工资发放等核心场景的模板配置逻辑，带你看懂企业财务系统从手工操作到智能化的跃迁路径。大家有没有遇到过这样的场景：业务系统里一笔付款已经完成了，但财务还要手工登记凭证，搞到月底加班到深夜？这其实是一个非常普遍的痛点。传统企业的财务记账，依赖大量人工操作，不仅效率低，...",
-          "published_at": "2026-06-10T03:28:55"
+          "summary": "AI产品的冷启动往往不是败于功能，而是死于错误的增长策略。本文深度拆解Notion AI、Jasper和Grammarly三大标杆产品的0到1破局之道：从精准锚定内容生产者、构建垂直社群信任到浏览器插件嵌入场景。这些案例揭示了AI产品获客的本质——用最小成本建立用户信任，而非盲目砸钱推广。去年有个朋友做了一款AI写作助手，功能不比Jasper差，但上线三个月，用户不到两百。他烧了一万块广告费，换来...",
+          "published_at": "2026-06-10T11:19:31"
         },
         {
-          "title": "【跨境产品实战笔记07】上架出单就万事大吉？教你拆解“退货率”，打赢新品利润保卫战",
-          "url": "https://www.woshipm.com/share/6410742.html",
-          "author": "骞说跨境",
+          "title": "小红书正在”去品牌化”",
+          "url": "https://www.woshipm.com/share/6411163.html",
+          "author": "Vic的营销思考",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "产品热销却亏损？跨境电商的隐形杀手竟是退货率！本文深度拆解高退货率如何吞噬利润、拖垮链接权重，并揭示如何将退货数据转化为产品迭代的黄金线索。从算清隐形成本到破解亚马逊退货理由的伪装，再到实战案例中的'三步走'分级响应战略，带你掌握从运营端到供应链再到研发端的全链条止血术。产品终于顺利上架，广告一开，单量蹭蹭往上涨，整个团队都在庆祝打造出了一个“爆款”。但一个月后，财务把利润表甩在桌子上：“这款产品...",
-          "published_at": "2026-06-10T03:18:01"
+          "summary": "小红书电商体系的重大变革正在颠覆品牌运营逻辑。关闭传统店铺入口、全面转向买手主理人模式，标志着平台对「人对人推荐」核心价值的强化。本文通过对比抖音天猫的流量逻辑，揭示品牌如何在小红书生态中摆脱自说自话困境，借力真实用户口碑实现高效转化。最近有一条消息需要所有品牌注意6月起小红书关掉了传统店铺入口，所有电商经营统一迁移到”买手/主理人店铺”体系。官方说法是升级体验、强化人对人的推荐翻译一下就是，小红...",
+          "published_at": "2026-06-10T08:37:13"
         },
         {
-          "title": "【内部流程】小红书内容测试迭代的完整方法论",
-          "url": "https://www.woshipm.com/share/6410738.html",
-          "author": "林卿LinQ.",
+          "title": "两位经济学家的AGI终极推演：当一切都不再稀缺，人类还剩什么？",
+          "url": "https://www.woshipm.com/ai/6411158.html",
+          "author": "硅基观察Pro",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "品牌在小红书上的内容测试常陷入盲目试错怪圈，殊不知这本质是一场科学验证。本文系统拆解内容测试方法论，从假设提出、变量拆解到数据归因，揭秘如何用最小成本构建可复用的内容模型，帮助品牌跳出‘发了又删’的低效循环。这篇文章，我想聊一个几乎所有做小红书的品牌商家都碰到过的问题“内容测试”。我见过好多品牌，一上来就发几十篇笔记，发完一看数据不好，换一批内容再发，再不好，再换……几个月下来，发了几百篇笔记，钱...",
-          "published_at": "2026-06-10T03:16:10"
+          "summary": "AGI时代的到来正在引发一场关于经济结构的深度思考。Google DeepMind专家与斯坦福学者提出的'关系型部门'概念，揭示了人类情感连接可能成为未来稀缺资源。本文通过资本膨胀、需求弹性等关键视角，剖析当机器全面接管生产力时，人类社会将面临的财富分配难题与转型阵痛。如果有一天，AGI（通用人工智能）彻底接管了所有的生产力，从写代码、做账本到建工厂、造飞船，机器都能比人类做得更好、更快、更便宜，...",
+          "published_at": "2026-06-10T08:35:43"
         },
         {
-          "title": "抛弃SOP，做AI的“包工头”：从FDE看AI时代产品经理的思维重构",
-          "url": "https://www.woshipm.com/share/6410548.html",
-          "author": "十二",
+          "title": "微信AI的雄心与耐心——读小程序AI接入文档的10点启发",
+          "url": "https://www.woshipm.com/ai/6411127.html",
+          "author": "卫夕",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "OpenAI与Anthropic同日宣布10亿美元级企业AI合资项目，FDE（前置部署工程师）模式正在颠覆传统产品思维。本文深度剖析AI时代产品经理的角色转变：从交付工具到培训'数字员工'，从标准化SOP到动态学习系统，从效率至上到人机协同的情绪价值设计。当AI成为劳动力而非工具时，产品经理必须重构业务逻辑与组织架构。最近，一期名为《十字路口-FDE》的播客在圈内引发了不小的共鸣。事情的起因是，5...",
-          "published_at": "2026-06-10T03:14:02"
+          "summary": "微信AI生态的接入指引正在悄然改写小程序竞争规则。通过GUI Agent与开发者模式双轨并行，微信正将数百万小程序转化为可调度服务。从原子接口到注意力权重表，这套体系既保障了交易确定性，又保留了对话式交互的灵活性。但开发者是否买账，仍取决于微信如何平衡平台控制与生态开放。昨天，微信发了《关于开发者接入微信AI生态的指引》。业内还是非常关注的，我看大家都在纷纷转发。但鲜有人真正去研究和细看那些具体接...",
+          "published_at": "2026-06-10T08:04:57"
+        },
+        {
+          "title": "微信搭起Agent牌桌，京东、美团重新落座",
+          "url": "https://www.woshipm.com/it/6411094.html",
+          "author": "奇点研究社",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "当AI开始接管人与服务之间的连接，竞争的焦点将不再是谁拥有更多用户，而是谁能够成为Agent网络中不可替代的能力节点。12年前，腾讯与京东初牵手，将京东接入微信”九宫格”，彼时，腾讯给的是移动互联网时代最稀缺的资源：入口流量，京东给的是腾讯最缺的电商履约能力：供应链、物流、正品心智。那是一场典型的”流量+供应链”互补婚姻，腾讯不必亲自下场做重资产的电商，京东则获得了微信生态的顶级流量位。12年后，...",
+          "published_at": "2026-06-10T07:45:42"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 14,
+      "count": 15,
       "items": [
+        {
+          "title": "The Benefits Of Cognitive Inclusion In UX Research",
+          "url": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
+          "author": "hello@smashingmagazine.com (Kate Kalcevich)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
+          "published_at": "2026-06-10T10:00:00"
+        },
         {
           "title": "Good designers, bad websites: a proposal",
           "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
@@ -361,6 +390,15 @@
           "category": "网页设计",
           "source": "A List Apart",
           "summary": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things t...",
+          "published_at": null
+        },
+        {
+          "title": "Hubtown",
+          "url": "https://www.awwwards.com/sites/hubtown",
+          "author": "Unseen Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
           "published_at": null
         },
         {
@@ -425,15 +463,6 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "REF Digital",
-          "url": "https://www.awwwards.com/sites/ref-digital",
-          "author": "REF Digital",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -442,49 +471,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Uiverse Design",
-          "url": "https://www.producthunt.com/products/uiverse-io",
-          "author": "Adam Giebl",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "De-slop your AI generated websitesDiscussion|Link",
-          "published_at": "2026-06-08T20:01:02"
-        },
-        {
-          "title": "AgentOS",
-          "url": "https://www.producthunt.com/products/agentos-run-agents-like-a-company",
-          "author": "Kazim Akgül",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Manage AI agents, tasks, workspaces from one control layerDiscussion|Link",
-          "published_at": "2026-06-08T21:45:38"
-        },
-        {
-          "title": "Kimi Work",
-          "url": "https://www.producthunt.com/products/kimi-ai-assistant",
+          "title": "iArt.ai",
+          "url": "https://www.producthunt.com/products/iart-ai",
           "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The AI desktop for knowledge workDiscussion|Link",
-          "published_at": "2026-06-09T03:15:05"
+          "summary": "Turn ideas & designs into stunning video/animation.Discussion|Link",
+          "published_at": "2026-06-08T09:56:37"
         },
         {
-          "title": "Fluido",
-          "url": "https://www.producthunt.com/products/fluido",
-          "author": "Ihor Boldirev",
+          "title": "veridive",
+          "url": "https://www.producthunt.com/products/veridive-discover-the-spoken-web",
+          "author": "Yusuf Ibili",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn any Figma shape into liquid metal in one clickDiscussion|Link",
-          "published_at": "2026-06-09T06:20:18"
+          "summary": "Find the 30 seconds that matter in any video via chatDiscussion|Link",
+          "published_at": "2026-06-09T08:44:33"
         },
         {
-          "title": "agmsg",
-          "url": "https://www.producthunt.com/products/agmsg",
-          "author": "Koichi Fujikawa",
+          "title": "Screen Charm",
+          "url": "https://www.producthunt.com/products/screen-charm",
+          "author": "Sergei Nazarov",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Stop copy-pasting between your AI coding agentsDiscussion|Link",
-          "published_at": "2026-06-07T03:17:24"
+          "summary": "Give your screen recordings more charmDiscussion|Link",
+          "published_at": "2026-06-08T13:53:32"
+        },
+        {
+          "title": "LayerProof Vellum",
+          "url": "https://www.producthunt.com/products/layerproof-social-content-generation",
+          "author": "Ben Lang",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "One canvas for every image asset you needDiscussion|Link",
+          "published_at": "2026-06-08T08:52:25"
+        },
+        {
+          "title": "AGNT.Hub",
+          "url": "https://www.producthunt.com/products/agnt-hub",
+          "author": "Anton Demenko",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Build always-on AI agents without managing serversDiscussion|Link",
+          "published_at": "2026-06-09T13:30:46"
         }
       ]
     },
@@ -538,8 +567,8 @@
           "published_at": null
         },
         {
-          "title": "Figma推出AI检查功能，一键解决设计系统不同步困扰",
-          "url": "https://www.uisdc.com/hunter/0221672998.html",
+          "title": "同样是Siri，为什么在 iPhone 和 VisionOS 上体验完全不同？",
+          "url": "https://www.uisdc.com/hunter/0221673083.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -553,56 +582,65 @@
       "count": 5,
       "items": [
         {
-          "title": "Falling in love with the build",
-          "url": "https://karlkoch.me/writing/falling-in-love-with-the-build",
+          "title": "How I validated design decisions before writing production code",
+          "url": "https://slack.design/articles/how-i-validated-design-decisions-before-writing-production-code/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Write-first design prevents falling in love with the wrong thing by prioritizing reasoning over implementation.",
-          "published_at": "2026-06-09T07:05:15"
+          "summary": "We can finally generate evidence before committing to anything.",
+          "published_at": "2026-06-10T07:56:24"
         },
         {
-          "title": "How to center an element horizontally and vertically",
-          "url": "https://css-generators.com/center/",
+          "title": "fonts.xyz",
+          "url": "https://www.fonts.xyz/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "100 different ways to center a single element horizontally and vertically inside a container.",
-          "published_at": "2026-06-09T07:04:51"
+          "summary": "A little internet village for independent type foundries and designers.",
+          "published_at": "2026-06-10T07:55:31"
         },
         {
-          "title": "Building a general-purpose accessibility agent",
-          "url": "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/",
+          "title": "The old typography is new again",
+          "url": "https://elliotjaystocks.com/blog/the-old-typography-is-new-again",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The experimental general-purpose accessibility agent that GitHub is piloting.",
-          "published_at": "2026-06-09T07:04:26"
+          "summary": "How variable fonts utilize optical sizing axes to automate legibility across varying viewports and scales.",
+          "published_at": "2026-06-10T07:54:56"
         },
         {
-          "title": "Enshittifier: replace AI with 💩",
-          "url": "https://enshittifier.wells.ee/",
+          "title": "performative-ui",
+          "url": "https://vorpus.github.io/performativeUI/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The web is drowning in AI. We replace it with 💩. In your browser. In your fonts.",
-          "published_at": "2026-06-09T07:03:50"
+          "summary": "Components that signal how oversubscribed your funding round is.",
+          "published_at": "2026-06-10T07:53:54"
         },
         {
-          "title": "Loop engineering",
-          "url": "https://addyosmani.com/blog/loop-engineering/",
+          "title": "The four design jobs AI created (so far)",
+          "url": "https://www.nngroup.com/articles/design-jobs-ai-created/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "You don’t really need to be good at prompting anymore. The thing to get good at is the loop that does the prompting for you.",
-          "published_at": "2026-06-09T07:03:15"
+          "summary": "“AI design” is one label but has forked into four different types of work.",
+          "published_at": "2026-06-10T07:53:16"
         }
       ]
     },
     {
       "category": "前端设计",
-      "count": 1,
+      "count": 2,
       "items": [
+        {
+          "title": "Creating Memorable Web Experiences: A Modern CSS Toolkit",
+          "url": "https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/",
+          "author": "Mariana Beldi",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing techniques I reach for when I want a site to feel al...",
+          "published_at": "2026-06-10T13:02:10"
+        },
         {
           "title": "Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions",
           "url": "https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/",
@@ -618,6 +656,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "线下活动｜周日到广州来，给你一张过去的 CD",
+          "url": "https://sspai.com/post/110911",
+          "author": "听歌的水獭",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "故事的开端今年因为和飞傲合作多功能便携CD音箱一体机BeatBox，我们对CD以及CD文化的了解也加深了不少，也因此认识不少真正的CD、唱片收藏大佬，谢江川川哥就是其中一位。川哥是一家唱片店的老板，从 ...查看全文",
+          "published_at": "2026-06-10T09:30:00"
+        },
+        {
+          "title": "又是一年 618：可以直接抄作业的护肤搭配清单",
+          "url": "https://sspai.com/post/110614",
+          "author": "程天冲",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "直接从搭配开始，为不同肤质、不同诉求的人群提供具体的产品搭配建议。查看全文",
+          "published_at": "2026-06-10T07:00:00"
+        },
+        {
+          "title": "告别阅读焦虑：一份硬核科学阅读指南",
+          "url": "https://sspai.com/post/110557",
+          "author": "知道分子吴先先",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "阅读是个熟练功夫。查看全文",
+          "published_at": "2026-06-10T03:29:04"
+        },
         {
           "title": "这些人用实测，给麦金獭钢化膜交了份真实答卷",
           "url": "https://sspai.com/post/110868",
@@ -644,33 +709,6 @@
           "source": "少数派",
           "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
           "published_at": "2026-06-09T09:06:41"
-        },
-        {
-          "title": "众测招募｜灵犀 Linx 键盘功能共创计划开启",
-          "url": "https://sspai.com/post/110863",
-          "author": "什么陈",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "少数派联合思维重置与Akko共创的新产品「灵犀Linx键盘」即将上市。在产品正式发布前，我们希望邀请一批用户提前参与体验，共同验证功能设计和使用场景。本次将面向少数派社区招募10名体验用户。关于灵犀L ...查看全文",
-          "published_at": "2026-06-09T04:00:00"
-        },
-        {
-          "title": "派早报：WWDC26 全球开发者大会开幕等",
-          "url": "https://sspai.com/post/110889",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "少数派的近期动态少数派×AKKO联合共创带屏键盘即将上线，6月11日，来直播间一起共创。即刻预约可爱又好玩的经典萌物——监工水獭挂件复刻啦！会员点数也可兑换！给獭一个家首款MBTI定制墨水屏「口袋先知 ...查看全文",
-          "published_at": "2026-06-08T22:16:44"
-        },
-        {
-          "title": "一图流 | Apple WWDC26 开幕式回顾",
-          "url": "https://sspai.com/post/110887",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "WWDC26 开幕式一图流来啦。查看全文",
-          "published_at": "2026-06-08T20:56:14"
         }
       ]
     }
