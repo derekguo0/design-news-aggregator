@@ -1,27 +1,37 @@
 {
   "date": "2026-06-14T00:00:00",
-  "total_items": 60,
+  "total_items": 64,
   "sources": [
+    "UX Planet",
+    "NN/g (Nielsen Norman Group)",
+    "优设网",
+    "Design Milk",
     "A List Apart",
-    "Sidebar",
     "UX Design CC",
+    "少数派",
+    "Sidebar",
+    "人人都是产品经理",
+    "Awwwards",
     "CSS-Tricks",
     "Smashing Magazine",
-    "Product Hunt",
-    "优设网",
-    "UX Planet",
-    "人人都是产品经理",
     "Intercom Blog",
-    "少数派",
-    "Design Milk",
-    "NN/g (Nielsen Norman Group)"
+    "Product Hunt"
   ],
-  "generated_at": "2026-06-14T04:26:53.979836",
+  "generated_at": "2026-06-14T14:11:20.210397",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 9,
+      "count": 10,
       "items": [
+        {
+          "title": "How difficult could it be to design a chatbot?",
+          "url": "https://uxdesign.cc/how-difficult-could-it-be-to-design-a-chatbot-5967e39563cc?source=rss----138adf9c44c---4",
+          "author": "Ellina Morits",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Harder than you think. And higher stakes than most people building them realise.If you work in product, you probably care about NPS. Customer satisfaction. Retention. The usual levers. A culturally mi...",
+          "published_at": "2026-06-14T12:18:02"
+        },
         {
           "title": "What it really feels like to be a digital accessibility advocate",
           "url": "https://uxdesign.cc/what-it-really-feels-like-to-be-a-digital-accessibility-advocate-07afc7e1d16f?source=rss----138adf9c44c---4",
@@ -224,6 +234,42 @@
           "published_at": "2026-06-11T12:04:14"
         },
         {
+          "title": "Agent想花我的钱，要先过信任这一关",
+          "url": "https://www.woshipm.com/ai/6413312.html",
+          "author": "唐辰同学",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "AI支付正在重塑交易逻辑，从支付宝到京东，各大平台纷纷推出智能体支付解决方案。但当AI开始替你花钱，信任问题成为最大障碍——如何确保扣款安全？交易出错谁来负责？本文将深度解析支付宝的「用户掌控权」设计与京东的「A2P2协议」标准之争，揭示AI支付赛道从技术竞争转向信任基建的行业变局。AI支付跑起来，要先解决信任问题。过去几个月，支付宝、微信、京东、字节、银联等主要支付平台，基于自身的业务生态，频繁...",
+          "published_at": "2026-06-14T08:23:03"
+        },
+        {
+          "title": "我要定义一个新的概念：业务原生",
+          "url": "https://www.woshipm.com/ai/6413258.html",
+          "author": "数字的自我修养",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "从PPT制作到业务系统开发，为何企业数字化建设总是如此低效？本文首次完整定义「业务原生」概念，揭秘如何让业务人员像制作PPT一样轻松构建业务系统。通过拆解低代码与AI编程的革命性结合，以及Serverless技术的突破，带你看到未来企业软件开发的终极形态。大概在两年前，我就想定义业务原生这个概念。当时只是想出了这个词，但具体怎么定义还没有想清楚。直到最近，基本上算是清楚了吧！我已经写了好几篇文章，...",
+          "published_at": "2026-06-14T07:17:48"
+        },
+        {
+          "title": "Loop Engineering 不是新楼层，是 Harness 长出来的外循环",
+          "url": "https://www.woshipm.com/share/6413154.html",
+          "author": "小普",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "当Claude Code创始人宣布不再亲自写提示词，而是设计自动调度系统时，这标志着开发者角色从'操作员'向'架构师'的范式转移。本文将拆解Loop Engineering的本质，带你穿透新名词迷雾，看清AI工作流从内循环到外循环的完整进化图谱。一、一行代码都不写的人2026 年 6 月，Claude Code 的创造者 Boris Cherny 在 Anthropic 开发者大会上说了段话：我已...",
+          "published_at": "2026-06-14T05:18:43"
+        },
+        {
+          "title": "如果用户相信系统，为什么还要对账？",
+          "url": "https://www.woshipm.com/pd/6413200.html",
+          "author": "灰度区透镜",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "当商家反复核对账单时，他们真正在寻找什么？B端资金产品中高频发生的对账行为，背后隐藏着用户对收益确定感的深层需求。本文深入剖析商家从‘差异感知’到‘解释重建’的完整心理路径，揭示对账场景中系统逻辑与用户认知的关键断层。商家每天都在寻找到账差异在 B 端资金产品中，有一个长期存在的行为：商家每天都会进行对账。基本流程非常固定：打开平台后台查看到账金额，再打开核销或银行流水进行比对。金额一致，就结束。...",
+          "published_at": "2026-06-14T04:43:32"
+        },
+        {
           "title": "一定要往死里用的小红书运营实战型技巧",
           "url": "https://www.woshipm.com/share/6413054.html",
           "author": "林卿LinQ.",
@@ -231,48 +277,12 @@
           "source": "人人都是产品经理",
           "summary": "想要在小红书运营中脱颖而出？除了官方指南，还有40分的精细化战场等你征服！本文揭秘22条实战技巧，从薅流量羊毛到封面标题优化，从爆款内容复用到底层推荐逻辑拆解，帮你破解流量密码。其实小红书运营也没有太复杂，按照小红书官方所教导的方式方法去运营，基本上可以做到 60 分，但是剩下的 40 分就需要比拼颗粒度、比拼精细化啦！所以梳理了一些我自己在运营过程总结的实战型技巧，希望于你而言，有所价值。01....",
           "published_at": "2026-06-14T04:06:05"
-        },
-        {
-          "title": "StudyFetch：一个 AI 学习工具，怎么靠短视频做到 700 万用户",
-          "url": "https://www.woshipm.com/ai/6412529.html",
-          "author": "张艾拉",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "StudyFetch 用两年半俘获700万学生用户的秘诀，竟藏在短视频的「惊讶点」里。这个AI学习工具不仅将课堂笔记自动生成玩出新高度，更通过精准的创作者策略撬动TikTok流量池，让医学生和学霸成为自发传播节点。从第一条300万浏览的爆款视频到每月五位数的博主合作，揭秘教育类产品如何把「可拍摄性」变为增长引擎。今天分享的是：StudyFetch，https://www.studyfetch.co...",
-          "published_at": "2026-06-14T03:26:25"
-        },
-        {
-          "title": "Fable 5 上线三天就被按停：AI 模型开始有“国界”了",
-          "url": "https://www.woshipm.com/ai/6413060.html",
-          "author": "几点",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "Anthropic两款旗舰模型Claude Fable 5和Mythos 5突遭美国政府出口管制，标志着AI模型首次被正式纳入国家安全监管框架。这不仅关乎技术访问权限，更预示着全球AI产业将面临全新的战略资源争夺战。本文将深度剖析这一事件背后的能力边界争议、产业链重构风险，以及中国AI从业者必须警惕的'模型断供'危机。2026 年 6 月，Anthropic 刚上线三天的两个旗舰模型 Claude...",
-          "published_at": "2026-06-14T02:28:28"
-        },
-        {
-          "title": "AI互联网日报：Google 搜索智能体开始全天候盯信息/华为云推进医疗 AI/小米汽车公布 3500 万公里测试",
-          "url": "https://www.woshipm.com/ai/6413383.html",
-          "author": "AI星球",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "周日早上我刷新闻时，脑子里冒出一个很生活化的画面：一个人让 Google 替自己盯消息，企业把 GLM-5.2 和百度千帆塞进真实业务，另一边 KPMG 又因为 AI 生成幻觉撤回报告。热闹背后，我更在意的是一条线：AI 已经不只是模型发布会里的参数，而是在搜索、医疗、汽车和平台服务里接受现实世界的拷问。能不能便宜、稳定、可信，正变成下一轮胜负手。一起来看看这两天发生的AI和互联网赛道的大事件吧！...",
-          "published_at": "2026-06-14T02:02:10"
-        },
-        {
-          "title": "我为什么说AI时代根本不适合上班",
-          "url": "https://www.woshipm.com/ai/6413002.html",
-          "author": "Alex的荒诞产品观",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "当AI工具让生产效率产生代际差异时，工业时代的管理制度却仍在用考勤和KPI反向筛选人才——这正是当代知识工作者的集体困境。本文犀利剖析传统职场规训与AI生产力的根本矛盾，揭示从'卖时间'到'卖结果'的生存法则转变，为追求真实价值创造的从业者提供破局路径。一、一个悖论2026年6月10日，我正式裸辞了。离职原因不是什么“世界那么大我想去看看”的浪漫主义，也不是跟老板吵了一架意气用事。原因很简单：我发...",
-          "published_at": "2026-06-14T01:32:50"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 7,
+      "count": 15,
       "items": [
         {
           "title": "The Impact Of Humanoid Robots On Humanity",
@@ -336,84 +346,111 @@
           "source": "A List Apart",
           "summary": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things t...",
           "published_at": null
+        },
+        {
+          "title": "sakazuki",
+          "url": "https://www.awwwards.com/sites/sakazuki",
+          "author": "Shun_Kudo",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Crav Burgers",
+          "url": "https://www.awwwards.com/sites/crav-burgers",
+          "author": "Anyflow",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Tresmares Capital",
+          "url": "https://www.awwwards.com/sites/tresmares-capital",
+          "author": "Dgrees",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Serve Robotics",
+          "url": "https://www.awwwards.com/sites/serve-robotics",
+          "author": "WILD",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Hubtown",
+          "url": "https://www.awwwards.com/sites/hubtown",
+          "author": "Unseen Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Pacôme Pertant Portfolio",
+          "url": "https://www.awwwards.com/sites/pacome-pertant-portfolio",
+          "author": "Louis Bocquet",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "The Power of Storytelling",
+          "url": "https://www.awwwards.com/sites/the-power-of-storytelling",
+          "author": "Noomo Agency",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "SOHub",
+          "url": "https://www.awwwards.com/sites/sohub",
+          "author": "sohubdigital",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 8,
+      "count": 3,
       "items": [
         {
-          "title": "Kimi K2.7 Code",
-          "url": "https://www.producthunt.com/products/kimi-ai-assistant",
-          "author": "Zac Zuo",
+          "title": "Slashy",
+          "url": "https://www.producthunt.com/products/slashy-3",
+          "author": "Garry Tan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Kimi’s most capable coding model yetDiscussion|Link",
-          "published_at": "2026-06-12T12:27:54"
+          "summary": "The AI assistant that does email for youDiscussion|Link",
+          "published_at": "2026-06-14T04:38:45"
         },
         {
-          "title": "Vercel Drop",
-          "url": "https://www.producthunt.com/products/vercel",
-          "author": "fmerian",
+          "title": "Memoriq",
+          "url": "https://www.producthunt.com/products/memoriq",
+          "author": "Gie Katon",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Drop it. It's live.Discussion|Link",
-          "published_at": "2026-06-12T21:49:02"
+          "summary": "Your private AI memory for ChatGPT, Claude, Gemini and GrokDiscussion|Link",
+          "published_at": "2026-06-13T17:06:54"
         },
         {
-          "title": "Prometheus by Firecrawl",
-          "url": "https://www.producthunt.com/products/extract-by-firecrawl",
-          "author": "Eric Ciarla",
+          "title": "Reverie.fm",
+          "url": "https://www.producthunt.com/products/reverie-fm",
+          "author": "Jeff Edmondson",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A Forward Deployed Agent for web data.Discussion|Link",
-          "published_at": "2026-06-12T22:29:57"
-        },
-        {
-          "title": "NomNak",
-          "url": "https://www.producthunt.com/products/nomnak",
-          "author": "Matthew Hefferon",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Find restaurants through people you trustDiscussion|Link",
-          "published_at": "2026-06-12T19:35:34"
-        },
-        {
-          "title": "Avatars in ElevenCreative",
-          "url": "https://www.producthunt.com/products/avatars-in-elevencreative",
-          "author": "Ankit Sharma",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "A dedicated entry point for talking-head videoDiscussion|Link",
-          "published_at": "2026-06-12T10:07:28"
-        },
-        {
-          "title": "CakewordAI",
-          "url": "https://www.producthunt.com/products/cakewordai-snap-learn",
-          "author": "Worathiti Pung",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Point at anything to learn its name in any languageDiscussion|Link",
-          "published_at": "2026-06-12T21:14:13"
-        },
-        {
-          "title": "pleNx — Plex client for Nintendo Switch",
-          "url": "https://www.producthunt.com/products/plenx-plex-client-for-nintendo-switch",
-          "author": "Thomas Colin",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The first native Plex client for Nintendo SwitchDiscussion|Link",
-          "published_at": "2026-06-11T10:44:23"
-        },
-        {
-          "title": "ShellMate",
-          "url": "https://www.producthunt.com/products/shellmate-2",
-          "author": "Arab",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Manage SSH servers, credentials, and teams in one placeDiscussion|Link",
-          "published_at": "2026-06-11T18:43:32"
+          "summary": "A fully private & offline location based music journal appDiscussion|Link",
+          "published_at": "2026-06-13T12:50:54"
         }
       ]
     },
@@ -467,8 +504,8 @@
           "published_at": null
         },
         {
-          "title": "苹果发布会背后的秘密，Siri语音降频的真相",
-          "url": "https://www.uisdc.com/hunter/0221673462.html",
+          "title": "别再截图临摹了，Figma新功能一键把网站变源文件",
+          "url": "https://www.uisdc.com/hunter/0221673500.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
