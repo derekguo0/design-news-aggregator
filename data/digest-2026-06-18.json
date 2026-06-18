@@ -1,24 +1,27 @@
 {
   "date": "2026-06-18T00:00:00",
-  "total_items": 62,
+  "total_items": 73,
   "sources": [
     "UX Design CC",
-    "少数派",
-    "Sidebar",
     "Product Hunt",
-    "Smashing Magazine",
     "优设网",
-    "NN/g (Nielsen Norman Group)",
+    "Awwwards",
+    "Smashing Magazine",
     "UX Planet",
+    "NN/g (Nielsen Norman Group)",
+    "少数派",
+    "A List Apart",
+    "Sidebar",
+    "Intercom Blog",
     "Design Milk",
-    "人人都是产品经理",
-    "A List Apart"
+    "CSS-Tricks",
+    "人人都是产品经理"
   ],
-  "generated_at": "2026-06-18T04:21:02.199791",
+  "generated_at": "2026-06-18T15:33:40.816586",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 15,
+      "count": 16,
       "items": [
         {
           "title": "A2UI under the hood: Designing for the new era of radically adaptive UI",
@@ -109,6 +112,15 @@
           "source": "UX Design CC",
           "summary": "On letting fifty centimeters speak three hundred yearsContinue reading on UX Collective »",
           "published_at": "2026-06-15T11:18:03"
+        },
+        {
+          "title": "Claude Design Just Got a Major Update",
+          "url": "https://uxplanet.org/claude-design-just-got-a-major-update-270ad55087f3?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Anthropic released a major Claude Design overhaul with design system imports, better design editing, and finally fixed the token-burning…Continue reading on UX Planet »",
+          "published_at": "2026-06-18T15:19:52"
         },
         {
           "title": "DESIGN.md Best Practices",
@@ -219,8 +231,26 @@
     },
     {
       "category": "产品设计",
-      "count": 11,
+      "count": 12,
       "items": [
+        {
+          "title": "At 3daysofdesign, The Iconic Aalto Vase Inspired a Monumental Pavilion",
+          "url": "https://design-milk.com/at-3daysofdesign-the-iconic-aalto-vase-inspired-a-monumental-pavilion/",
+          "author": "Joseph Sgambati III",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Norwegian sustainable aluminum purveyor Hydro erected a pavilion in the shape of the 90-year-old Iittala vase its commemorating",
+          "published_at": "2026-06-18T15:00:34"
+        },
+        {
+          "title": "The DADO System by AKO Takes Responsibility Seriously",
+          "url": "https://design-milk.com/the-dado-system-by-ako-takes-responsibility-seriously/",
+          "author": "Aria Lee",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "No screws, no hardware–no problem. The DADO System by AKO empowers users to create their own small structures within the home.",
+          "published_at": "2026-06-18T13:00:35"
+        },
         {
           "title": "The Titular Green Box at the Heart of This Greek Home",
           "url": "https://design-milk.com/the-titular-green-box-at-the-heart-of-this-greek-home/",
@@ -258,73 +288,64 @@
           "published_at": "2026-06-16T18:00:11"
         },
         {
-          "title": "This Clothing Boutique in Poland Embraces Understated Elegance",
-          "url": "https://design-milk.com/this-clothing-boutique-in-poland-embraces-understated-elegance/",
-          "author": "Anna Zappia",
+          "title": "Salesforce signs definitive agreement to acquire Fin",
+          "url": "https://www.intercom.com/blog/salesforce-signs-definitive-agreement-to-acquire-fin/",
+          "author": "Eoghan McCabe",
           "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Designed by Raw07, Solmé boutique serves as an understated backdrop for clothing brands, with an interplay of materials from stainless steel to plasterboard.",
-          "published_at": "2026-06-16T15:00:20"
+          "source": "Intercom Blog",
+          "summary": "We’re excited to share that we just signed an agreement for Salesforce to acquire Fin for ~$3.6B.",
+          "published_at": "2026-06-15T12:33:30"
         },
         {
-          "title": "Messe Frankfurt’s Textile Platforms Make Material Progress Tangible",
-          "url": "https://design-milk.com/messe-frankfurts-textile-platforms-make-material-progress-tangible/",
-          "author": "Joseph Sgambati III",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Messe Frankfurt’s Techtextil, Texprocess, and Heimtextil connect textile innovation, manufacturing technology, material application, and global distribution into one powerful industry ecosystem.",
-          "published_at": "2026-06-16T13:00:09"
-        },
-        {
-          "title": "微信、支付宝乱斗！小程序，如何站队？",
-          "url": "https://www.woshipm.com/share/6415652.html",
-          "author": "张书乐",
+          "title": "苹果和OpenAI联手，但真正的变革是“无App手机”的四个进化阶段",
+          "url": "https://www.woshipm.com/ai/6416007.html",
+          "author": "Freetrip",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "微信支付与支付宝正在以截然不同的路径布局AI支付战场。微信推出'AI专属卡'聚焦智能体支付场景，而支付宝则重构底层架构推出原生助手'阿宝'。这场变革或将彻底改变用户与服务的交互方式，但小程序开发者的态度与商业模式的适应性仍是关键变量。本文深度剖析两大巨头的战略差异与行业影响。2017年，微信小程序刚刚上线时，张小龙曾将其定义为“通往万物互联的钥匙”。这种跨平台、即插即用的理念，如今似乎有可能实现了...",
-          "published_at": "2026-06-18T03:24:53"
+          "summary": "随着Apple Intelligence的推出和AI手机的兴起，传统App生态正面临前所未有的挑战。从图形交互到意图驱动的范式转移，将彻底重塑移动互联网的产品逻辑。本文深度解析数字中枢的四个进化阶段，以及这场变革对产品经理、设计师和开发者的深远影响。当苹果在 WWDC 上宣布“Apple Intelligence”，当 Sam Altman 与 Jony Ive 联手造手机的传闻愈演愈烈，当 Ra...",
+          "published_at": "2026-06-18T09:56:37"
         },
         {
-          "title": "当注意力经济开始围猎未成年人",
-          "url": "https://www.woshipm.com/it/6415595.html",
-          "author": "逸和 知识服务工作者",
+          "title": "给老板和求职者的FDE岗位6个判断：别神化也别错过",
+          "url": "https://www.woshipm.com/ai/6415905.html",
+          "author": "加玮·Oscar",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "社交媒体正以算法为猎枪，将未成年人的注意力与认知发育变为数字时代的猎物。英国政府近日宣布全面禁止16岁以下未成年人使用主流社交平台，揭示了注意力经济对儿童心理健康的系统性剥削。本文深度剖析平台如何通过数据收割、人格塑造和社交替代，将孩子们变成算法流水线上的标准化产品。上周回家看到小区公园门口一大堆孩子都拿着手机在刷抖音，你看着他以为在玩。其实在算法的世界里面，平台无时无刻在研究他在某个视频停留几秒...",
-          "published_at": "2026-06-18T02:40:24"
+          "summary": "FDE岗位近期在AI领域备受追捧，但它的真实价值与市场期待存在巨大鸿沟。本文犀利剖析FDE岗位的底层逻辑——本质上是驻场外包、售前售后与客户成功的混合体，指出企业不应将AI落地的重任寄托于单一岗位。从组织转型、业务思维到技术理解，给出6个核心判断，帮助老板避免决策误区，同时为求职者揭示这个岗位作为理解技术、产品与大客户需求的高价值入口。核心判断FDE这个岗位本身被高估了，但FDE对应的工作环节非常...",
+          "published_at": "2026-06-18T08:54:30"
         },
         {
-          "title": "AI产品如何建立用户信任，设计师应遵循的设计模式",
-          "url": "https://www.woshipm.com/ucd/6414288.html",
-          "author": "AX 新设计",
+          "title": "我用AI搭了一条内容流水线：日更3平台，每天仅投入2小时",
+          "url": "https://www.woshipm.com/ai/6415852.html",
+          "author": "前进ing",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI助手正成为各大产品的标配，但用户留存率却普遍低迷。问题不在于模型能力，而是交互设计尚未解决意图表达与信任建立的本质矛盾。本文深度剖析AI产品的五大核心交互模块与六大信任设计模式，揭秘如何打造真正让用户依赖的智能助手。从输入意图到执行任务，从展示结果到场景融合，一套完整的AI设计框架正在浮出水面。最近把手机里所有带AI助手的APP都试了一遍，包括支付宝的蚂小财、蚁小保，滴滴打车助手小滴，招商银行...",
-          "published_at": "2026-06-18T02:38:20"
+          "summary": "AI工具正成为内容创作者的效率利器，但如何避免沦为同质化内容的生产机器？本文揭秘一套可复用的AI内容生产工作流，从选题筛选到多平台发布，详细拆解6大关键环节的AI参与度与人工卡点。更分享3个底层搭建条件和90%创作者踩过的坑，教你如何用AI解放生产力同时保持内容独特性。AI工具对于很多自媒体博主、副业内容创作者来说绝对是左膀右臂的存在了，和一位深耕小红书的博主朋友聊天，她问我你一个人兼顾国学修心、...",
+          "published_at": "2026-06-18T08:52:41"
         },
         {
-          "title": "什么样的社交产品值得被投资?",
-          "url": "https://www.woshipm.com/it/6415549.html",
-          "author": "沉迷社交产品的初九哥",
+          "title": "支付宝“阿宝”内测48小时，微信出AI卡：支付AI化的三条不可逾越之墙",
+          "url": "https://www.woshipm.com/ai/6415728.html",
+          "author": "L.NaN",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "社交产品的本质不是功能堆砌，而是一场关于关系发生的精密设计。从陌陌的LBS破冰到Soul的算法匹配，再到AI陪伴的困境与银发经济的机遇，本文深度拆解社交赛道的第一性原理：如何通过概率结构设计触发有效互动，如何在情绪碰撞中沉淀真实关系链，以及商业闭环与风控体系的致命价值。带你看懂社交产品从流量工具升级为关系平台的底层逻辑。在社交创业这件“小事”上，它总是离情怀更近，离商业更远。但现实是，即便在微信、...",
-          "published_at": "2026-06-18T02:37:43"
+          "summary": "支付宝直接把“阿宝”塞进首页，微信隔天就搞了个“AI专属卡”搞隔离。两家大厂这波前后脚的操作，直接把AI和支付的底牌给掀开了。作为一个天天被合规和幻觉折磨的AI训练师，我想聊聊两家大厂被逼出来的防线，以及为什么在真金白银的场景里，对话框根本不是万灵药。最重要的是，当九宫格要被巨头干掉，PM以前死磕的点击率、流转图可能都要废了，后面该怎么转型，进来聊聊。6月16号那天，我拿到了支付宝“阿宝”的内测邀...",
+          "published_at": "2026-06-18T08:52:35"
         },
         {
-          "title": "AI 工程演化：从 Prompt 到 Loop，未来的方向在哪里",
-          "url": "https://www.woshipm.com/ai/6415411.html",
-          "author": "一葉",
+          "title": "Token价格战真相：降价vs涨价，你的AI账单为何还在涨？",
+          "url": "https://www.woshipm.com/ai/6415840.html",
+          "author": "实战产品说",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI Agent 在解决实际问题时常常陷入「问答循环」的困境——工程师花费大量时间反复调试，效率甚至低于手动操作。本文深度剖析了从 Prompt Engineering 到 Loop Engineering 的四层技术演进，揭示了如何通过「闭环自动化」让 AI 真正实现「给你目标，自己跑完全程」的革命性突破。一个工程师让 AI Agent 修一个数据库慢查询。Agent 改了代码，测试挂了；工程师...",
-          "published_at": "2026-06-18T02:36:55"
+          "summary": "DeepSeek与智谱的Token价格策略呈现两极分化：一边断崖式降价90%，一边累计涨价83%。本文将穿透价格表象，从算力成本构成、技术效率提升与市场需求分层三个维度，解析大模型定价的底层逻辑。同时提供6大实操技巧，助你在Token价格分层时代精准控制AI使用成本。2026年4月，DeepSeek两天两次降价：4月25日晚先对V4-Pro开启限时2.5折，4月26日晚再宣布全系API输入缓存命中...",
+          "published_at": "2026-06-18T08:49:25"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 7,
+      "count": 14,
       "items": [
         {
           "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
@@ -388,66 +409,120 @@
           "source": "A List Apart",
           "summary": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things t...",
           "published_at": null
+        },
+        {
+          "title": "Indigo Laboratory",
+          "url": "https://www.awwwards.com/sites/indigo-laboratory",
+          "author": "FPTP Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Gucci: Mystery Unfolds",
+          "url": "https://www.awwwards.com/sites/gucci-mystery-unfolds",
+          "author": "MONOGRID",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Fauna Robotics",
+          "url": "https://www.awwwards.com/sites/fauna-robotics",
+          "author": "O0",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "sakazuki",
+          "url": "https://www.awwwards.com/sites/sakazuki",
+          "author": "Shun_Kudo",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Crav Burgers",
+          "url": "https://www.awwwards.com/sites/crav-burgers",
+          "author": "Anyflow",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Tresmares Capital",
+          "url": "https://www.awwwards.com/sites/tresmares-capital",
+          "author": "Dgrees",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Serve Robotics",
+          "url": "https://www.awwwards.com/sites/serve-robotics",
+          "author": "WILD",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "Parano.ai",
-          "url": "https://www.producthunt.com/products/parano-ai",
-          "author": "Michael Lukaszczyk",
+          "title": "Tabstack Dev Tools",
+          "url": "https://www.producthunt.com/products/tabstack",
+          "author": "fmerian",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Never miss a competitor's moveDiscussion|Link",
-          "published_at": "2026-06-16T07:01:51"
+          "summary": "Ditch your scraper. Make one API call with any tool.Discussion|Link",
+          "published_at": "2026-06-16T15:27:36"
         },
         {
-          "title": "BrainFlow",
-          "url": "https://www.producthunt.com/products/brainflow-2",
-          "author": "Tristan Manchester",
+          "title": "LayerProof Bristol",
+          "url": "https://www.producthunt.com/products/layerproof-social-content-generation",
+          "author": "Nathan Tran",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn your rambling thoughts into coherent notesDiscussion|Link",
-          "published_at": "2026-06-16T09:18:05"
+          "summary": "Agentic reports your clients want to readDiscussion|Link",
+          "published_at": "2026-06-18T04:08:26"
         },
         {
-          "title": "idmly",
-          "url": "https://www.producthunt.com/products/idmly",
-          "author": "Kelly Fraser",
+          "title": "DeskArcade",
+          "url": "https://www.producthunt.com/products/deskarcade",
+          "author": "Pratik Garg",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn any HTML/CSS design into an editable InDesign fileDiscussion|Link",
-          "published_at": "2026-06-16T20:51:00"
+          "summary": "An arcade in your menu bar - playable over anythingDiscussion|Link",
+          "published_at": "2026-06-17T16:39:46"
         },
         {
-          "title": "Dopami",
-          "url": "https://www.producthunt.com/products/dopami",
-          "author": "Nathan DOUCET",
+          "title": "CashOut",
+          "url": "https://www.producthunt.com/products/cashout-quit-sportsbooks",
+          "author": "Luke Lewis",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Household chores without the mental load for ADHDDiscussion|Link",
-          "published_at": "2026-06-15T14:32:16"
+          "summary": "Block sports betting apps, track how much you savedDiscussion|Link",
+          "published_at": "2026-06-16T00:51:21"
         },
         {
-          "title": "Android 17",
-          "url": "https://www.producthunt.com/products/android",
-          "author": "Zac Zuo",
+          "title": "Cliptop",
+          "url": "https://www.producthunt.com/products/cliptop",
+          "author": "Razvan Ilin",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Android becomes an intelligence systemDiscussion|Link",
-          "published_at": "2026-06-17T04:27:25"
-        },
-        {
-          "title": "Framer 3.0",
-          "url": "https://www.producthunt.com/products/framer",
-          "author": "Jurre Houtkamp",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "With Agents, Branching, Community, and an all-new designDiscussion|Link",
-          "published_at": "2026-06-16T09:01:17"
+          "summary": "Clipboard history for Mac, right under the notch.Discussion|Link",
+          "published_at": "2026-06-18T03:13:49"
         }
       ]
     },
@@ -501,8 +576,8 @@
           "published_at": null
         },
         {
-          "title": "为什么微信支付要推出AI专属卡？",
-          "url": "https://www.uisdc.com/hunter/0221674054.html",
+          "title": "华为跨端设计新思路，指向即输入如何颠覆传统交互",
+          "url": "https://www.uisdc.com/hunter/0221674152.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -516,49 +591,82 @@
       "count": 5,
       "items": [
         {
-          "title": "Every frame perfect",
-          "url": "https://tonsky.me/blog/every-frame-perfect/",
+          "title": "You got faster. Your company didn’t.",
+          "url": "https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How imprecise UI animations erode trust in product.",
-          "published_at": "2026-06-17T06:33:50"
+          "summary": "AI made you faster. But you’re not more productive; you’re outsourcing the slow part to everyone else.",
+          "published_at": "2026-06-18T09:18:57"
         },
         {
-          "title": "The field guide to CSS Grid Lanes",
-          "url": "https://gridlanes.webkit.org/",
+          "title": "The Virtual OS Museum",
+          "url": "https://virtualosmuseum.org/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Create masonry layouts in pure CSS. Absorb the possibilities with the Field Guide’s interactive playground.",
-          "published_at": "2026-06-17T06:33:16"
+          "summary": "Over 1,700 pre-installed operating systems spanning 1948 to today, in a single Linux VM. Bundled QEMU, VirtualBox, and UTM.",
+          "published_at": "2026-06-18T09:18:23"
         },
         {
-          "title": "What we’re no longer seeing: AI and the invisible newcomer in open source",
-          "url": "https://blog.stdlib.io/ai-and-the-invisible-newcomer-in-open-source/",
+          "title": "The web we know is going to disappear",
+          "url": "https://www.minid.net/2026/6/15/the-web-is-going-to-dissapear",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How AI is absorbing the visible friction that open-source communities have always relied on to see—and welcome—newcomers.",
-          "published_at": "2026-06-17T06:32:39"
+          "summary": "Every generation of computing believes the interface it loves will last forever.",
+          "published_at": "2026-06-18T09:17:49"
         },
         {
-          "title": "CSS Buttons",
-          "url": "https://cssbuttons.io/",
+          "title": "The AI layoff trap",
+          "url": "https://ailayoffs.rajnandan.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A diverse collection of over 100 unique button styles. Get the code you need to enhance your web projects with stylish, functional buttons.",
-          "published_at": "2026-06-17T06:31:54"
+          "summary": "Interactive simulation: competitive firms over-automate because each captures the full cost saving but only 1/N of the demand destruction.",
+          "published_at": "2026-06-18T09:16:59"
         },
         {
-          "title": "What Figma made visible",
-          "url": "https://blog.murphytrueman.com/what-figma-made-visible/",
+          "title": "The architecture of focus",
+          "url": "https://magnus919.com/2026/06/the-architecture-of-focus/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "And whether the next generation of practitioners will get the same thing.",
-          "published_at": "2026-06-17T06:31:17"
+          "summary": "Most companies default to a schedule designed for managers that systematically destroys the cognitive capacity for the work they actually need.",
+          "published_at": "2026-06-18T09:16:11"
+        }
+      ]
+    },
+    {
+      "category": "前端设计",
+      "count": 3,
+      "items": [
+        {
+          "title": "The Siren Song of ariaNotify()",
+          "url": "https://css-tricks.com/the-siren-song-of-arianotify/",
+          "author": "Mat Marquis",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "There's a brand newariaNotify()method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.The Siren Song of ariaNotify()ori...",
+          "published_at": "2026-06-17T15:32:30"
+        },
+        {
+          "title": "Prop For That",
+          "url": "https://css-tricks.com/prop-for-that/",
+          "author": "Geoff Graham",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "Props for That creates live props based things CSS can't normally see in the browser. Things like cursor position, progress values, certain form states, current time, scroll velocity.Prop For Thatorig...",
+          "published_at": "2026-06-16T18:36:25"
+        },
+        {
+          "title": "What’s !important #13: @function, alpha(), CSS Wordle, and More",
+          "url": "https://css-tricks.com/whats-important-13/",
+          "author": "Daniel Schwarz",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now.What’s !important #13: @function, alpha(),...",
+          "published_at": "2026-06-15T13:15:33"
         }
       ]
     },
@@ -566,6 +674,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "新玩意 244｜少数派的编辑们最近买了啥？",
+          "url": "https://sspai.com/post/111211",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "编注：我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有商务内容，将会在对应条目标注「广告」；若有标注「厂商 ...查看全文",
+          "published_at": "2026-06-18T09:23:20"
+        },
+        {
+          "title": "Nothing Phone 杂谈：活下去再谈未来，然后呢？",
+          "url": "https://sspai.com/post/110442",
+          "author": "Enc3lMag1k",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "我依然相信他们能给已成红海的手机市场带来变数与惊喜，正如标志性的透明后盖与微弱闪烁的灯光，每一次触碰都仿佛钟表倒转，回到光芒与图案代表个性的千禧年代。查看全文",
+          "published_at": "2026-06-18T07:00:00"
+        },
+        {
+          "title": "具透 | visionOS 27 首个开发者测试版中值得关注的新内容",
+          "url": "https://sspai.com/post/111198",
+          "author": "waychane",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "新环境、弧形窗口，visionOS 27 中值得关系的新内容。查看全文",
+          "published_at": "2026-06-18T03:30:00"
+        },
         {
           "title": "派早报：Android 17 正式推送、微软发布 Surface 新品等",
           "url": "https://sspai.com/post/111191",
@@ -592,33 +727,6 @@
           "source": "少数派",
           "summary": "前言随意启动一款3D游戏，打开图形设置界面，你大概率能发现一个选项——「抗锯齿」。你可能参考了网上的设置教程，切换到了TAA，抑或是MSAA、DLSS等的设置选项，画面看起来似乎更好了。那么这些字母的 ...查看全文",
           "published_at": "2026-06-17T08:30:00"
-        },
-        {
-          "title": "具透 | 动态应用网格、Liquid Glass 微调，watchOS 27 首个开发者测试版一览",
-          "url": "https://sspai.com/post/110958",
-          "author": "路中南",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "AI 之外，watchOS 27 中还有这些新功能。查看全文",
-          "published_at": "2026-06-17T07:00:00"
-        },
-        {
-          "title": "在香港骑共享单车：访客视角的经验分享",
-          "url": "https://sspai.com/post/110750",
-          "author": "PlatyHsu",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "骑共享单车游香港，听起来似乎不是什么主流选择。的确，香港总体来说对单车不算很友好。特别是港岛、九龙一带，地形起伏大，开发密度高，基本没有条件开辟单车径，政府也明确不鼓励以单车代步。不过，在临近深圳的新 ...查看全文",
-          "published_at": "2026-06-17T03:08:23"
-        },
-        {
-          "title": "派早报：SpaceX 宣布收购 Cursor、字节跳动推出 Seedance 2.0 Mini 等",
-          "url": "https://sspai.com/post/111124",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "夏普推出 AQUOS R11 手机、理光宣布 GR 系列调整建议零售价等。查看全文",
-          "published_at": "2026-06-17T00:20:55"
         }
       ]
     }
