@@ -1,20 +1,22 @@
 {
   "date": "2026-06-20T00:00:00",
-  "total_items": 58,
+  "total_items": 65,
   "sources": [
-    "人人都是产品经理",
-    "A List Apart",
     "Sidebar",
-    "UX Design CC",
-    "少数派",
-    "NN/g (Nielsen Norman Group)",
     "Product Hunt",
-    "Intercom Blog",
+    "A List Apart",
+    "少数派",
+    "人人都是产品经理",
     "Design Milk",
-    "UX Planet",
-    "优设网"
+    "CSS-Tricks",
+    "UX Design CC",
+    "Awwwards",
+    "Intercom Blog",
+    "优设网",
+    "NN/g (Nielsen Norman Group)",
+    "UX Planet"
   ],
-  "generated_at": "2026-06-20T04:03:35.059138",
+  "generated_at": "2026-06-20T14:11:30.628676",
   "categories": [
     {
       "category": "用户体验设计",
@@ -240,6 +242,42 @@
           "published_at": "2026-06-18T16:55:07"
         },
         {
+          "title": "AI冲击SaaS，为什么网络安全是例外？",
+          "url": "https://www.woshipm.com/ai/6416768.html",
+          "author": "硅基观察Pro",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "AI 的普及正在重塑网络安全行业的竞争格局，Palo Alto Networks 和 CrowdStrike 等公司通过收购和创新产品线，成功将AI的不确定性转化为新的市场机会。从管理Agent权限到保护模型运行，再到AI基础设施安全，网络安全股逆势上涨的背后，是企业为确定性支付的安全预算持续攀升。本文通过具体案例，揭示AI如何成为网络安全行业的新增长引擎。AI冲击软件股，是今年美股说得最多的叙事...",
+          "published_at": "2026-06-20T09:45:29"
+        },
+        {
+          "title": "AI圈突然都在聊Loop Engineering，我想先泼点冷水",
+          "url": "https://www.woshipm.com/ai/6416728.html",
+          "author": "陈淀",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "Loop Engineering正在AI开发圈掀起一场思维革命。从Anthropic到Google，顶级工程师们纷纷抛弃传统prompt模式，转而设计AI驱动的自动化工作流。本文深度解析这一趋势如何从代码生成延伸到日常办公，揭示其背后的技术演进与潜在风险，并给出落地实践的黄金法则。小陈最近在圈子里经常刷到一个新词——Loop Engineering。怎么说呢，我最近刷推特的时候，感觉像是被这个词包...",
+          "published_at": "2026-06-20T09:09:45"
+        },
+        {
+          "title": "百度网盘迎来“重磅级”对手，腾讯网盘要来了",
+          "url": "https://www.woshipm.com/share/6416767.html",
+          "author": "郭静",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "腾讯网盘以'安全存储，便捷访问'的姿态低调入场，其多应用数据互通、跨应用全局搜索等特性直指百度网盘软肋。在AI与云存储深度融合的当下，这款整合腾讯生态的网盘产品能否撼动百度80%的市场份额？本文深入剖析网盘行业'一超多强'格局下的暗流涌动。日前，腾讯网盘已悄然上线，其官网显示“COMING SOON”（即将推出）字样，暂不支持新用户注册，没有PC版，没有iOS版，也没有Android版。网站描述中...",
+          "published_at": "2026-06-20T08:43:41"
+        },
+        {
+          "title": "Cluely：那个帮别人“作弊”的 AI 公司，为什么被 a16z 投了",
+          "url": "https://www.woshipm.com/ai/6412575.html",
+          "author": "张艾拉",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "这家由21岁辍学生创立的公司，不仅获得a16z青睐完成1500万美元A轮融资，更用激进的产品理念重新定义了AI助手的工作方式。本文将深度解析Cluely如何游走在合规与创新的边界，以及它面临的技术壁垒与信任危机。今天分享的公司是：Cluely，https://cluely.com/Cluely非常出圈，因为这家公司（的CEO）太会制造话题了：年轻创始人、名校风波、作弊工具、a16z 投资、估值过亿...",
+          "published_at": "2026-06-20T04:35:11"
+        },
+        {
           "title": "别再什么都塞进 CLAUDE.md 了——Anthropic 官方发布的七种自定义方式决策框架",
           "url": "https://www.woshipm.com/ai/6416320.html",
           "author": "枝酒",
@@ -247,48 +285,12 @@
           "source": "人人都是产品经理",
           "summary": "CLAUDE.md 正在成为 Claude 用户的效率杀手！Anthropic 官方揭秘七种指令机制的正确用法，从路径限定规则到隔离运行的子代理，这篇文章将彻底改变你配置 AI 开发助手的方式。学会在正确的位置放置指令，不仅能释放宝贵的上下文窗口，更能让 Claude 的表现提升一个量级。一、你的 CLAUDE.md，正在拖垮你的 Claude如果你用 Claude Code 超过一周，CLAUD...",
           "published_at": "2026-06-20T03:26:29"
-        },
-        {
-          "title": "用AI编程打造禅意木鱼：一次人机协作的产品创新之旅",
-          "url": "https://www.woshipm.com/share/6416424.html",
-          "author": "王佳亮",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "电子木鱼为何能成为现代人的心灵避风港？这款看似简单的产品背后，隐藏着对高压社会情绪的精准捕捉。本文通过一个完整的产品开发案例，揭秘如何用AI编程工具打造有温度、有文化内核的治愈系应用，并分享人机协作模式下产品经理如何突破技术限制，实现从0到1的完整产品落地。当代人的精神内耗，正在需要一个低成本、无门槛的出口。近两年爆火的电子木鱼，看似是一场无厘头的赛博玩梗，本质是年轻人高压生活下，一场悄无声息的心...",
-          "published_at": "2026-06-20T02:24:34"
-        },
-        {
-          "title": "Toybox、MakerWorld 与 Snapmaker：3D打印社区的三种未来可能性",
-          "url": "https://www.woshipm.com/share/6416225.html",
-          "author": "社区运营增长记",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "3D打印行业正从硬件比拼转向内容生态的竞争。Toybox瞄准儿童玩具市场，打造封闭式IP生态；MakerWorld依托硬件用户规模，构建模型社区飞轮；Snapmaker则另辟蹊径，布局开发者生态。本文将深入解析这三种截然不同的商业模式，揭示消费级3D打印的下一个竞争焦点。消费级3D打印行业正在经历一次新的竞争阶段。过去几年，各家厂商主要比拼的是打印速度、精度和硬件性能。但随着技术逐渐成熟，用户购买...",
-          "published_at": "2026-06-20T01:26:34"
-        },
-        {
-          "title": "从Prompt到World Model：大厂RL后训练工程师眼中的AI工程六层演化",
-          "url": "https://www.woshipm.com/ai/6416141.html",
-          "author": "AI搭子木木",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "AI工程正经历从Prompt Engineering到World Model Engineering的深刻变革。本文通过大厂RL后训练的视角，揭示AI训练范式如何从单一结果评判逐步演进为复杂任务环境设计，带你读懂模型如何从‘会答题’蜕变为‘会决策’的关键跃迁。近看到一张图，把 AI Engineering 从 Prompt Engineering 一路讲到 World Model Engineer...",
-          "published_at": "2026-06-19T07:27:23"
-        },
-        {
-          "title": "人员数据导入的工程化设计：模板、校验与外部数据源",
-          "url": "https://www.woshipm.com/pd/6416175.html",
-          "author": "首席道歉官",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "人员数据管理的Excel噩梦如何终结？从模板混乱到字段冲突，传统手工处理方式让HR陷入无尽返工循环。本文深度解析一套完整的导入批次管理体系，揭秘如何通过异步任务机制与异常回退路径设计，解决5000+条数据导入时的性能瓶颈问题。业务痛点人员数据管理是日常运营的基础工作，新员工入职导入、社保公积金基数调整、产品方案变更、离职减员。每次变更可能涉及几百到上千条数据，这些数据往往来自客户方提供的Excel...",
-          "published_at": "2026-06-19T06:30:47"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 6,
+      "count": 13,
       "items": [
         {
           "title": "Good designers, bad websites: a proposal",
@@ -343,75 +345,120 @@
           "source": "A List Apart",
           "summary": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things t...",
           "published_at": null
+        },
+        {
+          "title": "RPA COMUNICACIÓN",
+          "url": "https://www.awwwards.com/sites/rpa-comunicacion",
+          "author": "LaNegrita",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Balmoral",
+          "url": "https://www.awwwards.com/sites/balmoral",
+          "author": "MILL3",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Indigo Laboratory",
+          "url": "https://www.awwwards.com/sites/indigo-laboratory",
+          "author": "FPTP Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Gucci: Mystery Unfolds",
+          "url": "https://www.awwwards.com/sites/gucci-mystery-unfolds",
+          "author": "MONOGRID",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Fauna Robotics",
+          "url": "https://www.awwwards.com/sites/fauna-robotics",
+          "author": "O0",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "sakazuki",
+          "url": "https://www.awwwards.com/sites/sakazuki",
+          "author": "Shun_Kudo",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Crav Burgers",
+          "url": "https://www.awwwards.com/sites/crav-burgers",
+          "author": "Anyflow",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 7,
+      "count": 5,
       "items": [
         {
-          "title": "Darkmoon",
-          "url": "https://www.producthunt.com/products/darkmoon",
-          "author": "Mehdi Boutayeb",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Autonomous penetration testing platformDiscussion|Link",
-          "published_at": "2026-06-18T12:12:33"
-        },
-        {
-          "title": "MeshPilot",
-          "url": "https://www.producthunt.com/products/meshpilot",
-          "author": "Jenesh Patel",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Your AI workspace for terminals, tasks, and agentsDiscussion|Link",
-          "published_at": "2026-06-17T20:45:40"
-        },
-        {
-          "title": "Blazly Backlinker",
-          "url": "https://www.producthunt.com/products/blazly-backlinker",
-          "author": "Srijita Baidya",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Automate your entire backlink generationDiscussion|Link",
-          "published_at": "2026-06-18T14:58:24"
-        },
-        {
-          "title": "Mutter AI Dictation",
-          "url": "https://www.producthunt.com/products/mutter-ai-dictation",
-          "author": "Steven Billings",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Private AI dictation that lets you operate offline.Discussion|Link",
-          "published_at": "2026-06-19T05:41:54"
-        },
-        {
-          "title": "Midjourney Scanner",
-          "url": "https://www.producthunt.com/products/midjourney",
-          "author": "Chris Messina",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "60 second ultrasound-based full-body scanner that beats MRIDiscussion|Link",
-          "published_at": "2026-06-19T03:18:43"
-        },
-        {
-          "title": "Ask Ad Manager by Google Ads",
-          "url": "https://www.producthunt.com/products/ask-ad-manager",
+          "title": "Slackbot’s MCP Client",
+          "url": "https://www.producthunt.com/products/slack",
           "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Gemini-powered AI agent for insights & faster ad decisionsDiscussion|Link",
-          "published_at": "2026-06-18T18:48:23"
+          "summary": "Work across 20+ apps in Slack with multiplayer collaborationDiscussion|Link",
+          "published_at": "2026-06-18T19:14:40"
         },
         {
-          "title": "just f***ing send it",
-          "url": "https://www.producthunt.com/products/just-f-ing-send-it",
-          "author": "Yiğitcan Kutay Güler",
+          "title": "pumaDB",
+          "url": "https://www.producthunt.com/products/pumadb",
+          "author": "Stuart Sim",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Send any file, any size, straight from browser to browserDiscussion|Link",
-          "published_at": "2026-06-18T19:11:49"
+          "summary": "a small hosted memory layer for AI agentsDiscussion|Link",
+          "published_at": "2026-06-19T02:39:34"
+        },
+        {
+          "title": "Pixlie",
+          "url": "https://www.producthunt.com/products/pixlie",
+          "author": "Illia Ovcharenko",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "AI video studio: text & image to video, with real controlDiscussion|Link",
+          "published_at": "2026-06-19T11:37:24"
+        },
+        {
+          "title": "Basedash Access Controls",
+          "url": "https://www.producthunt.com/products/basedash",
+          "author": "Max Musing",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Control exactly who can access your company dataDiscussion|Link",
+          "published_at": "2026-06-19T16:05:30"
+        },
+        {
+          "title": "Reframe",
+          "url": "https://www.producthunt.com/products/reframe-7",
+          "author": "Maik Klotz",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Surf like it's 1999Discussion|Link",
+          "published_at": "2026-06-19T02:16:03"
         }
       ]
     },
@@ -465,8 +512,8 @@
           "published_at": null
         },
         {
-          "title": "华为跨端设计新思路，指向即输入如何颠覆传统交互",
-          "url": "https://www.uisdc.com/hunter/0221674152.html",
+          "title": "微信首页新增AI入口，一句话就能帮你操作小程序下单",
+          "url": "https://www.uisdc.com/hunter/0221674225.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -523,6 +570,30 @@
           "source": "Sidebar",
           "summary": "How Big AI need us more than we need them.",
           "published_at": "2026-06-19T07:57:30"
+        }
+      ]
+    },
+    {
+      "category": "前端设计",
+      "count": 2,
+      "items": [
+        {
+          "title": "A First Look at Scroll-Triggered Animations",
+          "url": "https://css-tricks.com/css-scroll-triggered-animations-first-look/",
+          "author": "Daniel Schwarz",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "Let's poke at the differences between scroll-drivenand scroll-triggeredanimations.A First Look at Scroll-Triggered Animationsoriginally handwritten and published with love onCSS-Tricks. You should rea...",
+          "published_at": "2026-06-19T13:03:17"
+        },
+        {
+          "title": "The Siren Song of ariaNotify()",
+          "url": "https://css-tricks.com/the-siren-song-of-arianotify/",
+          "author": "Mat Marquis",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "There's a brand newariaNotify()method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.The Siren Song of ariaNotify()orig...",
+          "published_at": "2026-06-17T15:32:30"
         }
       ]
     },
