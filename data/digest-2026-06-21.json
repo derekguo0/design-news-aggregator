@@ -1,22 +1,22 @@
 {
   "date": "2026-06-21T00:00:00",
-  "total_items": 59,
+  "total_items": 61,
   "sources": [
-    "Product Hunt",
     "优设网",
-    "少数派",
-    "Sidebar",
+    "Intercom Blog",
+    "NN/g (Nielsen Norman Group)",
+    "UX Planet",
+    "UX Design CC",
+    "CSS-Tricks",
+    "Design Milk",
+    "人人都是产品经理",
     "A List Apart",
     "Awwwards",
-    "人人都是产品经理",
-    "NN/g (Nielsen Norman Group)",
-    "UX Design CC",
-    "UX Planet",
-    "CSS-Tricks",
-    "Intercom Blog",
-    "Design Milk"
+    "少数派",
+    "Product Hunt",
+    "Sidebar"
   ],
-  "generated_at": "2026-06-21T04:44:17.344147",
+  "generated_at": "2026-06-21T14:18:57.435361",
   "categories": [
     {
       "category": "用户体验设计",
@@ -197,49 +197,49 @@
           "published_at": "2026-06-18T16:55:07"
         },
         {
-          "title": "AI时代，SaaS产品三条路径",
-          "url": "https://www.woshipm.com/ai/6416277.html",
-          "author": "简单有道",
+          "title": "公众号再这样下去，还有人看吗？",
+          "url": "https://www.woshipm.com/share/6417379.html",
+          "author": "十里村",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI正在重塑SaaS行业的底层逻辑，从功能叠加到范式转换的跨越已势不可挡。本文深度剖析SaaS产品在AI时代的三条转型路径：从保守的功能增强，到激进的原生重构，再到彻底以AI为核心的品类创新。现在AI这么火，对于一个SaaS从业20多年我，一直思考一个问题，AI下，SaaS该如何做呢？接下来给大家分享最近一些思考，希望对您有帮助。“用了 AI”和“被 AI 重新定义”是两件事，前者是功能叠加，后者...",
-          "published_at": "2026-06-21T04:34:07"
+          "summary": "公众号的流量困境正在逼退内容创作者。当AI洗稿工具与低质内容横行平台，深耕七年的干货作者却难破千次阅读。本文揭露微信生态的推荐机制缺陷、视频号导流门槛飙升等核心痛点，并对比头条号与小红的公域流量优势，为创作者提供破局思路。还有多少人，想继续写公众号的？不管是新人还是老人，公众号还是你做自媒体的第一选择吗？公众号要还是这样子，真的就要完了。01 好内容，无人问津我相信有很多人和我一样，花了很长去选题...",
+          "published_at": "2026-06-21T12:37:44"
         },
         {
-          "title": "数据产品的 AI 实践1：在不确定中寻找确定",
-          "url": "https://www.woshipm.com/ai/6416541.html",
-          "author": "潮生",
+          "title": "所有行业，都将被AI重做一遍！",
+          "url": "https://www.woshipm.com/ai/6417378.html",
+          "author": "老泡",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI coding在前端开发中覆盖率突破80%时，数据部门为何仍在手搓代码？本文作者亲测AI生成SQL指标方案的实战经历，揭示了从指标字典准备到代码验证的全流程思考，以及如何通过AI解放人力创造更高价值。更重要的是，这一过程正在倒逼企业数据基建的规范化与标准化。从今年1月份开始，笔者所在公司的前、后端开发们全都开启了 AI coding（通过 AI 辅助编写代码）的工作模式。除了外采供应系统的改...",
-          "published_at": "2026-06-21T03:32:48"
+          "summary": "AI 正在重估人类经验的溢价逻辑，这不是简单的岗位替代，而是对十年经验体系的降维打击。当营销策划、商业提案和行业流程等核心能力被AI快速复现，我们赖以生存的熟练度和模板思维正急速贬值。本文揭示经验贬值的三大判断与四类高危人群，指出从执行者进化为设计者的能力重构路径。很多人现在谈AI，谈的是失业焦虑。但我想说一个更真实、也更危险的问题——不是AI会不会抢走你的工作，而是你花了十年积累的经验、流程、判...",
+          "published_at": "2026-06-21T12:35:47"
         },
         {
-          "title": "【人员】人员合同全生命周期管理：模板匹配+自动填充+批量续签",
-          "url": "https://www.woshipm.com/share/6416537.html",
-          "author": "首席道歉官",
+          "title": "别再瞎发小红书了！一文说清品牌、博主、普通人的正确姿势",
+          "url": "https://www.woshipm.com/share/6416727.html",
+          "author": "林卿LinQ.",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "合同管理流程的低效与风险已成为企业运营的痛点。从手工录入到审核签署，繁琐的步骤不仅消耗大量工时，更隐藏着合同遗漏风险。本文将深度解析智能合同管理方案如何通过字段自动填充、批量续签与审核追踪等功能，实现效率提升与风险控制的双重突破。业务痛点一个外包员工的合同，从选人匹配模板、人员主数据拉取字段、再到填写合同条款、提交审核、签署归档。全流程涉及多个角色多个步骤。如果所有操作都手工完成，一个员工的合同处...",
-          "published_at": "2026-06-21T02:31:31"
+          "summary": "小红书早已超越单纯的种草平台，成为个体价值验证与商业闭环的超级入口。无论是品牌商家、自由职业者还是普通打工人，都能在小红书找到独特的经营路径。本文从6年实战经验出发，拆解不同身份如何利用搜索流量、内容测试与长尾效应，在小红书实现从0到1的突破。这几年，我身边一直有人在问：“林卿，我想做小红书，但我不是品牌，也不是博主，小红书对我有什么用嘛？”或者反过来：“我试过了，发了几十篇笔记，但好像没什么水花...",
+          "published_at": "2026-06-21T08:09:16"
         },
         {
-          "title": "AI支付宝上桌，微信慌了吗？",
-          "url": "https://www.woshipm.com/ai/6417088.html",
-          "author": "有界UnKnown",
+          "title": "看了10篇Transformer文章都不懂？试试这个相亲版解释",
+          "url": "https://www.woshipm.com/ai/6416703.html",
+          "author": "yan",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "支付宝AI版以'阿宝'智能助理为核心，通过右滑悬浮面板重构超级APP交互逻辑。这款号称全球首个AI化国民应用整合了理财、生活服务、消费等场景，但在语义理解与数据闭环上仍显稚嫩。本文深度体验其打车、外卖、理财等核心功能，揭示AI助理如何重塑用户与服务的连接方式。上周，微信被传上线智能体，传闻中的唤起方式，是右滑触发悬浮式独立对话面板。而这周，号称蚂蚁集团最好级别的保密项目——AI版支付宝正式发布了。...",
-          "published_at": "2026-06-21T02:04:18"
+          "summary": "Transformer的核心概念为何让无数人抓狂？本文用一场生动的相亲节目类比，彻底拆解Attention机制中Q、K、V的底层逻辑。没有晦涩公式翻译，只有你从未听过的「择偶标准」式解读，三分钟带你看穿自注意力机制的本质。看了十篇讲 Transformer 的文章，越看越想吐“Attention(Q, K, V) = softmax(QKᵀ/√dk)V”每篇文章都摆这个公式。然后告诉你：Q 是查询...",
+          "published_at": "2026-06-21T07:07:44"
         },
         {
-          "title": "为什么 AI 终于开始“边做边看？”从 SpatialClaw 看 Agent 设计的下一个十年",
-          "url": "https://www.woshipm.com/ai/6416674.html",
-          "author": "枝酒",
+          "title": "停止提示你的AI！2026年最值得了解的新范式：Loop Engineering",
+          "url": "https://www.woshipm.com/ai/6416553.html",
+          "author": "iffffff",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "英伟达 SpatialClaw 以 59.9% 的准确率刷新空间推理 benchmark，背后却是一个简单却颠覆性的设计：让 VLM 在持久 Python 内核中边写代码边验证。这一突破不仅跨越模型架构与任务类型，更揭示了 AI 交互设计的致命盲区——当工具间能自由『对话』时，模型潜力将得到根本性释放。59.9%。这是英伟达发布的 SpatialClaw 在 20 个空间推理 benchmark ...",
-          "published_at": "2026-06-21T01:28:46"
+          "summary": "Anthropic提出的Loop Engineering概念正颠覆这一现状：开发者不再是提示者，而是系统设计者，通过构建自动循环让AI自主完成任务。本文深度解析Loop Engineering的六大核心模块与三个实战场景，揭示如何让AI真正成为生产力而非负担。一、你还在”喂”AI吗？如果你现在用 Claude 或者 ChatGPT 写代码，大概率你的工作流长这样：写一个提示，等它输出，看看哪里不对...",
+          "published_at": "2026-06-21T06:30:03"
         }
       ]
     },
@@ -368,52 +368,70 @@
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 7,
       "items": [
         {
-          "title": "Pixlie",
-          "url": "https://www.producthunt.com/products/pixlie",
-          "author": "Illia Ovcharenko",
+          "title": "Agent 37",
+          "url": "https://www.producthunt.com/products/agent-37-38",
+          "author": "fmerian",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI video studio: text & image to video, with real controlDiscussion|Link",
-          "published_at": "2026-06-19T11:37:24"
+          "summary": "Give every customer their own Hermes or OpenClaw agentDiscussion|Link",
+          "published_at": "2026-06-20T19:03:23"
         },
         {
-          "title": "Are you in the Weights?",
-          "url": "https://www.producthunt.com/products/are-you-in-the-weights",
-          "author": "Thomas Dimson",
+          "title": "Laguna by Poolside",
+          "url": "https://www.producthunt.com/products/poolside",
+          "author": "fmerian",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Find out if you live forever in the brain of the LLMsDiscussion|Link",
-          "published_at": "2026-06-20T00:56:01"
+          "summary": "Foundation models for agentic coding and long-horizon workDiscussion|Link",
+          "published_at": "2026-06-20T15:00:44"
         },
         {
-          "title": "pumaDB",
-          "url": "https://www.producthunt.com/products/pumadb",
-          "author": "Stuart Sim",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "a small hosted memory layer for AI agentsDiscussion|Link",
-          "published_at": "2026-06-19T02:39:34"
-        },
-        {
-          "title": "Slackbot’s MCP Client",
-          "url": "https://www.producthunt.com/products/slack",
+          "title": "Atomic Mail Agentic",
+          "url": "https://www.producthunt.com/products/atomic-mail-agentic",
           "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Work across 20+ apps in Slack with multiplayer collaborationDiscussion|Link",
-          "published_at": "2026-06-18T19:14:40"
+          "summary": "Let your agents read, send, and react to email autonomouslyDiscussion|Link",
+          "published_at": "2026-06-18T19:36:02"
         },
         {
-          "title": "Basedash Access Controls",
-          "url": "https://www.producthunt.com/products/basedash",
-          "author": "Max Musing",
+          "title": "Plansera AI",
+          "url": "https://www.producthunt.com/products/plansera-ai",
+          "author": "Daniel Aydin",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Control exactly who can access your company dataDiscussion|Link",
-          "published_at": "2026-06-19T16:05:30"
+          "summary": "E-2 visa business plans, drafted by an AIDiscussion|Link",
+          "published_at": "2026-06-19T05:33:37"
+        },
+        {
+          "title": "Grok by SpaceXAI for Word",
+          "url": "https://www.producthunt.com/products/grok-by-spacexai-for-word",
+          "author": "Rohan Chaubey",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Draft, restructure & tighten wording from panel inside WordDiscussion|Link",
+          "published_at": "2026-06-18T20:55:25"
+        },
+        {
+          "title": "Cloudback MCP Server",
+          "url": "https://www.producthunt.com/products/cloudback",
+          "author": "Evgeniy Kosjakov",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Manage your backups from Claude, Cursor, and VS CodeDiscussion|Link",
+          "published_at": "2026-06-20T20:46:39"
+        },
+        {
+          "title": "Notchkin",
+          "url": "https://www.producthunt.com/products/notchkin",
+          "author": "Danny Stankowski",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "A notes app that lives in your MacBook's notch.Discussion|Link",
+          "published_at": "2026-06-20T23:28:02"
         }
       ]
     },
