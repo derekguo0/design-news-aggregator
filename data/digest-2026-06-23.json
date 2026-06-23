@@ -1,25 +1,44 @@
 {
   "date": "2026-06-23T00:00:00",
-  "total_items": 52,
+  "total_items": 63,
   "sources": [
-    "Sidebar",
-    "Design Milk",
-    "UX Design CC",
     "CSS-Tricks",
-    "NN/g (Nielsen Norman Group)",
     "Awwwards",
-    "人人都是产品经理",
+    "优设网",
+    "Sidebar",
     "A List Apart",
     "少数派",
     "Product Hunt",
-    "UX Planet"
+    "NN/g (Nielsen Norman Group)",
+    "UX Planet",
+    "人人都是产品经理",
+    "UX Design CC",
+    "Design Milk"
   ],
-  "generated_at": "2026-06-23T03:55:03.701488",
+  "generated_at": "2026-06-23T14:56:30.474364",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 8,
+      "count": 10,
       "items": [
+        {
+          "title": "How DesignOps roles are changing with new priorities",
+          "url": "https://uxdesign.cc/how-designops-roles-are-changing-with-new-priorities-c8db3a5bc1c3?source=rss----138adf9c44c---4",
+          "author": "Kai Wong",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Design Vision Matters More than Ever, When AI is Integrating with DesignContinue reading on UX Collective »",
+          "published_at": "2026-06-23T11:11:43"
+        },
+        {
+          "title": "Your banking app is lying to you",
+          "url": "https://uxdesign.cc/your-banking-app-is-lying-to-you-52959b075823?source=rss----138adf9c44c---4",
+          "author": "Zeeshan Khalid",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "It shows you a balance. It doesn’t show you the future. Here’s what happens when AI starts telling the truth.Continue reading on UX Collective »",
+          "published_at": "2026-06-23T11:09:13"
+        },
         {
           "title": "The organizational cost of low taste",
           "url": "https://uxdesign.cc/the-organizational-cost-of-low-taste-135cb8b10c34?source=rss----138adf9c44c---4",
@@ -156,8 +175,17 @@
     },
     {
       "category": "产品设计",
-      "count": 9,
+      "count": 10,
       "items": [
+        {
+          "title": "These Multitoned Grid Patterns Bring Depth to Drapes",
+          "url": "https://design-milk.com/these-multitoned-grid-patterns-bring-depth-to-drapes/",
+          "author": "Adrian Madlener",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "At 3daysofdesign Copenhagen, Danish textile giant Kvadrat unveiled the extensive fashion-cued THREE curtain collection.",
+          "published_at": "2026-06-23T13:00:54"
+        },
         {
           "title": "This Toronto Law Firm Lounge by Studio Ha/Wa Makes the Case for a Better Return to Office",
           "url": "https://design-milk.com/this-toronto-law-firm-lounge-by-studio-ha-wa-makes-the-case-for-a-better-return-to-office/",
@@ -195,49 +223,49 @@
           "published_at": "2026-06-22T12:00:23"
         },
         {
-          "title": "2026重述产品-真需求：我们是在解决“症状”还是“病根”？",
-          "url": "https://www.woshipm.com/share/6418582.html",
-          "author": "无事小神仙",
+          "title": "遇到“情绪巨婴”，别争辩别忍让，把烂摊子变“高光局”",
+          "url": "https://www.woshipm.com/share/6418431.html",
+          "author": "Nana",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "客户口中的需求往往只是表象，背后隐藏的才是真正的需求痛点。本文通过三类常见伪需求陷阱的拆解，结合‘五个为什么’追问法、‘待完成工作’理论等实用方法论，教你如何穿透表象直达需求本质，避免在错误赛道上耗尽资源。有一个经典的故事，值得每一个做产品的人刻在脑子里。汽车诞生之前，如果你问人们想要什么，他们会说：“我想要一匹更快的马。”如果你听进去了，你就会去培育更好的马种、设计更轻的马蹄铁、训练更专业的骑手...",
-          "published_at": "2026-06-23T02:49:51"
+          "summary": "职场中的情绪风暴往往比问题本身更具破坏力。面对突如其来的情绪宣泄，小默通过冷静隔离、认知拆解、行动降维和结果导向四层策略，不仅化解了冲突，更重新定义了团队沟通规则。这篇文章深度拆解了如何从被动承接情绪到主动掌控局面的实战心法，为职场人提供了一套应对“情绪巨婴”的系统解法。一、实战案例1、一段对话小正：刚才 小冠 为啥要说那些话？还提起了好久之前的一个事情。有什么事情好好沟通解决就好了吧！小默：先聚...",
+          "published_at": "2026-06-23T09:34:11"
         },
         {
-          "title": "拼多多直通车空烧怎么办",
-          "url": "https://www.woshipm.com/share/6418378.html",
-          "author": "老虎讲运营",
+          "title": "我是怎么使用 CodeX 把“仓库盘点脑图”，一步步做成可导入飞书的流程图的？",
+          "url": "https://www.woshipm.com/ai/6418865.html",
+          "author": "会员",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "电商运营最头疼的直通车空烧问题，正在吞噬中小卖家的利润。拼多多最新推出的极速起量高级版工具，通过智能锁投产功能，让店铺空烧花费骤降99%。本文深度解析如何利用平台工具+人工干预组合拳，破解非标品多链接铺货模式下的空烧困局，揭秘从车损到盈利的实战路径。咱们做电商开直通车这块，最怕的是什么？是开车了几天，一单都没出；是直通车预算烧不出去，干着急；是不车损就没有单；是直通车消耗忽高忽低，动不动推广受限。...",
-          "published_at": "2026-06-23T02:49:43"
+          "summary": "当供应链/WMS产品经理面对复杂业务流程梳理时，CodeX展现出了惊人的结构化表达能力。本文将揭秘如何借助这款AI工具，将碎片化的仓库盘点脑图转化为标准泳道图的全链路实践——从业务逻辑补全、Text流程生成到Draw.io XML自动输出，最终实现团队资产的高效沉淀。很多做供应链/WMS 的产品经理，都会遇到一个很真实的问题：脑子里已经有流程了，脑图也梳理出来了，但要把它快速变成一张“能讲清楚、能...",
+          "published_at": "2026-06-23T08:55:26"
         },
         {
-          "title": "当电力交易遇上 AI：一个传统行业产品经理的赋能思考",
-          "url": "https://www.woshipm.com/pd/6418571.html",
-          "author": "Serencry",
+          "title": "用AI问问题，结果跟你没关系？试试BTICOE模型（附案例）",
+          "url": "https://www.woshipm.com/share/6418921.html",
+          "author": "知果日记",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "电力交易行业的产品经理正面临AI带来的深刻变革。传统上需要数年积累的专业知识壁垒，如今可以通过AI工具快速突破。本文深入解析电力交易复杂的三层规则体系，并揭示AI如何精准赋能规则理解、验证与跨域沟通，帮助PM从繁琐的'信息搬运'中解放，聚焦于真正需要行业洞察的决策环节。在很多传统行业，产品经理的核心工作可以浓缩为一个词：翻译。把业务专家的经验翻译成开发能看懂的需求文档，把政策文件里的条文翻译成系统...",
-          "published_at": "2026-06-23T02:47:53"
+          "summary": "当AI给出的建议总是隔靴搔痒，问题可能出在提问方式上。本文通过职场项目推进的真实案例，揭示如何用BTICOE框架重构问题描述——从通用分析到精准诊断的关键跃迁，本质上是在训练「精准定义问题」这项高阶能力。你有没有这种体验：把一个职场困惑发给AI，它回了一大段，看着头头是道，但读完之后你还是不知道自己该怎么办。嗯，其实我有也有过，哈哈哈。不是AI不好。是因为你还没想清楚，自己真正要问的是什么。同一件...",
+          "published_at": "2026-06-23T08:43:43"
         },
         {
-          "title": "硬件创业的五大陷阱，每一个都可能烧掉几百万",
-          "url": "https://www.woshipm.com/chuangye/6418467.html",
-          "author": "洛小梅",
+          "title": "我让 AI 读了 52 篇论文，这是我学到的关于 Loop 的三件事",
+          "url": "https://www.woshipm.com/ai/6418868.html",
+          "author": "yan",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "硬件产品设计的真相远非表面光鲜。从锤子到苹果，无数品牌用真金白银的教训揭示：高端定位、美学执念、成本失控、参数内卷、量产风险——这五大陷阱足以摧毁任何硬件项目。本文将深度解析消费电子行业最致命的决策误区，带你读懂为何80%的硬件创业都倒在了这些看似基础的问题上。很多人误以为，硬件产品设计只是打磨外观、堆砌参数、渲染精美效果图的创意工作。但深耕消费电子行业就会明白：硬件设计从来不是美学创作，而是一场...",
-          "published_at": "2026-06-23T02:45:04"
+          "summary": "当AI遇上神经科学论文，万字解读的自动化革命正在上演。本文揭秘了一个名为Loop的智能协议系统如何通过五步流程、独立评审机制和客观评价标准，将52篇论文的深度解读工作量从104小时压缩至近乎自动化完成。更关键的是，作者用实战案例揭示了哪些任务适合AI自动化，哪些仍需人类创意的不可替代性——这是每个试图用AI重塑工作流的产品人都必须掌握的边界判断。我手上有 52 篇神经科学经典论文的 PDF。我想把...",
+          "published_at": "2026-06-23T08:35:45"
         },
         {
-          "title": "别再纠结”技术还是洞察”了，AI产品经理真正的核心是第三种能力",
-          "url": "https://www.woshipm.com/ai/6418442.html",
-          "author": "张量行者",
+          "title": "三年之内，这个岗位会彻底消失！不是因为AI，而是skill",
+          "url": "https://www.woshipm.com/ai/6418898.html",
+          "author": "智卓见",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI产品的死亡率居高不下，背后折射出产品经理面临的致命抉择——技术理解与需求洞察孰轻孰重？本文犀利指出这道选择题本身就是陷阱，并揭示真正决定AI产品生死的第三种能力：对概率性体验的判断力。当大模型必然出错时，如何在技术可能与用户代价之间找到平衡点，才是这个时代产品经理最稀缺的核心竞争力。过去一年，全球平均每天有超过一个 AI 产品死掉。AI Graveyard 的统计是 392 个，国内 2025...",
-          "published_at": "2026-06-23T02:41:08"
+          "summary": "当企业软件进入'动嘴时代'，Skill 2.0正在彻底重构工作方式。通过MCP协议打通数据孤岛，员工仅需在IM工具中输入自然语言指令，即可直接调用ERP、CRM等系统功能。这不仅宣告了传统UI界面的消亡，更将引发企业培训、产品设计等行业的连锁颠覆。本文深度剖析了这场效率革命的技术路径与产业影响。这可能是一次极具前瞻性的“预言”，当然也可能是一次贻笑大方的“嘴炮”!从那个画面不会再出现开始吧……20...",
+          "published_at": "2026-06-23T07:48:08"
         }
       ]
     },
@@ -366,43 +394,121 @@
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 6,
       "items": [
         {
-          "title": "AlgoFly AI",
-          "url": "https://www.producthunt.com/products/algofly-ai",
-          "author": "Nitin Rai",
+          "title": "NeuralAgent 3.0",
+          "url": "https://www.producthunt.com/products/neuralagent",
+          "author": "Khaled Shadid",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The all-in-one place to build and deploy vision AIDiscussion|Link",
-          "published_at": "2026-06-21T13:51:27"
+          "summary": "AI that executes UI actions on your computer in ~285msDiscussion|Link",
+          "published_at": "2026-06-21T22:47:17"
         },
         {
-          "title": "AgentX",
-          "url": "https://www.producthunt.com/products/agentx",
+          "title": "LogStitch",
+          "url": "https://www.producthunt.com/products/logstitch",
+          "author": "Ryan P",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Find AWS Lambda failures fast, right on your MacDiscussion|Link",
+          "published_at": "2026-06-22T17:41:48"
+        },
+        {
+          "title": "Thumbmagic",
+          "url": "https://www.producthunt.com/products/thumbmagic-3",
           "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Evaluate AI agent, pinpoint issues, and fix with one click.Discussion|Link",
-          "published_at": "2026-06-21T07:13:56"
+          "summary": "AI thumbnail generator trained on top-performing thumbnailsDiscussion|Link",
+          "published_at": "2026-06-20T12:18:24"
         },
         {
-          "title": "MediaSeg",
-          "url": "https://www.producthunt.com/products/mediaseg",
-          "author": "Sho Nishikawa, ExaEdge",
+          "title": "NanoCorp",
+          "url": "https://www.producthunt.com/products/nanocorp",
+          "author": "Antoine",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Split large media files into upload-ready chunks on macOSDiscussion|Link",
-          "published_at": "2026-06-22T00:40:36"
+          "summary": "Found a company in one sentence - from website to adsDiscussion|Link",
+          "published_at": "2026-06-22T21:59:38"
         },
         {
-          "title": "Alai 2.0",
-          "url": "https://www.producthunt.com/products/alai",
-          "author": "Krishna Gupta",
+          "title": "Latitude",
+          "url": "https://www.producthunt.com/products/latitude-4",
+          "author": "fmerian",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI design partner for presentations, social posts, and moreDiscussion|Link",
-          "published_at": "2026-06-20T18:25:40"
+          "summary": "Fix what's breaking in your AI agentDiscussion|Link",
+          "published_at": "2026-06-22T06:37:23"
+        },
+        {
+          "title": "HotkeyClash",
+          "url": "https://www.producthunt.com/products/hotkeyclash",
+          "author": "Kemal Esensoy",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Find where your Mac keyboard shortcuts clashDiscussion|Link",
+          "published_at": "2026-06-23T05:50:06"
+        }
+      ]
+    },
+    {
+      "category": "设计教程",
+      "count": 6,
+      "items": [
+        {
+          "title": "基于IP的卡通配图怎么做？教你用AI轻松实现！",
+          "url": "https://www.uisdc.com/signature-visuals",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "AI用得好不好，跟你会不会管人是同一件事",
+          "url": "https://www.uisdc.com/manage-ai",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "20000多张照片6年没整理，AI半小时帮我全搞定了！",
+          "url": "https://www.uisdc.com/ai-cleans-your-photos",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "资讯/神器/素材全都有！2026年6月设计周刊第五波",
+          "url": "https://www.uisdc.com/design-tech-weekly-3",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "AI时代最该读的10本书，没有一本讲AI",
+          "url": "https://www.uisdc.com/books-over-bots",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "支付宝用细腻微交互，赋予AI产品长久的陪伴感",
+          "url": "https://www.uisdc.com/hunter/0221674469.html",
+          "author": "龙爪槐守望者",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
@@ -411,49 +517,49 @@
       "count": 5,
       "items": [
         {
-          "title": "94% say research matters. Only 27% act on it. [Report]",
-          "url": "https://bit.ly/side-hey1",
+          "title": "Show your hands honor for the strange power they bring you",
+          "url": "https://aresluna.org/show-your-hands-honor/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Inside — a survey of 309 researchers and leaders shows why insights struggle to shape decisions and how modern teams are closing that gap.",
-          "published_at": "2026-06-22T07:13:00"
+          "summary": "On designing finger-friendly interactions.",
+          "published_at": "2026-06-23T07:33:31"
         },
         {
-          "title": "The new software lifecycle",
-          "url": "https://addyosmani.com/blog/new-sdlc-vibe-coding/",
+          "title": "Taste: design DNA for AI agents",
+          "url": "https://www.tastelab.xyz/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How shifting engineering to intent management accelerates feature deployment.",
-          "published_at": "2026-06-22T07:11:47"
+          "summary": "Abductive reasoning for design. Read any website’s taste: tokens + the decisions behind them. A Claude Code skill.",
+          "published_at": "2026-06-23T07:33:06"
         },
         {
-          "title": "Why I email complete strangers",
-          "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+          "title": "You cannot grow a pumpkin",
+          "url": "https://taylor.town/pumpkin",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Cold email as an enduring protocol for intentional networking outside algorithm-driven platforms.",
-          "published_at": "2026-06-22T07:10:28"
+          "summary": "You can play piano (unless you can’t play piano).",
+          "published_at": "2026-06-23T07:32:02"
         },
         {
-          "title": "Storied Colors",
-          "url": "https://storiedcolors.com/",
+          "title": "Product Design Psychology",
+          "url": "https://productdesignpsychology.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Named colors with documented histories.",
-          "published_at": "2026-06-22T07:09:31"
+          "summary": "Understand the minds you design for and the mind you design with.",
+          "published_at": "2026-06-23T07:31:22"
         },
         {
-          "title": "AI economics for dummies",
-          "url": "https://www.mcsweeneys.net/articles/ai-economics-for-dummies",
+          "title": "After AI takes everything",
+          "url": "https://ursb.me/en/posts/after-ai-takes-everything/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A few examples to help the average layperson understand the business side of AI.",
-          "published_at": "2026-06-22T07:08:57"
+          "summary": "How software commoditization shifts user value from technical production to individual curation.",
+          "published_at": "2026-06-23T07:30:37"
         }
       ]
     },
@@ -476,6 +582,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "社区速递 146 | 晒晒派友的夏季出门包、百元薄膜键盘与高性价比净化器",
+          "url": "https://sspai.com/post/111410",
+          "author": "Matrix机器人",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+          "published_at": "2026-06-23T09:00:00"
+        },
+        {
+          "title": "运行在 macOS 中的「超采样」：HiDPI 与 Mac 显示溯源",
+          "url": "https://sspai.com/post/111261",
+          "author": "Nnnobel",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "2026 年让我们再谈 macOS 的画面缩放机制。查看全文",
+          "published_at": "2026-06-23T07:00:00"
+        },
+        {
+          "title": "把面试变成一场「开卷推理」：我的全流程备战与复盘 SOP",
+          "url": "https://sspai.com/post/110947",
+          "author": "鸿苓",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "当样本量积累到足够多时，面试其实是一场有迹可循的推理小游戏。查看全文",
+          "published_at": "2026-06-23T03:00:18"
+        },
         {
           "title": "派早报：荣耀发布 X80 Pro Max 等新品等",
           "url": "https://sspai.com/post/111385",
@@ -502,33 +635,6 @@
           "source": "少数派",
           "summary": "越来越不新鲜了呐我的山景城朋友！查看全文",
           "published_at": "2026-06-22T08:23:24"
-        },
-        {
-          "title": "线索若隐若现：深入 Tim Cook 和 Nike 的商业连接",
-          "url": "https://sspai.com/post/111081",
-          "author": "少数派播客",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "一直以来，Apple 和 Nike 之间的商业关系在公众视野里简单明了。但在两者中间，Apple 的前任 CEO Tim Cook 一直扮演着连接者的角色，他和 Nike 之间的关系也因此而显得十分微妙。在本期节目中，我们就来一起深入 Apple、Nike 和 Tim Cook 之间的商业三角关系。查看全文",
-          "published_at": "2026-06-22T06:30:00"
-        },
-        {
-          "title": "恩施龙船调，游土随川流",
-          "url": "https://sspai.com/post/110742",
-          "author": "PJHubs",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "恩施的峡谷之美在全国甚至全球都是一绝。查看全文",
-          "published_at": "2026-06-22T03:07:02"
-        },
-        {
-          "title": "派早报：英特尔将为苹果代工芯片",
-          "url": "https://sspai.com/post/111343",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "英特尔将为苹果代工芯片库克称 iPhone 涨价不可避免美国科技公司政策转向，限制员工 AI 成本Modos 推出开源 13.3 寸彩色墨水屏Manus 原投资人计划将其原价购回CMF 已取消今年发布计划看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
-          "published_at": "2026-06-21T23:13:32"
         }
       ]
     }
