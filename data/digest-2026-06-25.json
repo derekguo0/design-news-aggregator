@@ -1,25 +1,25 @@
 {
   "date": "2026-06-25T00:00:00",
-  "total_items": 64,
+  "total_items": 68,
   "sources": [
-    "UX Design CC",
-    "Design Milk",
-    "UX Planet",
     "人人都是产品经理",
-    "A List Apart",
-    "Sidebar",
-    "NN/g (Nielsen Norman Group)",
-    "Awwwards",
-    "Product Hunt",
-    "CSS-Tricks",
+    "UX Planet",
     "优设网",
-    "少数派"
+    "Awwwards",
+    "Design Milk",
+    "UX Design CC",
+    "少数派",
+    "NN/g (Nielsen Norman Group)",
+    "CSS-Tricks",
+    "A List Apart",
+    "Product Hunt",
+    "Sidebar"
   ],
-  "generated_at": "2026-06-25T03:56:57.077994",
+  "generated_at": "2026-06-25T14:40:24.232297",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 11,
+      "count": 12,
       "items": [
         {
           "title": "Your design system runs on one person’s judgment-AI is about to prove it",
@@ -92,6 +92,15 @@
           "source": "UX Design CC",
           "summary": "Two products. Both fortune-tellers. Wildly different operating costs.One Is a Plastic Sphere Filled With Alcohol. The Other Is a Trillion-Dollar Bet on the Future of Compute. They Do Roughly the Same ...",
           "published_at": "2026-06-22T06:59:22"
+        },
+        {
+          "title": "Figma Config 2026 Recap",
+          "url": "https://uxplanet.org/figma-config-2026-recap-1852ccf5e1d1?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "What’s new in Figma for product designersContinue reading on UX Planet »",
+          "published_at": "2026-06-25T11:10:36"
         },
         {
           "title": "Claude Code Performance Optimization Commands",
@@ -187,6 +196,15 @@
       "count": 11,
       "items": [
         {
+          "title": "A Return to Roots with Bentley Mills",
+          "url": "https://design-milk.com/a-return-to-roots-with-bentley-mills-land-mark/",
+          "author": "Sophie Sobol",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Design Milk celebrates 20 years, and Bentley Mills launches a new textile collection.",
+          "published_at": "2026-06-25T13:00:22"
+        },
+        {
           "title": "Radnor Marks Ten Years With a Brooklyn Tower Penthouse Gallery",
           "url": "https://design-milk.com/radnor-marks-ten-years-with-a-brooklyn-tower-penthouse-gallery/",
           "author": "Leo Lei",
@@ -232,58 +250,49 @@
           "published_at": "2026-06-23T15:00:03"
         },
         {
-          "title": "These Multitoned Grid Patterns Bring Depth to Drapes",
-          "url": "https://design-milk.com/these-multitoned-grid-patterns-bring-depth-to-drapes/",
-          "author": "Adrian Madlener",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "At 3daysofdesign Copenhagen, Danish textile giant Kvadrat unveiled the extensive fashion-cued THREE curtain collection.",
-          "published_at": "2026-06-23T13:00:54"
-        },
-        {
-          "title": "用不好AI的人，都犯了一个错",
-          "url": "https://www.woshipm.com/ai/6419941.html",
-          "author": "Isaac Theo",
+          "title": "医美机构私密科室——人、物、场、品四维拆解运营思考",
+          "url": "https://www.woshipm.com/operate/6420025.html",
+          "author": "王星",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AGI（通用人工智能）正从科幻概念加速走向现实，它将彻底重构人与机器的协作模式。本文深度拆解AI从'接话机器人'到'思维伙伴'的进化路径，揭示如何将个人判断力转化为AI的执行力，以及在这个人机协作新时代，产品经理最该掌握的核心竞争力究竟是什么。首先介绍一个AGI（通用人工智能），简单说就是一个什么都能干的”超级大脑”。它不像现在的AI只会聊天、画图或下棋，AGI能在几乎所有领域像普通人一样思考、学...",
-          "published_at": "2026-06-25T03:32:35"
+          "summary": "在女性健康意识觉醒的浪潮下，私密医美正成为医美机构突破增长瓶颈的黄金赛道。本文从人、物、场、品四大维度，深度拆解如何构建私密科室的运营闭环——从专业团队的共情力培养到医疗物料的合规管理，从沉浸式场景设计到阶梯式产品体系搭建，为从业者提供一套完整的私密医美运营方法论。作为医美行业从业者观察者，在女性经济、女性身心灵健康意识全面崛起的时代，私密学科必将成为医美行业的核心增量赛道。最近大家都在聊，皮肤注...",
+          "published_at": "2026-06-25T09:49:19"
         },
         {
-          "title": "一个不懂代码的运营，10 分钟搭了个系统后，我重新思考了“需求落地”这件事",
-          "url": "https://www.woshipm.com/ai/6419937.html",
-          "author": "建国聊SaaS架构",
+          "title": "从 0-1 做 App，434 下载 $35 收入，我学到了什么",
+          "url": "https://www.woshipm.com/share/6420124.html",
+          "author": "CoopyZhou",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI工具正在颠覆传统需求交付流程，品牌运营者亲测10分钟搭建项目管理应用的震撼体验。从方案预览到自动生成示例数据，这种零代码开发方式不仅压缩了需求与实现的距离，更倒逼产品经理重新思考角色定位——当业务人员都能自主搭建应用，PM的价值将向更上游迁移。我是做品牌运营的，不懂代码，但和很多 PM 一样，我平时要和各种系统打交道，也深知一件事的痛苦：从我想要个工具到东西真正能用，中间隔着提需求、排期、开发...",
-          "published_at": "2026-06-25T03:29:28"
+          "summary": "日记App市场看似饱和，但Rose Diary的诞生揭示了产品经理的独特思考。从结构化复盘模板到审美差异化，这款轻量级应用如何在434次下载与18元定价的现实中，重新定义「需求验证」的边界？本文将深度拆解从市场热点捕捉到用户教育成本的全链路实战经验。可能有的小伙伴知道，我最近从 0-1 做了一个自己的日记 App ——Rose Diary。简单来说，它就是一个带复盘模板的轻量日记 App。通过几个...",
+          "published_at": "2026-06-25T09:38:36"
         },
         {
-          "title": "左手专业版，右手AI打车，豆包Agent意欲何为？",
-          "url": "https://www.woshipm.com/ai/6419922.html",
-          "author": "识礁Farsight",
+          "title": "功能的守门人、时间的守卫者、机会的追逐者：产品经理的三角困局",
+          "url": "https://www.woshipm.com/pmd/6420088.html",
+          "author": "Serencry",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "豆包App正在加速Agent化转型，从一键打车到专业办公场景，展现出字节跳动抢占AI入口的野心。然而，在生态资源匮乏的背景下，豆包如何突破微信、支付宝的围堵？又能否在生产力Agent赛道复制Codex的成功？本文深度解析豆包的战略布局与行业挑战。紧跟微信、支付宝的脚步，豆包也开始进行Agent化转型。2026年6月23日，据《科创板日报》报道，豆包App在北京、杭州两地灰度测试一键打车功能，由曹操...",
-          "published_at": "2026-06-25T03:28:04"
+          "summary": "产品经理、项目经理和老板的三角矛盾，几乎在每个需求评审会上都会上演。面对功能质量、交付节奏和市场机会的不同诉求，三方各执一词却又各自有理。本文剖析了三种典型的无力时刻，揭示了传统解法的失效原因，并提出了将验证前置、结构化记录风险等实操方向，帮助你在无法消除的结构性矛盾中，找到更有效的应对策略。一、一个再熟悉不过的场景需求评审会上。产品经理翻着 PRD：“这个审批驳回功能还有三种异常情况没覆盖。驳回...",
+          "published_at": "2026-06-25T09:35:11"
         },
         {
-          "title": "14个月融3轮、估值暴涨70%，这家公司靠什么让VC疯狂下注？",
-          "url": "https://www.woshipm.com/share/6419968.html",
-          "author": "深思圈",
+          "title": "拆解AI Agent：大模型、规划、记忆、工具，PM的设计指南",
+          "url": "https://www.woshipm.com/ai/6420089.html",
+          "author": "刀哥",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "医疗行业的预约挂号难题正在被AI颠覆。Assort Health凭借语音AI agent切入骨科排班这一复杂场景，三年内长成覆盖八大环节的医疗平台，其核心护城河Patient Journey Memory技术将碎片化互动串联为完整病人旅程。这家估值12亿美元的新锐公司，正用1.9亿次互动训练出的专科数据集，重构万亿美元级医疗系统的入口逻辑。这种体验几乎是每个美国病人的共同记忆。但很少有人意识到，这...",
-          "published_at": "2026-06-25T03:01:15"
+          "summary": "Agent 正在重塑 AI 产品的形态，但许多产品经理对其核心模块仍缺乏系统认知。本文将 Agent 简化为四大组件：大模型作为大脑、规划模块制定策略、记忆系统保留上下文、工具集成为执行手段，并深入剖析每部分的设计要点与产品决策逻辑，帮助 PM 从底层理解如何构建真正能解决问题的智能体。2026年有两个词快被说烂了。一个是AI，一个是Agent。所有人都在喊Agent是未来。但很多PM其实说不清楚...",
+          "published_at": "2026-06-25T07:43:43"
         },
         {
-          "title": "人工智能与人脑",
-          "url": "https://www.woshipm.com/ai/6419783.html",
-          "author": "许昕",
+          "title": "知乎的今天，小红书的明天？",
+          "url": "https://www.woshipm.com/share/6420080.html",
+          "author": "Vic的营销思考",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从原始RNA到GPT-4，进化始终是理解智能涌现的关键线索。当深海热泉的化学渗透遇上Transformer的规模定律，生命与AI在数据、能量与信息的耦合中展现出惊人的相似性——它们都在重演那个让无序转化为有序的魔法时刻。本文将以进化生物学为棱镜，折射AI发展中最富哲学意味的认知突破。我们没有兴趣征服宇宙，我们想把地球延伸到宇宙的边界，我们不知道怎样处理其他的世界，我们也不需要其他的世界，我们只需要...",
-          "published_at": "2026-06-25T02:11:10"
+          "summary": "知乎的转型之路给内容平台敲响警钟。从问答社区到网文平台，从品牌广告到会员经济，这个曾经的知识殿堂如今正面临用户流失与商业化的双重挑战。同样站在十字路口的小红书，其买手电商战略是否会重蹈覆辙？本文通过数据拆解与商业逻辑分析，揭示平台战略转型背后的生存法则与品牌应对之道。你有多久没有打开知乎了？遥想当年，知乎也是品牌炙手可热的内容平台，也是有完整投放方法论的，我在品牌工作的时候，知乎的投放占比还是能占...",
+          "published_at": "2026-06-25T07:24:07"
         }
       ]
     },
@@ -346,6 +355,15 @@
           "published_at": null
         },
         {
+          "title": "IL CAPO PRODUCTION",
+          "url": "https://www.awwwards.com/sites/il-capo-production",
+          "author": "AUGE EXPERIENCE",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Wolverine Worldwide",
           "url": "https://www.awwwards.com/sites/wolverine-worldwide",
           "author": "Locomotive",
@@ -398,66 +416,48 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Gucci: Mystery Unfolds",
-          "url": "https://www.awwwards.com/sites/gucci-mystery-unfolds",
-          "author": "MONOGRID",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "Swimio",
-          "url": "https://www.producthunt.com/products/swimio",
-          "author": "Luca Corsilli",
+          "title": "Polygraph",
+          "url": "https://www.producthunt.com/products/polygraph",
+          "author": "Heidi Grutter",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI swim coach with Apple Watch tracking & smart workoutsDiscussion|Link",
-          "published_at": "2026-06-24T05:16:39"
+          "summary": "Let AI agents see cross repo and maintain session memory.Discussion|Link",
+          "published_at": "2026-06-24T07:52:07"
         },
         {
-          "title": "FUTO Swipe",
-          "url": "https://www.producthunt.com/products/futo-swipe",
+          "title": "Postproxy - Engagement API",
+          "url": "https://www.producthunt.com/products/postproxy",
+          "author": "Dmitry Sereda",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Publish, reply, and analyze social media via APIDiscussion|Link",
+          "published_at": "2026-06-23T08:32:19"
+        },
+        {
+          "title": "Figma Motion",
+          "url": "https://www.producthunt.com/products/figma",
           "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Open models for on-device swipe typingDiscussion|Link",
-          "published_at": "2026-06-24T03:19:25"
+          "summary": "Your Figma canvas now has a timelineDiscussion|Link",
+          "published_at": "2026-06-25T05:23:21"
         },
         {
-          "title": "Customer Relationship Agents by Clarify",
-          "url": "https://www.producthunt.com/products/clarify-6",
-          "author": "Chris Messina",
+          "title": "BrowserBash",
+          "url": "https://www.producthunt.com/products/browserbash",
+          "author": "Prrammod Dutta",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The M in CRM shouldn't be youDiscussion|Link",
-          "published_at": "2026-06-22T19:26:30"
-        },
-        {
-          "title": "React UI Kit V7",
-          "url": "https://www.producthunt.com/products/production-ready-ui-kits-by-cometchat",
-          "author": "Pourav Raj",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "All the chat components you need. None of the complexityDiscussion|Link",
-          "published_at": "2026-06-23T10:35:25"
-        },
-        {
-          "title": "Stripe.Directory",
-          "url": "https://www.producthunt.com/products/stripe",
-          "author": "Rohan Chaubey",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "New way for you & agents to search for businesses on StripeDiscussion|Link",
-          "published_at": "2026-06-22T20:15:01"
+          "summary": "CLI that turns plain-English into real browser testsDiscussion|Link",
+          "published_at": "2026-06-23T07:54:57"
         }
       ]
     },
@@ -526,56 +526,92 @@
       "count": 5,
       "items": [
         {
-          "title": "Consistency, but in excellence not appearance",
-          "url": "https://blog.jim-nielsen.com/2026/a-consistency-of-excellence/",
+          "title": "The layers of AI experience",
+          "url": "https://emilycampbell.co/writing/layers-of-ai-experience",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How strict visual systems prioritize automated rules over contextual quality.",
-          "published_at": "2026-06-24T05:27:43"
+          "summary": "Why designers must move beyond interfaces to shape the systems, constraints, and behaviors beneath them.",
+          "published_at": "2026-06-25T06:49:07"
         },
         {
-          "title": "The case for vibe coding when all your coworkers are also vibe coding",
-          "url": "https://ericwbailey.website/published/the-case-for-an-accessibility-designer-vibe-coding-when-all-his-coworkers-are-also-vibe-coding/",
+          "title": "Less is more, more or less",
+          "url": "https://jakub.kr/writing/less-is-more",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Am I letting my own personal beliefs and biases affect the outcome I ultimately want?",
-          "published_at": "2026-06-24T05:26:14"
+          "summary": "In the age of AI, knowing what not to build might be the most important skill of all.",
+          "published_at": "2026-06-25T06:48:24"
         },
         {
-          "title": "A short history of modern brand design",
-          "url": "https://www.itsnicethat.com/features/katharina-sussek-jens-muller-the-elements-of-brand-design-taschen-publication-graphic-design-spotlight-170626",
+          "title": "The AI steering layer",
+          "url": "https://www.lukew.com/ff/entry.asp?2155",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The genesis and evolution of modern branding and visual identities, from the 19th century to how we experience them today.",
-          "published_at": "2026-06-24T05:25:22"
+          "summary": "An intentional steering layer can not only help but is increasingly needed in software today.",
+          "published_at": "2026-06-25T06:47:34"
         },
         {
-          "title": "InkField | 墨域",
-          "url": "https://ileivoivm.github.io/inkField/",
+          "title": "The Last Museum",
+          "url": "https://lastmuseum.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A system that preserves the act of drawing itself, where every gesture is remembered and every image continues to evolve.",
-          "published_at": "2026-06-24T05:24:42"
+          "summary": "Search engine for museum art.",
+          "published_at": "2026-06-25T06:46:50"
         },
         {
-          "title": "On the perils of indifference",
-          "url": "https://www.nubero.ch/blog/018/",
+          "title": "Config 2026: New materials, new tools and a more expressive canvas",
+          "url": "https://www.figma.com/blog/config-2026-recap/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How prioritizing standard HTML features reduces maintenance and enhances long-term interface stability.",
-          "published_at": "2026-06-24T05:24:12"
+          "summary": "Push past what you thought was possible with code layers, Figma Motion, shaders, generative plugins and Weave tools, all on the canvas.",
+          "published_at": "2026-06-25T06:46:25"
         }
       ]
     },
     {
       "category": "前端设计",
-      "count": 1,
+      "count": 5,
       "items": [
+        {
+          "title": "translateZ()",
+          "url": "https://css-tricks.com/almanac/functions/t/translatez/",
+          "author": "Gabriel Shoyombo",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "ThetranslateZ()function moves an element closer to or farther from the user.translateZ()originally handwritten and published with love onCSS-Tricks. You should reallyget the newsletteras well.",
+          "published_at": "2026-06-25T13:18:56"
+        },
+        {
+          "title": "translateY()",
+          "url": "https://css-tricks.com/almanac/functions/t/translatey/",
+          "author": "Gabriel Shoyombo",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "ThetranslateY()function shifts an element vertically by the specified amount.translateY()originally handwritten and published with love onCSS-Tricks. You should reallyget the newsletteras well.",
+          "published_at": "2026-06-25T13:17:56"
+        },
+        {
+          "title": "translateX()",
+          "url": "https://css-tricks.com/almanac/functions/t/translatex/",
+          "author": "Gabriel Shoyombo",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "ThetranslateX()function shifts an element horizontally by the specified amount.translateX()originally handwritten and published with love onCSS-Tricks. You should reallyget the newsletteras well.",
+          "published_at": "2026-06-25T13:16:01"
+        },
+        {
+          "title": "translate()",
+          "url": "https://css-tricks.com/almanac/functions/t/translate/",
+          "author": "Gabriel Shoyombo",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "The CSStranslate()function shifts an element from its default position on a 2-dimensional planetranslate()originally handwritten and published with love onCSS-Tricks. You should reallyget the newslett...",
+          "published_at": "2026-06-25T13:15:05"
+        },
         {
           "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
           "url": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
@@ -591,6 +627,42 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "新玩意 245｜少数派的编辑们最近买了啥？",
+          "url": "https://sspai.com/post/111518",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@克莱德：GoogleSta ...查看全文",
+          "published_at": "2026-06-25T10:49:19"
+        },
+        {
+          "title": "给记忆一个归处：我为什么开始使用 Apple 手记",
+          "url": "https://sspai.com/post/111421",
+          "author": "ElijahLee",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "《手记》是Apple在iOS17.2中推出的原生日记应用，它可以帮助用户更轻松地记录生活、保存回忆、培养反思与感恩等习惯。今年以来，我频繁地使用手记这款应用。不过，我开始使用它的契机并不是为了写日记， ...查看全文",
+          "published_at": "2026-06-25T07:40:12"
+        },
+        {
+          "title": "把心情贴在手机背面：XTREM INNO 极稚墨水屏手机壳体验",
+          "url": "https://sspai.com/post/111483",
+          "author": "M00Nface",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "手机主屏幕的个性化，如今越发受到重视。遍观各大手机操作系统的更新，几乎都会提到主屏幕装扮方式的增加——从壁纸、时钟再到图标、挂件，几乎没有哪个角落是不能按自己喜好调整的。对比之下，手机背面反而成为了「 ...查看全文",
+          "published_at": "2026-06-25T06:08:44"
+        },
+        {
+          "title": "风暖鸟声碎，日高花影重：我的昆明与腾冲行记",
+          "url": "https://sspai.com/post/111349",
+          "author": "PJHubs",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "云南气候实在是太好了，昆明海拔将近两千，每次出门都有一种凉爽感包裹全身。而腾冲太适合旅居了，既有中高端的酒店可供享受奢靡之风，也有历史文化供我们反思来时的路，更好的去面对未来，还有拿上衣服就可以随地大小泡的温泉，美哉！查看全文",
+          "published_at": "2026-06-25T03:02:42"
+        },
         {
           "title": "派早报：豆包推出专业版、GTA VI 开启预售等",
           "url": "https://sspai.com/post/111476",
@@ -608,42 +680,6 @@
           "source": "少数派",
           "summary": "Enco Clip2 作为耳夹品类里定位相对中高端的产品，我们一起来看看它的表现吧。查看全文",
           "published_at": "2026-06-24T09:30:00"
-        },
-        {
-          "title": "从观众到志愿者：加入 TEDxShenzhen 需要做些什么？",
-          "url": "https://sspai.com/post/111428",
-          "author": "许万里Alva",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "前言今年是我加入TEDxShenzhen的第三年，经历了2024年和2025年的两次年度大会，我们迎来了2026年的纳新和年度大会筹备。今年纳新时，有几位朋友问我是如何加入Tedx的，刚好编辑也问我有 ...查看全文",
-          "published_at": "2026-06-24T07:00:00"
-        },
-        {
-          "title": "DV/HDV 磁带拯救计划：用 AI 驱动十八年前的老设备",
-          "url": "https://sspai.com/post/111223",
-          "author": "XiNGRZ",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "2026 年是 AI agent 的第一年，2026 年也是 FireWire 的最后一年。查看全文",
-          "published_at": "2026-06-24T02:11:37"
-        },
-        {
-          "title": "派早报：新款理想 L8 换代上市、Meta 发布 Meta Glasses 智能眼镜等",
-          "url": "https://sspai.com/post/111438",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Cloudflare 联合主流浏览器厂商推进 PACT 协议，腾讯推出 TenPayGo 等。查看全文",
-          "published_at": "2026-06-23T23:49:32"
-        },
-        {
-          "title": "社区速递 146 | 晒晒派友的夏季出门包、百元薄膜键盘与高性价比净化器",
-          "url": "https://sspai.com/post/111410",
-          "author": "Matrix机器人",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
-          "published_at": "2026-06-23T09:00:00"
         }
       ]
     }
