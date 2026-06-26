@@ -1,28 +1,46 @@
 {
   "date": "2026-06-26T00:00:00",
-  "total_items": 65,
+  "total_items": 66,
   "sources": [
-    "Sidebar",
-    "UX Design CC",
-    "UX Planet",
-    "Awwwards",
-    "少数派",
-    "NN/g (Nielsen Norman Group)",
-    "人人都是产品经理",
-    "Product Hunt",
-    "CSS-Tricks",
-    "Design Milk",
     "A List Apart",
-    "优设网"
+    "少数派",
+    "UX Planet",
+    "Product Hunt",
+    "人人都是产品经理",
+    "优设网",
+    "Awwwards",
+    "Sidebar",
+    "CSS-Tricks",
+    "NN/g (Nielsen Norman Group)",
+    "UX Design CC",
+    "Design Milk"
   ],
-  "generated_at": "2026-06-26T04:03:37.883548",
+  "generated_at": "2026-06-26T14:32:31.357538",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 8,
+      "count": 10,
       "items": [
         {
-          "title": "Rethinking Figma in an AI World",
+          "title": "Someone designed this",
+          "url": "https://uxdesign.cc/someone-designed-this-2d48482b64df?source=rss----138adf9c44c---4",
+          "author": "Arun Bakirathan",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Why bad UX is often a business decision, not a design failure.There’s a screen most people have seen at least once.You’re trying to cancel a subscription. You’ve made up your mind. You click the butto...",
+          "published_at": "2026-06-26T11:09:43"
+        },
+        {
+          "title": "How to stop re-explaining yourself to Claude",
+          "url": "https://uxdesign.cc/how-to-stop-re-explaining-yourself-to-claude-5845bc5025a2?source=rss----138adf9c44c---4",
+          "author": "Sean Filiatrault",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Claude doesn’t know who you are. Here’s how I fixed that.In March I switched from ChatGPT to Claude. The sessions were better, but for the first four to six weeks there was a tax I kept paying at the ...",
+          "published_at": "2026-06-26T07:50:16"
+        },
+        {
+          "title": "Rethinking Figma in an AI world",
           "url": "https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5?source=rss----138adf9c44c---4",
           "author": "Darren Yeo",
           "category": "用户体验设计",
@@ -160,6 +178,15 @@
       "count": 11,
       "items": [
         {
+          "title": "Katrien Van Der Shueren’s Cabinets of Curiosity Are at Once Primeval and Present-Day",
+          "url": "https://design-milk.com/katrien-van-der-shuerens-cabinets-of-curiosity-are-at-once-primeval-and-present-day/",
+          "author": "Adrian Madlener",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "The L.A.-based, Belgian artist’s wall mounted The Ark of Us sculptures are compartments of personal meaning; portraits forged out of collected experience",
+          "published_at": "2026-06-26T13:00:57"
+        },
+        {
           "title": "The Landscape Becomes a Tool for Learning at This School in India",
           "url": "https://design-milk.com/the-landscape-becomes-a-tool-for-learning-at-this-school-in-india/",
           "author": "Anna Zappia",
@@ -205,58 +232,49 @@
           "published_at": "2026-06-24T16:00:53"
         },
         {
-          "title": "At 3daysofdesign, ege Carpets Mounted an Immersive Display Tying Shape to Sense",
-          "url": "https://design-milk.com/at-3daysofdesign-ege-carpets-mounted-an-immersive-display-tying-shape-to-sense/",
-          "author": "Adrian Madlener",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "To launch its new modular Superflex carpet tile solution, the Danish producer tapped anthropologist and designer Rikke Skytte to create an installation highlighting the primordial links between form a...",
-          "published_at": "2026-06-24T14:00:34"
-        },
-        {
-          "title": "大 V 正在消失",
-          "url": "https://www.woshipm.com/it/6420474.html",
-          "author": "李逸和",
+          "title": "用AI写PRD？先看完这5个Skill的对比",
+          "url": "https://www.woshipm.com/ai/6420576.html",
+          "author": "Paullin",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "流量红利见顶的时代，大V神话正在破灭。从安妮宝贝到鸡排哥，从表演式人设到真诚内容崛起，平台流量逻辑已彻底转向。本文深度拆解网红经济的四维模型，揭示为何流量平权时代只有真实创作者才能笑到最后。原来网络上第一个现象级的网红是”安妮宝贝”，现笔名为庆山，以《告别薇安》《七月与安生》等小说获得关注。这与当下以颜值、炒作事件爆火的”网红”大相径庭。回想起上学时代，与身边的同学闲聊，总会有些天马行空的想法：如...",
-          "published_at": "2026-06-26T02:27:41"
+          "summary": "如今 AI 已经能够快速生成产品需求文档 (PRD)，但不同产品经理的经验不同，所在团队的工作文化也不同。这篇文章我们比较了 5 个不同类型的 PRD Skill，这些 Skill 各自有自己的优劣势，希望能够帮助读者在面临特定场景时，知道哪个 Skill 更加适合自己。今天我们来聊一个很具体的问题：怎么让 AI 帮你写好 PRD（产品需求文档）？想象一下下面的场景：场景1：你有一个很棒的想法，恨...",
+          "published_at": "2026-06-26T09:57:55"
         },
         {
-          "title": "杀死 App：下一代 AI 交互的定义权，也许握在一个按钮手里",
-          "url": "https://www.woshipm.com/pd/6420453.html",
-          "author": "俊驰产品观",
+          "title": "Agentic OS：如何打造一支永不疲倦的AI销售团队",
+          "url": "https://www.woshipm.com/ai/6420611.html",
+          "author": "巫师Sorcerer",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI战争在手机屏幕上如火如荼，一个更隐秘的战场正在方向盘后悄然成型。本文揭示了通勤场景中被忽视的认知红利——每天流失的碎片化思考如何通过一个简单的物理按钮转化为结构化资产，并深入解析字节跳动为何是最适合打造'车载语音工作台'的玩家。从交互范式革命到商业价值重构，这是一场关于AI如何真正融入物理世界的深度思考。五一后的那个周末，我花了整整两天在研究一件事：怎么把豆包搞到 CarPlay 上。起因很...",
-          "published_at": "2026-06-26T02:19:10"
+          "summary": "AI销售助手为何会在关键时刻报出骨折价？背后暴露的不仅是模型问题，更是系统架构的致命缺陷。本文深度拆解如何将单一Agent升级为「销售公司」架构，通过五层分工与三个关键接头设计，解决上下文过载、决策混乱与虚假验收等行业痛点，打造真正具备自进化能力的AI销售系统。一个AI销售助手正在IM上和客户聊得火热。对方随口问了句再平常不过的话：“你们基础版怎么卖？”它张口就报了个底价，低得离谱。事后复盘才发现...",
+          "published_at": "2026-06-26T09:13:37"
         },
         {
-          "title": "做国企财务决策支持系统四年，我踩过的四个坑",
-          "url": "https://www.woshipm.com/pd/6420019.html",
-          "author": "自由的产品手记",
+          "title": "豆包被迫收费养家，反而拉高了「DAA」的能见度",
+          "url": "https://www.woshipm.com/ai/6420629.html",
+          "author": "唐辰同学",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "B端财务决策支持系统的设计远不止技术问题，背后暗藏着一整套财务逻辑体系。本文通过四大真实踩坑案例，揭示从报表口径差异、预算对比陷阱到增减率计算失真等核心问题，剖析财务三大报表的勾稽关系与编制逻辑，为产品经理提供从数据搬运工到决策支持者的关键跃迁路径。每个坑背后都藏着一条财务硬知识——如果你也在做B端产品，这篇可能帮你少走半年弯路先说结论：做B端财务决策支持系统，最大的门槛不是技术，是你对业务的理解...",
-          "published_at": "2026-06-26T02:17:52"
+          "summary": "字节旗下AI产品豆包正式迈入付费时代，日活超3亿的流量怪兽背后是日均数千万元的算力消耗与不足百万元的收入困境。这场被迫的商业化转型不仅揭示了国产AI的盈利困局，更意外激活了李彦宏提出的DAA指标——在Agent时代，衡量AI价值的标尺正从流量规模转向任务交付能力。本文将深度解析豆包三档订阅策略背后的生存逻辑，以及DAA如何重构AI时代的价值坐标系。豆包终于正式收费了。6月24日，豆包正式推出专业版...",
+          "published_at": "2026-06-26T09:12:24"
         },
         {
-          "title": "“崩老头”：社交产品里的情绪陪伴生意",
-          "url": "https://www.woshipm.com/share/6420395.html",
-          "author": "沉迷社交产品的初九哥",
+          "title": "拆解20款AI+行业产品后，我总结了一个判断套壳的框架",
+          "url": "https://www.woshipm.com/ai/6420626.html",
+          "author": "森林雨",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从“崩老头”现象到1v1陪聊社交，一条被放大的情绪供给链正在形成。文章揭示了社交产品如何通过轻量化互动设计，将陪伴需求转化为可交易的灰色产业，并剖析了平台机制与人性弱点叠加后的结构性困境。这不仅是社会心理问题，更是产品设计引发的深层次挑战。崩老头背后，是一条被放大的情绪供给链。近期，“崩老头”一词在全网引发热议，并逐渐暴露出一条围绕“情绪陪伴”的灰色产业链。这里的“老头”并非指真正年逾花甲的老人，...",
-          "published_at": "2026-06-26T02:13:09"
+          "summary": "AI+行业的浪潮下，垂直产品究竟是价值创新还是Prompt套壳？本文通过20款产品拆解提炼出'三重幻觉'模型，揭露AI行业产品的常见陷阱，并给出'三问判断框架'帮助产品经理穿透营销迷雾。从数据壁垒到工作流闭环，深度解析什么才是通用大模型无法替代的真实价值。作为产品经理，我们在评估”AI+行业”方向时，常常面临一个核心疑问：这个产品到底有没有真正的价值壁垒，还是只是给通用大模型套了一层壳？我基于对2...",
+          "published_at": "2026-06-26T09:07:52"
         },
         {
-          "title": "B端产品经理的防甩锅实战手册",
-          "url": "https://www.woshipm.com/zhichang/6420343.html",
-          "author": "简谙",
+          "title": "腾讯 AI 大模型，最终还是要靠微信破局？",
+          "url": "https://www.woshipm.com/ai/6419893.html",
+          "author": "实战产品说",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "B端产品经理常陷于多方需求拉扯的困境，成为信息汇总却无决策权的'夹心饼干'。本文深度剖析需求源头混乱、领导越权干预、目标定义模糊三大高危场景，并提供需求留痕、风险前置、分歧书面化等实战防甩锅策略，揭示如何在复杂组织中守住责任边界。B端（包括G端）产品经理有点像个夹心饼干，长时间夹在甲方、业务、研发、老板之间做受气包。随便开个什么会，会上谁都能提意见。领导说立意要再拔高一点，业务说我要这个功能去忽悠...",
-          "published_at": "2026-06-26T02:09:46"
+          "summary": "腾讯正将AI战略的重心悄然转向微信生态。从原生AI助手小微到Agently Mail专属邮箱，腾讯不走独立APP路线，而是将AI能力深度植入10亿级用户的高频场景。这种与当年视频号崛起如出一辙的生态打法，正在让微信成为AI时代的超级调度台。本文将拆解腾讯如何用微信闭环生态实现AI能力的降维打击。最近一周腾讯在 AI 领域的动作很密。先是6月20日微信原生 AI 助手小微开启小范围内测，用户更新到最...",
+          "published_at": "2026-06-26T09:06:55"
         }
       ]
     },
@@ -319,6 +337,15 @@
           "published_at": null
         },
         {
+          "title": "Ten Years Away",
+          "url": "https://www.awwwards.com/sites/ten-years-away",
+          "author": "Studio375",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "IL CAPO PRODUCTION",
           "url": "https://www.awwwards.com/sites/il-capo-production",
           "author": "AUGE EXPERIENCE",
@@ -371,15 +398,6 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Indigo Laboratory",
-          "url": "https://www.awwwards.com/sites/indigo-laboratory",
-          "author": "FPTP Studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -388,58 +406,58 @@
       "count": 6,
       "items": [
         {
-          "title": "BrowserBash",
-          "url": "https://www.producthunt.com/products/browserbash",
-          "author": "Prrammod Dutta",
+          "title": "Gemini Spark",
+          "url": "https://www.producthunt.com/products/gemini-spark",
+          "author": "Ankit Sharma",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "CLI that turns plain-English into real browser testsDiscussion|Link",
-          "published_at": "2026-06-23T07:54:57"
+          "summary": "Your 24/7 personal AI agentDiscussion|Link",
+          "published_at": "2026-06-25T05:47:05"
         },
         {
-          "title": "SayCraft",
-          "url": "https://www.producthunt.com/products/saycraft",
-          "author": "Ame ame",
+          "title": "Group Subscriptions by beehiiv",
+          "url": "https://www.producthunt.com/products/beehiiv",
+          "author": "Tyler Denk",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Build a web app by talking through a meetingDiscussion|Link",
-          "published_at": "2026-06-24T07:58:20"
+          "summary": "Sell subscriptions to teams, companies, and organizations.Discussion|Link",
+          "published_at": "2026-06-26T01:59:59"
         },
         {
-          "title": "Signspell",
-          "url": "https://www.producthunt.com/products/signspell",
-          "author": "Sundar Balamurugan",
+          "title": "LockIn MCP",
+          "url": "https://www.producthunt.com/products/lockin-mcp",
+          "author": "Mil Hoornaert",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Real-time ASL alphabet recognition in py ,pip install and goDiscussion|Link",
-          "published_at": "2026-06-24T13:43:37"
+          "summary": "Let AI block distractions for you when you need to lock inDiscussion|Link",
+          "published_at": "2026-06-25T09:35:32"
         },
         {
-          "title": "Sidegent",
-          "url": "https://www.producthunt.com/products/sidegent",
-          "author": "Farhan Helmy",
+          "title": "Sleek Analytics",
+          "url": "https://www.producthunt.com/products/sleek-analytics",
+          "author": "Abbas Aga",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Learn to build AI agents by actually building themDiscussion|Link",
-          "published_at": "2026-06-24T14:34:41"
+          "summary": "See who's on your site. Right now.Discussion|Link",
+          "published_at": "2026-06-25T05:52:23"
         },
         {
-          "title": "Paybond CLI",
-          "url": "https://www.producthunt.com/products/paybond",
-          "author": "Damilare Olaleye",
+          "title": "note.md",
+          "url": "https://www.producthunt.com/products/note-md",
+          "author": "André Aigner",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Safe agent spend from the terminalDiscussion|Link",
-          "published_at": "2026-06-25T01:23:19"
+          "summary": "your notes and research documentation now a local LLM MemoryDiscussion|Link",
+          "published_at": "2026-06-23T12:07:40"
         },
         {
-          "title": "Heron",
-          "url": "https://www.producthunt.com/products/heron",
-          "author": "Vincent Wu",
+          "title": "Basedash for Excel",
+          "url": "https://www.producthunt.com/products/basedash",
+          "author": "Max Musing",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Wireshark for AI Agents: passive eBPF observabilityDiscussion|Link",
-          "published_at": "2026-06-24T09:01:12"
+          "summary": "Turn any Excel file into a live dashboardDiscussion|Link",
+          "published_at": "2026-06-26T04:15:50"
         }
       ]
     },
@@ -493,8 +511,8 @@
           "published_at": null
         },
         {
-          "title": "别再用AE做动效了，Figma原生动效工具终于来了",
-          "url": "https://www.uisdc.com/hunter/0221674810.html",
+          "title": "最尴尬的UI改动？支付宝父亲节快捷入口引发的误会",
+          "url": "https://www.uisdc.com/hunter/0221674935.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -505,52 +523,43 @@
     },
     {
       "category": "设计资讯",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "The layers of AI experience",
-          "url": "https://emilycampbell.co/writing/layers-of-ai-experience",
+          "title": "The AI Resist List",
+          "url": "https://airesistlist.org/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Why designers must move beyond interfaces to shape the systems, constraints, and behaviors beneath them.",
-          "published_at": "2026-06-25T06:49:07"
+          "summary": "A living directory of ways communities resist AI harms—and build alternatives worth fighting for.",
+          "published_at": "2026-06-26T08:04:24"
         },
         {
-          "title": "Less is more, more or less",
-          "url": "https://jakub.kr/writing/less-is-more",
+          "title": "Your design system has a new author",
+          "url": "https://blog.murphytrueman.com/your-design-systems-newest-author-is-an-agent/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "In the age of AI, knowing what not to build might be the most important skill of all.",
-          "published_at": "2026-06-25T06:48:24"
+          "summary": "Authored change has outpaced the review model, and that breaks more than it looks.",
+          "published_at": "2026-06-26T08:03:41"
         },
         {
-          "title": "The AI steering layer",
-          "url": "https://www.lukew.com/ff/entry.asp?2155",
+          "title": "keybr.com - Typing lessons",
+          "url": "https://www.keybr.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "An intentional steering layer can not only help but is increasingly needed in software today.",
-          "published_at": "2026-06-25T06:47:34"
+          "summary": "Teaching the world to type at the speed of thought! Typing lessons that work.",
+          "published_at": "2026-06-26T08:03:14"
         },
         {
-          "title": "The Last Museum",
-          "url": "https://lastmuseum.com/",
+          "title": "Your documentation is still in your Mum’s filing cabinet",
+          "url": "https://gerireid.com/blog/organising-documentation-for-humans-and-ai/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Search engine for museum art.",
-          "published_at": "2026-06-25T06:46:50"
-        },
-        {
-          "title": "Config 2026: New materials, new tools and a more expressive canvas",
-          "url": "https://www.figma.com/blog/config-2026-recap/",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "Push past what you thought was possible with code layers, Figma Motion, shaders, generative plugins and Weave tools, all on the canvas.",
-          "published_at": "2026-06-25T06:46:25"
+          "summary": "It’s kind of wild that we’re still organising knowledge like it’s sitting in a 1970s filing cabinet. People and AI don’t think in folders.",
+          "published_at": "2026-06-26T08:02:36"
         }
       ]
     },
@@ -601,6 +610,42 @@
       "count": 6,
       "items": [
         {
+          "title": "本周看什么 | 最近值得一看的 10 部作品",
+          "url": "https://sspai.com/post/111562",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "📅本周新预告《克拉拉与太阳》首支预告6月23日，电影《克拉拉与太阳》发布了首支预告，将于10月23日在北美上映。塔伊加·维迪提执导，詹娜·奥尔特加、艾米·亚当斯主演，改编自石黑一雄的同名小说，人工智能 ...查看全文",
+          "published_at": "2026-06-26T10:16:38"
+        },
+        {
+          "title": "探索快捷指令的上限：用网页视图创建丰富界面与交互",
+          "url": "https://sspai.com/prime/story/create-webview-in-shortcuts",
+          "author": "Linery",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "从锁屏按钮、锁屏小组件、负一屏小组件，到桌面小组件、控制中心、Siri、自动化触发……iPhone的快捷指令有着超级多的打开方式，我们也可以为自己写的或从网络上获取的实用快捷指令设置一种最顺手的。与之 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "published_at": "2026-06-26T08:29:05"
+        },
+        {
+          "title": "空调续命之外的清凉：这是我们的夏日降温「新」方案",
+          "url": "https://sspai.com/post/100319",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "当夏天的热浪席卷城市，北方在烈日下承受着如烤箱般的双面炙烤，南方在骄阳下忍受着如蒸笼般的闷湿高温，能够每天陪伴我们的「降温好物」成为必需。又是一年盛夏时，我们邀请了6位少数派作者，聊聊那些真正融入日常 ...查看全文",
+          "published_at": "2026-06-26T07:02:38"
+        },
+        {
+          "title": "林檎越东瀛：苹果的日本之旅",
+          "url": "https://sspai.com/post/111297",
+          "author": "WangMT",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "当年「林檎渡东瀛」的试探，终演变成一场与亚洲产业命运相依的交响。查看全文",
+          "published_at": "2026-06-26T03:29:29"
+        },
+        {
           "title": "派早报：鸿蒙智行发布尊界 S800 Grand Design 典藏大观",
           "url": "https://sspai.com/post/111541",
           "author": "少数派编辑部",
@@ -617,42 +662,6 @@
           "source": "少数派",
           "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@克莱德：GoogleSta ...查看全文",
           "published_at": "2026-06-25T10:49:19"
-        },
-        {
-          "title": "给记忆一个归处：我为什么开始使用 Apple 手记",
-          "url": "https://sspai.com/post/111421",
-          "author": "ElijahLee",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "《手记》是Apple在iOS17.2中推出的原生日记应用，它可以帮助用户更轻松地记录生活、保存回忆、培养反思与感恩等习惯。今年以来，我频繁地使用手记这款应用。不过，我开始使用它的契机并不是为了写日记， ...查看全文",
-          "published_at": "2026-06-25T07:40:12"
-        },
-        {
-          "title": "把心情贴在手机背面：XTREM INNO 极稚墨水屏手机壳体验",
-          "url": "https://sspai.com/post/111483",
-          "author": "M00Nface",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "手机主屏幕的个性化，如今越发受到重视。遍观各大手机操作系统的更新，几乎都会提到主屏幕装扮方式的增加——从壁纸、时钟再到图标、挂件，几乎没有哪个角落是不能按自己喜好调整的。对比之下，手机背面反而成为了「 ...查看全文",
-          "published_at": "2026-06-25T06:08:44"
-        },
-        {
-          "title": "风暖鸟声碎，日高花影重：我的昆明与腾冲行记",
-          "url": "https://sspai.com/post/111349",
-          "author": "PJHubs",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "云南气候实在是太好了，昆明海拔将近两千，每次出门都有一种凉爽感包裹全身。而腾冲太适合旅居了，既有中高端的酒店可供享受奢靡之风，也有历史文化供我们反思来时的路，更好的去面对未来，还有拿上衣服就可以随地大小泡的温泉，美哉！查看全文",
-          "published_at": "2026-06-25T03:02:42"
-        },
-        {
-          "title": "派早报：豆包推出专业版、GTA VI 开启预售等",
-          "url": "https://sspai.com/post/111476",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "OpenAI 发布 AI 推理芯片 Jalapeño、Goodram 推出 SD 存储卡 PRO S6B0 等。查看全文",
-          "published_at": "2026-06-25T00:51:49"
         }
       ]
     }
