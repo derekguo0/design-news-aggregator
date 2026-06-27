@@ -1,20 +1,22 @@
 {
   "date": "2026-06-27T00:00:00",
-  "total_items": 54,
+  "total_items": 65,
   "sources": [
-    "Design Milk",
-    "Sidebar",
-    "UX Design CC",
-    "少数派",
-    "Intercom Blog",
-    "Product Hunt",
     "NN/g (Nielsen Norman Group)",
-    "UX Planet",
-    "A List Apart",
+    "少数派",
     "人人都是产品经理",
-    "优设网"
+    "CSS-Tricks",
+    "优设网",
+    "Design Milk",
+    "Product Hunt",
+    "UX Design CC",
+    "Awwwards",
+    "Sidebar",
+    "Intercom Blog",
+    "UX Planet",
+    "A List Apart"
   ],
-  "generated_at": "2026-06-27T03:50:10.136108",
+  "generated_at": "2026-06-27T13:50:26.692961",
   "categories": [
     {
       "category": "用户体验设计",
@@ -240,55 +242,55 @@
           "published_at": "2026-06-26T17:40:52"
         },
         {
-          "title": "AI时代，产品团队如何从“需求承接型”升级为“AI驱动的业务价值型团队”",
-          "url": "https://www.woshipm.com/zhichang/6420638.html",
-          "author": "王佳亮",
+          "title": "AI互联网日报：OpenAI 开启 GPT-5.6 限量预览；DeepSeek 扩招、豆包进特斯拉车机；京东欧洲推机器人维修服务",
+          "url": "https://www.woshipm.com/ai/6421231.html",
+          "author": "AI星球",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI正在颠覆产品经理的传统角色，从PRD自动生成到原型快速设计，自动化工具正逐步接管机械性工作。本文揭示了一个残酷真相：只会写文档跟需求的产品经理将被淘汰，同时提供了从战局定义、决策引擎到价值杠杆的三重转型路径，以及5个可立即落地的AI改造环节，帮助产品人从执行者蜕变为战略指挥官。我是一名从业十多年的资深产品人，在产品群里大家也表达出了产品人的焦虑。AI时代，确实对产品经理的工作影响很大，有好的方...",
-          "published_at": "2026-06-27T01:10:00"
+          "summary": "OpenAI 和 Anthropic 还在前沿模型上拉扯权限与安全，豆包、DeepSeek 已经钻进特斯拉车机，阿里千问把语音输入做成日常工具，B站、京东、TikTok 又在把内容、服务和交易往更细的场景里拧。我更在意这条线：下一轮竞争不是谁喊得更大，而是谁能把 AI 放进真实入口，并让普通人少一步操作、多一点确定性。一起来看看这两天发生的AI和互联网赛道的大事件吧！AI赛道观察1. OpenAI...",
+          "published_at": "2026-06-27T09:57:47"
         },
         {
-          "title": "用AI写PRD？先看完这5个Skill的对比",
-          "url": "https://www.woshipm.com/ai/6420576.html",
-          "author": "Paullin",
+          "title": "踩了10个坑后，我弄清了Vibe Motion的真实玩法",
+          "url": "https://www.woshipm.com/ai/6420865.html",
+          "author": "小普",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "如今 AI 已经能够快速生成产品需求文档 (PRD)，但不同产品经理的经验不同，所在团队的工作文化也不同。这篇文章我们比较了 5 个不同类型的 PRD Skill，这些 Skill 各自有自己的优劣势，希望能够帮助读者在面临特定场景时，知道哪个 Skill 更加适合自己。今天我们来聊一个很具体的问题：怎么让 AI 帮你写好 PRD（产品需求文档）？想象一下下面的场景：场景1：你有一个很棒的想法，恨...",
-          "published_at": "2026-06-26T09:57:55"
+          "summary": "Vibe Motion正在颠覆传统视频制作逻辑，用代码驱动动画生成的Remotion和HyperFrames两大框架让视频生产变得工程化、可调试。从全合成动画到真人口播视频，作者通过踩遍10个技术坑，揭示了AI时代视频制作的底层逻辑与实战经验。这场从React组件到HTML/CSS的技术迁移，正在重新定义动态视觉内容的创作边界。最近又出了一个新概念，叫Vibe Motion。一开始是有点无感的。自...",
+          "published_at": "2026-06-27T06:21:11"
         },
         {
-          "title": "Agentic OS：如何打造一支永不疲倦的AI销售团队",
-          "url": "https://www.woshipm.com/ai/6420611.html",
-          "author": "巫师Sorcerer",
+          "title": "用产品迭代思维做家装：持续优化居住方案，拉长客户生命周期价值",
+          "url": "https://www.woshipm.com/pd/6421173.html",
+          "author": "设计师阿朱",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI销售助手为何会在关键时刻报出骨折价？背后暴露的不仅是模型问题，更是系统架构的致命缺陷。本文深度拆解如何将单一Agent升级为「销售公司」架构，通过五层分工与三个关键接头设计，解决上下文过载、决策混乱与虚假验收等行业痛点，打造真正具备自进化能力的AI销售系统。一个AI销售助手正在IM上和客户聊得火热。对方随口问了句再平常不过的话：“你们基础版怎么卖？”它张口就报了个底价，低得离谱。事后复盘才发现...",
-          "published_at": "2026-06-26T09:13:37"
+          "summary": "当住宅成为伴随业主十年乃至更久的动态空间，传统的‘一锤子买卖’模式正在浪费90%的客户生命周期价值。本文从产品经理视角出发，拆解如何通过‘硬装模块化+三层运营体系’将单次设计转化为长期服务，用迭代思维破解家装行业复购率低的致命伤。做家装三年，我发现行业普遍存在一个短板：绝大多数设计师只做 “一锤子交付”。方案落地、施工结束，和业主的服务链路基本就此切断，很难产生二次链接、转介绍与复购。放在产品运营...",
+          "published_at": "2026-06-27T05:46:12"
         },
         {
-          "title": "豆包被迫收费养家，反而拉高了「DAA」的能见度",
-          "url": "https://www.woshipm.com/ai/6420629.html",
-          "author": "唐辰同学",
+          "title": "AI写小说的”三十章魔咒”：当上下文窗口不够用，工具在往哪里走",
+          "url": "https://www.woshipm.com/ai/6420927.html",
+          "author": "蛙趣AI",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "字节旗下AI产品豆包正式迈入付费时代，日活超3亿的流量怪兽背后是日均数千万元的算力消耗与不足百万元的收入困境。这场被迫的商业化转型不仅揭示了国产AI的盈利困局，更意外激活了李彦宏提出的DAA指标——在Agent时代，衡量AI价值的标尺正从流量规模转向任务交付能力。本文将深度解析豆包三档订阅策略背后的生存逻辑，以及DAA如何重构AI时代的价值坐标系。豆包终于正式收费了。6月24日，豆包正式推出专业版...",
-          "published_at": "2026-06-26T09:12:24"
+          "summary": "到30万字左右，AI开始忘事、角色退化、伏笔丢失——这不是某个模型的问题，是整个AI辅助写作工具品类正在面对的结构性挑战。技术方案已经在分层进化。2026年3月的龙空论坛上，一名注册8年的老用户发帖吐槽：”现在的新人离开AI是不会识字了吗？”他感慨以前的新人作品不管好坏，都是自己一笔一笔敲出来的。帖子下面的评论区迅速吵成一片——有人附和，有人反驳说”AI就是个高级打字机，不用白不用”，有人贴出自己...",
+          "published_at": "2026-06-27T03:18:45"
         },
         {
-          "title": "如何判断AI垂直产品是创新还是套壳？一个框架就够了",
-          "url": "https://www.woshipm.com/ai/6420626.html",
-          "author": "森林雨",
+          "title": "AI产品经理成长实战：如何从0-1落地一款AI产品！",
+          "url": "https://www.woshipm.com/it/6421133.html",
+          "author": "起点课堂",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI+行业的浪潮下，垂直产品究竟是价值创新还是Prompt套壳？本文通过20款产品拆解提炼出'三重幻觉'模型，揭露AI行业产品的常见陷阱，并给出'三问判断框架'帮助产品经理穿透营销迷雾。从数据壁垒到工作流闭环，深度解析什么才是通用大模型无法替代的真实价值。作为产品经理，我们在评估”AI+行业”方向时，常常面临一个核心疑问：这个产品到底有没有真正的价值壁垒，还是只是给通用大模型套了一层壳？我基于对2...",
-          "published_at": "2026-06-26T09:07:52"
+          "summary": "你是不是也遇到过这些情况——明明调研了市面上的AI能力，也画了流程图、写了需求文档，可一到开发评审，技术同学一句“这个数据从哪来”“这个逻辑当前模型做不到”，以至于你开始怀疑：到底是AI不行，还是自己做AI产品的方法有问题？过去我们做产品，讲究需求清晰、逻辑确定、流程闭环。但AI产品天然带有概率性、数据依赖性和能力边界模糊的问题。换句话说：AI产品的起点，从来不是“我们要用大模型做什么”，而是“这...",
+          "published_at": "2026-06-27T02:44:07"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 6,
+      "count": 13,
       "items": [
         {
           "title": "Good designers, bad websites: a proposal",
@@ -343,6 +345,69 @@
           "source": "A List Apart",
           "summary": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things t...",
           "published_at": null
+        },
+        {
+          "title": "Podium",
+          "url": "https://www.awwwards.com/sites/podium",
+          "author": "San Rita",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Ten Years Away",
+          "url": "https://www.awwwards.com/sites/ten-years-away",
+          "author": "Studio375",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "IL CAPO PRODUCTION",
+          "url": "https://www.awwwards.com/sites/il-capo-production",
+          "author": "AUGE EXPERIENCE",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Wolverine Worldwide",
+          "url": "https://www.awwwards.com/sites/wolverine-worldwide",
+          "author": "Locomotive",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "EverSwap",
+          "url": "https://www.awwwards.com/sites/everswap",
+          "author": "Lusion",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "digitalists",
+          "url": "https://www.awwwards.com/sites/digitalists-1",
+          "author": "digitalists",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "RPA COMUNICACIÓN",
+          "url": "https://www.awwwards.com/sites/rpa-comunicacion",
+          "author": "LaNegrita",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
@@ -351,40 +416,40 @@
       "count": 4,
       "items": [
         {
-          "title": "AI Slide Editor by CubeOne",
-          "url": "https://www.producthunt.com/products/cubeone",
-          "author": "Eric Quan",
+          "title": "Folio AI",
+          "url": "https://www.producthunt.com/products/folio-ai",
+          "author": "fmerian",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The editor PowerPoint should've shippedDiscussion|Link",
-          "published_at": "2026-06-24T23:07:45"
+          "summary": "Claude for PowerPoint, on steroidsDiscussion|Link",
+          "published_at": "2026-06-25T20:15:56"
         },
         {
-          "title": "Basedash for Excel",
-          "url": "https://www.producthunt.com/products/basedash",
-          "author": "Max Musing",
+          "title": "Supra Player",
+          "url": "https://www.producthunt.com/products/supra-player",
+          "author": "Jesse Ngatai",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn any Excel file into a live dashboardDiscussion|Link",
-          "published_at": "2026-06-26T04:15:50"
+          "summary": "Compare & Sync Videos FastDiscussion|Link",
+          "published_at": "2026-06-26T21:19:41"
         },
         {
-          "title": "LockIn MCP",
-          "url": "https://www.producthunt.com/products/lockin-mcp",
-          "author": "Mil Hoornaert",
+          "title": "RetroMac",
+          "url": "https://www.producthunt.com/products/retromac",
+          "author": "Maik Klotz",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Let AI block distractions for you when you need to lock inDiscussion|Link",
-          "published_at": "2026-06-25T09:35:32"
+          "summary": "Turn your Mac into a time machine.Discussion|Link",
+          "published_at": "2026-06-26T04:24:48"
         },
         {
-          "title": "Group Subscriptions by beehiiv",
-          "url": "https://www.producthunt.com/products/beehiiv",
-          "author": "Tyler Denk",
+          "title": "Cewsco",
+          "url": "https://www.producthunt.com/products/cewsco",
+          "author": "kal winthrop",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Sell subscriptions to teams, companies, and organizations.Discussion|Link",
-          "published_at": "2026-06-26T01:59:59"
+          "summary": "All-in-one AI assistant — chat, images, voice & market dataDiscussion|Link",
+          "published_at": "2026-06-25T20:33:39"
         }
       ]
     },
@@ -491,9 +556,60 @@
       ]
     },
     {
+      "category": "前端设计",
+      "count": 4,
+      "items": [
+        {
+          "title": "translateZ()",
+          "url": "https://css-tricks.com/almanac/functions/t/translatez/",
+          "author": "Gabriel Shoyombo",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "ThetranslateZ()function moves an element closer to or farther from the user.translateZ()originally handwritten and published with love onCSS-Tricks. You should reallyget the newsletteras well.",
+          "published_at": "2026-06-25T13:18:56"
+        },
+        {
+          "title": "translateY()",
+          "url": "https://css-tricks.com/almanac/functions/t/translatey/",
+          "author": "Gabriel Shoyombo",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "ThetranslateY()function shifts an element vertically by the specified amount.translateY()originally handwritten and published with love onCSS-Tricks. You should reallyget the newsletteras well.",
+          "published_at": "2026-06-25T13:17:56"
+        },
+        {
+          "title": "translateX()",
+          "url": "https://css-tricks.com/almanac/functions/t/translatex/",
+          "author": "Gabriel Shoyombo",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "ThetranslateX()function shifts an element horizontally by the specified amount.translateX()originally handwritten and published with love onCSS-Tricks. You should reallyget the newsletteras well.",
+          "published_at": "2026-06-25T13:16:01"
+        },
+        {
+          "title": "translate()",
+          "url": "https://css-tricks.com/almanac/functions/t/translate/",
+          "author": "Gabriel Shoyombo",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "The CSStranslate()function shifts an element from its default position on a 2-dimensional planetranslate()originally handwritten and published with love onCSS-Tricks. You should reallyget the newslett...",
+          "published_at": "2026-06-25T13:15:05"
+        }
+      ]
+    },
+    {
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼",
+          "url": "https://sspai.com/post/111347",
+          "author": "子海",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "在莫斯科的时代折叠与彼得堡的文化巡礼之间，发现俄罗斯的不同面貌。查看全文",
+          "published_at": "2026-06-27T11:36:51"
+        },
         {
           "title": "本周看什么 | 最近值得一看的 10 部作品",
           "url": "https://sspai.com/post/111562",
@@ -538,15 +654,6 @@
           "source": "少数派",
           "summary": "Apple 调整产品价格，Figma 发布多项更新等。查看全文",
           "published_at": "2026-06-26T00:55:03"
-        },
-        {
-          "title": "新玩意 245｜少数派的编辑们最近买了啥？",
-          "url": "https://sspai.com/post/111518",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@克莱德：GoogleSta ...查看全文",
-          "published_at": "2026-06-25T10:49:19"
         }
       ]
     }
