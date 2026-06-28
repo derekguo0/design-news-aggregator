@@ -2,25 +2,34 @@
   "date": "2026-06-28T00:00:00",
   "total_items": 59,
   "sources": [
-    "人人都是产品经理",
-    "少数派",
-    "Sidebar",
-    "NN/g (Nielsen Norman Group)",
     "UX Planet",
-    "A List Apart",
-    "Design Milk",
-    "Intercom Blog",
-    "优设网",
     "Product Hunt",
+    "A List Apart",
+    "NN/g (Nielsen Norman Group)",
+    "Sidebar",
+    "Intercom Blog",
+    "Design Milk",
+    "优设网",
+    "少数派",
     "Awwwards",
+    "人人都是产品经理",
     "UX Design CC"
   ],
-  "generated_at": "2026-06-28T04:11:26.841553",
+  "generated_at": "2026-06-28T13:55:28.267922",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 9,
+      "count": 10,
       "items": [
+        {
+          "title": "The bullshit asymmetry principle was survivable. AI made production of slop almost free.",
+          "url": "https://uxdesign.cc/the-bullshit-asymmetry-principle-was-survivable-ai-made-production-of-slop-almost-free-2107dd4530b4?source=rss----138adf9c44c---4",
+          "author": "Patrick Neeman",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The press never tires. The inspector does. AI assisted.It costs ten times more to refute than making it. Generative AI drove the cost of making to zero. The fix is a design problem, not a fact-checkin...",
+          "published_at": "2026-06-28T09:17:35"
+        },
         {
           "title": "Why your Claude Code needs a design stack",
           "url": "https://uxdesign.cc/why-your-claude-code-needs-a-design-stack-46dccbced6e5?source=rss----138adf9c44c---4",
@@ -232,6 +241,24 @@
           "published_at": "2026-06-26T17:40:52"
         },
         {
+          "title": "推荐收藏！小红书效果广告投放岗位面试题",
+          "url": "https://www.woshipm.com/share/6421432.html",
+          "author": "林卿LinQ.",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "从平台特性理解到投放实战策略，30+道高频问题全面解析广告优化师的核心能力模型。无论你是准备跳槽的资深投手，还是想转行入局的新人，这份涵盖竞价机制、数据监控、工具选择的深度问题清单，都将成为你斩获offer的实战指南。在分享“小红书效果广告投放”岗位的面试问题之前，优先级拉齐一下我们对于这个岗位的定义；一般来说，“小红书效果广告投放”这个岗位的主要工作内容就是负责投放小红书效果广告，包括但不局限于...",
+          "published_at": "2026-06-28T12:33:21"
+        },
+        {
+          "title": "我用AI写PRD踩过的所有坑，都帮你总结好了",
+          "url": "https://www.woshipm.com/ai/6421251.html",
+          "author": "君安",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "AI写PRD看似简单实则暗藏玄机，99%的人都在错误使用大模型！本文揭秘从需求对齐、知识库搭建到分章节生成的完整方法论，手把手教你如何将PRD撰写效率提升50%，让AI真正成为你的高效助手而非累赘。大多数人对AI写PRD有一个认知误区：以为AI越强大，PRD就能写得越好。所以他们会选最贵的模型，期待输入一句”帮我写XXX功能的PRD”，就能收获一份完美文档。结果呢？AI给了一篇万字长文，看起来章节...",
+          "published_at": "2026-06-28T04:28:06"
+        },
+        {
           "title": "AI 让执行变快了， 但也更容易让人变成”任务分发员”",
           "url": "https://www.woshipm.com/ai/6421225.html",
           "author": "琢玉PM",
@@ -257,24 +284,6 @@
           "source": "人人都是产品经理",
           "summary": "OpenAI 和 Anthropic 还在前沿模型上拉扯权限与安全，豆包、DeepSeek 已经钻进特斯拉车机，阿里千问把语音输入做成日常工具，B站、京东、TikTok 又在把内容、服务和交易往更细的场景里拧。我更在意这条线：下一轮竞争不是谁喊得更大，而是谁能把 AI 放进真实入口，并让普通人少一步操作、多一点确定性。一起来看看这两天发生的AI和互联网赛道的大事件吧！AI赛道观察1. OpenAI...",
           "published_at": "2026-06-27T09:57:47"
-        },
-        {
-          "title": "踩了10个坑后，我弄清了Vibe Motion的真实玩法",
-          "url": "https://www.woshipm.com/ai/6420865.html",
-          "author": "小普",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "Vibe Motion正在颠覆传统视频制作逻辑，用代码驱动动画生成的Remotion和HyperFrames两大框架让视频生产变得工程化、可调试。从全合成动画到真人口播视频，作者通过踩遍10个技术坑，揭示了AI时代视频制作的底层逻辑与实战经验。这场从React组件到HTML/CSS的技术迁移，正在重新定义动态视觉内容的创作边界。最近又出了一个新概念，叫Vibe Motion。一开始是有点无感的。自...",
-          "published_at": "2026-06-27T06:21:11"
-        },
-        {
-          "title": "用产品迭代思维做家装：持续优化居住方案，拉长客户生命周期价值",
-          "url": "https://www.woshipm.com/pd/6421173.html",
-          "author": "设计师阿朱",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "当住宅成为伴随业主十年乃至更久的动态空间，传统的‘一锤子买卖’模式正在浪费90%的客户生命周期价值。本文从产品经理视角出发，拆解如何通过‘硬装模块化+三层运营体系’将单次设计转化为长期服务，用迭代思维破解家装行业复购率低的致命伤。做家装三年，我发现行业普遍存在一个短板：绝大多数设计师只做 “一锤子交付”。方案落地、施工结束，和业主的服务链路基本就此切断，很难产生二次链接、转介绍与复购。放在产品运营...",
-          "published_at": "2026-06-27T05:46:12"
         }
       ]
     },
@@ -403,25 +412,16 @@
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 2,
       "items": [
         {
-          "title": "Folio AI",
-          "url": "https://www.producthunt.com/products/folio-ai",
-          "author": "fmerian",
+          "title": "Dotient",
+          "url": "https://www.producthunt.com/products/dotient",
+          "author": "Declan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Claude for PowerPoint, on steroidsDiscussion|Link",
-          "published_at": "2026-06-25T20:15:56"
-        },
-        {
-          "title": "RetroMac",
-          "url": "https://www.producthunt.com/products/retromac",
-          "author": "Maik Klotz",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Turn your Mac into a time machine.Discussion|Link",
-          "published_at": "2026-06-26T04:24:48"
+          "summary": "Your local semantic search appDiscussion|Link",
+          "published_at": "2026-06-28T02:55:46"
         },
         {
           "title": "Supra Player",
@@ -484,8 +484,8 @@
           "published_at": null
         },
         {
-          "title": "骑车遇到故障车怎么办？哈啰出行一键换车值得借鉴",
-          "url": "https://www.uisdc.com/hunter/0221674988.html",
+          "title": "Apple Sports 交互拆解：如何用分段卡片做复杂的世界杯对阵图",
+          "url": "https://www.uisdc.com/hunter/0221675025.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -541,6 +541,15 @@
       "count": 6,
       "items": [
         {
+          "title": "兜兜转转四款笔记软件，我终于为思考找到了安身之所",
+          "url": "https://sspai.com/post/110935",
+          "author": "蔡箜篌",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "published_at": "2026-06-28T07:00:12"
+        },
+        {
           "title": "俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼",
           "url": "https://sspai.com/post/111347",
           "author": "子海",
@@ -584,15 +593,6 @@
           "source": "少数派",
           "summary": "当年「林檎渡东瀛」的试探，终演变成一场与亚洲产业命运相依的交响。查看全文",
           "published_at": "2026-06-26T03:29:29"
-        },
-        {
-          "title": "派早报：鸿蒙智行发布尊界 S800 Grand Design 典藏大观",
-          "url": "https://sspai.com/post/111541",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Apple 调整产品价格，Figma 发布多项更新等。查看全文",
-          "published_at": "2026-06-26T00:55:03"
         }
       ]
     }
