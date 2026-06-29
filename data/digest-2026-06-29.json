@@ -1,26 +1,54 @@
 {
   "date": "2026-06-29T00:00:00",
-  "total_items": 61,
+  "total_items": 69,
   "sources": [
-    "Product Hunt",
-    "Intercom Blog",
-    "Awwwards",
-    "A List Apart",
-    "NN/g (Nielsen Norman Group)",
-    "Design Milk",
-    "人人都是产品经理",
     "少数派",
-    "Sidebar",
+    "Intercom Blog",
     "UX Design CC",
     "UX Planet",
-    "优设网"
+    "NN/g (Nielsen Norman Group)",
+    "人人都是产品经理",
+    "Awwwards",
+    "Product Hunt",
+    "A List Apart",
+    "优设网",
+    "Design Milk",
+    "CSS-Tricks",
+    "Sidebar"
   ],
-  "generated_at": "2026-06-29T04:18:13.593888",
+  "generated_at": "2026-06-29T15:53:07.095263",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 16,
+      "count": 18,
       "items": [
+        {
+          "title": "Rethinking Figma, the cost of low taste, your banking app is lying to you",
+          "url": "https://uxdesign.cc/rethinking-figma-the-cost-of-low-taste-your-banking-app-is-lying-to-you-20f2ec172f03?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“For more than a decade, Figma defined modern product design. It made collaboration effortless, turned design into a shared language, and b...",
+          "published_at": "2026-06-29T11:10:21"
+        },
+        {
+          "title": "Can AI make OCD worse?",
+          "url": "https://uxdesign.cc/can-ai-make-ocd-worse-69fc01c0c71f?source=rss----138adf9c44c---4",
+          "author": "Catherine Chu",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The hidden cost of always agreeable, always available chatbotsWhat I’m like at 2 a.m., spending hours rephrasing one tiny question for AI.I start researching this topic because of personal experience....",
+          "published_at": "2026-06-29T11:08:59"
+        },
+        {
+          "title": "Japan Doesn’t Design With Less. It Designs With Ma.",
+          "url": "https://uxdesign.cc/japan-doesnt-design-with-less-it-designs-with-ma-73f8e3ce6ee5?source=rss----138adf9c44c---4",
+          "author": "Takuma Kakehi",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Why global design inherited the wrong framework for reading Japanese aesthetics.Continue reading on UX Collective »",
+          "published_at": "2026-06-29T07:38:23"
+        },
         {
           "title": "When the profession outruns the mentor",
           "url": "https://uxdesign.cc/when-the-profession-outruns-the-mentor-5f40596e17ca?source=rss----138adf9c44c---4",
@@ -85,13 +113,13 @@
           "published_at": "2026-06-26T11:09:43"
         },
         {
-          "title": "How to stop re-explaining yourself to Claude",
-          "url": "https://uxdesign.cc/how-to-stop-re-explaining-yourself-to-claude-5845bc5025a2?source=rss----138adf9c44c---4",
-          "author": "Sean Filiatrault",
+          "title": "Claude Code Settings Best Practices",
+          "url": "https://uxplanet.org/claude-code-settings-best-practices-b9ecb6a02d85?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
           "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "Claude doesn’t know who you are. Here’s how I fixed that.In March I switched from ChatGPT to Claude. The sessions were better, but for the first four to six weeks there was a tax I kept paying at the ...",
-          "published_at": "2026-06-26T07:50:16"
+          "source": "UX Planet",
+          "summary": "Claude Code has a pretty complex structure of settings with more than 200+ variables. Without clear guidance, it can be hard to figure out…Continue reading on UX Planet »",
+          "published_at": "2026-06-29T13:25:01"
         },
         {
           "title": "What Actually Makes People Happy? The Real Research, Explained Simply",
@@ -155,15 +183,6 @@
           "source": "UX Planet",
           "summary": "You type 40 words per minute. You speak 150. That's a 3x gap sitting there every day, and most people never fix it.I stopped typing most of my work and started speaking instead. Prompts, Slack message...",
           "published_at": "2026-06-28T14:41:45"
-        },
-        {
-          "title": "Best Practices for Claude Code Subagents Optimization",
-          "url": "https://uxplanet.org/best-practices-for-claude-code-subagents-optimization-7ff0dd3e20b5?source=rss----819cc2aaeee0---4",
-          "author": "Nick Babich",
-          "category": "用户体验设计",
-          "source": "UX Planet",
-          "summary": "Claude Code subagents are not just a way to create autonomous AI workers. Used properly, they are a great way to make Claude Code faster…Continue reading on UX Planet »",
-          "published_at": "2026-06-26T17:00:19"
         }
       ]
     },
@@ -229,8 +248,17 @@
     },
     {
       "category": "产品设计",
-      "count": 9,
+      "count": 10,
       "items": [
+        {
+          "title": "Redgert Comms Exhibits an Expanded Vision of Scandinavian Design",
+          "url": "https://design-milk.com/redgert-comms-exhibits-an-expanded-vision-of-scandinavian-design/",
+          "author": "Adrian Madlener",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "The international agency brought together leading regional talents in a series of strategically staged vignettes.",
+          "published_at": "2026-06-29T14:00:14"
+        },
         {
           "title": "Benoist F. Drut on Peonies, an Eiffel Tower Sculpture, a Louis XV Armchair + More",
           "url": "https://design-milk.com/benoist-f-drut-on-peonies-an-eiffel-tower-sculpture-a-louis-xv-armchair-more/",
@@ -268,49 +296,49 @@
           "published_at": "2026-06-26T17:40:52"
         },
         {
-          "title": "获近千万元种子轮融资，东西方AI玄学双线布局：长期用户陪伴模式能否跑通？",
-          "url": "https://www.woshipm.com/ai/6421921.html",
-          "author": "扬帆出海",
+          "title": "在电商吃过的苦，沃尔玛不想在AI再吃一遍了",
+          "url": "https://www.woshipm.com/ai/6422218.html",
+          "author": "山农下山",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "深圳 AI 创企 NoonWake.AI 完成近千万元种子轮融资，主打东西方双线 AI 玄学 + 泛心理陪伴产品。产品以长期记忆破解留存痛点，但仍存内容同质化等问题，模式有待验证。古话云“以铜为鉴，可以正衣冠；以人为鉴，可以明得失。”如今越来越多年轻人，正将AI视作一面全新镜子，借对话洞悉内心的“本我”。打开社交平台，在“和AI聊天深入了解自己”的话题下，相关提示词干货获得了大量用户收藏。网友们持...",
-          "published_at": "2026-06-29T03:52:01"
+          "summary": "零售巨头沃尔玛正在改写AI时代的消费入口规则，从ChatGPT合作到自研购物助手Sparky，这家百年企业用三次关键转型证明：真正的零售王者从不惧怕技术革命。本文深度拆解沃尔玛如何将5000家线下门店转化为AI基础设施，在代理式购物浪潮中重新定义全渠道零售的胜负手。01 入口的故事沃尔玛看起来已经接受了一个事实：AI会改变消费入口。一家开在城市中心地段的沃尔玛超市、提供送货上门服务的沃尔玛App或...",
+          "published_at": "2026-06-29T10:51:23"
         },
         {
-          "title": "组件语义快照：我观察 AI 产品界面时用的6字段记录法",
-          "url": "https://www.woshipm.com/ai/6421841.html",
-          "author": "de.",
+          "title": "金融AI浪潮下，产品经理如何在安全与创新之间走钢丝",
+          "url": "https://www.woshipm.com/ai/6422144.html",
+          "author": "山姆",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "界面设计的质量评估正在从视觉层走向语义层。本文将介绍一种创新的「组件语义快照」方法，通过6大标准字段结构化记录界面的语义上下文，解决传统走查难以捕捉的用户困惑与场景差异问题。这套方法不仅能补充现有设计走查流程，更为AI生成界面的质量评估提供了新的观察维度。本文记录一种结构化的界面观察方法。它不替代设计走查，而是为走查补充一层语义维度的记录标准。本文基于《组件语义快照与模式诊断：AI 生成界面的第一...",
-          "published_at": "2026-06-29T03:44:11"
+          "summary": "金融AI应用的监管红线与创新边界正在被重新定义。当AI炒股工具让用户血本无归，当监管文件为高风险场景设立一票否决权，产品经理如何在合规框架下打造可信赖的金融AI产品？本文深度解析风险分级、信源金字塔、透明决策等关键策略，揭示将监管紧箍咒转化为产品护城河的实战方法论。一次翻车和一纸军令状去年底刷到一个帖子，哪个群转出来的我都忘了，反正是个哥们儿，用某个号称能预测大盘的AI工具，把家里准备结婚的钱全压...",
+          "published_at": "2026-06-29T09:27:53"
         },
         {
-          "title": "微信AI深度体验：14亿国民APP的AI答卷，藏着最难得的产品克制",
-          "url": "https://www.woshipm.com/evaluating/6421910.html",
-          "author": "产品小球",
+          "title": "OpenAI Codex负责人亲口说：做产品这件事，顺序已经反过来了",
+          "url": "https://www.woshipm.com/ai/6422150.html",
+          "author": "深思圈",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "本文深度实测微信 AI 助手 “小微”，其以克制的轻量入口、将流程推进至最后一步并保留用户决策权。“小工具” 功能因需求错配前景存疑，整体遵循最小必要隐私原则，将 AI 自然融入微信生态。上上周刚写完支付宝阿宝的深度体验，转头就收到了微信的灰度邀请 —— 盼了这么久的“小微”，终于落到了我的账号上。这不是一次普通的功能更新。消息落地当天，腾讯控股创下 2021 年以来最大单日涨幅，市值单日暴涨 4...",
-          "published_at": "2026-06-29T03:40:53"
+          "summary": "OpenAI 工程负责人揭露产品开发逻辑的范式转移：当代码实现成本趋近于零，审美判断力（taste）成为最稀缺资源。本文深度解析AI时代如何重构产品流程、团队协作与规划逻辑，揭示从文档驱动到原型驱动的底层变革，以及角色边界消融背后的专业坚守。你有没有想过，做产品这件事的先后顺序可能已经彻底反过来了？以前大家都觉得，做产品最贵的环节是把东西真正做出来，所以才会有那么多文档要写、那么多评审要过、那么多...",
+          "published_at": "2026-06-29T09:15:40"
         },
         {
-          "title": "AIGC时代的人脸共享",
-          "url": "https://www.woshipm.com/ai/6421532.html",
-          "author": "小咩",
+          "title": "鸿蒙 Flutter 开发效率神器：CPF-Flutter/skills 技能库全解析",
+          "url": "https://www.woshipm.com/share/6422146.html",
+          "author": "nutpi",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI短剧和漫剧的爆红正在改写内容创作规则，但背后隐藏着更令人不安的事实——你的脸可能已被悄无声息地盗用。从社交平台的自拍到AI流水线的'数字演员'，普通人的面部数据正被批量采集、编码、商用，而受害者甚至连维权的路径都难以找到。当技术让'眼见为实'彻底失效时，我们该如何守护最后的真实？你最近有没有被AI短剧刷屏过？我估计大概率是有的。打开任何一个短视频平台，随手划几下，总能碰上那么一两部——画面精致...",
-          "published_at": "2026-06-29T03:30:34"
+          "summary": "CPF-Flutter/skills 工具库正在彻底改变 OpenHarmony 的 Flutter 开发体验。这套全链路自动化方案从环境搭建到性能排查，覆盖 12 个关键场景，特别是新增的三方库检索功能让适配效率翻倍。作为官方认证的 MIT 开源项目，它正在成为鸿蒙跨端开发者的效率基建。做 OpenHarmony Flutter 跨端开发，你是否总被这些琐事消耗大量时间？从零搭建鸿蒙 Flutt...",
+          "published_at": "2026-06-29T09:11:22"
         },
         {
-          "title": "复盘必吃榜10年：如何建立、维护、拓展？",
-          "url": "https://www.woshipm.com/share/6421847.html",
-          "author": "潘乱",
+          "title": "一只 AI 猫，正在被用户和资本同时验证",
+          "url": "https://www.woshipm.com/ai/6422141.html",
+          "author": "有新Newin",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "大众点评必吃榜十年间从900家扩展到4279家，靠的不是专家评审或商业运作，而是数百万用户的真实评价。这套'好吃不贵'的评选机制通过海量普通食客的独立投票，让偏见相互抵消，最终沉淀出值得信赖的美食坐标。当AI生成内容泛滥时，必吃榜证明：带着具体体验细节的真实评价，才是最具价值的信任货币。2017年大众点评必吃榜第一次发布，有产品同学在知乎上做了一道算术题：80年*365天*3餐，人一生平均吃876...",
-          "published_at": "2026-06-29T01:57:36"
+          "summary": "日本孤独经济与宠物文化的碰撞，催生了AI陪伴产品的爆发式增长。Meowster以虚拟猫咪为载体，通过记忆功能、情绪反馈和IP化运营，成功打入日本年轻群体。从TikTok千万播放到登上《anan》杂志，这款产品正验证AI消费品从技术落地到情感连接的可能性。在日本，情绪正在变成一种更日常的消费。越来越多年轻人需要一种低压力的陪伴，下班后的疲惫、独处时的空当、关系里的消耗和社交低能量，让他们希望有一个能...",
+          "published_at": "2026-06-29T08:59:27"
         }
       ]
     },
@@ -439,16 +467,43 @@
     },
     {
       "category": "产品发现",
-      "count": 1,
+      "count": 4,
       "items": [
         {
-          "title": "Dotient",
-          "url": "https://www.producthunt.com/products/dotient",
-          "author": "Declan",
+          "title": "ReadHere",
+          "url": "https://www.producthunt.com/products/readhere-2",
+          "author": "Quazi Marufur Rahman",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your local semantic search appDiscussion|Link",
-          "published_at": "2026-06-28T02:55:46"
+          "summary": "Lightweight PDF & EPUB reader in your browserDiscussion|Link",
+          "published_at": "2026-06-28T17:22:17"
+        },
+        {
+          "title": "Crest",
+          "url": "https://www.producthunt.com/products/crest-3",
+          "author": "zack",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "System stats and translation on your Mac's notchDiscussion|Link",
+          "published_at": "2026-06-28T19:50:38"
+        },
+        {
+          "title": "Upstream FTP",
+          "url": "https://www.producthunt.com/products/upstream-ftp",
+          "author": "Carlo Di Giuseppe",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "A fast, beautiful, and native FTP/SFTP client for macOSDiscussion|Link",
+          "published_at": "2026-06-26T08:29:39"
+        },
+        {
+          "title": "Agent Mode by Receiptor AI",
+          "url": "https://www.producthunt.com/products/receiptor-ai",
+          "author": "Rohan Chaubey",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Bookkeeping assistant that runs receipt workflows end-to-endDiscussion|Link",
+          "published_at": "2026-06-27T12:16:36"
         }
       ]
     },
@@ -502,8 +557,8 @@
           "published_at": null
         },
         {
-          "title": "零代码基础的设计师，也能用Figma AI做插件！",
-          "url": "https://www.uisdc.com/hunter/0221675037.html",
+          "title": "把人机验证做成抓娃娃机！游戏化设计还能这么好玩",
+          "url": "https://www.uisdc.com/hunter/0221674895.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -514,43 +569,67 @@
     },
     {
       "category": "设计资讯",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "The AI Resist List",
-          "url": "https://airesistlist.org/",
+          "title": "Visualize striking 3D embellishment mockups",
+          "url": "https://bit.ly/side-dre1",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A living directory of ways communities resist AI harms—and build alternatives worth fighting for.",
-          "published_at": "2026-06-26T08:04:24"
+          "summary": "DREAMCOMPOSER® transforms designs into impressive 3D mockups. Try 100+ KURZ transfer decorations and share results instantly.",
+          "published_at": "2026-06-29T07:47:00"
         },
         {
-          "title": "Your design system has a new author",
-          "url": "https://blog.murphytrueman.com/your-design-systems-newest-author-is-an-agent/",
+          "title": "Splitting atoms & splitting hairs",
+          "url": "https://renderghost.leaflet.pub/3mnxjmjjyyc2y",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Authored change has outpaced the review model, and that breaks more than it looks.",
-          "published_at": "2026-06-26T08:03:41"
+          "summary": "Atomic design got us from thinking about pages to thinking about components, but we don’t need to keep carrying the periodic table around.",
+          "published_at": "2026-06-29T07:45:32"
         },
         {
-          "title": "keybr.com - Typing lessons",
-          "url": "https://www.keybr.com/",
+          "title": "Ten years of Terms and Conditions",
+          "url": "https://henryach.com/blog/tsandcs/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Teaching the world to type at the speed of thought! Typing lessons that work.",
-          "published_at": "2026-06-26T08:03:14"
+          "summary": "Recording all the \"terms and conditions\" I claimed to have read on a computer or phone for 10 years.",
+          "published_at": "2026-06-29T07:44:51"
         },
         {
-          "title": "Your documentation is still in your Mum’s filing cabinet",
-          "url": "https://gerireid.com/blog/organising-documentation-for-humans-and-ai/",
+          "title": "Do websites need to function exactly the same on every platform?",
+          "url": "https://www.bram.us/2026/06/21/do-websites-need-to-function-exactly-the-same-on-every-platform/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "It’s kind of wild that we’re still organising knowledge like it’s sitting in a 1970s filing cabinet. People and AI don’t think in folders.",
-          "published_at": "2026-06-26T08:02:36"
+          "summary": "We seem to be stuck on a new hurdle: the idea that websites need to function the same everywhere.",
+          "published_at": "2026-06-29T07:43:32"
+        },
+        {
+          "title": "Yakitoriya, by Art Lebedev",
+          "url": "https://www.logodesignlove.com/yakitoriya-logo",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "This illustrative logo for a chain of Japanese restaurants caught my eye. Designed by Egor Zhgun of Art. Lebedev Studio.",
+          "published_at": "2026-06-29T07:42:49"
+        }
+      ]
+    },
+    {
+      "category": "前端设计",
+      "count": 1,
+      "items": [
+        {
+          "title": "The Shifting Line Between CSS States and JavaScript Events",
+          "url": "https://css-tricks.com/css-states-and-javascript-events/",
+          "author": "Daniel Schwarz",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "CSS has always had pseudo-classes that style things when baed on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what...",
+          "published_at": "2026-06-29T13:03:32"
         }
       ]
     },
@@ -558,6 +637,24 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "派评 | 近期值得关注的 App",
+          "url": "https://sspai.com/post/111697",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "published_at": "2026-06-29T09:52:35"
+        },
+        {
+          "title": "在格鲁吉亚的大地上：徒步篇",
+          "url": "https://sspai.com/post/111369",
+          "author": "WanderingThru",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "published_at": "2026-06-29T07:00:10"
+        },
         {
           "title": "让音乐「更好听」的代价：可视化谈频响、动态与不可逆损失",
           "url": "https://sspai.com/post/111462",
@@ -593,24 +690,6 @@
           "source": "少数派",
           "summary": "在莫斯科的时代折叠与彼得堡的文化巡礼之间，发现俄罗斯的不同面貌。查看全文",
           "published_at": "2026-06-27T11:36:51"
-        },
-        {
-          "title": "本周看什么 | 最近值得一看的 10 部作品",
-          "url": "https://sspai.com/post/111562",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "📅本周新预告《克拉拉与太阳》首支预告6月23日，电影《克拉拉与太阳》发布了首支预告，将于10月23日在北美上映。塔伊加·维迪提执导，詹娜·奥尔特加、艾米·亚当斯主演，改编自石黑一雄的同名小说，人工智能 ...查看全文",
-          "published_at": "2026-06-26T10:16:38"
-        },
-        {
-          "title": "探索快捷指令的上限：用网页视图创建丰富界面与交互",
-          "url": "https://sspai.com/prime/story/create-webview-in-shortcuts",
-          "author": "Linery",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "从锁屏按钮、锁屏小组件、负一屏小组件，到桌面小组件、控制中心、Siri、自动化触发……iPhone的快捷指令有着超级多的打开方式，我们也可以为自己写的或从网络上获取的实用快捷指令设置一种最顺手的。与之 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "published_at": "2026-06-26T08:29:05"
         }
       ]
     }
