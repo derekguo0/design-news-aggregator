@@ -1,25 +1,35 @@
 {
   "date": "2026-06-30T00:00:00",
-  "total_items": 60,
+  "total_items": 69,
   "sources": [
+    "少数派",
+    "Smashing Magazine",
+    "Design Milk",
+    "人人都是产品经理",
     "Sidebar",
     "UX Planet",
-    "Awwwards",
-    "优设网",
-    "CSS-Tricks",
-    "Design Milk",
-    "UX Design CC",
     "Product Hunt",
-    "人人都是产品经理",
     "A List Apart",
-    "少数派"
+    "Awwwards",
+    "UX Design CC",
+    "优设网",
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2026-06-30T03:59:29.545982",
+  "generated_at": "2026-06-30T14:26:12.513861",
   "categories": [
     {
       "category": "用户体验设计",
       "count": 18,
       "items": [
+        {
+          "title": "What does “good enough” actually mean for designers now?",
+          "url": "https://uxdesign.cc/what-does-good-enough-actually-mean-for-designers-now-ee1604bf79b7?source=rss----138adf9c44c---4",
+          "author": "Kai Wong",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Learning to say “Good Enough” is a design skill, not a compromise.Continue reading on UX Collective »",
+          "published_at": "2026-06-30T11:09:07"
+        },
         {
           "title": "You’re missing the point; this is your real value in tech companies",
           "url": "https://uxdesign.cc/youre-missing-the-point-this-is-your-real-value-in-tech-companies-f56d6d96b54b?source=rss----138adf9c44c---4",
@@ -102,13 +112,13 @@
           "published_at": "2026-06-28T22:00:11"
         },
         {
-          "title": "What are hypertokens? The layer between tokens and components, rebuilt for agents",
-          "url": "https://uxdesign.cc/what-are-hypertokens-the-layer-between-tokens-and-components-rebuilt-for-agents-962dbe93e0c4?source=rss----138adf9c44c---4",
-          "author": "Christine Vallaure",
+          "title": "Claude Design’s Most Overlooked Feature",
+          "url": "https://uxplanet.org/claude-designs-most-overlooked-feature-c86c4f4dc701?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
           "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "A concept on the horizon, exploredA token holds a single decision. A component is a whole assembly. The interesting work lives in the gap between them, and people have worked that gap for years under ...",
-          "published_at": "2026-06-28T14:48:13"
+          "source": "UX Planet",
+          "summary": "Claude Design is a very useful tool for quick prototyping.Continue reading on UX Planet »",
+          "published_at": "2026-06-30T13:45:23"
         },
         {
           "title": "Claude Code Settings Best Practices",
@@ -172,15 +182,66 @@
           "source": "UX Planet",
           "summary": "A step-by-step guide to creating a complete Pong clone with event handling, game physics, score tracking, and computer-controlled gameplay.Photo byCall Me FredonUnsplashMost of you probably know the P...",
           "published_at": "2026-06-28T14:42:37"
+        }
+      ]
+    },
+    {
+      "category": "用户体验研究",
+      "count": 6,
+      "items": [
+        {
+          "title": "Kick the Bots Out of Your Survey Data",
+          "url": "https://www.nngroup.com/articles/survey-bots/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
         },
         {
-          "title": "Stop Typing. Start Speaking.",
-          "url": "https://uxplanet.org/stop-typing-start-speaking-f2edb2f43930?source=rss----819cc2aaeee0---4",
-          "author": "Edward Chechique",
-          "category": "用户体验设计",
-          "source": "UX Planet",
-          "summary": "You type 40 words per minute. You speak 150. That's a 3x gap sitting there every day, and most people never fix it.I stopped typing most of my work and started speaking instead. Prompts, Slack message...",
-          "published_at": "2026-06-28T14:41:45"
+          "title": "Your New UX Habit: Establishing Baselines for Impact",
+          "url": "https://www.nngroup.com/articles/establishing-baselines/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Incentive Structures for Diary Studies",
+          "url": "https://www.nngroup.com/articles/diary-study-incentives/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Vibe Architects: Agentic Vibe Coders",
+          "url": "https://www.nngroup.com/articles/vibe-architects/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Context Architecture",
+          "url": "https://www.nngroup.com/articles/context-architecture/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "The Core Skill of Design in the AI Era: Critique",
+          "url": "https://www.nngroup.com/articles/ai-era-critique/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
@@ -216,56 +277,65 @@
           "published_at": "2026-06-29T14:00:14"
         },
         {
-          "title": "都说 AI 时代最稀缺的是定义问题，什么才叫会定义问题？",
-          "url": "https://www.woshipm.com/zhichang/6422546.html",
-          "author": "是湘湘呀",
+          "title": "我用 PM Skills Marketplace 做了一个制造业宿舍管理系统，效果超出预期",
+          "url": "https://www.woshipm.com/share/6422579.html",
+          "author": "简单有道",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI 时代的产品需求正在经历深刻重构。当实现效率提升百倍后，真正的挑战转向如何精准定义问题——从目标用户画像到最小闭环设计，从 PRD 轻量化到验收标准颗粒化。本文通过学员管理系统等案例，揭示如何将模糊想法转化为可执行方案，避免落入‘看起来完整实则无用’的 AI 生成陷阱。定义问题不是把一个想法说得更高级，而是把真实用户、具体场景、当前痛点、产品需求和 MVP 边界讲清楚。AI 会让实现变快，但越...",
-          "published_at": "2026-06-30T03:38:29"
+          "summary": "GitHub上的PM Skills Marketplace将传统PM方法论转化为可执行的AI工作流，彻底改变了产品开发流程。从产品发现到GTM策略，这套工具通过编码Teresa Torres等大牛的方法论，实现了从理论到实践的无缝衔接。本文以制造业宿舍管理系统为例，展示如何用/discover、/research等命令在几小时内完成原本需要数周的产品规划工作，揭示AI时代PM工作方式的革命性变革。...",
+          "published_at": "2026-06-30T09:11:04"
         },
         {
-          "title": "一篇小红书笔记值不值得投，看评论区就够了",
-          "url": "https://www.woshipm.com/share/6422527.html",
-          "author": "Vic的营销思考",
+          "title": "告别Axure？我用Vibe Coding+开源工具重构了原型设计",
+          "url": "https://www.woshipm.com/ai/6422728.html",
+          "author": "产品锦李",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "小红书投放的深层逻辑正在被评论区改写。当品牌还在追逐点赞收藏的虚假繁荣时，真正能撬动转化的往往是那些询问价格、链接的朴素评论。本文揭示用户决策链路的真实起点，教你从7类关键评论中挖掘投流金矿。很多品牌判断一篇小红书笔记值不值得投，第一反应还是看阅读、点赞、收藏、互动率这当然没问题，数据肯定要看，但只看这些数据，很容易把一篇笔记判断错因为点赞收藏高，不代表这篇笔记有投流价值。很多笔记天然适合拿互动，...",
-          "published_at": "2026-06-30T03:01:39"
+          "summary": "当AI编程工具还在为开发者狂欢时，Axhub Make的横空出世终于让产品经理看到了曙光。这款集成Vibe Coding能力的开源项目，通过AI+IDE的协同模式，彻底重构了原型设计、需求标注和文档生成的完整工作流。本文将手把手带你部署这套系统，揭秘如何用代码思维提升产品设计效率。AI 很早以前就有了写代码的能力，但我一直都没有真正在工作中使用它，甚至自媒体的各大博主都在炒 Vibe Coding...",
+          "published_at": "2026-06-30T08:44:28"
         },
         {
-          "title": "拼多多自然流与强付费打法",
-          "url": "https://www.woshipm.com/share/6422283.html",
-          "author": "老虎讲运营",
+          "title": "ChatGPT广告这扇门刚打开，出海品牌现在该怎么挤进去",
+          "url": "https://www.woshipm.com/share/6422655.html",
+          "author": "深思圈",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "拼多多的流量玩法核心无非强付费与自然流两条路径，但95%商家陷入前者泥潭。本文深度拆解产业带源头厂商才能驾驭的自然流玄机，以及强付费模式下定价倍数与投产比的血泪博弈，揭秘为何多数商家的运营困境本质是选品原罪。放眼整个2026年，拼多多的核心玩法依然离不开：强付费和自然流两种玩法。也就是，大家做拼多多，如果不是玩强付费，那肯定是玩自然流。我这话100%没毛病，就像大家掷一枚硬币，如果不是正面，那肯定...",
-          "published_at": "2026-06-30T02:17:21"
+          "summary": "ChatGPT 正在重塑品牌营销的决策入口。当九亿周活用户通过对话获取建议时，广告已悄然嵌入决策链条的关键环节。Nexad 白皮书揭示：3.99% 的点击率远超传统 Chatbot，高教育背景用户在工作场景中的主动提问，使 AI 工具和 3C 硬件成为最适配品类。这场对话式营销革命，正在改写流量获取的底层逻辑。你有没有想过，以后人们做购买决定的地方，可能不再是搜索框，而是一个对话框？这两年大家都在...",
+          "published_at": "2026-06-30T07:50:03"
         },
         {
-          "title": "618给AI上了一课：Agent不是万能解药",
-          "url": "https://www.woshipm.com/ai/6422432.html",
-          "author": "识礁Farsight",
+          "title": "ThetaWave：两个中国 00 后，怎么把 AI 学习工具卖给海外学生",
+          "url": "https://www.woshipm.com/ai/6418101.html",
+          "author": "张艾拉",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI技术在今年618购物节的表现令人意外，电商平台虽大力引入AI购物助手，但消费者反应冷淡。销售额仅微增0.9%，远低于预期。本文深度分析AI在购物节中的商业化困境，揭示技术优势与用户需求之间的鸿沟，并探讨Agent技术未来如何在合适的场景中释放价值。被寄予厚望的AI技术，在618购物节交出了一份略显尴尬的成绩单。与往年相比，今年618的一大特点在于，电商平台广泛引入AI技术。大促开始前，京东就宣...",
-          "published_at": "2026-06-30T02:17:14"
+          "summary": "这款面向海外大学生的AI工具，能将课堂录音、PDF、视频等分散资料一键转化为结构化笔记、思维导图和测试题，精准切中考前复习的刚需场景。更令人惊讶的是，其00后创始团队凭借对大学生学习痛点的敏锐洞察，通过短视频内容测试实现高速增长，为国内AI出海提供了轻量化、场景化的新思路。今天分享的产品是：ThetaWave，https://thetawave.aiAI 教育创业里，最容易做成的产品，就是上传资料...",
+          "published_at": "2026-06-30T07:21:19"
         },
         {
-          "title": "Prompt 已死、Loop 当立？这套新范式，PM 已经跑了十年",
-          "url": "https://www.woshipm.com/ai/6422371.html",
-          "author": "发疯的超",
+          "title": "做网站出海，需求怎么找？四个信号帮你判断",
+          "url": "https://www.woshipm.com/share/6422578.html",
+          "author": "向索然",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Loop Engineering 的崛起正在重新定义产品经理的价值。当工程师们用四次范式跃迁才走到PM的起点时，我们突然发现：把模糊目标拆解为可验收标准的能力，正成为AI时代最稀缺的硬技能。本文将从PDCA循环到敏捷看板，深度剖析loop engineering如何将PM的工作流代码化，并带来前所未有的权责挑战。这两周，科技圈又发现了一块新大陆。6月7日，一个叫Peter Steinberger的...",
-          "published_at": "2026-06-30T02:11:38"
+          "summary": "从技术实现到需求验证，独立开发者的思维转变至关重要。本文揭示了程序员转型产品思维的实战方法论，从搜索词缺口分析到用户场景拆解，教你如何用SEO思维验证需求真伪，避免陷入‘为开发而开发’的陷阱。我会开发，也会部署网站。买域名、写页面、丢到 Cloudflare，对我来说都不算陌生。但我以前做网站，最容易犯的错不是技术选型，而是太早开始写代码。脑子里有个点子，一下午就开发上线了，看起来进展很快。过几天...",
+          "published_at": "2026-06-30T07:11:17"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 13,
+      "count": 14,
       "items": [
+        {
+          "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
+          "url": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can b...",
+          "published_at": "2026-06-30T11:00:00"
+        },
         {
           "title": "Good designers, bad websites: a proposal",
           "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
@@ -321,6 +391,15 @@
           "published_at": null
         },
         {
+          "title": "NRG | Build Your Data Center",
+          "url": "https://www.awwwards.com/sites/nrg-build-your-data-center",
+          "author": "Rogue Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Meech213",
           "url": "https://www.awwwards.com/sites/meech213",
           "author": "The Blackpepper Studio",
@@ -373,48 +452,66 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "EverSwap",
-          "url": "https://www.awwwards.com/sites/everswap",
-          "author": "Lusion",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 6,
       "items": [
         {
-          "title": "ReadHere",
-          "url": "https://www.producthunt.com/products/readhere-2",
-          "author": "Quazi Marufur Rahman",
+          "title": "Bilt.me - Figma",
+          "url": "https://www.producthunt.com/products/bilt-me",
+          "author": "Karl Kiilaspää",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Lightweight PDF & EPUB reader in your browserDiscussion|Link",
-          "published_at": "2026-06-28T17:22:17"
+          "summary": "Get a real mobile app from your Figma designDiscussion|Link",
+          "published_at": "2026-06-29T08:51:38"
         },
         {
-          "title": "Crest",
-          "url": "https://www.producthunt.com/products/crest-3",
-          "author": "zack",
+          "title": "Tinkerfont",
+          "url": "https://www.producthunt.com/products/tinkerfont",
+          "author": "Mighil",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "System stats and translation on your Mac's notchDiscussion|Link",
-          "published_at": "2026-06-28T19:50:38"
+          "summary": "Free font playground for live websitesDiscussion|Link",
+          "published_at": "2026-06-29T13:41:32"
         },
         {
-          "title": "Agent Mode by Receiptor AI",
-          "url": "https://www.producthunt.com/products/receiptor-ai",
-          "author": "Rohan Chaubey",
+          "title": "Brain2Qwerty v2",
+          "url": "https://www.producthunt.com/products/meta",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Bookkeeping assistant that runs receipt workflows end-to-endDiscussion|Link",
-          "published_at": "2026-06-27T12:16:36"
+          "summary": "Decode sentences directly from non-invasive brain signalsDiscussion|Link",
+          "published_at": "2026-06-30T04:22:43"
+        },
+        {
+          "title": "Pluno",
+          "url": "https://www.producthunt.com/products/pluno",
+          "author": "Syed Ali",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Browser agent that’s 10x faster than ClaudeDiscussion|Link",
+          "published_at": "2026-06-29T16:54:09"
+        },
+        {
+          "title": "Cursor for iOS",
+          "url": "https://www.producthunt.com/products/cursor",
+          "author": "Ben Lang",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Build with coding agents from anywhereDiscussion|Link",
+          "published_at": "2026-06-30T03:52:28"
+        },
+        {
+          "title": "AgentPeek",
+          "url": "https://www.producthunt.com/products/agentpeek",
+          "author": "Bren Huber",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Claude Code & Codex in your Mac notchDiscussion|Link",
+          "published_at": "2026-06-29T23:27:18"
         }
       ]
     },
@@ -468,8 +565,8 @@
           "published_at": null
         },
         {
-          "title": "做生活服务类 AI 产品设计，支付宝的单页流式布局值得借鉴吗？",
-          "url": "https://www.uisdc.com/hunter/0221675253.html",
+          "title": "读懂站酷新首页的改变，才算真正理解 AI 时代",
+          "url": "https://www.uisdc.com/hunter/0221675274.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -483,64 +580,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Visualize striking 3D embellishment mockups",
-          "url": "https://bit.ly/side-dre1",
+          "title": "Figma just made your design system debt everyone’s problem",
+          "url": "https://uxdesign.cc/figma-just-made-your-design-system-debt-everyones-problem-now-use-it-2e9ecb6272bf",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "DREAMCOMPOSER® transforms designs into impressive 3D mockups. Try 100+ KURZ transfer decorations and share results instantly.",
-          "published_at": "2026-06-29T07:47:00"
+          "summary": "For years, design system work lost the roadmap fight quietly. Config 2026 made the losing loud. That changes who has to care.",
+          "published_at": "2026-06-30T07:44:17"
         },
         {
-          "title": "Splitting atoms & splitting hairs",
-          "url": "https://renderghost.leaflet.pub/3mnxjmjjyyc2y",
+          "title": "Shader Lab",
+          "url": "https://eng.basement.studio/tools/shader-lab",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Atomic design got us from thinking about pages to thinking about components, but we don’t need to keep carrying the periodic table around.",
-          "published_at": "2026-06-29T07:45:32"
+          "summary": "A powerful toolkit to create, stack, and animate shaders.",
+          "published_at": "2026-06-30T07:43:33"
         },
         {
-          "title": "Ten years of Terms and Conditions",
-          "url": "https://henryach.com/blog/tsandcs/",
+          "title": "The problem is prompt debt",
+          "url": "https://www.dbreunig.com/2026/06/22/the-problem-is-prompt-debt.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Recording all the \"terms and conditions\" I claimed to have read on a computer or phone for 10 years.",
-          "published_at": "2026-06-29T07:44:51"
+          "summary": "Plain-English prompts make prototyping effortless but specify system behavior poorly. The technical debt builds slowly until apps stall.",
+          "published_at": "2026-06-30T07:41:56"
         },
         {
-          "title": "Do websites need to function exactly the same on every platform?",
-          "url": "https://www.bram.us/2026/06/21/do-websites-need-to-function-exactly-the-same-on-every-platform/",
+          "title": "Moodboard 3000",
+          "url": "https://www.figma.com/community/plugin/1616902199522165388/moodboard-3000",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "We seem to be stuck on a new hurdle: the idea that websites need to function the same everywhere.",
-          "published_at": "2026-06-29T07:43:32"
+          "summary": "An image layout engine for Figma. Select images on canvas, choose a layout, and generate a composed moodboard.",
+          "published_at": "2026-06-30T07:40:49"
         },
         {
-          "title": "Yakitoriya, by Art Lebedev",
-          "url": "https://www.logodesignlove.com/yakitoriya-logo",
+          "title": "You can’t unit test for taste",
+          "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "This illustrative logo for a chain of Japanese restaurants caught my eye. Designed by Egor Zhgun of Art. Lebedev Studio.",
-          "published_at": "2026-06-29T07:42:49"
-        }
-      ]
-    },
-    {
-      "category": "前端设计",
-      "count": 1,
-      "items": [
-        {
-          "title": "The Shifting Line Between CSS States and JavaScript Events",
-          "url": "https://css-tricks.com/css-states-and-javascript-events/",
-          "author": "Daniel Schwarz",
-          "category": "前端设计",
-          "source": "CSS-Tricks",
-          "summary": "CSS has always had pseudo-classes that style things when baed on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what...",
-          "published_at": "2026-06-29T13:03:32"
+          "summary": "Why automated compliance fails to yield aesthetic coherence, proving subjective judgment remains a hard requirement.",
+          "published_at": "2026-06-30T07:39:57"
         }
       ]
     },
@@ -548,6 +630,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "社区速递 147 | 派友的五月好物盘点、测评乱象热议和安伯尼克复古掌机",
+          "url": "https://sspai.com/post/111744",
+          "author": "Matrix机器人",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+          "published_at": "2026-06-30T09:02:26"
+        },
+        {
+          "title": "「弯道超车」赛车入门指北：从周五到周日，F1 车队在忙什么？",
+          "url": "https://sspai.com/post/111084",
+          "author": "一群小羊说",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "理解了这条线，再打开下一场比赛，赛程表就不再只是一堆缩写。查看全文",
+          "published_at": "2026-06-30T06:56:46"
+        },
+        {
+          "title": "100 天从创意到落地：我们做了一台可以随口问 AI 的对讲机",
+          "url": "https://sspai.com/post/111706",
+          "author": "scymain",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "前言创业不易，硬件创业更难，尤其是AI硬件创业更是难上加难。难也意味着门槛。在滚滚而来的AI大势之下，门内的景色金光闪闪，首先要做的是迈过这个门槛。准确地说，我的硬件项目正式研发到投产经历了108天。 ...查看全文",
+          "published_at": "2026-06-30T03:00:00"
+        },
         {
           "title": "派早报：DeepSeek V4 正式版 7 月中旬上线等",
           "url": "https://sspai.com/post/111707",
@@ -574,33 +683,6 @@
           "source": "少数派",
           "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
           "published_at": "2026-06-29T07:00:10"
-        },
-        {
-          "title": "让音乐「更好听」的代价：可视化谈频响、动态与不可逆损失",
-          "url": "https://sspai.com/post/111462",
-          "author": "纳兰音韵",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "越是优化的声音系统，越容易在某些类型的音乐上暴露疲劳感；而越是追求响度，也越容易在归一化之后原形毕露。查看全文",
-          "published_at": "2026-06-29T03:14:58"
-        },
-        {
-          "title": "派早报：微软改口称 8GB 足够运行 Windows 11",
-          "url": "https://sspai.com/post/111639",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "微软改口称 8GB 足够运行 Windows 11OpenAI 发布 GPT 5.6，称需美国政府批准提供对象Notion Mail 宣布关闭央视报道网络测评乱象苹果、奥迪前员工推出豪华电瓶车俄罗斯主流应用被苹果下架，克宫呼吁改用 Android看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
-          "published_at": "2026-06-28T23:13:43"
-        },
-        {
-          "title": "兜兜转转四款笔记软件，我终于为思考找到了安身之所",
-          "url": "https://sspai.com/post/110935",
-          "author": "蔡箜篌",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "published_at": "2026-06-28T07:00:12"
         }
       ]
     }
