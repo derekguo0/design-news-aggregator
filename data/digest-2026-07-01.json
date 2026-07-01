@@ -1,27 +1,36 @@
 {
   "date": "2026-07-01T00:00:00",
-  "total_items": 73,
+  "total_items": 72,
   "sources": [
-    "A List Apart",
-    "NN/g (Nielsen Norman Group)",
-    "Product Hunt",
+    "Smashing Magazine",
+    "Awwwards",
+    "少数派",
     "Sidebar",
     "UX Planet",
-    "优设网",
-    "UX Design CC",
-    "Smashing Magazine",
-    "少数派",
-    "Design Milk",
-    "Awwwards",
+    "A List Apart",
+    "Product Hunt",
+    "CSS-Tricks",
     "人人都是产品经理",
-    "CSS-Tricks"
+    "Design Milk",
+    "优设网",
+    "NN/g (Nielsen Norman Group)",
+    "UX Design CC"
   ],
-  "generated_at": "2026-07-01T04:14:15.856823",
+  "generated_at": "2026-07-01T14:44:14.202841",
   "categories": [
     {
       "category": "用户体验设计",
       "count": 18,
       "items": [
+        {
+          "title": "The 4 predators sabotaging your product team",
+          "url": "https://uxdesign.cc/the-4-predators-sabotaging-your-product-team-3dce31215ff4?source=rss----138adf9c44c---4",
+          "author": "Zeeshan Khalid",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "A tale of strategy, survival, and the wild animals hiding in plain sightContinue reading on UX Collective »",
+          "published_at": "2026-07-01T11:18:41"
+        },
         {
           "title": "39 principles for designing human-AI interaction",
           "url": "https://uxdesign.cc/39-principles-for-designing-human-ai-interaction-87be5fabdbbe?source=rss----138adf9c44c---4",
@@ -104,13 +113,40 @@
           "published_at": "2026-06-29T21:42:47"
         },
         {
-          "title": "The stone that blocks nothing",
-          "url": "https://uxdesign.cc/the-stone-that-blocks-nothing-7fc06441dbca?source=rss----138adf9c44c---4",
-          "author": "Hiroshi Sato",
+          "title": "The Untouchable Angular Component: How “Good Components” Slowly Become Monsters!",
+          "url": "https://uxplanet.org/the-untouchable-angular-component-how-good-components-slowly-become-monsters-c32a12a35757?source=rss----819cc2aaeee0---4",
+          "author": "Priyabrata Saha",
           "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "On designing repellence for humanityContinue reading on UX Collective »",
-          "published_at": "2026-06-29T21:42:27"
+          "source": "UX Planet",
+          "summary": "Every Angular codebase has one. You know exactly which component I’m talking about. It’s the file people hesitate to open. The one that…Continue reading on UX Planet »",
+          "published_at": "2026-07-01T13:49:53"
+        },
+        {
+          "title": "GEO: Getting Cited by the Machines",
+          "url": "https://uxplanet.org/geo-get-cited-by-ai-32f2f2bf2387?source=rss----819cc2aaeee0---4",
+          "author": "Matthaios Mantzios",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Most searches now end without a click. The AI gives the answer, and only the sources it cites get seen. Here’s what actually gets you…Continue reading on UX Planet »",
+          "published_at": "2026-07-01T13:48:57"
+        },
+        {
+          "title": "4 Daily Web Habits That Will Make You Better Than 90% of Designers & Developers",
+          "url": "https://uxplanet.org/4-daily-web-habits-that-will-make-you-better-than-90-of-designers-developers-dda54635e3b4?source=rss----819cc2aaeee0---4",
+          "author": "Usman Writes",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Want to go from beginner to pro-level web designer? Today, I’m going to give you four simple tips that are going to help you upskill fast…Continue reading on UX Planet »",
+          "published_at": "2026-07-01T13:48:33"
+        },
+        {
+          "title": "Claude Sonnet 5 for Product Designers",
+          "url": "https://uxplanet.org/claude-sonnet-5-for-product-designers-cc2ac393c27a?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Anthropic just updated its most balanced AI model, Sonnet. The company calls Sonnet 5 “the most agentic Sonnet model yet”Continue reading on UX Planet »",
+          "published_at": "2026-07-01T12:48:30"
         },
         {
           "title": "Claude Design’s Most Overlooked Feature",
@@ -147,42 +183,6 @@
           "source": "UX Planet",
           "summary": "The Jakob Nielsen’s 10 heuristics will be served as a series or as episodes to you all. I will publish each heuristic a week- Every…Continue reading on UX Planet »",
           "published_at": "2026-06-28T14:46:35"
-        },
-        {
-          "title": "Why Figma Sites Beta isn’t closing the gap yet.",
-          "url": "https://uxplanet.org/why-figma-sites-beta-isnt-closing-the-gap-yet-058ce342d71e?source=rss----819cc2aaeee0---4",
-          "author": "Zubin Charles",
-          "category": "用户体验设计",
-          "source": "UX Planet",
-          "summary": "FigmaSites is an incredible vision. But we aren’t at “One-Click Publishing” yet.As product designers, our ultimate anchor is the single source of truth. We spend months building robust, scalable desig...",
-          "published_at": "2026-06-28T14:45:33"
-        },
-        {
-          "title": "Designing for the Wrong User",
-          "url": "https://uxplanet.org/designing-for-the-wrong-user-33178f5cb5b8?source=rss----819cc2aaeee0---4",
-          "author": "Hal",
-          "category": "用户体验设计",
-          "source": "UX Planet",
-          "summary": "There’s a moment in an emergency when the world narrows.Not metaphorically. Literally. Your peripheral vision contracts. Sounds flatten into background noise. The only thing that exists is the thing d...",
-          "published_at": "2026-06-28T14:44:06"
-        },
-        {
-          "title": "Why You Need to Start Prototyping with Real Code",
-          "url": "https://uxplanet.org/why-you-need-to-start-prototyping-with-real-code-560e62606b55?source=rss----819cc2aaeee0---4",
-          "author": "Dhruv Sharma",
-          "category": "用户体验设计",
-          "source": "UX Planet",
-          "summary": "Why codebase access might be the most underused tool in a product designer’s workflowContinue reading on UX Planet »",
-          "published_at": "2026-06-28T14:43:13"
-        },
-        {
-          "title": "Building a Dynamic Pong Game from Scratch.",
-          "url": "https://uxplanet.org/building-a-dynamic-pong-game-from-scratch-a7d5a608a33f?source=rss----819cc2aaeee0---4",
-          "author": "Rakshath",
-          "category": "用户体验设计",
-          "source": "UX Planet",
-          "summary": "A step-by-step guide to creating a complete Pong clone with event handling, game physics, score tracking, and computer-controlled gameplay.Photo byCall Me FredonUnsplashMost of you probably know the P...",
-          "published_at": "2026-06-28T14:42:37"
         }
       ]
     },
@@ -251,6 +251,15 @@
       "count": 11,
       "items": [
         {
+          "title": "‘The Eames Houses’ Explores the Homes That Shaped Modern Design",
+          "url": "https://design-milk.com/the-eames-houses-book/",
+          "author": "Design Milk Staff",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "'The Eames Houses' examines every residential project Charles and Ray Eames designed between 1945 and 1954.",
+          "published_at": "2026-07-01T13:00:51"
+        },
+        {
           "title": "The Tiny Polaroid Go Generation 3 Packs Big Analog Energy",
           "url": "https://design-milk.com/polaroid-go-generation-3-instant-camera/",
           "author": "Aria Lee",
@@ -296,58 +305,49 @@
           "published_at": "2026-06-29T16:00:48"
         },
         {
-          "title": "Redgert Comms Exhibits an Expanded Vision of Scandinavian Design",
-          "url": "https://design-milk.com/redgert-comms-exhibits-an-expanded-vision-of-scandinavian-design/",
-          "author": "Adrian Madlener",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "The international agency brought together leading regional talents in a series of strategically staged vignettes.",
-          "published_at": "2026-06-29T14:00:14"
-        },
-        {
-          "title": "从Excel到BI再到AI：一个数据大屏的进化史",
-          "url": "https://www.woshipm.com/ai/6423217.html",
-          "author": "豆芽悟",
+          "title": "Skills爆发元年：不会写Prompt也能让AI帮你干活的时代到了",
+          "url": "https://www.woshipm.com/share/6423468.html",
+          "author": "伍德安思壮",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当BI大屏成为企业标配，数据可视化却陷入'看得见说不清'的困境。本文以航运企业成本分析为例，揭秘如何通过WorkBuddy企业版AI与BI系统对接，将原始数据转化为即时业务洞察。从API接口开发到Prompt模板优化，这套方案让'为什么运费上涨15%'的答案从2天缩短至2分钟。一、BI数据看板做完了，还能做什么？花3个月上了BI系统，BI大屏每天都跑，老板手机能看实时数据了——然后呢？发现：看板只...",
-          "published_at": "2026-07-01T03:31:08"
+          "summary": "Prompt 时代正在被 Skills 重新定义。当主流大模型突破长上下文理解与多步推理的临界点，开源框架降低构建门槛，Skills 正将复杂工作流封装为即插即用的专业模块。本文深度剖析这场从‘工具操作’到‘目标管理’的范式转移，揭示AI竞争从模型性能转向生态构建的底层逻辑，以及普通人如何抓住Skills红利期的关键策略。如果你过去两年一直在关注AI，你一定被安利过一件事：学会写Prompt。“P...",
+          "published_at": "2026-07-01T09:47:50"
         },
         {
-          "title": "AI 浪潮下，请保持你的 Old School 产品基本功",
-          "url": "https://www.woshipm.com/share/6422830.html",
-          "author": "山姆",
+          "title": "2026“翻车”启示录：当聚光灯变成显微镜",
+          "url": "https://www.woshipm.com/share/6423408.html",
+          "author": "品牌猿",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI工具正在颠覆产品经理的工作方式，一份华丽的AI生成PRD背后隐藏着逻辑漏洞的危机。本文深入剖析AI时代产品经理不可替代的核心能力——深度思考、用户洞察与逻辑闭环，揭示如何在技术浪潮中保持职业竞争力的底层方法论。前阵子团队里出过一件小事，我到现在还记得很清楚一个校招同学，用AI几分钟甩出一份PRD，排版好看，章节齐整，连验收标准都列得明明白白。他挺得意，发到群里说这效率简直绝了，可评审会上，三个...",
-          "published_at": "2026-07-01T03:04:36"
+          "summary": "2026年公众人物与品牌“翻车”已成高频常态，从韩红的“走个面儿”到雷军的“亲民剧本”，再到遇见小面的商标纷争，舆论风暴往往始于微小细节。这背后是信息透明化、话语权分散、多角度监督与诚信价值飙升的时代新规则。本文深度剖析四大底层逻辑，揭示为何流量红利落幕之际，“信任经济”正成为品牌生存的全新范式。2026年过半，一个现象正在加速上演——公众人物和主流品牌“翻车”，不再是偶然，而成了高频常态。从“深...",
+          "published_at": "2026-07-01T09:38:18"
         },
         {
-          "title": "RFM模型：为什么高AUM客户不一定是高价值客户？",
-          "url": "https://www.woshipm.com/operate/6423095.html",
-          "author": "老徐的干货铺",
+          "title": "用多智能体协作放大 Coding Agent：从单兵作战到可验证的工程流水线",
+          "url": "https://www.woshipm.com/ai/6423349.html",
+          "author": "爱研究的乐声",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "银行客户资源分配难题如何破局？RFM模型在银行业务场景下的实战运用给出了答案。本文将深度解析RFM模型如何重新定义银行客户价值评估标准，从最近交易行为、互动频率到真实贡献度三个维度精准识别客户状态，并揭示那些临近年底，总行下发了一笔50万元的财富客户权益预算，要求各分支机构做一场客户回馈活动。预算不算少，但也绝对不够多。真正让运营团队头疼的，不是活动怎么包装，而是这笔钱到底应该花在谁身上。如果平均...",
-          "published_at": "2026-07-01T03:03:21"
+          "summary": "当AI编程工具进化到Claude Code、Codex这类Coding Agent阶段，单智能体的局限在复杂任务中暴露无遗。本文深度拆解多智能体协作的工程化解决方案，从动态子智能体生成规范到受控流水线设计，揭示如何通过角色分工、边界控制与验证机制，让AI真正胜任从功能开发到故障排查的完整工程任务。过去我们使用 AI 编程工具时，更多是在问：“它会不会写代码？”但到了 Claude Code、Cod...",
+          "published_at": "2026-07-01T09:37:36"
         },
         {
-          "title": "从产品视角看智能排线：快消SFA的效率杠杆在哪里",
-          "url": "https://www.woshipm.com/share/6422927.html",
-          "author": "eBest",
+          "title": "都没想到吧：输入法成了2026年最火的互联网产品",
+          "url": "https://www.woshipm.com/share/6423391.html",
+          "author": "郭静",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "产品经理在设计 SFA 系统时，通常关注的功能是：拜访签到、订单录入、库存查询、报表分析。但一个被长期忽视的功能是：排线。本文从产品经理视角，拆解智能排线这个功能为什么重要、怎么做、以及怎么做对。一、排线是效率问题的”隐藏漏洞”先讲一个真实的项目故事。去年在某快消客户的 SFA 优化项目里，客户方销售运营总监提了一个问题：「我们的 SFA 上线三年了，业代都在用，数据也有了。但我最近发现一个效率漏...",
-          "published_at": "2026-07-01T03:01:30"
+          "summary": "输入法赛道正在经历AI驱动的二次爆发。从豆包输入法到微信的隔空传送功能，大厂们纷纷将语音识别与AI大模型深度融合，这场看似'重复造轮子'的竞赛背后，实则是数据入口与交互方式的战略重构。本文将剖析语音输入法如何成为AI时代的兵家必争之地。谁都没想到，2026年互联网行业最火的产品竟然是输入法，国内最早的输入法产品距今已有20多年时间，然而，经过如此长时间的洗礼后，输入法产品竟然“老树发新芽”，再次成...",
+          "published_at": "2026-07-01T08:15:21"
         },
         {
-          "title": "从语义快照到结构化诊断：三层判定模型与模式匹配机制",
-          "url": "https://www.woshipm.com/ai/6422965.html",
-          "author": "阿基拉de_Akir",
+          "title": "放下麦克风出海东南亚，5国揽下300万用户押注游戏陪玩，唱吧在赌什么？",
+          "url": "https://www.woshipm.com/share/6423365.html",
+          "author": "扬帆出海",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "面对AI产品界面中的语义断层问题，结构化诊断方法(Semantic Pipeline)提供了一套工程化解决方案。本文详解三层递进诊断模型：从组件语义分类到漂移模式匹配，再到视觉表达校验，形成完整的诊断数据链，最终输出可直接进入契约工作台的标准化报告，实现从发现问题到修复执行的无缝衔接。上一篇《组件语义快照：我观察 AI 产品界面时用的 6 字段记录法》建立了发现问题阶段的观察层——用 6 个字段把...",
-          "published_at": "2026-07-01T03:00:08"
+          "summary": "东南亚游戏陪玩市场正经历从基础带练到情绪陪伴的升级迭代。Gamoji凭借标准化商品封装、多维度检索系统和增值情绪服务，成为唱吧出海战略的关键落子。这款覆盖6大爆款游戏的产品，不仅将非标服务转化为可量化标品，更通过陪聊、唱歌等延伸场景构建商业化闭环。本文深度解析其如何撬动年轻用户的社交与情感需求。作为一个几乎跳过PC时代、由移动互联网直接启蒙的地区，东南亚展现出了年轻且独特的数字生态。在这里，以《M...",
+          "published_at": "2026-07-01T07:53:36"
         }
       ]
     },
@@ -506,31 +506,31 @@
       "count": 3,
       "items": [
         {
-          "title": "Pluno",
-          "url": "https://www.producthunt.com/products/pluno",
-          "author": "Syed Ali",
+          "title": "Saldor",
+          "url": "https://www.producthunt.com/products/saldor",
+          "author": "Jacob Bland",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Browser agent that’s 10x faster than ClaudeDiscussion|Link",
-          "published_at": "2026-06-29T16:54:09"
+          "summary": "Speed up procurement and AP.Discussion|Link",
+          "published_at": "2026-07-01T05:35:38"
         },
         {
-          "title": "Cursor for iOS",
-          "url": "https://www.producthunt.com/products/cursor",
-          "author": "Ben Lang",
+          "title": "Wins 3.4 — Snap Island for Mac",
+          "url": "https://www.producthunt.com/products/wins-2",
+          "author": "Denny",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Build with coding agents from anywhereDiscussion|Link",
-          "published_at": "2026-06-30T03:52:28"
+          "summary": "Snap, switch, and arrange Mac windows from the notchDiscussion|Link",
+          "published_at": "2026-06-30T12:57:43"
         },
         {
-          "title": "v0 Design Systems 2.0",
-          "url": "https://www.producthunt.com/products/v0",
-          "author": "fmerian",
+          "title": "Get Transparent Pricing on Labs",
+          "url": "https://www.producthunt.com/products/mito-health",
+          "author": "Garry Tan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Build with your components, colors, fonts, and patternsDiscussion|Link",
-          "published_at": "2026-06-29T22:07:44"
+          "summary": "The right tests. The real price. Nothing extra.Discussion|Link",
+          "published_at": "2026-06-30T06:01:25"
         }
       ]
     },
@@ -596,52 +596,43 @@
     },
     {
       "category": "设计资讯",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "Figma just made your design system debt everyone’s problem",
-          "url": "https://uxdesign.cc/figma-just-made-your-design-system-debt-everyones-problem-now-use-it-2e9ecb6272bf",
+          "title": "The organizational cost of low taste",
+          "url": "https://uxdesign.cc/the-organizational-cost-of-low-taste-135cb8b10c34",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "For years, design system work lost the roadmap fight quietly. Config 2026 made the losing loud. That changes who has to care.",
-          "published_at": "2026-06-30T07:44:17"
+          "summary": "When taste is weak, everything survives long enough to demand justification, and the organization slowly confuses activity with progress.",
+          "published_at": "2026-07-01T08:23:23"
         },
         {
-          "title": "Shader Lab",
-          "url": "https://eng.basement.studio/tools/shader-lab",
+          "title": "Earth Garden",
+          "url": "https://earth-garden.alen.ro/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A powerful toolkit to create, stack, and animate shaders.",
-          "published_at": "2026-06-30T07:43:33"
+          "summary": "Rotate a globe and listen to nearby nature soundscapes curated from Freesound.",
+          "published_at": "2026-07-01T08:21:51"
         },
         {
-          "title": "The problem is prompt debt",
-          "url": "https://www.dbreunig.com/2026/06/22/the-problem-is-prompt-debt.html",
+          "title": "Repricing of software engineering labor",
+          "url": "https://blog.grandimam.com/posts/repricing-of-software-engineering-labor/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Plain-English prompts make prototyping effortless but specify system behavior poorly. The technical debt builds slowly until apps stall.",
-          "published_at": "2026-06-30T07:41:56"
+          "summary": "The market is repricing software engineering labor—collapsing the premium for generalists while raising the value of deep expertise.",
+          "published_at": "2026-07-01T08:21:12"
         },
         {
-          "title": "Moodboard 3000",
-          "url": "https://www.figma.com/community/plugin/1616902199522165388/moodboard-3000",
+          "title": "Halftone in the browser",
+          "url": "https://www.carmenansio.com/articles/halftone-in-the-browser/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "An image layout engine for Figma. Select images on canvas, choose a layout, and generate a composed moodboard.",
-          "published_at": "2026-06-30T07:40:49"
-        },
-        {
-          "title": "You can’t unit test for taste",
-          "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "Why automated compliance fails to yield aesthetic coherence, proving subjective judgment remains a hard requirement.",
-          "published_at": "2026-06-30T07:39:57"
+          "summary": "I kept an old iMac alive for years just to run Freehand MX. Halftones, moirés, film separations.",
+          "published_at": "2026-07-01T08:20:35"
         }
       ]
     },
@@ -673,6 +664,24 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "声擎×少数派｜「角落新声」征文活动",
+          "url": "https://sspai.com/post/111709",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅，是如何被你切片、重排并注入新生的？查看全文",
+          "published_at": "2026-07-01T09:30:00"
+        },
+        {
+          "title": "[送码] 白描 App 的 9 周年：推出鸿蒙版，白描 PDF 共创首发",
+          "url": "https://sspai.com/post/111640",
+          "author": "Tolecen",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "2017年6月21日，白描App按下了发布键。那时的它还很简单，甚至有些单薄：拍下一张图片，识别里面的文字，再复制出来。它最初想解决的，也只是一个非常具体、非常日常的小烦恼：帮女朋友把读书笔记从照片里 ...查看全文",
+          "published_at": "2026-07-01T07:03:51"
+        },
         {
           "title": "年度报告不够看？微信读书 Skill 上手体验",
           "url": "https://sspai.com/post/109932",
@@ -708,24 +717,6 @@
           "source": "少数派",
           "summary": "理解了这条线，再打开下一场比赛，赛程表就不再只是一堆缩写。查看全文",
           "published_at": "2026-06-30T06:56:46"
-        },
-        {
-          "title": "100 天从创意到落地：我们做了一台可以随口问 AI 的对讲机",
-          "url": "https://sspai.com/post/111706",
-          "author": "scymain",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "前言创业不易，硬件创业更难，尤其是AI硬件创业更是难上加难。难也意味着门槛。在滚滚而来的AI大势之下，门内的景色金光闪闪，首先要做的是迈过这个门槛。准确地说，我的硬件项目正式研发到投产经历了108天。 ...查看全文",
-          "published_at": "2026-06-30T03:00:00"
-        },
-        {
-          "title": "派早报：DeepSeek V4 正式版 7 月中旬上线等",
-          "url": "https://sspai.com/post/111707",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "少数派的近期动态少数派×AKKO联合共创带屏键盘计划于7月9日开启。预约直播WWDC26专题页已全部更新完成。点击回顾尝鲜27系列新系统的朋友，你的满意度如何？来一派投票你可能错过的文章让音乐「更好听 ...查看全文",
-          "published_at": "2026-06-30T00:24:31"
         }
       ]
     }
