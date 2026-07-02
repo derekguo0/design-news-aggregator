@@ -1,28 +1,37 @@
 {
   "date": "2026-07-02T00:00:00",
-  "total_items": 73,
+  "total_items": 76,
   "sources": [
-    "少数派",
-    "Sidebar",
-    "A List Apart",
-    "Design Milk",
-    "人人都是产品经理",
-    "Intercom Blog",
     "Awwwards",
-    "CSS-Tricks",
-    "优设网",
-    "UX Planet",
     "Smashing Magazine",
+    "Intercom Blog",
+    "Sidebar",
+    "少数派",
     "UX Design CC",
+    "UX Planet",
+    "NN/g (Nielsen Norman Group)",
+    "人人都是产品经理",
     "Product Hunt",
-    "NN/g (Nielsen Norman Group)"
+    "Design Milk",
+    "优设网",
+    "CSS-Tricks",
+    "A List Apart"
   ],
-  "generated_at": "2026-07-02T03:54:45.513204",
+  "generated_at": "2026-07-02T14:12:45.109078",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 17,
+      "count": 18,
       "items": [
+        {
+          "title": "AI personality is a design problem",
+          "url": "https://uxdesign.cc/ai-personality-is-a-design-problem-58fbc7926a3d?source=rss----138adf9c44c---4",
+          "author": "Slava Polonski, PhD",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Right now it’s an accidental byproduct of AI alignment. It could be an interface we build deliberately.Continue reading on UX Collective »",
+          "published_at": "2026-07-02T05:09:06"
+        },
         {
           "title": "How designers need to change for an AI-powered world",
           "url": "https://uxdesign.cc/how-designers-need-to-change-for-an-ai-powered-world-b51c3c195954?source=rss----138adf9c44c---4",
@@ -105,13 +114,13 @@
           "published_at": "2026-06-29T21:44:16"
         },
         {
-          "title": "You don’t design the interface anymore. You design the deciding.",
-          "url": "https://uxdesign.cc/you-dont-design-the-interface-anymore-you-design-the-deciding-835c01982ead?source=rss----138adf9c44c---4",
-          "author": "Adrian Levy",
+          "title": "Caveman for Claude Code",
+          "url": "https://uxplanet.org/caveman-for-claude-code-cfa0b0b35240?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
           "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "The agent is only the material. The discipline is what it’s allowed to decide.Continue reading on UX Collective »",
-          "published_at": "2026-06-29T21:43:25"
+          "source": "UX Planet",
+          "summary": "How It Works, Why Use It, and How to Set It UpContinue reading on UX Planet »",
+          "published_at": "2026-07-02T12:59:11"
         },
         {
           "title": "Context Engineering for Claude Code",
@@ -306,49 +315,49 @@
           "published_at": "2026-07-01T16:44:49"
         },
         {
-          "title": "精打细算的AI时代到来了",
-          "url": "https://www.woshipm.com/ai/6423635.html",
-          "author": "深流研究所",
+          "title": "【跨境产品实战笔记09】前台打价格战，后台抠利润：成熟期老品的“成本重构”与二次降维打击",
+          "url": "https://www.woshipm.com/share/6423904.html",
+          "author": "骞说跨境",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI行业正从免费狂欢转向残酷的商业现实。豆包推出最高5088元的年费套餐，DeepSeek实施峰谷定价策略，ChatGPT也在免费用户界面植入广告。这场由算力成本与用户付费意愿双重挤压引发的商业模式变革，正在倒逼整个行业走上效率优先的道路——从LPU芯片到MoE架构，从KV缓存复用到峰谷定价，一场围绕每单位算力价值的争夺战已然打响。上周，豆包正式开始收费了。它推出了一个专业版，分成三档价格，最高级...",
-          "published_at": "2026-07-02T03:35:06"
+          "summary": "面对成熟期爆款利润缩水，低段位产品经理只会和工厂砍价，而高段位玩家早已启动VAVE机制。本文以充气宝为例，深度拆解如何穿透BOM成本，在结构件、核心三电、包装辅料等环节实现15%降本，同时守住质量红线，打造出竞品无法复制的价格武器。上篇我们聊了如何用 AQL 标准在规模化量产中“驯服”工厂，保住大货的质量底线。当一个产品系列连续稳定供货半年以上，月销量稳定在数千甚至上万单时，你会发现一个让人头疼的...",
+          "published_at": "2026-07-02T09:38:50"
         },
         {
-          "title": "踩了10年坑，才敢跟你说的产品经理避坑指南",
-          "url": "https://www.woshipm.com/share/6423651.html",
-          "author": "产品经理林景贤",
+          "title": "家装设计师IP产品化：把设计能力，沉淀成一辈子的个人品牌资产",
+          "url": "https://www.woshipm.com/share/6423872.html",
+          "author": "设计师阿朱",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从原型被无视到功能无人问津，产品经理的成长路上处处是坑。本文用血泪教训揭秘6个常见陷阱：沉迷专业流程却忽视交付结果、问卷调研沦为形式主义、宏大目标拆解不力、老板需求理解偏差、研发协作过度妥协、功能上线后的运营盲区。每个案例都直击产品经理的认知误区，揭示真正价值在于解决问题而非执行任务。如果你也是产品经理，看完这篇文章就知道了——我说的这些坑，你大概率也踩过。2016年，我从小厂产品助理跳到一家创业...",
-          "published_at": "2026-07-02T03:14:13"
+          "summary": "家装设计师如何跳出职业天花板？本文揭示一个残酷真相：80%设计师被『打工思维』困住，沦为可替换的技术工人。从能力层到体系层的五维产品化模型，教你将设计技能转化为终身增值的IP资产，在流量红利消失的时代建立不可替代的竞争壁垒。在家装行业深耕多年，我见过太多设计师的职业轨迹高度相似：常年依赖公司派单、平台流量、低价竞争，忙的时候通宵改图，淡的时候零咨询。从业五年、十年，手里只有一堆效果图，没有属于自己...",
+          "published_at": "2026-07-02T09:38:44"
         },
         {
-          "title": "谷歌花27亿买回来的人，22个月后去了OpenAI",
-          "url": "https://www.woshipm.com/ai/6423204.html",
-          "author": "小崔rel",
+          "title": "Skill 实战指南 3 种方法，把你的经验变成 AI 工作流",
+          "url": "https://www.woshipm.com/ai/6423461.html",
+          "author": "刘小妮sanny",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "谷歌正面临AGI人才争夺战中的严峻挑战。一周内，包括Transformer架构共同发明者Noam Shazeer和诺奖得主John Jumper在内的五位顶尖AI研究员相继离职，加入Anthropic和OpenAI。这场人才流失不仅是普通跳槽，更是对谷歌AGI发展路线和决策效率的集体投票。本文将深度剖析这场人才战争的背后逻辑，以及它如何重塑AGI竞争的格局。先说结论：谷歌这波离职潮，表面上看是丢了...",
-          "published_at": "2026-07-02T01:39:03"
+          "summary": "AI时代的核心竞争力正在从临时提示词转向可复用的Skill体系。本文深度解析三种构建Skill的实用方法：从结果反推、记录工作流优化、说明书工程化，并附赠通用模板和实战案例。掌握这些技巧，你就能将日常工作的隐性经验转化为AI可执行的标准化流程，实现效率的指数级提升。提示词解决一次任务，Skill 沉淀长期流程。把你的经验、判断标准和交付格式固定下来，AI 才能稳定复用。最近我在 Codex 里反复...",
+          "published_at": "2026-07-02T09:36:59"
         },
         {
-          "title": "手把手教你用AI做需求分析——把”领导说要一个报表”变成可执行需求",
-          "url": "https://www.woshipm.com/pd/6423553.html",
-          "author": "光点神奇",
+          "title": "产品新人对于第一份工作的梳理总结",
+          "url": "https://www.woshipm.com/share/6423837.html",
+          "author": "牛奶咖啡",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "你一定遇到过这个场景。领导走过你工位，随口说一句：”给采购总监做一个报表，让他能看看采购执行情况。”然后走了。你坐在那里，脑子里开始转：采购执行情况？什么情况？执行率？到货率？还是金额统计？采购总监现在看什么？他缺什么数据？这个报表是每天看还是每月看？导出还是在线看？你不敢追出去问，因为领导说的”看一下情况”听起来好像很简单，你追问显得自己没水平。于是你硬着头皮做了。花了三天，画了七八个图表，搞了...",
-          "published_at": "2026-07-02T01:38:39"
+          "summary": "初创公司的产品经理经历往往充满挑战与成长。从需求收集、分析到方案设计，再到项目推进与验收，每一步都需要独立面对。本文通过真实案例与ChatGPT的对话总结，揭示产品经理如何筛选需求、设计解决方案，以及如何在实际工作中平衡各方沟通与项目管理。今天聊一聊对于产品经理工作的认知，我的前公司是一个初创的小公司，整个公司只有老板和我两个人，项目的开发全部找的外包的技术人员，公司也没有测试，所以我基本上将项目...",
+          "published_at": "2026-07-02T07:55:22"
         },
         {
-          "title": "滴滴支付的“生态突围”",
-          "url": "https://www.woshipm.com/it/6423606.html",
-          "author": "刘旷",
+          "title": "为何80%的AI项目都会失败？（内含自查方法）",
+          "url": "https://www.woshipm.com/share/5963808.html",
+          "author": "陈哥聊测试",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当便捷支付遇上隐蔽信贷，互联网平台的金融玩法正面临拷问。滴滴等平台在付款页面通过视觉设计突出优惠、弱化信贷属性，用户往往在无意识中开通消费信贷产品。这种\"出行+金融\"的生态闭环既带来了支付便利，也模糊了消费与借贷的界限。本文深度解析平台支付设计背后的商业逻辑、用户权益保护困境，以及互联网金融如何平衡便捷性与合规性。一次简单的出行支付，可能在不知不觉中开通了平台的消费信贷产品。近日，新京报贝壳财经等...",
-          "published_at": "2026-07-02T01:34:29"
+          "summary": "当下企业在AI领域的投入持续加大，但AI项目落地失败、中途夭折的现象也愈发普遍。本文将依托真实行业调研数据，深度拆解企业引入AI赋能业务高失败率背后的核心症结，同时给出一套可直接落地套用的实操框架，帮助企业切实提升AI项目成功率。先来看几组权威调研数据：超过80%的AI项目最终难以落地成型，失败率达到传统IT项目的两倍；据Gartner统计，仅48%的AI项目能够顺利完成试点阶段；即便试点成功，从...",
+          "published_at": "2026-07-02T07:52:22"
         }
       ]
     },
@@ -429,6 +438,15 @@
           "published_at": null
         },
         {
+          "title": "Units",
+          "url": "https://www.awwwards.com/sites/units",
+          "author": "Big Horror Athens",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Wembi",
           "url": "https://www.awwwards.com/sites/wembi",
           "author": "ET Studio",
@@ -490,57 +508,66 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Wolverine Worldwide",
-          "url": "https://www.awwwards.com/sites/wolverine-worldwide",
-          "author": "Locomotive",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 6,
       "items": [
         {
-          "title": "Aruki",
-          "url": "https://www.producthunt.com/products/aruki-japanese-walking",
-          "author": "bytamite",
+          "title": "scritty",
+          "url": "https://www.producthunt.com/products/scritty",
+          "author": "scritty",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The Japanese walking method, coached on your iPhoneDiscussion|Link",
-          "published_at": "2026-06-30T14:20:58"
+          "summary": "Shared, searchable memory for every AI coding agentDiscussion|Link",
+          "published_at": "2026-07-02T00:21:44"
         },
         {
-          "title": "Bamboo",
-          "url": "https://www.producthunt.com/products/bamboo-ai-markdown-notes",
-          "author": "Johnny chan",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Markdown notes with AI under your controlDiscussion|Link",
-          "published_at": "2026-06-30T07:58:01"
-        },
-        {
-          "title": "Gemini Omni Flash",
-          "url": "https://www.producthunt.com/products/gemini-omni-flash",
-          "author": "KP",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "High-quality video generation and conversational editingDiscussion|Link",
-          "published_at": "2026-06-30T20:22:29"
-        },
-        {
-          "title": "Adam CAD Copilot",
-          "url": "https://www.producthunt.com/products/adam-cad-copilot",
+          "title": "Context.dev",
+          "url": "https://www.producthunt.com/products/context-dev",
           "author": "Garry Tan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI CAD inside Onshape and FusionDiscussion|Link",
-          "published_at": "2026-06-30T19:59:32"
+          "summary": "One API to scrape, enrich, and extract the internetDiscussion|Link",
+          "published_at": "2026-07-01T03:33:28"
+        },
+        {
+          "title": "PixFit",
+          "url": "https://www.producthunt.com/products/pixfit",
+          "author": "Germán Merlo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Turn 1 creative into every ad format, instantlyDiscussion|Link",
+          "published_at": "2026-07-01T19:00:03"
+        },
+        {
+          "title": "Solaris",
+          "url": "https://www.producthunt.com/products/build-club",
+          "author": "Vincent Koc",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Your company’s AI adoption and upskilling platformDiscussion|Link",
+          "published_at": "2026-06-30T20:58:22"
+        },
+        {
+          "title": "Quick Sub 2: Video Subtitling",
+          "url": "https://www.producthunt.com/products/quick-sub-2-video-subtitling",
+          "author": "Señor Tomato",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Quick, creative video subtitling with direct canvas control.Discussion|Link",
+          "published_at": "2026-07-01T23:54:47"
+        },
+        {
+          "title": "Sidedoor",
+          "url": "https://www.producthunt.com/products/sidedoor-2",
+          "author": "Jerry Feng",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Paste any job, find who in your network can refer youDiscussion|Link",
+          "published_at": "2026-07-02T05:09:33"
         }
       ]
     },
@@ -594,8 +621,8 @@
           "published_at": null
         },
         {
-          "title": "动态液态金属效果太难画？Figma新功能让你改改参数就搞定",
-          "url": "https://www.uisdc.com/hunter/0221675434.html",
+          "title": "凭空生成不如局部替换，看谷歌如何用Omni解决AI视频落地痛点",
+          "url": "https://www.uisdc.com/hunter/0221675562.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -609,40 +636,40 @@
       "count": 4,
       "items": [
         {
-          "title": "The organizational cost of low taste",
-          "url": "https://uxdesign.cc/the-organizational-cost-of-low-taste-135cb8b10c34",
+          "title": "On the semantic web",
+          "url": "https://karlkoch.me/writing/on-the-semantic-web",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "When taste is weak, everything survives long enough to demand justification, and the organization slowly confuses activity with progress.",
-          "published_at": "2026-07-01T08:23:23"
+          "summary": "Native elements carry behaviour, accessibility, form semantics, keyboard support, and platform adaptation before styling begins.",
+          "published_at": "2026-07-02T05:26:24"
         },
         {
-          "title": "Earth Garden",
-          "url": "https://earth-garden.alen.ro/",
+          "title": "Ask an astronaut",
+          "url": "https://askanastronaut.issinrealtime.org/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Rotate a globe and listen to nearby nature soundscapes curated from Freesound.",
-          "published_at": "2026-07-01T08:21:51"
+          "summary": "Find your question among hundreds of astronaut interviews aboard the International Space Station.",
+          "published_at": "2026-07-02T05:25:46"
         },
         {
-          "title": "Repricing of software engineering labor",
-          "url": "https://blog.grandimam.com/posts/repricing-of-software-engineering-labor/",
+          "title": "Designing services for people who’ve lost trust online",
+          "url": "https://designnotes.blog.gov.uk/2026/06/23/designing-services-for-people-whove-lost-trust-online/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The market is repricing software engineering labor—collapsing the premium for generalists while raising the value of deep expertise.",
-          "published_at": "2026-07-01T08:21:12"
+          "summary": "How to design to rebuild trust in using public services for people who have been affected by scams.",
+          "published_at": "2026-07-02T05:24:41"
         },
         {
-          "title": "Halftone in the browser",
-          "url": "https://www.carmenansio.com/articles/halftone-in-the-browser/",
+          "title": "How to design arrows",
+          "url": "https://pangrampangram.com/blogs/journal/arrows",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "I kept an old iMac alive for years just to run Freehand MX. Halftones, moirés, film separations.",
-          "published_at": "2026-07-01T08:20:35"
+          "summary": "Designing a single set of glyphs—one that’s as important and (literally) iconic as it is easy to mess up.",
+          "published_at": "2026-07-02T05:23:31"
         }
       ]
     },
@@ -675,6 +702,33 @@
       "count": 6,
       "items": [
         {
+          "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
+          "url": "https://sspai.com/post/110950",
+          "author": "Hirat",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "你一定有过这样的经历：在小红书刷到一篇感兴趣的笔记，复制链接想稍后再看，结果淹没在聊天记录里再也找不到了。微信群里有人分享了一个公众号文章，随手复制了链接，等真正有空时却想不起存到了哪里。收到快递取件 ...查看全文",
+          "published_at": "2026-07-02T09:35:25"
+        },
+        {
+          "title": "共创试读 | 给童年一份礼物：从是什么到为什么，找到合适的掌机",
+          "url": "https://sspai.com/post/111069",
+          "author": "Tp",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "近年来，伴随着复古浪潮的席卷而来，许多玩家似乎又重新关注起了一些老游戏、老设备。从2022年的3DS涨价风波，到后来层出不穷的所谓「开源掌机」，大家似乎都在寻找一个通往童年的入口，重新回味那些历久弥新 ...查看全文",
+          "published_at": "2026-07-02T07:00:00"
+        },
+        {
+          "title": "家用游戏机的新选择，Steam Machine 玩起来怎么样？",
+          "url": "https://sspai.com/post/111763",
+          "author": "IGN中国",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "本文由IGN中国编译自IGNUS相关内容，原作者JacquelineThomas、编译者Tony，少数派经IGN中国授权转载，仅对文章格式略作调整。阅读原文>在经历八个月的等待之后，SteamMach ...查看全文",
+          "published_at": "2026-07-02T04:16:09"
+        },
+        {
           "title": "派早报：WhatsApp 开放用户名预留、PS 将取消实体光盘等",
           "url": "https://sspai.com/post/111861",
           "author": "少数派编辑部",
@@ -700,33 +754,6 @@
           "source": "少数派",
           "summary": "2017年6月21日，白描App按下了发布键。那时的它还很简单，甚至有些单薄：拍下一张图片，识别里面的文字，再复制出来。它最初想解决的，也只是一个非常具体、非常日常的小烦恼：帮女朋友把读书笔记从照片里 ...查看全文",
           "published_at": "2026-07-01T07:03:51"
-        },
-        {
-          "title": "年度报告不够看？微信读书 Skill 上手体验",
-          "url": "https://sspai.com/post/109932",
-          "author": "偶然时刻",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "人对自己或许会偶尔不诚实，但你的书架是很诚实的。查看全文",
-          "published_at": "2026-07-01T02:27:40"
-        },
-        {
-          "title": "派早报：Google 推出 Eclipsa Video 视频标准等",
-          "url": "https://sspai.com/post/111773",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Anthropic 发布 Claude Sonnet 5 和 Claude Science，Google 发布 Nano Banana 2 Lite 和 Gemini Omni Flash 等。查看全文",
-          "published_at": "2026-06-30T23:48:54"
-        },
-        {
-          "title": "社区速递 147 | 派友的五月好物盘点、测评乱象热议和安伯尼克复古掌机",
-          "url": "https://sspai.com/post/111744",
-          "author": "Matrix机器人",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
-          "published_at": "2026-06-30T09:02:26"
         }
       ]
     }
