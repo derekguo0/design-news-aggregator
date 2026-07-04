@@ -1,22 +1,22 @@
 {
   "date": "2026-07-04T00:00:00",
-  "total_items": 69,
+  "total_items": 68,
   "sources": [
-    "UX Design CC",
-    "Awwwards",
-    "少数派",
     "Product Hunt",
-    "优设网",
+    "Sidebar",
+    "NN/g (Nielsen Norman Group)",
     "Design Milk",
     "Smashing Magazine",
-    "Sidebar",
     "Intercom Blog",
-    "NN/g (Nielsen Norman Group)",
-    "人人都是产品经理",
+    "Awwwards",
+    "优设网",
     "UX Planet",
-    "A List Apart"
+    "少数派",
+    "UX Design CC",
+    "A List Apart",
+    "人人都是产品经理"
   ],
-  "generated_at": "2026-07-04T03:30:20.780213",
+  "generated_at": "2026-07-04T13:41:05.228105",
   "categories": [
     {
       "category": "用户体验设计",
@@ -269,12 +269,30 @@
           "published_at": "2026-07-01T16:44:49"
         },
         {
+          "title": "我下了 Obsidian 三次，终于搞懂 LLM Wiki 该怎么用",
+          "url": "https://www.woshipm.com/ai/6424344.html",
+          "author": "王三思",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "从下载到弃用再到真正掌握，Obsidian 知识库的探索之路充满曲折。本文揭秘如何让 AI 成为你的知识管家，从框架搭建到内容整理，再到定期体检，一步步教你打造真正属于自己的智能知识库。那些你曾踩过的坑，或许正是开启高效学习的关键转折点。最近刷朋友圈，隔三差五看到有人晒 Obsidian 的知识库截图。几个做 AI 的朋友也在群里聊，说卡帕西弄了一个 LLM Wiki，用大模型自动维护自己的知识库...",
+          "published_at": "2026-07-04T07:11:42"
+        },
+        {
+          "title": "都2026年了，还有人花钱学直播？",
+          "url": "https://www.woshipm.com/it/6424823.html",
+          "author": "道总有理",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "直播电商培训市场正经历一场荒诞与现实的碰撞。从三只羊1980元的线下训练营到交个朋友3.2万元的高阶课程，头部MCN纷纷将培训业务作为第二增长曲线。然而，随着AI主播崛起、流量红利见顶，这门贩卖\"造富梦\"的生意正在面临严峻挑战。本文深度剖析直播培训市场的底层逻辑，揭示行业从疯狂走向理性的必然轨迹。最近，大杨哥现身三只羊旗下“三只羊大课堂”引发热议，导致相关课程临时下架。根据媒体报道，大杨哥是在“小...",
+          "published_at": "2026-07-04T06:10:45"
+        },
+        {
           "title": "FDE的定位思考：是护城河，还是新一轮人力外包？",
-          "url": "https://www.woshipm.com/share/6424785.html",
+          "url": "https://www.woshipm.com/ai/6424785.html",
           "author": "申悦",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "文章结合头部 AI 大厂实践解读新兴角色 FDE。区分优质 FDE 与高端驻场外包，提出判断价值的三次转化标准，给出企业从单个智能体样板沉淀内部落地标准的实操路径。最近和一家头部 AI 大厂的智能体团队开了一场交流会，会上有个词被他们反复提及：FDE。这是我第一次从一线的 AI 厂商口中听到这个词，也就是说，不光OpenAI、Salesforce、EY 这些公司在公开强化FDE这类角色，国内大厂在...",
+          "summary": "FDE作为连接业务与技术的复合角色，正在改写企业AI落地的游戏规则。但若不明确边界，它也可能沦为更贵的人力外包。本文深度解析FDE的三大价值转化路径，揭示如何让这一角色真正成为企业AI的护城河。最近和一家头部 AI 大厂的智能体团队开了一场交流会，会上有个词被他们反复提及：FDE。这是我第一次从一线的 AI 厂商口中听到这个词，也就是说，不光OpenAI、Salesforce、EY 这些公司在公开...",
           "published_at": "2026-07-04T02:50:37"
         },
         {
@@ -288,30 +306,12 @@
         },
         {
           "title": "好产品，为什么不一定卖得好？",
-          "url": "https://www.woshipm.com/share/6424778.html",
+          "url": "https://www.woshipm.com/marketing/6424778.html",
           "author": "Hanni",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "文章反驳 “好产品自带流量” 的技术圈固有偏见，以 iPod、Humane AI Pin 正反案例指出产品与营销割裂是滞销核心原因。给出跨部门协同方案，强调研发初期就要联动营销打通商业闭环。科技圈里，一直存在一种很微妙的偏见。很多技术出身的创始人相信：“真正好的产品自己会说话。”反过来，如果一个产品需要营销，产品大概率不行。常见的工作流程像是“跑接力”：产品部门先埋头开发产品；营销拿到原型甚至产品...",
+          "summary": "iPod之父Tony Fadell的实战经验揭示：好产品≠商业成功。从iPod到Humane AI Pin的成败案例，解密产品与营销脱节带来的三大隐性成本，以及如何通过GTM战略实现跨部门协同。本文深度拆解从PMF到商业闭环的全流程关键点，给技术驱动型团队一剂清醒剂。科技圈里，一直存在一种很微妙的偏见。很多技术出身的创始人相信：“真正好的产品自己会说话。”反过来，如果一个产品需要营销，产品大概率不...",
           "published_at": "2026-07-04T02:16:37"
-        },
-        {
-          "title": "小红书种草：10万预算如何撬动百万级效果？",
-          "url": "https://www.woshipm.com/share/6424774.html",
-          "author": "营销老王",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "本文针对中小品牌几万至十万小红书投放预算，指出照搬大牌投放模式极易亏损。结合洗护实操案例，拆解陷阱，提出小品牌靠真实内容实现低成本起盘。大家打开小红书，是否总被那些”小红书种草/内容营销，打造行业TOP”的案例淹没？看着机构的案例，小红书官方的案例金光闪闪，几乎都是大品牌。再看下自己兜里每个月几万预算，很多老板的想法就是“钱也不多，做内容也没啥效果，做了也确实没看到效果，自己团队战斗力不行，机构不...",
-          "published_at": "2026-07-04T02:07:32"
-        },
-        {
-          "title": "WorkBuddy专家团提示词全曝光：多Agent协作原来是这样产品化的",
-          "url": "https://www.woshipm.com/share/6424770.html",
-          "author": "叶小钗",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "文章拆解 WorkBuddy 专家与专家团两大核心上层设计，专家是封装完整流程、交付标准的单 Agent，；专家团为调度式多 Agent 协作体系，完整讲解可落地的 AI Agent 产品搭建思路。之前的一篇文章 我们拆解了Workbuddy的上下文工程，包括其系统提示词的组装，会话压缩和记忆机制，有兴趣的同学可以去看看：WorkBuddy VS 钉钉悟空 VS 字节 Aily：桌面 Agent ...",
-          "published_at": "2026-07-04T01:58:18"
         }
       ]
     },
@@ -392,6 +392,15 @@
           "published_at": null
         },
         {
+          "title": "Radian",
+          "url": "https://www.awwwards.com/sites/radian",
+          "author": "UNCOMMON",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Bucks Sauce",
           "url": "https://www.awwwards.com/sites/bucks-sauce",
           "author": "Buzzworthy",
@@ -453,48 +462,30 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Ten Years Away",
-          "url": "https://www.awwwards.com/sites/ten-years-away",
-          "author": "Studio375",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "Osloq",
-          "url": "https://www.producthunt.com/products/osloq",
-          "author": "Enes",
+          "title": "ChecklistFox",
+          "url": "https://www.producthunt.com/products/checklistfox",
+          "author": "Usama Khalid",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "An AI agent that reproduces GitHub issues for youDiscussion|Link",
-          "published_at": "2026-07-02T22:37:18"
+          "summary": "AI Checklist Maker - Beautiful PDFs, Free & InstantDiscussion|Link",
+          "published_at": "2026-07-03T20:40:09"
         },
         {
-          "title": "Tamamon",
-          "url": "https://www.producthunt.com/products/tamamon-a-tiny-desktop-pet-that-grows",
-          "author": "Jason Jeong",
+          "title": "Termi Protocol",
+          "url": "https://www.producthunt.com/products/termi-protocol",
+          "author": "Eric Omer Ercan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A desktop pet that grows as you code with Claude CodeDiscussion|Link",
-          "published_at": "2026-07-02T13:57:06"
-        },
-        {
-          "title": "Goals from Loops",
-          "url": "https://www.producthunt.com/products/loops",
-          "author": "Garry Tan",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Measure whether a campaign drove the desired outcomeDiscussion|Link",
-          "published_at": "2026-07-02T10:03:16"
+          "summary": "Watch your AI coding agents build, live in 3DDiscussion|Link",
+          "published_at": "2026-07-03T21:14:15"
         },
         {
           "title": "Glaze by Raycast",
@@ -506,13 +497,13 @@
           "published_at": "2026-07-02T15:57:02"
         },
         {
-          "title": "Banger Mail",
-          "url": "https://www.producthunt.com/products/banger-mail",
-          "author": "Tiago Loureiro",
+          "title": "Goals from Loops",
+          "url": "https://www.producthunt.com/products/loops",
+          "author": "Garry Tan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Shared mailboxes for teams and AI agentsDiscussion|Link",
-          "published_at": "2026-07-02T01:00:26"
+          "summary": "Measure whether a campaign drove the desired outcomeDiscussion|Link",
+          "published_at": "2026-07-02T10:03:16"
         }
       ]
     },
@@ -632,6 +623,15 @@
       "count": 6,
       "items": [
         {
+          "title": "[送码] 聆听用户建议，1Capture 新增多项实用截图功能",
+          "url": "https://sspai.com/post/111645",
+          "author": "macing",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "各位少数派的朋友好，距离上一次在少数派介绍1Capture已经过去一年。过去这段时间里，我们开发的这款Mac截图与录屏工具继续做了多轮更新，也根据用户反馈补齐了一些更适合团队协作和产品展示的功能。市场 ...查看全文",
+          "published_at": "2026-07-04T07:55:48"
+        },
+        {
           "title": "住久了没意思（四）：作为最「复合」的空间，客厅要为真实生活让路",
           "url": "https://sspai.com/prime/story/how-to-design-a-rental-living-room",
           "author": "程天冲",
@@ -675,15 +675,6 @@
           "source": "少数派",
           "summary": "Apple「隐藏邮件地址」功能存在隐私漏洞，System76 推出 Linux 轻薄本 Lemur Pro 等。查看全文",
           "published_at": "2026-07-03T00:45:36"
-        },
-        {
-          "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
-          "url": "https://sspai.com/post/110950",
-          "author": "Hirat",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "你一定有过这样的经历：在小红书刷到一篇感兴趣的笔记，复制链接想稍后再看，结果淹没在聊天记录里再也找不到了。微信群里有人分享了一个公众号文章，随手复制了链接，等真正有空时却想不起存到了哪里。收到快递取件 ...查看全文",
-          "published_at": "2026-07-02T09:35:25"
         }
       ]
     }
