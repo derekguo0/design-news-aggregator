@@ -1,21 +1,20 @@
 {
   "date": "2026-07-05T00:00:00",
-  "total_items": 64,
+  "total_items": 56,
   "sources": [
-    "UX Design CC",
-    "Design Milk",
-    "Smashing Magazine",
-    "Sidebar",
-    "少数派",
-    "NN/g (Nielsen Norman Group)",
-    "优设网",
     "UX Planet",
+    "Sidebar",
+    "NN/g (Nielsen Norman Group)",
     "Awwwards",
-    "A List Apart",
+    "Smashing Magazine",
+    "少数派",
     "Product Hunt",
-    "人人都是产品经理"
+    "人人都是产品经理",
+    "A List Apart",
+    "UX Design CC",
+    "Design Milk"
   ],
-  "generated_at": "2026-07-05T03:47:50.555857",
+  "generated_at": "2026-07-05T13:48:05.600696",
   "categories": [
     {
       "category": "用户体验设计",
@@ -232,49 +231,49 @@
           "published_at": "2026-07-02T19:16:24"
         },
         {
-          "title": "PM平衡：AI审核能取代人工吗？",
-          "url": "https://www.woshipm.com/ai/6424725.html",
-          "author": "陆地燃烧",
+          "title": "1万个KOC种草的经验，如何小投入大爆发？",
+          "url": "https://www.woshipm.com/share/6425068.html",
+          "author": "营销老王",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI审核正在颠覆内容平台的游戏规则，宣称能同时实现高安全性、高流量效率和极低运营成本，打破传统审核的“不可能三角”。但真相是，创作者的多样性正成为被牺牲的对象。本文深度剖析AI审核的三重承诺与现实落差，揭示标准化内容、边缘内容和实验性创作面临的生存困境，并提供四种在AI时代生存的策略。一、回顾：审核的“不可能三角”在前面的讨论中，我们确立了内容平台审核的“不可能三角”：安全性：合规风险最低流量效率...",
-          "published_at": "2026-07-05T03:31:29"
+          "summary": "素人推广正在成为品牌营销的新战场，但90%的失败案例都源于同一个认知误区——用传统广告思维做内容种草。本文深度拆解小红书、抖音等平台的算法逻辑，揭示为何1000篇批量生产的'硬广笔记'抵不过1条真诚分享，并给出3个让KOC内容转化率提升300%的实战策略。很多品牌知道KOC在种草中，发挥重要角色，但是推广后又普遍吐槽没用！但是吐槽的这些品牌，对于KOC素人的应用是发几百条笔记，做曝光。钱花出去了，...",
+          "published_at": "2026-07-05T12:59:20"
         },
         {
-          "title": "AI Native 内容生产系统：从数字员工愿景到企业可落地架构",
-          "url": "https://www.woshipm.com/ai/6423909.html",
-          "author": "Miles",
+          "title": "私域不是一上来就成交，而是先看懂用户",
+          "url": "https://www.woshipm.com/share/6425067.html",
+          "author": "swimming",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI内容工具虽已大幅提升单点效率，但距离真正的'数字员工'仍有鸿沟。本文深度剖析通用Agent在垂直内容生产中的四大痛点，揭示从'能做到'到'每次都能做好'的质变路径，并首次完整提出AI内容生产系统的三层架构设计，为企业在工具升级与系统建设间提供关键决策框架。AI内容工具距离”数字员工”还有多远？AI内容生产任务目标定义当前 AI 内容工具已经显著提升单点生产效率，但距离企业期待的”数字员工”仍存...",
-          "published_at": "2026-07-05T02:27:00"
+          "summary": "私域运营的困境往往源于对用户阶段的误判。本文通过真实咨询案例，揭示用户刚完成首单后立即复购的悖论，提出信任建立三要素与人设IP打造的关键作用。从产品分层与人群分层的匹配逻辑，到活动设计的底层思维，深度解析如何让私域从推销渠道升级为用户理解起点。昨天跟我的一个咨询项目的团队负责人沟通。我们聊到最近一套私域 SOP 的落地情况。欢迎语做了，内容推了，权益也配置了，活动也在跑。但复盘下来，转化还是不够顺...",
+          "published_at": "2026-07-05T12:56:38"
         },
         {
-          "title": "找到生态位，再谈做 AI",
-          "url": "https://www.woshipm.com/ai/3484456.html",
-          "author": "率剑士",
+          "title": "AI 产品经理如何为 Agent 产品设计安全护栏？",
+          "url": "https://www.woshipm.com/ai/6424703.html",
+          "author": "怂怂的AI脑内小剧场",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "国内AI市场已告别参数狂欢，进入价值验证与商业落地的深度竞争阶段。从互联网巨头的全栈布局到独角兽的垂直深耕，AI正通过超级应用生态、工程化降本增效等策略重塑产业格局。本文将剖析4+6格局下的战略卡位、高活跃场景突围路径以及产业链关键变量，揭示中国AI市场的真实战况与未来变数。主要玩家在做什么？C端应用多集中于互联网大厂，由于把握C端入口，以及庞大的用户群体，优势在于巨大的市场和丰富的应用场景，能快...",
-          "published_at": "2026-07-05T01:31:48"
+          "summary": "Agent产品的安全护栏并非简单技术风控，而是产品设计的核心环节。本文深入剖析Agent安全性的本质挑战：从基础准确性提升到风险分层设计，从三层护栏构建到动态路由机制，揭示真正可靠的Agent产品如何通过精细化的边界设计，在能力与安全间取得平衡。过去一年，很多团队做 Agent 产品时，最容易陷入一个误区：一上来就讨论“怎么拦截”“怎么审核”“怎么防越狱”。但真正进入生产环境后你会发现，Agent...",
+          "published_at": "2026-07-05T07:28:53"
         },
         {
-          "title": "从数据库的选择与存储看知识图谱项目",
-          "url": "https://www.woshipm.com/ai/6424682.html",
-          "author": "是AD",
+          "title": "Karpathy 官宣Vibe Coding时代落幕",
+          "url": "https://www.woshipm.com/ai/6424797.html",
+          "author": "观澜AI",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在企业知识图谱的构建中，图数据库只是拼图的一角。本文深度拆解真实项目架构，揭秘 MongoDB、Milvus、Elasticsearch、NebulaGraph 如何各司其职，形成「知识库+RAG+别名图谱」的混合系统。你将看到业务规则与语义检索的切割艺术，以及图谱落地的六个灵魂拷问。做企业知识图谱，最容易出现一个误会：只要用了NebulaGraph/Neo4j，就以为系统已经是“知识图谱”了。但...",
-          "published_at": "2026-07-05T00:28:06"
+          "summary": "AI编程正从Vibe Coding的随意性转向Agentic Engineering的系统化变革。当技术债与权限漏洞在快速迭代中积累，产品经理必须从需求验收者转型为工程约束制定者。本文深度剖析AI编程从'能跑就行'到'可验证交付'的进化路径，揭示移动互联网团队如何在这场变革中重构核心竞争力。如果你现在还把 AI 编程理解成“把需求丢给模型，然后等它吐出一个能跑的页面”，那我建议你先停一下。因为它像...",
+          "published_at": "2026-07-05T06:14:15"
         },
         {
-          "title": "我下了 Obsidian 三次，终于搞懂 LLM Wiki 该怎么用",
-          "url": "https://www.woshipm.com/ai/6424344.html",
-          "author": "王三思",
+          "title": "2026重述产品-高序列：这是客户的“燃眉之急”还是“锦上添花”？",
+          "url": "https://www.woshipm.com/share/6424732.html",
+          "author": "无事小神仙",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从下载到弃用再到真正掌握，Obsidian 知识库的探索之路充满曲折。本文揭秘如何让 AI 成为你的知识管家，从框架搭建到内容整理，再到定期体检，一步步教你打造真正属于自己的智能知识库。那些你曾踩过的坑，或许正是开启高效学习的关键转折点。最近刷朋友圈，隔三差五看到有人晒 Obsidian 的知识库截图。几个做 AI 的朋友也在群里聊，说卡帕西弄了一个 LLM Wiki，用大模型自动维护自己的知识库...",
-          "published_at": "2026-07-04T07:11:42"
+          "summary": "在激烈的市场竞争中，精准识别需求优先级是产品成功的关键。本文深度剖析需求的三大层次——从必须满足的必选需求，到竞争核心的期望需求，再到创造惊喜的魅力需求，并提供三把标尺帮助产品经理量化需求价值，避开资源错配陷阱，直击用户真正愿意付费的痛点。上一篇文章我们说清楚了“真需求”，找到了那个藏在症状背后的病根。但病根也有轻重缓急。有的需求，是客户半夜睡不着觉的那种痛；有的需求，是客户想起来觉得“嗯，有当然...",
+          "published_at": "2026-07-05T05:31:54"
         }
       ]
     },
@@ -355,6 +354,15 @@
           "published_at": null
         },
         {
+          "title": "Hildén & Kaira",
+          "url": "https://www.awwwards.com/sites/hilden-kaira",
+          "author": "Dylan Brouwer",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Radian",
           "url": "https://www.awwwards.com/sites/radian",
           "author": "UNCOMMON",
@@ -416,117 +424,30 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Podium",
-          "url": "https://www.awwwards.com/sites/podium",
-          "author": "San Rita",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 2,
       "items": [
         {
-          "title": "Termi Protocol",
-          "url": "https://www.producthunt.com/products/termi-protocol",
-          "author": "Eric Omer Ercan",
+          "title": "CircleChat",
+          "url": "https://www.producthunt.com/products/circlechat",
+          "author": "Tash Ahmed",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Watch your AI coding agents build, live in 3DDiscussion|Link",
-          "published_at": "2026-07-03T21:14:15"
+          "summary": "Give your AI agents a slack, a task board, and a bossDiscussion|Link",
+          "published_at": "2026-07-04T16:05:42"
         },
         {
-          "title": "ChecklistFox",
-          "url": "https://www.producthunt.com/products/checklistfox",
-          "author": "Usama Khalid",
+          "title": "Pennen",
+          "url": "https://www.producthunt.com/products/pennen",
+          "author": "Ishaan Rawat",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI checklist maker for beautiful pdfs, free & instantDiscussion|Link",
-          "published_at": "2026-07-03T20:40:09"
-        },
-        {
-          "title": "Glaze by Raycast",
-          "url": "https://www.producthunt.com/products/glaze-4",
-          "author": "Chris Messina",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Create your own Mac apps by chatting with AIDiscussion|Link",
-          "published_at": "2026-07-02T15:57:02"
-        },
-        {
-          "title": "Goals from Loops",
-          "url": "https://www.producthunt.com/products/loops",
-          "author": "Garry Tan",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Measure whether a campaign drove the desired outcomeDiscussion|Link",
-          "published_at": "2026-07-02T10:03:16"
-        }
-      ]
-    },
-    {
-      "category": "设计教程",
-      "count": 6,
-      "items": [
-        {
-          "title": "别再说这种动效不会做了，我一步一步教会你！",
-          "url": "https://www.uisdc.com/ui-motion-3",
-          "author": "",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "不碰设计软件，我是怎么靠 Coding 做动画的？",
-          "url": "https://www.uisdc.com/ai-motion-design",
-          "author": "",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "没想到我一个没有绘画基础的设计师，也能做这种海报！",
-          "url": "https://www.uisdc.com/skill-free-poster",
-          "author": "",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "拆解了10份大厂作品集，总结出4个呈现AI能力的方向",
-          "url": "https://www.uisdc.com/proof-over-tools",
-          "author": "",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "这种动效还手搓？我30秒就做好了！",
-          "url": "https://www.uisdc.com/autoanimate",
-          "author": "",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "靠边就能隐藏？Dia 浏览器巧妙解决画中画遮挡",
-          "url": "https://www.uisdc.com/hunter/0221674909.html",
-          "author": "龙爪槐守望者",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
+          "summary": "One quiet handwritten page a day. No feed, no AI.Discussion|Link",
+          "published_at": "2026-07-03T21:30:43"
         }
       ]
     },
@@ -586,6 +507,15 @@
       "count": 6,
       "items": [
         {
+          "title": "背单词更要背释义，FenyiDic 让你记住「熟悉的陌生人」",
+          "url": "https://sspai.com/post/111632",
+          "author": "Bern3rsH",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "每个单词都认识，为什么还是读不懂英文？查看全文",
+          "published_at": "2026-07-05T09:08:05"
+        },
+        {
           "title": "[送码] 聆听用户建议，1Capture 新增多项实用截图功能",
           "url": "https://sspai.com/post/111645",
           "author": "macing",
@@ -629,15 +559,6 @@
           "source": "少数派",
           "summary": "无论你追求的是更高的职位、更自由的时间、还是某种更纯粹的成就感，有一件事大概是共通的：那就是尽量让自己的人生，少一点完全依赖运气的成分，多一点可被掌控、可被验证的路径。查看全文",
           "published_at": "2026-07-03T03:00:00"
-        },
-        {
-          "title": "派早报：大疆发布 DJI Mic Mini 2S 迷你无线麦克风等",
-          "url": "https://sspai.com/post/111898",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Apple「隐藏邮件地址」功能存在隐私漏洞，System76 推出 Linux 轻薄本 Lemur Pro 等。查看全文",
-          "published_at": "2026-07-03T00:45:36"
         }
       ]
     }
