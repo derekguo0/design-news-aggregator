@@ -1,25 +1,53 @@
 {
   "date": "2026-07-06T00:00:00",
-  "total_items": 46,
+  "total_items": 64,
   "sources": [
-    "Design Milk",
     "Smashing Magazine",
-    "少数派",
-    "Product Hunt",
-    "优设网",
     "A List Apart",
-    "Sidebar",
-    "NN/g (Nielsen Norman Group)",
-    "UX Planet",
+    "Design Milk",
     "人人都是产品经理",
+    "Product Hunt",
+    "Sidebar",
+    "少数派",
+    "优设网",
+    "NN/g (Nielsen Norman Group)",
+    "Awwwards",
+    "UX Planet",
     "UX Design CC"
   ],
-  "generated_at": "2026-07-06T03:55:58.656656",
+  "generated_at": "2026-07-06T15:40:39.109136",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 6,
+      "count": 12,
       "items": [
+        {
+          "title": "Design system debt, game UX, 39 principles for AI interaction",
+          "url": "https://uxdesign.cc/design-system-debt-game-ux-39-principles-for-ai-interaction-dab9500dc926?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“This is the real shift. Design system debt used to be paid by one person, quietly, in files nobody else opened. Now it gets paid by the en...",
+          "published_at": "2026-07-06T11:25:19"
+        },
+        {
+          "title": "Design as a function",
+          "url": "https://uxdesign.cc/design-as-a-function-5c236e28f353?source=rss----138adf9c44c---4",
+          "author": "Zeeshan Khalid",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The future of design isn’t about pixels. It’s about function. And the organisations that figure that out first will be the ones that win.Continue reading on UX Collective »",
+          "published_at": "2026-07-06T07:35:38"
+        },
+        {
+          "title": "Wait, who made this?",
+          "url": "https://uxdesign.cc/wait-who-made-this-705a30d74220?source=rss----138adf9c44c---4",
+          "author": "Allie Paschal",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The rise of creative provenanceSome AI-generated posters are easy to spot and look the same; image viaSub-Reddit AskUKMany people have been asking themselves an important question as they see new digi...",
+          "published_at": "2026-07-06T07:33:56"
+        },
         {
           "title": "The face was never the point",
           "url": "https://uxdesign.cc/the-face-was-never-the-point-7f186f266e56?source=rss----138adf9c44c---4",
@@ -64,6 +92,33 @@
           "source": "UX Design CC",
           "summary": "Seven tools, one bench. The skill was always knowing which to pick up. AI assisted.Nobody builds with one model anymore. Here is the stack I reach for, tool by tool, with the one trick that makes each...",
           "published_at": "2026-07-03T03:56:18"
+        },
+        {
+          "title": "Claude Design: Create Stunning Animations and Motion Graphics",
+          "url": "https://uxplanet.org/claude-design-create-stunning-animations-and-motion-graphics-f6ada52dc4a0?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Claude Design is typically used to create prototypes, but not many people know that it’s possible to use this tool to craft very…Continue reading on UX Planet »",
+          "published_at": "2026-07-06T14:25:45"
+        },
+        {
+          "title": "MCP Optimization Best Practices",
+          "url": "https://uxplanet.org/mcp-optimization-best-practices-181dc750a790?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Just like APIs before it, MCP is quickly becoming a must-have for organizations building B2B and B2C digital products. Many organizations…Continue reading on UX Planet »",
+          "published_at": "2026-07-06T11:35:19"
+        },
+        {
+          "title": "The Hairline Border Trick: One CSS Property Doing Three Jobs",
+          "url": "https://uxplanet.org/the-css-hairline-border-trick-4c1d7c19dd05?source=rss----819cc2aaeee0---4",
+          "author": "Usman Writes",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Open the inspector on any Linear card, any Stripe input, any Vercel panel. Look for the border. Now look at the box-shadow property…Continue reading on UX Planet »",
+          "published_at": "2026-07-06T10:26:29"
         },
         {
           "title": "Vibe Coding Is a Dead End",
@@ -168,55 +223,55 @@
           "published_at": "2026-07-03T13:00:04"
         },
         {
-          "title": "微博上的品牌代言营销：一场“长期主义”的社交资产沉淀方法论",
-          "url": "https://www.woshipm.com/share/6424360.html",
-          "author": "左拉",
+          "title": "老板看到机会，团队看到风险：产品为何总慢半拍？",
+          "url": "https://www.woshipm.com/ai/6425658.html",
+          "author": "是湘湘呀",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "微博正在重塑品牌代言营销的游戏规则，从单向官宣走向深度共情。本文通过四大核心动作与三大原则，系统拆解如何借助热搜话题、蓝V互动与粉丝经济，将代言事件转化为兼具爆发力与长期价值的品牌资产。从超能双代言人矩阵的实践案例中，揭示流量时代品牌与用户建立情感联结的关键路径。当品牌代言从“官宣海报”迈入“粉丝共情”时代，微博正成为品牌与用户深度对话的核心阵地。本文从选人逻辑、预热蓄水、全域引爆、长期沉淀四个维...",
-          "published_at": "2026-07-06T03:48:55"
+          "summary": "当市场机会撞上组织惯性，企业如何打破'产品慢半拍'魔咒？本文深度剖析从客户需求到产品落地的致命断层——老板眼中的市场信号，如何被各部门翻译成风险评估清单。揭示FDE（前推工程师）如何通过场景拆解、MVP定义和30天验证，将战略机遇转化为可执行项目，助企业抢跑AI时代窗口期。01 你以为公司慢，是执行慢很多老板都有过类似时刻：你在客户现场、销售反馈、同行交流、展会聊天或者短视频评论区里，敏锐地感受到...",
+          "published_at": "2026-07-06T09:08:01"
         },
         {
-          "title": "从仓储业务角度理解算法",
-          "url": "https://www.woshipm.com/share/6425352.html",
-          "author": "会员",
+          "title": "家装设计师信任产品化：为什么你内容没人咨询、案例不转化？核心是缺失信任链路",
+          "url": "https://www.woshipm.com/share/6425494.html",
+          "author": "设计师阿朱",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从技术到产品，算法在仓储场景中的应用远比想象中更接地气。本文深度拆解条件判断、排序匹配与路径优化三大核心算法类型，揭示它们如何成为仓储系统的决策骨架。当AI浪潮席卷而来，传统算法与智能增强的黄金组合，正为产品经理提供更务实的业务解构视角。最早接触“算法”，还是在做前端开发的时候。那时候对算法的理解比较技术化，更多是停留在数据结构、逻辑判断、性能优化这些层面，知道它重要，但和业务之间的关系并没有真正...",
-          "published_at": "2026-07-06T03:48:48"
+          "summary": "家装设计师常陷入流量转化困境，根源在于缺失信任链路的构建。本文深度拆解如何通过专业信任、落地信任、人品信任和适配信任四层递进模型，将浏览转化为咨询。从内容配比到案例写法，揭秘2026年家装获客的核心竞争力——信任资产沉淀。很多家装设计师陷入一个非常尴尬的瓶颈：内容一直在发、案例一直在更、流量也有浏览，但收藏多、点赞多、咨询少、成交更少。大家习惯性把问题归结为：流量不够、平台不给推、客户太抠、行业内...",
+          "published_at": "2026-07-06T08:35:39"
         },
         {
-          "title": "运营做爆款的四个段位（2026）：从像素级复刻到 AI 一键换产品重生成",
-          "url": "https://www.woshipm.com/zhichang/6425302.html",
-          "author": "宗上聊运营",
+          "title": "支付宝 AI “阿宝”实测拆解，国民级 App 的 AI 化，产品/设计能学到什么？",
+          "url": "https://www.woshipm.com/evaluating/6425459.html",
+          "author": "AX 新设计",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "爆款内容背后的秘密不是运气，而是清晰的能力进阶路径。从青铜级的像素复刻到王者段的用户洞察，跨境运营者需要掌握四层能力：拆解爆款结构、迁移核心逻辑、预判趋势方向、深挖用户心理。本文不仅揭示每个段位的实战方法论，更教你如何用AI工具加速复刻流程，让投放效率与创意深度同步提升。每个做内容、做投放的人都想做爆款，但真正拆开看，大家追求的其实不是同一种能力。有的人能把别人的爆款像素级复刻出来，先跑通一个差不...",
-          "published_at": "2026-07-06T03:47:07"
+          "summary": "支付宝内测上线的'阿宝'AI助手标志着超级应用从工具型向对话型的重大转型。这款任务执行型产品通过'阿宝+资产'的分层架构、场景化执行策略和精细化的信任设计，重新定义了金融服务的交互范式。本文深度解析其四大核心设计决策，为各类产品AI助手开发提供可复用的方法论。最近支付宝内测上线了”阿宝” AI 助手，是蚂蚁集团推出的全球首个全端AI 化超级应用，核心是整个 App从传统的”工具型 App”向”对话...",
+          "published_at": "2026-07-06T08:35:15"
         },
         {
-          "title": "永续合约系统设计（三）：撮合引擎",
-          "url": "https://www.woshipm.com/pd/6425273.html",
-          "author": "Terry的思考笔记",
+          "title": "机器人“看花眼”怎么办？StableVLA破解机器人视觉干扰难题",
+          "url": "https://www.woshipm.com/ai/6425447.html",
+          "author": "机器最前线",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "永续合约中的撮合引擎远不止简单的买卖匹配，它是整个系统风险管理的核心枢纽。从订单准入门禁到中央限价订单簿的L4队列，本文深度解析撮合引擎如何将交易意图转化为全系统公认的市场事实，以及为何永续合约需要比传统交易更严格的撮合边界设计。前两篇文章分别讨论了永续合约的系统框架永续合约系统设计（一）：综述，以及定价引擎如何管理“价格使用权”永续合约系统设计（二）：定价引擎。这一篇继续往下看撮合引擎。觉得我的...",
-          "published_at": "2026-07-06T03:46:55"
+          "summary": "当机器人戴上沾满油污的眼镜，最先进的VLA模型竟会失灵？最新研究发现，问题的关键不在机器人的'大脑'，而在于连接视觉与语言的'翻译官'模块。星尘智能与顶尖高校提出的IB-Adapter方案，通过智能降噪机制实现了30%的性能飞跃，让5亿参数模型比肩70亿参数的表现。这不仅是技术突破，更是具身智能迈向真实世界的重要一步。如果给机器人戴上一副沾满油污的眼镜，它还能正常工作吗？对于人类来说，这似乎不是一...",
+          "published_at": "2026-07-06T08:33:20"
         },
         {
-          "title": "设计师作为”语义翻译者” 当AI生成界面时我怎么用规则锁住设计意图",
-          "url": "https://www.woshipm.com/ai/6425223.html",
-          "author": "阿基拉de_Akir",
+          "title": "总被业务刁难，数据分析师该怎么办？",
+          "url": "https://www.woshipm.com/share/6425518.html",
+          "author": "接地气的陈老师",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI开始参与界面设计，语义断层问题成为新的设计瓶颈。本文揭秘如何通过Schema-As-Code将设计规范转化为机器可读的YAML契约，建立语义令牌体系与不可变边界，从根源解决AI生成界面中的认知混乱问题。这套方法已在ChatGPT、文心一言等主流AI产品中验证其价值。阶段一通过语义快照诊断，发现了AI生成界面中的系统性语义断层：同一组件在不同场景下被混用同一套视觉规则，导致用户认知混乱。诊断报...",
-          "published_at": "2026-07-06T03:44:30"
+          "summary": "数据工作者常陷入业务与数据的认知鸿沟。从‘搞一个数’的轻率要求到‘预测为何不准’的甩锅质疑，本文犀利盘点8个高频刁难场景，揭露数据需求背后的沟通陷阱与职场PUA，更给出从BI系统推广到绩效管理的破局实操策略。做数据的同学们，你们在工作中被刁难过吗？有哪些问题是经常遇到，又让人恨得咬牙切齿的呢？从之前同学们吐槽的话题里，我精选了8个高频问题，今天一起来看一下。注意！前方高能，准备好降压药~问题1：“...",
+          "published_at": "2026-07-06T08:23:47"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 7,
+      "count": 15,
       "items": [
         {
           "title": "Users Don’t Need More Tools: They Need Seamless Integrations",
@@ -280,30 +335,138 @@
           "source": "A List Apart",
           "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
           "published_at": null
+        },
+        {
+          "title": "MONOLOG",
+          "url": "https://www.awwwards.com/sites/monolog",
+          "author": "Huy Nguyen",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Hildén & Kaira",
+          "url": "https://www.awwwards.com/sites/hilden-kaira",
+          "author": "Dylan Brouwer",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Radian",
+          "url": "https://www.awwwards.com/sites/radian",
+          "author": "UNCOMMON",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Bucks Sauce",
+          "url": "https://www.awwwards.com/sites/bucks-sauce",
+          "author": "Buzzworthy",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Units",
+          "url": "https://www.awwwards.com/sites/units",
+          "author": "Big Horror Athens",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Wembi",
+          "url": "https://www.awwwards.com/sites/wembi",
+          "author": "ET Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "NRG | Build Your Data Center",
+          "url": "https://www.awwwards.com/sites/nrg-build-your-data-center",
+          "author": "Rogue Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Meech213",
+          "url": "https://www.awwwards.com/sites/meech213",
+          "author": "The Blackpepper Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 6,
       "items": [
         {
-          "title": "CircleChat",
-          "url": "https://www.producthunt.com/products/circlechat",
-          "author": "Tash Ahmed",
+          "title": "Nixmac",
+          "url": "https://www.producthunt.com/products/nixmac",
+          "author": "Cooper Maruyama",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Give your AI agents a slack, a task board, and a bossDiscussion|Link",
-          "published_at": "2026-07-04T16:05:42"
+          "summary": "Nix-darwin that speaks plain EnglishDiscussion|Link",
+          "published_at": "2026-07-05T13:33:34"
         },
         {
-          "title": "Pennen",
-          "url": "https://www.producthunt.com/products/pennen",
-          "author": "Ishaan Rawat",
+          "title": "AirKaren",
+          "url": "https://www.producthunt.com/products/airkaren",
+          "author": "Ben Lang",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "One quiet handwritten page a day. No feed, no AI.Discussion|Link",
-          "published_at": "2026-07-03T21:30:43"
+          "summary": "AI that fights customer service for youDiscussion|Link",
+          "published_at": "2026-07-03T17:56:07"
+        },
+        {
+          "title": "Astryx",
+          "url": "https://www.producthunt.com/products/meta",
+          "author": "Zac Zuo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "A customizable, agent-ready open-source design systemDiscussion|Link",
+          "published_at": "2026-07-06T03:52:49"
+        },
+        {
+          "title": "Edgee Claude Code Compressor V2",
+          "url": "https://www.producthunt.com/products/edgee",
+          "author": "fmerian",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Fewer tokens, same context, 50% cost reductionDiscussion|Link",
+          "published_at": "2026-07-03T04:38:17"
+        },
+        {
+          "title": "Mozaik",
+          "url": "https://www.producthunt.com/products/mozaik-4",
+          "author": "Miodrag Vilotijević",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "TypeScript runtime for self-organizing AI agentsDiscussion|Link",
+          "published_at": "2026-07-05T12:31:38"
+        },
+        {
+          "title": "Stanley Studio",
+          "url": "https://www.producthunt.com/products/stanley-studio",
+          "author": "Daniel Park",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The AI video editor you hire that edits like a humanDiscussion|Link",
+          "published_at": "2026-07-06T03:37:29"
         }
       ]
     },
@@ -357,8 +520,8 @@
           "published_at": null
         },
         {
-          "title": "航旅纵横开屏变Banner，是创新还是干扰？",
-          "url": "https://www.uisdc.com/hunter/0221675842.html",
+          "title": "1 个导航hover动画，竟能同时完成了品牌宣发、产品推新和趣味体验",
+          "url": "https://www.uisdc.com/hunter/0221675954.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -372,49 +535,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Legibility of effort",
-          "url": "https://eieio.games/blog/legibility-of-effort/",
+          "title": "Understanding is the new bottleneck",
+          "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "LLMs have broken legibility of effort - our ability to tell, at a glance, whether something took a human real work. What happens next?",
-          "published_at": "2026-07-03T04:09:53"
+          "summary": "Agents can write code faster than we can absorb it. Here are some techniques for doing that efficiently.",
+          "published_at": "2026-07-06T07:55:08"
         },
         {
-          "title": "Artemis II Photo Timeline",
-          "url": "https://artemistimeline.com/#jeremy-hansen-suited-up-and-ready",
+          "title": "Greyscaler",
+          "url": "https://www.greyscala.xyz/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "An interactive photo timeline of NASA’s Artemis II mission — scrub through every crew moment, lunar flyby shot, and audio clip.",
-          "published_at": "2026-07-03T04:09:28"
+          "summary": "Generate premium grayscale design tokens in OKLCH.",
+          "published_at": "2026-07-06T07:53:57"
         },
         {
-          "title": "Fintech Engineering Handbook",
-          "url": "https://w.pitula.me/fintech-engineering-handbook/",
+          "title": "When should you know the point?",
+          "url": "https://www.lesswrong.com/posts/XhrmcafXqFn3e6nd8/when-should-you-know-the-point",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Patterns for building software that handles money.",
-          "published_at": "2026-07-03T04:08:55"
+          "summary": "Are activities motivated by an array of reasons much less useful than ones done with a distinct purpose?",
+          "published_at": "2026-07-06T07:53:36"
         },
         {
-          "title": "Principles in motion",
-          "url": "https://www.figma.com/blog/principles-in-motion/",
+          "title": "Code is the easy part",
+          "url": "https://swizec.com/blog/code-is-the-easy-part-or-how-we-refactored-half-the-business-to-fix-a-janky-script/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "When you’re designing motion, you’re designing with time. Understanding the mechanics turns movement into meaning.",
-          "published_at": "2026-07-03T04:08:20"
+          "summary": "Or how we refactored half the business to fix a janky script.",
+          "published_at": "2026-07-06T07:49:14"
         },
         {
-          "title": "Google Reader was building the wrong future",
-          "url": "https://buttondown.com/blog/google-reader",
+          "title": "Design systems are no longer optional",
+          "url": "https://mandy.dev/posts/design-systems-ai/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The app that taught us to directly follow our favorite creators.",
-          "published_at": "2026-07-03T04:06:53"
+          "summary": "Codebases deteriorate quickly when automated agents generate user interfaces without canonical constraints.",
+          "published_at": "2026-07-06T07:48:24"
         }
       ]
     },
@@ -422,6 +585,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "派评 | 近期值得关注的 App",
+          "url": "https://sspai.com/post/111999",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "published_at": "2026-07-06T10:06:11"
+        },
+        {
+          "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+          "url": "https://sspai.com/post/111113",
+          "author": "林十兄",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "但恰恰是这些取舍让我重新开始思考：什么才是真正重要的体验。查看全文",
+          "published_at": "2026-07-06T07:00:00"
+        },
+        {
+          "title": "自动给文章术语加百科链接，这个方案一分钟搞定",
+          "url": "https://sspai.com/post/111702",
+          "author": "CG艺术实验室",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "我给博客做了一个「术语小助手」，让陌生名词不再打断阅读。查看全文",
+          "published_at": "2026-07-06T03:30:41"
+        },
         {
           "title": "派早报：阿里禁用 Claude 模型",
           "url": "https://sspai.com/post/111973",
@@ -448,33 +638,6 @@
           "source": "少数派",
           "summary": "各位少数派的朋友好，距离上一次在少数派介绍1Capture已经过去一年。过去这段时间里，我们开发的这款Mac截图与录屏工具继续做了多轮更新，也根据用户反馈补齐了一些更适合团队协作和产品展示的功能。市场 ...查看全文",
           "published_at": "2026-07-04T07:55:48"
-        },
-        {
-          "title": "住久了没意思（四）：作为最「复合」的空间，客厅要为真实生活让路",
-          "url": "https://sspai.com/prime/story/how-to-design-a-rental-living-room",
-          "author": "程天冲",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "前文回顾：租房常见问题与我的改造原则从有光的地方开始动手打造能好好放松的卧室只要你的房子还有分区可言，那正常情况下就一定有一个可以称之为客厅的区域。在第一篇文章中我已经提到，对我们很多人来说，客厅可能 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "published_at": "2026-07-03T09:44:33"
-        },
-        {
-          "title": "本周看什么 | 最近值得一看的 11 部作品",
-          "url": "https://sspai.com/post/111917",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "📅本周新预告《奥德赛》终极预告7月1日，克里斯托弗·诺兰导演新作《奥德赛》发布了终极预告，北美7月17日、中国内地8月14日上映。马特·达蒙、汤姆·霍兰德、安妮·海瑟薇、赞达亚、露皮塔·尼永奥、罗伯特 ...查看全文",
-          "published_at": "2026-07-03T09:35:48"
-        },
-        {
-          "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-          "url": "https://sspai.com/post/111405",
-          "author": "Linery",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "敬「少许的牺牲是必要的」。查看全文",
-          "published_at": "2026-07-03T07:00:00"
         }
       ]
     }
