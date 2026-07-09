@@ -1,26 +1,25 @@
 {
   "date": "2026-07-09T00:00:00",
-  "total_items": 72,
+  "total_items": 64,
   "sources": [
-    "Design Milk",
-    "Awwwards",
-    "优设网",
-    "CSS-Tricks",
-    "少数派",
-    "UX Planet",
     "人人都是产品经理",
-    "Smashing Magazine",
+    "Design Milk",
     "Product Hunt",
+    "少数派",
+    "Smashing Magazine",
+    "优设网",
     "Sidebar",
-    "UX Design CC",
+    "A List Apart",
+    "CSS-Tricks",
+    "UX Planet",
     "NN/g (Nielsen Norman Group)",
-    "A List Apart"
+    "UX Design CC"
   ],
-  "generated_at": "2026-07-09T03:38:06.901216",
+  "generated_at": "2026-07-09T15:17:27.003998",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 17,
+      "count": 18,
       "items": [
         {
           "title": "The revolution was the easy part",
@@ -113,6 +112,24 @@
           "published_at": "2026-07-06T11:25:19"
         },
         {
+          "title": "Claude Code Workflow Tips After a Year of Daily Use",
+          "url": "https://uxplanet.org/claude-code-workflow-tips-after-a-year-of-daily-use-3dd1acdb1b6d?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Practical recommendations from a senior product designerContinue reading on UX Planet »",
+          "published_at": "2026-07-09T13:41:46"
+        },
+        {
+          "title": "Can Claude Fable 5 Replace Product Designers?",
+          "url": "https://uxplanet.org/can-claude-fable-5-replace-product-designers-5783b39e67f8?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Short answer: YesContinue reading on UX Planet »",
+          "published_at": "2026-07-09T11:18:50"
+        },
+        {
           "title": "Claude Code Plugins: Practical Guide",
           "url": "https://uxplanet.org/claude-code-plugins-practical-guide-ff6343c3cbda?source=rss----819cc2aaeee0---4",
           "author": "Nick Babich",
@@ -165,34 +182,16 @@
           "source": "UX Planet",
           "summary": "Just like APIs before it, MCP is quickly becoming a must-have for organizations building B2B and B2C digital products. Many organizations…Continue reading on UX Planet »",
           "published_at": "2026-07-06T11:35:19"
-        },
-        {
-          "title": "The Hairline Border Trick: One CSS Property Doing Three Jobs",
-          "url": "https://uxplanet.org/the-css-hairline-border-trick-4c1d7c19dd05?source=rss----819cc2aaeee0---4",
-          "author": "Usman Writes",
-          "category": "用户体验设计",
-          "source": "UX Planet",
-          "summary": "Open the inspector on any Linear card, any Stripe input, any Vercel panel. Look for the border. Now look at the box-shadow property…Continue reading on UX Planet »",
-          "published_at": "2026-07-06T10:26:29"
         }
       ]
     },
     {
       "category": "用户体验研究",
-      "count": 6,
+      "count": 5,
       "items": [
         {
           "title": "Crafting AI Explanations for Every Role in Your Enterprise",
           "url": "https://www.nngroup.com/articles/crafting-ai-explanations/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Stop Reporting UX Activity and Report Business Outcomes",
-          "url": "https://www.nngroup.com/articles/reporting-ux-business-outcomes/",
           "author": null,
           "category": "用户体验研究",
           "source": "NN/g (Nielsen Norman Group)",
@@ -242,6 +241,15 @@
       "count": 11,
       "items": [
         {
+          "title": "Slate’s First Collab Brings Crayola Colors to Its Customizable EV",
+          "url": "https://design-milk.com/slate-truck-crayola-wraps/",
+          "author": "Dalene Rovenstine",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Designed to be wrapped, the modular Slate Truck celebrates creativity and self-expression",
+          "published_at": "2026-07-09T13:00:52"
+        },
+        {
           "title": "A Layered Modern Farmhouse Takes Shape in North Vancouver",
           "url": "https://design-milk.com/a-north-vancouver-residence-and-pool-house-connected-by-landscape/",
           "author": "Leo Lei",
@@ -287,64 +295,55 @@
           "published_at": "2026-07-07T19:00:52"
         },
         {
-          "title": "Spinneybeck Turns Eelgrass Offcuts Into Modular Acoustic Wall Tiles",
-          "url": "https://design-milk.com/spinneybeck-sould-fragments-eelgrass-acoustic-wall-tiles/",
-          "author": "Dalene Rovenstine",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Søuld Fragments combine natural texture, acoustic performance, and circular design in a modular wall tile.",
-          "published_at": "2026-07-07T18:29:30"
-        },
-        {
-          "title": "主管休假我就慌，没有领导“兜底”的你，该怎么独立行走？",
-          "url": "https://www.woshipm.com/share/6427084.html",
-          "author": "知果日记",
+          "title": "【万字长文】3 个脚本、4 个 Skill、3 层防线：我的 AI 知识库是怎么一步步长出来的",
+          "url": "https://www.woshipm.com/ai/6427281.html",
+          "author": "Sean",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当设计主管休假时，一位后台产品设计师在方案评审会上遭遇了前所未有的挑战。这揭示了职场人常见的依赖心理：我们习惯于让他人为自己的决策兜底，却忽视了独立思维体系的构建。本文将剖析如何通过三个关键问题的自我审查，从被动执行转向主动思考，真正获得专业底气与决策能力。最近和一位设计师沟通，她跟我聊到一件事。她说她做方案一直有个习惯，做完先发给主管看一眼，主管说没问题，她才敢拿去评审。本来这也没什么。直到上个...",
-          "published_at": "2026-07-09T02:46:03"
+          "summary": "知识库管理如何从混乱走向高效？本文揭秘一套经过半年实战检验的解决方案：从目录结构重构到自动化脚本设计，从状态驱动到主题分类的巧妙平衡，再到四层深度讨论技能的打磨。这套系统不仅解决了知识分类的痛点，更通过AI与脚本的精准分工，实现了知识加工的效率革命。上一篇我聊了搭知识库这半年的认知变化——从“存文章”到“经营认知资产”，从“文章驱动”到“主题驱动”。这篇咱们聊聊具体的工程实操干货：目录怎么分、脚本...",
+          "published_at": "2026-07-09T10:44:21"
         },
         {
-          "title": "企业增长停滞，先别怪市场部！",
-          "url": "https://www.woshipm.com/share/6427077.html",
-          "author": "老泡",
+          "title": "软件的护城河，已经被 AI 打穿了",
+          "url": "https://www.woshipm.com/share/6427258.html",
+          "author": "ToB老人家",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "企业增长困境往往源于市场部职能错位——当传播执行与增长目标脱钩，热闹的市场动作便难以转化为实际业务成果。本文深度剖析市场部从内容输出者转型为增长驱动者的关键路径，揭示如何通过链路设计、指标升级与跨部门协同，让市场动作真正穿透用户决策全流程。很多企业的增长问题，是在任务被定义时就已经偏离：公司讨论的是增长，关注客户是否增加；但任务传到市场部后，往往变成了更新内容、运营账号、策划活动、配合销售物料等。...",
-          "published_at": "2026-07-09T02:37:42"
+          "summary": "AI 正在以惊人的速度重塑 SaaS 行业的竞争格局。一家年营收 5 亿的头部企业仅用 2 个月就完成 AI 原生应用的全面升级，这背后是软件实现方式和研发流程的革命性变革。但随之而来的，是传统功能护城河的加速崩塌。本文深度剖析 AI 时代软件公司如何通过沉淀行业 Know-how 构建新壁垒。上周，一位 SaaS 公司总裁来拜访我。他们是赛道头部，年营收超过 5 亿。他告诉我，他们只用了 2 个...",
+          "published_at": "2026-07-09T07:19:47"
         },
         {
-          "title": "不怕 AI 抢岗位，产品人最怕失去判断力",
-          "url": "https://www.woshipm.com/ai/6426934.html",
-          "author": "楊yang",
+          "title": "年度王牌方法论！“结构分析法”搞定九成分析场景",
+          "url": "https://www.woshipm.com/share/6427257.html",
+          "author": "接地气的陈老师",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI正以惊人的速度重塑产品经理的工作边界。当PRD撰写、原型制作等传统技能逐渐被AI接管，产品经理的核心竞争力正在向问题定义、机会判断和技术商业连接迁移。本文深度剖析AI时代产品经理的价值重构路径，揭示从执行者升级为决策者的10个关键思维转变。这段时间，我发现很多产品经理都在问同一个问题：AI 都能写 PRD、画原型、生成代码、做调研总结了，那产品经理到底还剩下什么？这个问题表面上是在问职业安全感...",
-          "published_at": "2026-07-09T02:09:55"
+          "summary": "结构分析法正在颠覆传统数据解读的无效循环。当平均数在营销侧失灵时，这种去平均化的祖传手艺能精准定位用户分层、商品分布与渠道健康度。本文详解从目标定位到形态总结的四步实操，揭秘如何用固定报表实现高效监测，终结‘临时取数’的恶性循环。你是不是觉得，平时做的日、周、月、季、年报没啥用？每天麻木地更新，发出来也没人看，需要数的时候还是临时取数？因为光有数据，没用配解读数据的方法！数字要读出含义才有价值。结...",
+          "published_at": "2026-07-09T07:16:30"
         },
         {
-          "title": "为什么越推AI，公司内耗越严重？",
-          "url": "https://www.woshipm.com/ai/6427003.html",
-          "author": "产品方法论集散地",
+          "title": "又有人来教微信怎么做产品了",
+          "url": "https://www.woshipm.com/share/6427237.html",
+          "author": "郭静",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当所有人都在讨论AI如何改变世界时，真实的职场里，AI正在悄无声息地撕裂团队——管理者想降本增效，员工担心\"亲手革自己的命\"；极客员工做出惊艳Demo，保守派却在\"看好戏\"式找茬；产研兴冲冲赋能业务，业务部门只觉得鸡肋。最近，我观察到了一个非常危险的现象。当所有人都在高歌猛进地讨论大模型、Agent、Vibe Coding 如何改变世界时，我所在的真实职场里，AI 并没有像想象中那样带来纯粹的效率...",
-          "published_at": "2026-07-09T01:40:13"
+          "summary": "微信再次因用户对‘临时好友’功能的讨论登上热搜，背后折射出14亿用户群体的需求分化困境。当‘面对面传照片’等现有功能遭遇认知鸿沟，这场全民产品讨论既暴露了信息不对称的社会现象，也展现了超级APP在功能迭代中的两难抉择。微信上热搜的次数真的高，要么是微信推出了新功能，要么是用户对微信的“吐槽”或建议，微信轻轻松松就能收获热搜榜首。最近，有一个跟微信相关的话题又被推上了热搜，即“微信能不能出一个临时好...",
+          "published_at": "2026-07-09T07:04:49"
         },
         {
-          "title": "字节Seedream 5.0 Pro正式发布，中国终于有了媲美OpenAI的图像生成大模型",
-          "url": "https://www.woshipm.com/ai/6426982.html",
-          "author": "亨亨",
+          "title": "不需要手机验证，如何使用Codex？",
+          "url": "https://www.woshipm.com/share/6427223.html",
+          "author": "伍德安思壮",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Seedream 5.0 Pro正式发布，国产图像模型终于追上了GPT-image-V2——中文小字排版不再乱码，世界知识理解到位，电商场景甚至更胜一筹。今天，我正准备关电脑，突然看到字节跳动官方账号发布了一条通知，图像生成模型Seedream 5.0 Pro正式发布。我心想，今天的觉又睡不成了，起来写评测吧。众所周知，在图像生成这方面，中美两地各开花，中国这头，就是字节 Seed 团队的生图大模...",
-          "published_at": "2026-07-09T01:35:34"
+          "summary": "Codex 的智能编程能力令人向往，但繁琐的登录流程却让许多开发者望而却步。本文提供三种实用方案：通过社区路由工具对接国内大模型、利用兼容OpenAI的中转服务、部署本地开源轻量模型，帮助开发者绕过验证直接体验AI编程。无论你是追求便捷的小白，还是注重安全的技术党，都能找到适合自己的解决方案。很多人想体验Codex的智能编程Agent能力，却一上来就被手机验证拦在门外。眼睁睁看着别人用AI落地项目...",
+          "published_at": "2026-07-09T06:36:46"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 15,
+      "count": 7,
       "items": [
         {
           "title": "Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas",
@@ -408,78 +407,6 @@
           "source": "A List Apart",
           "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
           "published_at": null
-        },
-        {
-          "title": "Julien Calot",
-          "url": "https://www.awwwards.com/sites/julien-calot",
-          "author": "FLOT NOIR",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Depo Luxe",
-          "url": "https://www.awwwards.com/sites/depo-luxe",
-          "author": "Cuchillo",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "MONOLOG",
-          "url": "https://www.awwwards.com/sites/monolog",
-          "author": "Huy Nguyen",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Hildén & Kaira",
-          "url": "https://www.awwwards.com/sites/hilden-kaira",
-          "author": "Dylan Brouwer",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Radian",
-          "url": "https://www.awwwards.com/sites/radian",
-          "author": "UNCOMMON",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Bucks Sauce",
-          "url": "https://www.awwwards.com/sites/bucks-sauce",
-          "author": "Buzzworthy",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Units",
-          "url": "https://www.awwwards.com/sites/units",
-          "author": "Big Horror Athens",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Wembi",
-          "url": "https://www.awwwards.com/sites/wembi",
-          "author": "ET Studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -488,49 +415,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Willow Frontier Pro",
-          "url": "https://www.producthunt.com/products/willow-voice",
-          "author": "Allan Guo",
+          "title": "Just Ask by SEORCE",
+          "url": "https://www.producthunt.com/products/seorce",
+          "author": "Prince Kushwaha",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The fastest, most accurate dictation model in the worldDiscussion|Link",
-          "published_at": "2026-07-08T01:32:13"
+          "summary": "Talk to your SEO & AI Visibility data on WhatsApp.Discussion|Link",
+          "published_at": "2026-07-08T09:13:36"
         },
         {
-          "title": "Bono AI",
-          "url": "https://www.producthunt.com/products/bono-ai",
-          "author": "Zeeshan Rasool",
+          "title": "Constellation Gate AI",
+          "url": "https://www.producthunt.com/products/gate-ai-2",
+          "author": "Benjamin Jorgensen",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Talk Once. Publish Everywhere.Discussion|Link",
-          "published_at": "2026-07-06T16:41:17"
+          "summary": "Prompt injection and token savings - #1 in benchmarksDiscussion|Link",
+          "published_at": "2026-07-08T16:11:45"
         },
         {
-          "title": "Link Preview API",
-          "url": "https://www.producthunt.com/products/link-preview-api",
-          "author": "johnny makes ⚡️",
+          "title": "Coasty",
+          "url": "https://www.producthunt.com/products/coasty",
+          "author": "Prateek J",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Free API to get Open Graph data, title & images for any URLDiscussion|Link",
-          "published_at": "2026-07-06T22:23:14"
+          "summary": "A Computer-Use-Agent that runs legacy software like a humanDiscussion|Link",
+          "published_at": "2026-07-08T18:52:30"
         },
         {
-          "title": "On-Device Field Extraction by Veryfi",
-          "url": "https://www.producthunt.com/products/veryfi",
-          "author": "Marianna Babayan",
+          "title": "Glimpse",
+          "url": "https://www.producthunt.com/products/glimpse-17",
+          "author": "Sven De Meyere",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Secure on-device extraction even if you're offlineDiscussion|Link",
-          "published_at": "2026-07-07T22:16:44"
+          "summary": "The competitive intelligence agentDiscussion|Link",
+          "published_at": "2026-07-07T18:57:55"
         },
         {
-          "title": "ExploreYC",
-          "url": "https://www.producthunt.com/products/yc-company-explorer",
-          "author": "Konstantin Borimechkov",
+          "title": "Monogram AI",
+          "url": "https://www.producthunt.com/products/monogram-ai",
+          "author": "Edouard Tabet",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Open-source API for Y Combinator & a16z company dataDiscussion|Link",
-          "published_at": "2026-07-07T08:04:56"
+          "summary": "AI with a visual and interactive interfaceDiscussion|Link",
+          "published_at": "2026-07-08T17:24:21"
         }
       ]
     },
@@ -584,8 +511,8 @@
           "published_at": null
         },
         {
-          "title": "Reve 2.0 揭秘：直接生成 PSD 源文件的AI模型长什么样？",
-          "url": "https://www.uisdc.com/hunter/0221676263.html",
+          "title": "受够了AI生成的短剧人脸都一样？LibTV虚拟角色库能救场",
+          "url": "https://www.uisdc.com/hunter/0221676250.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -599,49 +526,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Never mind the prompts, here’s the thinking",
-          "url": "https://uxdesign.cc/never-mind-the-prompts-heres-the-thinking-f4af4b92155f",
+          "title": "98% isn’t very much",
+          "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A year rebuilding my studio’s entire design process around AI. It didn’t make us faster, and that’s exactly why it worked.",
-          "published_at": "2026-07-08T05:26:12"
+          "summary": "Why a 98% browser support metric still excludes millions of users.",
+          "published_at": "2026-07-09T07:45:23"
         },
         {
-          "title": "Echo chamber: a healthy public square",
-          "url": "https://echo.logicaleap.com/?e=1.4&a=0&rho=0.1&h=0.8&n=150&od=6&seed=42&topo=ba&b=0&k=8&t=random&d=0&bp=1&co=1&sp=0&at=0&in=0&rl=0",
+          "title": "InkField Gallery",
+          "url": "https://ileivoivm.github.io/inkField/gallery/index.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How people end up in bubbles, and how easily a crowd can be split. A data visualization project.",
-          "published_at": "2026-07-08T05:25:18"
+          "summary": "A gallery of InkField JSON recordings — humans and agents learning from each other.",
+          "published_at": "2026-07-09T07:44:12"
         },
         {
-          "title": "Closing the verification loop",
-          "url": "https://thinkroom.kieranklaassen.com/d/njrS5TJhis",
+          "title": "Most AI work can wait",
+          "url": "https://tomtunguz.com/ai-execution-routing/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How a branch proves itself ready: browser reality, persona eyes, and fixes that carry their own evidence.",
-          "published_at": "2026-07-08T05:24:13"
+          "summary": "Prioritize routing over model choice. Most AI work runs on cheap local models.",
+          "published_at": "2026-07-09T07:43:39"
         },
         {
-          "title": "Astryx Design System",
-          "url": "https://astryx.atmeta.com/",
+          "title": "Paper Shaders",
+          "url": "https://shaders.paper.design/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "An open source design system that is fully customizable and agent ready.",
-          "published_at": "2026-07-08T05:23:19"
+          "summary": "Ultra-fast zero-dependency shaders for you to use in your projects, as React components or GLSL.",
+          "published_at": "2026-07-09T07:42:59"
         },
         {
-          "title": "A global workspace in language models",
-          "url": "https://www.anthropic.com/research/global-workspace",
+          "title": "Stop reporting UX activity and report business outcomes",
+          "url": "https://www.nngroup.com/articles/reporting-ux-business-outcomes/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Interpretability research on Claude’s internal thoughts.",
-          "published_at": "2026-07-08T05:22:47"
+          "summary": "UX teams should report business outcomes to show impact on revenue, cost, risk, speed, retention, and to secure resources.",
+          "published_at": "2026-07-09T07:42:20"
         }
       ]
     },
@@ -664,6 +591,24 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "TDS REVIEW | 小米耳夹式耳机体验",
+          "url": "https://sspai.com/post/112011",
+          "author": "KingTsui",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "这篇文章是TDSStudio在少数派上的第25篇文章，依然是全平台首发。小米也做了耳夹，其实是一件可以预料的事情，毕竟作为国内手机品牌中目前唯三愿意尝试挂耳式OWS形态的之一，他们显然是倾向于铺好全品 ...查看全文",
+          "published_at": "2026-07-09T09:30:00"
+        },
+        {
+          "title": "iOS 27 Beta 2 & 3 值得关注的新特性",
+          "url": "https://sspai.com/post/112083",
+          "author": "Vanilla",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "近段时间，Apple陆续推出了iOS27的两个DeveloperBeta测试版本，对第一个版本中的一些新功能进行了优化改进，同时也新增了一些系统特性。接下来，就让我们一起来看看吧。编注：AppleIn ...查看全文",
+          "published_at": "2026-07-09T07:49:58"
+        },
         {
           "title": "角落新声｜在陌生的城市里，寻找属于自己的角落",
           "url": "https://sspai.com/post/111983",
@@ -699,24 +644,6 @@
           "source": "少数派",
           "summary": "暑期将至，许多「大朋友、小朋友」都会选择在最近两个月内出游。在旅行的过程中，我们难免会遇到各种各样的问题，也会遇到各种各样令人心烦的琐事。如果你恰好在使用iPhone，不妨看看我如何从出发前、在路上、 ...查看全文",
           "published_at": "2026-07-08T07:14:26"
-        },
-        {
-          "title": "好的桌面需要设备，更需要灯光：明基×少数派线下店体验空间升级",
-          "url": "https://sspai.com/post/110993",
-          "author": "水獭Store",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "如果你最近正在考虑升级自己的桌面，或者想体验墨水屏显示器、屏幕挂灯、阅读灯在真实环境下的使用效果，欢迎来到少数派深圳线下体验店，坐下来试试看。查看全文",
-          "published_at": "2026-07-08T03:00:00"
-        },
-        {
-          "title": "派早报：Nothing Ear (3a) 发布、Meta 推出 Muse 图像生成模型等",
-          "url": "https://sspai.com/post/112049",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Google Voice 推出付费订阅方案并调整 Android 设备备份策略等。查看全文",
-          "published_at": "2026-07-07T23:48:25"
         }
       ]
     }
