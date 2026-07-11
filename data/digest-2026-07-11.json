@@ -1,21 +1,20 @@
 {
   "date": "2026-07-11T00:00:00",
-  "total_items": 63,
+  "total_items": 57,
   "sources": [
-    "优设网",
-    "A List Apart",
-    "Awwwards",
-    "少数派",
-    "UX Design CC",
-    "UX Planet",
-    "Product Hunt",
-    "Design Milk",
     "人人都是产品经理",
     "NN/g (Nielsen Norman Group)",
+    "优设网",
+    "Sidebar",
+    "Product Hunt",
+    "少数派",
+    "A List Apart",
     "Smashing Magazine",
-    "Sidebar"
+    "UX Planet",
+    "UX Design CC",
+    "Design Milk"
   ],
-  "generated_at": "2026-07-11T02:54:26.994390",
+  "generated_at": "2026-07-11T13:27:23.046387",
   "categories": [
     {
       "category": "用户体验设计",
@@ -175,7 +174,7 @@
     },
     {
       "category": "产品设计",
-      "count": 10,
+      "count": 11,
       "items": [
         {
           "title": "Martha Stewart’s Backyard Eggs Inspired Hachiman’s New Color Palette",
@@ -232,46 +231,55 @@
           "published_at": "2026-07-09T13:00:52"
         },
         {
-          "title": "阿里全面禁用Claude改用千问：为什么”吃自己的狗粮”是产品破局的唯一捷径？",
-          "url": "https://www.woshipm.com/share/6427758.html",
-          "author": "Allen潘",
+          "title": "实测GPT5.6，分享三个超实用Prompt，跟Fable5分工合作",
+          "url": "https://www.woshipm.com/ai/6427947.html",
+          "author": "卡尔的AI沃茨",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "今天（7月10日），阿里内部全面禁用Claude的通知正式生效，全员切换至自研的通义千问。表面看这是一场战略切割，但从产品视角来看，这或许是千问迎来质变的最好契机。今天我们就来聊聊，为什么\"吃自己的狗粮\"才是做产品的终极方法论。一、热点背后：阿里”断舍离”的产品逻辑就在今天，阿里7月3日下发的内部通知正式生效：全面禁用Anthropic旗下所有产品——包括Claude全系列模型和Claude Co...",
-          "published_at": "2026-07-11T00:20:07"
+          "summary": "OpenAI 这波更新彻底重构了产品矩阵——Codex 直接并入 ChatGPT 并划分为三大功能区，GPT-5.6 推出 Sol/Terra/Luna 三级模型体系，372K 上下文与 750 tokens/s 的速度刷新行业标准。更值得关注的是其红队审查、多模型编排等实战功能突破，以及提前曝光的 GPT-6 对标 Mythos 的战略布局。本文将深度解析这次升级如何重塑 AI 工具生态。这次O...",
+          "published_at": "2026-07-11T07:08:49"
         },
         {
-          "title": "ERP厂商，不卖软件，卖“思考”了",
-          "url": "https://www.woshipm.com/share/6427780.html",
-          "author": "产品真经",
+          "title": "为什么中国人这么喜欢哈兰德？",
+          "url": "https://www.woshipm.com/share/6427934.html",
+          "author": "寻空",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "SAP把Token包装成\"AI Units\"，Oracle按调用收费，用友金蝶也在跟进——ERP正从\"卖软件\"转向\"卖思考\"。Token按需消费，业务越复杂费用越高，厂商收入涨得越快，但企业从\"一次买断\"变成\"年年烧\"，买系统是一次痛，养系统是年年痛。ERP公司最开始卖 License，企业买断，部署在自己机房。后来云计算来了，厂商说别自己维护了，上云吧，于是 License 变成了 SaaS 订...",
-          "published_at": "2026-07-10T09:29:42"
+          "summary": "挪威前锋哈兰德在中国社交媒体爆红绝非偶然。从世界杯赛场上的统治级表现，到抖音上的反差萌互动，再到69元头绳的疯狂热销，这位足球巨星完美契合了中文互联网的造梗逻辑。本文将深度解析哈兰德现象背后的三重密码：硬核实力支撑、反差人设打造，以及对中国市场传播规律的精准把握。2026年7月6日，哈兰德梅开二度，挪威2比1淘汰巴西，历史首次闯入世界杯八强。赛后不到24小时，#哈兰德连发5条中文动态#登顶微博热搜...",
+          "published_at": "2026-07-11T06:25:55"
         },
         {
-          "title": "家装需求挖掘产品化：别再靠感觉做方案，真正的用户需求都藏在隐性场景里",
-          "url": "https://www.woshipm.com/share/6427607.html",
-          "author": "设计师阿朱",
+          "title": "从濒临破产、到获a16z领投的280万美元：一个AI开发工具如何打开普通人的产品创造力",
+          "url": "https://www.woshipm.com/share/6427930.html",
+          "author": "扬帆出海",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "业主说\"要极简\"，你做了开放式展示格，结果入住后杂物积灰、难打理——显性需求是\"好看\"，真实需求是\"省心\"。把产品经理的需求挖掘方法论平移到家装：先画用户画像，再拆高频场景，追问痛点溯源，最后帮用户做取舍。做家装设计久了，会发现一个很反常识的现象：很多被业主推翻的方案、落地翻车的工地、入住后悔的设计，根本不是审美问题，也不是技术问题，而是需求挖错了。绝大多数设计师的需求沟通，停留在“业主说什么、就...",
-          "published_at": "2026-07-10T09:02:17"
+          "summary": "从濒临破产到获280万美元融资，Rork的逆袭揭开了Vibe Coding时代的序幕。这款通过自然语言生成移动应用的AI工具，正在让零代码基础的普通人也能快速实现创意。当开发门槛被彻底击穿，我们看到18岁大学生靠摔跤AI应用月入13万，也目睹建筑CEO用AI搭建内部管理系统。这场技术平权运动背后，是开发逻辑从‘怎么写代码’转向‘要做什么’的根本变革。两位20多岁的小伙，几乎因为资金链断裂而放弃创业...",
+          "published_at": "2026-07-11T06:21:55"
         },
         {
-          "title": "被狂热追捧的AI 「医疗神迹」，正在复刻硅谷「坏血骗局」",
-          "url": "https://www.woshipm.com/ai/6427625.html",
-          "author": "道总有理",
+          "title": "OpenAI、Grok、Meta三大模型先后发布，谁是性价比之王？",
+          "url": "https://www.woshipm.com/ai/6427923.html",
+          "author": "有界UnKnown",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI\"手搓\"疫苗救回患癌爱犬、车库实验室里诞生阿尔茨海默候选药——这些\"医学奇迹\"越刷屏，越令人不安。当一位程序员用GPT-4给自闭症儿子做出沟通App，孩子突然说出\"我真的非常爱你\"，温情背后是被夸大的AI作用：它更多是信息整合，而非真正的研发创新。近日，一位匿名国外 AI 工程师在个人博客里记录了一件事，他花费两小时给自闭症的儿子做了个沟通应用 App，一个四年来基本不说话的孩子，突然可以用完...",
-          "published_at": "2026-07-10T08:45:22"
+          "summary": "美国大模型市场正掀起一场性价比革命！Grok-4.5、Muse Spark 1.1和GPT-5.6三款新品集体降价提能，OpenAI甚至推出三档分级方案。本文通过编码能力、专业场景测试和价格对比，揭晓谁才是真正的性价比之王，并解析中国模型如何用价格优势倒逼美国巨头变革。一夜之间，美国大模型集体上新了。先是SpaceX AI/X AI，率先发布了Grok-4.5；然后是Meta推出Muse Spar...",
+          "published_at": "2026-07-11T06:02:27"
+        },
+        {
+          "title": "传统PLM已死，新一代PLM由谁定义？",
+          "url": "https://www.woshipm.com/share/6427919.html",
+          "author": "坤少说",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "全球PLM产业正面临历史性拐点，CIMdata与Gartner报告揭示平台化、智能化与跨学科协同正重塑行业格局。本文深度剖析西门子Teamcenter的集成优势与国产PLM的差异化突围路径，揭示AI时代下产品创新平台的四大核心特征。前不久，全球两大分析机构CIMdata、Gartner一致指出：传统PLM走向终点，下一代PLM的核心将聚焦平台化、智能化与跨学科协同。对于国产PLM而言，这个趋势既充...",
+          "published_at": "2026-07-11T05:54:12"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 16,
+      "count": 8,
       "items": [
         {
           "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
@@ -344,120 +352,57 @@
           "source": "A List Apart",
           "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
           "published_at": null
-        },
-        {
-          "title": "21 Hrs On The Moon",
-          "url": "https://www.awwwards.com/sites/21-hrs-on-the-moon",
-          "author": "Studio 28K",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Brunello Cucinelli - AI E-com",
-          "url": "https://www.awwwards.com/sites/brunello-cucinelli-ai-e-com",
-          "author": "makemepulse",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Julien Calot",
-          "url": "https://www.awwwards.com/sites/julien-calot",
-          "author": "FLOT NOIR",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Depo Luxe",
-          "url": "https://www.awwwards.com/sites/depo-luxe",
-          "author": "Cuchillo",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "MONOLOG",
-          "url": "https://www.awwwards.com/sites/monolog",
-          "author": "Huy Nguyen",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Hildén & Kaira",
-          "url": "https://www.awwwards.com/sites/hilden-kaira",
-          "author": "Dylan Brouwer",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Radian",
-          "url": "https://www.awwwards.com/sites/radian",
-          "author": "UNCOMMON",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Bucks Sauce",
-          "url": "https://www.awwwards.com/sites/bucks-sauce",
-          "author": "Buzzworthy",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "ChatCut",
-          "url": "https://www.producthunt.com/products/chatcut-ai-video-editor",
-          "author": "Zac Zuo",
+          "title": "San Fran Sim",
+          "url": "https://www.producthunt.com/products/san-fran-sim",
+          "author": "Daniel Kempe",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your AI video editor in ChatGPT, desktop, and webDiscussion|Link",
-          "published_at": "2026-07-09T06:50:16"
+          "summary": "A startup tycoon gameDiscussion|Link",
+          "published_at": "2026-07-10T08:07:45"
         },
         {
-          "title": "StoryChief Connect",
-          "url": "https://www.producthunt.com/products/storychief-io",
-          "author": "Valeri Potchekailov",
+          "title": "SoundPipe",
+          "url": "https://www.producthunt.com/products/soundpipe",
+          "author": "Chris Battarbee",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Publish content from Claude to your website and socialsDiscussion|Link",
-          "published_at": "2026-07-09T10:43:58"
+          "summary": "SoundPipe is a mixing board for your MacDiscussion|Link",
+          "published_at": "2026-07-10T22:27:30"
         },
         {
-          "title": "GPT-5.6",
-          "url": "https://www.producthunt.com/products/openai",
-          "author": "Rajiv Ayyangar",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "A new standard for intelligence and efficiencyDiscussion|Link",
-          "published_at": "2026-07-09T17:08:01"
-        },
-        {
-          "title": "Muse Spark 1.1 by Meta AI",
-          "url": "https://www.producthunt.com/products/muse-spark-1-1-by-meta",
+          "title": "ChatGPT Work",
+          "url": "https://www.producthunt.com/products/chatgpt-work",
           "author": "Adithya Shreshti",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Multimodal reasoning model built for agentic tasksDiscussion|Link",
-          "published_at": "2026-07-09T15:01:28"
+          "summary": "Partner for your most ambitious workDiscussion|Link",
+          "published_at": "2026-07-09T17:16:44"
+        },
+        {
+          "title": "Cloudflare Drop",
+          "url": "https://www.producthunt.com/products/cloudflare",
+          "author": "Rohan Chaubey",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Drop your folder in browser & deploy instantly on CloudflareDiscussion|Link",
+          "published_at": "2026-07-08T17:36:25"
+        },
+        {
+          "title": "Basedash SCIM",
+          "url": "https://www.producthunt.com/products/basedash",
+          "author": "Max Musing",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Your org changes. Access keeps up.Discussion|Link",
+          "published_at": "2026-07-11T02:40:25"
         }
       ]
     },
@@ -577,6 +522,15 @@
       "count": 6,
       "items": [
         {
+          "title": "暴雨和洪涝的季节，这些技巧助你从容自保",
+          "url": "https://sspai.com/post/68024",
+          "author": "刀客特Leslie",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "面对暴雨、内涝等自然灾害，你应该做什么准备？有人溺水时，该如何正确救援？这篇文章帮你掌握一些必要的知识，面对危情不再慌乱。查看全文",
+          "published_at": "2026-07-11T07:05:21"
+        },
+        {
           "title": "本周看什么 | 最近值得一看的 8 部作品",
           "url": "https://sspai.com/post/112169",
           "author": "少数派编辑部",
@@ -620,15 +574,6 @@
           "source": "少数派",
           "summary": "这篇文章是TDSStudio在少数派上的第25篇文章，依然是全平台首发。小米也做了耳夹，其实是一件可以预料的事情，毕竟作为国内手机品牌中目前唯三愿意尝试挂耳式OWS形态的之一，他们显然是倾向于铺好全品 ...查看全文",
           "published_at": "2026-07-09T09:30:00"
-        },
-        {
-          "title": "iOS 27 Beta 2 & 3 值得关注的新特性",
-          "url": "https://sspai.com/post/112083",
-          "author": "Vanilla",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "近段时间，Apple陆续推出了iOS27的两个DeveloperBeta测试版本，对第一个版本中的一些新功能进行了优化改进，同时也新增了一些系统特性。接下来，就让我们一起来看看吧。编注：AppleIn ...查看全文",
-          "published_at": "2026-07-09T07:49:58"
         }
       ]
     }
