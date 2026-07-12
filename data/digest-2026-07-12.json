@@ -1,25 +1,53 @@
 {
   "date": "2026-07-12T00:00:00",
-  "total_items": 53,
+  "total_items": 63,
   "sources": [
-    "优设网",
-    "UX Planet",
-    "Product Hunt",
-    "UX Design CC",
-    "A List Apart",
-    "Smashing Magazine",
     "Sidebar",
-    "Design Milk",
-    "人人都是产品经理",
     "NN/g (Nielsen Norman Group)",
-    "少数派"
+    "A List Apart",
+    "UX Planet",
+    "UX Design CC",
+    "Smashing Magazine",
+    "Awwwards",
+    "Product Hunt",
+    "优设网",
+    "少数派",
+    "人人都是产品经理",
+    "Design Milk"
   ],
-  "generated_at": "2026-07-12T03:19:59.816878",
+  "generated_at": "2026-07-12T13:28:12.571468",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 7,
+      "count": 11,
       "items": [
+        {
+          "title": "The interface has left the building",
+          "url": "https://uxdesign.cc/the-interface-has-left-the-building-8fdb558d33a9?source=rss----138adf9c44c---4",
+          "author": "Om Prakash",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How chat, voice, and agentic AI are rewriting the first principles of UX designNote: I used AI tools to refine grammar and phrasing in this article. Every idea, argument, and example is drawn from my ...",
+          "published_at": "2026-07-12T09:30:16"
+        },
+        {
+          "title": "Did you verify that — or was it just too easy to believe?",
+          "url": "https://uxdesign.cc/did-you-verify-that-or-was-it-just-too-easy-to-believe-664ff017a1a1?source=rss----138adf9c44c---4",
+          "author": "Dora Czerna",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The quote was fake, yet the outrage was real. While we argued about it, the water, the power and the public money slipped by unwatched.The line was almost too neat, which should have been the first wa...",
+          "published_at": "2026-07-12T09:28:48"
+        },
+        {
+          "title": "The Kintsugi problem",
+          "url": "https://uxdesign.cc/the-kintsugi-problem-7f5e5cbfb442?source=rss----138adf9c44c---4",
+          "author": "Takuma Kakehi",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The most important design decisions aren’t made when everything works — they’re made when it doesn’t.Continue reading on UX Collective »",
+          "published_at": "2026-07-12T09:28:24"
+        },
         {
           "title": "Craft still matters, but it’s about outcomes",
           "url": "https://uxdesign.cc/craft-still-matters-but-its-not-about-pixels-anymore-ai-can-help-you-keep-it-e542cac33d12?source=rss----138adf9c44c---4",
@@ -46,6 +74,15 @@
           "source": "UX Design CC",
           "summary": "DesignOps is shifting from governing human-led process to orchestrating human and AI technology towards ethical, meaningful outcomes.Continue reading on UX Collective »",
           "published_at": "2026-07-09T16:23:55"
+        },
+        {
+          "title": "How to Design a Production-Ready Dashboard with Claude Code",
+          "url": "https://uxplanet.org/how-to-design-a-production-ready-dashboard-with-claude-code-9a78c4585981?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Dashboards are one of the best ways to test the real product-design capabilities of Claude Code.Continue reading on UX Planet »",
+          "published_at": "2026-07-12T10:23:19"
         },
         {
           "title": "7 Design Rules That Take 10 Minutes to Learn and Fix Your UI Forever",
@@ -204,55 +241,55 @@
           "published_at": "2026-07-09T13:00:52"
         },
         {
-          "title": "纵向深读loop eginerring，时代洪流下如何reflection！",
-          "url": "https://www.woshipm.com/ai/6427806.html",
-          "author": "庄懒懒",
+          "title": "用数据分析挖掘业务机会，结果太棒了",
+          "url": "https://www.woshipm.com/share/6428180.html",
+          "author": "接地气的陈老师",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从Harness Engineering到Loop Engineering，AI工程领域正经历概念爆炸式增长。本文深度解析谷歌提出的Loop Engineering框架，拆解其六大核心组件如何通过自动化工作流、独立环境隔离、技能封装等机制，实现AI代理从单次任务执行到持续智能进化的质变。最近AI圈继harness engineering后刚4个月左右的时间，又出现了一个为各方大佬频繁讨论的loop...",
-          "published_at": "2026-07-12T02:32:41"
+          "summary": "数据分析师常陷入'就数论数'的困境，本文通过电商平台真实案例，犀利指出业务机会挖掘的本质：必须紧扣'业务行动-指标改善'的闭环。从执果寻因到按图索骥，深度解析如何通过矩阵分析、标杆测试等方法，将冰冷数据转化为可落地的增长策略。从数据中，挖掘出业务机会点，是很多公司对数据分析师的要求。然而到底啥是机会点？到底要怎么挖？很少有人详细讲解过，也让很多同学困扰。今天结合一个具体问题讲解一下。问题场景：某电...",
+          "published_at": "2026-07-12T12:55:13"
         },
         {
-          "title": "很多 AI 产品死得快，是因为价值站得太浅",
-          "url": "https://www.woshipm.com/ai/6427914.html",
-          "author": "AI陆小凤",
+          "title": "资历深≠能力强：为什么你工作10年，简历却像个”高级打杂”？",
+          "url": "https://www.woshipm.com/share/6428179.html",
+          "author": "知果日记",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI工具的爆发式迭代正在重塑产品经理的角色定位。当底层模型不断吞噬独立产品价值时，真正的护城河不再是技术套壳，而是深度嵌入业务流程的系统判断力。本文通过2024-2026年AI产品演化路径，揭示从知识库搭建、任务自动化到结果问责的三大能力跃迁点。最近 AI 圈确实很热闹，先是 Claude Fable 5 发布，没多久又开始出现访问限制、计费变化和账号风控。我自己也被波及了一次，说实话，很难不想吐...",
-          "published_at": "2026-07-12T01:45:16"
+          "summary": "当10年工作经验被评价为'像2年'时，问题往往出在简历的成果表达上。本文通过真实案例拆解资深产品经理的简历通病：堆砌职责却隐藏价值。从'200万营收被忽略'的细节切入，揭示面试官真正想看到的不是工作内容罗列，而是可量化的业务影响力和可迁移的方法论。面试官说：”我看完你的简历，感觉你就像只干了2年。”你有没有遇到过这样的场景：投了上百份简历，回复寥寥无几。偶尔拿到一个面试机会，面试官翻着你的简历，皱...",
+          "published_at": "2026-07-12T12:52:38"
         },
         {
-          "title": "家装设计师竞品思维：摆脱同质化内卷，用差异化定位拿到优质客户",
-          "url": "https://www.woshipm.com/share/6427886.html",
-          "author": "设计师阿朱",
+          "title": "互金运营认知-ETF线上增长的本质可能是互联网地推",
+          "url": "https://www.woshipm.com/pd/6428046.html",
+          "author": "飞飞飞菲",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在家装设计这个红海市场，90%的设计师正陷入同质化竞争的泥潭。本文从产品经理的竞品分析视角出发，揭示行业普遍存在的三大短板：内容停留表面、服务缺乏标准、方案千篇一律。更重要的是，提供了四种可直接落地的差异化定位模型和实战公式，帮助设计师精准切入空白赛道，建立不可替代的专业壁垒。在家装行业，几乎所有新人乃至从业多年的设计师，都会陷入同一个困境：作品不差、服务不差、专业度不低，但始终抢不过同行、留不住...",
-          "published_at": "2026-07-12T00:59:48"
+          "summary": "ETF运营的战场正在从品牌建设转向流量截获，如同在游乐场门口卖水而非商场专柜。用户需求即时爆发时，谁能在三秒内提供最便捷的入口，谁就能赢得这场闪电战。本文深度拆解ETF作为交易型快消品的运营逻辑，揭示如何通过场景劫持、货架垄断等实战策略，在AI时代重构金融产品的增长方法论。思考：ETF不是理财产品，是交易型工具。推广它，逻辑不是在商超开专柜，而是在游乐场、球赛门口摆摊卖水。用户有明确且强烈的即时需...",
+          "published_at": "2026-07-12T08:47:32"
         },
         {
-          "title": "实测GPT5.6，分享三个超实用Prompt，跟Fable5分工合作",
-          "url": "https://www.woshipm.com/ai/6427947.html",
-          "author": "卡尔的AI沃茨",
+          "title": "知识库和 Prompt 都有了，企业为什么还需要多 Agent？",
+          "url": "https://www.woshipm.com/ai/6427966.html",
+          "author": "Tuer AI",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "OpenAI 这波更新彻底重构了产品矩阵——Codex 直接并入 ChatGPT 并划分为三大功能区，GPT-5.6 推出 Sol/Terra/Luna 三级模型体系，372K 上下文与 750 tokens/s 的速度刷新行业标准。更值得关注的是其红队审查、多模型编排等实战功能突破，以及提前曝光的 GPT-6 对标 Mythos 的战略布局。本文将深度解析这次升级如何重塑 AI 工具生态。这次O...",
-          "published_at": "2026-07-11T07:08:49"
+          "summary": "企业AI助手正从知识问答迈向跨系统任务执行，多Agent架构成为解决复杂流程的关键。本文深度剖析了从单Agent到多Agent的演进逻辑，揭示知识库与Prompt的局限，以及如何通过责任划分、流程设计和协作机制，构建真正可靠的企业级AI任务执行系统。企业智能助手上线前，最容易做出效果的是知识问答。团队接入制度、产品手册和业务文档，再配置 Prompt，报销标准、产品参数等问题基本都能回答。上线后，...",
+          "published_at": "2026-07-12T07:49:55"
         },
         {
-          "title": "为什么中国人这么喜欢哈兰德？",
-          "url": "https://www.woshipm.com/share/6427934.html",
-          "author": "寻空",
+          "title": "「拉新、裂变、直播、私域」——别看玩法名，要看能力组合",
+          "url": "https://www.woshipm.com/operate/6427977.html",
+          "author": "Zoe产品手记",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "挪威前锋哈兰德在中国社交媒体爆红绝非偶然。从世界杯赛场上的统治级表现，到抖音上的反差萌互动，再到69元头绳的疯狂热销，这位足球巨星完美契合了中文互联网的造梗逻辑。本文将深度解析哈兰德现象背后的三重密码：硬核实力支撑、反差人设打造，以及对中国市场传播规律的精准把握。2026年7月6日，哈兰德梅开二度，挪威2比1淘汰巴西，历史首次闯入世界杯八强。赛后不到24小时，#哈兰德连发5条中文动态#登顶微博热搜...",
-          "published_at": "2026-07-11T06:25:55"
+          "summary": "「电商产品能力拆解」第 10 篇 · 营销玩法下篇。上篇讲清楚了营销需求不要急着换皮肤做交互，要先拆诉求、目标和链路。下篇继续往后走：当目标和链路拆清楚后，拉新、裂变、内容、直播、私域这些常见玩法，分别要落到哪些产品能力上？上线前又最容易在哪些地方翻车？先看一个“同样叫裂变，系统模型完全不同”的需求上篇的小A 刚学会了不直接接“页面”和“动效”，又遇到一个新需求：“新品首发要做裂变，老客分享给新客...",
+          "published_at": "2026-07-12T06:39:21"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 8,
+      "count": 16,
       "items": [
         {
           "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
@@ -325,31 +362,85 @@
           "source": "A List Apart",
           "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
           "published_at": null
+        },
+        {
+          "title": "Longbow",
+          "url": "https://www.awwwards.com/sites/longbow",
+          "author": "Digital Butlers",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Vectr",
+          "url": "https://www.awwwards.com/sites/vectr",
+          "author": "Utsubo",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "21 Hrs On The Moon",
+          "url": "https://www.awwwards.com/sites/21-hrs-on-the-moon",
+          "author": "Studio 28K",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Brunello Cucinelli - AI E-com",
+          "url": "https://www.awwwards.com/sites/brunello-cucinelli-ai-e-com",
+          "author": "makemepulse",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Julien Calot",
+          "url": "https://www.awwwards.com/sites/julien-calot",
+          "author": "FLOT NOIR",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Depo Luxe",
+          "url": "https://www.awwwards.com/sites/depo-luxe",
+          "author": "Cuchillo",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "MONOLOG",
+          "url": "https://www.awwwards.com/sites/monolog",
+          "author": "Huy Nguyen",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Hildén & Kaira",
+          "url": "https://www.awwwards.com/sites/hilden-kaira",
+          "author": "Dylan Brouwer",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 2,
       "items": [
-        {
-          "title": "ChatGPT Work",
-          "url": "https://www.producthunt.com/products/chatgpt-work",
-          "author": "Adithya Shreshti",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Partner for your most ambitious workDiscussion|Link",
-          "published_at": "2026-07-09T17:16:44"
-        },
-        {
-          "title": "Basedash SCIM",
-          "url": "https://www.producthunt.com/products/basedash",
-          "author": "Max Musing",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Your org changes. Access keeps up.Discussion|Link",
-          "published_at": "2026-07-11T02:40:25"
-        },
         {
           "title": "San Fran Sim",
           "url": "https://www.producthunt.com/products/san-fran-sim",
@@ -360,13 +451,13 @@
           "published_at": "2026-07-10T08:07:45"
         },
         {
-          "title": "SoundPipe",
-          "url": "https://www.producthunt.com/products/soundpipe",
-          "author": "Chris Battarbee",
+          "title": "Basedash SCIM",
+          "url": "https://www.producthunt.com/products/basedash",
+          "author": "Max Musing",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "SoundPipe is a mixing board for your MacDiscussion|Link",
-          "published_at": "2026-07-10T22:27:30"
+          "summary": "Your org changes. Access keeps up.Discussion|Link",
+          "published_at": "2026-07-11T02:40:25"
         }
       ]
     },
@@ -420,8 +511,8 @@
           "published_at": null
         },
         {
-          "title": "豆包输入法优化系统设置，用小细节挽回卸载率",
-          "url": "https://www.uisdc.com/hunter/0221675833.html",
+          "title": "一句话让AI帮你建歌单，但Spotify真正的巧思藏在每首歌旁边那行小字里",
+          "url": "https://www.uisdc.com/hunter/0221676677.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
