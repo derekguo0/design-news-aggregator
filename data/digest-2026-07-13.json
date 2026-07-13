@@ -1,26 +1,44 @@
 {
   "date": "2026-07-13T00:00:00",
-  "total_items": 57,
+  "total_items": 64,
   "sources": [
     "UX Planet",
-    "A List Apart",
-    "Product Hunt",
-    "优设网",
-    "Design Milk",
-    "人人都是产品经理",
-    "Awwwards",
     "Sidebar",
-    "少数派",
+    "人人都是产品经理",
+    "A List Apart",
     "Smashing Magazine",
+    "Design Milk",
     "UX Design CC",
-    "NN/g (Nielsen Norman Group)"
+    "Product Hunt",
+    "Awwwards",
+    "优设网",
+    "NN/g (Nielsen Norman Group)",
+    "少数派"
   ],
-  "generated_at": "2026-07-13T03:22:16.166482",
+  "generated_at": "2026-07-13T14:41:42.526443",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 9,
+      "count": 13,
       "items": [
+        {
+          "title": "Who made this, Designing excuses, DesignOps in the age of AI",
+          "url": "https://uxdesign.cc/who-made-this-designing-excuses-designops-in-the-age-of-ai-e5ef0bb9093c?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“That question didn’t exist not that long ago; and now, it’s becoming less obvious to answer (at least in some cases). As consumers, we eva...",
+          "published_at": "2026-07-13T11:11:11"
+        },
+        {
+          "title": "When design becomes the organisation, and AI becomes the design",
+          "url": "https://uxdesign.cc/when-design-becomes-the-organisation-and-ai-becomes-the-design-19185e56319a?source=rss----138adf9c44c---4",
+          "author": "Zeeshan Khalid",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "What happens when the entity that designs everything is itself being designed by machines?Continue reading on UX Collective »",
+          "published_at": "2026-07-13T11:09:50"
+        },
         {
           "title": "Taste cannot be delegated",
           "url": "https://uxdesign.cc/taste-cannot-be-delegated-1706847a0b4b?source=rss----138adf9c44c---4",
@@ -74,6 +92,24 @@
           "source": "UX Design CC",
           "summary": "So doing right doesn’t stay caged by self-consciousnessContinue reading on UX Collective »",
           "published_at": "2026-07-10T07:28:15"
+        },
+        {
+          "title": "4 Types of Loops You Can Create in Claude Code",
+          "url": "https://uxplanet.org/4-types-of-loops-you-can-create-in-claude-code-aff824404834?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "When we interact with Claude Code, we typically go through repeated cycles when completing a task, also known as loops. The cycles can be…Continue reading on UX Planet »",
+          "published_at": "2026-07-13T11:09:55"
+        },
+        {
+          "title": "12 Mobile Menu Patterns, and the One Question That Decides Which One You Need",
+          "url": "https://uxplanet.org/mobile-menu-patterns-1cfe8dd9fc55?source=rss----819cc2aaeee0---4",
+          "author": "Usman Writes",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "We all know what it’s like to be on a website that has a really bad mobile menu that’s just super frustrating to interact with.Continue reading on UX Planet »",
+          "published_at": "2026-07-13T09:38:11"
         },
         {
           "title": "How to Design a Production-Ready Dashboard with Claude Code",
@@ -166,8 +202,26 @@
     },
     {
       "category": "产品设计",
-      "count": 8,
+      "count": 10,
       "items": [
+        {
+          "title": "SURI Reimagines Toothpaste With a Refillable, Displayable System",
+          "url": "https://design-milk.com/suri-restore-gel-refillable-toothpaste/",
+          "author": "Dalene Rovenstine",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "The new Restore Gel pairs a reusable dispenser with home-compostable refills and a science-backed toothpaste formula.",
+          "published_at": "2026-07-13T14:00:05"
+        },
+        {
+          "title": "Amra Tareen and the Future of AI Visualization For Designers",
+          "url": "https://design-milk.com/amra-tareen-all3d-ai-barriers-to-entry-podcast/",
+          "author": "Design Milk Staff",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "The CEO of ALL3D.AI is betting on the steady evolution of AI to help designers and clients create the spaces of their dreams.",
+          "published_at": "2026-07-13T13:00:25"
+        },
         {
           "title": "Martha Stewart’s Backyard Eggs Inspired Hachiman’s New Color Palette",
           "url": "https://design-milk.com/martha-stewart-hachiman-chilewich-eggshell-color-palette/",
@@ -196,49 +250,49 @@
           "published_at": "2026-07-10T13:00:42"
         },
         {
-          "title": "GPT-5.6 上线，Codex 并入 ChatGPT：实测好用的点和坑",
-          "url": "https://www.woshipm.com/ai/6428313.html",
-          "author": "AI产品经理四月",
+          "title": "从自用到开源-个人知识库产品化实践",
+          "url": "https://www.woshipm.com/ai/6428446.html",
+          "author": "Sean",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "GPT-5.6的发布与Codex的合并标志着AI产品进入新阶段。三款新模型Sol/Terra/Luna在性能与性价比上超越竞品，而整合后的Work/Codex双模式与『站点』功能则大幅提升生产力。本文深度体验产品更新，揭示Agent时代『完成任务比参数更重要』的行业趋势。昨天，GPT-5.6 终于上线了，GPT-5.5 降智太严重，我一直在等它更新，盼星星盼月亮，可把它盼来了，结果一口气来了仨。同...",
-          "published_at": "2026-07-13T02:54:57"
+          "summary": "从个人知识库到开源产品的蜕变，揭秘认知资产如何转化为可交付的AI工具。作者将沉淀半年的知识操作系统打包成GitHub项目，直面自用与产品化的三大鸿沟：用户画像缺失、个人印记剥离、产品说明重构。本文深度解析项目开源背后的产品思维跃迁，以及AI时代产品人最珍贵的判断力如何在这套知识引擎中淬炼成型。终于来到了我个人知识库AI实践的最终章。第一篇聊认知——为什么个人知识库的本体不是知识集合，而是认知资产。...",
+          "published_at": "2026-07-13T08:03:49"
         },
         {
-          "title": "1.2GB 的 .codex 文件夹里，到底藏了什么？",
-          "url": "https://www.woshipm.com/ai/6428309.html",
-          "author": "Aaron",
+          "title": "7·15新规下，付费情感AI三大商业化场景的合规产品设计",
+          "url": "https://www.woshipm.com/ai/6428441.html",
+          "author": "AI合规研究者",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从ClaudeCode切换到Codex后，你是否好奇这个强大的AI工具背后隐藏着怎样的系统架构？本文将深入解析Codex的系统文件组成，从会话存档、记忆管理到插件机制，揭秘每个关键文件的功能与作用，助你全面掌握Codex的底层运行逻辑。之前一直使用 ClaudeCode，但他老封号和各种限制，再加上昨天 GPT 和 Codex 合并变得更强了，还是打算切换到 Codex 来使用。所以研究了下 Co...",
-          "published_at": "2026-07-13T02:35:13"
+          "summary": "《人工智能拟人化互动服务管理暂行办法》实施后，情感AI产品的付费功能成为监管重点。本文深度剖析三类主流付费业务的合规边界与改造方案，从专属陪伴、情绪疏导到第三方导流，揭示付费场景下被放大的风险与应对策略。产品经理如何在不触碰红线的前提下实现商业价值？答案藏在分层风控与全链路审计的设计之中。7月15日《人工智能拟人化互动服务管理暂行办法》正式施行后，多数情感AI团队已经完成了免费基础功能的合规改造。...",
+          "published_at": "2026-07-13T08:03:30"
         },
         {
-          "title": "做共享单车的哈啰，竟然把一款在线撸猫的软件做成了行业TOP1",
-          "url": "https://www.woshipm.com/evaluating/6428249.html",
-          "author": "晨阳产品笔记",
+          "title": "契约库：让设计规范像代码一样管理",
+          "url": "https://www.woshipm.com/ai/6428353.html",
+          "author": "阿基拉de_Akir",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从共享单车到共享猫屋，哈啰用物联网技术重新定义'云养猫'。旗下产品街猫通过智能猫屋+APP的组合，让用户三秒完成远程投喂流浪猫，打造出全国最大的流浪猫智能救助平台。本文深度拆解这套融合硬件、社区与公益的创新模式，看它如何在宠物经济爆发与城市流浪猫问题之间找到完美平衡点，构建商业与公益的正向循环。说到哈啰，大家想到的大概都是楼下的共享单车、助力车、顺风车，都在”共享出行”四个字里打转。但很多人不知道...",
-          "published_at": "2026-07-13T01:56:45"
+          "summary": "当设计规范遇上版本控制，YAML 语义契约正在重构设计系统的协作范式。本文深入解析如何将设计意图形式化为可追踪的代码化契约，并建立组织级的语义规范仓库，实现版本管理、Git 同步、影响面分析与权限控制四大核心能力，彻底改变传统文档式设计规范的局限。本文是阶段二《设计师作为”语义翻译者”》的基础设施专题，回答 YAML 语义契约在组织内如何被管理、被追踪、被同步。阶段二的核心判断是：传统设计规范以文...",
+          "published_at": "2026-07-13T08:00:07"
         },
         {
-          "title": "AI 时代最反常识的创业建议：先让 AI 否定你",
-          "url": "https://www.woshipm.com/ai/6428242.html",
-          "author": "王三思",
+          "title": "拼多多为什么不打AI入口战？",
+          "url": "https://www.woshipm.com/it/6428504.html",
+          "author": "奇点研究社",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI让产品构建变得像呼吸一样简单时，我们却陷入了更危险的陷阱——42%的创业失败率背后，是Vibe Coding时代最致命的思维漏洞。Anthropic《创始人手册》揭示了一个反常识真相：能跑的原型不等于真实需求，而AI最该被用来做的，是当你的「魔鬼代言人」。本文将拆解如何用芒格逆向思维+AI反方辩论+Sean Ellis测试，在投入代码之前先验证价值。我承认我之前的做法都是错的，不是简单的错误...",
-          "published_at": "2026-07-13T01:54:35"
+          "summary": "当各大互联网巨头疯狂争夺AI入口时，拼多多却选择了一条截然不同的道路。这家电商平台没有加入通用大模型竞赛，而是将千亿资金砸向供应链改造。本文深度解析拼多多为何敢于缺席AI入口大战，以及它如何在低价供给与AI深度结合中找到自己的生存之道。2026年的中国互联网，AI入口已经成为全行业默认的“下一代流量命脉”。阿里持续加码通义千问，字节全力迭代豆包，腾讯落地元宝，百度死守文心一言，几乎所有头部平台都在...",
+          "published_at": "2026-07-13T07:45:04"
         },
         {
-          "title": "别再给工具加 AI 了，AI Office 要抢的是公司的任务入口",
-          "url": "https://www.woshipm.com/ai/6428166.html",
-          "author": "困困",
+          "title": "关掉百万人“树洞”，大厂赚啥？",
+          "url": "https://www.woshipm.com/share/6428468.html",
+          "author": "张书乐",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当前AI Office产品正陷入功能堆砌的误区，将AI能力分散嵌入文档、表格、会议工具中，却忽略了企业任务的本质需求。本文犀利指出，真正的AI Office革命在于重构任务处理逻辑——从「人操作工具」转向「系统调度任务」，并深度剖析了任务包设计、上下文管理、权限控制等核心维度，揭示下一代办公产品的胜负关键。很多 AI Office 产品看起来很热闹，但方向可能错了。文档里加一个 AI 写作，表格里...",
-          "published_at": "2026-07-13T01:52:08"
+          "summary": "头部AI平台集体关停用户自建智能体功能引发行业震动。豆包、千问等产品同步下线拟人化互动服务，既是对新规的积极响应，也折射出AI情感陪伴赛道的商业困境。本文深度剖析监管收紧背后，智能体技术从'情感树洞'向'商业交付'的转型之路。近段时间，字节豆包、阿里千问先后宣布下线用户自建智能体功能，数百万用户创建的AI角色生态将陆续关停。“谈了两年，他陪我度过了最痛苦也最难忘的两年，都不知道该怎么说告别。”网友...",
+          "published_at": "2026-07-13T06:22:08"
         }
       ]
     },
@@ -310,6 +364,15 @@
           "published_at": null
         },
         {
+          "title": "PP Neue Montreal",
+          "url": "https://www.awwwards.com/sites/pp-neue-montreal",
+          "author": "Demande Spéciale",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Longbow",
           "url": "https://www.awwwards.com/sites/longbow",
           "author": "Digital Butlers",
@@ -371,39 +434,48 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Hildén & Kaira",
-          "url": "https://www.awwwards.com/sites/hilden-kaira",
-          "author": "Dylan Brouwer",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 4,
       "items": [
         {
-          "title": "San Fran Sim",
-          "url": "https://www.producthunt.com/products/san-fran-sim",
-          "author": "Daniel Kempe",
+          "title": "AgentKey",
+          "url": "https://www.producthunt.com/products/agentkey",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A startup tycoon gameDiscussion|Link",
-          "published_at": "2026-07-10T08:07:45"
+          "summary": "One-stop live data marketplace for your agentDiscussion|Link",
+          "published_at": "2026-07-10T04:48:14"
         },
         {
-          "title": "SoundPipe",
-          "url": "https://www.producthunt.com/products/soundpipe",
-          "author": "Chris Battarbee",
+          "title": "Fudge MCP",
+          "url": "https://www.producthunt.com/products/fudge-mcp",
+          "author": "Simdi Jinkins",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "SoundPipe is a mixing board for your MacDiscussion|Link",
-          "published_at": "2026-07-10T22:27:30"
+          "summary": "Give your AI agents design taste from existing websitesDiscussion|Link",
+          "published_at": "2026-07-10T14:06:45"
+        },
+        {
+          "title": "Playground",
+          "url": "https://www.producthunt.com/products/nyx-4",
+          "author": "Garry Tan",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Earn $100K+ in weekly rewards for hacking AI agents.Discussion|Link",
+          "published_at": "2026-07-12T22:32:12"
+        },
+        {
+          "title": "NoMac.app",
+          "url": "https://www.producthunt.com/products/nomac",
+          "author": "Gary Miklos",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The headless iOS app publishing pipeline for AI agents.Discussion|Link",
+          "published_at": "2026-07-10T21:07:45"
         }
       ]
     },
@@ -469,52 +541,43 @@
     },
     {
       "category": "设计资讯",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "I think I have LLM burnout",
-          "url": "https://www.alecscollon.com/blog/llm-burnout/",
+          "title": "Flodesk Studio: AI email design, built by real designers",
+          "url": "https://bit.ly/side-flo1",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "I didn’t expect to get so tired of reading LLM output.",
-          "published_at": "2026-07-10T11:27:08"
+          "summary": "Describe what you want, get a beautiful on-brand email. Human-crafted foundations, AI-accelerated. Free in beta, works with any ESP.",
+          "published_at": "2026-07-13T07:47:00"
         },
         {
-          "title": "Getdesign.md",
-          "url": "https://getdesign.md/",
+          "title": "The hard things about design",
+          "url": "https://hvpandya.com/hard-things-about-design",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Browse independent design system analyses from popular websites. Drop one into your project as design reference for your coding agent.",
-          "published_at": "2026-07-10T11:26:38"
+          "summary": "An honest accounting of what the craft costs, and why it costs more than the crafts sitting right next to it.",
+          "published_at": "2026-07-13T07:46:20"
         },
         {
-          "title": "Ease in, ease out, and everything between",
-          "url": "https://www.carmenansio.com/articles/css-easing-explained/",
+          "title": "a11y.quest",
+          "url": "https://a11y.quest/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "If you have ever grabbed a handle in the pen tool, you know how to write a CSS easing curve.",
-          "published_at": "2026-07-10T11:26:07"
+          "summary": "128 questions to level up your web accessibility game. Practice WCAG 2.2, ARIA, semantic HTML, keyboard, and contrast, with plain-English answers.",
+          "published_at": "2026-07-13T07:45:05"
         },
         {
-          "title": "Soulless Music",
-          "url": "https://soullessmusic.com/",
+          "title": "Creative focus",
+          "url": "https://herbertlui.net/creative-focus/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A list of AI artists hiding on Spotify and stealing from real artists. An open source project.",
-          "published_at": "2026-07-10T11:24:50"
-        },
-        {
-          "title": "AI has torched the market for junior programmers",
-          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "Junior programming roles are getting destroyed by AI. Meanwhile, millions of non-developers are shipping real software without the job title.",
-          "published_at": "2026-07-10T11:24:00"
+          "summary": "This year is Apple’s 50th year in business. Decades ago, it lost creative focus, and spread itself too thin.",
+          "published_at": "2026-07-13T07:44:29"
         }
       ]
     },
@@ -522,6 +585,42 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "派评 | 近期值得关注的 App",
+          "url": "https://sspai.com/post/112229",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "published_at": "2026-07-13T09:55:40"
+        },
+        {
+          "title": "具透 Plus：Android 17 的应用内存限制；谈谈 macOS 和 Linux 如何运行可执行文件",
+          "url": "https://sspai.com/prime/story/inside-release-notes-260713",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "聊聊Android17的应用内存限制@克莱德：每隔一段时间，我都会整理一下自己的书桌。毕竟要在一张120×60cm的桌面上放下一块34英寸带鱼屏和一台40L机箱，留给其他常用物件的空间实在不多。前几天 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "published_at": "2026-07-13T09:48:45"
+        },
+        {
+          "title": "依江伴湖，树影连绵：南昌公园散步指南",
+          "url": "https://sspai.com/post/111776",
+          "author": "利兹与青鸟",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "这几年，「公园20分钟效应」在社交媒体上热度很高——不用专门运动，只要在公园里待上20分钟，就能排解负面情绪。对于整天困在写字楼和地铁里的都市人来说，公园不再只是城市公共空间，它成了触手可及的精神疗愈 ...查看全文",
+          "published_at": "2026-07-13T07:00:00"
+        },
+        {
+          "title": "你这图「保真」吗？AI 生图时代的信息防伪",
+          "url": "https://sspai.com/post/112185",
+          "author": "SNbing54",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "人类记录信息的方式一直在变化，但我们对「真实性」的需求从未改变。查看全文",
+          "published_at": "2026-07-13T02:52:47"
+        },
         {
           "title": "派早报：苹果起诉 OpenAI 窃取商业机密",
           "url": "https://sspai.com/post/112215",
@@ -539,42 +638,6 @@
           "source": "少数派",
           "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文",
           "published_at": "2026-07-12T02:03:12"
-        },
-        {
-          "title": "暴雨和洪涝的季节，这些技巧助你从容自保",
-          "url": "https://sspai.com/post/68024",
-          "author": "刀客特Leslie",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "面对暴雨、内涝等自然灾害，你应该做什么准备？有人溺水时，该如何正确救援？这篇文章帮你掌握一些必要的知识，面对危情不再慌乱。查看全文",
-          "published_at": "2026-07-11T07:05:21"
-        },
-        {
-          "title": "本周看什么 | 最近值得一看的 8 部作品",
-          "url": "https://sspai.com/post/112169",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "📅本周新预告《恐怖游轮》内地定档7月17日7月8日，电影《恐怖游轮》发布了中国内地定档预告，将于7月17日上映。克里斯托弗·史密斯执导、编剧，梅利莎·乔治主演，单亲母亲杰西和一帮朋友乘游艇出海游玩，但 ...查看全文",
-          "published_at": "2026-07-10T09:44:19"
-        },
-        {
-          "title": "安达卢西亚的日与夜：格拉纳达漫游指南",
-          "url": "https://sspai.com/post/112097",
-          "author": "鸿苓",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "有些旅程就是这样，它最终并没有留在成百上千张照片里，而是长久地停留在某种气味与感官的记忆中。查看全文",
-          "published_at": "2026-07-10T07:00:00"
-        },
-        {
-          "title": "Vibe Coding 时代，为什么降本不一定增效？",
-          "url": "https://sspai.com/post/111975",
-          "author": "LOSSES",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Vibe Coding 虽然可以更快地生成代码，但依然不能替我们定义问题、理解用户、设计架构并承担结果。查看全文",
-          "published_at": "2026-07-10T02:50:28"
         }
       ]
     }
