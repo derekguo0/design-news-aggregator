@@ -1,25 +1,43 @@
 {
   "date": "2026-07-14T00:00:00",
-  "total_items": 58,
+  "total_items": 66,
   "sources": [
-    "Awwwards",
-    "Product Hunt",
-    "少数派",
-    "UX Planet",
-    "A List Apart",
-    "优设网",
     "UX Design CC",
+    "优设网",
+    "Design Milk",
+    "Awwwards",
+    "少数派",
+    "A List Apart",
+    "UX Planet",
+    "人人都是产品经理",
     "NN/g (Nielsen Norman Group)",
     "Sidebar",
-    "人人都是产品经理",
-    "Design Milk"
+    "Product Hunt"
   ],
-  "generated_at": "2026-07-14T02:46:26.462615",
+  "generated_at": "2026-07-14T13:51:56.797568",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 13,
+      "count": 15,
       "items": [
+        {
+          "title": "Play and design: in favour of the novel digital experience",
+          "url": "https://uxdesign.cc/play-and-design-in-favour-of-the-novel-digital-experience-ea4798a2f621?source=rss----138adf9c44c---4",
+          "author": "Zacharia C.",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Design used to let us wander; modernity replaced that wandering with efficiency — now, every product decides where you’ll end up before…Continue reading on UX Collective »",
+          "published_at": "2026-07-14T11:02:36"
+        },
+        {
+          "title": "What 32 design leaders do when told to move faster",
+          "url": "https://uxdesign.cc/what-32-design-leaders-do-when-told-to-move-faster-9c8d46c90319?source=rss----138adf9c44c---4",
+          "author": "Kai Wong",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The Greeks knew the answer to this problem, 2300 years agoContinue reading on UX Collective »",
+          "published_at": "2026-07-14T11:00:41"
+        },
         {
           "title": "The terminal became my canvas",
           "url": "https://uxdesign.cc/the-terminal-became-my-canvas-18af0740f650?source=rss----138adf9c44c---4",
@@ -93,13 +111,13 @@
           "published_at": "2026-07-12T09:28:24"
         },
         {
-          "title": "Craft still matters, but it’s about outcomes",
-          "url": "https://uxdesign.cc/craft-still-matters-but-its-not-about-pixels-anymore-ai-can-help-you-keep-it-e542cac33d12?source=rss----138adf9c44c---4",
-          "author": "Patrick Neeman",
+          "title": "The One UX Decision That Makes Your App Feel 10x Faster Without Touching a Single Line of Backend…",
+          "url": "https://uxplanet.org/loading-states-ux-patterns-9e8d2d45fa3c?source=rss----819cc2aaeee0---4",
+          "author": "Usman Writes",
           "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "The craft never lived in the metal. When the medium changed, judgment moved to a new address.AI moved craft from production to judgment; the same tools can help you protect it, if you describe your st...",
-          "published_at": "2026-07-11T13:29:41"
+          "source": "UX Planet",
+          "summary": "Every time your app loads something, your user feels something. Frustration. Confidence. Impatience. Relief. You don’t get to opt out of…Continue reading on UX Planet »",
+          "published_at": "2026-07-14T09:41:59"
         },
         {
           "title": "I Tested 20 Popular Claude Code Skills. Most of Them Were Useless.",
@@ -201,8 +219,17 @@
     },
     {
       "category": "产品设计",
-      "count": 8,
+      "count": 9,
       "items": [
+        {
+          "title": "Jordan Soderberg Mills Transforms a Historic Chapel With Light",
+          "url": "https://design-milk.com/jordan-soderberg-mills-brussels-chapel-prismatic-windows/",
+          "author": "Elizabeth Pagliacolo",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "The Canadian artist's intervention in the Gothic church makes magic of transparent laboratory-grade glass.",
+          "published_at": "2026-07-14T13:00:12"
+        },
         {
           "title": "Explore a Modern Michigan Home Designed Around a Rare Porsche Collection",
           "url": "https://design-milk.com/a-michigan-house-designed-for-a-collector-of-bourbon-whiskey-and-rare-porsches/",
@@ -231,49 +258,49 @@
           "published_at": "2026-07-13T13:00:25"
         },
         {
-          "title": "商业化产品经理，是怎么解决素材推送排队的",
-          "url": "https://www.woshipm.com/share/6428755.html",
-          "author": "Allen",
+          "title": "AI搜索监测平台Profound是如何成为GEO赛道独角兽的？",
+          "url": "https://www.woshipm.com/share/6429463.html",
+          "author": "Hanni",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "商业化素材推送过程中，投手频繁遭遇素材排队问题，表面看是系统性能瓶颈，实则暗藏重复推送的隐形浪费。本文深入剖析从渠道API对接到批量搭建的全链路，揭示如何通过一个关键的前置判断，实现视频ID的智能复用，一举解决投手效率、系统负载和API调用的三重痛点。投手先反馈：素材一直卡在排队中最近在做商业化素材链路时，投手反馈了一个很具体的问题：素材推送太慢，高峰期一直在排队我们的系统对接快手渠道 API，可...",
-          "published_at": "2026-07-14T02:16:33"
+          "summary": "Profound 以黑马姿态闯入 GEO 监测赛道，成立仅 18 个月便跻身独角兽行列。这家神秘公司如何通过 AI 搜索效果可视化工具俘获 Target、沃尔玛等巨头？其核心产品 Prompt Volume 数据库又藏着哪些商业密码？本文将揭开 Profound 从数据监测到营销平台进化的秘密，并探讨国内企业的替代方案。国外很多AI引用源研究和行业报告，都采用或引用过Profound的数据，知名“...",
+          "published_at": "2026-07-14T10:49:32"
         },
         {
-          "title": "Prompt 写得越好，AI 的短板暴露得越快",
-          "url": "https://www.woshipm.com/ai/6428749.html",
-          "author": "AI Second",
+          "title": "【跨境产品实战笔记10】大结局：从“做产品”到“带兵打仗”，产品总监的团队绩效与跨部门协作天条",
+          "url": "https://www.woshipm.com/ai/6429204.html",
+          "author": "骞说跨境",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI志愿填报的痛点究竟出在哪里？作者通过178轮对话复盘发现，prompt质量只是冰山一角。从完美示范到典型错误案例，揭秘让AI高效协作的三大黄金法则，更意外发现产品能力边界才是终极瓶颈。当prompt遇上能力天花板，我们究竟该如何决策？上一篇写完后，我心里一直有个疙瘩：这些 AI 出现的各种问题，会不会其实是我自己 prompt 没写好？于是我把整个志愿填报过程中，与各个 AI 沟通产生的五份会...",
-          "published_at": "2026-07-14T02:11:03"
+          "summary": "产品团队从3人扩到10人，PM和运营开始互甩锅——这是跨境电商从\"草台班子\"到\"产品铁军\"的必经阵痛。作者用爆款存活率、生命周期总毛利、退货率控制、节点准时率四个硬性KPI，把PM从\"开发工具人\"变成\"商业价值负责人\"；再用\"无数据不立项\"\"产销对赌\"\"库存熔断\"三大天条，终结结构性内耗。过去几个月，我们从选品的蛛丝马迹聊到合规生死线，从写一份滴水不漏的 PRD 聊到成熟期的 VAVE 成本重构。...",
+          "published_at": "2026-07-14T08:36:43"
         },
         {
-          "title": "再谈婚恋中的产品思想：商业模式篇",
-          "url": "https://www.woshipm.com/share/1106720.html",
-          "author": "率剑士",
+          "title": "AI 时代更值钱的 5 种能力",
+          "url": "https://www.woshipm.com/share/6429282.html",
+          "author": "林骥",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "八年前用产品思维解构恋爱还带着书生意气，如今在社会毒打后重谈这个话题已多了几分现实考量。本文从商业模式视角重构婚恋全流程：从渠道通路的相亲战术到价值主张的战略定位，从客户关系的相处之道到成本结构的防骗指南，用产品经理的理性思维为你拆解当代婚恋市场的生存法则。八年前，写过这样一篇文章《恋爱中的产品实战攻略：如何用产品思想谈恋爱》，那时候初出社会，书生意气期待挥斥方遒，有意可访问我主页查看。主要讲了“...",
-          "published_at": "2026-07-14T01:57:17"
+          "summary": "数字素养帮你识破AI包装的专业感，问题定义能力决定AI建议有没有用，创造力重新定义价值而非增加产量，推理能力守住\"看起来有道理\"和\"真的有道理\"之间的防线，韧性让你在熟悉的技能突然贬值时重新锚定自己。当工具越来越强，人的核心竞争力，只剩判断力。AI 变得越来越强，很多人都有一种很强的危机感：我的工作会不会被 AI 替代？公司会不会用 AI 把我裁了？我现在学的这些技能，还能撑几年？说实话，我也有这...",
+          "published_at": "2026-07-14T08:35:05"
         },
         {
-          "title": "Vibe Coding从0到N：5个AI队友差点把家拆了（2）",
-          "url": "https://www.woshipm.com/ai/6428470.html",
-          "author": "嘻嘻李",
+          "title": "拆解爆款：多模态内容理解流水线的设计、选型与落地",
+          "url": "https://www.woshipm.com/ai/6429135.html",
+          "author": "Miles",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从AI编程的甜蜜期到残酷的现实，Vibe Coding之路远非想象中那么轻松。本文赤裸裸地揭露了从产品上线到持续运营过程中的七大深坑——从技术债的连环爆雷、跨浏览器兼容性噩梦，到成本失控、推广碰壁，再到多AI协作的版本管理灾难。每一个坑都是血泪教训，每一段经历都在重新定义人机协作的边界。做出来只是开始，改起来才知道什么叫真正的折磨开篇：为什么要写下篇上篇文章写了怎么从0到1快速做出一个产品。看完后...",
-          "published_at": "2026-07-14T01:49:47"
+          "summary": "竞品内容拿回来了，怎么拆？作者搭了一条从mp4到结构化知识库的流水线：ASR转写、动态抽帧、LLM标注、交叉互动数据——但核心不是\"哪个模型更好\"，而是\"产出形态决定管线选择\"。端到端做深度拆解，解耦做批量知识库；评测不看benchmark分，看标签能不能区分爆款和平款。验证不是一次性打分，是管线自己的反馈循环。这篇文章回答：数据拿回来了，怎么拆。文章一讲了三层架构。这一篇以某小红书AI博主71条...",
+          "published_at": "2026-07-14T08:33:36"
         },
         {
-          "title": "从岚图汽车大数据实践，看数据驱动业务的五个关键词",
-          "url": "https://www.woshipm.com/share/6428626.html",
-          "author": "Victoria",
+          "title": "是时候该给Token算算ROI的账了",
+          "url": "https://www.woshipm.com/ai/6429214.html",
+          "author": "硅基观察Pro",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "岚图汽车的数字化转型案例揭示了数据驱动业务的核心逻辑：从战略清晰到数据治理，再到生态构建。汽车行业与数字孪生领域竟有惊人共通之处——都需要先解决‘为什么做’，再思考‘如何做’。本文将拆解岚图‘新快强全破’战略框架与三步走实施路径，为B端产品经理提供跨行业的数字化转型方法论。最近看了岚图汽车大数据专家雷亮东在2023第二届汽车数字化转型大会上的分享视频——“探索数据驱动业务发展之道”，时长不到半小时...",
-          "published_at": "2026-07-14T01:35:55"
+          "summary": "从创新指标到成本黑洞，Token正成为企业AI部署的痛点。德勤数据显示年收入130亿美元的企业AI投入或达7亿美元，而Jellyfish调研揭示高Token消耗与生产力提升严重失衡。当OpenAI等厂商的收费模式遭遇CEO集体质疑，模型分层与成本效率正重塑行业格局。谁能想到，AI时代最先爆炸的，不是员工的生产力，而是老板的账单。去年，Token 消耗还是企业拥抱 AI、代表创新能力的指标。结果到了...",
+          "published_at": "2026-07-14T08:17:58"
         }
       ]
     },
@@ -333,6 +360,15 @@
           "category": "网页设计",
           "source": "A List Apart",
           "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
+          "published_at": null
+        },
+        {
+          "title": "House of Honey",
+          "url": "https://www.awwwards.com/sites/house-of-honey-1",
+          "author": "Edoardo Lunardi",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
           "published_at": null
         },
         {
@@ -397,30 +433,57 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "MONOLOG",
-          "url": "https://www.awwwards.com/sites/monolog",
-          "author": "Huy Nguyen",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 1,
+      "count": 5,
       "items": [
         {
-          "title": "TailMux",
-          "url": "https://www.producthunt.com/products/tailmux",
-          "author": "Claudio Quaglia",
+          "title": "Branda",
+          "url": "https://www.producthunt.com/products/branda-open-source-on-brand-ad-maker",
+          "author": "Yahia Bakour",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Multiple Tailscale tailnets at once, no switching + no VMDiscussion|Link",
-          "published_at": "2026-07-13T06:32:29"
+          "summary": "Turn any domain into on-brand ads, MIT Open SourceDiscussion|Link",
+          "published_at": "2026-07-14T02:16:02"
+        },
+        {
+          "title": "loopclub",
+          "url": "https://www.producthunt.com/products/loopclub",
+          "author": "Theo Gonella",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The shared drum machine to jam with strangers or with ClaudeDiscussion|Link",
+          "published_at": "2026-07-13T14:15:15"
+        },
+        {
+          "title": "Goose Ads Remixer",
+          "url": "https://www.producthunt.com/products/gooseworks",
+          "author": "Garry Tan",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Remix the ads already winning in your nicheDiscussion|Link",
+          "published_at": "2026-07-12T09:28:15"
+        },
+        {
+          "title": "Flyout",
+          "url": "https://www.producthunt.com/products/flyout",
+          "author": "Görkem Yıldırım",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Rich-text notes that fly out from your Mac's screen edgeDiscussion|Link",
+          "published_at": "2026-07-13T10:10:46"
+        },
+        {
+          "title": "Trump Accounts",
+          "url": "https://www.producthunt.com/products/trump-accounts",
+          "author": "Chris Messina",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Build long-term financial security for your childDiscussion|Link",
+          "published_at": "2026-07-12T02:57:39"
         }
       ]
     },
@@ -474,8 +537,8 @@
           "published_at": null
         },
         {
-          "title": "靠文字描述改图太痛苦？去看看火山引擎的带位置提示词吧",
-          "url": "https://www.uisdc.com/hunter/0221676827.html",
+          "title": "品牌视觉总是流于表面？你需要学学这招意象叠加",
+          "url": "https://www.uisdc.com/hunter/0221676977.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -486,43 +549,52 @@
     },
     {
       "category": "设计资讯",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Flodesk Studio: AI email design, built by real designers",
-          "url": "https://bit.ly/side-flo1",
+          "title": "The people who will thrive in the AI age",
+          "url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/?gift=bmvUiu0ra57xGI0zOa4kGmINu--qpr8lFEbQYPTWWTQ",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Describe what you want, get a beautiful on-brand email. Human-crafted foundations, AI-accelerated. Free in beta, works with any ESP.",
-          "published_at": "2026-07-13T07:47:00"
+          "summary": "What will differentiate people is not how smart they are but their relationship to mental effort.",
+          "published_at": "2026-07-14T07:51:28"
         },
         {
-          "title": "The hard things about design",
-          "url": "https://hvpandya.com/hard-things-about-design",
+          "title": "Dot Matrix",
+          "url": "https://dotmatrix.zzzzshawn.cloud/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "An honest accounting of what the craft costs, and why it costs more than the crafts sitting right next to it.",
-          "published_at": "2026-07-13T07:46:20"
+          "summary": "A React component library of dot matrix loaders—expressive loading primitives you install via the shadcn registry and own as local code.",
+          "published_at": "2026-07-14T07:50:51"
         },
         {
-          "title": "a11y.quest",
-          "url": "https://a11y.quest/",
+          "title": "Learning to code is still worthwhile",
+          "url": "https://stevekrouse.com/learn-to-code",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "128 questions to level up your web accessibility game. Practice WCAG 2.2, ARIA, semantic HTML, keyboard, and contrast, with plain-English answers.",
-          "published_at": "2026-07-13T07:45:05"
+          "summary": "Code is possibly the best medium to learn mathematics, and meta-skills for learning in general.",
+          "published_at": "2026-07-14T07:50:14"
         },
         {
-          "title": "Creative focus",
-          "url": "https://herbertlui.net/creative-focus/",
+          "title": "Wiki Spy",
+          "url": "https://neal.fun/wiki-spy/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "This year is Apple’s 50th year in business. Decades ago, it lost creative focus, and spread itself too thin.",
-          "published_at": "2026-07-13T07:44:29"
+          "summary": "A site that turns Wikipedia's image library into a sprawling searchable visual mosaic.",
+          "published_at": "2026-07-14T07:49:31"
+        },
+        {
+          "title": "The future worth building is human",
+          "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "AI built for autonomy crowds people out, making us passive observers of what’s coming. We’re building toward a different future.",
+          "published_at": "2026-07-14T07:47:49"
         }
       ]
     },
@@ -530,6 +602,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "社区速递 149｜派友热议睡眠数据化、观穹 6×24 望远镜与 RG Rotate 旋转屏掌机",
+          "url": "https://sspai.com/post/112320",
+          "author": "Matrix机器人",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+          "published_at": "2026-07-14T09:27:39"
+        },
+        {
+          "title": "具透 | iOS 27 首个公开测试版来了，这些是值得你关注的新功能",
+          "url": "https://sspai.com/post/112287",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。查看全文",
+          "published_at": "2026-07-14T07:00:00"
+        },
+        {
+          "title": "iOS / iPadOS 27 Public Beta 公测版来了：升降级指南 & 注意事项",
+          "url": "https://sspai.com/post/112288",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "7月14日凌晨，Apple终于推送了今年iOS27、iPadOS27、watchOS27、macOSGoldenGate、HomePod软件27以及AirPods固件新版的首个PublicBeta公开 ...查看全文",
+          "published_at": "2026-07-14T04:07:18"
+        },
         {
           "title": "派早报：全球智能手机出货量创 13 年来最低水平等",
           "url": "https://sspai.com/post/112286",
@@ -556,33 +655,6 @@
           "source": "少数派",
           "summary": "聊聊Android17的应用内存限制@克莱德：每隔一段时间，我都会整理一下自己的书桌。毕竟要在一张120×60cm的桌面上放下一块34英寸带鱼屏和一台40L机箱，留给其他常用物件的空间实在不多。前几天 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
           "published_at": "2026-07-13T09:48:45"
-        },
-        {
-          "title": "依江伴湖，树影连绵：南昌公园散步指南",
-          "url": "https://sspai.com/post/111776",
-          "author": "利兹与青鸟",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "这几年，「公园20分钟效应」在社交媒体上热度很高——不用专门运动，只要在公园里待上20分钟，就能排解负面情绪。对于整天困在写字楼和地铁里的都市人来说，公园不再只是城市公共空间，它成了触手可及的精神疗愈 ...查看全文",
-          "published_at": "2026-07-13T07:00:00"
-        },
-        {
-          "title": "你这图「保真」吗？AI 生图时代的信息防伪",
-          "url": "https://sspai.com/post/112185",
-          "author": "SNbing54",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "人类记录信息的方式一直在变化，但我们对「真实性」的需求从未改变。查看全文",
-          "published_at": "2026-07-13T02:52:47"
-        },
-        {
-          "title": "派早报：苹果起诉 OpenAI 窃取商业机密",
-          "url": "https://sspai.com/post/112215",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "苹果起诉 OpenAI 窃取商业机密变压器短缺掣肘数据中心扩张世界杯带动小红书使用时长大幅提升废弃 IBM 园区成网红景点SpaceX 申请发射十万颗卫星高技能人士正大规模「打零工」参与模型训练看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
-          "published_at": "2026-07-12T22:58:18"
         }
       ]
     }
