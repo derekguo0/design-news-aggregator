@@ -1,23 +1,23 @@
 {
   "date": "2026-07-16T00:00:00",
-  "total_items": 69,
+  "total_items": 74,
   "sources": [
-    "A List Apart",
-    "Awwwards",
-    "UX Planet",
-    "UX Design CC",
-    "Design Milk",
-    "CSS-Tricks",
     "少数派",
+    "Design Milk",
+    "Awwwards",
     "Sidebar",
-    "Product Hunt",
-    "Intercom Blog",
-    "优设网",
     "人人都是产品经理",
     "Smashing Magazine",
-    "NN/g (Nielsen Norman Group)"
+    "CSS-Tricks",
+    "Intercom Blog",
+    "优设网",
+    "Product Hunt",
+    "NN/g (Nielsen Norman Group)",
+    "A List Apart",
+    "UX Planet",
+    "UX Design CC"
   ],
-  "generated_at": "2026-07-16T02:51:24.981102",
+  "generated_at": "2026-07-16T14:00:53.940933",
   "categories": [
     {
       "category": "用户体验设计",
@@ -297,49 +297,49 @@
           "published_at": "2026-07-14T13:41:39"
         },
         {
-          "title": "搞懂AI怎么学习的，我反而想通了自己是怎么活的",
-          "url": "https://www.woshipm.com/zhichang/6430456.html",
-          "author": "楊yang",
+          "title": "分享一下我现在随时随地让Agent干活的远程操控方案。",
+          "url": "https://www.woshipm.com/ai/6431040.html",
+          "author": "数字生命卡兹克",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI的学习方式正在颠覆我们对认知的理解。从视频生成模型意外掌握的物理规律，到机器人纠错时的心灵暗示，再到从失败中重获价值的标签重塑——这些前沿研究不仅揭示了AI的进化逻辑，更为人类认知与成长提供了全新视角。本文通过5个突破性发现，带你重新思考学习、纠错与创新的本质。工作之余我喜欢听点AI前沿的播客，给自己补充一些思考。最近一期节目，主播一连拆了好几篇最新的AI研究论文，讲AI到底是怎么学习、怎么理...",
-          "published_at": "2026-07-16T02:01:57"
+          "summary": "昨天那篇文章，我说了一下我现在用Agent的日常。为了不浪费Agent的时间和Token，我几乎不管在路上、在外面，都在让Agent干活。然后评论区居然有好几个朋友问教程。那自然，是有求必应。所以今天我觉得可以给大家分享一下，我自己这一整套远程使用Agent干活的组合和流程，而且支持多设备协同，你完全不需要考虑什么.md文件、Agent记忆、Skill同步之类的问题，我自己觉得特别适合我自己，也安...",
+          "published_at": "2026-07-16T09:55:45"
         },
         {
-          "title": "AI 总是答得像对的，问题到底出在哪？",
-          "url": "https://www.woshipm.com/ai/6430451.html",
-          "author": "Zoe产品手记",
+          "title": "近30天稳坐益智类榜一，下载环比增涨12倍，猫咪数独霸榜背后，乐信圣文的出海爆款公式",
+          "url": "https://www.woshipm.com/share/6431038.html",
+          "author": "扬帆出海",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "这是「AI 协作」系列二第 8 篇。上一篇让你为 Skill 留下失败、修改和复测记录；这一篇继续往前走，把“AI 效果不好”拆成一棵“症状 -> 病因 -> 修复”的诊断树。读完这篇，你不需要立刻重写整份 Skill。先拿最近一次失败输出做一件事：给失败命名，判断主因，只改一条规则，再用相近任务复测。同样是“不好用”，症状不是一种很多人改 AI 工作流时，第一句复盘都是：“这次效果不好。”这句话...",
-          "published_at": "2026-07-16T01:57:38"
+          "summary": "一只猫咪数独游戏，上线一个月登顶美国iOS下载榜，下载量环比暴涨12倍、收入近千万美元——但核心玩法其实是2024年领英上病毒传播过的\"Queens Puzzle\"。乐信圣文的爆款公式不是发明新玩法，而是用萌宠叙事把\"排除法\"变成\"找猫咪\"，消解硬核气质、锚定20-35岁女性市场，再把广告嵌入\"自我说服\"的决策闭环：给你靠自己的尊严，但碎片场景剥夺耐心，最终你自愿点广告。这款2026年5月上线的益...",
+          "published_at": "2026-07-16T09:47:35"
         },
         {
-          "title": "强业务型企业AI转型的底层逻辑与实操路径",
-          "url": "https://www.woshipm.com/ai/6430438.html",
-          "author": "冲量AI",
+          "title": "腾讯AI的双线战争：混元之外，微信WeLM用四年证明了另一种可能",
+          "url": "https://www.woshipm.com/ai/6431015.html",
+          "author": "Z Finance",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI转型不是一次技术项目，而是一次组织进化。本文从一个典型案例出发，拆解出数据、产品、架构、组织、运营五个层面的共性问题与解决方案：数据层从隐形数据入手、产品层建边界不建清单、架构层用Agent替代功能模块、组织层向AI Native转型、运营层让知识自生长。五层是一根链条，缺任何一层，整个系统都转不起来。有这么一家企业。几百个线下网点，几千名一线业务人员。管理层意识到AI的趋势，决定做一个面向一...",
-          "published_at": "2026-07-16T01:56:04"
+          "summary": "7月6日，腾讯混元Hy3正式版发布。同一天，几乎没有人注意到另一件事：微信AI团队在GitHub上 quietly 放出了Hidden Decoding at Scale的正式论文，WeLM技术博客同步更新。不仅如此，WeLM的官方技术团队还开设了小红书账号，开始对外宣传WeLM的技术成果。信号的导火索在几个月前。据《中国企业家》报道，2026年腾讯年会上，微信高层公开表态，希望自己训练大模型，集...",
+          "published_at": "2026-07-16T09:17:58"
         },
         {
-          "title": "AI 重塑产品工作方式，从一线微小痛点，迭代出完整的业务工具",
-          "url": "https://www.woshipm.com/pd/6430414.html",
-          "author": "极懒产品经理",
+          "title": "梁文峰将跻身中国前三富豪，DeepSeek计划年内递表",
+          "url": "https://www.woshipm.com/ai/6431008.html",
+          "author": "Z Finance",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "四个AI项目同步推进，地图工具却意外成为最亮眼的突破点。从一通尴尬的电话开始，这套系统重构了销售场景的地理定位逻辑，融合了校区产品库、生源分析等关键数据，最终演变为支撑业务决策的智能中枢。文章揭示了AI时代产品经理的思维蜕变——从执行者到价值定义者的角色转换，以及如何让AI真正成为拓展业务边界的伙伴而非工具。近期手头同步推了四个AI项目：销售场景提效、知识库落地、话术体系优化、终端工具重构，各盯一...",
-          "published_at": "2026-07-16T01:50:12"
+          "summary": "距离首轮融资官宣尚不足一个月，DeepSeek的估值又涨了37%。7月14日，金融时报报道，DeepSeek本周已开始接触新投资者，讨论新一轮融资。投前估值约710亿美元，计划融资至少100亿元人民币，最终金额可能随投资者数量增加数倍。同一天，彭博社报道称，DeepSeek已启动中国大陆上市筹备，最早可能在今年提交IPO申请，目标2027年挂牌。公司正在与会计和银行顾问洽谈。710亿美元估值、新一...",
+          "published_at": "2026-07-16T09:12:44"
         },
         {
-          "title": "没想到，AI 已经能把 Word 和 Excel 做到这个程度了!",
-          "url": "https://www.woshipm.com/share/6430373.html",
-          "author": "需求解法局",
+          "title": "AI循环写不好？问题不在代码，在你嘴里的标准",
+          "url": "https://www.woshipm.com/ai/6430956.html",
+          "author": "CyrusChang",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在文档整理和优化的繁琐任务中，AI工具正成为效率提升的关键。Codex不仅能快速优化Markdown、Word和Excel文件的格式与结构，还能智能重组内容、统一视觉风格，显著提升文档的专业性和易读性。本文将带你实测这些功能，看看如何从重复劳动中解放更多时间，专注于核心业务决策。先来直接看一个AI优化word的结果样例，这样的一份二三十页的文档优化，不到一分钟就制作好了：通常，整理一份能直接交给客...",
-          "published_at": "2026-07-16T01:49:16"
+          "summary": "凌晨煮面时突然懂了Loop Engineering——夹一根尝尝，没熟继续煮，好了关火。AI的while循环也一样：不是代码多难写，而是\"熟的标准\"有没有说清楚。\"再高级一点\"\"大气一点\"这种模糊指令，AI转二十圈也不知道停；标准定了，它才能自己夹一根尝尝，自己判断该继续还是该喊人。真正难的从来不是三五行代码，是你嘴里那一口标准，到底清不清楚。前几天在研究Loop Engineering到凌晨，肚...",
+          "published_at": "2026-07-16T08:53:25"
         }
       ]
     },
@@ -411,6 +411,15 @@
           "published_at": null
         },
         {
+          "title": "CoffeeTech®",
+          "url": "https://www.awwwards.com/sites/coffeetech-r",
+          "author": "Or Halevi",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "House of Honey",
           "url": "https://www.awwwards.com/sites/house-of-honey-1",
           "author": "Edoardo Lunardi",
@@ -463,48 +472,75 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Julien Calot",
-          "url": "https://www.awwwards.com/sites/julien-calot",
-          "author": "FLOT NOIR",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 7,
       "items": [
         {
-          "title": "Keepresso",
-          "url": "https://www.producthunt.com/products/keepresso",
-          "author": "Gyorgy",
+          "title": "Verse",
+          "url": "https://www.producthunt.com/products/verse-6",
+          "author": "Thomas Guthrie",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Keep your Mac awake, on your terms. Free and open sourceDiscussion|Link",
-          "published_at": "2026-07-14T13:34:13"
+          "summary": "Build and hire autonomous AI employees from a single promptDiscussion|Link",
+          "published_at": "2026-07-15T13:30:43"
         },
         {
-          "title": "Jam-Pod",
-          "url": "https://www.producthunt.com/products/jam-pod",
-          "author": "Gianpaolo Campoli",
+          "title": "River",
+          "url": "https://www.producthunt.com/products/river-9",
+          "author": "Kevin William David",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A player for people who keep their own music collectionDiscussion|Link",
-          "published_at": "2026-07-14T17:08:42"
+          "summary": "AI account executives that demo and close B2B dealsDiscussion|Link",
+          "published_at": "2026-07-16T00:40:17"
         },
         {
-          "title": "Velo 3.0",
-          "url": "https://www.producthunt.com/products/velo-4",
-          "author": "Rohan Chaubey",
+          "title": "Codex Micro",
+          "url": "https://www.producthunt.com/products/openai",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI video infrastructure to explain, train, and sell faster.Discussion|Link",
-          "published_at": "2026-07-14T11:21:50"
+          "summary": "Tactile controls for your Codex agentsDiscussion|Link",
+          "published_at": "2026-07-16T03:23:59"
+        },
+        {
+          "title": "Manta AI",
+          "url": "https://www.producthunt.com/products/manta-ai",
+          "author": "AbdelRahman El-Sergani",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Your AI agent for autonomous web app testingDiscussion|Link",
+          "published_at": "2026-07-13T12:00:36"
+        },
+        {
+          "title": "The Eureka Database",
+          "url": "https://www.producthunt.com/products/the-eureka-database",
+          "author": "Jeremy Galang",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Turn a Reddit complaint into your next companyDiscussion|Link",
+          "published_at": "2026-07-16T00:20:11"
+        },
+        {
+          "title": "Nitrosend",
+          "url": "https://www.producthunt.com/products/nitrosend",
+          "author": "George H.",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Email for AI agents. They sign up, send and reply.Discussion|Link",
+          "published_at": "2026-07-15T01:41:49"
+        },
+        {
+          "title": "Graft AI",
+          "url": "https://www.producthunt.com/products/graft-ai",
+          "author": "Yashas Gunderia",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Turn company operations into a living map for agentsDiscussion|Link",
+          "published_at": "2026-07-15T17:24:23"
         }
       ]
     },
@@ -558,8 +594,8 @@
           "published_at": null
         },
         {
-          "title": "听张艺兴教你读单词？看有道词典如何用明星IP获客",
-          "url": "https://www.uisdc.com/hunter/0221676971.html",
+          "title": "学抖音的上滑进度条，让你的小控件也能精准操作",
+          "url": "https://www.uisdc.com/hunter/0221676968.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -570,43 +606,52 @@
     },
     {
       "category": "设计资讯",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Museum of the Human Web",
-          "url": "https://museum.parallel.ai/introduction",
+          "title": "Punch yourself in the face with reality",
+          "url": "https://adi.bio/reality",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Preserving the cultural artifacts that shaped internet history.",
-          "published_at": "2026-07-15T07:46:21"
+          "summary": "Who can punch themselves in the face with reality the most? This is who will win in the age of AI.",
+          "published_at": "2026-07-16T06:29:28"
         },
         {
-          "title": "Hyperlinks in handwriting",
-          "url": "https://handwritten.danieljanus.pl/2022-10-01-hyperlinks-in-handwriting.html",
+          "title": "Celebrating 25 years of visual search innovation",
+          "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How a handwritten blog is actually written.",
-          "published_at": "2026-07-15T07:45:49"
+          "summary": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
+          "published_at": "2026-07-16T06:29:03"
         },
         {
-          "title": "AI 2040",
-          "url": "https://ai-2040.com/",
+          "title": "Pac-Hunt: You’re the ghost",
+          "url": "https://garritfra.github.io/pac-hunt/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A detailed forecast and recommendation for how the US, China and the rest of the world should navigate superintelligence.",
-          "published_at": "2026-07-15T07:43:24"
+          "summary": "Gotta love a strong and simple game concept. Corner Pac‑Man before he clears the maze.",
+          "published_at": "2026-07-16T06:28:27"
         },
         {
-          "title": "Free the icons",
-          "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+          "title": "What is this UI element called?",
+          "url": "https://namethatui.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Apple should end their prohibition on shapes in MacOS app icons.",
-          "published_at": "2026-07-15T07:42:57"
+          "summary": "See the UI element, learn its real name and API symbol, and copy a precise prompt for your coding agent.",
+          "published_at": "2026-07-16T06:27:10"
+        },
+        {
+          "title": "If I want more IRL, I must go AFK",
+          "url": "https://blakewatson.com/journal/if-i-want-more-irl-i-must-go-afk/",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "I use a computer for hours and hours a day, partly because I love it, and partly to compensate for my disability. But how much is too much?",
+          "published_at": "2026-07-16T06:26:28"
         }
       ]
     },
@@ -629,7 +674,7 @@
           "author": "Daniel Schwarz",
           "category": "前端设计",
           "source": "CSS-Tricks",
-          "summary": "Similar to last time, What’s !important #15 is pretty stacked — read all about boundary-aware CSS, making grid lanes accessible, creating time-based web designs, fixing full-bleed CSS, improving custo...",
+          "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.What’s !important #15: Boundary-aware CSS, Time-bas...",
           "published_at": "2026-07-15T14:36:18"
         }
       ]
@@ -638,6 +683,42 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "新玩意 246｜少数派的编辑们最近买了啥？",
+          "url": "https://sspai.com/post/112400",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
+          "published_at": "2026-07-16T09:39:52"
+        },
+        {
+          "title": "Apple 高校优惠活动开始了，今年有些不一样",
+          "url": "https://sspai.com/post/112386",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "又到了一年一度的Apple高校优惠活动季，高校师生们可以在活动期间，购买指定型号iPad或Mac设备，获得指定配件产品，享受到限时的教育优惠+买赠活动。与往年不同的是，今年的Apple高校优惠活动不论 ...查看全文",
+          "published_at": "2026-07-16T08:03:38"
+        },
+        {
+          "title": "具透 | macOS 27 首个公开测试版来了，这些是值得你关注的新特性",
+          "url": "https://sspai.com/post/112375",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "全面 ARM 化后的第一个 macOS 版本，Golden Gate 27 还有这些变化。查看全文",
+          "published_at": "2026-07-16T07:00:00"
+        },
+        {
+          "title": "翻译「世界杯」的赛事名称，为什么中文比日文更简洁？",
+          "url": "https://sspai.com/post/111086",
+          "author": "王隐",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "国名也好、赛事名称也好，日语走上了片假名这条路——那为什么日本人不能像中文一样，直接造出「美加墨W杯」这样的简称？查看全文",
+          "published_at": "2026-07-16T02:58:08"
+        },
         {
           "title": "派早报：国行版 Apple Intelligence 完成备案等",
           "url": "https://sspai.com/post/112373",
@@ -655,42 +736,6 @@
           "source": "少数派",
           "summary": "Leitra 的名字来自我最欣赏的摄影师索尔·雷特（Saul Leiter）。它是一款为数码照片生成接触样张（Contact Sheet）和图像序列的策展工具，受到马格南摄影师创作方式的启发，关注图像之间的停顿与联系，也探索面向未来、与现实互动的创作方式。查看全文",
           "published_at": "2026-07-15T09:00:00"
-        },
-        {
-          "title": "具透 | iPadOS 27 首个公开测试版中你不容错过的 12 个新特性",
-          "url": "https://sspai.com/post/112338",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "升级到 iPadOS 27 以后，不妨试试这些新功能……查看全文",
-          "published_at": "2026-07-15T07:00:00"
-        },
-        {
-          "title": "角落新声｜从桌面「长」出来的创业空间，我靠这些好物「偷」一点清闲",
-          "url": "https://sspai.com/post/112243",
-          "author": "宛潼",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "编者按：本文是「角落新声」征文活动的入围文章。本次主题征文由声擎冠名，邀你前来分享那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅。8月7日前投稿参与，即有机会获得声擎Cyber5 ...查看全文",
-          "published_at": "2026-07-15T03:00:00"
-        },
-        {
-          "title": "派早报：Meta 被诉借助 AI 违规裁员、Google 被诉使用版权内容训练 Gemini 模型等",
-          "url": "https://sspai.com/post/112334",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Google 推出新版图片搜索功能，Spotify 开启语音交互功能内测等。查看全文",
-          "published_at": "2026-07-15T00:19:12"
-        },
-        {
-          "title": "社区速递 149｜派友热议睡眠数据化、观穹 6×24 望远镜与 RG Rotate 旋转屏掌机",
-          "url": "https://sspai.com/post/112320",
-          "author": "Matrix机器人",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
-          "published_at": "2026-07-14T09:27:39"
         }
       ]
     }
