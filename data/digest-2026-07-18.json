@@ -1,22 +1,22 @@
 {
   "date": "2026-07-18T00:00:00",
-  "total_items": 68,
+  "total_items": 65,
   "sources": [
-    "Sidebar",
-    "人人都是产品经理",
-    "UX Planet",
-    "优设网",
-    "少数派",
-    "Smashing Magazine",
-    "Product Hunt",
-    "CSS-Tricks",
-    "Design Milk",
-    "UX Design CC",
-    "NN/g (Nielsen Norman Group)",
     "Awwwards",
-    "A List Apart"
+    "UX Planet",
+    "NN/g (Nielsen Norman Group)",
+    "Sidebar",
+    "CSS-Tricks",
+    "优设网",
+    "UX Design CC",
+    "Design Milk",
+    "A List Apart",
+    "Product Hunt",
+    "Smashing Magazine",
+    "人人都是产品经理",
+    "少数派"
   ],
-  "generated_at": "2026-07-18T02:46:08.911106",
+  "generated_at": "2026-07-18T13:23:11.527448",
   "categories": [
     {
       "category": "用户体验设计",
@@ -260,49 +260,49 @@
           "published_at": "2026-07-16T16:47:59"
         },
         {
-          "title": "UX、DX、AX：重新定义设计“对象”",
-          "url": "https://www.woshipm.com/ucd/6431586.html",
-          "author": "好奇设",
+          "title": "第一个被AI做空的国家，出现了",
+          "url": "https://www.woshipm.com/ai/6432000.html",
+          "author": "硅基观察Pro",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI Agent开始自主调用API、操作CLI、在后台运行，设计的对象正经历第三次扩张——从UX到DX再到AX。本文梳理从物理控制、CLI、GUI到Agent体验的交互范式演变，揭示设计学科如何因“新用户”的出现而不断重塑边界。2025年，Netlify CEO Mathias Biilmann在一篇博客里正式提出了 Agent Experience（AX） 。他的定义很直接：AX就是UX，只不...",
-          "published_at": "2026-07-18T02:25:53"
+          "summary": "硅谷每一次AI发布，印度股市就崩一次——Nifty IT指数18个月腰斩，19万亿卢比蒸发，230亿美元外资夺路而逃。印度IT外包玩了二十年\"劳动力套利\"：按人头收费、赚人力差价，AI一来直接把桌子掀了。更致命的是，印度跳过了工业化、错过了互联网产品飞轮，本土市场养不出巨头，外包巨头87%利润分红给股东而非投入研发。全球最多程序员的国家，被锁在了旧时代的黄昏里。2026年2月立春那天，旧金山的An...",
+          "published_at": "2026-07-18T13:12:08"
         },
         {
-          "title": "为什么很多人用了AI，工作效率还是没有提升？",
-          "url": "https://www.woshipm.com/ai/6431562.html",
-          "author": "八九十",
+          "title": "劝你不要再做战略规划了：从五年蓝图到意图雷达",
+          "url": "https://www.woshipm.com/share/6431987.html",
+          "author": "小僧鲲鲲",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "很多人每天都在用AI，效率却没有明显提升——问题不在提示词，而在于工作链路未被重构。本文提出AI使用的三个层次与六步法，教你从“内容代写”升级到“工作流重构”，真正让AI参与从信息到结论的完整过程。最近，越来越多职场人开始使用AI。有人用AI写周报，有人用AI改邮件，有人用AI整理会议纪要，也有人让AI帮忙生成PPT和工作方案。但一个很现实的问题是：很多人虽然每天都在使用AI，工作效率却没有明显提...",
-          "published_at": "2026-07-18T01:31:48"
+          "summary": "当用户意图成为市场主导，传统战略的地图逻辑正在破产。科特勒承认权力已转移至用户指尖，德鲁克强调创造顾客的本质，但意图经济下，品牌必须在需求涌现的瞬间精准响应。本文剖析从规划到感知的战略转型，教你装上雷达，扔掉地图。传统战略体系正在经历一场静默的破产。不是被竞争对手打败的，是被用户意图的洪流冲垮的。做战略咨询的，大概最怕客户问一个问题：你的战略建议，和用户的消费行为有什么关系？不是战略不能拆解到足够...",
+          "published_at": "2026-07-18T12:56:10"
         },
         {
-          "title": "别再只盯 GPU 利用率：算力平台真正该衡量什么？",
-          "url": "https://www.woshipm.com/ai/6431655.html",
-          "author": "浩子AIPM",
+          "title": "AI时代产品经理不卷PRD了",
+          "url": "https://www.woshipm.com/ai/6431986.html",
+          "author": "蔡锦海",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "GPU 利用率很高，为什么用户仍然觉得慢？Token 吞吐翻倍，为什么业务效果没有提升？问题往往不在指标算错了，而在于我们拿一个设备层指标，替代了整条算力价值链的结果。本文尝试给出一套产品经理能直接使用的四层指标框架：基础设施、计算资源、推理服务和业务结果。一、一个看起来很漂亮、实际上很危险的数字假设你负责一套企业内部的大模型平台。运维看板显示，GPU 利用率长期在 90% 左右。这个数字很漂亮，...",
-          "published_at": "2026-07-18T00:49:46"
+          "summary": "AI 工具正在重塑产品经理的工作方式，但真正的核心竞争力从未改变。当 PRD 撰写、原型设计等执行层工作被 AI 大幅提效后，产品经理的判断力、决策力与架构能力反而成为关键胜负手。本文深度剖析在需求筛选、PMF验证、产品生命周期管理等核心维度上，人类思维如何与AI工具形成互补。前几天跟一个入行不久的产品经理聊天，他说最近特焦虑：“以前写个PRD要憋一周，现在丢给AI，两小时就能改出一份逻辑严密、格...",
+          "published_at": "2026-07-18T12:53:44"
         },
         {
-          "title": "Claude Cowork 用不了没关系，学会这套Agent工作流思路就够了",
-          "url": "https://www.woshipm.com/ai/6431683.html",
-          "author": "Ai学习的老章",
+          "title": "你动嘴，AI干活：这就是Vibe Coding！",
+          "url": "https://www.woshipm.com/ai/6430061.html",
+          "author": "常思行",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "大家好，我是 Ai 学习的老章刚重看 Anthropic 官网一篇案例文章，讲他们自己内部的营销运营团队怎么用 Claude Cowork 把繁重的重复性工作自动化了。两个人，一个把每周一两天的报告工作压缩到两小时，另一个把整套活动搭建流水线交给 Agent 自动跑Claude Cowork 咱们确实用不了 —— 但这篇案例的价值不在产品本身。它展示了一套非常成熟且可复制的 Agent 工作流设计...",
-          "published_at": "2026-07-17T09:42:26"
+          "summary": "当 AI 能听懂你的'感觉'，产品开发将彻底颠覆！Vibe Coding 正在让'不会写代码'成为伪命题——你只需描述'像苹果官网那样干净'的设计，AI就会自动生成完整功能。本文通过真实案例揭秘如何用自然语言指挥AI开发朋友圈功能，并剖析这一技术如何将7个角色的开发流程压缩成'你与AI的对话'。先问各位一个问题：你有没有一个想过无数次、但因为”不会写代码”而烂在脑子里的产品想法？别装了，肯定有。我...",
+          "published_at": "2026-07-18T08:43:04"
         },
         {
-          "title": "盘点Codex的9个隐藏功能：浏览器导入、电脑操控、记忆管理",
-          "url": "https://www.woshipm.com/ai/6431681.html",
-          "author": "Ai学习的老章",
+          "title": "老板想搞死我：逼疯PM的宇宙逆向工程笔记（1.3）",
+          "url": "https://www.woshipm.com/share/6431811.html",
+          "author": "太极探险家",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "大家好，我是 Ai 用 Codex 的老章Codex 是最好的电脑管家GPT 5.6 发布，OpenAI 顺手杀死 CodexChatGPT 变了，但很多人的用法还停在旧版本Codex+ 飞书 CLI+27 个办公 Skills，这是我最新的工作台Codex 的办公能力被严重低估了，Word、Excel、PPT、PDF 进工作流了最近 Codex 高频更新，几乎每次打开都会提醒我发现有些新的功能设...",
-          "published_at": "2026-07-17T09:35:36"
+          "summary": "从产品经理视角看粒子物理学，竟能如此通透？本文将揭秘八卦如何通过正交分类法完美划分基本粒子，展示单缺口、双缺口、三缺口粒子与三大滤波器的惊人对应关系，更用一张A4纸的莫比乌斯环演示自旋1/2的几何证明。这是一场东方智慧与西方物理的巅峰对话，更是信息架构与量子理论的跨界碰撞。步骤三：模块化分类——八卦凭什么能给粒子分类？1.3.1 小锋的“叛变”与老板的催命周三下午，我正在工位上画矩阵图，技术部的老...",
+          "published_at": "2026-07-18T07:32:58"
         }
       ]
     },
@@ -383,6 +383,15 @@
           "published_at": null
         },
         {
+          "title": "IZANAMI",
+          "url": "https://www.awwwards.com/sites/izanami",
+          "author": "baqemono.inc.",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Hiroto Sato",
           "url": "https://www.awwwards.com/sites/hiroto-sato",
           "author": "Hiroto Sato",
@@ -435,57 +444,21 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "21 Hrs On The Moon",
-          "url": "https://www.awwwards.com/sites/21-hrs-on-the-moon",
-          "author": "Studio 28K",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 1,
       "items": [
         {
-          "title": "Kimi K3",
-          "url": "https://www.producthunt.com/products/kimi-ai-assistant",
-          "author": "Zac Zuo",
+          "title": "OpenMarkdown",
+          "url": "https://www.producthunt.com/products/openmarkdown",
+          "author": "XUEYANZ",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The world's first open 3T-class modelDiscussion|Link",
-          "published_at": "2026-07-17T02:39:47"
-        },
-        {
-          "title": "Yapper Leaderboard",
-          "url": "https://www.producthunt.com/products/yapper-leaderboard",
-          "author": "Nikhil Radosevich",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "See the biggest startup yappers on X/TwitterDiscussion|Link",
-          "published_at": "2026-07-16T06:58:13"
-        },
-        {
-          "title": "PixyCAD",
-          "url": "https://www.producthunt.com/products/pixycad-3d-solid-modelling",
-          "author": "Andrea Sartori",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Fast & precise 3D CAD built natively for iPad and MacDiscussion|Link",
-          "published_at": "2026-07-16T07:15:45"
-        },
-        {
-          "title": "Basedash Suggestions",
-          "url": "https://www.producthunt.com/products/basedash",
-          "author": "Max Musing",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Your AI data analyst, now with ideas of its own.Discussion|Link",
-          "published_at": "2026-07-16T14:57:03"
+          "summary": "A markdown editor you and your agent co-editDiscussion|Link",
+          "published_at": "2026-07-15T04:32:04"
         }
       ]
     },
@@ -629,6 +602,15 @@
       "count": 6,
       "items": [
         {
+          "title": "小米 NAS 拆解与初步上手：它会是你的第一台 NAS 吗？",
+          "url": "https://sspai.com/post/112398",
+          "author": "羊刀仙",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "小米智能存储最适合两类用户：家里已经有较多米家设备的人，以及小米手机用户。查看全文",
+          "published_at": "2026-07-18T03:10:35"
+        },
+        {
           "title": "本周看什么 | 最近值得一看的 10 部作品",
           "url": "https://sspai.com/post/112444",
           "author": "少数派编辑部",
@@ -672,15 +654,6 @@
           "source": "少数派",
           "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
           "published_at": "2026-07-16T09:39:52"
-        },
-        {
-          "title": "Apple 高校优惠活动开始了，今年有些不一样",
-          "url": "https://sspai.com/post/112386",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "又到了一年一度的Apple高校优惠活动季，高校师生们可以在活动期间，购买指定型号iPad或Mac设备，获得指定配件产品，享受到限时的教育优惠+买赠活动。与往年不同的是，今年的Apple高校优惠活动不论 ...查看全文",
-          "published_at": "2026-07-16T08:03:38"
         }
       ]
     }
