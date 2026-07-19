@@ -1,20 +1,21 @@
 {
   "date": "2026-07-19T00:00:00",
-  "total_items": 56,
+  "total_items": 61,
   "sources": [
-    "Design Milk",
-    "A List Apart",
-    "UX Design CC",
-    "优设网",
-    "Smashing Magazine",
-    "少数派",
-    "人人都是产品经理",
-    "Awwwards",
     "NN/g (Nielsen Norman Group)",
     "UX Planet",
-    "Sidebar"
+    "Product Hunt",
+    "优设网",
+    "Awwwards",
+    "UX Design CC",
+    "少数派",
+    "Smashing Magazine",
+    "Sidebar",
+    "Design Milk",
+    "A List Apart",
+    "人人都是产品经理"
   ],
-  "generated_at": "2026-07-19T03:16:22.268770",
+  "generated_at": "2026-07-19T13:24:32.114176",
   "categories": [
     {
       "category": "用户体验设计",
@@ -213,49 +214,49 @@
           "published_at": "2026-07-16T16:47:59"
         },
         {
-          "title": "《讲透-进销存》第1章：账算不清，生意能做多大？",
-          "url": "https://www.woshipm.com/share/6431861.html",
-          "author": "杰记",
+          "title": "肯德基蘸料收费，为什么不是一个好主意？",
+          "url": "https://www.woshipm.com/share/6432164.html",
+          "author": "寻空",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "小超市老板老李的创业故事，揭示了无数中小微企业主共同的痛——库存管理的失控。从过期商品到\"幽灵库存\"，从手工记账到进销存系统的觉醒，这篇文章将带你深入理解如何通过三流合一（信息流、物流、资金流）打造生意的\"数字孪生\"，让数据成为你经营决策的指南针。1.1 老李的第一次盘点危机元旦，老李蹲在自己那间不到40平米的小超市里，对着一堆货箱发愁。这是他开店的第三年。前两年生意不错，老婆管收银，他管进货，两...",
-          "published_at": "2026-07-19T02:46:58"
+          "summary": "肯德基对额外蘸料收费，一盒1.2元，看似精细化管理，实则可能得不偿失。本文从消费者心理与品牌关系角度，剖析这一政策如何引发反感、增加沟通成本，并对比竞品策略，揭示隐性代价与客源流失风险。今年4月起，细心的消费者发现了一个令人不太愉快的变化：肯德基开始对部分蘸料实行收费政策。按照目前的标准，一份薯条仍然正常搭配番茄酱，一份黄金鸡块仍然搭配一盒糖醋酱，但如果消费者想额外增加糖醋酱、甜辣酱等，就要按照1...",
+          "published_at": "2026-07-19T13:01:39"
         },
         {
-          "title": "AI产品经理必须搞懂的Agent Memory应该怎么设计",
-          "url": "https://www.woshipm.com/ai/6431798.html",
-          "author": "思敏",
+          "title": "AI互联网日报：京东AI Home把智能体装进家庭、HappyOyster 1.0开放交互世界、百度秒哒无代码平台份额达33.4%",
+          "url": "https://www.woshipm.com/ai/6432119.html",
+          "author": "AI星球",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI产品的记忆能力正在成为用户粘性的关键因素。从Claude的丝滑体验到Character.AI的'失忆'困境，AgentMemory的设计差异揭示了AI产品竞争的下半场：谁能真正记住用户。本文深度解析记忆功能的四个核心维度，拆解行业头部产品的实战方案与踩坑经验。你有没有想过，自己为什么离不开Claude？不是因为它比别的模型聪明多少，这年头模型能力早就卷成一条差不多的线了。真正让你懒得换掉它的，...",
-          "published_at": "2026-07-19T00:41:00"
+          "summary": "一边是机器人进入共享实训场，一边是家里的台灯开始给孩子讲题。这两个场景看似很远，背后却是同一件事：AI正在从屏幕里的回答，走进真实世界的动作。SenseNova U1 Pro开始追求长程任务交付，HappyOyster 1.0把一句话变成可交互世界，京东AI Home则想让设备记住全家人的习惯。但我更在意的，是这些演示能否被12万个高质量数据集、国产超节点和智能体信任基座托住。当模型、数据、算力、...",
+          "published_at": "2026-07-19T09:21:25"
         },
         {
-          "title": "第一个被AI做空的国家，出现了",
-          "url": "https://www.woshipm.com/ai/6432000.html",
-          "author": "硅基观察Pro",
+          "title": "企业 AI 应用落地，不能只靠一个大模型",
+          "url": "https://www.woshipm.com/ai/6432026.html",
+          "author": "Lucky培丽",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "硅谷每一次AI发布，印度股市就崩一次——Nifty IT指数18个月腰斩，19万亿卢比蒸发，230亿美元外资夺路而逃。印度IT外包玩了二十年\"劳动力套利\"：按人头收费、赚人力差价，AI一来直接把桌子掀了。更致命的是，印度跳过了工业化、错过了互联网产品飞轮，本土市场养不出巨头，外包巨头87%利润分红给股东而非投入研发。全球最多程序员的国家，被锁在了旧时代的黄昏里。2026年2月立春那天，旧金山的An...",
-          "published_at": "2026-07-18T13:12:08"
+          "summary": "企业里，一个 AI 应用能不能用，关键不在演示时回答得多漂亮。 它要进得了业务流程，接得住业务经验，还要在关键节点可控、可查、可验证。 我把这件事拆成三层：Agent 负责推进任务，Skill 负责复用经验，Harness 负责管住运行过程。这两年，很多企业都在问同一个问题：我们是不是也应该做一个 AI 应用？每次听到这个问题，我通常不会马上谈模型或平台。我会先跟着业务人员把工作走一遍：哪一段还停...",
+          "published_at": "2026-07-19T08:36:24"
         },
         {
-          "title": "劝你不要再做战略规划了：从五年蓝图到意图雷达",
-          "url": "https://www.woshipm.com/share/6431987.html",
-          "author": "小僧鲲鲲",
+          "title": "Agent 记忆系统全景指南：一文讲透底层原理与产品落地",
+          "url": "https://www.woshipm.com/ai/6432017.html",
+          "author": "Timothy",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当用户意图成为市场主导，传统战略的地图逻辑正在破产。科特勒承认权力已转移至用户指尖，德鲁克强调创造顾客的本质，但意图经济下，品牌必须在需求涌现的瞬间精准响应。本文剖析从规划到感知的战略转型，教你装上雷达，扔掉地图。传统战略体系正在经历一场静默的破产。不是被竞争对手打败的，是被用户意图的洪流冲垮的。做战略咨询的，大概最怕客户问一个问题：你的战略建议，和用户的消费行为有什么关系？不是战略不能拆解到足够...",
-          "published_at": "2026-07-18T12:56:10"
+          "summary": "AI Agent 的记忆系统远不止“记住更多”那么简单。当学习助理被过期记忆绑架，用旧判断指导新行为，产品体验反而更糟。本文深入拆解记忆的六种机制、类型与作用域，揭示真正的记忆系统如何在写入、召回与更新中做出选择，让 Agent 成为跨越时间的长期合作者。假设你在用一个 AI 学习助理。第一次见面，你告诉它：“Python 基础我已经学过了，别再讲变量和循环。我想用三周做出一个能跑的项目，讲解直接...",
+          "published_at": "2026-07-19T07:38:56"
         },
         {
-          "title": "AI时代产品经理不卷PRD了",
-          "url": "https://www.woshipm.com/ai/6431986.html",
-          "author": "蔡锦海",
+          "title": "老板想搞死我：逼疯PM的宇宙逆向工程笔记（1.4）",
+          "url": "https://www.woshipm.com/share/6431815.html",
+          "author": "太极探险家",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI 工具正在重塑产品经理的工作方式，但真正的核心竞争力从未改变。当 PRD 撰写、原型设计等执行层工作被 AI 大幅提效后，产品经理的判断力、决策力与架构能力反而成为关键胜负手。本文深度剖析在需求筛选、PMF验证、产品生命周期管理等核心维度上，人类思维如何与AI工具形成互补。前几天跟一个入行不久的产品经理聊天，他说最近特焦虑：“以前写个PRD要憋一周，现在丢给AI，两小时就能改出一份逻辑严密、格...",
-          "published_at": "2026-07-18T12:53:44"
+          "summary": "当产品设计遇上量子力学，一场关于精确与模糊的终极博弈正在上演。本文以六十四卦状态机为切入点，揭示了傅里叶变换与测不准原理在产品架构中的深刻应用，从抖音的内容推荐到MP3的频域压缩，再到宇宙常数137的硬核验证，带你走进一场产品经理与物理学碰撞的思维风暴。产品设计步骤四：运行规则——六十四卦状态机与测不准原理的傅里叶本质1.4.1 老板的世俗围堵：你要算不准，我就扣绩效周一刚过，老板的催命符又到了。...",
+          "published_at": "2026-07-19T06:45:52"
         }
       ]
     },
@@ -327,6 +328,15 @@
           "published_at": null
         },
         {
+          "title": "Glitch&Grit",
+          "url": "https://www.awwwards.com/sites/glitch-grit",
+          "author": "Official Partner",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "IZANAMI",
           "url": "https://www.awwwards.com/sites/izanami",
           "author": "baqemono.inc.",
@@ -379,15 +389,57 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
+        }
+      ]
+    },
+    {
+      "category": "产品发现",
+      "count": 5,
+      "items": [
+        {
+          "title": "OpenSEO",
+          "url": "https://www.producthunt.com/products/openseo",
+          "author": "fmerian",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The open source Ahrefs alternativeDiscussion|Link",
+          "published_at": "2026-07-17T13:34:52"
         },
         {
-          "title": "Vectr",
-          "url": "https://www.awwwards.com/sites/vectr",
-          "author": "Utsubo",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
+          "title": "Detourmap",
+          "url": "https://www.producthunt.com/products/detourmap",
+          "author": "Albanius",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Every place worth the detour, on one interactive mapDiscussion|Link",
+          "published_at": "2026-07-18T09:27:10"
+        },
+        {
+          "title": "BaseRT",
+          "url": "https://www.producthunt.com/products/basert",
+          "author": "Lukas Wesemann",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "6.4x faster than llama.cpp, 3.9x faster than MLXDiscussion|Link",
+          "published_at": "2026-07-18T08:15:22"
+        },
+        {
+          "title": "Kobbe",
+          "url": "https://www.producthunt.com/products/kobbe",
+          "author": "Michael Andreuzza",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Privacy-friendly web analytics with traffic and revenue.Discussion|Link",
+          "published_at": "2026-07-16T07:41:42"
+        },
+        {
+          "title": "Rewisp — an ambient memory for your Mac",
+          "url": "https://www.producthunt.com/products/rewisp-an-ambient-memory-for-your-mac",
+          "author": "Yashmit Bhaverisetti",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "See it once. Ask forever.Discussion|Link",
+          "published_at": "2026-07-18T11:45:09"
         }
       ]
     },
@@ -507,6 +559,15 @@
       "count": 6,
       "items": [
         {
+          "title": "TDS REVIEW | 索尼 WH-1000XX 无线降噪头戴耳机体验",
+          "url": "https://sspai.com/post/112374",
+          "author": "KingTsui",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "这篇文章是TDSStudio在少数派上的第26篇文章，依然是全平台首发。1000XTheColleXion，这是索尼1000X系列的十周年纪念产品线。完全想不到跟群友们畅聊MDR-1000X的时代已经 ...查看全文",
+          "published_at": "2026-07-19T03:00:00"
+        },
+        {
           "title": "小米 NAS 拆解与初步上手：它会是你的第一台 NAS 吗？",
           "url": "https://sspai.com/post/112398",
           "author": "羊刀仙",
@@ -550,15 +611,6 @@
           "source": "少数派",
           "summary": "月之暗面发布 Kimi K3 模型，支付宝升级 Apple 教育优惠认证等。查看全文",
           "published_at": "2026-07-17T00:45:30"
-        },
-        {
-          "title": "新玩意 246｜少数派的编辑们最近买了啥？",
-          "url": "https://sspai.com/post/112400",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
-          "published_at": "2026-07-16T09:39:52"
         }
       ]
     }
