@@ -1,26 +1,53 @@
 {
   "date": "2026-07-20T00:00:00",
-  "total_items": 54,
+  "total_items": 57,
   "sources": [
     "UX Planet",
-    "Design Milk",
-    "Awwwards",
-    "Product Hunt",
-    "NN/g (Nielsen Norman Group)",
+    "Smashing Magazine",
     "Sidebar",
+    "Product Hunt",
+    "A List Apart",
+    "NN/g (Nielsen Norman Group)",
     "少数派",
     "人人都是产品经理",
-    "Smashing Magazine",
-    "A List Apart",
+    "UX Design CC",
+    "Design Milk",
     "优设网",
-    "UX Design CC"
+    "Awwwards"
   ],
-  "generated_at": "2026-07-20T03:50:58.115298",
+  "generated_at": "2026-07-20T14:13:03.961844",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 5,
+      "count": 9,
       "items": [
+        {
+          "title": "Delegating taste, orchestration layer, AI workflows",
+          "url": "https://uxdesign.cc/delegating-taste-orchestration-layer-ai-workflows-7ac13d2ff1d6?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“We increasingly talk about taste as though it were something that can be collected, measured, or encoded. We assume that if enough people ...",
+          "published_at": "2026-07-20T11:14:00"
+        },
+        {
+          "title": "Lonely at a lower latency",
+          "url": "https://uxdesign.cc/lonely-at-a-lower-latency-99ae638489b9?source=rss----138adf9c44c---4",
+          "author": "Wira Indra Kusuma",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Everything got faster, closer, more certain. The person inside stayed the same.Continue reading on UX Collective »",
+          "published_at": "2026-07-20T11:09:56"
+        },
+        {
+          "title": "The brainstorm that couldn’t storm",
+          "url": "https://uxdesign.cc/the-brainstorm-that-couldnt-storm-bc59947c3c16?source=rss----138adf9c44c---4",
+          "author": "Hiroshi Sato",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "On the small delay that makes a brainstorm actually stormContinue reading on UX Collective »",
+          "published_at": "2026-07-20T11:09:21"
+        },
         {
           "title": "The weakest channel",
           "url": "https://uxdesign.cc/the-weakest-channel-1e6d68d8d562?source=rss----138adf9c44c---4",
@@ -56,6 +83,15 @@
           "source": "UX Design CC",
           "summary": "Surprise, Sincerity, Sublime — a Future of Liminal DesignWhat’s the point of Eden without slither in the grass?If the current state of design seems pandering, predictable and insincere with indoor cat...",
           "published_at": "2026-07-17T07:39:54"
+        },
+        {
+          "title": "How to Turn a CSV into Interactive Charts with Claude Code",
+          "url": "https://uxplanet.org/how-to-turn-a-csv-into-interactive-charts-with-claude-code-734c7821460c?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "CSV files are one of the simplest ways to store data, but they are not always the easiest way to explore it.Continue reading on UX Planet »",
+          "published_at": "2026-07-20T13:38:48"
         },
         {
           "title": "Google Stitch Just Got a Major Update",
@@ -130,8 +166,17 @@
     },
     {
       "category": "产品设计",
-      "count": 8,
+      "count": 9,
       "items": [
+        {
+          "title": "How 6 Students Made Recycled Plastic an Award-Winning Collection",
+          "url": "https://design-milk.com/lawrence-technological-university-icff-best-of-schools/",
+          "author": "Murrye Bernard",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Working from the same recycled HDPE sheets, six Lawrence Technological University students created a cohesive collection that earned ICFF’s Best of Schools award.",
+          "published_at": "2026-07-20T13:00:24"
+        },
         {
           "title": "F5: Price Latimer on Scuba Diving, Leigh Bowery, Yoko Ono + More",
           "url": "https://design-milk.com/friday-five-price-latimer-alkemis-paint/",
@@ -160,49 +205,49 @@
           "published_at": "2026-07-17T13:00:12"
         },
         {
-          "title": "不到一年付费用户翻3倍、近40%复购率、客单价超60美元，这款AI命理应用是怎么做到的？",
-          "url": "https://www.woshipm.com/share/6432510.html",
-          "author": "扬帆出海",
+          "title": "阿里将推出AI音乐创作平台“HappyShrimp”，打造一个新的“虾米”？",
+          "url": "https://www.woshipm.com/share/6432929.html",
+          "author": "读佳",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当免费AI模型席卷全球，FateTell却以98%的利润率逆势增长，复购率近40%。它不靠流量，而是用万字命理报告+AI对话锁定高价值用户。本文从产品逻辑、市场策略到用户画像，解析这款AI命理产品如何成为情绪经济中的一匹黑马。2026年的夏天，全球AI应用出海的叙事正在经历一场微妙的回流。一年前，当DeepSeek等通用大模型在全球掀起免费算命指令的热潮时，行业里曾有过一阵短暂的喧嚣——似乎只要套...",
-          "published_at": "2026-07-20T03:27:20"
+          "summary": "《读佳》获知，阿里ATH事业群将推出”HappyShrimp”，中文名”快乐虾米”，或主打一句话生成专属音乐。这是继”HappyHorse”、”HappyOyster”后的第三个Happy家族成员，据悉，HappyShrimp支持文生音乐、文生歌词、参考生成音频、音频风格转换等多种音乐创作功能。此外，《读佳》还了解到，该产品或计划推出APP版本，并在海外上线。目前HappyShrimp还没对外开放...",
+          "published_at": "2026-07-20T13:24:28"
         },
         {
-          "title": "AI产品的需求文档和传统PRD有什么不同？附一份B端AI产品PRD模板",
-          "url": "https://www.woshipm.com/share/6432491.html",
-          "author": "供应链产品老兵",
+          "title": "快手电商正式上线“AI购物助手”，适配“老铁”选购逻辑",
+          "url": "https://www.woshipm.com/share/6432923.html",
+          "author": "读佳",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI产品PRD不是简单替换'系统'为'AI'。真正关键的是定义能力边界、数据质量、人机协作与效果评估。本文从六大维度拆解如何设计一套面对不确定性仍能稳定交付业务价值的机制，让AI产品真正可用、可信、可控。过去一年，我看过不少AI产品PRD。最常见的问题是：很多时候就是把传统PRD里的“系统”换成了“AI”。原来写“系统根据规则生成结果”，现在改成“AI生成结果”；原来画固定流程，现在加一个大模型节...",
-          "published_at": "2026-07-20T03:10:01"
+          "summary": "《读佳》获知，快手6月初测试的AI购物助手，近期已正式上线，功能入口固定设于快手APP商品搜索结果页面右下方，用户搜索商品后可一键唤起，无需繁琐跳转，通过轻量化对话交互模式，用户可以在快手内体验智能购物。相比此前的测试版，正式版对部分功能进行了优化，不仅支持智能选品，还打通了对话场景购物链路，用户可不用跳转至商品页，直接在AI助手对话界面将商品加入购物车，简化传统选购操作流程。1.“老铁”们的AI...",
+          "published_at": "2026-07-20T12:50:14"
         },
         {
-          "title": "新规落地！AI伴侣，“防线”形同虚设？",
-          "url": "https://www.woshipm.com/ai/6432467.html",
-          "author": "张书乐",
+          "title": "AI漫剧大退潮：误区、雷区、盲区12条",
+          "url": "https://www.woshipm.com/ai/6432737.html",
+          "author": "辩手李慕阳",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "上有政策、下有对策，AI陪伴应用监管新规落地首日，星野、猫箱等平台仍漏洞百出：低俗角色泛滥、防沉迷形同虚设、付费节点精心设计。平台换壳问题未解，监管火力需加强。本文剖析行业乱象与监管困境。上有政策、下有对策，在AI领域也成为了一种套路。7月15日晚，豆包、千问智能体相继下线。《人工智能拟人化互动服务管理暂行办法》当天起正式施行，首次为情感陪伴类AI划下监管红线。北京日报记者调查发现，新规落地首日，...",
-          "published_at": "2026-07-20T02:50:57"
+          "summary": "AI漫剧的泡沫破裂，揭开了这个行业最残酷的真相。从影视人降维打击的幻灭，到S级评级背后的PUA话术，再到创新必死的行业铁律，本文用血淋淋的教训撕开AI漫剧被美化的假象。当制作平权遇上分发特权，这场由大厂催生又亲手终结的风口，留给从业者的只有两条路：要么彻底拥抱商品逻辑，要么另寻出路。2025年7月到2026年7月，一个史上最短命的风口结束了，没错，说的就是你，国内市场的AI漫剧，泡沫已经破裂，多少...",
+          "published_at": "2026-07-20T09:20:35"
         },
         {
-          "title": "【经营分析系列分享·01】经营分析到底在分析什么？不是做报表，是做决策",
-          "url": "https://www.woshipm.com/share/6432237.html",
-          "author": "木木自由与数据分析",
+          "title": "ETF客户随行情来去，ETF运营的价值及ABPAH增长模型探讨",
+          "url": "https://www.woshipm.com/operate/6432685.html",
+          "author": "飞飞飞菲",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "很多企业误以为经营分析就是做报表，但数据堆砌无法驱动决策。本文深入剖析经营分析的本质——从数据整合、因果挖掘到决策落地，并给出从目标设定到模型应用的完整闭环路径，帮你跳出报表思维，真正用数据驱动业务增长。在企业经营管理中，有一个普遍的认知误区：把经营分析等同于“做报表”——每月按时汇总财务数据、统计业务指标，做出一份份格式规范、数据精确的报表，就认为完成了经营分析。但实际上，报表只是经营分析的“素...",
-          "published_at": "2026-07-20T02:17:01"
+          "summary": "ETF运营常陷入“行情来客户来，行情走客户走”的困境，标准动作做全却不见增长。本文从用户决策链A-B-P-A-H出发，拆解“知道”到“持有”的断点，提出八大竞争杠杆与针对性打法，帮助运营在行情之外沉淀真正的用户资产。运营思考认知：第一，行情决定用户来不来，运营决定用户留不留、以及下一次想到谁。客户随行情走是常态，而运营真正的挑战，是我们是否能在行情之外留下资产。。第二，标准动作全部做到位却没有增长...",
+          "published_at": "2026-07-20T08:27:32"
         },
         {
-          "title": "技术是真的，泡沫也是真的：2027年AI可能迎来自己的“2000年”",
-          "url": "https://www.woshipm.com/ai/6432216.html",
-          "author": "苏苏的AI笔记",
+          "title": "本体论下的知识图谱关系实体化：关系与实体的边界",
+          "url": "https://www.woshipm.com/share/6432670.html",
+          "author": "是AD",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "智谱市值突破万亿港元，年营收却不足8亿元；MiniMax市值近2000亿港元，亏损超收入三倍。大模型公司的高估值背后，B端效率提升被流程、成本与竞争三次稀释，C端则陷入用户越多亏损越快的规模陷阱。本文从商业逻辑出发，拆解AI泡沫的真实底色。2026年6月22日，智谱的市值第一次突破1万亿港元，盘中一度摸到1.3万亿港元。再看它的财务数据：2025年营收7.24亿元，净亏损47.18亿元。一年的亏损...",
-          "published_at": "2026-07-20T02:09:37"
+          "summary": "知识图谱建模中，一条关系何时该升级为实体？本文以“王者荣耀大流量卡—销售渠道”为例，拆解关系与实体的边界判断。从属性承载到业务对象独立管理，六个问题帮你快速决策，避免图谱膨胀或信息丢失。“王者荣耀大流量卡—销售渠道—线上渠道”，这里到底谁是实体，谁是关系？如果这条关系还有生效时间、价格、链接和状态，又该怎么存？最近在梳理知识图谱模型时，我反复碰到这个问题。它看起来只是一个建模细节，实际上会直接决定...",
+          "published_at": "2026-07-20T08:23:26"
         }
       ]
     },
@@ -274,6 +319,15 @@
           "published_at": null
         },
         {
+          "title": "Lama Lama",
+          "url": "https://www.awwwards.com/sites/lama-lama-2",
+          "author": "Lama Lama",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Glitch&Grit",
           "url": "https://www.awwwards.com/sites/glitch-grit",
           "author": "Official Partner",
@@ -326,57 +380,30 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Longbow",
-          "url": "https://www.awwwards.com/sites/longbow",
-          "author": "Digital Butlers",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 2,
       "items": [
         {
-          "title": "BaseRT",
-          "url": "https://www.producthunt.com/products/basert",
-          "author": "Lukas Wesemann",
+          "title": "Lunen.ai",
+          "url": "https://www.producthunt.com/products/lunen-ai",
+          "author": "Mike Rudolph",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "6.4x faster than llama.cpp, 3.9x faster than MLXDiscussion|Link",
-          "published_at": "2026-07-18T08:15:22"
+          "summary": "Build AI agents your whole team can run, and controlDiscussion|Link",
+          "published_at": "2026-07-17T14:26:11"
         },
         {
-          "title": "Rewisp",
-          "url": "https://www.producthunt.com/products/rewisp-an-ambient-memory-for-your-mac",
-          "author": "Yashmit Bhaverisetti",
+          "title": "Kogvio",
+          "url": "https://www.producthunt.com/products/kogvio",
+          "author": "Harshit Kataria",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "See it once. Ask forever.Discussion|Link",
-          "published_at": "2026-07-18T11:45:09"
-        },
-        {
-          "title": "OpenSEO",
-          "url": "https://www.producthunt.com/products/openseo",
-          "author": "fmerian",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The open source Ahrefs alternativeDiscussion|Link",
-          "published_at": "2026-07-17T13:34:52"
-        },
-        {
-          "title": "Detourmap",
-          "url": "https://www.producthunt.com/products/detourmap",
-          "author": "Albanius",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Every place worth the detour, on one interactive mapDiscussion|Link",
-          "published_at": "2026-07-18T09:27:10"
+          "summary": "Understand anything online without leaving the page.Discussion|Link",
+          "published_at": "2026-07-19T21:45:08"
         }
       ]
     },
@@ -430,8 +457,8 @@
           "published_at": null
         },
         {
-          "title": "还在用弹窗式AI？WPS弱提示设计让AI生成更流畅",
-          "url": "https://www.uisdc.com/hunter/0221677387.html",
+          "title": "为什么滴滴要在等车页里塞一个踢球游戏？",
+          "url": "https://www.uisdc.com/hunter/0221676974.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -445,49 +472,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Against bigness",
-          "url": "https://vaughntan.org/bigness",
+          "title": "Designing with web standards: The playbook for this AI moment",
+          "url": "https://uxdesign.cc/designing-with-web-standards-the-playbook-for-this-ai-moment-92394884dc0d",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Organisations say they want innovation but keep killing it. The problem is the organisational decision-making machinery.",
-          "published_at": "2026-07-17T07:50:00"
+          "summary": "Jeffrey Zeldman helped end the browser wars by making the case for standards. We are starting that journey again.",
+          "published_at": "2026-07-20T07:47:18"
         },
         {
-          "title": "Yes-Brainer",
-          "url": "https://yesbrainer.ai/about",
+          "title": "ColorSym",
+          "url": "https://colorsym.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A council of AI models for the decisions that aren’t no-brainers.",
-          "published_at": "2026-07-17T07:48:58"
+          "summary": "A free, open-source way to identify color when color alone isn’t enough.",
+          "published_at": "2026-07-20T07:46:37"
         },
         {
-          "title": "People will always need to trust the human behind any decision-making",
-          "url": "https://www.itsnicethat.com/articles/creative-career-conundrums-if-you-could-jobs-advice-130726",
+          "title": "Earning taste and judgment",
+          "url": "https://addyosmani.com/blog/earning-judgment/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "When your manager is paying more attention to AI than your creative role, what can you do?",
-          "published_at": "2026-07-17T07:48:20"
+          "summary": "Taste used to be a byproduct of the reps. Agents took the reps. So if you’re junior you now have to go get the taste and judgment on purpose.",
+          "published_at": "2026-07-20T07:46:06"
         },
         {
-          "title": "JustVibe",
-          "url": "https://justvibe.com/",
+          "title": "A history of menus is a menu of history",
+          "url": "https://pudding.cool/2026/06/menu-story/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The search engine for doing, with apps built the moment you ask.",
-          "published_at": "2026-07-17T07:47:34"
+          "summary": "What do America’s earliest restaurant menus teach us about America?",
+          "published_at": "2026-07-20T07:45:30"
         },
         {
-          "title": "Design systems need evals",
-          "url": "https://blog.murphytrueman.com/design-systems-need-evals/",
+          "title": "Do we still need build tools?",
+          "url": "https://olliewilliams.xyz/blog/no-build/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "You’ve taught agents your design system. You still don’t know whether they’re following it.",
-          "published_at": "2026-07-17T07:45:59"
+          "summary": "How necessary are build tools for frontend development in 2026? Let’s take a look.",
+          "published_at": "2026-07-20T07:43:36"
         }
       ]
     },
@@ -495,6 +522,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "派评 | 近期值得关注的 App",
+          "url": "https://sspai.com/post/112543",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "published_at": "2026-07-20T10:00:02"
+        },
+        {
+          "title": "角落新声 | 把杂乱桌面收拾得像样，只需要一张桌垫",
+          "url": "https://sspai.com/post/112453",
+          "author": "北鸮",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "在拥有你我理想的超大自主空间之前，不如用一张桌垫改善一下自己的工作生活环境，过得多舒心一点点吧。查看全文",
+          "published_at": "2026-07-20T07:05:31"
+        },
+        {
+          "title": "2026 年再看 iPhone 8 Plus，它还够用吗？",
+          "url": "https://sspai.com/post/112425",
+          "author": "旋转的陀螺",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "高考结束后，又有一大批同学开始考虑换新手机啦。在预算差不多的情况下，很多人会纠结是买一台较新的中端机，还是买一台年份更老、但曾经是旗舰级的机型。于是我把 2020 年购入的 iPhone 8 Plus 拿出来当了一星期主力机，看看这台 2017 年发布的手机，放到今天还能不能胜任日常使用。查看全文",
+          "published_at": "2026-07-20T03:00:00"
+        },
         {
           "title": "派早报：锂电池消费税分阶段恢复征收",
           "url": "https://sspai.com/post/112498",
@@ -521,33 +575,6 @@
           "source": "少数派",
           "summary": "小米智能存储最适合两类用户：家里已经有较多米家设备的人，以及小米手机用户。查看全文",
           "published_at": "2026-07-18T03:10:35"
-        },
-        {
-          "title": "本周看什么 | 最近值得一看的 10 部作品",
-          "url": "https://sspai.com/post/112444",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "📅本周新预告《蓦然回首》正式预告7月15日，电影《蓦然回首》发布了正式预告，将于9月11日在日本上映。是枝裕和执导、编剧、剪辑，出口夏希、莳田彩珠主演，菅田将晖、宫藤官九郎、野吕佳代、山田真步等出演， ...查看全文",
-          "published_at": "2026-07-17T09:57:46"
-        },
-        {
-          "title": "具透 | watchOS 27 公测版一览：动态应用网格、Liquid Glass 微调……",
-          "url": "https://sspai.com/post/112430",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "AI 之外，watchOS 27 中还有这些新功能。查看全文",
-          "published_at": "2026-07-17T07:00:00"
-        },
-        {
-          "title": "UniGetUI：可能是 Windows 下最好用的应用商店",
-          "url": "https://sspai.com/post/111128",
-          "author": "Bestony",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "UniGetUI 是一个不错的包管理器，它提供的统一的更新 UI，让你的软件最大程度集中在一起管理，还可以用于需要批量配置的场景。查看全文",
-          "published_at": "2026-07-17T02:37:12"
         }
       ]
     }
