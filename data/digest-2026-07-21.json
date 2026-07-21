@@ -1,25 +1,35 @@
 {
   "date": "2026-07-21T00:00:00",
-  "total_items": 55,
+  "total_items": 58,
   "sources": [
-    "Product Hunt",
-    "UX Design CC",
-    "Sidebar",
-    "少数派",
-    "Design Milk",
-    "优设网",
-    "UX Planet",
     "人人都是产品经理",
-    "NN/g (Nielsen Norman Group)",
+    "Sidebar",
+    "Smashing Magazine",
     "A List Apart",
-    "Awwwards"
+    "Design Milk",
+    "NN/g (Nielsen Norman Group)",
+    "UX Design CC",
+    "UX Planet",
+    "Awwwards",
+    "少数派",
+    "优设网",
+    "Product Hunt"
   ],
-  "generated_at": "2026-07-21T02:56:39.402010",
+  "generated_at": "2026-07-21T14:00:20.498688",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 7,
+      "count": 11,
       "items": [
+        {
+          "title": "Design experiments are more important than ever, and they don’t require a lab",
+          "url": "https://uxdesign.cc/design-experiments-are-more-important-than-ever-and-they-dont-require-a-lab-a81d68e97393?source=rss----138adf9c44c---4",
+          "author": "Kai Wong",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "If design experiments scare you? Take a page from design leaders and call them bets.Continue reading on UX Collective »",
+          "published_at": "2026-07-21T11:02:04"
+        },
         {
           "title": "Research shouldn’t end in a deck",
           "url": "https://uxdesign.cc/research-shouldnt-end-in-a-deck-fe7c1d4fe1af?source=rss----138adf9c44c---4",
@@ -73,6 +83,33 @@
           "source": "UX Design CC",
           "summary": "Universality isn’t designed into things. It’s selected by surviving constraints — and often, people are the constraint.Continue reading on UX Collective »",
           "published_at": "2026-07-19T20:47:00"
+        },
+        {
+          "title": "Software development is dead",
+          "url": "https://uxplanet.org/software-development-is-dead-4eae8651ac83?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "And it happened not because companies no longer need software. Quite the opposite: we are entering an era in which more software will be…Continue reading on UX Planet »",
+          "published_at": "2026-07-21T10:33:33"
+        },
+        {
+          "title": "The One Color Decision That Makes a UI Look Expensive",
+          "url": "https://uxplanet.org/color-decision-premium-ui-design-d6890efe11ba?source=rss----819cc2aaeee0---4",
+          "author": "Usman Writes",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Open any product that reads as \"premium.\" Linear. Stripe. Vercel. Raycast. Look past the brand color. Look at the backgrounds, the borders…Continue reading on UX Planet »",
+          "published_at": "2026-07-21T09:14:36"
+        },
+        {
+          "title": "Good Design Lives in the Interweaving of Reason and Sensibility",
+          "url": "https://uxplanet.org/good-design-lives-in-the-interweaving-of-reason-and-sensibility-7b22f8e7d9da?source=rss----819cc2aaeee0---4",
+          "author": "Beauty of Creation",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "The most enduring value designers can deliver in the AI era is bridging the object and the subject.Continue reading on UX Planet »",
+          "published_at": "2026-07-21T09:14:13"
         },
         {
           "title": "How to Turn a CSV into Interactive Charts with Claude Code",
@@ -147,8 +184,17 @@
     },
     {
       "category": "产品设计",
-      "count": 8,
+      "count": 9,
       "items": [
+        {
+          "title": "Erwan Bouroullec Turns Crumpled Tyvek Into a Sculptural Wall Lamp",
+          "url": "https://design-milk.com/flos-maap-erwan-bouroullec-wall-lamp/",
+          "author": "Design Milk Staff",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "The Flos collaboration transforms an oversized Tyvek diffuser into a customizable wall lamp",
+          "published_at": "2026-07-21T13:00:29"
+        },
         {
           "title": "Studio Papaya Makes a Small Apartment Feel Surprisingly Spacious",
           "url": "https://design-milk.com/studio-papayas-sbc-apartment-showcases-small-space-and-smart-design/",
@@ -177,56 +223,65 @@
           "published_at": "2026-07-20T13:00:24"
         },
         {
-          "title": "告别「向量库万能论」：分层检索 RAG 如何让企业知识问答真正可用",
-          "url": "https://www.woshipm.com/ai/6432039.html",
-          "author": "天涯轩",
+          "title": "我吓唬面试官：“我用了 Claude Code 两年半！” 他皱眉：“CLAUDE.md 怎么写？” 我挠头：阿巴阿巴。。",
+          "url": "https://www.woshipm.com/share/6433565.html",
+          "author": "程序员鱼皮",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "传统 RAG 几乎等同于「文档切块 + 向量嵌入 + 相似度召回」，在企业落地时却频频翻车：产品型号查错、法规条款张冠李戴、跨文档总结只见树木不见森林，且运维成本随文档量线性攀升。本文提出一套以问题为导向的分层检索 RAG 架构——符号索引优先、语义向量兜底、图谱总结全局、Agent 智能路由——并通过对照传统方案的五个典型选型场景，说明它如何解决传统 RAG 无法可靠处理的问题。若你正在评估知识...",
-          "published_at": "2026-07-21T02:20:51"
+          "summary": "大家好，我是程序员鱼皮。最近我发现一个现象，很多同学开始用 Claude Code、Cursor 这些 AI 编程工具了，但用了一阵子之后就开始抱怨：AI 怎么总是不听话？让它改个 Bug 反而引入三个新 Bug，让它加个功能结果技术栈都给换了。这些问题的根源，往往不是 AI 笨，而是你没有给它足够的上下文。AI 每次开始新会话，都是一张白纸。它不知道你的项目用的是什么技术栈，不知道你们团队的代码...",
+          "published_at": "2026-07-21T10:46:11"
         },
         {
-          "title": "7·15新规长效合规：情感AI企业全生命周期风控治理顶层架构设计",
-          "url": "https://www.woshipm.com/share/6432875.html",
-          "author": "AI合规研究者",
+          "title": "面试官皱眉：“你连 Skills 都不会写？” 我得意：“Codex 新出的录制功能，夯爆了！” 他：“求你入职，给我讲讲~”",
+          "url": "https://www.woshipm.com/share/6433527.html",
+          "author": "程序员鱼皮",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "情感AI产品合规整改屡陷“救火”困局？本文从产品、技术、运营、法务、审计五维视角，搭建覆盖全生命周期的风控治理顶层框架。告别碎片化合规，建立前置评审、嵌入式落地、常态化运营与闭环处置机制，让合规成为产品长期运营的底层基础设施。从产品、技术、运营、法务、审计一体化搭建，告别反复整改、临时救火本专栏在前面七篇文章中，完整拆解了情感AI产品从UGC功能整改、未成年人防护、成年用户分层风控、付费场景改造，...",
-          "published_at": "2026-07-21T02:07:57"
+          "summary": "大家好，我是程序员鱼皮。最近，Codex 上线了一个新功能叫Record & Replay，翻译过来就是「录制与回放」。很多 AI 圈儿的博主把这个功能吹上天了，搞的我也是心痒难耐，对这个功能期待值拉满了。这篇我带大家体验一下这个新功能，然后聊聊它的适用场景和背后的原理。Record & Replay 有什么用？以前让 AI 帮你干活，你得写一段提示词，把每个步骤描述清楚。步骤少还行，可如果流程比...",
+          "published_at": "2026-07-21T09:57:32"
         },
         {
-          "title": "别被“AI焦虑”牵着走：普通人如何建立对AI的正确认识？",
-          "url": "https://www.woshipm.com/ai/6432811.html",
-          "author": "八九十",
+          "title": "Leader 考核实习生：“你怎么配置 Claude Code？” 我挠头：“多写 Skills？” 她摇头：“明天别来了！”",
+          "url": "https://www.woshipm.com/share/6433502.html",
+          "author": "程序员鱼皮",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "面对AI浪潮，焦虑与期待并存。本文直击AI焦虑的根源——不是技术本身，而是对能力贬值、岗位替代和变化速度的担忧。通过拆解四个“不等于”与任务重组逻辑，帮助产品经理建立对AI的准确认知，避免无效学习与盲目恐慌。这两年，AI带来的讨论越来越多。有人认为，AI很快会替代大量岗位；有人认为，AI只是一个更好用的搜索工具；有人每天都在学习新工具，担心自己被落下；也有人因为不懂AI，开始对未来产生强烈的不确定...",
-          "published_at": "2026-07-21T01:43:35"
+          "summary": "大家好，我是程序员鱼皮。最近 Anthropic 官方发了一篇博文，标题叫《Steering Claude Code》，把 Claude Code 的整套配置体系从底层逻辑到使用场景讲了个透。由于是官方团队亲自写的，相当于出题人告诉你标准答案，因此整篇文章的干货价值非常高。今天我结合官方内容加上我自己使用 Claude Code 的经验，给大家做一个完整的中文解读。Claude Code 的调教方...",
+          "published_at": "2026-07-21T09:48:07"
         },
         {
-          "title": "【乙方视角】当你洞察客户时，是在洞察什么-银行客户",
-          "url": "https://www.woshipm.com/share/6425326.html",
-          "author": "钟溯/trace",
+          "title": "面试官坏笑：“怎么用 Claude Code 最烧 token？” 我皱眉：“动态工作流？” 她鼓掌：“晚上吃饭细聊”",
+          "url": "https://www.woshipm.com/share/6433494.html",
+          "author": "程序员鱼皮",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "银行客户洞察是乙方业务的关键，但宏观分析往往脱离实际。本文从乙方视角出发，拆解银行背景、组织层级、对标逻辑、年报数据、招标规律与部门定位六大维度，提供一套可直接指导业务推进的客户分析框架，帮助产品经理精准预判需求、锁定决策人、抢占投标窗口期。市面上对于银行的拆解、分析非常多，分析战略走向，投资规模，营收情况，但是，对于以银行为目标客户的乙方组织，第三视角的分析往往不能切合公司的产品，并且过于发散的...",
-          "published_at": "2026-07-21T01:31:57"
+          "summary": "大家好，我是程序员鱼皮。Anthropic 在 5 月底发布 Claude Opus 4.8 的时候，同步推出了 Claude Code 的动态工作流功能。有人用它 11 天完成了 75 万行代码的语言迁移，有人拿它做全代码库的安全审计。还有人说这玩意儿一跑起来，烧掉的 Token 比自己一个月用的还多……最近有小伙伴面试的时候，就被问到「动态工作流」相关的问题了，但和很多同学一样，对这玩意的理解...",
+          "published_at": "2026-07-21T09:35:29"
         },
         {
-          "title": "领导和客户为什么总追问？真正缺的不是答案，而是这个原因…",
-          "url": "https://www.woshipm.com/share/6432826.html",
-          "author": "需求解法局",
+          "title": "我怒骂：“AI 都解决不了这狗 Bug！” Leader 嘲笑：“用 Cursor 的 Debug 模式，你早就下班了。。”",
+          "url": "https://www.woshipm.com/share/6433488.html",
+          "author": "程序员鱼皮",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "领导在汇报中不断追问细节，往往源于信任缺失。本文从建立信任出发，拆解大领导刨根问底的真实动机，并给出让汇报内容有背书、有依据、有数据支撑的具体方法。同时，还介绍了如何利用AI模拟追问来提前完善汇报，帮助产品经理从容应对各类追问场景。这个是今天知乎热榜上的一个问题。那大领导一直抓着一个问题，使劲往细节上问，通常有几个原因。第一个原因，是他不太相信汇报的人，也有可能是不太相信整个汇报团队，所以会抱着怀...",
-          "published_at": "2026-07-21T01:22:03"
+          "summary": "大家好，我是程序员鱼皮。有人说 Codex 香、Claude Code 夯，但是 Cursor 这个曾经的王者似乎已经过时了？其实不然，Cursor 作为有图形界面的 AI 编程工具，更专注编程开发的体验，不仅内置了代码编辑器，还针对编程场景提供了一些特色功能。今天要分享的《Debug 模式》就是 Cursor 的独家功能，我敢说大多数玩 AI 编程的人都不知道。我一开始也没在意，但体验之后只想说...",
+          "published_at": "2026-07-21T09:24:55"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 13,
+      "count": 14,
       "items": [
+        {
+          "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
+          "url": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
+          "author": "hello@smashingmagazine.com (Durgesh Pawar)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar brea...",
+          "published_at": "2026-07-21T10:00:00"
+        },
         {
           "title": "Designed for a Dead Language",
           "url": "https://alistapart.com/article/designed-for-a-dead-language/",
@@ -282,6 +337,15 @@
           "published_at": null
         },
         {
+          "title": "Lacoste — Polo Factory",
+          "url": "https://www.awwwards.com/sites/lacoste-polo-factory",
+          "author": "Merci Michel",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Lama Lama",
           "url": "https://www.awwwards.com/sites/lama-lama-2",
           "author": "Lama Lama",
@@ -334,57 +398,21 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "PP Neue Montreal",
-          "url": "https://www.awwwards.com/sites/pp-neue-montreal",
-          "author": "Demande Spéciale",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 1,
       "items": [
         {
-          "title": "Autoplot",
-          "url": "https://www.producthunt.com/products/autoplot",
-          "author": "Lale",
+          "title": "tterm",
+          "url": "https://www.producthunt.com/products/tterm",
+          "author": "Tanay",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Unify data analysis and plotting in one powerful workspaceDiscussion|Link",
-          "published_at": "2026-07-19T22:29:54"
-        },
-        {
-          "title": "CaptureKit",
-          "url": "https://www.producthunt.com/products/capturekit-2",
-          "author": "Arjun Gautami",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Keep your desktop clean by auto-organizing screenshots.Discussion|Link",
-          "published_at": "2026-07-19T07:15:24"
-        },
-        {
-          "title": "Backbeat Forge",
-          "url": "https://www.producthunt.com/products/backbeat-forge",
-          "author": "hannes wan",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Turn drum audio into a score you can actually editDiscussion|Link",
-          "published_at": "2026-07-19T18:42:18"
-        },
-        {
-          "title": "Creed",
-          "url": "https://www.producthunt.com/products/creed-2",
-          "author": "Connor Hepburn",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Your personal context file for every agent.Discussion|Link",
-          "published_at": "2026-07-19T17:01:44"
+          "summary": "A terminal, a real browser, and Claude Code under one roofDiscussion|Link",
+          "published_at": "2026-07-19T06:45:16"
         }
       ]
     },
@@ -438,8 +466,8 @@
           "published_at": null
         },
         {
-          "title": "苹果为 Claude 制作动态 Banner，用几行代码赋予品牌生命",
-          "url": "https://www.uisdc.com/hunter/0221677527.html",
+          "title": "发生车祸说不清位置？高德地图报警位置码救了大忙",
+          "url": "https://www.uisdc.com/hunter/0221677757.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -453,49 +481,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Designing with web standards: The playbook for this AI moment",
-          "url": "https://uxdesign.cc/designing-with-web-standards-the-playbook-for-this-ai-moment-92394884dc0d",
+          "title": "AI mania is eviscerating global decisionmaking",
+          "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Jeffrey Zeldman helped end the browser wars by making the case for standards. We are starting that journey again.",
-          "published_at": "2026-07-20T07:47:18"
+          "summary": "The reality of how much damage AI mania is doing to our ability to run institutions effectively.",
+          "published_at": "2026-07-21T07:15:12"
         },
         {
-          "title": "ColorSym",
-          "url": "https://colorsym.com/",
+          "title": "Five to Nine: a photographic series",
+          "url": "https://www.doc.cc/five",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A free, open-source way to identify color when color alone isn’t enough.",
-          "published_at": "2026-07-20T07:46:37"
+          "summary": "This series slips into the hours after the badge comes off—the unbranded life where designers become someone the job never meets.",
+          "published_at": "2026-07-21T07:14:23"
         },
         {
-          "title": "Earning taste and judgment",
-          "url": "https://addyosmani.com/blog/earning-judgment/",
+          "title": "The self-driving company",
+          "url": "https://replit.com/blog/self-driving-company",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Taste used to be a byproduct of the reps. Agents took the reps. So if you’re junior you now have to go get the taste and judgment on purpose.",
-          "published_at": "2026-07-20T07:46:06"
+          "summary": "We are beginning to see what happens when a company learns to operate itself.",
+          "published_at": "2026-07-21T07:13:45"
         },
         {
-          "title": "A history of menus is a menu of history",
-          "url": "https://pudding.cool/2026/06/menu-story/",
+          "title": "Loading UI",
+          "url": "https://loading-ui.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "What do America’s earliest restaurant menus teach us about America?",
-          "published_at": "2026-07-20T07:45:30"
+          "summary": "Free and open source CSS and React loaders, spinners, and animations to create polished, accessible loading states for modern web apps.",
+          "published_at": "2026-07-21T07:12:57"
         },
         {
-          "title": "Do we still need build tools?",
-          "url": "https://olliewilliams.xyz/blog/no-build/",
+          "title": "Are we stuck in the typographic principles of the 20th century?",
+          "url": "https://www.itsnicethat.com/articles/matter-of-new-new-typography-graphic-design-publication-project-150726",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How necessary are build tools for frontend development in 2026? Let’s take a look.",
-          "published_at": "2026-07-20T07:43:36"
+          "summary": "A manual for the most unstable art: type design.",
+          "published_at": "2026-07-21T07:12:15"
         }
       ]
     },
@@ -503,6 +531,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车",
+          "url": "https://sspai.com/post/112582",
+          "author": "Matrix机器人",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+          "published_at": "2026-07-21T09:00:00"
+        },
+        {
+          "title": "装上 Fedora 的 Surface Pro：一台老设备的新可能",
+          "url": "https://sspai.com/post/112200",
+          "author": "StephenFang",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "给 Surface Pro 5 安装上仍在积极更新的 Linux 发行版，它会成为一台更可用的设备吗？查看全文",
+          "published_at": "2026-07-21T07:00:00"
+        },
+        {
+          "title": "App+1 | 把「从长视频截取片段」做到极致：Trimly",
+          "url": "https://sspai.com/post/111569",
+          "author": "Bleaker",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "作为有多年专业音视频开发经验的技术工作者，我给自己，以及可能也有类似需求的你，做了一个把「从长视频里截取片段」这件事做到极致的产品。查看全文",
+          "published_at": "2026-07-21T03:00:02"
+        },
         {
           "title": "派早报：京沪高铁与京沪铁路试点提前 60 天预约购票等",
           "url": "https://sspai.com/post/112565",
@@ -529,33 +584,6 @@
           "source": "少数派",
           "summary": "在拥有你我理想的超大自主空间之前，不如用一张桌垫改善一下自己的工作生活环境，过得多舒心一点点吧。查看全文",
           "published_at": "2026-07-20T07:05:31"
-        },
-        {
-          "title": "2026 年再看 iPhone 8 Plus，它还够用吗？",
-          "url": "https://sspai.com/post/112425",
-          "author": "旋转的陀螺",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "高考结束后，又有一大批同学开始考虑换新手机啦。在预算差不多的情况下，很多人会纠结是买一台较新的中端机，还是买一台年份更老、但曾经是旗舰级的机型。于是我把 2020 年购入的 iPhone 8 Plus 拿出来当了一星期主力机，看看这台 2017 年发布的手机，放到今天还能不能胜任日常使用。查看全文",
-          "published_at": "2026-07-20T03:00:00"
-        },
-        {
-          "title": "派早报：锂电池消费税分阶段恢复征收",
-          "url": "https://sspai.com/post/112498",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "锂电池消费税分阶段恢复征收白宫提词器操作员利用内幕信息下注被查LG 显示器连接电脑后自动安装广告程序新一代豆包手机不再模拟点击操作亚马逊错发数亿美元云服务账单京沪线试点 12306 预约购票，最早提前 60 天看看就行的小道消息少数派的近期动态你可能错过的好文章查看全文",
-          "published_at": "2026-07-19T23:11:33"
-        },
-        {
-          "title": "TDS REVIEW | 索尼 WH-1000XX 无线降噪头戴耳机体验",
-          "url": "https://sspai.com/post/112374",
-          "author": "KingTsui",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "这篇文章是TDSStudio在少数派上的第26篇文章，依然是全平台首发。1000XTheColleXion，这是索尼1000X系列的十周年纪念产品线。完全想不到跟群友们畅聊MDR-1000X的时代已经 ...查看全文",
-          "published_at": "2026-07-19T03:00:00"
         }
       ]
     }
