@@ -1,27 +1,35 @@
 {
   "date": "2026-07-24T00:00:00",
-  "total_items": 70,
+  "total_items": 68,
   "sources": [
+    "Smashing Magazine",
+    "UX Design CC",
     "Design Milk",
     "人人都是产品经理",
-    "Product Hunt",
-    "Sidebar",
-    "Smashing Magazine",
+    "Awwwards",
     "优设网",
     "少数派",
-    "UX Design CC",
+    "Product Hunt",
     "UX Planet",
+    "A List Apart",
     "NN/g (Nielsen Norman Group)",
-    "CSS-Tricks",
-    "Awwwards",
-    "A List Apart"
+    "Sidebar"
   ],
-  "generated_at": "2026-07-24T02:55:04.690256",
+  "generated_at": "2026-07-24T13:51:36.402055",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 15,
+      "count": 16,
       "items": [
+        {
+          "title": "The aggressively mediocre fight",
+          "url": "https://uxdesign.cc/the-aggressively-mediocre-fight-ed47b3f9f8f4?source=rss----138adf9c44c---4",
+          "author": "Chris R Becker",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The battle we have with AI and something we can do about it.Continue reading on UX Collective »",
+          "published_at": "2026-07-24T11:09:24"
+        },
         {
           "title": "Steal this UX framework from Dubai’s most over-the-top hotel",
           "url": "https://uxdesign.cc/steal-this-ux-framework-from-dubais-most-over-the-top-hotel-0b14f71e46e5?source=rss----138adf9c44c---4",
@@ -278,49 +286,49 @@
           "published_at": "2026-07-21T17:25:36"
         },
         {
-          "title": "大学文凭和专业牌照，正成为AI时代的难兄难弟",
-          "url": "https://www.woshipm.com/it/6434639.html",
-          "author": "职场人类学",
+          "title": "从「管人」到「管模型」：在线客服与AI客服的数据评估体系有何根本不同？",
+          "url": "https://www.woshipm.com/ai/6434866.html",
+          "author": "Miss卓卓",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI正在重新定义专业人士的价值，从律师、会计师到医生，标准化知识工作面临冲击。大学作为传统精英培养体系，同样遭遇挑战。本文深入分析AI如何瓦解专业壁垒，并探讨专业人士与大学如何在新环境下重塑自身价值。最近看到很多关于 AI 冲击各行业的讨论。除了专业人士群体，大学也将成为遭受AI影响最大的领域之一。以前对很多普通人家的孩子来说，最好的上升路径就是读一个好大学，拿一个好文凭，然后做医生、律师、会计师...",
-          "published_at": "2026-07-24T01:35:04"
+          "summary": "当AI客服从100人变成1000个并发，评估效率的底层逻辑彻底变了。传统指标围绕“管人”构建，而AI客服需要一套围绕“管模型”的新框架——从NLU理解、RAG检索到LLM安全，每个环节都需独立量化。本文拆解五个核心差异，帮你重新设计评估体系。当客服系统从100个人变成1000个AI并发时，真正变化的不是效率数字，而是评估效率的底层逻辑。一、一个场景，两个世界假设你正在负责智能客服项目。周一早会上，...",
+          "published_at": "2026-07-24T10:04:34"
         },
         {
-          "title": "流失分析：如何提前发现即将离开的客户？",
-          "url": "https://www.woshipm.com/operate/6434518.html",
-          "author": "老徐的干货铺",
+          "title": "别人都在搞AI，你的企业要不要跟？先听听9年老兵怎么说",
+          "url": "https://www.woshipm.com/ai/6434887.html",
+          "author": "嘻嘻李",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "客户流失不是瞬间动作，而是一段关系逐渐降温的过程。本文深入解析银行流失分析的核心方法，从定义流失事件、寻找临界点到整合六类数据，帮助产品经理在客户离开前识别风险信号，提前介入挽回。上一篇讲RFM模型时，我们提到了一类很容易被忽视的客户：重要挽留客户。这类客户通常有一个共同特征：M高，但R低、F低。也就是说，客户价值还在，但最近行为变少了，交易频率也降下来了。RFM能把这类客户识别出来，但它还不能回...",
-          "published_at": "2026-07-24T01:26:10"
+          "summary": "FDE岗位暴增800%，年薪200万起步，但真正落地时第一步该做什么？本文从9年企业数字化经验出发，拆解AI Coding落地的四个阶段，揭示数据基建是隐形天花板，并给出从“工具选型”到“协作制度”的完整操作手册。最近 FDE（Forward-Deployed Engineer，前向部署工程师）这个岗位火得一塌糊涂，岗位暴增800%+，年薪200万起步。OpenAI专门成立了40亿美元的公司派驻场...",
+          "published_at": "2026-07-24T10:04:26"
         },
         {
-          "title": "你的老本，还能在AI时代吃多久？",
-          "url": "https://www.woshipm.com/zhichang/6434569.html",
-          "author": "产品方法论集散地",
+          "title": "一行代码不会写，我靠“白嫖”AI，做出了一个 3.2K Star 的开源工具",
+          "url": "https://www.woshipm.com/ai/6434831.html",
+          "author": "坨小兔",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当iOS开发哥们回老家三年后问“还有机会吗”，我无奈却清醒：互联网时代的黄金岗位在AI时代几乎消失。本文从个人经历出发，揭示经验如何成为束缚，并给出AI时代“迁徙指南”：转换思维、重构工作流、实践Vibe Work、参与AI产品。时代变了，别指望老本吃一辈子。周末回哈尔滨，跟一个离开北京回老家三年的哥们聊天，让我深有感触。他抛出了一个灵魂拷问：“如果现在回北京，还有iOS研发岗的机会吗？”我无奈却...",
-          "published_at": "2026-07-24T01:09:39"
+          "summary": "作为一个连 Hello World 都敲不利索的产品经理，我没写一行代码，却上线了一款目前 3.2K Star 的 GitHub 开源工具。这篇文章想聊聊：一个\"只会提需求\"的产品，是怎么用免费的 AI 额度，把一个自用的小玩意儿养成了一款持续迭代的产品。先把结论摆在最前面，免得觉得我在贩卖焦虑：我不会写代码，真的，一行都不会；我没花一分钱买 AI 会员，全靠各家大模型的免费额度”薅羊毛”；我做的...",
+          "published_at": "2026-07-24T10:01:57"
         },
         {
-          "title": "DeepSeek的克制哲学",
-          "url": "https://www.woshipm.com/ai/6434447.html",
-          "author": "像素呼吸",
+          "title": "中文播客，词汇通胀",
+          "url": "https://www.woshipm.com/it/6434950.html",
+          "author": "吴怼怼",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在投资人交流会上，DeepSeek创始人梁文锋反复强调的不是融资或市场份额，而是“克制”。开源、低价、不抢用户，背后是一套“合理利润”逻辑。当算力有限时，效率不是优化项，而是生存方式。本文拆解这家公司如何通过克制提高做成AGI的概率。一场面向投资人的交流会里，梁文锋反复说的却不是融资、收入和市场份额，而是两个字：克制。模型为什么要开源？价格为什么不再往上抬？去年突然来的 C 端用户，为什么不急着抢...",
-          "published_at": "2026-07-24T01:05:57"
+          "summary": "中文播客正在塑造一套新的“精神词典”：原生家庭、主体性、情绪价值、奥德赛时期……这些词汇帮助人们重新解释生活，却也带来新的焦虑。当心理热词成为答案，现实问题反而被掩盖。本文深入剖析播客如何制造并消费这些概念，以及我们如何避免被词语绑架。只要连续听几档中文播客，很快就能学会一套新的普通话。谈童年，要说“原生家庭”；谈性格，要说“高敏感”“讨好型人格”；谈工作，要警惕“内耗”和“低能量”；谈关系，要看...",
+          "published_at": "2026-07-24T09:32:52"
         },
         {
-          "title": "AI 把代码写快了 10 倍，为什么交付只快了 18%？",
-          "url": "https://www.woshipm.com/ai/6434517.html",
-          "author": "叶小钗",
+          "title": "为什么AI对就业的冲击没有体现在失业率上？",
+          "url": "https://www.woshipm.com/ai/6434914.html",
+          "author": "卫夕",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "最近我为某公司研发团队做了一次相对深入的咨询陪跑，过程中分享了过去两年做 AI 原生组织的一些经验。为了准备这次培训，我把近三个月看到的 AI 团队实践又翻了一遍。OpenAI、Shopify、Spotify、Dropbox、Figma、百度、腾讯、阿里，还有一些只有几个人，却同时跑着上百个 Agent 的小团队。再加上我这三年做过的 25 个 AI 项目，材料堆在一起以后，我原本以为能整理出一份...",
-          "published_at": "2026-07-23T11:30:18"
+          "summary": "AI对就业的冲击早已开始，但并未直接体现在失业率上。三篇劳动经济学论文揭示，企业通过悄悄修改招聘岗位内容和任务职责来应对，招聘启事中近一半任务已被AI覆盖，高级岗位和初级岗位均受影响，而人力资本溢价正在压缩。都说AI抢工作，但一个显而易见的疑问是——失业率的数据为神马动静不大？没错，一边我们看到AI能力在狂飙，但另一边就业市场似乎比较平静。我现在很多工作的确交给Claude Code和WorkBu...",
+          "published_at": "2026-07-24T09:25:10"
         }
       ]
     },
@@ -392,6 +400,15 @@
           "published_at": null
         },
         {
+          "title": "Spotify Wrapped Party",
+          "url": "https://www.awwwards.com/sites/spotify-wrapped-party",
+          "author": "Active Theory",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "NORMAL IS BORING",
           "url": "https://www.awwwards.com/sites/normal-is-boring",
           "author": "LaNegrita",
@@ -453,66 +470,39 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "CoffeeTech®",
-          "url": "https://www.awwwards.com/sites/coffeetech-r",
-          "author": "Or Halevi",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 3,
       "items": [
         {
-          "title": "Basedash AI Kit",
-          "url": "https://www.producthunt.com/products/basedash",
-          "author": "Max Musing",
+          "title": "Freesolo Flash",
+          "url": "https://www.producthunt.com/products/freesolo-flash",
+          "author": "Garry Tan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Ship AI analytics in your product, powered by GPT-5.6Discussion|Link",
-          "published_at": "2026-07-23T03:16:23"
+          "summary": "Full-Stack Platform for Training Small Language ModelsDiscussion|Link",
+          "published_at": "2026-07-22T23:50:08"
         },
         {
-          "title": "OpenCode Superapp",
-          "url": "https://www.producthunt.com/products/opencode-superapp",
-          "author": "Andrew Flores",
+          "title": "The new Firecrawl /search",
+          "url": "https://www.producthunt.com/products/extract-by-firecrawl",
+          "author": "Eric Ciarla",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The power of Codex with local, self-hosted models and voiceDiscussion|Link",
-          "published_at": "2026-07-23T05:29:02"
+          "summary": "Our most accurate Search API for AI agents.Discussion|Link",
+          "published_at": "2026-07-22T17:18:35"
         },
         {
-          "title": "ReExplain",
-          "url": "https://www.producthunt.com/products/reexplain",
-          "author": "Indrajit Vijayakumar",
+          "title": "HarnessRouter",
+          "url": "https://www.producthunt.com/products/epsilla",
+          "author": "Garry Tan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Explain what you know to AI and discover what you don'tDiscussion|Link",
-          "published_at": "2026-07-22T16:25:32"
-        },
-        {
-          "title": "SMASH Voice to Invoice",
-          "url": "https://www.producthunt.com/products/smash-voice-to-invoice",
-          "author": "Daniel Neale",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Build and send quotes as fast as you can talkDiscussion|Link",
-          "published_at": "2026-07-22T07:49:35"
-        },
-        {
-          "title": "Swenest",
-          "url": "https://www.producthunt.com/products/swenest",
-          "author": "Ashish Waikar",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "A platform that teaches how to navigate real-world code.Discussion|Link",
-          "published_at": "2026-07-22T17:25:47"
+          "summary": "Bring the world's best AI agents into your app, with one APIDiscussion|Link",
+          "published_at": "2026-07-22T06:15:36"
         }
       ]
     },
@@ -581,64 +571,49 @@
       "count": 5,
       "items": [
         {
-          "title": "AI personality is a design problem",
-          "url": "https://uxdesign.cc/ai-personality-is-a-design-problem-58fbc7926a3d?sk=b159b61f2abcb25776fd87985724be7e",
+          "title": "The algorithmic atelier",
+          "url": "https://www.doc.cc/articles/the-algorithmic-atelier",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Right now it’s an accidental byproduct of AI alignment. It could be an interface we build deliberately.",
-          "published_at": "2026-07-23T05:20:29"
+          "summary": "Generative AI and the long history of artistic automation.",
+          "published_at": "2026-07-24T06:52:22"
         },
         {
-          "title": "Uncovered.ink",
-          "url": "https://uncovered.ink/",
+          "title": "Which AI? — Guess the designer",
+          "url": "https://guess-the-designer.replit.app/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Judge a book by its writing. Read first pages blind. No cover, no name, no hype. Find out what you actually fall for.",
-          "published_at": "2026-07-23T05:20:02"
+          "summary": "A daily guessing game. Spot whether each landing page was designed by Gemini, Claude, or GPT.",
+          "published_at": "2026-07-24T06:51:39"
         },
         {
-          "title": "A side project is the fastest way to upskill in the age of AI",
-          "url": "https://www.philmorton.co/a-side-project-is-the-fastest-way-to-upskill-in-the-age-of-ai/",
+          "title": "Make it work vs. make it good",
+          "url": "https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Don’t miss out on the learning you get from building a real thing.",
-          "published_at": "2026-07-23T05:19:28"
+          "summary": "That’s the work of design: to make something so good, it’s obvious.",
+          "published_at": "2026-07-24T06:51:06"
         },
         {
-          "title": "The Java Story (official doc)",
-          "url": "https://www.youtube.com/watch?v=ZqGSg4b_cZA",
+          "title": "UI SFX",
+          "url": "https://uisfx.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Java's journey is one of radical innovation, strategic pivots, and enduring community strength.",
-          "published_at": "2026-07-23T05:19:07"
+          "summary": "78 open-source, semantic UI cues in 12 switchable feels. Seamless loops for web, mobile, SaaS, and games.",
+          "published_at": "2026-07-24T06:49:39"
         },
         {
-          "title": "Setting type like a printed page",
-          "url": "https://www.carmenansio.com/articles/editorial-typography-css/",
+          "title": "On layout choreography",
+          "url": "https://karlkoch.me/writing/on-layout-choreography",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Fluid scales, balanced headings, drop caps, optical sizing, hanging punctuation, and more.",
-          "published_at": "2026-07-23T05:17:55"
-        }
-      ]
-    },
-    {
-      "category": "前端设计",
-      "count": 1,
-      "items": [
-        {
-          "title": "writing-mode",
-          "url": "https://css-tricks.com/almanac/properties/w/writing-mode/",
-          "author": "Mojtaba Seyedi",
-          "category": "前端设计",
-          "source": "CSS-Tricks",
-          "summary": "Thewriting-modeCSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress..element { writing-mode: vertical-rl; }This is mo...",
-          "published_at": "2026-07-21T09:39:10"
+          "summary": "Layout animation keeps spatial memory intact when lists reorder, panels expand, and items enter or leave.",
+          "published_at": "2026-07-24T06:48:44"
         }
       ]
     },
@@ -646,6 +621,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "本周看什么 | 最近值得一看的 13 部作品",
+          "url": "https://sspai.com/post/112692",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "📅本周新预告《复仇者联盟5：毁灭之日》正式预告7月20日，电影《复仇者联盟5：毁灭之日》发布了正式预告，将于12月全球献映。罗素兄弟执导，克里斯·埃文斯、克里斯·海姆斯沃斯、佩德罗·帕斯卡、小罗伯特· ...查看全文",
+          "published_at": "2026-07-24T09:38:35"
+        },
+        {
+          "title": "角落新声｜数字与实体、有线与无线：我的多场景有声角落构建",
+          "url": "https://sspai.com/post/112232",
+          "author": "程天冲",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "编者按：本文是「角落新声」征文活动的入围文章。本次主题征文由声擎冠名，邀你前来分享那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅。8月7日前投稿参与，即有机会获得声擎Cyber5 ...查看全文",
+          "published_at": "2026-07-24T07:00:00"
+        },
+        {
+          "title": "赛博对话｜对话潘玮哲x老麦煮机：电子产品在悄悄变贵！",
+          "url": "https://sspai.com/post/112679",
+          "author": "老麦",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "不是说好AI来临人类就解放了吗，怎么我连手机都买不起了？查看全文",
+          "published_at": "2026-07-24T03:00:00"
+        },
         {
           "title": "派早报：Acrab 发布边缘 AI 芯片 GELIX 1 和个人 AI 系统 Agent Box 等",
           "url": "https://sspai.com/post/112677",
@@ -672,33 +674,6 @@
           "source": "少数派",
           "summary": "Pocket 一体式云台相机满是让人不容小觑的护城河与想象空间。查看全文",
           "published_at": "2026-07-23T07:00:00"
-        },
-        {
-          "title": "让 Windows 顺眼又省心：我的新设备配置经验",
-          "url": "https://sspai.com/post/111300",
-          "author": "Cyanrel",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "published_at": "2026-07-23T02:57:30"
-        },
-        {
-          "title": "派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等",
-          "url": "https://sspai.com/post/112647",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "OpenAI 发布面向企业用户的 OpenAI Presence，耐克宣布重构大中华区市场生态等。查看全文",
-          "published_at": "2026-07-23T00:50:21"
-        },
-        {
-          "title": "Parti：一个零门槛联机游戏平台，凭什么不需要服务器？",
-          "url": "https://sspai.com/post/112545",
-          "author": "Link25",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "published_at": "2026-07-22T09:43:06"
         }
       ]
     }
