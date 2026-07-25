@@ -1,20 +1,20 @@
 {
   "date": "2026-07-25T00:00:00",
-  "total_items": 57,
+  "total_items": 60,
   "sources": [
-    "人人都是产品经理",
-    "A List Apart",
-    "Design Milk",
-    "NN/g (Nielsen Norman Group)",
-    "Product Hunt",
-    "UX Design CC",
-    "UX Planet",
-    "Awwwards",
     "优设网",
-    "少数派",
-    "Sidebar"
+    "Awwwards",
+    "人人都是产品经理",
+    "Product Hunt",
+    "Sidebar",
+    "Design Milk",
+    "A List Apart",
+    "UX Planet",
+    "NN/g (Nielsen Norman Group)",
+    "UX Design CC",
+    "少数派"
   ],
-  "generated_at": "2026-07-25T02:54:31.893015",
+  "generated_at": "2026-07-25T13:41:58.480397",
   "categories": [
     {
       "category": "用户体验设计",
@@ -213,49 +213,49 @@
           "published_at": "2026-07-22T16:53:14"
         },
         {
-          "title": "从“拼价格”到“守底线”，美团、淘宝闪购、京东外卖的隐秘蜕变",
-          "url": "https://www.woshipm.com/it/6434991.html",
-          "author": "三车财观",
+          "title": "让 AI 写文章不难，难的是把整段对话变成能发布的内容",
+          "url": "https://www.woshipm.com/ai/6432955.html",
+          "author": "弗洛伊德",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "一张35.97亿元的罚单，让外卖平台的“幽灵外卖”问题无处遁形。美团、淘宝闪购、京东外卖三大巨头各有优势与短板：美团靠线下铁军掌控全局，淘宝闪购借阿里全域流量降维打击，京东则以品质合规一骑绝尘。本文深度解析三家的差异化竞争格局，并展望行业从野蛮生长走向价值重塑的未来趋势。今年4月中旬，一个252元的蛋糕让市场监管部门对外卖平台进行了再次重罚。这次，监管部门给拼多多、美团、京东、淘宝闪购等7家主要电...",
-          "published_at": "2026-07-25T02:29:25"
+          "summary": "当AI工具能快速生成文章，真正的挑战在于如何确保内容完整、事实一致。作者分享了一套content-publishing-sop工作流，从完整对话中提取关键决策，生成母稿后适配多平台，并坚持发布后从读者视角检查。这套方法避免了“只记住最后答案”的陷阱，让复杂经验真正可复用。我现在已经不太会对 Codex 说：“把刚才的内容总结成一篇文章。”Codex 通常几分钟就能给我一篇结构完整的稿子。麻烦在后面...",
+          "published_at": "2026-07-25T08:36:46"
         },
         {
-          "title": "从「管人」到「管模型」：在线客服与AI客服的数据评估体系有何根本不同？",
-          "url": "https://www.woshipm.com/ai/6434866.html",
-          "author": "Miss卓卓",
+          "title": "Opus5 官方 Prompt 指南",
+          "url": "https://www.woshipm.com/ai/6435421.html",
+          "author": "赛博禅心",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI客服从100人变成1000个并发，评估效率的底层逻辑彻底变了。传统指标围绕“管人”构建，而AI客服需要一套围绕“管模型”的新框架——从NLU理解、RAG检索到LLM安全，每个环节都需独立量化。本文拆解五个核心差异，帮你重新设计评估体系。当客服系统从100个人变成1000个AI并发时，真正变化的不是效率数字，而是评估效率的底层逻辑。一、一个场景，两个世界假设你正在负责智能客服项目。周一早会上，...",
-          "published_at": "2026-07-24T10:04:34"
+          "summary": "Claude Code 负责人揭秘：面向更强模型，系统提示词删掉八成，编码评测无损失。从过度约束到松绑，从堆例子到接口设计，从一股脑全放前到渐进式披露——上下文工程的新规则，正在被重写。“我们删掉了 Claude Code 里 80% 的系统提示词”本文作者 Thariq Shihipar，Claude Code 的负责人，文章发表于 Claude 官方博客，以下为逐段中英对照翻译本文以这篇官方博...",
+          "published_at": "2026-07-25T07:04:33"
         },
         {
-          "title": "别人都在搞AI，你的企业要不要跟？先听听9年老兵怎么说",
-          "url": "https://www.woshipm.com/ai/6434887.html",
-          "author": "嘻嘻李",
+          "title": "微信输入法更新，隔空传送大变",
+          "url": "https://www.woshipm.com/share/6435198.html",
+          "author": "产品笔记",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "FDE岗位暴增800%，年薪200万起步，但真正落地时第一步该做什么？本文从9年企业数字化经验出发，拆解AI Coding落地的四个阶段，揭示数据基建是隐形天花板，并给出从“工具选型”到“协作制度”的完整操作手册。最近 FDE（Forward-Deployed Engineer，前向部署工程师）这个岗位火得一塌糊涂，岗位暴增800%+，年薪200万起步。OpenAI专门成立了40亿美元的公司派驻场...",
-          "published_at": "2026-07-24T10:04:26"
+          "summary": "微信输入法三端同步更新，隔空传送新增相册照片一键发送功能，跨设备传文件更高效。自定义设备名称避免传错，长按候选词可固定或删除，让输入更个性。这些细节优化如何提升日常使用体验？近日，微信输入法iOS、Android、Mac 端三端同时更新，距离上次更新已快一个月。这次新版本新增了好几个实用的功能。一、相册照片，可一键隔空传送点击手机相册里照片「分享」，找到「微信输入法」，直接进入「微信输入法」隔空传...",
+          "published_at": "2026-07-25T06:25:03"
         },
         {
-          "title": "一行代码不会写，我靠“白嫖”AI，做出了一个 3.2K Star 的开源工具",
-          "url": "https://www.woshipm.com/ai/6434831.html",
-          "author": "坨小兔",
+          "title": "携程被罚51.79亿：锁开了，但接得住的未必是美团",
+          "url": "https://www.woshipm.com/share/6435184.html",
+          "author": "Link01",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "作为一个连 Hello World 都敲不利索的产品经理，我没写一行代码，却上线了一款目前 3.2K Star 的 GitHub 开源工具。这篇文章想聊聊：一个\"只会提需求\"的产品，是怎么用免费的 AI 额度，把一个自用的小玩意儿养成了一款持续迭代的产品。先把结论摆在最前面，免得觉得我在贩卖焦虑：我不会写代码，真的，一行都不会；我没花一分钱买 AI 会员，全靠各家大模型的免费额度”薅羊毛”；我做的...",
-          "published_at": "2026-07-24T10:01:57"
+          "summary": "市场监管总局对携程开出51.79亿元罚单，核心在于其利用“发牌权”控制酒店供给和定价。罚单拆除了独家合作和最低价约束，但高星酒店供给释放后，谁能真正接住？抖音已补上日历房能力，美团则面临利润与投入的权衡。竞争规则正从锁供给转向用户效率。今天，市场监管总局对携程开出51.79亿元罚单，理由是滥用市场支配地位。核心违法事实有两条：一是要求“特牌”酒店独家合作，不得再与竞争平台合作；二是要求“金牌”和“...",
+          "published_at": "2026-07-25T06:18:02"
         },
         {
-          "title": "中文播客，词汇通胀",
-          "url": "https://www.woshipm.com/it/6434950.html",
-          "author": "吴怼怼",
+          "title": "苦修者梁文峰",
+          "url": "https://www.woshipm.com/it/6435158.html",
+          "author": "智见 Time",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "中文播客正在塑造一套新的“精神词典”：原生家庭、主体性、情绪价值、奥德赛时期……这些词汇帮助人们重新解释生活，却也带来新的焦虑。当心理热词成为答案，现实问题反而被掩盖。本文深入剖析播客如何制造并消费这些概念，以及我们如何避免被词语绑架。只要连续听几档中文播客，很快就能学会一套新的普通话。谈童年，要说“原生家庭”；谈性格，要说“高敏感”“讨好型人格”；谈工作，要警惕“内耗”和“低能量”；谈关系，要看...",
-          "published_at": "2026-07-24T09:32:52"
+          "summary": "AGI的探索路径正分化成两条路线：一条相信规模扩大将带来智能的“顿悟”，另一条主张在现实世界中持续“渐悟”。DeepSeek创始人梁文峰选择了第三条路——先让AI学会如何学习。本文深入剖析这场关于智能本质的路线之争，以及它如何影响资本的下注方向。禅宗有一桩流传千年的公案。五祖弘忍门下，神秀与慧能留下两首偈语，道出了两种不同的悟道路径。神秀留下“身是菩提树，心如明镜台”，相信智慧来自日日修行，在漫长...",
+          "published_at": "2026-07-25T06:13:31"
         }
       ]
     },
@@ -315,6 +315,15 @@
           "category": "网页设计",
           "source": "A List Apart",
           "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
+          "published_at": null
+        },
+        {
+          "title": "Artem Shcherbakov",
+          "url": "https://www.awwwards.com/sites/artem-shcherbakov",
+          "author": "SALT AND PEPPER",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
           "published_at": null
         },
         {
@@ -379,30 +388,48 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Hiroto Sato",
-          "url": "https://www.awwwards.com/sites/hiroto-sato",
-          "author": "Hiroto Sato",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 1,
+      "count": 4,
       "items": [
         {
-          "title": "HarnessRouter",
-          "url": "https://www.producthunt.com/products/epsilla",
-          "author": "Garry Tan",
+          "title": "Velane",
+          "url": "https://www.producthunt.com/products/velane",
+          "author": "Abhishek Raj",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Bring the world's best AI agents into your app, with one APIDiscussion|Link",
-          "published_at": "2026-07-22T06:15:36"
+          "summary": "Cloud for your AI Agent's tools and functionsDiscussion|Link",
+          "published_at": "2026-07-23T20:34:12"
+        },
+        {
+          "title": "Wisprkey",
+          "url": "https://www.producthunt.com/products/wisprkey-mac-ai-assistant",
+          "author": "Roni Henareh",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Talk to any app on your MacDiscussion|Link",
+          "published_at": "2026-07-22T13:59:51"
+        },
+        {
+          "title": "Heard",
+          "url": "https://www.producthunt.com/products/heard-2",
+          "author": "Abdul Rehman",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Give Claude Code and Codex a voiceDiscussion|Link",
+          "published_at": "2026-07-24T15:26:43"
+        },
+        {
+          "title": "FluentDB",
+          "url": "https://www.producthunt.com/products/fluentdb-2",
+          "author": "Kevin Piacentini",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The AI database client for MacDiscussion|Link",
+          "published_at": "2026-07-22T08:36:28"
         }
       ]
     },
@@ -522,6 +549,15 @@
       "count": 6,
       "items": [
         {
+          "title": "看不见、摸得着的家居要素：聊聊湿度管理的方法与实践",
+          "url": "https://sspai.com/post/112093",
+          "author": "kokdemo",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "基于这两年的「抗湿经验」，与大家聊聊湿度相关的一些事情。查看全文",
+          "published_at": "2026-07-25T03:09:49"
+        },
+        {
           "title": "本周看什么 | 最近值得一看的 13 部作品",
           "url": "https://sspai.com/post/112692",
           "author": "少数派编辑部",
@@ -565,15 +601,6 @@
           "source": "少数派",
           "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@Lotta：海备思文件夹读 ...查看全文",
           "published_at": "2026-07-23T09:38:21"
-        },
-        {
-          "title": "小小云台，稳住「口袋电影机」：DJI Pocket 4P 漫谈",
-          "url": "https://sspai.com/post/112428",
-          "author": "Microhoo",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Pocket 一体式云台相机满是让人不容小觑的护城河与想象空间。查看全文",
-          "published_at": "2026-07-23T07:00:00"
         }
       ]
     }
