@@ -1,23 +1,25 @@
 {
   "date": "2026-07-28T00:00:00",
-  "total_items": 47,
+  "total_items": 56,
   "sources": [
-    "人人都是产品经理",
-    "UX Design CC",
-    "NN/g (Nielsen Norman Group)",
-    "优设网",
-    "Product Hunt",
     "Design Milk",
+    "NN/g (Nielsen Norman Group)",
     "A List Apart",
-    "Sidebar",
+    "优设网",
+    "UX Planet",
     "少数派",
-    "UX Planet"
+    "人人都是产品经理",
+    "Awwwards",
+    "Sidebar",
+    "UX Design CC",
+    "Product Hunt",
+    "Smashing Magazine"
   ],
-  "generated_at": "2026-07-28T02:47:12.551325",
+  "generated_at": "2026-07-28T14:16:15.363730",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 7,
+      "count": 8,
       "items": [
         {
           "title": "From frictionless to meaningful",
@@ -47,7 +49,7 @@
           "published_at": "2026-07-27T11:17:20"
         },
         {
-          "title": "Information architecture is the foundation artificial intelligence is starving for",
+          "title": "Information architecture is the foundation AI is starving for",
           "url": "https://uxdesign.cc/information-architecture-is-the-foundation-artificial-intelligence-is-starving-for-1d91fb5bf59f?source=rss----138adf9c44c---4",
           "author": "Patrick Neeman",
           "category": "用户体验设计",
@@ -74,6 +76,15 @@
           "published_at": "2026-07-26T12:08:08"
         },
         {
+          "title": "Claude Design can craft 3D objects",
+          "url": "https://uxplanet.org/claude-design-can-craft-3d-objects-9a2c94808ca6?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Many people use Claude Design to craft UI mocks, and while this use case remains the most popular, the tool offers a few interesting…Continue reading on UX Planet »",
+          "published_at": "2026-07-28T11:00:44"
+        },
+        {
           "title": "Claude Opus 5 for Product Designers",
           "url": "https://uxplanet.org/claude-opus-5-for-product-designers-a9c4579ea19b?source=rss----819cc2aaeee0---4",
           "author": "Nick Babich",
@@ -86,8 +97,17 @@
     },
     {
       "category": "用户体验研究",
-      "count": 5,
+      "count": 6,
       "items": [
+        {
+          "title": "A Concrete Definition of “Product Sense” (and How to Build It)",
+          "url": "https://www.nngroup.com/articles/product-sense-definition/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
         {
           "title": "UX-Context Design: Using UX Knowledge to Inform AI-Generated Design",
           "url": "https://www.nngroup.com/articles/ux-context-design/",
@@ -167,56 +187,65 @@
           "published_at": "2026-07-27T16:32:26"
         },
         {
-          "title": "AI 时代，那些你看都不看的逐字稿才是真正的数据资产",
-          "url": "https://www.woshipm.com/ai/6435849.html",
-          "author": "冲量AI",
+          "title": "上线3个月、1200万DAU，WorkBuddy是怎么炼成的？",
+          "url": "https://www.woshipm.com/ai/6436539.html",
+          "author": "Z Finance",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI能读懂你从未翻开的逐字稿，知识管理的逻辑正在被重写。本文深入探讨了逐字稿作为数据资产的核心价值——它保存的不仅是共识，更是分歧、追问与认知变化的完整证据链。作者提出三层知识架构，揭示如何让AI从原始记录中持续维护更干净、更准确的知识视图。人们很少重读逐字稿，却习惯把总结当成知识本身。但当大量总结脱离来源、版本和时间关系进入知识库，越整齐的文档反而可能制造越隐蔽的冲突。AI 时代，逐字稿更重要...",
-          "published_at": "2026-07-28T02:21:05"
+          "summary": "2026年7月，腾讯内部开始讨论，上线仅数月的WorkBuddy，能不能冲进今年的「名品堂」？「名品堂」是腾讯内部对里程碑式产品的最高奖励之一。它并非每年颁发。自2015年设立以来，微信支付、王者荣耀、微信小程序、腾讯视频、微信视频号等产品先后入选。2025年度，腾讯会议和企业微信又成为新的成员。这份名单横跨游戏、内容、支付和企业服务，看似没有统一标准，但有一个隐秘的共同点：它们在某个关键节点上，...",
+          "published_at": "2026-07-28T11:08:22"
         },
         {
-          "title": "一部老剧背后，藏着所有品牌都该懂的心智密码",
-          "url": "https://www.woshipm.com/marketing/6435711.html",
-          "author": "周云龙",
+          "title": "QwenPaw ： 个人 AI 助手到底怎么样？",
+          "url": "https://www.woshipm.com/share/6436522.html",
+          "author": "迎风尿尿尿不湿",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "一部20年前的韩剧，为何能让人记到现在？从《蓝色生死恋》的跨代影响力出发，拆解用户记忆形成的底层逻辑。本文结合神经科学与心理学，揭示情绪设计如何让品牌穿越周期，在用户心智中扎根。前段时间在短视频平台刷到一个片段：画面里是2000年版《蓝色生死恋》的结尾，恩熙靠在俊熙背上，沿着海边的公路慢慢走，主题曲《Reason》的钢琴声一出来，评论区瞬间破防。有人留言：“当年读初中，躲在被子里看VCD，哭到第二...",
-          "published_at": "2026-07-28T02:18:48"
+          "summary": "每次想用 AI 助手处理正经工作，聊天记录、文件、偏好全往第三方服务器送。想接个钉钉机器人还得单独买 SaaS，想跑个定时摘要又得把数据喂给别人的 API。阿里 AgentScope 团队开源的这个 QwenPaw，打的旗号就是”数据归你”——17.4K 星、Apache 2.0、七种安装方式、六条 IM 渠道全通。到底是不是吹的，看完整篇再说。先搞懂它是什么QwenPaw 全称 Qwen Per...",
+          "published_at": "2026-07-28T09:57:41"
         },
         {
-          "title": "好产品却卖不出去，四个深层原因分析",
-          "url": "https://www.woshipm.com/share/6435867.html",
-          "author": "打工赚钱养小猫",
+          "title": "财务信息化项目最大的风险，是看到了问题却绕着走",
+          "url": "https://www.woshipm.com/pd/6435833.html",
+          "author": "业财老曾",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "好产品卖不动，问题往往不在产品本身，而在于产品视角与用户视角的错位。本文从功效与场景的错位、认知理解成本过高、过度承诺触发防御、用户口述理由的不可靠性四个维度，拆解产品滞销的深层原因，帮助产品经理精准定位症结。酒香也怕巷子深。为什么品牌明明手握品质过硬的产品，定价、做工、用料都不输同行，销量却始终难以上升？抛开低价内卷、流量不足这些表层借口，产品滞销往往藏着容易被忽视的底层问题。在常规运营话术之外...",
-          "published_at": "2026-07-28T02:07:15"
+          "summary": "财务中台项目推进中，一个核心困境浮出水面：明知问题出在业务前端，却因不敢触碰强势部门而选择让下游系统无限兜底。本文直指许多信息化项目失败的根源——不是技术能力不足，而是组织缺乏勇气去动真正该改的地方。最近在推进一个财务信息化项目，准确地说，是一个财务中台项目。项目做到中途的时候，我脑子里反复冒出来一句话：很多项目最后不是做不出来，而是从一开始就不敢去碰真正该改的地方。这次感受尤其深。公司本身是以销...",
+          "published_at": "2026-07-28T09:39:52"
         },
         {
-          "title": "想做AI Agent产品经理？请先忘掉原型和PRD",
-          "url": "https://www.woshipm.com/ai/6436055.html",
-          "author": "Alex的荒诞产品观",
+          "title": "权力转移时代，做一个“被相信”的品牌！",
+          "url": "https://www.woshipm.com/marketing/6433969.html",
+          "author": "品牌猿",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI Agent 产品经理的起点，不是写 PRD 或画原型，而是数据标注。本文作者入职四天，通过实测竞品、设计90条测试用例，揭示了从定义“好”的标准到构建产品竞争力的完整路径。这不仅是一份转型指南，更是一次对 Agent PM 核心能力的深度剖析。今天是我入职的第四天。四天前，我还是一个“正常”的 AI 产品经理。我的日常被需求文档、原型图、PRD、界面布局填满，这些是我再熟悉不过的战场。然而，...",
-          "published_at": "2026-07-28T01:52:36"
+          "summary": "当流量红利见顶、消费者对广告免疫，品牌的定义正经历一场底层权力转移——从企业宣告转向人群共建，从功能锚定转向潜能释放。本文跟随战略学家彼得·菲斯克，通过新模型、十种形态与50+案例，拆解品牌如何从商业标记进化为文化存在与归属感容器，揭示穿越周期的品牌力量。我们正处在品牌定义被彻底改写的时代。当流量红利见顶，当消费者对广告逐渐免疫，当传统营销手段相继失效，一个根本问题浮出水面：今天的品牌，究竟代表什...",
+          "published_at": "2026-07-28T08:34:03"
         },
         {
-          "title": "医美机构老顾客“再次生命周期”运营思考",
-          "url": "https://www.woshipm.com/operate/6239043.html",
-          "author": "王星",
+          "title": "从”写规则”到”管概率”，AI时代产品经理的决策进化",
+          "url": "https://www.woshipm.com/ai/6436018.html",
+          "author": "鑫卉",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "医美行业正经历寒冬，近四分之三机构业绩下滑，但仍有不到10%的机构逆势增长。它们的秘诀是“向内求”——聚焦老顾客的“再次生命周期”管理。本文深入拆解老客重启的底层逻辑与7阶段精细化运营策略，为医美运营者提供破局之道。前段时间读到一篇行业文章，大致是今年上半年将近四分之三的机构业绩下滑明显，部分地区机构闭店率数据增加，甚至一些老牌门诊开启放“暑假”福利；就在如此环境下，竟然还有逆势增长的经营机构，虽...",
-          "published_at": "2026-07-28T01:36:44"
+          "summary": "AI浪潮下，产品经理被要求提升“AI浓度”，但这并非转行而是能力升级。本文从“写规则”到“管概率”的转变出发，结合实战案例，剖析个人如何回应组织要求，以及AI如何重塑产品决策与组织协同逻辑。AI进入产品经理的工作流，已经不是“要不要跟”的选择题，而是“怎么跟”的必答题。在AI焦虑的裹挟下，组织焦虑，同样工作开始被要求有AI浓度（即AI技术在产品和工作流中的渗透程度）。组织对产品经理提出 AI 能力...",
+          "published_at": "2026-07-28T07:42:56"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 6,
+      "count": 15,
       "items": [
+        {
+          "title": "Thinking Outside The Box: Digital Design In The AI Era",
+          "url": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
+          "author": "hello@smashingmagazine.com (Oleksii Hrzhehorzhevsk...",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "Many of the AI tools we interact with take the form of text boxes. But what if there was a different way to interact with AI? Oleksii Hrzhehorzhevskyi explores a different approach to creating a new A...",
+          "published_at": "2026-07-28T10:00:00"
+        },
         {
           "title": "Designed for a Dead Language",
           "url": "https://alistapart.com/article/designed-for-a-dead-language/",
@@ -270,48 +299,102 @@
           "source": "A List Apart",
           "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
           "published_at": null
+        },
+        {
+          "title": "Obys® Experiment Space",
+          "url": "https://www.awwwards.com/sites/obys-r-experiment-space",
+          "author": "Obys",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "TRIONN",
+          "url": "https://www.awwwards.com/sites/trionn-2",
+          "author": "Trionn",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Partizan",
+          "url": "https://www.awwwards.com/sites/partizan",
+          "author": "Beaucoup.",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Artem Shcherbakov",
+          "url": "https://www.awwwards.com/sites/artem-shcherbakov",
+          "author": "SALT AND PEPPER",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Spotify Wrapped Party",
+          "url": "https://www.awwwards.com/sites/spotify-wrapped-party",
+          "author": "Active Theory",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "NORMAL IS BORING",
+          "url": "https://www.awwwards.com/sites/normal-is-boring",
+          "author": "LaNegrita",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Dragonfly Redux",
+          "url": "https://www.awwwards.com/sites/dragonfly-redux",
+          "author": "Studio Freight",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Lacoste — Polo Factory",
+          "url": "https://www.awwwards.com/sites/lacoste-polo-factory",
+          "author": "Merci Michel",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 2,
       "items": [
         {
-          "title": "Rivault",
-          "url": "https://www.producthunt.com/products/rivault",
-          "author": "Hyu Lim",
+          "title": "qsa.sh",
+          "url": "https://www.producthunt.com/products/qsa-sh-quick-security-audit",
+          "author": "Daniel J",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Approve AI agent data access with Face IDDiscussion|Link",
-          "published_at": "2026-07-26T20:24:52"
+          "summary": "External security scan of your own IP, in your terminalDiscussion|Link",
+          "published_at": "2026-07-26T14:49:30"
         },
         {
-          "title": "Notate",
-          "url": "https://www.producthunt.com/products/notate-2",
-          "author": "Victor Aremu",
+          "title": "Liminal",
+          "url": "https://www.producthunt.com/products/liminal-4",
+          "author": "Justin Lam",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Annotate anything for humans and their agentsDiscussion|Link",
-          "published_at": "2026-07-26T23:09:40"
-        },
-        {
-          "title": "Comms",
-          "url": "https://www.producthunt.com/products/comms-ai-agents-inside-imessage",
-          "author": "Cale Lane",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Launch iMessage agents in secondsDiscussion|Link",
-          "published_at": "2026-07-27T02:06:56"
-        },
-        {
-          "title": "Tackly",
-          "url": "https://www.producthunt.com/products/tackly",
-          "author": "Jonathan Lukas",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Map your thoughts in real time with AI.Discussion|Link",
-          "published_at": "2026-07-26T16:39:30"
+          "summary": "A workspace & 2nd brain for you, your agent, and your teamDiscussion|Link",
+          "published_at": "2026-07-27T13:10:57"
         }
       ]
     },
@@ -365,8 +448,8 @@
           "published_at": null
         },
         {
-          "title": "飞书表单设计：如何用AI把语音直接变成结构化数据？",
-          "url": "https://www.uisdc.com/hunter/0221678442.html",
+          "title": "原来AI还能这样用！微博AI用50万虚拟人帮你前把控舆情走向",
+          "url": "https://www.uisdc.com/hunter/0221678561.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -380,49 +463,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Visualize striking 3D embellishment mockups",
-          "url": "https://bit.ly/uxc-dre1",
+          "title": "The human-in-the-loop is tired",
+          "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "DREAMCOMPOSER® transforms designs into impressive 3D mockups. Try 100+ KURZ transfer decorations and share results instantly.",
-          "published_at": "2026-07-27T07:49:00"
+          "summary": "On reward functions, dopamine, and what it actually feels like when the code starts writing itself.",
+          "published_at": "2026-07-28T05:05:41"
         },
         {
-          "title": "The era of personal software",
-          "url": "https://allen.hutchison.org/2025/11/28/the-era-of-personal-software/",
+          "title": "LARP: Revenue infrastructure for serious founders",
+          "url": "https://www.larp.website/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Bespoke tools designed for individual needs, transforming how we solve problems.",
-          "published_at": "2026-07-27T07:46:33"
+          "summary": "Send them $10,000. They send you $10,000. You’ve both booked $10,000 in revenue. Cash never moves. Everybody’s a rocketship.",
+          "published_at": "2026-07-28T05:05:15"
         },
         {
-          "title": "Claude Cookbook",
-          "url": "https://platform.claude.com/cookbook/",
+          "title": "Drawing the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+          "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Practical guides and code examples for building with Claude. Learn prompting techniques, tool use, multimodal capabilities, and more.",
-          "published_at": "2026-07-27T07:45:49"
+          "summary": "Four frontier models, a blank canvas, and colored pencils. We tracked every stroke, dollar, and output as they tried to draw the Mona Lisa.",
+          "published_at": "2026-07-28T05:04:33"
         },
         {
-          "title": "The lost joy of music piracy",
-          "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+          "title": "Chinese Cigarette Museum",
+          "url": "https://www.ciggies.app/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "What.CD, Oink, and the banalities of streaming.",
-          "published_at": "2026-07-27T07:45:25"
+          "summary": "An archive of Chinese cigarettes — 3,200+ SKUs across 200+ brands with pack imagery and graphic design history.",
+          "published_at": "2026-07-28T05:03:39"
         },
         {
-          "title": "A concrete definition of “Product Sense”",
-          "url": "https://www.nngroup.com/articles/product-sense-definition/",
+          "title": "Rauno Freiberg's field note #2",
+          "url": "https://rauno.me/notes/2",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Predicting which product decisions will succeed based on patterns learned through experimentation — and knowing when those patterns apply.",
-          "published_at": "2026-07-27T07:44:41"
+          "summary": "How grid density, context menus, and custom widgets alter information architecture.",
+          "published_at": "2026-07-28T05:02:25"
         }
       ]
     },
@@ -430,6 +513,42 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "社区速递 151 | 派友的六月好物盘点、携程被重罚热议和 tomtoc 城市穿行背包",
+          "url": "https://sspai.com/post/112820",
+          "author": "Matrix机器人",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+          "published_at": "2026-07-28T09:00:00"
+        },
+        {
+          "title": "能力厚重，接入极轻：HarmonyOS 7 如何把鸿蒙生态入场门槛降到几行代码",
+          "url": "https://sspai.com/post/112822",
+          "author": "Microhoo",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "在手机相册里选好一张图，拿着手机往电脑屏幕轻轻一碰，图片就直接出现在了《简讯》app「半角巷」的编辑框里。不用翻文件夹，也不用靠传输工具互联，《简讯》团队把这个改动叫做「跨端发送从五步变一步」。让人觉 ...查看全文",
+          "published_at": "2026-07-28T08:40:52"
+        },
+        {
+          "title": "从《奥德赛》观影聊聊 IMAX 影院的分类",
+          "url": "https://sspai.com/post/112380",
+          "author": "张奕源Nick",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "聊聊 IMAX 放映系统的区别及影厅选择策略，帮你选到视效更震撼、更接近导演创作意图的版本。查看全文",
+          "published_at": "2026-07-28T07:00:00"
+        },
+        {
+          "title": "索尼抛弃实体游戏光盘，谁成为了转型代价？",
+          "url": "https://sspai.com/post/112774",
+          "author": "黑狗布雷特",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "占核心营收和利润支柱的业务，是不是应该追求最为稳妥的业务方向和逻辑？这个问题对于强大的索尼而言，答案大不相同。查看全文",
+          "published_at": "2026-07-28T03:02:53"
+        },
         {
           "title": "派早报：月之暗面开源 Kimi K3 模型等",
           "url": "https://sspai.com/post/112805",
@@ -447,42 +566,6 @@
           "source": "少数派",
           "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
           "published_at": "2026-07-27T09:34:04"
-        },
-        {
-          "title": "Windows 设计史 05 | 你怀念的 Windows 7，或许最具「人情味」",
-          "url": "https://sspai.com/post/101668",
-          "author": "SUNTRISE",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "好用有时比创新更重要。查看全文",
-          "published_at": "2026-07-27T07:00:00"
-        },
-        {
-          "title": "角落新声｜不再烧 Hi-Fi 后，我在走步机上给音乐留了一小时",
-          "url": "https://sspai.com/post/112705",
-          "author": "若叔",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "我的「听音角落」并不完全是一个空间。它是一部旧手机、一枚小尾巴、一副老耳机、一台走步机，以及晚上没有被其他事情占走的那一个小时。查看全文",
-          "published_at": "2026-07-27T02:47:56"
-        },
-        {
-          "title": "派早报：携程因滥用市场支配地位被罚 51.79 亿元",
-          "url": "https://sspai.com/post/112769",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "携程因滥用市场支配地位被罚 51.79 亿元英伟达、微软等联名支持开放权重模型「谷歌一下」成为过时说法上海交大医学院宣布调查基因编辑致死事件Geekbench 7 发布看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
-          "published_at": "2026-07-26T23:00:57"
-        },
-        {
-          "title": "手冲咖啡指北：天太热了，来做一杯不寡淡的冰手冲吧",
-          "url": "https://sspai.com/post/112421",
-          "author": "一群小羊说",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "「太热了，今天不聊了，赶紧回去吹空调。」查看全文",
-          "published_at": "2026-07-26T07:28:01"
         }
       ]
     }
