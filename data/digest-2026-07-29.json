@@ -1,24 +1,25 @@
 {
   "date": "2026-07-29T00:00:00",
-  "total_items": 55,
+  "total_items": 67,
   "sources": [
     "UX Planet",
-    "Design Milk",
-    "Awwwards",
-    "UX Design CC",
-    "人人都是产品经理",
-    "少数派",
-    "Product Hunt",
-    "优设网",
-    "A List Apart",
     "Sidebar",
-    "Smashing Magazine"
+    "Awwwards",
+    "少数派",
+    "NN/g (Nielsen Norman Group)",
+    "Product Hunt",
+    "人人都是产品经理",
+    "Design Milk",
+    "优设网",
+    "UX Design CC",
+    "Smashing Magazine",
+    "A List Apart"
   ],
-  "generated_at": "2026-07-29T02:54:18.732394",
+  "generated_at": "2026-07-29T14:18:27.675923",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 9,
+      "count": 12,
       "items": [
         {
           "title": "The MOS 6502: the people’s princess",
@@ -84,6 +85,33 @@
           "published_at": "2026-07-26T12:08:08"
         },
         {
+          "title": "Claude Code Subagents: The Right Way to Delegate Work",
+          "url": "https://uxplanet.org/claude-code-subagents-the-right-way-to-delegate-work-730f12b1bc10?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Claude Code can delegate work to specialized subagents.Continue reading on UX Planet »",
+          "published_at": "2026-07-29T12:33:50"
+        },
+        {
+          "title": "4 Design Tools That Can Make Your Website Look 10 Times More Expensive",
+          "url": "https://uxplanet.org/design-tools-make-website-look-expensive-7067aefbc01e?source=rss----819cc2aaeee0---4",
+          "author": "Usman Writes",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Your website has about three seconds to feel expensive or feel cheap.Continue reading on UX Planet »",
+          "published_at": "2026-07-29T11:16:39"
+        },
+        {
+          "title": "I Built an MCP Server in 30 Minutes. Claude and Cursor Could Use My API Immediately.",
+          "url": "https://uxplanet.org/i-built-an-mcp-server-in-30-minutes-claude-and-cursor-could-use-my-api-immediately-f0592dcec24e?source=rss----819cc2aaeee0---4",
+          "author": "inprogrammer",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "I had one API. It had three endpoints, an API key header, and pagination on the list endpoint. Nothing fancy, but not a toy either.Continue reading on UX Planet »",
+          "published_at": "2026-07-29T11:16:03"
+        },
+        {
           "title": "Claude Design can craft 3D objects",
           "url": "https://uxplanet.org/claude-design-can-craft-3d-objects-9a2c94808ca6?source=rss----819cc2aaeee0---4",
           "author": "Nick Babich",
@@ -104,9 +132,78 @@
       ]
     },
     {
-      "category": "产品设计",
-      "count": 10,
+      "category": "用户体验研究",
+      "count": 6,
       "items": [
+        {
+          "title": "A Concrete Definition of “Product Sense” (and How to Build It)",
+          "url": "https://www.nngroup.com/articles/product-sense-definition/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "UX-Context Design: Using UX Knowledge to Inform AI-Generated Design",
+          "url": "https://www.nngroup.com/articles/ux-context-design/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Does Your Form Really Need a Dropdown List?",
+          "url": "https://www.nngroup.com/articles/dropdown-list/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Don’t Outsource the Learning: Why Human-Led Research Still Matters in the Age of AI",
+          "url": "https://www.nngroup.com/articles/human-led-research-still-matters/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Design-System Maturity: A 6-Dimension Framework",
+          "url": "https://www.nngroup.com/articles/design-system-maturity/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "The 5 Qualities of Site-Specific AI Chatbots",
+          "url": "https://www.nngroup.com/articles/dimensions-of-ai-chatbots/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        }
+      ]
+    },
+    {
+      "category": "产品设计",
+      "count": 11,
+      "items": [
+        {
+          "title": "The Art of Layered Lighting: How Gemma Goldsmith Shapes a Home With Light",
+          "url": "https://design-milk.com/gemma-goldsmith-layered-lighting-govee-floor-lamp-3/",
+          "author": "Design Milk Staff",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "The interior stylist explains how thoughtful lighting brings warmth, depth, and flexibility to her mid-century-meets-Scandi home",
+          "published_at": "2026-07-29T12:00:12"
+        },
         {
           "title": "A Norwegian Apartment That Treats Downsizing as a Design Opportunity",
           "url": "https://design-milk.com/gudbjorg-simonsen-stavanger-apartment/",
@@ -153,56 +250,65 @@
           "published_at": "2026-07-27T16:32:26"
         },
         {
-          "title": "Graph Engineering：AI Agent 从 Loop 到 Graph 的工程升级",
-          "url": "https://www.woshipm.com/ai/6435906.html",
-          "author": "知序",
+          "title": "千问办公硬刚WorkBuddy，5轮对比测评后，结果有点意外",
+          "url": "https://www.woshipm.com/ai/6436882.html",
+          "author": "产品笔记",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当 Agent 开始接手真实业务，光会调模型、用工具、自我反思还不够。如何分工、交接、校验、回退，以及在哪里把决定权交还给人，决定了它能否从演示走进业务。如果让一个Agent完成一份竞品周报，它大概会这样工作：先搜索信息，再打开网页，读完后提取重点，判断资料够不够。不够就继续搜，够了就开始写，写完后再检查一遍。这是一个很典型的Agent Loop。演示时，它通常会给人留下很好的印象：没人告诉它每一...",
-          "published_at": "2026-07-29T02:24:06"
+          "summary": "近日，整合阿里QoderWork、悟空、MuleRun三款产品，被阿里寄予厚望的「千问办公」上线公测。阿里迫不及待的放出0.1.0 版本的「千问办公」，是因为WorkBuddy的横空出世， 短短三四个月就做到了月活 2000 万的成绩。你可能不知道，对于 AI 办公智能体行业而言，2000 万用户是什么概念。这不是像豆包、千问、元宝等面向所有人的通用型AI 产品。这是主打办公场景，用户付费意愿强的...",
+          "published_at": "2026-07-29T07:03:31"
         },
         {
-          "title": "抖音要开始算利润了，美团到店最难受的阶段可能过去了",
-          "url": "https://www.woshipm.com/share/6435192.html",
-          "author": "Link01",
+          "title": "开源大模型进入高性能高门槛阶段，K3会是分水岭吗",
+          "url": "https://www.woshipm.com/ai/6436467.html",
+          "author": "Tory 的产品笔记",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "抖音本地生活战略转向盈利，2026年目标盈亏平衡，这或解除美团到店最重压力。当双方都得算账，竞争从烧钱回归商家真实ROI，美团核销率超80%的优势凸显。抖音退守利润，长尾市场留给美团，估值折价有望修复。坦白说，过去半年我最担心美团的，其实不是外卖，是到店。外卖再难，至少还有履约网络、骑手密度、配送效率这些硬东西撑着。到店不一样，它更像一门广告生意，赚的是商家的营销预算。一旦商家觉得抖音更能带客，把...",
-          "published_at": "2026-07-29T02:19:55"
+          "summary": "当开源模型K3开始冲击性能上限，产品团队面临的真正挑战不再是“能不能接入”，而是“接不接得住”。时延、成本、稳定性、组织协同——这些被忽视的工程细节，正在成为决定成败的主战场。本文深入拆解高性能背后的隐性门槛，为产品经理提供一套务实的应对策略。这段时间聊模型，最容易出现一种错位。一边是榜单很热闹，大家都在转“又一个能力冲到前排的模型”。另一边是做产品的人坐在会议室里，盯着另外几个东西发愁：时延能不...",
+          "published_at": "2026-07-29T06:46:25"
         },
         {
-          "title": "靠 Vibe Coding 赚钱，拼的不是代码",
-          "url": "https://www.woshipm.com/ai/6436478.html",
-          "author": "产品经理林景贤",
+          "title": "AI互联网日报：ChatGPT逼近10亿周活；Google智能体默认升级；淘宝闪购接入朴朴超市",
+          "url": "https://www.woshipm.com/ai/6436874.html",
+          "author": "AI星球",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Vibe Coding 热潮下，靠AI产品赚钱的真相可能和你想的不一样。本文揭示了三种已被验证的短周期套利模式：长尾关键词截流、平台政策窗口套利、热点情绪微工具。它们不追求产品完美，只追求在供需缺口消失前快速变现。真正的核心能力不在代码，而在信号识别与果断退出的纪律。Vibe Coding 火了之后，几乎每一次讨论的终点都会落到同一个问题上：能不能靠这个赚钱？推荐先阅读你沾沾自喜的那个AI产品，可...",
-          "published_at": "2026-07-29T01:56:59"
+          "summary": "10亿周活，已经不是OpenAI一个产品的数字。阿里让语音智能体边说边干，WhatsApp把通话搬进浏览器，入口正在从打开一个应用变成贯穿任务与沟通的工作流。Waymo则被要求接上城市应急流程，现实服务也在重写入口规则。我觉得，下一阶段的胜负不在谁多占一个图标，而在能否把权限、成本和异常处理藏进每一次顺滑操作里。入口越近，责任越不能掉线。一起来看看这两天发生的AI和互联网赛道的大事件吧！💡 今日A...",
+          "published_at": "2026-07-29T06:45:02"
         },
         {
-          "title": "Hallmark 完全指南：你的专属高品味 AI 设计搭子",
-          "url": "https://www.woshipm.com/ai/6435929.html",
-          "author": "Paullin",
+          "title": "Agent权限失控怎么办？PM必须划定的3条安全边界",
+          "url": "https://www.woshipm.com/ai/6435148.html",
+          "author": "产品包工头",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI生成的落地页总带着一股挥之不去的“AI味”——紫蓝渐变、三栏卡片、居中大标题。这不是审美问题，而是模型向训练数据均值回归的统计必然。本文深入拆解这股“AI味”的根源，并介绍开源项目Hallmark如何通过结构多样性、58道设计闸门等硬核规则，从根本上打破AI设计的同质化困局。你让 AI 帮你写一个落地页。几秒钟后，它给了你一个 “挺好看” 的东西：首页顶部是一整块紫色到蓝色的渐变，中间一行加粗...",
-          "published_at": "2026-07-29T01:45:06"
+          "summary": "Agent权限失控引发的数据泄露事故频发，根源不在模型能力，而在安全边界设计缺失。本文从PM视角拆解工具权限最小化、数据隔离、Prompt Injection防护三条核心边界，并提供实用检查清单，帮助产品经理在需求阶段拦截绝大多数安全漏洞。很多团队在上线AI Agent之后，第一个真正紧张的时刻不是“Agent答错了”，而是“Agent做了它不该做的事”。删了不该删的数据，调了不该调的接口，把A用...",
+          "published_at": "2026-07-29T06:27:19"
         },
         {
-          "title": "一份高质量上半年经营分析怎么做？从指标拆解到落地闭环的完整思路",
-          "url": "https://www.woshipm.com/share/6436233.html",
-          "author": "木木自由与数据分析",
+          "title": "看完 YC Spring 2026 这批项目，我挑了 12 个最值得看的 AI 公司",
+          "url": "https://www.woshipm.com/ai/6435378.html",
+          "author": "张艾拉",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "上半年经营分析不仅是数据复盘，更是战略纠偏的关键节点。本文从财务结果、业务结构、运营效率到风险短板，层层拆解经营分析的核心内涵与落地路径，帮助产品经理与管理者避开“增收不增利”的陷阱，真正实现以数据驱动决策、以复盘促进增长。一、上半年经营分析的核心内涵是什么、分析什么经营分析是依托经营数据、业务动态、市场环境、资源配置等核心要素，对阶段性经营活动进行全方位、立体化复盘研判的管理工具，而上半年经营分...",
-          "published_at": "2026-07-29T01:13:56"
+          "summary": "YC S26 Demo Day近200个项目涌现，AI创业已进入场景深耕阶段。本文精选12家代表公司，从网站增长、支付入口到代码协作、实验室自动化，展现AI如何切入具体业务痛点。当“智能”成为标配，真正的壁垒在于替谁解决了哪件麻烦事。YC Spring 2026 Demo Day 这个月就开始了，所以我这两天一直在看 YC S26 这批项目。最直接的感受是：项目太多了。按 YC 官网公司目录筛选 ...",
+          "published_at": "2026-07-29T05:53:54"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 15,
+      "count": 16,
       "items": [
+        {
+          "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
+          "url": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
+          "author": "hello@smashingmagazine.com (Andy Budd)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens w...",
+          "published_at": "2026-07-29T13:00:00"
+        },
         {
           "title": "Thinking Outside The Box: Digital Design In The AI Era",
           "url": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
@@ -267,6 +373,15 @@
           "published_at": null
         },
         {
+          "title": "Made With Gsap",
+          "url": "https://www.awwwards.com/sites/made-with-gsap-1",
+          "author": "Florent Roux-Durraffourt",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Obys® Experiment Space",
           "url": "https://www.awwwards.com/sites/obys-r-experiment-space",
           "author": "Obys",
@@ -328,57 +443,66 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Lacoste — Polo Factory",
-          "url": "https://www.awwwards.com/sites/lacoste-polo-factory",
-          "author": "Merci Michel",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 6,
       "items": [
         {
-          "title": "EasyCircuit",
-          "url": "https://www.producthunt.com/products/easycircuit",
-          "author": "Cheney Li",
+          "title": "Task Monki",
+          "url": "https://www.producthunt.com/products/task-monki",
+          "author": "Rojhat Toptamus",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Hardware prototyping, as simple as vibe-codingDiscussion|Link",
-          "published_at": "2026-07-27T23:44:55"
+          "summary": "Run coding agents through the full development processDiscussion|Link",
+          "published_at": "2026-07-28T21:38:08"
         },
         {
-          "title": "Tag Your Photos",
-          "url": "https://www.producthunt.com/products/tag-your-photos",
-          "author": "Maik David",
+          "title": "Totem",
+          "url": "https://www.producthunt.com/products/totem-5",
+          "author": "Ankit Sinha",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI-powered keywords for Apple Photos, 100% on your MacDiscussion|Link",
-          "published_at": "2026-07-27T19:45:27"
+          "summary": "Your Twitter bookmarks organized to make you read themDiscussion|Link",
+          "published_at": "2026-07-28T10:55:15"
         },
         {
-          "title": "Cercle",
-          "url": "https://www.producthunt.com/products/cercle",
-          "author": "Sheeta Verma👩🏽‍💻",
+          "title": "Bo AI",
+          "url": "https://www.producthunt.com/products/bo-ai",
+          "author": "Brandon Turp",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The bat signal for your closest friends.Discussion|Link",
-          "published_at": "2026-07-27T23:03:46"
+          "summary": "An AI personal assistant that lives in your texts 💬Discussion|Link",
+          "published_at": "2026-07-28T16:16:38"
         },
         {
-          "title": "Growth Opt Playbook",
-          "url": "https://www.producthunt.com/products/growth-opt-playbook",
-          "author": "Gondry",
+          "title": "Epilude",
+          "url": "https://www.producthunt.com/products/epilude",
+          "author": "Gustav Ek",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn campaign data into your next marketing moveDiscussion|Link",
-          "published_at": "2026-07-27T13:18:23"
+          "summary": "Local voice dictation for Mac for polished textDiscussion|Link",
+          "published_at": "2026-07-29T06:16:22"
+        },
+        {
+          "title": "AgentQuartz",
+          "url": "https://www.producthunt.com/products/agentquartz",
+          "author": "Marco Calderon",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Claude & Cursor usage in your macOS menu barDiscussion|Link",
+          "published_at": "2026-07-28T22:37:48"
+        },
+        {
+          "title": "BlackFlare",
+          "url": "https://www.producthunt.com/products/blackflare",
+          "author": "The Black Flagger",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Keeps your Mac awake, pings you when Claude/Codex is doneDiscussion|Link",
+          "published_at": "2026-07-28T08:04:32"
         }
       ]
     },
@@ -444,52 +568,43 @@
     },
     {
       "category": "设计资讯",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "The human-in-the-loop is tired",
-          "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+          "title": "How podcasts ruined America",
+          "url": "https://www.compactmag.com/article/how-podcasts-ruined-america/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "On reward functions, dopamine, and what it actually feels like when the code starts writing itself.",
-          "published_at": "2026-07-28T05:05:41"
+          "summary": "How the conversational nature of podcasts replaces journalistic scrutiny with unvetted speculation, altering accountability standards.",
+          "published_at": "2026-07-29T05:02:20"
         },
         {
-          "title": "LARP: Revenue infrastructure for serious founders",
-          "url": "https://www.larp.website/",
+          "title": "Evaluating agents beyond the first prompt",
+          "url": "https://www.philschmid.de/evocode-bench",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Send them $10,000. They send you $10,000. You’ve both booked $10,000 in revenue. Cash never moves. Everybody’s a rocketship.",
-          "published_at": "2026-07-28T05:05:15"
+          "summary": "Single-turn scores overstate reliability—regressions, not missing features, are the real bottleneck.",
+          "published_at": "2026-07-29T05:00:49"
         },
         {
-          "title": "Drawing the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-          "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+          "title": "How to design URLs",
+          "url": "https://www.jstools.space/blog/url-design-routing-query-parameters-fragments/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Four frontier models, a blank canvas, and colored pencils. We tracked every stroke, dollar, and output as they tried to draw the Mona Lisa.",
-          "published_at": "2026-07-28T05:04:33"
+          "summary": "Design readable, stable URLs and choose correctly between route paths, query parameters, and fragments in modern web applications.",
+          "published_at": "2026-07-29T05:00:04"
         },
         {
-          "title": "Chinese Cigarette Museum",
-          "url": "https://www.ciggies.app/",
+          "title": "A practical guide to reducing token spend",
+          "url": "https://www.adamhjk.com/blog/a-practical-guide-to-reducing-token-spend/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "An archive of Chinese cigarettes — 3,200+ SKUs across 200+ brands with pack imagery and graphic design history.",
-          "published_at": "2026-07-28T05:03:39"
-        },
-        {
-          "title": "Rauno Freiberg's field note #2",
-          "url": "https://rauno.me/notes/2",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "How grid density, context menus, and custom widgets alter information architecture.",
-          "published_at": "2026-07-28T05:02:25"
+          "summary": "Building a Swamp Workflow reduced real world token usage of an AI Agent by 8x and improved execution time by 2x.",
+          "published_at": "2026-07-29T04:59:16"
         }
       ]
     },
@@ -497,6 +612,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新",
+          "url": "https://sspai.com/post/112787",
+          "author": "Peggy_",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "本文为你梳理 8.0 版本 iA Writer 的主要亮点。查看全文",
+          "published_at": "2026-07-29T09:30:00"
+        },
+        {
+          "title": "陕北看海，黄土难寻",
+          "url": "https://sspai.com/post/112761",
+          "author": "PJHubs",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "published_at": "2026-07-29T07:00:51"
+        },
+        {
+          "title": "角落新声｜没有书房，也要给音乐留一个角落：聊聊我的黑胶「窝棚」",
+          "url": "https://sspai.com/post/112715",
+          "author": "休伯利安",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "无论处在什么环境里，都别忘记：我们有听音乐的权利。查看全文",
+          "published_at": "2026-07-29T03:00:01"
+        },
         {
           "title": "派早报：微软发布网络安全模型 MAI-Cyber-1-Flash、美团发布 AI Agent 平台等",
           "url": "https://sspai.com/post/112837",
@@ -523,33 +665,6 @@
           "source": "少数派",
           "summary": "在手机相册里选好一张图，拿着手机往电脑屏幕轻轻一碰，图片就直接出现在了《简讯》app「半角巷」的编辑框里。不用翻文件夹，也不用靠传输工具互联，《简讯》团队把这个改动叫做「跨端发送从五步变一步」。让人觉 ...查看全文",
           "published_at": "2026-07-28T08:40:52"
-        },
-        {
-          "title": "从《奥德赛》观影聊聊 IMAX 影院的分类",
-          "url": "https://sspai.com/post/112380",
-          "author": "张奕源Nick",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "聊聊 IMAX 放映系统的区别及影厅选择策略，帮你选到视效更震撼、更接近导演创作意图的版本。查看全文",
-          "published_at": "2026-07-28T07:00:00"
-        },
-        {
-          "title": "索尼抛弃实体游戏光盘，谁成为了转型代价？",
-          "url": "https://sspai.com/post/112774",
-          "author": "黑狗布雷特",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "占核心营收和利润支柱的业务，是不是应该追求最为稳妥的业务方向和逻辑？这个问题对于强大的索尼而言，答案大不相同。查看全文",
-          "published_at": "2026-07-28T03:02:53"
-        },
-        {
-          "title": "派早报：月之暗面开源 Kimi K3 模型等",
-          "url": "https://sspai.com/post/112805",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "少数派的近期动态那个让你放松娱乐、拥抱心流、逃离纷扰或找回真我的角落，是如何构建起来的？「角落新声」征文活动火热征稿中你可能错过的文章角落新声｜不再烧Hi-Fi后，我在走步机上给音乐留了一小时Wind ...查看全文",
-          "published_at": "2026-07-28T00:04:27"
         }
       ]
     }
