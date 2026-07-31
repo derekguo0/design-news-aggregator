@@ -1,21 +1,22 @@
 {
   "date": "2026-07-31T00:00:00",
-  "total_items": 69,
+  "total_items": 70,
   "sources": [
+    "Smashing Magazine",
+    "Sidebar",
+    "Product Hunt",
+    "优设网",
     "Design Milk",
     "少数派",
-    "Smashing Magazine",
-    "A List Apart",
-    "优设网",
-    "Sidebar",
-    "人人都是产品经理",
-    "NN/g (Nielsen Norman Group)",
-    "UX Planet",
     "Awwwards",
-    "Product Hunt",
-    "UX Design CC"
+    "A List Apart",
+    "CSS-Tricks",
+    "UX Design CC",
+    "UX Planet",
+    "NN/g (Nielsen Norman Group)",
+    "人人都是产品经理"
   ],
-  "generated_at": "2026-07-31T03:20:33.275281",
+  "generated_at": "2026-07-31T14:15:34.817341",
   "categories": [
     {
       "category": "用户体验设计",
@@ -268,49 +269,49 @@
           "published_at": "2026-07-28T17:53:52"
         },
         {
-          "title": "为什么很多“投放中台”，本质上还不是 DSP？",
-          "url": "https://www.woshipm.com/share/6436394.html",
-          "author": "暂时离线",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "传统投放中台与DSP看似相似，实则本质不同。前者是“统一执行管理系统”，解决投放效率；后者是“买量决策系统”，聚焦流量价值判断。本文从产品逻辑、核心能力到思维层级，深度拆解两者差异，帮助广告产品经理厘清概念，避免混淆。做广告产品的人，应该都遇到过一种很微妙的场景。你明明已经做了很多年投放中台：接媒体 API做统一建计划做素材管理做回传和报表做批量化投放能力但一到聊DSP 产品经理，你就会发现，很多...",
-          "published_at": "2026-07-31T02:52:49"
-        },
-        {
-          "title": "一个视频文案工具，怎么从“有人用”走到“有人付费”？",
-          "url": "https://www.woshipm.com/ai/6436790.html",
-          "author": "汪仔8665",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "短视频创作者常因下载、上传、拖进度条等繁琐步骤放弃提取视频文案。Videosays 通过粘贴链接直接获取文字和时间轴，简化了用户路径。本文从 1784 位访客到 31 位付费用户的数据出发，拆解小工具如何靠“少走几步”实现转化，并反思功能堆砌与真实需求的取舍。我做Videosays时，最先盯上的不是“AI转写”。语音转文字早就不新鲜。真正让我觉得麻烦的是：手里明明有一条抖音、小红书或B站链接，为了...",
-          "published_at": "2026-07-31T02:42:03"
-        },
-        {
-          "title": "跳出 AI 内卷陷阱：从一份流传转写稿看 DeepSeek 的 AGI 长期主义",
-          "url": "https://www.woshipm.com/ai/6437003.html",
-          "author": "冒泡泡",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "当行业争相追逐短期红利时，DeepSeek却选择了一条截然不同的道路：持续开源、克制扩张、坚守合理利润。本文深入解读其创始人梁文锋的战略逻辑，揭示这家公司如何以“提升AGI落地概率”为核心，重构AI企业的竞争护城河，为产品经理提供一种反直觉的长期主义思考框架。打开各类行业资讯，从业者热议的话题永远高度趋同：怎么做爆 C 端 AI 应用、如何快速落地行业定制方案，抢占垂直场景红利、追赶 Agent、...",
-          "published_at": "2026-07-31T02:31:24"
-        },
-        {
-          "title": "老板想搞死我：逼疯PM的宇宙工程笔记（3.4 元素之舞）",
-          "url": "https://www.woshipm.com/share/6437208.html",
+          "title": "老板想搞死我：逼疯PM的宇宙工程笔记（3.5 意识起源）",
+          "url": "https://www.woshipm.com/share/6437708.html",
           "author": "太极探险家",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当老板拿着《化学元素》教科书质疑太极理论时，产品经理用边界结算方程统一了四大化学键，并验证了2n²是6π⁵的拓扑投影特解。本文从产品视角拆解化学底层逻辑，揭示阿伦尼乌斯方程中的e并非经验拟合，而是网格离散迭代基数。设计步骤十七：用边界结算方程统一四大化学键一、老板的杀招：拿《化学元素》砸场子老李今天带着一本的《化学元素》教科书走进了会议室，翻到元素周期表和化学动力学那一章。“小蒋，小锋。昨天物理篇...",
-          "published_at": "2026-07-31T02:21:51"
+          "summary": "当老板用《细胞生物学》质疑太极框架能否解释生命与意识时，产品团队用拓扑阈值解码给出了答案：细胞分裂是表面积喂不饱体积的临界结算，意识是网络密度跨越6π⁵×κ阈值的自我读取。本文从产品设计视角，揭示如何放弃穷举业务节点状态，用网络拓扑阈值判定宏观能力涌现。设计步骤十八：意识涌现——用拓扑阈值解码生命与宏观网络能力一、老板的杀招：拿《细胞生物学》砸场子老李今天没带物理化学书，而是抱着一本厚达1400页...",
+          "published_at": "2026-07-31T09:50:01"
         },
         {
-          "title": "智能体的万维网：下一代网络生态的终局预言与人本回归",
-          "url": "https://www.woshipm.com/share/6436690.html",
-          "author": "乱七八看",
+          "title": "拆了腾讯WorkBuddy，我发现了AI产品三个值得抄的设计",
+          "url": "https://www.woshipm.com/ai/6436781.html",
+          "author": "Amber",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从被App红点奴役到沦为流量燃料，互联网三十年悄然异化人类。智能体网络时代的到来，将用一套标准化互联协议彻底颠覆传统平台经济。本文从顶层设计出发，解析智能体世界的“TCP/IP”如何重构流量分发、去中心化服务与数字人权，让技术回归仆人角色。技术演进的终极标尺，始终是人本身。回顾互联网三十年的发展，我们在享受便利的同时，也在被工具悄然异化。人类被迫去适应机器的规则：被困在无数 App 的红点提示里，...",
-          "published_at": "2026-07-31T01:48:45"
+          "summary": "WorkBuddy DAU 1300万、MAU超2000万，凭什么在效率类AI产品中登顶？本文从产品经理视角拆解其底层架构，发现它不是聊天框，而是三层工作台；核心不是主从Agent，而是路由+Skill市场。更关键的是，多Agent协作的真相与官方说法截然不同。这些设计决策揭示了AI产品竞争的新趋势：从模型能力转向工作流嵌入深度。前段时间WorkBuddy的数据刷了一波屏。DAU 1300万，MA...",
+          "published_at": "2026-07-31T08:48:54"
+        },
+        {
+          "title": "QQ宠物复活，陪、养感情靠AI?",
+          "url": "https://www.woshipm.com/share/6438289.html",
+          "author": "张书乐",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "停运八年的 QQ 宠物接入混元大模型焕新回归，凭借怀旧 IP 入局 AI 情感陪伴赛道。结合 AI 拟人互动新规，分析实名认证管控短板，解读字节将豆包智能体迁移至猫箱，实现风险隔离、前置合规布局的战略考量。和半年前QQ农场重启一样，QQ宠物回归只是虚火，却也是样板。停止运营8年后，你的小企鹅又“活”了。AI情感陪伴赛道，又迎来了一位“老朋友”。7月27日，腾讯QQ宣布QQ宠物正式焕新回归，用户在手...",
+          "published_at": "2026-07-31T07:58:39"
+        },
+        {
+          "title": "Graph Engineering 多Agent 生产化组织架构，真的学不完…",
+          "url": "https://www.woshipm.com/share/6438280.html",
+          "author": "易安说AI",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "写在前面AI 工程这几年换词很快：Prompt Engineering、Context Engineering、Harness Engineering、Loop Engineering，现在又轮到 Graph Engineering。很多团队第一反应会是疲惫：是不是又一个包装出来的概念？如果只看名字，确实容易误判。但 Graph Engineering 真正指向的问题很具体：当一个 Agent 的...",
+          "published_at": "2026-07-31T07:49:18"
+        },
+        {
+          "title": "爱玛的微博营销，完成欧阳娜娜和周冠宇双代言人种草",
+          "url": "https://www.woshipm.com/share/6437322.html",
+          "author": "左拉",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "一个月内，爱玛接连官宣欧阳娜娜与周冠宇两位风格迥异的代言人，分别对应“潮流穿搭”与“速度激情”两类年轻用户。这不仅是代言策略的升级，更折射出品牌对用户分层与个性化需求的深度洞察。本文从产品设计与营销逻辑出发，拆解爱玛如何用两辆车、两种叙事，精准击中不同人群的内心选择。你是欧阳娜娜那类人，还是周冠宇那类人？爱玛已经替你想好答案了摘要： 一个月内，爱玛接连官宣两位风格截然不同的代言人。不是噱头，是因为...",
+          "published_at": "2026-07-31T07:38:51"
         }
       ]
     },
@@ -391,6 +392,15 @@
           "published_at": null
         },
         {
+          "title": "2xA Studio",
+          "url": "https://www.awwwards.com/sites/2xa-studio",
+          "author": "2xA Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "CIAO ENERGY - LAUNCH WEBSITE",
           "url": "https://www.awwwards.com/sites/ciao-energy-launch-website",
           "author": "Skaald",
@@ -452,15 +462,6 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "NORMAL IS BORING",
-          "url": "https://www.awwwards.com/sites/normal-is-boring",
-          "author": "LaNegrita",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -469,49 +470,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Focus Room",
-          "url": "https://www.producthunt.com/products/focus-room",
-          "author": "Akshaj Dev",
+          "title": "Mubert API",
+          "url": "https://www.producthunt.com/products/mubert",
+          "author": "Alex Mubert",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn YouTube into your personal learning platformDiscussion|Link",
-          "published_at": "2026-07-29T17:02:29"
+          "summary": "Edit tracks & stems, get consistent music with new engineDiscussion|Link",
+          "published_at": "2026-07-30T07:18:31"
         },
         {
-          "title": "Phantom Voice",
-          "url": "https://www.producthunt.com/products/phantom-voice",
-          "author": "Willis Liao",
+          "title": "Gemini Robotics 2",
+          "url": "https://www.producthunt.com/products/gemini-robotics-2",
+          "author": "Justin Jincaid",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Local push-to-talk dictation for MacDiscussion|Link",
-          "published_at": "2026-07-29T09:55:36"
+          "summary": "Google's AI brain for the next generation of robotsDiscussion|Link",
+          "published_at": "2026-07-30T15:56:55"
         },
         {
-          "title": "Cursor Crane",
-          "url": "https://www.producthunt.com/products/cursor-crane",
-          "author": "ShX Guo",
+          "title": "DepthData",
+          "url": "https://www.producthunt.com/products/depthdata",
+          "author": "Ali Uyanik",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Control your Mac at the pace of your keyboardDiscussion|Link",
-          "published_at": "2026-07-29T19:12:18"
+          "summary": "The system of record for your company's AI spend.Discussion|Link",
+          "published_at": "2026-07-30T20:00:35"
         },
         {
-          "title": "Caimera",
-          "url": "https://www.producthunt.com/products/caimera-2",
-          "author": "Prateek Gupte",
+          "title": "mectrics",
+          "url": "https://www.producthunt.com/products/mectrics",
+          "author": "Faruk KAMÇICI",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI Visual Production Platform for Fashion TeamsDiscussion|Link",
-          "published_at": "2026-07-28T07:17:55"
+          "summary": "Your Mac's vitals in the menu bar. Free and open source.Discussion|Link",
+          "published_at": "2026-07-30T15:57:14"
         },
         {
-          "title": "Pally",
-          "url": "https://www.producthunt.com/products/pally",
-          "author": "Garry Tan",
+          "title": "MiniMax H3",
+          "url": "https://www.producthunt.com/products/minimax",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your personal assistant that lives in your textsDiscussion|Link",
-          "published_at": "2026-07-30T02:31:47"
+          "summary": "Unified video generation for motion design and brandingDiscussion|Link",
+          "published_at": "2026-07-31T03:17:18"
         }
       ]
     },
@@ -580,49 +581,64 @@
       "count": 5,
       "items": [
         {
-          "title": "You don’t have to be smart if you can think clearly",
-          "url": "https://www.seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/",
+          "title": "The AI aesthetic",
+          "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Why structured deduction stabilizes engineering performance under complex constraints.",
-          "published_at": "2026-07-30T05:38:19"
+          "summary": "How generative tool interfaces introduce specific visual idioms.",
+          "published_at": "2026-07-31T07:34:10"
         },
         {
-          "title": "Originkit",
-          "url": "https://www.originkit.dev/",
+          "title": "PCjs Machines",
+          "url": "https://www.pcjs.org/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A free animated component library for building modern websites. Copy code, use in Framer, or connect through MCP.",
-          "published_at": "2026-07-30T05:37:08"
+          "summary": "A variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications.",
+          "published_at": "2026-07-31T07:33:08"
         },
         {
-          "title": "How to research technical topics with AI",
-          "url": "https://www.0xkato.xyz/how-to-research-technical-topics-with-ai",
+          "title": "State of Devs 2026",
+          "url": "https://survey.devographics.com/en-US/survey/state-of-devs/2026",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How I go from a technical question I cannot answer to an explanation I can reconstruct without the model.",
-          "published_at": "2026-07-30T05:36:20"
+          "summary": "Take the survey and help map all the aspects of a developer's life that are not code, especially as AI starts disrupting the very nature of our jobs.",
+          "published_at": "2026-07-31T07:31:52"
         },
         {
-          "title": "Jurassic World Rebirth UI",
-          "url": "https://www.hudsandguis.com/home/2026/jurassic-world-rebirth",
+          "title": "AI Bingo Card Generator",
+          "url": "https://www.workersdecide.tech/bingo/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A collection of interfaces that help sell the plausibility of this fictional world.",
-          "published_at": "2026-07-30T05:35:48"
+          "summary": "Generate printable bingo cards for your workplace AI implementation exercise.",
+          "published_at": "2026-07-31T07:28:02"
         },
         {
-          "title": "The Agentic Economy",
-          "url": "https://agenticeconomytreatise.com/",
+          "title": "A simple clustering algorithm for lists",
+          "url": "https://cassidoo.co/post/clustering-tiles/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Explore the argument that intelligence and the economy are converging into a single new system.",
-          "published_at": "2026-07-30T05:34:50"
+          "summary": "I nerd-sniped myself deeply when sorting baby toys and came up with a fun pattern for doing so.",
+          "published_at": "2026-07-31T07:26:52"
+        }
+      ]
+    },
+    {
+      "category": "前端设计",
+      "count": 1,
+      "items": [
+        {
+          "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
+          "url": "https://css-tricks.com/whats-important-16/",
+          "author": "Daniel Schwarz",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "In What’s !important #16, see how the soon-Baseline sibling-index() function can be used for animations, revisit the 2026 FIFA World Cup with CSS, explore the use cases for the infinity keyword, learn...",
+          "published_at": "2026-07-31T14:06:21"
         }
       ]
     },
@@ -630,6 +646,42 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "本月玩什么｜节奏天国、斯普拉遁 涂击队、刺客信条：黑旗 记忆重置",
+          "url": "https://sspai.com/post/112962",
+          "author": "板斧",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "以上便是部分近期值得探讨的新游信息汇总，个人角度仅供参考。本文设有有奖互动环节：你有什么特别喜欢的操作系统模拟玩法的游戏吗？（我很喜欢《Uplink》）提前感谢你真诚的分享。>关注少数派小红书，感受精 ...查看全文",
+          "published_at": "2026-07-31T10:49:07"
+        },
+        {
+          "title": "本周看什么 | 最近值得一看的 10 部作品",
+          "url": "https://sspai.com/post/112961",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "📅本周新预告《银翼杀手2099》首支预告7月25日，剧集《银翼杀手2099》发布了首支预告，定档11月25日上线PrimeVideo。亨特·莎弗、杨紫琼主演，2099年的洛杉矶，擅用各种身份掩饰自己的 ...查看全文",
+          "published_at": "2026-07-31T09:57:39"
+        },
+        {
+          "title": "App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图",
+          "url": "https://sspai.com/post/112730",
+          "author": "好奇的阿哲",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "也许在某个瞬间，你会发现：三千年的时间很长，但古人与我们之间，并没有想象中那么遥远。查看全文",
+          "published_at": "2026-07-31T07:00:36"
+        },
+        {
+          "title": "简单有效的 E-cise，如何让我摆脱体态不良的「三件套」？",
+          "url": "https://sspai.com/post/112833",
+          "author": "乔淼",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "无论你的运动专项为何，E-cise 都可以构成一个很好的辅助和补充。查看全文",
+          "published_at": "2026-07-31T02:21:28"
+        },
         {
           "title": "派早报：小米汽车举行 SKYNOMAD 小米澎程技术发布会等",
           "url": "https://sspai.com/post/112930",
@@ -647,42 +699,6 @@
           "source": "少数派",
           "summary": "从远程桌面到终端、端口映射和云电脑，网易 UU 远程帮你一站式搞定。查看全文",
           "published_at": "2026-07-30T09:30:00"
-        },
-        {
-          "title": "在流媒体时代，搭建一个专属于自己的「音乐探索系统」",
-          "url": "https://sspai.com/post/112656",
-          "author": "ChandlerLin",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "published_at": "2026-07-30T06:53:18"
-        },
-        {
-          "title": "少数派会员年度更新：把共同的热爱随身携带",
-          "url": "https://sspai.com/post/112858",
-          "author": "老麦",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "感谢每一位已经同行多年的会员，也欢迎新朋友加入我们共同建设的社区。查看全文",
-          "published_at": "2026-07-30T03:01:11"
-        },
-        {
-          "title": "派早报：中国电信将不再通过第三方互联网渠道提供号卡办理服务等",
-          "url": "https://sspai.com/post/112881",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Bigme 大我推出 F13 彩墨屏 AI 数码相框，OpenAI 宣布开源 Codex Security CLI 等。查看全文",
-          "published_at": "2026-07-30T00:32:38"
-        },
-        {
-          "title": "离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新",
-          "url": "https://sspai.com/post/112787",
-          "author": "Peggy_",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "本文为你梳理 8.0 版本 iA Writer 的主要亮点。查看全文",
-          "published_at": "2026-07-29T09:30:00"
         }
       ]
     }
