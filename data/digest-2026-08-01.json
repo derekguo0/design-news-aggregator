@@ -1,20 +1,22 @@
 {
   "date": "2026-08-01T00:00:00",
-  "total_items": 62,
+  "total_items": 75,
   "sources": [
-    "Smashing Magazine",
-    "Product Hunt",
-    "优设网",
-    "少数派",
     "NN/g (Nielsen Norman Group)",
+    "Product Hunt",
+    "少数派",
     "Sidebar",
+    "A List Apart",
+    "Smashing Magazine",
     "Design Milk",
     "UX Planet",
-    "人人都是产品经理",
     "UX Design CC",
-    "A List Apart"
+    "CSS-Tricks",
+    "优设网",
+    "人人都是产品经理",
+    "Awwwards"
   ],
-  "generated_at": "2026-08-01T03:19:15.740797",
+  "generated_at": "2026-08-01T13:34:45.667813",
   "categories": [
     {
       "category": "用户体验设计",
@@ -222,6 +224,15 @@
       "count": 11,
       "items": [
         {
+          "title": "6 Sustainable Home Furnishings for Healthy Living",
+          "url": "https://design-milk.com/sustainable-home-furnishings-healthy-living/",
+          "author": "Design Milk Staff",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "From solar-powered outdoor lighting to 3D-printed homewares, these eco-conscious picks prove sustainable design can still be chic",
+          "published_at": "2026-08-01T13:00:22"
+        },
+        {
           "title": "Lauren Rottet Shares the Places, Projects, and Inspirations That Shape Her Design",
           "url": "https://design-milk.com/lauren-rottet-friday-five/",
           "author": "Anna Zappia",
@@ -267,64 +278,55 @@
           "published_at": "2026-07-29T15:50:19"
         },
         {
-          "title": "The Art of Layered Lighting: How Gemma Goldsmith Shapes a Home With Light",
-          "url": "https://design-milk.com/gemma-goldsmith-layered-lighting-govee-floor-lamp-3/",
-          "author": "Design Milk Staff",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "The interior stylist explains how thoughtful lighting brings warmth, depth, and flexibility to her mid-century-meets-Scandi home",
-          "published_at": "2026-07-29T12:00:12"
-        },
-        {
-          "title": "模型一开源，你的 AI 产品可能一夜之间没有壁垒",
-          "url": "https://www.woshipm.com/ai/6437579.html",
-          "author": "兔主任发现",
+          "title": "MiniMax H3 测评：不做”最强画质”，专攻视觉包装的多模态视频模型，还说要开源",
+          "url": "https://www.woshipm.com/ai/6438583.html",
+          "author": "西门吹雪",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当开源模型能力逼近闭源，成本两年下降95%，你的AI产品还剩下什么？本文从Kimi K3开源切入，拆解Jasper的崩塌与Cursor的崛起，揭示四个真正扛得住的竞争壁垒。不是模型，不是交互，而是数据回路与工作流嵌入——这才是AI产品经理必须看清的生存法则。7 月 27 日，月之暗面把 Kimi K3 的模型权重全量放了出来。2.8 万亿参数，原生支持视觉理解，一百万词元上下文，是目前公开可下载的...",
-          "published_at": "2026-08-01T02:28:03"
+          "summary": "生成视频的模型越来越多了，但你有没有发现，大部分都在比谁画面更逼真？MiniMax H3 选了另一条路：专攻后期包装和视觉特效，把静态海报变成动态广告，给品牌 Logo 自动加花字动效。原生双声道输出，最长 15 秒，价格只要同类模型的三分之一。还宣布要开源，这在视频模型里很少见。H3 到底值不值得放进工作流，我实际试用了一圈。产品概述MiniMax H3 是 MiniMax（稀宇科技）在 202...",
+          "published_at": "2026-08-01T12:13:47"
         },
         {
-          "title": "Agent评测指南，别再“感觉还行”就上线了",
-          "url": "https://www.woshipm.com/evaluating/6436624.html",
-          "author": "王耀亮",
+          "title": "如何让 WorkBuddy 变身“全能数字员工” ：39 个真实案例范例",
+          "url": "https://www.woshipm.com/share/6438541.html",
+          "author": "Blues",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Agent评测不是跑通一次就完事，它的非确定性、黑盒化与错误级联让传统测试方法彻底失效。本文从产品经理视角出发，结合实战血泪经验，拆解如何构建体系化的Agent评测框架——从类型划分、指标定义到评测集设计，帮你把不稳定的智能行为收敛成可发布的工程质量。做AI产品经理这几年，我见过太多这样的场面：老板问：“咱们这个Agent（智能体）咋样了？”研发兄弟挠挠头：“跑了几条Case，感觉还行。”于是兴冲...",
-          "published_at": "2026-08-01T01:48:24"
+          "summary": "本文为 WorkBuddy 技能完整实操指南，阐释 Skill、套件、SkillHub 三者区别，附带可直接复制的指令范例。文章介绍对话安装、SkillHub 检索、套件批量部署三种方式，帮助用户将 AI 助手升级为可落地的全能数字员工。写在前面的声明：因为存在“.”符号，原文一些文件名被误判拦截，如下图所示：让Workbuddy对文章进行检测，多次修改，依然无法通过微信公号的判别，只好按照Wor...",
+          "published_at": "2026-08-01T06:21:01"
         },
         {
-          "title": "起薪30K的高薪AI产品经理，0经验如何快速转型入行？",
-          "url": "https://www.woshipm.com/it/6438353.html",
-          "author": "起点课堂",
+          "title": "2026 开源鸿蒙进入下半场，最大机遇：嵌入式 AI 硬件开发",
+          "url": "https://www.woshipm.com/share/6438539.html",
+          "author": "nutpi",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "今年，各个大厂正加速抢夺AI人才。阿里、腾讯、百度、字节跳动等大厂招聘官网累计招聘5W人，其中AI岗位成为主力军（部分公司AI人才占比高达75%），包括AI算法、研发、AI产品经理等。刚刚毕业的小林正在筹备大厂的面试，因为对产品比较感兴趣，所以他优先选了薪资高、需求也大、发展前景好的AI产品经理。1 AI产品经理有多香？1、前景好：未来几年，AI将成为一种主流的技术，带动5万亿的市场规模。AI产品...",
-          "published_at": "2026-08-01T01:08:40"
+          "summary": "开源鸿蒙发展进入下半场，生态重心转向，嵌入式 AI 硬件成为核心机遇。依托三大优势，开源鸿蒙赋能工业、教育、智慧城市等领域本地智能终端。文章提醒创业者避开单纯系统移植等误区，打造差异化产品。2026 开源鸿蒙进入下半场，最大机遇：嵌入式 AI 硬件开发导语当大众目光聚焦消费终端应用之时，开源鸿蒙（OpenHarmony）真正的增量蓝海早已浮出水面。如果说鸿蒙上半场，核心目标是完成应用开发与适配；迈...",
+          "published_at": "2026-08-01T05:53:07"
         },
         {
-          "title": "老板想搞死我：逼疯PM的宇宙工程笔记（3.5 意识起源）",
-          "url": "https://www.woshipm.com/share/6437708.html",
-          "author": "太极探险家",
+          "title": "AI互联网日报：DeepSeek-V4-Flash打响成本战、美团上线等灯停表、小米汽车交付超3万辆",
+          "url": "https://www.woshipm.com/ai/6438529.html",
+          "author": "AI星球",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当老板用《细胞生物学》质疑太极框架能否解释生命与意识时，产品团队用拓扑阈值解码给出了答案：细胞分裂是表面积喂不饱体积的临界结算，意识是网络密度跨越6π⁵×κ阈值的自我读取。本文从产品设计视角，揭示如何放弃穷举业务节点状态，用网络拓扑阈值判定宏观能力涌现。设计步骤十八：意识涌现——用拓扑阈值解码生命与宏观网络能力一、老板的杀招：拿《细胞生物学》砸场子老李今天没带物理化学书，而是抱着一本厚达1400页...",
-          "published_at": "2026-07-31T09:50:01"
+          "summary": "产品越聪明，用户越不该替它受累。阿里把长音频变成结构化文本，OpenAI让助手执行更多工作，美团开始把等红灯时间还给骑手，技术终于在细节里学会体谅人。可携程的退票提醒升级后，高额费用仍在，规模增长也要面对服务稳定性。说句实在的，我认准一条：好体验不是功能越多越好，而是每一步都省心，出了问题也有清楚的退路。一起来看看这两天发生的AI和互联网赛道的大事件吧！💡 今日AI互联网大事件速览1，DeepSe...",
+          "published_at": "2026-08-01T05:14:22"
         },
         {
-          "title": "拆了腾讯WorkBuddy，我发现了AI产品三个值得抄的设计",
-          "url": "https://www.woshipm.com/ai/6436781.html",
-          "author": "Amber",
+          "title": "Kimi K3开放权重之后，AI竞争转向成本、工作流与安全三个战场",
+          "url": "https://www.woshipm.com/ai/6437339.html",
+          "author": "十二",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "WorkBuddy DAU 1300万、MAU超2000万，凭什么在效率类AI产品中登顶？本文从产品经理视角拆解其底层架构，发现它不是聊天框，而是三层工作台；核心不是主从Agent，而是路由+Skill市场。更关键的是，多Agent协作的真相与官方说法截然不同。这些设计决策揭示了AI产品竞争的新趋势：从模型能力转向工作流嵌入深度。前段时间WorkBuddy的数据刷了一波屏。DAU 1300万，MA...",
-          "published_at": "2026-07-31T08:48:54"
+          "summary": "Kimi K3 开放 2.8 万亿参数模型权重，但开源不等于免费。本文深入剖析大模型竞争从“参数比拼”转向算力成本、工作流嵌入与安全边界三大战场，为产品经理揭示模型开放后的真实产业逻辑与产品机会。7月27日，月之暗面正式开放 Kimi K3 的完整模型权重。官方资料显示，K3 拥有 2.8 万亿参数、100 万 token 上下文窗口，支持视觉理解，面向长程编程、知识工作和推理等场景。如果只看参数...",
+          "published_at": "2026-08-01T04:48:01"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 8,
+      "count": 16,
       "items": [
         {
           "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
@@ -397,57 +399,156 @@
           "source": "A List Apart",
           "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
           "published_at": null
+        },
+        {
+          "title": "Noomo Showcase",
+          "url": "https://www.awwwards.com/sites/noomo-showcase",
+          "author": "Noomo Agency",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "2xA Studio",
+          "url": "https://www.awwwards.com/sites/2xa-studio",
+          "author": "2xA Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "CIAO ENERGY - LAUNCH WEBSITE",
+          "url": "https://www.awwwards.com/sites/ciao-energy-launch-website",
+          "author": "Skaald",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Made With Gsap",
+          "url": "https://www.awwwards.com/sites/made-with-gsap-1",
+          "author": "Florent Roux-Durraffourt",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Obys® Experiment Space",
+          "url": "https://www.awwwards.com/sites/obys-r-experiment-space",
+          "author": "Obys",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "TRIONN",
+          "url": "https://www.awwwards.com/sites/trionn-2",
+          "author": "Trionn",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Partizan",
+          "url": "https://www.awwwards.com/sites/partizan",
+          "author": "Beaucoup.",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Artem Shcherbakov",
+          "url": "https://www.awwwards.com/sites/artem-shcherbakov",
+          "author": "SALT AND PEPPER",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 8,
       "items": [
         {
-          "title": "Mubert API",
-          "url": "https://www.producthunt.com/products/mubert",
-          "author": "Alex Mubert",
+          "title": "DeepSeek-V4-Flash-0731",
+          "url": "https://www.producthunt.com/products/deepseek",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Edit tracks & stems, get consistent music with new engineDiscussion|Link",
-          "published_at": "2026-07-30T07:18:31"
+          "summary": "Frontier agent intelligence at Flash pricesDiscussion|Link",
+          "published_at": "2026-07-31T13:38:23"
         },
         {
-          "title": "TraceLLM",
-          "url": "https://www.producthunt.com/products/tracellm",
-          "author": "Jyotishmoy Deka",
+          "title": "TerminalWidget",
+          "url": "https://www.producthunt.com/products/terminalwidget",
+          "author": "fmerian",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "OpenTelemetry for production AI applicationsDiscussion|Link",
-          "published_at": "2026-07-29T14:43:16"
+          "summary": "Put script output in your Desktop/Home screen widgets.Discussion|Link",
+          "published_at": "2026-07-30T23:30:48"
         },
         {
-          "title": "Poth Labs",
-          "url": "https://www.producthunt.com/products/poth-labs",
-          "author": "Mojmir Horvath",
+          "title": "Port22",
+          "url": "https://www.producthunt.com/products/port22",
+          "author": "harsha chaganti",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The customer brain for your companyDiscussion|Link",
-          "published_at": "2026-07-29T04:59:40"
+          "summary": "Claude Code, Codex & more on your phoneDiscussion|Link",
+          "published_at": "2026-07-29T20:50:08"
         },
         {
-          "title": "DepthData",
-          "url": "https://www.producthunt.com/products/depthdata",
-          "author": "Ali Uyanik",
+          "title": "Basedash Audit Logs",
+          "url": "https://www.producthunt.com/products/basedash",
+          "author": "Max Musing",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The system of record for your company's AI spend.Discussion|Link",
-          "published_at": "2026-07-30T20:00:35"
+          "summary": "Every action in your BI tool, on the record.Discussion|Link",
+          "published_at": "2026-07-31T22:29:36"
         },
         {
-          "title": "Gemini Robotics 2",
-          "url": "https://www.producthunt.com/products/gemini-robotics-2",
-          "author": "Justin Jincaid",
+          "title": "NudgeForMe",
+          "url": "https://www.producthunt.com/products/nudgeforme",
+          "author": "Victoria Dash",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Google's AI brain for the next generation of robotsDiscussion|Link",
-          "published_at": "2026-07-30T15:56:55"
+          "summary": "AI follow-up agent for missed email opportunitiesDiscussion|Link",
+          "published_at": "2026-07-31T10:42:14"
+        },
+        {
+          "title": "AgentMicro",
+          "url": "https://www.producthunt.com/products/agentmicro",
+          "author": "Andy",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Live Codex task status in your macOS menu barDiscussion|Link",
+          "published_at": "2026-07-31T08:27:23"
+        },
+        {
+          "title": "SyncStaq",
+          "url": "https://www.producthunt.com/products/syncstaq",
+          "author": "Matt",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Stripe billing data, always current in Google SheetsDiscussion|Link",
+          "published_at": "2026-07-30T02:46:22"
+        },
+        {
+          "title": "EssayKraft",
+          "url": "https://www.producthunt.com/products/essaykraft",
+          "author": "Noah Page",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Native essay writing app for Mac and iPadDiscussion|Link",
+          "published_at": "2026-07-31T18:27:31"
         }
       ]
     },
@@ -563,9 +664,42 @@
       ]
     },
     {
+      "category": "前端设计",
+      "count": 2,
+      "items": [
+        {
+          "title": "Get Ready For the Powerful CSS border-shape Property!",
+          "url": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+          "author": "Temani Afif",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "We recently got theshape()function andcorner-shapeproperty. What else could we possibly need as far as making shapes in CSS? Let me tell you: theborder-shapeproperty!Get Ready For the Powerful CSS bor...",
+          "published_at": "2026-07-31T15:14:00"
+        },
+        {
+          "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
+          "url": "https://css-tricks.com/whats-important-16/",
+          "author": "Daniel Schwarz",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for theinfinitykeyword, container \"stuck\" queries, and more.What’s !important #16: sibling-index()...",
+          "published_at": "2026-07-31T14:06:21"
+        }
+      ]
+    },
+    {
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账",
+          "url": "https://sspai.com/post/112701",
+          "author": "一群小羊说",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "真正的比赛往往不只发生在赛道上，也发生在每一次进站窗口打开的时候。查看全文",
+          "published_at": "2026-08-01T04:54:31"
+        },
         {
           "title": "本月玩什么｜节奏天国、斯普拉遁 涂击队、刺客信条：黑旗 记忆重置",
           "url": "https://sspai.com/post/112962",
@@ -610,15 +744,6 @@
           "source": "少数派",
           "summary": "CHERRY 樱桃发布 MW5500 PRO 8K 无线游戏鼠标，零刻推出 SEi13 AI / SEi14 AI 迷你主机等查看全文",
           "published_at": "2026-07-31T00:37:53"
-        },
-        {
-          "title": "App+1 | 免费、多功能的远程控制新选择：网易 UU 远程",
-          "url": "https://sspai.com/post/112405",
-          "author": "化学心情下2",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "从远程桌面到终端、端口映射和云电脑，网易 UU 远程帮你一站式搞定。查看全文",
-          "published_at": "2026-07-30T09:30:00"
         }
       ]
     }
