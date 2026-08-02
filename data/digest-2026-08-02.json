@@ -1,25 +1,45 @@
 {
   "date": "2026-08-02T00:00:00",
-  "total_items": 58,
+  "total_items": 67,
   "sources": [
-    "Awwwards",
-    "优设网",
     "人人都是产品经理",
-    "UX Design CC",
-    "Product Hunt",
-    "少数派",
     "Smashing Magazine",
     "A List Apart",
+    "优设网",
     "Design Milk",
+    "CSS-Tricks",
+    "Sidebar",
+    "少数派",
     "UX Planet",
-    "Sidebar"
+    "UX Design CC",
+    "Product Hunt",
+    "NN/g (Nielsen Norman Group)",
+    "Awwwards"
   ],
-  "generated_at": "2026-08-02T03:19:03.542049",
+  "generated_at": "2026-08-02T13:35:16.046488",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 10,
+      "count": 12,
       "items": [
+        {
+          "title": "The architecture of watching work",
+          "url": "https://uxdesign.cc/the-architecture-of-watching-work-dcc521fcad1c?source=rss----138adf9c44c---4",
+          "author": "Takuma Kakehi",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "For a century we designed the office around a single question — how do we see work? AI is quietly changing the question.Continue reading on UX Collective »",
+          "published_at": "2026-08-02T10:27:44"
+        },
+        {
+          "title": "Design.md: the one standard file carries your visual identity, for humans and agents",
+          "url": "https://uxdesign.cc/design-md-the-one-standard-file-carries-your-visual-identity-for-humans-and-agents-9058d5b39d9b?source=rss----138adf9c44c---4",
+          "author": "Patrick Neeman",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "A single plain-text file open on a dark screen, its top half typed values and its bottom half written sentences, feeding outward to a design tool, a code editor, and a coding agent.Like a mullet, the ...",
+          "published_at": "2026-08-02T10:27:17"
+        },
         {
           "title": "Why airlines are finally waking up to context-aware design",
           "url": "https://uxdesign.cc/why-airlines-are-finally-waking-up-to-context-aware-design-9cdb67722d03?source=rss----138adf9c44c---4",
@@ -113,6 +133,66 @@
       ]
     },
     {
+      "category": "用户体验研究",
+      "count": 6,
+      "items": [
+        {
+          "title": "No New Name Has Replaced “UX”",
+          "url": "https://www.nngroup.com/articles/no-new-name-ux/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Why You Need Mentorship and How to Get It Right",
+          "url": "https://www.nngroup.com/articles/mentorship/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "A Concrete Definition of “Product Sense” (and How to Build It)",
+          "url": "https://www.nngroup.com/articles/product-sense-definition/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "UX-Context Design: Using UX Knowledge to Inform AI-Generated Design",
+          "url": "https://www.nngroup.com/articles/ux-context-design/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Does Your Form Really Need a Dropdown List?",
+          "url": "https://www.nngroup.com/articles/dropdown-list/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Don’t Outsource the Learning: Why Human-Led Research Still Matters in the Age of AI",
+          "url": "https://www.nngroup.com/articles/human-led-research-still-matters/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        }
+      ]
+    },
+    {
       "category": "产品设计",
       "count": 10,
       "items": [
@@ -162,49 +242,49 @@
           "published_at": "2026-07-30T19:23:50"
         },
         {
-          "title": "MiniMax H3 测评：不做”最强画质”，专攻视觉包装的多模态视频模型，还说要开源",
-          "url": "https://www.woshipm.com/ai/6438583.html",
-          "author": "西门吹雪",
+          "title": "用Codex做PPT五步法：从需求描述到可编辑文件",
+          "url": "https://www.woshipm.com/ai/6437878.html",
+          "author": "阿耀AI",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "生成视频的模型越来越多了，但你有没有发现，大部分都在比谁画面更逼真？MiniMax H3 选了另一条路：专攻后期包装和视觉特效，把静态海报变成动态广告，给品牌 Logo 自动加花字动效。原生双声道输出，最长 15 秒，价格只要同类模型的三分之一。还宣布要开源，这在视频模型里很少见。H3 到底值不值得放进工作流，我实际试用了一圈。产品概述MiniMax H3 是 MiniMax（稀宇科技）在 202...",
-          "published_at": "2026-08-01T12:13:47"
+          "summary": "领导说明天要交汇报PPT，你还在对着空白页一页页凑吗？我太懂那种感觉了。晚上九点，打开PowerPoint，光标在标题页闪了半小时，一个字没写。我知道你也试过AI 做PPT。要么模板土得像十年前的，要么内容全是正确的废话——”综上所述，我们要持续优化、不断提升”，说了跟没说一样。改到最后发现，还不如自己从零做来得快。但今天这个方法不一样。内容是Codex写的，排版是专业级的，导出后还能进行编辑。不...",
+          "published_at": "2026-08-02T08:56:24"
         },
         {
-          "title": "如何让 WorkBuddy 变身“全能数字员工” ：39 个真实案例范例",
-          "url": "https://www.woshipm.com/share/6438541.html",
-          "author": "Blues",
+          "title": "从Attio看AI优先CRM的产品逻辑：记录、上下文、行动",
+          "url": "https://www.woshipm.com/share/6437811.html",
+          "author": "猫猫观察员的AI思考",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "本文为 WorkBuddy 技能完整实操指南，阐释 Skill、套件、SkillHub 三者区别，附带可直接复制的指令范例。文章介绍对话安装、SkillHub 检索、套件批量部署三种方式，帮助用户将 AI 助手升级为可落地的全能数字员工。写在前面的声明：因为存在“.”符号，原文一些文件名被误判拦截，如下图所示：让Workbuddy对文章进行检测，多次修改，依然无法通过微信公号的判别，只好按照Wor...",
-          "published_at": "2026-08-01T06:21:01"
+          "summary": "最近刷 YouTube 时总是看到一款叫 Attio 的 CRM 产品的广告，它把自己称为“AI 优先的 CRM”。同时我长期关注的几个科技博客，最近也不约而同地开始为 Attio 投放广告。CRM 已经是一个相当成熟的市场，前面有 Salesforce 这样的企业软件巨头，中间有 HubSpot，下面还有 Gong、Zoho 和大量垂直产品。为什么一家新公司还能突然获得这么高的关注度？出于好奇我...",
+          "published_at": "2026-08-02T08:53:17"
         },
         {
-          "title": "2026 开源鸿蒙进入下半场，最大机遇：嵌入式 AI 硬件开发",
-          "url": "https://www.woshipm.com/share/6438539.html",
-          "author": "nutpi",
+          "title": "产品总是延期？先守住需求边界：一套猫爪边界法实操手册",
+          "url": "https://www.woshipm.com/share/6437626.html",
+          "author": "陆地燃烧",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "开源鸿蒙发展进入下半场，生态重心转向，嵌入式 AI 硬件成为核心机遇。依托三大优势，开源鸿蒙赋能工业、教育、智慧城市等领域本地智能终端。文章提醒创业者避开单纯系统移植等误区，打造差异化产品。2026 开源鸿蒙进入下半场，最大机遇：嵌入式 AI 硬件开发导语当大众目光聚焦消费终端应用之时，开源鸿蒙（OpenHarmony）真正的增量蓝海早已浮出水面。如果说鸿蒙上半场，核心目标是完成应用开发与适配；迈...",
-          "published_at": "2026-08-01T05:53:07"
+          "summary": "开篇：凌晨的瞬间凌晨2:17，我盯着飞书群里程序员阿牛发来的消息：”陆啊，后台分层逻辑要重写，上线至少延期3天。”我的爪子悬在键盘上——不是气的，是不知道该怎么回。往前翻聊天记录，运营柯基下午刚发过：”竞品上周就上了这个功能，我们再不上，老板下季度预算可能要砍。”产品评审会上，设计孔雀”开屏”还在纠结按钮圆角是8px还是12px。而我只是第一次独立带产品的新人，一只橘猫。那是我做产品的第1800天...",
+          "published_at": "2026-08-02T08:48:17"
         },
         {
-          "title": "AI互联网日报：DeepSeek-V4-Flash打响成本战、美团上线等灯停表、小米汽车交付超3万辆",
-          "url": "https://www.woshipm.com/ai/6438529.html",
-          "author": "AI星球",
+          "title": "AI创业公司入职第一周，如何让CEO记住你的产出？",
+          "url": "https://www.woshipm.com/share/6437618.html",
+          "author": "Alex的荒诞产品观",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "产品越聪明，用户越不该替它受累。阿里把长音频变成结构化文本，OpenAI让助手执行更多工作，美团开始把等红灯时间还给骑手，技术终于在细节里学会体谅人。可携程的退票提醒升级后，高额费用仍在，规模增长也要面对服务稳定性。说句实在的，我认准一条：好体验不是功能越多越好，而是每一步都省心，出了问题也有清楚的退路。一起来看看这两天发生的AI和互联网赛道的大事件吧！💡 今日AI互联网大事件速览1，DeepSe...",
-          "published_at": "2026-08-01T05:14:22"
+          "summary": "这不是一篇“入职指南”。这是一篇“如果你进了一家AI创业公司，没人带你、文档不全、环境不通、同事各忙各的——你怎么活下来”的方法论。过去五天，我从零搭了一套完整的 Agent 评测体系：三条评估标准、三套测试集、两轮 LLM Judge 批量跑、30条手工验证。CEO 当周就认可了我的方向和输出。以下是我学到的东西。1. 入职第一要务：建立信息优势大多数人入职第一周在等电脑、等权限、等人告诉他要做...",
+          "published_at": "2026-08-02T08:44:29"
         },
         {
-          "title": "Kimi K3开放权重之后，AI竞争转向成本、工作流与安全三个战场",
-          "url": "https://www.woshipm.com/ai/6437339.html",
-          "author": "十二",
+          "title": "AI写代码越快返工越多？用SDD+TDD把需求歧义挡在开发前",
+          "url": "https://www.woshipm.com/ai/6437583.html",
+          "author": "知序",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Kimi K3 开放 2.8 万亿参数模型权重，但开源不等于免费。本文深入剖析大模型竞争从“参数比拼”转向算力成本、工作流嵌入与安全边界三大战场，为产品经理揭示模型开放后的真实产业逻辑与产品机会。7月27日，月之暗面正式开放 Kimi K3 的完整模型权重。官方资料显示，K3 拥有 2.8 万亿参数、100 万 token 上下文窗口，支持视觉理解，面向长程编程、知识工作和推理等场景。如果只看参数...",
-          "published_at": "2026-08-01T04:48:01"
+          "summary": "AI Coding正在把开发速度推到一个新量级，但很多团队很快发现：代码写得越快，返工不一定越少。交付中的核心矛盾已经变了，需求里的模糊判断，正在被更快做成一个看起来可以上线的产品。SDD与TDD的价值，就藏在这个变化里。图1：SDD与TDD双驱动闭环，制图：知序来看一个团队里很常见的功能评审。需求只有一句话：“支持手机号验证码登录。”研发把需求交给Agent，不到30分钟，页面、接口、倒计时和错...",
+          "published_at": "2026-08-02T08:37:31"
         }
       ]
     },
@@ -276,6 +356,15 @@
           "published_at": null
         },
         {
+          "title": "Hearst Exhibit 2026",
+          "url": "https://www.awwwards.com/sites/hearst-exhibit-2026",
+          "author": "OSMOS",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Noomo Showcase",
           "url": "https://www.awwwards.com/sites/noomo-showcase",
           "author": "Noomo Agency",
@@ -337,75 +426,57 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Artem Shcherbakov",
-          "url": "https://www.awwwards.com/sites/artem-shcherbakov",
-          "author": "SALT AND PEPPER",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "Basedash Audit Logs",
-          "url": "https://www.producthunt.com/products/basedash",
-          "author": "Max Musing",
+          "title": "Lumichats(Free)",
+          "url": "https://www.producthunt.com/products/lumichats-offline",
+          "author": "Aditya Kumar Jha",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Every action in your BI tool, on the record.Discussion|Link",
-          "published_at": "2026-07-31T22:29:36"
+          "summary": "A Claude Code alternative for people who avoid the terminalDiscussion|Link",
+          "published_at": "2026-08-01T14:10:42"
         },
         {
-          "title": "AgentMicro",
-          "url": "https://www.producthunt.com/products/agentmicro",
-          "author": "Andy",
+          "title": "TimeOS 2.0",
+          "url": "https://www.producthunt.com/products/timeos-ultimate-task-manager-for-pro",
+          "author": "Kris Theory",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Live Codex task status in your macOS menu barDiscussion|Link",
-          "published_at": "2026-07-31T08:27:23"
+          "summary": "Work your tasks. Bill your clients with confidence.Discussion|Link",
+          "published_at": "2026-07-31T22:17:20"
         },
         {
-          "title": "NudgeForMe",
-          "url": "https://www.producthunt.com/products/nudgeforme",
-          "author": "Victoria Dash",
+          "title": "Zen Whisper",
+          "url": "https://www.producthunt.com/products/zen-whisper",
+          "author": "ZenProducts",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI follow-up agent for missed email opportunitiesDiscussion|Link",
-          "published_at": "2026-07-31T10:42:14"
+          "summary": "On-device Mac dictation that types into any appDiscussion|Link",
+          "published_at": "2026-07-31T14:55:35"
         },
         {
-          "title": "SyncStaq",
-          "url": "https://www.producthunt.com/products/syncstaq",
-          "author": "Matt",
+          "title": "Capptivo",
+          "url": "https://www.producthunt.com/products/capptivo",
+          "author": "abdessamad",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Stripe billing data, always current in Google SheetsDiscussion|Link",
-          "published_at": "2026-07-30T02:46:22"
+          "summary": "Free open-source screen recorder & demo editorDiscussion|Link",
+          "published_at": "2026-08-01T04:40:38"
         },
         {
-          "title": "EssayKraft",
-          "url": "https://www.producthunt.com/products/essaykraft",
-          "author": "Noah Page",
+          "title": "Bolcho AI",
+          "url": "https://www.producthunt.com/products/bolcho-ai",
+          "author": "Kumar Ajay",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Native essay writing app for Mac and iPadDiscussion|Link",
-          "published_at": "2026-07-31T18:27:31"
-        },
-        {
-          "title": "Kopai",
-          "url": "https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents",
-          "author": "Surya Sekhar Datta",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Share your expertise, and let our agents earn for you.Discussion|Link",
-          "published_at": "2026-07-31T12:24:21"
+          "summary": "Build Voice AI agents that actually speak IndiaDiscussion|Link",
+          "published_at": "2026-08-01T22:44:45"
         }
       ]
     },
@@ -459,8 +530,8 @@
           "published_at": null
         },
         {
-          "title": "摔手机后的慌乱怎么破，看OPPO如何用设计安抚用户",
-          "url": "https://www.uisdc.com/hunter/0221679052.html",
+          "title": "Seedance 2.5不止30秒！小云雀直接帮你生成到90秒",
+          "url": "https://www.uisdc.com/hunter/0221679049.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -521,9 +592,42 @@
       ]
     },
     {
+      "category": "前端设计",
+      "count": 2,
+      "items": [
+        {
+          "title": "Get Ready For the Powerful CSS border-shape Property!",
+          "url": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+          "author": "Temani Afif",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "We recently got theshape()function andcorner-shapeproperty. What else could we possibly need as far as making shapes in CSS? Let me tell you: theborder-shapeproperty!Get Ready For the Powerful CSS bor...",
+          "published_at": "2026-07-31T15:14:00"
+        },
+        {
+          "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
+          "url": "https://css-tricks.com/whats-important-16/",
+          "author": "Daniel Schwarz",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for theinfinitykeyword, container \"stuck\" queries, and more.What’s !important #16: sibling-index()...",
+          "published_at": "2026-07-31T14:06:21"
+        }
+      ]
+    },
+    {
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "从拉萨到雅鲁藏布江大峡谷，我的春日西藏游记",
+          "url": "https://sspai.com/post/112843",
+          "author": "野比大雄76",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "published_at": "2026-08-02T06:38:25"
+        },
         {
           "title": "「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账",
           "url": "https://sspai.com/post/112701",
@@ -568,15 +672,6 @@
           "source": "少数派",
           "summary": "无论你的运动专项为何，E-cise 都可以构成一个很好的辅助和补充。查看全文",
           "published_at": "2026-07-31T02:21:28"
-        },
-        {
-          "title": "派早报：小米汽车举行 SKYNOMAD 小米澎程技术发布会等",
-          "url": "https://sspai.com/post/112930",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "CHERRY 樱桃发布 MW5500 PRO 8K 无线游戏鼠标，零刻推出 SEi13 AI / SEi14 AI 迷你主机等查看全文",
-          "published_at": "2026-07-31T00:37:53"
         }
       ]
     }
