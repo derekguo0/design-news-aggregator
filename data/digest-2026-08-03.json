@@ -1,27 +1,53 @@
 {
   "date": "2026-08-03T00:00:00",
-  "total_items": 59,
+  "total_items": 61,
   "sources": [
-    "Design Milk",
-    "CSS-Tricks",
-    "Awwwards",
-    "人人都是产品经理",
     "Product Hunt",
-    "Sidebar",
-    "少数派",
+    "Design Milk",
+    "人人都是产品经理",
     "A List Apart",
+    "Sidebar",
+    "NN/g (Nielsen Norman Group)",
+    "Awwwards",
     "优设网",
     "UX Design CC",
     "Smashing Magazine",
-    "NN/g (Nielsen Norman Group)",
-    "UX Planet"
+    "UX Planet",
+    "少数派"
   ],
-  "generated_at": "2026-08-03T03:20:46.859824",
+  "generated_at": "2026-08-03T14:46:39.397177",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 7,
+      "count": 10,
       "items": [
+        {
+          "title": "IA for AI, The UX of contrast, Battling AI fatigue",
+          "url": "https://uxdesign.cc/ia-for-ai-the-ux-of-contrast-battling-ai-fatigue-4f623495bed8?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“The discourse surrounding generative AI in the creative arts is frequently characterised by a sense of historical rupture, a seismic shift...",
+          "published_at": "2026-08-03T09:47:06"
+        },
+        {
+          "title": "Chat is the wrong interface for AI",
+          "url": "https://uxdesign.cc/chat-is-the-wrong-interface-for-ai-de14d352de1b?source=rss----138adf9c44c---4",
+          "author": "Maxim Kich",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The problem with over-simplification of AI Agents’ interfaces.Continue reading on UX Collective »",
+          "published_at": "2026-08-03T06:10:39"
+        },
+        {
+          "title": "What I’ve learned writing for billions of users",
+          "url": "https://uxdesign.cc/what-ive-learned-writing-for-billions-of-users-f4db0c1aa9cb?source=rss----138adf9c44c---4",
+          "author": "Nick DiLallo",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Insights from products that grow and grow.A few years ago, after running a complex global product launch, I wrote down everything I learned. To track my own ideas. To make sense of things. I’ve kept a...",
+          "published_at": "2026-08-03T06:08:51"
+        },
         {
           "title": "Designing for the proxy",
           "url": "https://uxdesign.cc/designing-for-the-proxy-2606ffac2335?source=rss----138adf9c44c---4",
@@ -89,17 +115,8 @@
     },
     {
       "category": "用户体验研究",
-      "count": 6,
+      "count": 5,
       "items": [
-        {
-          "title": "No New Name Has Replaced “UX”",
-          "url": "https://www.nngroup.com/articles/no-new-name-ux/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
         {
           "title": "Why You Need Mentorship and How to Get It Right",
           "url": "https://www.nngroup.com/articles/mentorship/",
@@ -179,49 +196,49 @@
           "published_at": "2026-07-31T14:48:10"
         },
         {
-          "title": "这套“AI提示词工程系统”偷师了100个爆款小红书封面，结果出图即爆款！",
-          "url": "https://www.woshipm.com/ai/6438537.html",
-          "author": "抖知书",
+          "title": "张一鸣不做亏本买卖：“消失”的飞书和张一鸣的反常识决策，今天的字节是怎样跳动的？",
+          "url": "https://www.woshipm.com/it/6439262.html",
+          "author": "几何小姐姐",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "小红书封面点击率低？别再用肉眼模仿爆款了。这套DZS-HUNTER提示词工程系统，能联网抓取赛道爆款封面，拆解构图、色彩、钩子等视觉基因，反向生成专属提示词，让你的封面从“好看”升级为“能爆”。如果你做小红书，一定经历过这种绝望：精心打磨的笔记，小眼睛死活不过500；咬牙花钱做的封面，点击率低到怀疑人生。问题出在哪？你的封面，不是爆款封面。今天这篇文章，我不讲虚头巴脑的“封面要好看”，直接上硬核武...",
-          "published_at": "2026-08-03T03:16:56"
+          "summary": "字节跳动拆分飞书，产品团队并入豆包，GTM并入火山引擎，标志着飞书独立事业群时代落幕。本次调整背后是AI办公入口争夺战的加剧，腾讯、阿里、字节纷纷重构To B AI主线。文章深度解析组织变动逻辑、人事博弈及行业竞争格局，揭示字节从SaaS转向MaaS的战略野心。字节跳动的飞书事业群拆分了。飞书一分为二，本次变动涉及飞书团队约 4000 人。其中产品团队整体并入豆包，由豆包负责人赵祺统一管理；市场、...",
+          "published_at": "2026-08-03T09:56:20"
         },
         {
-          "title": "豆包、飞书合并，字节奔赴AI办公战场",
-          "url": "https://www.woshipm.com/ai/6438504.html",
-          "author": "识礁Farsight",
+          "title": "10万玩家围观的AI小镇回来了，港科大团队想造一个数字生命世界",
+          "url": "https://www.woshipm.com/ai/6439292.html",
+          "author": "虾蛄AI",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "字节跳动整合豆包、飞书与火山引擎，成立新豆包产品团队，剑指AI办公赛道。本文深度解析字节的组织调整逻辑，对比腾讯、阿里的AI办公布局，探讨大模型商业化困局下，AI办公如何成为破局关键。AI办公爆火，字节跳动选择对内“动刀”。2026年7月30日，据《科创板日报》报道，字节跳动调整AI业务组织架构，加强豆包、飞书、火山引擎在企业生产力场景中的产品与服务协同。据悉，飞书与豆包产品团队将整合，成立新的豆...",
-          "published_at": "2026-08-03T03:15:14"
+          "summary": "由心愿汇聚而成的微缩文明。近日，港科大团队孵化的项目Aivilization正式改了名字，叫作AI小镇星原。该项目在关闭约四个月后，以更名后的新品牌重新上线运营。去年八月，团队刚上线一个连自己都觉得够不上及格线的版本，压力测试只按两三千人的规模准备，结果不到三天，注册用户就冲破了五万，此后热度一路攀升，参与的玩家累计超过十万。那场爆红的起点，藏着一段并不顺利的立项过程。紫荆智能这家公司2023年成...",
+          "published_at": "2026-08-03T09:55:04"
         },
         {
-          "title": "K3开源震动全球AI圈：黄仁勋高调站台、Anthropic谨慎抵制，一场决定未来格局的AI底层博弈",
-          "url": "https://www.woshipm.com/ai/6438388.html",
-          "author": "冒泡泡",
+          "title": "智能客服 Agent 架构选型：从【能回答】到【能解决】到【能代办】",
+          "url": "https://www.woshipm.com/ai/6437758.html",
+          "author": "Amber",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Kimi K3的开源，不仅是技术突破，更是一场全球AI权力博弈的缩影。它让英伟达黄仁勋高调站台，却让Anthropic谨慎防御。本文深入剖析K3如何冲击算力市场、重构商业模式，揭示开源背后真正的控制权之争。月之暗面Kimi K3的开源，是2025年全球AI行业最具标志性的事件之一。这不止是一款中国大模型的版本更新，它同时触动了 NVIDIA 的 GPU 生意、Anthropic 的闭源壁垒，也让中...",
-          "published_at": "2026-08-03T03:14:36"
+          "summary": "智能客服架构选型常让企业陷入两难：多Agent协作复杂度失控，单Agent又难保准确率。本文提出三层能力模型，从能回答、能解决到能代办，结合网易云商、阿里、Amazon MARCO等案例，解析不同阶段的架构设计与产品经理的核心关注点，助你找到适合自身业务的发展路径。Gartner 预测，到 2029 年，Agentic AI 将自主解决 80% 的常见客户服务问题。但在当前的落地实践中，大量企业踩...",
+          "published_at": "2026-08-03T07:00:09"
         },
         {
-          "title": "页面一加载就慢，先别急着加机器：AI 能帮你做这些判断！",
-          "url": "https://www.woshipm.com/ai/6438373.html",
-          "author": "需求解法局",
+          "title": "为什么生鲜加工不能直接搬制造业BOM？聊聊物料系统的设计过程",
+          "url": "https://www.woshipm.com/pd/6439039.html",
+          "author": "Totoro畅",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当客户反馈页面卡顿，团队常陷入“先扩容”与“先诊断”的拉锯。本文提出一套结合AI辅助与人工决策的性能优化方法：先让AI归类证据、起草候选方案，再由团队依据影响、成本、依赖、风险四维排序，并输出可执行的报告，帮助团队在资源有限时做出明智取舍。客户打开系统页面卡顿时，“先加资源”往往不是最该先做的决定。一边是客户催着解决体验问题，一边是研发建议先扩容，项目很容易在“赶紧加机器”与“到底慢在哪里”之间失...",
-          "published_at": "2026-08-03T02:36:49"
+          "summary": "门店要的是净菜成品——净白菜段、净土豆丝、蔬菜拼盘。但采购进来的是毛菜原料——整颗大白菜、带泥土豆。中间这步\"原料变成成品\"，到底投了多少料、出了多少货、损耗去哪了、成本怎么算，过去全靠工人经验和纸质流转卡，没人说得清。我们花了段时间，把这块从\"人盯人\"推到\"系统管\"。踩了不少坑，也推翻过几版方案。这篇文章就讲讲我们最后怎么设计的，重点不是我们多牛，而是生鲜加工这个场景逼着你做哪些不一样的取舍。先...",
+          "published_at": "2026-08-03T06:57:12"
         },
         {
-          "title": "AI很火 ≠ 全都入局",
-          "url": "https://www.woshipm.com/ai/6438349.html",
-          "author": "产品子鱼",
+          "title": "产品经理最容易被忽视的能力：把经历沉淀为资产的“闭环力”",
+          "url": "https://www.woshipm.com/share/6438996.html",
+          "author": "Alex的荒诞产品观",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI点外卖正从概念走向现实，但效率提升背后隐藏着用户心理与商业逻辑的双重挑战。本文从用户感知与厂商视角出发，剖析AI点餐的便利与风险，提醒我们在AI狂潮中勿忘商业本质。传统点外卖到AI点外卖用户通过传统方式点外卖的流程。打开外卖APP，用户直接可见外卖店铺，向下滚动查看更多，随时可通过APP筛选项，选择菜系、搜索店铺等，找到店铺后，选择菜品，提交订单，支付订单。上述过程可以分5个步骤：打开APP、...",
-          "published_at": "2026-08-03T02:19:48"
+          "summary": "忙了一整年却感觉什么都没留下？问题可能出在你的努力方式上。本文通过一个项目评估的实战案例，揭示了“闭环”思维如何将重复劳动转化为可积累的资产。从反馈、验证到沉淀，三步教你从拉直线变成画圈，让每一份努力都成为下一次的起点。你有没有过这种感觉：忙了一整年，回头一看，什么都没留下。项目做完了，散场了，经验也跟着散了。学了一堆东西，用不上就忘了。每天都很努力，但年底复盘的时候，发现自己和年初没什么两样。我...",
+          "published_at": "2026-08-03T06:52:28"
         }
       ]
     },
@@ -293,6 +310,15 @@
           "published_at": null
         },
         {
+          "title": "Lacoste Ace Breaker",
+          "url": "https://www.awwwards.com/sites/lacoste-ace-breaker",
+          "author": "Merci Michel",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Hearst Exhibit 2026",
           "url": "https://www.awwwards.com/sites/hearst-exhibit-2026",
           "author": "OSMOS",
@@ -354,57 +380,66 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Partizan",
-          "url": "https://www.awwwards.com/sites/partizan",
-          "author": "Beaucoup.",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 6,
       "items": [
         {
-          "title": "Capptivo",
-          "url": "https://www.producthunt.com/products/capptivo",
-          "author": "abdessamad",
+          "title": "Murmell",
+          "url": "https://www.producthunt.com/products/murmell",
+          "author": "Moss’Ab Mirande-Ney",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Free open-source screen recorder & demo editorDiscussion|Link",
-          "published_at": "2026-08-01T04:40:38"
+          "summary": "Cloud canvas where your team and AI agents works togetherDiscussion|Link",
+          "published_at": "2026-08-03T02:46:50"
         },
         {
-          "title": "Termexo",
-          "url": "https://www.producthunt.com/products/termexo",
-          "author": "guomengyue",
+          "title": "Appllama",
+          "url": "https://www.producthunt.com/products/appllama",
+          "author": "Jaimin",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A local Windows workbench for Claude Code and CodexDiscussion|Link",
-          "published_at": "2026-08-02T06:05:43"
+          "summary": "Study 25,000+ screens from top-earning iOS appsDiscussion|Link",
+          "published_at": "2026-08-02T16:38:54"
         },
         {
-          "title": "Bolcho AI",
-          "url": "https://www.producthunt.com/products/bolcho-ai",
-          "author": "Kumar Ajay",
+          "title": "AgentSky",
+          "url": "https://www.producthunt.com/products/agentsky",
+          "author": "Rajiv Ayyangar",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Build Voice AI agents that actually speak IndiaDiscussion|Link",
-          "published_at": "2026-08-01T22:44:45"
+          "summary": "Any harness, any LLM — cloud-hosted agents on demand.Discussion|Link",
+          "published_at": "2026-07-31T04:59:22"
         },
         {
-          "title": "Finamie",
-          "url": "https://www.producthunt.com/products/finamie-know-your-money-for-real",
-          "author": "Santiago Melo Medina",
+          "title": "MascotAI",
+          "url": "https://www.producthunt.com/products/mascotai",
+          "author": "Tahiru Nasuru",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Speak your expenses and get instant spending insightsDiscussion|Link",
-          "published_at": "2026-08-01T20:35:39"
+          "summary": "Animated SVG mascot studios for apps that need a personalityDiscussion|Link",
+          "published_at": "2026-08-03T06:19:32"
+        },
+        {
+          "title": "Qwen3.8-Max",
+          "url": "https://www.producthunt.com/products/qwen3",
+          "author": "Zac Zuo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Qwen’s most capable model for coding and coworkDiscussion|Link",
+          "published_at": "2026-08-03T03:55:30"
+        },
+        {
+          "title": "Ctruh Studio",
+          "url": "https://www.producthunt.com/products/ctruh-studio",
+          "author": "Rohan Chaubey",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Create interactive 3D and XR experiences without codingDiscussion|Link",
+          "published_at": "2026-07-31T13:09:11"
         }
       ]
     },
@@ -458,8 +493,8 @@
           "published_at": null
         },
         {
-          "title": "微信长按语音又改版，语音文本润色好用吗？",
-          "url": "https://www.uisdc.com/hunter/0221679127.html",
+          "title": "把流水号变成金榜题名，瑞幸微交互里的温情设计学",
+          "url": "https://www.uisdc.com/hunter/0221679239.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -473,73 +508,49 @@
       "count": 5,
       "items": [
         {
-          "title": "The AI aesthetic",
-          "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+          "title": "The AI Notepad for back-to-back meetings",
+          "url": "https://go.granola.ai/sidebar",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How generative tool interfaces introduce specific visual idioms.",
-          "published_at": "2026-07-31T07:34:10"
+          "summary": "Notes, actions and memory. Without a meeting bot. Give it a try on your next meeting.",
+          "published_at": "2026-08-03T04:00:00"
         },
         {
-          "title": "PCjs Machines",
-          "url": "https://www.pcjs.org/",
+          "title": "No new name has replaced “UX”",
+          "url": "https://www.nngroup.com/articles/no-new-name-ux/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications.",
-          "published_at": "2026-07-31T07:33:08"
+          "summary": "A survey of 604 tech and design professionals found that “UX” remains the default name for our field, while alternative names remain fragmented.",
+          "published_at": "2026-08-03T04:00:00"
         },
         {
-          "title": "State of Devs 2026",
-          "url": "https://survey.devographics.com/en-US/survey/state-of-devs/2026",
+          "title": "Web desktops",
+          "url": "https://simone.computer/#/webdesktops",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Take the survey and help map all the aspects of a developer's life that are not code, especially as AI starts disrupting the very nature of our jobs.",
-          "published_at": "2026-07-31T07:31:52"
+          "summary": "The web's biggest hand curated directory of apps and experiments that simulate desktop operating systems.",
+          "published_at": "2026-08-03T04:00:00"
         },
         {
-          "title": "AI Bingo Card Generator",
-          "url": "https://www.workersdecide.tech/bingo/",
+          "title": "Kill the cookie banner",
+          "url": "https://killthecookiebanner.eu/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Generate printable bingo cards for your workplace AI implementation exercise.",
-          "published_at": "2026-07-31T07:28:02"
+          "summary": "Tired of misleading cookie banners? The EU Commission has finally proposed a solution.",
+          "published_at": "2026-08-03T04:00:00"
         },
         {
-          "title": "A simple clustering algorithm for lists",
-          "url": "https://cassidoo.co/post/clustering-tiles/",
+          "title": "Google is building an AI fence around the web it once championed",
+          "url": "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html?unlocked_article_code=1.2VA.tHaD.87T7tIi8zNbs&smid=url-share",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "I nerd-sniped myself deeply when sorting baby toys and came up with a fun pattern for doing so.",
-          "published_at": "2026-07-31T07:26:52"
-        }
-      ]
-    },
-    {
-      "category": "前端设计",
-      "count": 2,
-      "items": [
-        {
-          "title": "Get Ready For the Powerful CSS border-shape Property!",
-          "url": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-          "author": "Temani Afif",
-          "category": "前端设计",
-          "source": "CSS-Tricks",
-          "summary": "We recently got theshape()function andcorner-shapeproperty. What else could we possibly need as far as making shapes in CSS? Let me tell you: theborder-shapeproperty!Get Ready For the Powerful CSS bor...",
-          "published_at": "2026-07-31T15:14:00"
-        },
-        {
-          "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
-          "url": "https://css-tricks.com/whats-important-16/",
-          "author": "Daniel Schwarz",
-          "category": "前端设计",
-          "source": "CSS-Tricks",
-          "summary": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for theinfinitykeyword, container \"stuck\" queries, and more.What’s !important #16: sibling-index()...",
-          "published_at": "2026-07-31T14:06:21"
+          "summary": "As Google incorporates more artificial intelligence into search, people are spending more time on Google. Some website operators are crying foul.",
+          "published_at": "2026-08-03T04:00:00"
         }
       ]
     },
@@ -547,6 +558,42 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "派评 | 近期值得关注的 App",
+          "url": "https://sspai.com/post/113040",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "published_at": "2026-08-03T10:09:00"
+        },
+        {
+          "title": "把折叠屏外屏做成手机后：iKKO MindOne Pro 体验",
+          "url": "https://sspai.com/post/112685",
+          "author": "路中南",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "在如今智能手机市场高度同质化、各家都在公模和微创新里打转的时代，一台形态奇特的设备总是能轻易抓住数码爱好者的眼球。前段时间，我在浏览iKKO官网时，被一台名为MindOnePro的手机吸引了。它接近正 ...查看全文",
+          "published_at": "2026-08-03T07:35:11"
+        },
+        {
+          "title": "职人专访 #001：少数派背后的理想主义",
+          "url": "https://sspai.com/post/112966",
+          "author": "Fixer",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "因为这款手机壳，我跟老麦聊了一下午。查看全文",
+          "published_at": "2026-08-03T06:03:08"
+        },
+        {
+          "title": "角落新声｜两平米、两个角落，安放两个自己",
+          "url": "https://sspai.com/post/112551",
+          "author": "Nnnobel",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "编者按：本文是「角落新声」征文活动的入围文章。本次主题征文由声擎冠名，邀你前来分享那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅。8月7日前投稿参与，即有机会获得声擎Cyber5 ...查看全文",
+          "published_at": "2026-08-03T02:52:56"
+        },
         {
           "title": "派早报：DeepSeek V4 Flash 正式版发布",
           "url": "https://sspai.com/post/113014",
@@ -564,42 +611,6 @@
           "source": "少数派",
           "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
           "published_at": "2026-08-02T06:38:25"
-        },
-        {
-          "title": "「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账",
-          "url": "https://sspai.com/post/112701",
-          "author": "一群小羊说",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "真正的比赛往往不只发生在赛道上，也发生在每一次进站窗口打开的时候。查看全文",
-          "published_at": "2026-08-01T04:54:31"
-        },
-        {
-          "title": "本月玩什么｜节奏天国、斯普拉遁 涂击队、刺客信条：黑旗 记忆重置",
-          "url": "https://sspai.com/post/112962",
-          "author": "板斧",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "以上便是部分近期值得探讨的新游信息汇总，个人角度仅供参考。本文设有有奖互动环节：你有什么特别喜欢的操作系统模拟玩法的游戏吗？（我很喜欢《Uplink》）提前感谢你真诚的分享。>关注少数派小红书，感受精 ...查看全文",
-          "published_at": "2026-07-31T10:49:07"
-        },
-        {
-          "title": "本周看什么 | 最近值得一看的 10 部作品",
-          "url": "https://sspai.com/post/112961",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "📅本周新预告《银翼杀手2099》首支预告7月25日，剧集《银翼杀手2099》发布了首支预告，定档11月25日上线PrimeVideo。亨特·莎弗、杨紫琼主演，2099年的洛杉矶，擅用各种身份掩饰自己的 ...查看全文",
-          "published_at": "2026-07-31T09:57:39"
-        },
-        {
-          "title": "App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图",
-          "url": "https://sspai.com/post/112730",
-          "author": "好奇的阿哲",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "也许在某个瞬间，你会发现：三千年的时间很长，但古人与我们之间，并没有想象中那么遥远。查看全文",
-          "published_at": "2026-07-31T07:00:36"
         }
       ]
     }
