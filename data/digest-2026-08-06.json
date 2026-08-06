@@ -1,25 +1,25 @@
 {
   "date": "2026-08-06T00:00:00",
-  "total_items": 65,
+  "total_items": 68,
   "sources": [
+    "UX Design CC",
     "Awwwards",
-    "Sidebar",
+    "Intercom Blog",
     "Product Hunt",
-    "优设网",
-    "人人都是产品经理",
-    "UX Planet",
     "Design Milk",
     "A List Apart",
-    "NN/g (Nielsen Norman Group)",
-    "CSS-Tricks",
+    "UX Planet",
+    "人人都是产品经理",
     "少数派",
-    "UX Design CC"
+    "优设网",
+    "Sidebar",
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2026-08-06T02:50:03.106066",
+  "generated_at": "2026-08-06T14:20:15.298317",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 12,
+      "count": 14,
       "items": [
         {
           "title": "Defining ethical design for machines",
@@ -112,6 +112,24 @@
           "published_at": "2026-08-03T06:10:39"
         },
         {
+          "title": "The Hidden Compliance Challenge in Global Payroll UX",
+          "url": "https://uxplanet.org/the-hidden-compliance-challenge-in-global-payroll-ux-2f6b6e10af0a?source=rss----819cc2aaeee0---4",
+          "author": "uxplanet.org",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "A global payroll platform cannot function without personal data.To pay an employee correctly, a company needs an employee’s personal details such as their legal name, home address, tax identification ...",
+          "published_at": "2026-08-06T12:34:04"
+        },
+        {
+          "title": "7 DESIGN.md Mistakes That Make AI-Generated UI Worse",
+          "url": "https://uxplanet.org/7-design-md-mistakes-that-make-ai-generated-ui-worse-9ec2dfcc44cd?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "A DESIGN.md file is a dedicated file that is supposed to help AI understand how your product should look and behave.Continue reading on UX Planet »",
+          "published_at": "2026-08-06T10:33:27"
+        },
+        {
           "title": "You’re Using Claude Design Wrong",
           "url": "https://uxplanet.org/youre-using-claude-design-wrong-7a4c3b78a6d7?source=rss----819cc2aaeee0---4",
           "author": "Nick Babich",
@@ -193,7 +211,7 @@
     },
     {
       "category": "产品设计",
-      "count": 11,
+      "count": 12,
       "items": [
         {
           "title": "This Tiny Italian Home Turns Everyday Moments Into a Work of Art",
@@ -250,49 +268,58 @@
           "published_at": "2026-08-03T17:05:44"
         },
         {
-          "title": "Context Graph：记忆的正确存储方式不是向量库，是图",
-          "url": "https://www.woshipm.com/ai/6441221.html",
-          "author": "是AD",
+          "title": "The 9 best tools for your early-stage startup tech stack in 2026",
+          "url": "https://www.intercom.com/blog/early-stage-startup-tech-stack/",
+          "author": "Alan McGlinchey",
           "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "Agent 的记忆架构常被简化为一个数据库图标，但真正决定其质量的是实体抽取的颗粒度、三层记忆的构建与治理能力。本文从实体抽取的分层流水线出发，详解短期、长期与推理记忆的协同设计，并给出企业 AI 问答的三大关键判断与落地建议，助你从存储思维转向治理思维。你可能看过很多 Agent 架构图，Memory 那一层通常被画成一个数据库图标，旁边标注「向量存储」或「对话历史」。这个画法最大的问题是：它让...",
-          "published_at": "2026-08-06T02:35:11"
+          "source": "Intercom Blog",
+          "summary": "Learn how to create a foundational tech stack for your high growth and early-stage startup – starting with these top tools.",
+          "published_at": "2026-08-04T08:00:51"
         },
         {
-          "title": "复刻爆款，为什么生成成功仍然等于失败？",
-          "url": "https://www.woshipm.com/ai/6441319.html",
-          "author": "兜得Grace",
+          "title": "我让你干活，那是看得起你！",
+          "url": "https://www.woshipm.com/share/6441570.html",
+          "author": "明天上线",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI视频生成看似跑通，实则暗藏无数坑。本文作者亲历爆款复刻产品开发，从台词重复、镜头错位到人物不连续，揭示接口成功不等于产品成功的真相。六个实战教训，帮你避开AI产品设计中的致命误区。那条视频第一次跑完时，后台看起来一点问题都没有。三个分段全部生成成功，拼接没有报错，下载按钮也正常亮着。可我把成片点开以后，越听越觉得不对。第一段从第一句开始，第二段又从第一句开始，到了第三段，还是同一句开场。一条接...",
-          "published_at": "2026-08-06T02:19:55"
+          "summary": "领导总安排琐事，是信任还是压榨？本文换位思考，从领导视角剖析其背后的五种心理：信任、懒惰、忙碌、权力与栽培。读懂这些潜台词，或许能重新审视职场关系，找到应对之道。不知道你有没有这种困惑哈，就是领导总喜欢安排一些非常简单但是极其琐碎的小事，或者问你一些非常弱智的问题。你拒绝吧，显得不通人情。你不拒绝吧，又始终忍受着煎熬。比如，问你今天星期几，问你多少号，问你明天下不下雨。又或者，让你导出个报表，让你...",
+          "published_at": "2026-08-06T10:05:45"
         },
         {
-          "title": "AI 时代，软件交付逻辑也要改变了，技术不再是重点，一切回归业务本身",
-          "url": "https://www.woshipm.com/share/6441308.html",
-          "author": "闯爷",
+          "title": "宠物中高端品牌如何靠分层运营破增长瓶颈——用户分层案例分析",
+          "url": "https://www.woshipm.com/operate/6441664.html",
+          "author": "桑木拓",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "智能问数产品如何真正落地？本文指出，软件行业比拼的早已不是技术，而是对业务场景的深度理解。通过剖析企业不同岗位的真实需求，提出“框架通用、业务定制”的架构思路，强调技术必须嵌入组织体系，才能避免项目失败。在我看来现在的软件行业比拼的早就不是基础技术能力，而是对算法底层逻辑、技术原理，以及客户业务场景的深度的理解：是否吃透客户的业务场景、能否跟客户的业务动作及指标口径对齐，是否沉淀同场景行业实操经验...",
-          "published_at": "2026-08-06T02:10:52"
+          "summary": "宠物直播赛道竞争白热化，中高端品牌陷入增长困局。本文以「西西来了」为样本，基于真实用户行为数据，搭建消费×互动双维度四象限分层模型，拆解四类人群的精细化运营策略，附ROI测算模型与落地路线图，助力品牌突破增长瓶颈。宠物赛道直播竞争白热化，大量中高端宠物品牌陷入拉新放缓、留存低迷、转化偏低的三重增长困局。本文以中高端宠物品牌「西西来了」为实战样本，基于直播间真实用户行为与消费数据，搭建【消费价值 ×...",
+          "published_at": "2026-08-06T09:42:20"
         },
         {
-          "title": "FDE为什么突然火了？AI落地缺的不是工具，而是能进现场的人",
-          "url": "https://www.woshipm.com/ai/6441217.html",
-          "author": "老徐的干货铺",
+          "title": "H3 首发 LibTV：0.1 元/秒，三条真实短片跑出导演级工作流",
+          "url": "https://www.woshipm.com/ai/6441747.html",
+          "author": "AI产品大峡谷",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "FDE（前线部署工程师）正成为AI落地的新关键词。它并非新岗位，而是企业软件交付模式的回摆，折射出AI竞争从模型能力转向现场能力。本文深入解析FDE如何弥合产品与业务断层，并探讨其在银行等复杂场景中的关键价值。最近 FDE 这个词出现得越来越多。FDE，全称是 Forward Deployed Engineer，通常翻译成“前线部署工程师”或“前置部署工程师”。如果只从字面看，它像是一个新岗位；如...",
-          "published_at": "2026-08-06T01:31:44"
+          "summary": "LibTV 与 MiniMax H3 的联合首发，不仅提升了视频生成质量，更通过 Skill Hub 等能力大幅降低创作门槛。本文通过三个真实业务案例，展示 H3 在成本、效率与创意上的突破，揭示 AI Native 产品如何重塑内容创作流程。说实话，AIGC 视频工具我一直在试。很多工具单看 Demo 都挺好看，生成的片段抽卡后猛一看也还行。但真用到真实的业务里，问题通常不在能不能生成一个片段，...",
+          "published_at": "2026-08-06T09:39:17"
         },
         {
-          "title": "AI信息茧房：对话式AI的隐性风险与产品设计的伦理边界",
-          "url": "https://www.woshipm.com/pd/6441229.html",
-          "author": "森林雨",
+          "title": "生鲜仓WMS入库分配制度设计：从”人喊人”到”系统驱动”的三层决策",
+          "url": "https://www.woshipm.com/pd/6441790.html",
+          "author": "Totoro畅",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI 越来越懂你，但你可能正在被它悄悄圈养。从搜索引擎到对话式 AI，信息茧房已从行为匹配升级为认知塑造。本文剖析 AI 信息茧房的形成机制与产品设计逻辑，并提出四大干预框架，帮助产品经理在“让用户满意”与“帮助用户成长”之间找到平衡。你以为AI很懂你，但其实它只是挑你喜欢的立场跟你说你爱听的话而已。——它吃得越多，给你的世界越小；你们聊得越久，你离真实世界越远。用你最舒服的方式，把最“对你胃口”...",
-          "published_at": "2026-08-06T01:31:03"
+          "summary": "大多数生鲜仓的入库分配还停留在\"仓管组长喊人\"的阶段——谁在身边就派谁，谁有空就谁上。这种看似灵活的方式，背后藏着冷链事故、负载失衡、上架错位等一系列问题。本文从0到1拆解一套入库分配制度，把\"人喊人\"变成\"系统驱动\"。一、痛点：为什么入库分配必须从”人喊人”升级？先说一个真实场景：某生鲜仓到货高峰期，3辆冷链车同时到仓，1200件商品等着入库。仓管组长站在过道里喊：”小王你去上架，老李你去验收，...",
+          "published_at": "2026-08-06T09:38:21"
+        },
+        {
+          "title": "2026 K12在线教育竞品分析：真人1对1赛道的分化与伴鱼培优的产品打法拆解",
+          "url": "https://www.woshipm.com/share/6441792.html",
+          "author": "宗上聊运营",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "K12在线教育竞争已从流量争夺转向交付能力比拼。本文拆解大班、1对1与工具三类形态，以伴鱼培优为例，展示如何通过诊断、授课、反馈与路径调整构建完整交付链，为产品经理提供可复用的分析框架。过去谈 K12 在线教育，很容易落入一个规模叙事：谁的用户多、谁的产品矩阵大、谁的品牌声量高。但对产品经理来说，更有价值的问题是：当用户从“找课”转向“解决具体学习问题”，不同产品形态如何交付结果？本文不做品牌排名...",
+          "published_at": "2026-08-06T09:32:38"
         }
       ]
     },
@@ -352,6 +379,15 @@
           "category": "网页设计",
           "source": "A List Apart",
           "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
+          "published_at": null
+        },
+        {
+          "title": "No Art",
+          "url": "https://www.awwwards.com/sites/no-art",
+          "author": "BORING",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
           "published_at": null
         },
         {
@@ -416,57 +452,57 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Made With Gsap",
-          "url": "https://www.awwwards.com/sites/made-with-gsap-1",
-          "author": "Florent Roux-Durraffourt",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "NextDoor.Company",
-          "url": "https://www.producthunt.com/products/nextdoor-company",
-          "author": "Akhil BVS",
+          "title": "Brandfetch MCP",
+          "url": "https://www.producthunt.com/products/brandfetch",
+          "author": "Nicolas Grenié",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Discover startups hiring near you, on a mapDiscussion|Link",
-          "published_at": "2026-08-04T06:58:44"
+          "summary": "Stop your AI from guessing brand logosDiscussion|Link",
+          "published_at": "2026-08-05T11:55:55"
         },
         {
-          "title": "Cloudflare Wallets",
+          "title": "Muse Code",
+          "url": "https://www.producthunt.com/products/meta",
+          "author": "Zac Zuo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Meta’s terminal agent for long-horizon codingDiscussion|Link",
+          "published_at": "2026-08-06T02:35:53"
+        },
+        {
+          "title": "Glyphi: Speed Reader",
+          "url": "https://www.producthunt.com/products/glyphi-speed-reader",
+          "author": "Vahdet Çalışkan",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "An RSVP reader for books, PDFs, articles & webpagesDiscussion|Link",
+          "published_at": "2026-08-06T02:41:19"
+        },
+        {
+          "title": "Cloudflare OS",
           "url": "https://www.producthunt.com/products/cloudflare",
-          "author": "Justin Jincaid",
+          "author": "Chris Messina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "the programmable wallet for the agentic InternetDiscussion|Link",
-          "published_at": "2026-08-04T15:40:39"
+          "summary": "Build the AI operating system for your companyDiscussion|Link",
+          "published_at": "2026-08-05T18:52:07"
         },
         {
-          "title": "BackEngine MCP",
-          "url": "https://www.producthunt.com/products/backengine-mcp",
-          "author": "Rafaella Fontes",
+          "title": "hey postcard - digital postcards",
+          "url": "https://www.producthunt.com/products/hey-postcard-slow-messaging",
+          "author": "Heli Naik",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Make private company knowledge usable for AIDiscussion|Link",
-          "published_at": "2026-08-04T21:56:41"
-        },
-        {
-          "title": "npm i -g hotcell",
-          "url": "https://www.producthunt.com/products/npm-i-g-hotcell",
-          "author": "Sina Meraji",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Local sandboxes for AI agents on your Mac, Linux, bare metalDiscussion|Link",
-          "published_at": "2026-08-03T02:39:07"
+          "summary": "delivered tomorrow morning at a random time between 8 -10 AMDiscussion|Link",
+          "published_at": "2026-08-06T05:29:41"
         }
       ]
     },
@@ -520,8 +556,8 @@
           "published_at": null
         },
         {
-          "title": "从长音频到声音朋友圈，小宇宙产品设计策略解析",
-          "url": "https://www.uisdc.com/hunter/0221679532.html",
+          "title": "夜间靠边停车看不清两边？智能汽车细节设计终于关注到这个死角了",
+          "url": "https://www.uisdc.com/hunter/0221679679.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -535,64 +571,49 @@
       "count": 5,
       "items": [
         {
-          "title": "The plateau of sad gray icons",
-          "url": "https://yeseniaperezcruz.substack.com/p/the-plateau-of-sad-gray-icons",
+          "title": "The last product design tool",
+          "url": "https://writing.mariusz.cc/ultimate-product-design-tool/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Everyone wants to teach AI agents good taste. I just want them to stop filling every surface with icons in soft gray containers.",
-          "published_at": "2026-08-05T07:46:28"
+          "summary": "Honey, wake up, wireframes are so back.",
+          "published_at": "2026-08-06T04:00:00"
         },
         {
-          "title": "Notion: design & AI workflows",
-          "url": "https://yummy-design-sprint.notion.site/32762791470980f79c59f4580d377f3f?v=32762791470980f495ac000c95dece67",
+          "title": "Drawesome",
+          "url": "https://benji.org/drawesome",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Build and orchestrate agents right alongside your team’s projects, meetings, and connected apps.",
-          "published_at": "2026-08-05T07:45:59"
+          "summary": "Drawing toolbar for React. Seven pens, an eraser, SVG and PNG export, no dependencies beyond React. Two lines to drop into an app.",
+          "published_at": "2026-08-06T04:00:00"
         },
         {
-          "title": "Developers are attached to tools because tools encode trust",
-          "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+          "title": "Code, craft, and the making of nested folders",
+          "url": "https://www.figma.com/blog/code-craft-and-the-making-of-nested-folders/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "If your kitchen knife kept changing shape, weight, and edge, you’d have to relearn it every time.",
-          "published_at": "2026-08-05T07:44:34"
+          "summary": "From treating code as a proposal to turning handoffs into conversations, here’s how we shaped a new way of working to ship nested folders.",
+          "published_at": "2026-08-06T04:00:00"
         },
         {
-          "title": "Dither it",
-          "url": "https://ditherit.com/",
+          "title": "The idea machine",
+          "url": "https://www.the-idea-machine.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Free online image dithering tool. Floyd-Steinberg, Atkinson, Bayer ordered dithering, animated GIFs, and multi-image upload.",
-          "published_at": "2026-08-05T07:43:27"
+          "summary": "Pull the lever to generate a random project or app idea—a surprise mashup of a life space, a product format, and a twist.",
+          "published_at": "2026-08-06T04:00:00"
         },
         {
-          "title": "The AI productivity gap",
-          "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
+          "title": "The cold email",
+          "url": "https://zachholman.com/posts/cold-email",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Why the productivity gains from AI are still small.",
-          "published_at": "2026-08-05T07:42:45"
-        }
-      ]
-    },
-    {
-      "category": "前端设计",
-      "count": 1,
-      "items": [
-        {
-          "title": "Gap Decorations Are Now Available, Here’s What’s New",
-          "url": "https://css-tricks.com/css-gap-decorations-now-available/",
-          "author": "Sam Davis Omekarajr",
-          "category": "前端设计",
-          "source": "CSS-Tricks",
-          "summary": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.Gap Decorations Are Now Available, Here’s W...",
-          "published_at": "2026-08-03T15:53:20"
+          "summary": "Three of the biggest changes in my life all stemmed, in part, from cold outreach.",
+          "published_at": "2026-08-06T04:00:00"
         }
       ]
     },
@@ -600,6 +621,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "新玩意 248｜少数派的编辑们最近买了啥？",
+          "url": "https://sspai.com/post/113139",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
+          "published_at": "2026-08-06T09:30:00"
+        },
+        {
+          "title": "TDS REVIEW | vivo TWS 5 Pro 降噪真无线耳机体验",
+          "url": "https://sspai.com/post/112916",
+          "author": "KingTsui",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "这篇文章是TDSStudio在少数派上的第27篇文章，依然是全平台首发。在去年的年度企划之一「中价位TWS横评」中，vivo/iQOO的TWS5系列表现在多个方面都有优势，尤其是降噪综合能力的表现给人 ...查看全文",
+          "published_at": "2026-08-06T07:00:00"
+        },
+        {
+          "title": "角落新声｜音乐，刻在时光里的私人地图",
+          "url": "https://sspai.com/post/113017",
+          "author": "野比大雄76",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "没什么特别的，但无处不在，刚刚好。查看全文",
+          "published_at": "2026-08-06T02:14:58"
+        },
         {
           "title": "派早报：华为发布尊界 MPV 及多款新品等",
           "url": "https://sspai.com/post/113110",
@@ -626,33 +674,6 @@
           "source": "少数派",
           "summary": "作为长期阅读的用户，多年以来，我一直在使用Kindle、AppleBooks、PDF等多种工具读书。在管理阅读方面，我使用多款应用来进行：管理书籍我使用的是Calibre；追踪阅读和数据统计，我使用计 ...查看全文",
           "published_at": "2026-08-05T07:15:56"
-        },
-        {
-          "title": "角落新声｜桌面音箱进化史：换了 4 套搭配，我才明白自己的「心声」",
-          "url": "https://sspai.com/post/112891",
-          "author": "Kely",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "从最初放个音箱响了就行的混沌，到后来对摆位与频响的死磕，这篇文章记录的，是我如何在这 1 平米的空间里，通过对声音和设备的不断调整，一步步厘清并重构自己精神生活一角的全过程。查看全文",
-          "published_at": "2026-08-05T02:15:19"
-        },
-        {
-          "title": "派早报：OPPO A7 Pro Max 发布、CMF 推出开放式耳机 Clip Pro 等",
-          "url": "https://sspai.com/post/113087",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "索尼发布 FE 100-400mm F5.6-8 OSS 全画幅超远摄变焦镜头，国内航线燃油附加费下调等。查看全文",
-          "published_at": "2026-08-05T00:30:43"
-        },
-        {
-          "title": "敬畏热度、保持热情：如何在夏季坚持跑步",
-          "url": "https://sspai.com/post/74342",
-          "author": "文猫",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "无论你是初跑者，还是跑步老手，相信这份「夏季跑步指南」都能帮助到你。查看全文",
-          "published_at": "2026-08-04T10:42:08"
         }
       ]
     }
