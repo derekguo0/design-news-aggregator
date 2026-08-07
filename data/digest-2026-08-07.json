@@ -1,22 +1,22 @@
 {
   "date": "2026-08-07T00:00:00",
-  "total_items": 66,
+  "total_items": 67,
   "sources": [
-    "Product Hunt",
-    "NN/g (Nielsen Norman Group)",
-    "CSS-Tricks",
     "A List Apart",
-    "人人都是产品经理",
-    "Intercom Blog",
-    "Sidebar",
-    "Awwwards",
-    "少数派",
-    "优设网",
     "UX Design CC",
     "UX Planet",
-    "Design Milk"
+    "Intercom Blog",
+    "Awwwards",
+    "Product Hunt",
+    "NN/g (Nielsen Norman Group)",
+    "Design Milk",
+    "优设网",
+    "Sidebar",
+    "少数派",
+    "人人都是产品经理",
+    "CSS-Tricks"
   ],
-  "generated_at": "2026-08-07T02:48:55.325974",
+  "generated_at": "2026-08-07T13:11:04.150012",
   "categories": [
     {
       "category": "用户体验设计",
@@ -260,49 +260,49 @@
           "published_at": "2026-08-04T08:00:51"
         },
         {
-          "title": "为什么很多AI产品止步于Demo？从模型接入到业务落地的五层架构",
-          "url": "https://www.woshipm.com/pd/6217046.html",
-          "author": "美年达",
+          "title": "K3技术报告揭秘：同样堆万亿参数，为什么老牌巨头崩了，Kimi 做成了？",
+          "url": "https://www.woshipm.com/ai/6442313.html",
+          "author": "鲸选AI",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI Demo惊艳，但落地B端却频频翻车？问题不在模型，而在产品架构。本文提出五层架构：模型、知识、规则、系统、流程，教你如何设计可验证、可执行、可追责的AI产品，从“提示词设计者”升级为“任务系统设计者”。一个AI Demo通常很容易让人兴奋。上传一份材料，几秒钟后系统就完成了摘要；输入一句业务问题，模型迅速给出结构完整的分析；再说一句“帮我处理”，它甚至能规划出后续步骤。但Demo进入真实业务...",
-          "published_at": "2026-08-07T02:09:00"
+          "summary": "Kimi K3以2.8万亿参数登顶开源模型，靠MoE架构创新实现2.5倍缩放效率。本文拆解其解决专家过胖、数值爆炸、负载不均三大难题的技术细节，对比巨头堆参数的教训，探讨规模效率与后训练如何决定模型真实价值。最近 Kimi K3 火了，国产开源模型成了世界顶模。在第三方评测机构 Artificial Analysis 的榜单上，它排全球第三，仅次于 Claude Fable 5 和 GPT-5.6...",
+          "published_at": "2026-08-07T09:33:42"
         },
         {
-          "title": "复杂作业系统中的控制逻辑设计：以物流管理系统为例",
-          "url": "https://www.woshipm.com/pd/6441858.html",
-          "author": "ka",
+          "title": "Vibe Coding之后：小白4步网上部署到阿里云实操",
+          "url": "https://www.woshipm.com/share/6441946.html",
+          "author": "设绘闲人",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "复杂作业系统设计，为何总是陷入“外包执行”的泥潭？本文从海外物流系统切入，剖析大型B端系统的复杂性根源，提出系统工程需求分析法与控制逻辑设计框架，帮助产品经理在AI时代找到产品设计的新位置。笔者最近一两年在参与一个海外物流作业系统的管理，但是在很长一段时间内，由于组织内部“服务业务”这个思路无意识的滑坡成“服务业务方”，组织内的工作也不可避免的显示出了“外包执行”的特征，以至于我们很久没有站在系统...",
-          "published_at": "2026-08-07T02:08:49"
+          "summary": "Vibe coding 完成后，如何将作品低成本部署上线？本文以阿里云 ECS 和域名注册为例，手把手教你从购买服务器、备案域名到配置宝塔面板、解析 DNS 的全流程，助你快速搭建个人网站，实现 MVP 验证。当你进行Vibe coding后，我们可以将它真正的部署到网上，那么，如果你希望是这样的效果，我们可以最小成本的进行部署，小MVP版本的验证。以下配置方式是阿里云ECS+域名进行线上环境部署...",
+          "published_at": "2026-08-07T08:47:15"
         },
         {
-          "title": "日本新世代”友情婚”社交产品 MITRA 正在兴起",
-          "url": "https://www.woshipm.com/share/6442239.html",
-          "author": "沉迷社交产品的初九哥",
+          "title": "在AI科技公司，运营=客服？",
+          "url": "https://www.woshipm.com/zhichang/6442170.html",
+          "author": "袁振",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "日本兴起“友情婚”新形态，催生社交产品MITRA。这款App专为无性恋、LGBTQ+等群体设计，以寻找生活伴侣为目标，而非浪漫邂逅。本文深度拆解其产品机制，从精准筛选到社区互动，探讨小众社交如何以克制设计满足核心需求，并反思未来人际连接的更多可能。你听说过“友情婚”吗？最近，日本出现了一种新的婚姻形式——友情婚（不以浪漫感情为前提的友情结婚形式）它彻底打破了传统婚姻的框架，抛开了激情与性，转而建立...",
-          "published_at": "2026-08-07T02:05:00"
+          "summary": "AI公司招聘页上罕见“运营”岗位，但运营并未消失，而是被拆解为产品增长、客户成功等更精准的角色。本文剖析运营职能在AI时代的重组，探讨C端与B端市场、品牌建设的差异，揭示AI公司真正需要的增长逻辑。打开招聘软件，会看到一个颇有时代感的分类。BOSS直聘首页把“客服/运营”放在同一个职位入口里，甚至有些职位百科里还有一个更直接的词：运营客服。[1]这多少有点伤人。过去十年，互联网运营写过文章、追过热...",
+          "published_at": "2026-08-07T08:09:06"
         },
         {
-          "title": "AI 没 那 么 可 怕",
-          "url": "https://www.woshipm.com/ai/6442281.html",
-          "author": "屈太浪",
+          "title": "拓展人员在外面也能草拟合同，移动端应该怎么做",
+          "url": "https://www.woshipm.com/share/6440974.html",
+          "author": "合同管理吴彦祖",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI技术席卷而来，写作、绘画、视频生成无所不能，但为何总少了点“人味”？本文作者以人文视角审视AI的局限与价值，指出消费才是AI存续的关键，而人的创造力与情感，才是AI永远无法替代的核心。面对AI泡沫，我们无需恐慌，因为消费市场始终由人主导。我一直是个虚无的人文主义，因此我对于许多将来的危机也感到惶恐，但又觉得不至于致命。即使AI取代更多的工作，哪怕阶级矛盾再深化，对于人类这个逐渐失落的文明来说，...",
-          "published_at": "2026-08-07T02:02:14"
+          "summary": "多门店零售企业的合同起草，往往发生在拓展人员的手机上。面对对方提供的合同或自有模板，移动端如何成为真正的起草入口？本文聚焦AI识别、字段自动填充与模板选择两条路径，解析如何让合同从现场直接进入审批流程，提升业务效率。前两篇文章，我们先后谈了两个问题。第一篇讲的是，多门店零售企业的合同为什么越来越难管。第二篇讲的是，一套能用的合同管理系统，至少应该具备哪些基本功能。合同起草、模板、编号、审批、签署、...",
+          "published_at": "2026-08-07T07:09:26"
         },
         {
-          "title": "闭源和开源正在撞上",
-          "url": "https://www.woshipm.com/ai/6442284.html",
-          "author": "王智远",
+          "title": "让 AI 在 WhatsApp 里替商家接客户，这家公司年化收入 3500 万美元、增长 169%",
+          "url": "https://www.woshipm.com/ai/6442144.html",
+          "author": "张艾拉",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "开源模型权重免费，但推理成本飙升；闭源API价格暴跌，竞争激烈。开源与闭源在价格带上相撞，模型能力不再值钱，利润流向交付层。企业CIO预算转向，混合部署成主流，地缘政治介入，开源定义漂移。最近AI圈最反常的一个趋势，闭源在变便宜，开源越来越贵。真的，没搞反。听起来是不是反了？我们的直觉是，开源权重免费下载，想跑就跑，能贵到哪去；闭源模型 API 按 token 计费，企业掏的是垄断溢价。你说它在变...",
-          "published_at": "2026-08-07T02:01:52"
+          "summary": "海外商家常因客户分散在WhatsApp、Instagram等多个渠道而手忙脚乱，Respond.io将这些入口统一到一个后台，用AI接待、筛选并转接高价值客户。其收入年增169%，秘诀在于按活跃客户而非坐席收费，以及精准的内容获客策略。今天分享的这个产品，大家应该都很感兴趣，因为它和生意、获客直接挂钩：Respond.io，https://respond.io/在国内，一家商家想在线上接待客户，通...",
+          "published_at": "2026-08-07T03:04:46"
         }
       ]
     },
@@ -362,6 +362,15 @@
           "category": "网页设计",
           "source": "A List Apart",
           "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
+          "published_at": null
+        },
+        {
+          "title": "20 Years Inspired by People",
+          "url": "https://www.awwwards.com/sites/20-years-inspired-by-people",
+          "author": "/nk.studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
           "published_at": null
         },
         {
@@ -426,57 +435,57 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "CIAO ENERGY - LAUNCH WEBSITE",
-          "url": "https://www.awwwards.com/sites/ciao-energy-launch-website",
-          "author": "Skaald",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Brandfetch MCP",
-          "url": "https://www.producthunt.com/products/brandfetch",
-          "author": "Nicolas Grenié",
+          "title": "Reference",
+          "url": "https://www.producthunt.com/products/reference-2",
+          "author": "Rahul Thennarasu",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Stop your AI from guessing brand logosDiscussion|Link",
-          "published_at": "2026-08-05T11:55:55"
+          "summary": "Local semantic search for AI agentsDiscussion|Link",
+          "published_at": "2026-08-05T05:07:59"
         },
         {
-          "title": "Cloudflare OS",
+          "title": "Whop CLI",
+          "url": "https://www.producthunt.com/products/whop-cli",
+          "author": "Bobby Thakkar",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Run your entire business from the terminalDiscussion|Link",
+          "published_at": "2026-08-06T01:40:05"
+        },
+        {
+          "title": "Kitesurf",
           "url": "https://www.producthunt.com/products/cloudflare",
           "author": "Chris Messina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Build the AI operating system for your companyDiscussion|Link",
-          "published_at": "2026-08-05T18:52:07"
+          "summary": "Browser built for agents, running on Cloudflare WorkersDiscussion|Link",
+          "published_at": "2026-08-07T04:59:49"
         },
         {
-          "title": "Glyphi: Speed Reader",
-          "url": "https://www.producthunt.com/products/glyphi-speed-reader",
-          "author": "Vahdet Çalışkan",
+          "title": "DataBlur",
+          "url": "https://www.producthunt.com/products/datablur",
+          "author": "Kosta Zanin",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "An RSVP reader for books, PDFs, articles & webpagesDiscussion|Link",
-          "published_at": "2026-08-06T02:41:19"
+          "summary": "Blur sensitive data on screen before anyone sees itDiscussion|Link",
+          "published_at": "2026-08-06T13:27:35"
         },
         {
-          "title": "hey postcard - digital postcards",
-          "url": "https://www.producthunt.com/products/hey-postcard-slow-messaging",
-          "author": "Heli Naik",
+          "title": "Blueberry",
+          "url": "https://www.producthunt.com/products/blueberry-6",
+          "author": "Rishi Narain",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "delivered tomorrow morning at a random time between 8 -10 AMDiscussion|Link",
-          "published_at": "2026-08-06T05:29:41"
+          "summary": "Stop Ghosting People You Actually LikeDiscussion|Link",
+          "published_at": "2026-08-06T22:25:45"
         }
       ]
     },
@@ -545,49 +554,49 @@
       "count": 5,
       "items": [
         {
-          "title": "The last product design tool",
-          "url": "https://writing.mariusz.cc/ultimate-product-design-tool/",
+          "title": "The hierarchy of competence",
+          "url": "https://hvpandya.com/hierarchy-of-competence",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Honey, wake up, wireframes are so back.",
-          "published_at": "2026-08-06T04:00:00"
+          "summary": "Nine stages of how people operate at work, in strict order, where each one is measured by a job it removes from your manager.",
+          "published_at": "2026-08-07T07:18:54"
         },
         {
-          "title": "Drawesome",
-          "url": "https://benji.org/drawesome",
+          "title": "Crashcat",
+          "url": "https://crashcat.dev/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Drawing toolbar for React. Seven pens, an eraser, SVG and PNG export, no dependencies beyond React. Two lines to drop into an app.",
-          "published_at": "2026-08-06T04:00:00"
+          "summary": "A 3D rigid body physics engine for JavaScript, designed for games and simulations.",
+          "published_at": "2026-08-07T07:18:25"
         },
         {
-          "title": "Code, craft, and the making of nested folders",
-          "url": "https://www.figma.com/blog/code-craft-and-the-making-of-nested-folders/",
+          "title": "What happens when you can’t hide behind craft",
+          "url": "https://microsoft.design/articles/the-naked-designer-what-happens-when-you-cant-hide-behind-craft/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "From treating code as a proposal to turning handoffs into conversations, here’s how we shaped a new way of working to ship nested folders.",
-          "published_at": "2026-08-06T04:00:00"
+          "summary": "In an era where AI has made execution nearly free, the designer’s true value no longer lies in craft alone but in having a genuine point of view.",
+          "published_at": "2026-08-07T07:17:52"
         },
         {
-          "title": "The idea machine",
-          "url": "https://www.the-idea-machine.com/",
+          "title": "Headlines Game",
+          "url": "https://www.headlines.games/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Pull the lever to generate a random project or app idea—a surprise mashup of a life space, a product format, and a twist.",
-          "published_at": "2026-08-06T04:00:00"
+          "summary": "Guess the year. 5 real headlines a day.",
+          "published_at": "2026-08-07T07:17:01"
         },
         {
-          "title": "The cold email",
-          "url": "https://zachholman.com/posts/cold-email",
+          "title": "Something is changing in the unit economics of software",
+          "url": "https://nicolo.xyz/note/something-is-changing-in-the-unit-economics-of-software/?utm_source=tldrdev",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Three of the biggest changes in my life all stemmed, in part, from cold outreach.",
-          "published_at": "2026-08-06T04:00:00"
+          "summary": "Why AI is compressing software margins, and what that does to the SaaS playbook.",
+          "published_at": "2026-08-07T07:16:09"
         }
       ]
     },
@@ -610,6 +619,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "本周看什么 | 最近值得一看的 10 部作品",
+          "url": "https://sspai.com/post/113191",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "📅本周新预告《生化危机：爆发夜》中字预告8月5日，电影《生化危机：爆发夜》发布了全新中字预告，将于9月18日在北美上映。扎克・克雷格（《凶器》《野蛮人》）执导，奥斯汀·艾布拉姆斯主演，一份双倍酬劳的郊 ...查看全文",
+          "published_at": "2026-08-07T09:52:38"
+        },
+        {
+          "title": "[限时优惠] 数据分析：用好 Excel 中的数据透视表",
+          "url": "https://sspai.com/post/113108",
+          "author": "子不语Rex",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "编注：本文为Microsoft365工具生值包内随附专属定制教程的免费试读内容。接上级经销商通知，微软将于本月提高Microsoft365订阅的供应成本，后续软件售价也将随之进行相应调整。为此，我们特 ...查看全文",
+          "published_at": "2026-08-07T07:39:58"
+        },
+        {
+          "title": "角落新声｜从合租到整租，我在客厅听见了自己的声音",
+          "url": "https://sspai.com/post/113144",
+          "author": "蓝羽铭",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "当我坐下来，这个小角落就慢慢有了属于我的声音。查看全文",
+          "published_at": "2026-08-07T02:15:51"
+        },
         {
           "title": "派早报：Bose 发布新款 QuietComfort 头戴式耳机等",
           "url": "https://sspai.com/post/113162",
@@ -636,33 +672,6 @@
           "source": "少数派",
           "summary": "这篇文章是TDSStudio在少数派上的第27篇文章，依然是全平台首发。在去年的年度企划之一「中价位TWS横评」中，vivo/iQOO的TWS5系列表现在多个方面都有优势，尤其是降噪综合能力的表现给人 ...查看全文",
           "published_at": "2026-08-06T07:00:00"
-        },
-        {
-          "title": "角落新声｜音乐，刻在时光里的私人地图",
-          "url": "https://sspai.com/post/113017",
-          "author": "野比大雄76",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "没什么特别的，但无处不在，刚刚好。查看全文",
-          "published_at": "2026-08-06T02:14:58"
-        },
-        {
-          "title": "派早报：华为发布尊界 MPV 及多款新品等",
-          "url": "https://sspai.com/post/113110",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "英伟达宣布 Alpamayo 2 Super AI 开放商用、NVM Express 发布十一项规范集更新等。查看全文",
-          "published_at": "2026-08-06T00:42:08"
-        },
-        {
-          "title": "196 张盗版碟，和我的游戏启蒙史",
-          "url": "https://sspai.com/post/112831",
-          "author": "黑狗布雷特",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "游戏首先要传播出去才会具备被用户接受和讨论的价值，那些曾经陪伴你我的盗版游戏，是否也为今天的你埋下过一颗种子？查看全文",
-          "published_at": "2026-08-05T09:24:34"
         }
       ]
     }
