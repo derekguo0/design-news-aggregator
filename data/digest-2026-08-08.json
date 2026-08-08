@@ -1,22 +1,22 @@
 {
   "date": "2026-08-08T00:00:00",
-  "total_items": 62,
+  "total_items": 63,
   "sources": [
-    "Product Hunt",
-    "Design Milk",
-    "优设网",
-    "Awwwards",
     "A List Apart",
+    "NN/g (Nielsen Norman Group)",
     "少数派",
-    "Smashing Magazine",
-    "UX Design CC",
     "人人都是产品经理",
     "Sidebar",
-    "CSS-Tricks",
+    "Design Milk",
+    "优设网",
     "UX Planet",
-    "NN/g (Nielsen Norman Group)"
+    "UX Design CC",
+    "Awwwards",
+    "CSS-Tricks",
+    "Smashing Magazine",
+    "Product Hunt"
   ],
-  "generated_at": "2026-08-08T01:51:13.018049",
+  "generated_at": "2026-08-08T12:54:42.060764",
   "categories": [
     {
       "category": "用户体验设计",
@@ -206,49 +206,49 @@
           "published_at": "2026-08-05T13:00:13"
         },
         {
-          "title": "K3技术报告揭秘：同样堆万亿参数，为什么老牌巨头崩了，Kimi 做成了？",
-          "url": "https://www.woshipm.com/ai/6442313.html",
-          "author": "鲸选AI",
+          "title": "AI 产品的门槛，不在开始使用前，而在第一次生成之后",
+          "url": "https://www.woshipm.com/ai/6406731.html",
+          "author": "CyrusChang",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Kimi K3以2.8万亿参数登顶开源模型，靠MoE架构创新实现2.5倍缩放效率。本文拆解其解决专家过胖、数值爆炸、负载不均三大难题的技术细节，对比巨头堆参数的教训，探讨规模效率与后训练如何决定模型真实价值。最近 Kimi K3 火了，国产开源模型成了世界顶模。在第三方评测机构 Artificial Analysis 的榜单上，它排全球第三，仅次于 Claude Fable 5 和 GPT-5.6...",
-          "published_at": "2026-08-07T09:33:42"
+          "summary": "AI 工具的门槛正在从“开始”转移到“改下去”。当生成结果不尽如人意时，产品能否接住用户的第一次受挫？本文从新手体验出发，探讨 AI 产品如何帮助用户跨越“不会改下去”的隐形门槛。前几天，一个老家的朋友问我：“你当时是怎么入门 AI 的？”我第一反应是：“什么门？”说完我自己也愣了一下。因为这句话听起来很轻松，好像现在用 AI 已经没什么门槛了。但某种程度上，好像也确实是这样。这几年 AI 产品做...",
+          "published_at": "2026-08-08T07:37:46"
         },
         {
-          "title": "Vibe Coding之后：小白4步网上部署到阿里云实操",
-          "url": "https://www.woshipm.com/share/6441946.html",
-          "author": "设绘闲人",
+          "title": "【讲透-进销存】第6篇 接单发货，怎么快还不乱？",
+          "url": "https://www.woshipm.com/share/6442639.html",
+          "author": "杰记",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Vibe coding 完成后，如何将作品低成本部署上线？本文以阿里云 ECS 和域名注册为例，手把手教你从购买服务器、备案域名到配置宝塔面板、解析 DNS 的全流程，助你快速搭建个人网站，实现 MVP 验证。当你进行Vibe coding后，我们可以将它真正的部署到网上，那么，如果你希望是这样的效果，我们可以最小成本的进行部署，小MVP版本的验证。以下配置方式是阿里云ECS+域名进行线上环境部署...",
-          "published_at": "2026-08-07T08:47:15"
+          "summary": "从超卖事故到拣货混乱，再到组合销售的库存难题，本文通过老李的实战案例，拆解进销存系统在订单履约中的关键机制。库存锁定、拣货策略、复核流程与虚拟组合，这些细节决定电商生意的成败。读懂它们，让你的订单处理更高效、更准确。6.1 老李的“超卖”事故定价体系跑通之后，老李的生意明显上了个台阶。流水涨了，毛利也稳住了，他觉得自己终于摸到了门道。这时候，一个做社区团购的朋友找到他，说：“老李，我在我们小区群里...",
+          "published_at": "2026-08-08T07:37:40"
         },
         {
-          "title": "在AI科技公司，运营=客服？",
-          "url": "https://www.woshipm.com/zhichang/6442170.html",
-          "author": "袁振",
+          "title": "AI 能秒级出报表，为什么业务还是来不及？",
+          "url": "https://www.woshipm.com/ai/6442626.html",
+          "author": "钟文峰",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI公司招聘页上罕见“运营”岗位，但运营并未消失，而是被拆解为产品增长、客户成功等更精准的角色。本文剖析运营职能在AI时代的重组，探讨C端与B端市场、品牌建设的差异，揭示AI公司真正需要的增长逻辑。打开招聘软件，会看到一个颇有时代感的分类。BOSS直聘首页把“客服/运营”放在同一个职位入口里，甚至有些职位百科里还有一个更直接的词：运营客服。[1]这多少有点伤人。过去十年，互联网运营写过文章、追过热...",
-          "published_at": "2026-08-07T08:09:06"
+          "summary": "AI 将报表生成提速到秒级，但业务链路中的等待却可能让分析失去意义。SoFi 的 546 个失败会话与 Blend 的新产品，共同指向一个被忽视的指标：行动窗口。本文提出从业务结果反推产品设计，用剩余窗口、Time to Intervention 和窗口命中率，重新定义数据产品的优先级。一周内，SoFi 的贷款申请流程出现了 546 个同类失败会话：用户收到错误信息后，没有完成申请。更危险的是，在...",
+          "published_at": "2026-08-08T07:37:30"
         },
         {
-          "title": "拓展人员在外面也能草拟合同，移动端应该怎么做",
-          "url": "https://www.woshipm.com/share/6440974.html",
-          "author": "合同管理吴彦祖",
+          "title": "一周以后，我想我终于可以来聊聊Seedance 2.5了。",
+          "url": "https://www.woshipm.com/ai/6442539.html",
+          "author": "数字生命卡兹克",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "多门店零售企业的合同起草，往往发生在拓展人员的手机上。面对对方提供的合同或自有模板，移动端如何成为真正的起草入口？本文聚焦AI识别、字段自动填充与模板选择两条路径，解析如何让合同从现场直接进入审批流程，提升业务效率。前两篇文章，我们先后谈了两个问题。第一篇讲的是，多门店零售企业的合同为什么越来越难管。第二篇讲的是，一套能用的合同管理系统，至少应该具备哪些基本功能。合同起草、模板、编号、审批、签署、...",
-          "published_at": "2026-08-07T07:09:26"
+          "summary": "Seedance 2.5 API上线，引发AI视频创作圈热议：有人觉得不如2.0惊艳，有人却称质感飞跃。本文深度采访多位顶级创作者，揭示2.5从“短视频爆款逻辑”转向“电影级标准”的底层变革，解析30秒时长、指令遵循与电影感背后的产品设计哲学。今天，Seedance 2.5的API正式上线了。我知道几乎所有视频Agent产品、还有一些想做大制作广告、中长精品剧的、影视公司内部的系统，都在等这一刻。...",
+          "published_at": "2026-08-08T07:35:43"
         },
         {
-          "title": "让 AI 在 WhatsApp 里替商家接客户，这家公司年化收入 3500 万美元、增长 169%",
-          "url": "https://www.woshipm.com/ai/6442144.html",
-          "author": "张艾拉",
+          "title": "AI 产品的下一道分水岭：从展示能力到稳定交付结果",
+          "url": "https://www.woshipm.com/ai/6442536.html",
+          "author": "AI陆小凤",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "海外商家常因客户分散在WhatsApp、Instagram等多个渠道而手忙脚乱，Respond.io将这些入口统一到一个后台，用AI接待、筛选并转接高价值客户。其收入年增169%，秘诀在于按活跃客户而非坐席收费，以及精准的内容获客策略。今天分享的这个产品，大家应该都很感兴趣，因为它和生意、获客直接挂钩：Respond.io，https://respond.io/在国内，一家商家想在线上接待客户，通...",
-          "published_at": "2026-08-07T03:04:46"
+          "summary": "当通用模型越来越易得，AI 产品的竞争焦点正从模型能力转向任务结果。本文从智能服务定义、Agent 立场、技术形态选择到持续服务设计，拆解 AI 产品经理如何构建真正的壁垒：不是功能演示，而是稳定交付用户愿意反复托付的任务。最近看了《原点 The Origin》的一期对谈，王钦文和海银资本创始人王煜全聊了近一个小时。这期节目跨度很大，从英伟达和自动驾驶，一路聊到用户侧 Agent、人形机器人和中国...",
+          "published_at": "2026-08-08T07:33:25"
         }
       ]
     },
@@ -320,6 +320,15 @@
           "published_at": null
         },
         {
+          "title": "Vero New-York",
+          "url": "https://www.awwwards.com/sites/vero-new-york",
+          "author": "Rodéo studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "20 Years Inspired by People",
           "url": "https://www.awwwards.com/sites/20-years-inspired-by-people",
           "author": "/nk.studio",
@@ -381,39 +390,48 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "2xA Studio",
-          "url": "https://www.awwwards.com/sites/2xa-studio",
-          "author": "2xA Studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Soloop",
-          "url": "https://www.producthunt.com/products/soloop",
-          "author": "Zac Zuo",
+          "title": "Basedash Subscriptions",
+          "url": "https://www.producthunt.com/products/basedash",
+          "author": "Max Musing",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Approval-first Agent OS for solo foundersDiscussion|Link",
-          "published_at": "2026-08-06T10:36:29"
+          "summary": "Subscribe to any dashboard. Delivered on schedule.Discussion|Link",
+          "published_at": "2026-08-08T04:18:54"
         },
         {
-          "title": "AndroMeld",
-          "url": "https://www.producthunt.com/products/andromeld",
-          "author": "Ruoxin He",
+          "title": "AstraPixels",
+          "url": "https://www.producthunt.com/products/astrapixels",
+          "author": "Nick Launches",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Bring a continuity-style experience to Android and MacDiscussion|Link",
-          "published_at": "2026-08-05T13:06:47"
+          "summary": "​​A pixel-art solar system at its real current positions.​Discussion|Link",
+          "published_at": "2026-08-06T03:18:25"
+        },
+        {
+          "title": "Toolport",
+          "url": "https://www.producthunt.com/products/conduit-12",
+          "author": "Tyler",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Every tool, one port. One MCP setup for all your AI agentsDiscussion|Link",
+          "published_at": "2026-08-07T20:20:13"
+        },
+        {
+          "title": "AgentOne Desktop",
+          "url": "https://www.producthunt.com/products/agentone-desktop",
+          "author": "Elijah Pettit",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Automate boring work. Extensible and free desktop AI agent.Discussion|Link",
+          "published_at": "2026-08-07T03:57:52"
         },
         {
           "title": "Whop CLI",
@@ -423,15 +441,6 @@
           "source": "Product Hunt",
           "summary": "Run your entire business from the terminalDiscussion|Link",
           "published_at": "2026-08-06T01:40:05"
-        },
-        {
-          "title": "Progress AI Observability",
-          "url": "https://www.producthunt.com/products/progress-ai-observability",
-          "author": "Lyubomir Atanasov",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Trace, evaluate, and improve AI agents in productionDiscussion|Link",
-          "published_at": "2026-08-05T14:27:52"
         }
       ]
     },
@@ -575,6 +584,15 @@
       "count": 6,
       "items": [
         {
+          "title": "就内容创作而言，说话还是替代不了打字",
+          "url": "https://sspai.com/post/112901",
+          "author": "AstrianZ",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "创作本就不是一个「速度为先」的行为——而打字，本质上是一个思考的过程。查看全文",
+          "published_at": "2026-08-08T05:11:00"
+        },
+        {
           "title": "本周看什么 | 最近值得一看的 10 部作品",
           "url": "https://sspai.com/post/113191",
           "author": "少数派编辑部",
@@ -618,15 +636,6 @@
           "source": "少数派",
           "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
           "published_at": "2026-08-06T09:30:00"
-        },
-        {
-          "title": "TDS REVIEW | vivo TWS 5 Pro 降噪真无线耳机体验",
-          "url": "https://sspai.com/post/112916",
-          "author": "KingTsui",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "这篇文章是TDSStudio在少数派上的第27篇文章，依然是全平台首发。在去年的年度企划之一「中价位TWS横评」中，vivo/iQOO的TWS5系列表现在多个方面都有优势，尤其是降噪综合能力的表现给人 ...查看全文",
-          "published_at": "2026-08-06T07:00:00"
         }
       ]
     }
