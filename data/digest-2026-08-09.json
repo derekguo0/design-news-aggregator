@@ -1,22 +1,22 @@
 {
   "date": "2026-08-09T00:00:00",
-  "total_items": 58,
+  "total_items": 56,
   "sources": [
-    "Awwwards",
+    "NN/g (Nielsen Norman Group)",
     "UX Design CC",
-    "A List Apart",
-    "优设网",
-    "人人都是产品经理",
-    "UX Planet",
-    "Sidebar",
-    "Smashing Magazine",
-    "CSS-Tricks",
-    "少数派",
-    "Product Hunt",
     "Design Milk",
-    "NN/g (Nielsen Norman Group)"
+    "优设网",
+    "A List Apart",
+    "Awwwards",
+    "Smashing Magazine",
+    "UX Planet",
+    "少数派",
+    "人人都是产品经理",
+    "Product Hunt",
+    "CSS-Tricks",
+    "Sidebar"
   ],
-  "generated_at": "2026-08-09T01:58:40.368288",
+  "generated_at": "2026-08-09T12:57:20.896693",
   "categories": [
     {
       "category": "用户体验设计",
@@ -170,49 +170,49 @@
           "published_at": "2026-08-06T14:30:42"
         },
         {
-          "title": "从 0 到 1 设计游戏发票中台：如何接住玩家投诉与税务风险",
-          "url": "https://www.woshipm.com/pd/6442671.html",
-          "author": "AI产品零度",
+          "title": "RAG和Reference都叫知识库？搭Skill别选错",
+          "url": "https://www.woshipm.com/ai/6441990.html",
+          "author": "设绘闲人",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "游戏发票中台不是简单的财务接口聚合，而是一套交易责任与状态管理系统。本文从实际项目经验出发，拆解如何围绕收款主体、订单关系与退款红字链路构建可追溯的发票体系，帮助产品经理避开常见设计误区，让系统真正经得起运营与合规考验。2018 年，DNF 玩家因不满游戏运营，集中要求腾讯为历史充值开具纸质发票，这场行动后来被玩家称为“发票圣战”。它表面上是一场玩家维权，真正暴露的却是游戏业务的脆弱点——交易笔数...",
-          "published_at": "2026-08-09T00:51:42"
+          "summary": "RAG与Reference，同为AI知识库却大不相同。本文用生活化类比拆解两者本质：RAG是自动搜索引擎，Reference是手动文件柜。通过退货政策案例，清晰对比工作流程与适用场景，帮你告别技术焦虑，做出明智选择。最近，遇到一件挺”逗”的事：搭了十几个Skill，把references目录建得整整齐齐的我，突然被朋友问到”你用了RAG吗？”——当场愣住。RAG、Reference、Obsidia...",
+          "published_at": "2026-08-09T07:48:53"
         },
         {
-          "title": "AI 产品的门槛，不在开始使用前，而在第一次生成之后",
-          "url": "https://www.woshipm.com/ai/6406731.html",
-          "author": "CyrusChang",
+          "title": "千问办公初体验：“三合一”更好用吗？",
+          "url": "https://www.woshipm.com/ai/6442920.html",
+          "author": "鲸选AI",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI 工具的门槛正在从“开始”转移到“改下去”。当生成结果不尽如人意时，产品能否接住用户的第一次受挫？本文从新手体验出发，探讨 AI 产品如何帮助用户跨越“不会改下去”的隐形门槛。前几天，一个老家的朋友问我：“你当时是怎么入门 AI 的？”我第一反应是：“什么门？”说完我自己也愣了一下。因为这句话听起来很轻松，好像现在用 AI 已经没什么门槛了。但某种程度上，好像也确实是这样。这几年 AI 产品做...",
-          "published_at": "2026-08-08T07:37:46"
+          "summary": "千问办公正式内测，整合Qoder、悟空与MuleRun，以CLI化操作、多模态工作站及深度生态打通为核心卖点。本文从产品设计角度剖析其功能亮点与不足，对比Codex，探讨其作为阿里AI战略新棋子的实际价值与市场潜力。今天，传说中的千问办公终于给出内测网址了，鲸哥也第一时间上手体验了下，毕竟是阿里重磅推出三合一AI产品：Qoder+悟空+MuleRun=Qwenwork。鲸哥对于这款产品十分期待，毕...",
+          "published_at": "2026-08-09T06:46:14"
         },
         {
-          "title": "【讲透-进销存】第6篇 接单发货，怎么快还不乱？",
-          "url": "https://www.woshipm.com/share/6442639.html",
-          "author": "杰记",
+          "title": "本地生活进入存量竞争，云连锁如何增长？",
+          "url": "https://www.woshipm.com/share/6442823.html",
+          "author": "陈罡Pro",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从超卖事故到拣货混乱，再到组合销售的库存难题，本文通过老李的实战案例，拆解进销存系统在订单履约中的关键机制。库存锁定、拣货策略、复核流程与虚拟组合，这些细节决定电商生意的成败。读懂它们，让你的订单处理更高效、更准确。6.1 老李的“超卖”事故定价体系跑通之后，老李的生意明显上了个台阶。流水涨了，毛利也稳住了，他觉得自己终于摸到了门道。这时候，一个做社区团购的朋友找到他，说：“老李，我在我们小区群里...",
-          "published_at": "2026-08-08T07:37:40"
+          "summary": "本地生活已从增量扩张进入存量经营，品牌竞争焦点正从门店数量转向交付能力与单店产值。本文剖析行业三次转移，揭示有效供给与精细化运营的关键，为从业者提供破局思路。一个本地生活品牌，门店数量没有明显下降，成交也还在发生，为什么它仍然可能正在持续失血？因为真正流失的，可能不是门店数量，而是那些愿意配合、能够履约，并且能持续产生结果的优质门店。今天我分享一个很多人还没有完全意识到的变化：本地生活，已经从增量...",
+          "published_at": "2026-08-09T05:33:11"
         },
         {
-          "title": "AI 能秒级出报表，为什么业务还是来不及？",
-          "url": "https://www.woshipm.com/ai/6442626.html",
-          "author": "钟文峰",
+          "title": "阿里、腾讯重新打办公这一仗：烧掉30亿Token后，我选阿里",
+          "url": "https://www.woshipm.com/it/6442725.html",
+          "author": "Link01",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI 将报表生成提速到秒级，但业务链路中的等待却可能让分析失去意义。SoFi 的 546 个失败会话与 Blend 的新产品，共同指向一个被忽视的指标：行动窗口。本文提出从业务结果反推产品设计，用剩余窗口、Time to Intervention 和窗口命中率，重新定义数据产品的优先级。一周内，SoFi 的贷款申请流程出现了 546 个同类失败会话：用户收到错误信息后，没有完成申请。更危险的是，在...",
-          "published_at": "2026-08-08T07:37:30"
+          "summary": "AI办公的分水岭正从“答案准不准”转向“任务有没有结束”。本文以30亿Token的使用体验为引，对比阿里千问办公与腾讯WorkBuddy的竞争逻辑，提出“答对后还需手动几步”的评判标准，并深入分析两者在商业化闭环上的差异。过去半年用AI干活，我的痛苦大概分两种。一种是它答错了。我得反复告诉它哪些数据能信、为什么这个结论不能这么下、这件事真正应该怎么判断。另一种其实更难受：它答对了，活却没干完。报告...",
+          "published_at": "2026-08-09T04:08:31"
         },
         {
-          "title": "一周以后，我想我终于可以来聊聊Seedance 2.5了。",
-          "url": "https://www.woshipm.com/ai/6442539.html",
-          "author": "数字生命卡兹克",
+          "title": "SaaS改卖人头为卖消耗，其实也没什么两样",
+          "url": "https://www.woshipm.com/share/6442797.html",
+          "author": "SAAS老司机",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Seedance 2.5 API上线，引发AI视频创作圈热议：有人觉得不如2.0惊艳，有人却称质感飞跃。本文深度采访多位顶级创作者，揭示2.5从“短视频爆款逻辑”转向“电影级标准”的底层变革，解析30秒时长、指令遵循与电影感背后的产品设计哲学。今天，Seedance 2.5的API正式上线了。我知道几乎所有视频Agent产品、还有一些想做大制作广告、中长精品剧的、影视公司内部的系统，都在等这一刻。...",
-          "published_at": "2026-08-08T07:35:43"
+          "summary": "SaaS卖人头模式遇天花板，卖消耗也只是存量博弈。AI智能体将单个人头的工作效率放大数十倍，客户预算却未变。真正的出路在于创造增量，按结果收费，帮客户获得更多业务价值。本文剖析SaaS收费模式变革的必然与挑战。SaaS卖人头的模式越来越难了，卖消耗也只是换一种难法，没什么两样。SaaS过去是定期卖人头的模式，即客户每年定期要买多少账号。有些SaaS是向客户侧统一售卖人头，通常是客户统一采购付费，比...",
+          "published_at": "2026-08-09T03:24:22"
         }
       ]
     },
@@ -284,6 +284,15 @@
           "published_at": null
         },
         {
+          "title": "Produx Design",
+          "url": "https://www.awwwards.com/sites/produx-design",
+          "author": "Prødux Design",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Vero New-York",
           "url": "https://www.awwwards.com/sites/vero-new-york",
           "author": "Rodéo studio",
@@ -345,57 +354,30 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Noomo Showcase",
-          "url": "https://www.awwwards.com/sites/noomo-showcase",
-          "author": "Noomo Agency",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 2,
       "items": [
         {
-          "title": "AstraPixels",
-          "url": "https://www.producthunt.com/products/astrapixels",
-          "author": "Nick Launches",
+          "title": "VoiceOS App Store",
+          "url": "https://www.producthunt.com/products/voiceos",
+          "author": "Gabe Perez",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "​​A pixel-art solar system at its real current positions.​Discussion|Link",
-          "published_at": "2026-08-06T03:18:25"
+          "summary": "The app store for voice native apps that lives in your notchDiscussion|Link",
+          "published_at": "2026-08-08T22:42:33"
         },
         {
-          "title": "Toolport",
-          "url": "https://www.producthunt.com/products/conduit-12",
-          "author": "Tyler",
+          "title": "Argos",
+          "url": "https://www.producthunt.com/products/argos-2",
+          "author": "Arystan Tanekov",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Every tool, one port. One MCP setup for all your AI agentsDiscussion|Link",
-          "published_at": "2026-08-07T20:20:13"
-        },
-        {
-          "title": "Basedash Subscriptions",
-          "url": "https://www.producthunt.com/products/basedash",
-          "author": "Max Musing",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Subscribe to any dashboard. Delivered on schedule.Discussion|Link",
-          "published_at": "2026-08-08T04:18:54"
-        },
-        {
-          "title": "Rescript for Desktop",
-          "url": "https://www.producthunt.com/products/rescript-edit-videos-like-you-edit-text",
-          "author": "Wassim Gharbi",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "A free, open source, Descript alternative. Runs on-device.Discussion|Link",
-          "published_at": "2026-08-07T04:56:04"
+          "summary": "The AI that acts as you, right in your browserDiscussion|Link",
+          "published_at": "2026-08-08T23:41:16"
         }
       ]
     },
@@ -539,6 +521,15 @@
       "count": 6,
       "items": [
         {
+          "title": "我做了一个 Quote/0 看板，把 F1 赛程、积分和结果留在桌面",
+          "url": "https://sspai.com/post/113158",
+          "author": "Belcheck",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "特别声明本文的项目构思、结构设计及相关素材整理均由人工完成。在产品开发与调试过程中，使用GPT-5.6Sol模型作为辅助工具，参与方案讨论、代码编写与问题排查。文章内容基于实际开发过程中的经验与记录， ...查看全文",
+          "published_at": "2026-08-09T07:00:00"
+        },
+        {
           "title": "就内容创作而言，说话还是替代不了打字",
           "url": "https://sspai.com/post/112901",
           "author": "AstrianZ",
@@ -582,15 +573,6 @@
           "source": "少数派",
           "summary": "Black Forest Labs 正式推出 FLUX 3 视频生成模型，研究人员发现 iCloud Private Relay 存在 IP 泄露风险等。查看全文",
           "published_at": "2026-08-07T00:51:06"
-        },
-        {
-          "title": "新玩意 248｜少数派的编辑们最近买了啥？",
-          "url": "https://sspai.com/post/113139",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
-          "published_at": "2026-08-06T09:30:00"
         }
       ]
     }
