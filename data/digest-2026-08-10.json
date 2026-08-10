@@ -1,26 +1,54 @@
 {
   "date": "2026-08-10T00:00:00",
-  "total_items": 48,
+  "total_items": 58,
   "sources": [
     "人人都是产品经理",
-    "少数派",
-    "NN/g (Nielsen Norman Group)",
-    "Product Hunt",
     "Design Milk",
-    "CSS-Tricks",
-    "Smashing Magazine",
-    "UX Planet",
-    "A List Apart",
+    "NN/g (Nielsen Norman Group)",
     "Sidebar",
+    "少数派",
     "UX Design CC",
-    "Awwwards"
+    "A List Apart",
+    "UX Planet",
+    "Product Hunt",
+    "Awwwards",
+    "Smashing Magazine",
+    "CSS-Tricks",
+    "优设网"
   ],
-  "generated_at": "2026-08-10T02:03:39.780030",
+  "generated_at": "2026-08-10T13:15:49.788320",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 6,
+      "count": 10,
       "items": [
+        {
+          "title": "Bottle your judgment, Chat is the wrong UI, Design.md",
+          "url": "https://uxdesign.cc/bottle-your-judgment-chat-is-the-wrong-ui-design-md-2484e8d870af?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“Right now I’m helping build software whose whole job is to package how one particular person thinks. The point is not to have this product...",
+          "published_at": "2026-08-10T11:11:29"
+        },
+        {
+          "title": "Why your clients aren’t buying and how to change that",
+          "url": "https://uxdesign.cc/why-your-clients-arent-buying-and-how-to-change-that-cd7104bf14fd?source=rss----138adf9c44c---4",
+          "author": "Zeeshan Khalid",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "You know it’s the right thing to do. The data screams it. Yet they still say no. Here’s the playbook that actually works.Continue reading on UX Collective »",
+          "published_at": "2026-08-10T11:08:31"
+        },
+        {
+          "title": "The side of the egg",
+          "url": "https://uxdesign.cc/the-side-of-the-egg-8c1a6737fad2?source=rss----138adf9c44c---4",
+          "author": "Hiroshi Sato",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "On the next hack for us, in the age of AIContinue reading on UX Collective »",
+          "published_at": "2026-08-10T11:08:08"
+        },
         {
           "title": "The loom that raised its hand",
           "url": "https://uxdesign.cc/the-loom-that-raised-its-hand-4e8981b3ef88?source=rss----138adf9c44c---4",
@@ -65,6 +93,15 @@
           "source": "UX Design CC",
           "summary": "How can we build systems where information goes to live?Systems thinkerStafford Beersaid that “The purpose of a system is what it does.” A purpose (among several) of our information systems is, theref...",
           "published_at": "2026-08-07T00:16:56"
+        },
+        {
+          "title": "7 DESIGN.md Tips for Better, More Consistent AI-Generated UI",
+          "url": "https://uxplanet.org/7-design-md-tips-for-better-more-consistent-ai-generated-ui-b01736d07748?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "DESIGN.md is a Markdown file that acts as a portable design system for AI coding tools like Claude Code. It helps AI tools craft design…Continue reading on UX Planet »",
+          "published_at": "2026-08-10T12:27:26"
         },
         {
           "title": "I Turned a Product Photo Into a 3D Object Using Claude Design",
@@ -151,49 +188,49 @@
           "published_at": "2026-08-07T16:06:04"
         },
         {
-          "title": "3分钱一个任务，B端该怎么选",
-          "url": "https://www.woshipm.com/ai/6443167.html",
-          "author": "数智产研笔记",
+          "title": "善用AI《数据分析Skill设计指南》",
+          "url": "https://www.woshipm.com/share/6444173.html",
+          "author": "接地气的陈老师",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "DeepSeek V4 Flash以3美分的任务成本，将全球90%的模型甩在身后，海外平台争相补贴，开发者疯狂调用。本文从B端视角拆解这一现象，揭示成本结构剧变如何重塑企业AI选型逻辑，并给出三层成本优化框架，助你重算AI账本。昨天试了一下DeepSeek V4 Flash，速度确实快。但这篇文章的重点不是聊体验，而是聊一组让我重新算了一遍账的数字。7月31日，DeepSeek发布V4 Flash...",
-          "published_at": "2026-08-10T01:18:17"
+          "summary": "数据分析Skill制作全攻略！从问题定义、数据底表设计到流程拆解，手把手教你用AI工具生成高效分析方案。告别低价值同比环比，聚焦业务场景细分，掌握指标异动、用户行为等五大类问题解法。以前总有同学问：有没有数据分析的ppt模版，现在变成了：有没有数据分析Skill。授人以鱼，不如授人以渔。今天陈老师把做Skill的方法公布出来，大家收好。一、Skill本质是一个操作流程所以想做好Skill，先问：1...",
+          "published_at": "2026-08-10T08:44:59"
         },
         {
-          "title": "WorkBuddy 已经够用了，腾讯为什么还要做 Marvis？",
-          "url": "https://www.woshipm.com/ai/6443147.html",
-          "author": "Marc",
+          "title": "WorkBuddy产品分析：腾讯押注AI办公Agent背后的产品逻辑",
+          "url": "https://www.woshipm.com/ai/6443570.html",
+          "author": "但是木已成舟",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "如果我是腾讯内部做产品评审的人，第一次看到 Marvis，大概率会先问一句：WorkBuddy 不是已经在做这件事了吗？一个能操作本地文件、执行复杂任务、调用 Skills 的桌面 Agent 已经跑在前面。结果没过多久，同一家公司的应用宝团队又端出了 Marvis。更微妙的是，这两个产品看起来还挺像。所以比“谁功能更多”更值得讨论的问题其实是：腾讯为什么需要两个桌面 Agent？一、真的很像第一...",
-          "published_at": "2026-08-10T01:09:49"
+          "summary": "腾讯推出的WorkBuddy，不是又一个AI聊天工具，而是试图重新定义办公入口的智能执行平台。它瞄准知识工作者在信息处理上的效率瓶颈，让AI从辅助工具变为任务执行者。本文深入拆解其产品定位、目标用户与战略意图，探讨AI办公产品能否真正进入工作流。过去二十年，办公软件的发展一直围绕一个核心目标：让人更高效地使用工具从最早的本地办公软件，到云端协作工具，再到企业级SaaS平台，办公产品不断优化的是工作...",
+          "published_at": "2026-08-10T07:31:23"
         },
         {
-          "title": "AI的工具模式：产品设计的“三派”进化路线图",
-          "url": "https://www.woshipm.com/ai/6442036.html",
-          "author": "设绘闲人",
+          "title": "AI 都会写 PRD 了，我为什么还要专门做一款 Skill？",
+          "url": "https://www.woshipm.com/ai/6443282.html",
+          "author": "AI产品零度",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI浪潮席卷2026，裁员焦虑弥漫职场。本文剖析三种典型焦虑，提出“取代公式”与三条进化路径：视觉派、代码派与新兴的意图派。揭示裁员的真相并非AI取代你，而是“会用AI的人”取代“只会用AI的人”。助你建立AI协作杠杆，在变革中逆势增值。1. 历史的回响通用技术的历史表明，我们往往是在事后回顾时，才能认清他们的本质。这类技术需要时间才能完全绽放光彩，就好像在不同的阶段，我们捡到了不同的拼图碎片，有...",
-          "published_at": "2026-08-10T01:04:02"
+          "summary": "当AI生成PRD已成常态，为何还要专门设计一款Skill？本文作者通过四次关键迭代，将个人判断、团队知识与交付标准融入AI工作流，揭示效率之外更核心的价值——让AI稳定执行产品工作流，而非简单生成模板。最近，我做了一件看起来有点多余的事：专门设计了一款写 PRD 的 Skill。毕竟，现在让 AI 写一份 PRD 已经不难。把需求背景贴进去，再补一句“请输出完整的产品需求文档”，几分钟后，用户故事...",
+          "published_at": "2026-08-10T07:15:02"
         },
         {
-          "title": "Agent产品怎样又智能又可靠",
-          "url": "https://www.woshipm.com/ai/6442620.html",
-          "author": "SunnyJ",
+          "title": "【乙方视角】看不见的部门墙-银行目标部门分析筛选",
+          "url": "https://www.woshipm.com/share/6436415.html",
+          "author": "钟溯/trace",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Agent产品设计的核心挑战在于平衡智能与确定性。本文从价值判断、架构设计到迭代演进，系统拆解如何将不确定性关进笼子，确保可靠交付。AI产品经理需在智能与可控之间找到最优解，构建完整能力闭环。最近重新梳理几个Agent项目后，越来越明确真正决定Agent产品设计成功的关键是：如何在智能与确定性之间寻找最优解？AI产品经理真正需要创造价值的地方在于：判断方向、设计边界、保障结果、推动演进。价值判断：...",
-          "published_at": "2026-08-10T00:54:18"
+          "summary": "银行内部部门墙高耸，产品再好送不到对口部门也是白搭。本文从层级与部门双维度切入，拆解公司业务部、风险管控部、科技子公司等典型组织的职能、KPI与预算逻辑，教你用六维框架精准定位目标部门，让产品方案直击客户痛点，突破关系门槛。上一篇从六个维度拆解了银行客户的宏观画像——背景、层级、对标、年报、招标、部门。了解了一个银行的定位和现状痛点，但银行是个庞大的组织，每个条线、每个部门关注的内容都不同。你的产...",
+          "published_at": "2026-08-10T07:14:37"
         },
         {
-          "title": "中文视频播客，开始在海外串台",
-          "url": "https://www.woshipm.com/it/6443371.html",
-          "author": "山上Hillvue",
+          "title": "AI 时代，人与人的差距可能先来自信息茧房",
+          "url": "https://www.woshipm.com/ai/6443719.html",
+          "author": "宝剑Skyler",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "一段诺兰专访从B站火到YouTube，让海外网友集体感慨“吃上细糠”。这背后是中文视频播客的全面出海——从人文对谈到AI前沿，中国创作者的深度内容正被海外网友自发搬运、追捧，甚至催更。内容质量才是硬通货，文化输出正在反向进行。诺兰为电影《奥德赛》的全球上映跑了不少宣传，最后在全球社交媒体上刷屏的，却是一段从 B 站流出的视频播客。过去几天，中文播客主播仲树对诺兰的专访已成为海外电影圈最热门的话题。...",
-          "published_at": "2026-08-09T13:27:45"
+          "summary": "同一轮AI浪潮，有人焦虑，有人无感，有人已用它重构工作流。本文从团队实践出发，剖析习惯成本、信息茧房与代际差异，指出AI产品的真正机会在于融入工作流而非添加聊天框。与其焦虑或抵制，不如跑通一个小闭环，走出自己的信息茧房。最近我在帮团队更新项目管理工作流，把飞书智能体之类的能力接进原有协作方式。做着做着，我反而更确定了一件事：同一轮 AI 浪潮里，大家看到的根本不是同一个世界。有人每天刷到的都是“A...",
+          "published_at": "2026-08-10T07:13:00"
         }
       ]
     },
@@ -265,6 +302,15 @@
           "published_at": null
         },
         {
+          "title": "NOTHIN'",
+          "url": "https://www.awwwards.com/sites/nothin",
+          "author": "Thomas Carré",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Produx Design",
           "url": "https://www.awwwards.com/sites/produx-design",
           "author": "Prødux Design",
@@ -326,15 +372,6 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Hearst Exhibit 2026",
-          "url": "https://www.awwwards.com/sites/hearst-exhibit-2026",
-          "author": "OSMOS",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -343,31 +380,91 @@
       "count": 3,
       "items": [
         {
-          "title": "VoiceOS App Store",
-          "url": "https://www.producthunt.com/products/voiceos",
-          "author": "Gabe Perez",
+          "title": "Prime Agent",
+          "url": "https://www.producthunt.com/products/prime-intellect",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The app store for voice native apps that lives in your notchDiscussion|Link",
-          "published_at": "2026-08-08T22:42:33"
+          "summary": "A coding agent that can refine its own harnessDiscussion|Link",
+          "published_at": "2026-08-10T04:13:06"
         },
         {
-          "title": "DocsAlot CLI",
-          "url": "https://www.producthunt.com/products/docsalot-2",
-          "author": "Haya Jawed",
+          "title": "SecondBrain Note by GenSpark",
+          "url": "https://www.producthunt.com/products/genspark",
+          "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Let Claude or Codex create and maintain good looking docsDiscussion|Link",
-          "published_at": "2026-08-07T19:43:09"
+          "summary": "A MagSafe AI Recorder That Acts for YouDiscussion|Link",
+          "published_at": "2026-08-09T21:55:17"
         },
         {
-          "title": "Grok Imagine 2.0",
-          "url": "https://www.producthunt.com/products/grok",
-          "author": "Sachin Soundar",
+          "title": "Gutta",
+          "url": "https://www.producthunt.com/products/gutta",
+          "author": "Vaibhav Pathak",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Next-gen AI image generator with segmentation editing.Discussion|Link",
-          "published_at": "2026-08-08T09:43:19"
+          "summary": "A tiny, offline task list for your Mac menu barDiscussion|Link",
+          "published_at": "2026-08-09T17:39:48"
+        }
+      ]
+    },
+    {
+      "category": "设计教程",
+      "count": 6,
+      "items": [
+        {
+          "title": "为什么专业导演说Seedance 2.5比2.0强太多，普通人却嫌退步？",
+          "url": "https://www.uisdc.com/seedance-2-5-4",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "做一集短剧才20元？MiniMax H3 把AI视频成本打下来了！",
+          "url": "https://www.uisdc.com/affordable-ai-shorts",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "保姆级教程！小云雀AI全功能实操指南",
+          "url": "https://www.uisdc.com/xyq-jianying",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "我用AI自动装系统，抢了某宝30块的安装生意",
+          "url": "https://www.uisdc.com/ai-windows-setup",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "案例实操！教你用 AI 做客厅改造设计",
+          "url": "https://www.uisdc.com/ai-room-redo",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Seedance2.5只能出30秒，为什么LibTV单条AI视频时长拉到5分钟？",
+          "url": "https://www.uisdc.com/hunter/0221679919.html",
+          "author": "龙爪槐守望者",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
@@ -376,49 +473,49 @@
       "count": 5,
       "items": [
         {
-          "title": "The hierarchy of competence",
-          "url": "https://hvpandya.com/hierarchy-of-competence",
+          "title": "The AI Notepad for back-to-back meetings",
+          "url": "https://bit.ly/side-gra1",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Nine stages of how people operate at work, in strict order, where each one is measured by a job it removes from your manager.",
-          "published_at": "2026-08-07T07:18:54"
+          "summary": "The AI notepad for back-to-back meetings. Notes, actions and memory. Without a meeting bot.",
+          "published_at": "2026-08-10T07:52:00"
         },
         {
-          "title": "Crashcat",
-          "url": "https://crashcat.dev/",
+          "title": "Taste is all that's left",
+          "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A 3D rigid body physics engine for JavaScript, designed for games and simulations.",
-          "published_at": "2026-08-07T07:18:25"
+          "summary": "How automated output turns taste into the primary filter for software and product design.",
+          "published_at": "2026-08-10T07:51:33"
         },
         {
-          "title": "What happens when you can’t hide behind craft",
-          "url": "https://microsoft.design/articles/the-naked-designer-what-happens-when-you-cant-hide-behind-craft/",
+          "title": "Agent plugins",
+          "url": "https://agent-plugins.org/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "In an era where AI has made execution nearly free, the designer’s true value no longer lies in craft alone but in having a genuine point of view.",
-          "published_at": "2026-08-07T07:17:52"
+          "summary": "A portable package format for reusable components that extend AI agents.",
+          "published_at": "2026-08-10T07:49:24"
         },
         {
-          "title": "Headlines Game",
-          "url": "https://www.headlines.games/",
+          "title": "What’s the purpose of information architecture?",
+          "url": "https://jarango.com/2026/08/07/whats-the-purpose-of-information-architecture/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Guess the year. 5 real headlines a day.",
-          "published_at": "2026-08-07T07:17:01"
+          "summary": "Fifty years after its formal introduction, the discipline of IA is still widely misunderstood. Here‘s a corrective.",
+          "published_at": "2026-08-10T07:48:56"
         },
         {
-          "title": "Something is changing in the unit economics of software",
-          "url": "https://nicolo.xyz/note/something-is-changing-in-the-unit-economics-of-software/?utm_source=tldrdev",
+          "title": "The future of the website",
+          "url": "https://joost.blog/future-of-the-website/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Why AI is compressing software margins, and what that does to the SaaS playbook.",
-          "published_at": "2026-08-07T07:16:09"
+          "summary": "Websites aren’t dying, but their job is changing: agent-readable surfaces, MCP servers, and verifiable authenticity.",
+          "published_at": "2026-08-10T07:48:08"
         }
       ]
     },
@@ -441,6 +538,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "派评 | 近期值得关注的 App",
+          "url": "https://sspai.com/post/113283",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "published_at": "2026-08-10T10:00:00"
+        },
+        {
+          "title": "写给「跑两步就喘」的你：调整跑步姿势，舒适开跑",
+          "url": "https://sspai.com/post/113115",
+          "author": "阿帅的健康笔记",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "从跑步姿势、呼吸节奏、运动强度入手，让跑步更舒服。查看全文",
+          "published_at": "2026-08-10T07:00:00"
+        },
+        {
+          "title": "我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕",
+          "url": "https://sspai.com/post/113202",
+          "author": "VHENSS",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "喜欢，从来没有一个明确的定义。查看全文",
+          "published_at": "2026-08-10T03:00:56"
+        },
         {
           "title": "派早报：央视曝光酒店评级标识消费陷阱",
           "url": "https://sspai.com/post/113268",
@@ -467,33 +591,6 @@
           "source": "少数派",
           "summary": "创作本就不是一个「速度为先」的行为——而打字，本质上是一个思考的过程。查看全文",
           "published_at": "2026-08-08T05:11:00"
-        },
-        {
-          "title": "本周看什么 | 最近值得一看的 10 部作品",
-          "url": "https://sspai.com/post/113191",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "📅本周新预告《生化危机：爆发夜》中字预告8月5日，电影《生化危机：爆发夜》发布了全新中字预告，将于9月18日在北美上映。扎克・克雷格（《凶器》《野蛮人》）执导，奥斯汀·艾布拉姆斯主演，一份双倍酬劳的郊 ...查看全文",
-          "published_at": "2026-08-07T09:52:38"
-        },
-        {
-          "title": "[限时优惠] 数据分析：用好 Excel 中的数据透视表",
-          "url": "https://sspai.com/post/113108",
-          "author": "子不语Rex",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "编注：本文为Microsoft365工具生值包内随附专属定制教程的免费试读内容。接上级经销商通知，微软将于本月提高Microsoft365订阅的供应成本，后续软件售价也将随之进行相应调整。为此，我们特 ...查看全文",
-          "published_at": "2026-08-07T07:39:58"
-        },
-        {
-          "title": "角落新声｜从合租到整租，我在客厅听见了自己的声音",
-          "url": "https://sspai.com/post/113144",
-          "author": "蓝羽铭",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "当我坐下来，这个小角落就慢慢有了属于我的声音。查看全文",
-          "published_at": "2026-08-07T02:15:51"
         }
       ]
     }
