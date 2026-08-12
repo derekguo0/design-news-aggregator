@@ -1,27 +1,43 @@
 {
   "date": "2026-08-12T00:00:00",
-  "total_items": 58,
+  "total_items": 55,
   "sources": [
-    "人人都是产品经理",
-    "Awwwards",
-    "优设网",
-    "CSS-Tricks",
-    "Product Hunt",
-    "A List Apart",
     "Sidebar",
-    "UX Planet",
-    "Design Milk",
-    "Smashing Magazine",
     "NN/g (Nielsen Norman Group)",
+    "Design Milk",
+    "UX Design CC",
+    "A List Apart",
+    "Product Hunt",
     "少数派",
-    "UX Design CC"
+    "UX Planet",
+    "Smashing Magazine",
+    "人人都是产品经理",
+    "优设网"
   ],
-  "generated_at": "2026-08-12T02:11:13.317053",
+  "generated_at": "2026-08-12T13:16:55.155074",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 9,
+      "count": 12,
       "items": [
+        {
+          "title": "Design’s dreaded phrase is coming back. This time we’re in control.",
+          "url": "https://uxdesign.cc/designs-dreaded-phrase-is-coming-back-this-time-we-re-in-control-ab0c6996dc1e?source=rss----138adf9c44c---4",
+          "author": "Kai Wong",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How “Everyone can Design” means designers don’t have to wait for permissionContinue reading on UX Collective »",
+          "published_at": "2026-08-12T11:18:06"
+        },
+        {
+          "title": "The CSS hack that extends your website on iOS Safari",
+          "url": "https://uxdesign.cc/the-css-hack-that-extends-your-website-on-ios-safari-973b4241e612?source=rss----138adf9c44c---4",
+          "author": "Adir SL",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Make your website feel more luxurious using a simple CSS trick.A cover image for “The CSS hack that extends your website on iOS Safari”IntroductionPeople who read a lot of books know that paperbacks g...",
+          "published_at": "2026-08-12T11:17:45"
+        },
         {
           "title": "What Star Wars got right about AI",
           "url": "https://uxdesign.cc/what-star-wars-got-right-about-ai-6404ae7c2e62?source=rss----138adf9c44c---4",
@@ -75,6 +91,15 @@
           "source": "UX Design CC",
           "summary": "How AI agents started escaping their sandboxes, and why the next frontier may be outside language altogether.Image generated using Grok Imagine.In July, models developed byOpenAIescaped a cybersecurit...",
           "published_at": "2026-08-09T18:25:26"
+        },
+        {
+          "title": "Claude Code Doesn’t Need More Context. It Needs Less.",
+          "url": "https://uxplanet.org/claude-code-doesnt-need-more-context-it-needs-less-7a988e2c7210?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "One of the most common pieces of advice for Claude Code is simple:Continue reading on UX Planet »",
+          "published_at": "2026-08-12T11:18:05"
         },
         {
           "title": "Design Systems Are About to Become Executable",
@@ -167,8 +192,17 @@
     },
     {
       "category": "产品设计",
-      "count": 8,
+      "count": 9,
       "items": [
+        {
+          "title": "Shark Redesigns the FlexStyle by Rethinking What’s Inside",
+          "url": "https://design-milk.com/shark-flexstyle-ioncurl-design/",
+          "author": "Dalene Rovenstine",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "The new FlexStyle IonCurl preserves the familiar form while reengineering airflow, ionization, and small interactions to improve the styling experience",
+          "published_at": "2026-08-12T13:00:59"
+        },
         {
           "title": "How a Fashion-Trained Eye Shapes April Graves’ Approach to Stone",
           "url": "https://design-milk.com/april-graves-aria-stone-gallery-natural-stone/",
@@ -197,55 +231,55 @@
           "published_at": "2026-08-10T17:00:09"
         },
         {
-          "title": "合同改了五六版，系统怎样管住最终签署版本？",
-          "url": "https://www.woshipm.com/share/6444983.html",
-          "author": "合同管理吴彦祖",
+          "title": "3万字长文带你WorkBuddy 从入门到精通",
+          "url": "https://www.woshipm.com/ai/6445745.html",
+          "author": "AI星球",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "合同版本管理只能告诉你哪份文件更新，却无法揭示更新背后的实质变化。当法务面对第六版合同时，真正需要的是精准的文档比对能力。本文深入解析合同全生命周期中比对的三大关键节点，以及一次完整比对应如何帮助法务高效识别差异、规避风险。晚上九点多，法务收到一条合同系统通知。一份新门店合同上传了新的协同版本。系统记录得很清楚：第六版。上传人是合作方法务，上传时间是晚上九点零七分，属于第三轮合同协同。第五版还在。...",
-          "published_at": "2026-08-12T02:00:38"
+          "summary": "这是一份 WorkBuddy 的「从入门到精通」完整指南，从下载安装到基础使用，再到进阶玩法与效率技巧，3 万字带你一步步摸清 WorkBuddy 的核心能力。无论你是第一次接触，还是已经用过一段时间、想进一步解锁更多玩法，都可以在这里找到答案。温馨提示：WorkBuddy 仍在持续迭代中，本文部分章节及操作界面可能会随产品功能更新有所调整，具体功能及使用方式请以 WorkBuddy 最新版本为准...",
+          "published_at": "2026-08-12T11:26:20"
         },
         {
-          "title": "AI合规大考：安逸花守、分期乐缠、好分期稳、洋钱罐搏、宜享花专",
-          "url": "https://www.woshipm.com/ai/6445282.html",
-          "author": "刘旷",
+          "title": "《AI比人凶》读后，我从焦虑到清醒的答案",
+          "url": "https://www.woshipm.com/ai/6445703.html",
+          "author": "设绘闲人",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI正在重塑助贷行业，但技术黑盒可能掩盖真实成本。安逸花、分期乐、好分期、洋钱罐、宜享花五家头部平台，在效率与合规间博弈。本文深度剖析各家的AI应用与风险，揭示行业下半场的挑战与方向。助贷行业，正在被人工智能深刻改造，但这不完全是好事儿。《人民日报》有文章提及，金融行业的AI赋能需守住“技术向善”的底线，要防范算法滥用以及数据安全风险。但是有些助贷平台没有守住初心，把技术“黑盒”当作掩盖真实成本的...",
-          "published_at": "2026-08-12T01:56:27"
+          "summary": "AI时代，产品设计师的焦虑与出路何在？本文从《AI比人凶》一书出发，结合实战体感，提出“可缩放”能力模型，探讨AI对低中高级技能的非对称影响，并强调人类独有的“末那识”与决策责任。为设计师指明：与其追逐工具，不如投资可缩放的知识与创造力。最近读了一本关于AI的书，是得到专栏作家万维钢在2025年写的《AI比人凶》，这本书是他写的AI系列的第二本书，另一本是2024年写的《拐点》。起初第一遍读这本书...",
+          "published_at": "2026-08-12T11:01:36"
         },
         {
-          "title": "Claude Code 默认开启 Auto Mode，Agent 的安全不能靠用户一直点“允许”",
-          "url": "https://www.woshipm.com/ai/6444972.html",
-          "author": "十二",
+          "title": "我并不看好AI内容赛道",
+          "url": "https://www.woshipm.com/share/6445715.html",
+          "author": "屈太浪",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Anthropic 将 Claude Code 的 Auto Mode 设为默认，引发了对 Agent 权限设计的重新思考。当人工审批退化为条件反射，系统自动判断能否真正保障安全？本文从产品经理视角，探讨权限分级、风险控制与人工介入的平衡，为 Agent 产品设计提供新思路。最近，Anthropic 宣布了一项变化：从 8 月 14 日开始，Claude Code 的 Pro、Max 和 Team...",
-          "published_at": "2026-08-12T01:52:03"
+          "summary": "AI视频创作看似热闹，实则暗藏隐忧。本文作者亲历后直言不看好，耗时耗力、竞争激烈、商业模式缺失，平台与工具商坐收渔利，创作者难逃为平台打工的宿命。风口轮回之下，AI能否真正搅动阶层变迁？做了几条AI视频内容以后，并不看好这个赛道。一是费时费力又费钱。主要是太熬人了，一个人得集编剧、导演、美术、服装等等为一体，这些工种都有各自门道，想做好不容易的，都需要时间成本。时间才是最贵的。二是竞争人数太多。技...",
+          "published_at": "2026-08-12T10:03:23"
         },
         {
-          "title": "服务器注销找不回来了，医保飞检却逼着要数据：我用豆包+Codex，两小时绝境翻盘",
-          "url": "https://www.woshipm.com/ai/6444944.html",
-          "author": "菜根老谭",
+          "title": "图表不是越多越好！经营分析的核心就这三件事",
+          "url": "https://www.woshipm.com/share/6445713.html",
+          "author": "接地气的陈老师",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当医保飞检遇上服务器注销，历史数据面临永久丢失的危机。本文作者临危受命，在无文档、无专家、无退路的绝境中，借助豆包与Codex两大AI工具接力攻坚，从零开始连库、查表、写SQL，最终成功导出合规数据。这不仅是一次技术救援，更是一场关于AI实战价值的深度验证。先说结论：很多人觉得 AI 没用，不是 AI 不行，而是你还没让它处理过一件真正的、棘手的、连你自己都没底的事。就这两天，我接了一单看着就要”...",
-          "published_at": "2026-08-12T01:51:37"
+          "summary": "经营分析中，发现增长机会常被简单化为画柱状图看涨跌，但真正的机会需通过内部数据与外部信息双重归因，排除短期波动，确认长期趋势，并从宏观视角调配资源支持业务，同时警惕机会耗尽风险。本文详解正确找机会的完整思路。“发现增长机会，评估投入效益，寻找降本空间”，是经营分析三大根本问题。而第一题，就让很多人犯难：到底怎么才算增长机会？该怎么找机会？该怎么推业务落地？今天一文讲清楚该怎么做。一、常见错误一提增...",
+          "published_at": "2026-08-12T10:02:15"
         },
         {
-          "title": "什么是IPD？终于有人把IPD集成产品开发讲透了！",
-          "url": "https://www.woshipm.com/share/6444920.html",
-          "author": "IPD产品研发管理",
+          "title": "网景Netscape——浏览器之王的崛起、陨落与“幽灵”的复仇",
+          "url": "https://www.woshipm.com/it/6445700.html",
+          "author": "李明Bright",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "研发、测试、生产总是对不齐？问题可能不在执行力，而在管理体系。IPD集成产品开发以市场为导向、跨部门协作为基础，华为靠它实现千亿增长。本文全面拆解IPD的八大模块、落地路径与常见误区，帮你判断企业该从哪一步开始。你有没有遇到过这种情况：研发团队完成了产品开发，原型做出来才发现不是市场想要的。项目评审会上，研发说功能做完了，测试说还有大量问题没修完，发布时间只能往后推。产品做出来了，生产说设计没法量...",
-          "published_at": "2026-08-12T01:48:44"
+          "summary": "网景浏览器从90%市占率到归零，被微软免费捆绑策略击垮，却以开源火种催生Firefox，最终联手Chrome让IE退役。本文复盘这场跨越三十年的浏览器战争，解析平台碾压、免费模式与开源复活的商业启示。今天聊一个你可能已经很久没听过的名字——网景（Netscape）。1994年4月创立，1995年8月上市，股价从28美元飙到71美元。成立不到16个月、从未盈利过的公司，市值突破200亿美元。它首创了...",
+          "published_at": "2026-08-12T10:02:02"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 15,
+      "count": 7,
       "items": [
         {
           "title": "Building Tactile UX: Honoring Intentional Design With Lottie",
@@ -309,93 +343,48 @@
           "source": "A List Apart",
           "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
           "published_at": null
-        },
-        {
-          "title": "Studio K95",
-          "url": "https://www.awwwards.com/sites/studio-k95-3",
-          "author": "Studio K95",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "NOTHIN'",
-          "url": "https://www.awwwards.com/sites/nothin",
-          "author": "Thomas Carré",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Produx Design",
-          "url": "https://www.awwwards.com/sites/produx-design",
-          "author": "Prødux Design",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Vero New-York",
-          "url": "https://www.awwwards.com/sites/vero-new-york",
-          "author": "Rodéo studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "20 Years Inspired by People",
-          "url": "https://www.awwwards.com/sites/20-years-inspired-by-people",
-          "author": "/nk.studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "No Art",
-          "url": "https://www.awwwards.com/sites/no-art",
-          "author": "BORING",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Alethia",
-          "url": "https://www.awwwards.com/sites/alethia",
-          "author": "++hellohello",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Serotoninn",
-          "url": "https://www.awwwards.com/sites/serotoninn",
-          "author": "BL/S®",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 1,
+      "count": 4,
       "items": [
         {
-          "title": "Switchy for Mac",
-          "url": "https://www.producthunt.com/products/switchy-for-mac",
-          "author": "Benhur Senabathi",
+          "title": "Sidekick™",
+          "url": "https://www.producthunt.com/products/sidekick-16",
+          "author": "Abdullah Farouk",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Switch your Magic Keyboard, Trackpad, and Mouse between MacsDiscussion|Link",
-          "published_at": "2026-08-09T09:52:09"
+          "summary": "The agentic interfaceDiscussion|Link",
+          "published_at": "2026-08-11T19:58:53"
+        },
+        {
+          "title": "CodeBurn",
+          "url": "https://www.producthunt.com/products/codeburn",
+          "author": "Resham Joshi",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "See where your AI coding spend actually goesDiscussion|Link",
+          "published_at": "2026-08-11T14:05:35"
+        },
+        {
+          "title": "Lettertrace",
+          "url": "https://www.producthunt.com/products/lettertrace",
+          "author": "fmerian",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Track your AI visibility for free (using your own API keys!)Discussion|Link",
+          "published_at": "2026-08-09T02:15:06"
+        },
+        {
+          "title": "Unsloth Desktop",
+          "url": "https://www.producthunt.com/products/unsloth",
+          "author": "Zac Zuo",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Run and train AI models locally on your desktopDiscussion|Link",
+          "published_at": "2026-08-12T03:47:50"
         }
       ]
     },
@@ -449,8 +438,8 @@
           "published_at": null
         },
         {
-          "title": "你还在按单色找素材？Designspiration居然能同时搜五个颜色",
-          "url": "https://www.uisdc.com/hunter/0221680215.html",
+          "title": "把品牌名变成交互动作，Sasasa这招太惊艳了",
+          "url": "https://www.uisdc.com/hunter/0221680347.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -464,73 +453,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Bottle your judgment and make it outlive you",
-          "url": "https://uxdesign.cc/bottle-your-judgment-and-make-it-outlive-you-14f422772262",
+          "title": "Let your designs fail for the right reasons",
+          "url": "https://blog.mozilla.org/ux/2026/08/let-your-designs-fail-for-the-right-reasons/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The most valuable thing you own dies with you, unless you get it out of your head. Let a machine and the person next to you finally use it.",
-          "published_at": "2026-08-11T05:16:23"
+          "summary": "How AI-assisted native prototypes changed what usability testing could show.",
+          "published_at": "2026-08-12T08:27:25"
         },
         {
-          "title": "The HTML review 05",
-          "url": "https://thehtml.review/05/",
+          "title": "State of AI in Design Systems",
+          "url": "https://state-of-ai-in-design-systems.netlify.app/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "An annual journal of literature made to exist on the web.",
-          "published_at": "2026-08-11T05:15:42"
+          "summary": "A field study of how 20 open-source design systems and 6 platforms make themselves readable to AI agents.",
+          "published_at": "2026-08-12T08:26:43"
         },
         {
-          "title": "“Code was never the hard part” is an insult to all programmers",
-          "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+          "title": "Beautiful UI",
+          "url": "https://www.beautifului.dev/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The software development profession is in the midst of upheaval. And there's a gross insult to all programmers everywhere.",
-          "published_at": "2026-08-11T05:14:56"
+          "summary": "A small library of extremely crafted, copy-paste components for chat agents, thinking states, human-in-the-loop approvals, and everything agents need.",
+          "published_at": "2026-08-12T08:26:05"
         },
         {
-          "title": "AI Potluck",
-          "url": "https://www.aipotluck.org/map",
+          "title": "I’m leaving OpenAI to build Jurassic Park",
+          "url": "https://taylor.town/leaving-openai",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Mapping the open source AI stack to understand what’s missing. Now, together, we can close them.",
-          "published_at": "2026-08-11T05:13:56"
+          "summary": "Gonna send you back to the stone age.",
+          "published_at": "2026-08-12T08:25:33"
         },
         {
-          "title": "Systems and delays",
-          "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+          "title": "State of CSS 2026",
+          "url": "https://2026.stateofcss.com/en-US/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Where delays are shown to be counterintuitive.",
-          "published_at": "2026-08-11T05:12:40"
-        }
-      ]
-    },
-    {
-      "category": "前端设计",
-      "count": 2,
-      "items": [
-        {
-          "title": "Animating CSS border-image",
-          "url": "https://css-tricks.com/animating-css-border-image/",
-          "author": "Preethi",
-          "category": "前端设计",
-          "source": "CSS-Tricks",
-          "summary": "Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects.Animating CSS border-imageori...",
-          "published_at": "2026-08-10T15:58:47"
-        },
-        {
-          "title": "SmashingConf Freiburg 2026, September 7-10",
-          "url": "https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/",
-          "author": "Geoff Graham",
-          "category": "前端设计",
-          "source": "CSS-Tricks",
-          "summary": "Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10.SmashingConf Freiburg 2026, September 7-10originally handwritten and publi...",
-          "published_at": "2026-08-10T15:57:39"
+          "summary": "The results are in. Developer adoption across modern CSS features—empirical data on layout practices and usage.",
+          "published_at": "2026-08-12T08:24:54"
         }
       ]
     },
@@ -538,6 +503,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+          "url": "https://sspai.com/post/113219",
+          "author": "Linery",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "想法被及时、完好的记下来，然后呢？查看全文",
+          "published_at": "2026-08-12T09:30:00"
+        },
+        {
+          "title": "对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派",
+          "url": "https://sspai.com/post/113352",
+          "author": "少数派播客",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "《三五环》主播刘飞邀请老麦聊了聊他从 Palm 时代开始的二十年数码时代的经营历程。复盘了少数派如何从一家媒体，一步步跑通「内容+产品」的商业闭环；也聊到了他与罗永浩那段「不打不相识」的往事，以及那些改变了他对科技媒体商业模式认知的故事。查看全文",
+          "published_at": "2026-08-12T07:00:00"
+        },
+        {
+          "title": "我，与「唯一」的 iPhone Air",
+          "url": "https://sspai.com/post/112880",
+          "author": "宛潼",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "在 iPhone Air 之后才发现，有些产品存在的意义，是帮我确认我真正需要什么。查看全文",
+          "published_at": "2026-08-12T03:04:34"
+        },
         {
           "title": "派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等",
           "url": "https://sspai.com/post/113343",
@@ -564,33 +556,6 @@
           "source": "少数派",
           "summary": "随着HarmonyOSNEXT的日渐成熟，越来越多的独立开发者和小团队开始将目光投向这片新的生态。借助日益强大的AI辅助编程工具，写出能跑通的代码、画出漂亮的UI界面，门槛已经变得前所未有地低。但当你 ...查看全文",
           "published_at": "2026-08-11T05:59:27"
-        },
-        {
-          "title": "从内容工坊到 Dot Skill，Quote/0 开始把屏幕交还给你",
-          "url": "https://sspai.com/post/113288",
-          "author": "evnydd0sf",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "从最初的测试与共创算起，Quote/0（摘录）已经陪伴大家近一年半的时间。最初我们只想做一块安静的墨水屏：不推送、不闪烁，只把真正重要的信息留在抬眼可见的地方。后来Quote/0进入了许多我们没有预设 ...查看全文",
-          "published_at": "2026-08-11T04:00:00"
-        },
-        {
-          "title": "不喜欢对照式译文的阅读体验？Ovid 让你「按需」查看原版书籍",
-          "url": "https://sspai.com/post/113263",
-          "author": "Drapor",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "因为不太喜欢传统的那种原文、译文按段落或按分页对照的那种双语书形式，我做了一款可以让你按需查看译文的 ovid。查看全文",
-          "published_at": "2026-08-11T02:17:21"
-        },
-        {
-          "title": "派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等",
-          "url": "https://sspai.com/post/113301",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解Quote/0摘录 ...查看全文",
-          "published_at": "2026-08-11T00:09:35"
         }
       ]
     }
