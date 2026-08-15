@@ -1,23 +1,22 @@
 {
   "date": "2026-08-15T00:00:00",
-  "total_items": 68,
+  "total_items": 64,
   "sources": [
+    "UX Planet",
+    "Product Hunt",
+    "Smashing Magazine",
     "Awwwards",
     "人人都是产品经理",
-    "UX Planet",
     "Design Milk",
-    "UX Design CC",
     "优设网",
-    "NN/g (Nielsen Norman Group)",
-    "Sidebar",
     "少数派",
-    "Product Hunt",
+    "Sidebar",
     "A List Apart",
-    "CSS-Tricks",
-    "Intercom Blog",
-    "Smashing Magazine"
+    "UX Design CC",
+    "NN/g (Nielsen Norman Group)",
+    "Intercom Blog"
   ],
-  "generated_at": "2026-08-15T01:24:04.924449",
+  "generated_at": "2026-08-15T12:42:42.623767",
   "categories": [
     {
       "category": "用户体验设计",
@@ -252,49 +251,49 @@
           "published_at": "2026-08-13T17:33:52"
         },
         {
-          "title": "我扒了 DeepSeek Harness 219 个包，真有价值的是插件内核，附插件推荐",
-          "url": "https://www.woshipm.com/share/6447431.html",
-          "author": "Ai学习的老章",
+          "title": "上线12小时5万星，DeepSeek Harness实测：能干活，但得盯着",
+          "url": "https://www.woshipm.com/ai/6447663.html",
+          "author": "AIX财经",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "昨天我把 DeepSeek Harness 装上跑了一轮：DeepSeek Harness 安装，初体验，没有惊喜。写的比较仓促，仅仅是从安装到使用走了一遍。上午我把官方仓库整个拉下来，让 AI 分析了一下，从启动配置一路翻到 Agent Loop、会话事件、工具管线、上下文压缩和插件加载，很多看到的地方，确实有很多 DeepSeek 的设计巧思省流：本文有AI味，不喜请立即马上迅速叉掉DeepS...",
-          "published_at": "2026-08-14T15:17:31"
+          "summary": "DeepSeek发布首个Harness产品，以“一切皆插件”为核心，支持模型、工具、Skills等模块自由拆装，并提供四种模式。实测显示其在复杂任务上表现不俗，但长任务稳定性待提升。本文深度评测其能力与门槛，解析这款开发者工具的独特定位与生态潜力。DeepSeek也有自己的“马具”了。8月13日晚，DeepSeek发布首个Harness产品DeepSeek Harness。上线一天，GitHub ...",
+          "published_at": "2026-08-15T11:54:54"
         },
         {
-          "title": "DeepSeek Harness 安装，初体验，没有惊喜。",
-          "url": "https://www.woshipm.com/share/6447430.html",
-          "author": "Ai学习的老章",
+          "title": "实测GLM 5.3｜重回开源国模一哥",
+          "url": "https://www.woshipm.com/share/6447609.html",
+          "author": "摸鱼小李",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "千呼万唤始出来，DeepSeek Harness 发布了，先说个冷知识，DeepSeek Harness 是用 Claude Code 开发出来的如果你还在好奇 Harness 到底是什么，最简单理解：除模型本身以外的所有工作，都属于Harness的范畴基座大模型相当于智能体的“大脑”，负责推理、理解需求、生成代码；读文件、改代码、执行命令、组织上下文、调用工具、保存会话、申请权限、派发子 Age...",
-          "published_at": "2026-08-14T15:16:22"
+          "summary": "长程调度，Agent Loop，这两个词，圈里喊了大半年，你随便刷个技术社区都能看到乍一听挺唬人。翻译过来其实就一句话：让 AI 自己把一件大事，拆成很多步，一步一步做完，中途还记得自己为啥在干这几个月，DeepSeek、Kimi、Qwen 都在验证这条路线。今天智谱也发了GLM-5.3官方说，通过通过极致的后训练 Scaling：数十倍的长程任务环境、更丰富多样的环境类型、超长的后训练时间，大大...",
+          "published_at": "2026-08-15T09:02:21"
         },
         {
-          "title": "库库AI 评测：百度把 GenFlow 更名后，金融办公的”自动挡”到底灵不灵",
-          "url": "https://www.woshipm.com/share/6447383.html",
-          "author": "胸口碎大石",
+          "title": "猿辅导前妙多研发负责人，想把 AI 变成能独立干活的同事",
+          "url": "https://www.woshipm.com/share/6447576.html",
+          "author": "虾蛄AI",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "盯盘要熬夜守着电脑，写研报要在 Word、Excel、PPT 之间来回倒数据，这是金融人的日常。百度新更名的库库AI，就是冲这些重复劳动来的。它前身是月活破亿的 GenFlow，主打一句话同时出研报、财务模型和路演 PPT，电脑关机了还能在小程序上继续跑自动化任务。金融数据、券商研报、财务 Skill 全都内置，口号是”库库干活，你放心”。到底是真本事，还是把网盘里的 AI 功能重新打了个包，拆开...",
-          "published_at": "2026-08-14T14:41:07"
+          "summary": "数字员工逐渐走进团队。6月下旬的时候，Anthropic发布了Claude Tag。它并不是第一款强调AI同事概念的产品，但它的出现却让这种产品形态变得更加具体。Claude可以直接加入公司的公共频道，持续获得团队讨论里产生的Context。成员交代一件事以后，它会调用已经获得授权的工具继续处理，也能给自己安排之后需要继续完成的工作。更重要的是，它不再完全等待人来发起任务。一些长期没有处理的问题，...",
+          "published_at": "2026-08-15T07:32:45"
         },
         {
-          "title": "马斯克与腾讯，踏进了同一条河流",
-          "url": "https://www.woshipm.com/ai/6447237.html",
-          "author": "深流研究所",
+          "title": "没有用户数据时，我怎样验证一个 RAG 知识库 MVP",
+          "url": "https://www.woshipm.com/ai/6447245.html",
+          "author": "数字问渡",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Grok 4.6的发布不仅让马斯克扬眉吐气，更揭示了AI逆袭的新路径：通过收购Cursor，将编程场景的真实数据反哺模型训练，形成正反馈循环。与此同时，腾讯的WorkBuddy与混元也采用类似的Co-design策略，在办公场景中实现快速迭代。本文深入剖析这一被验证的系统，探讨其如何重塑AI竞争格局。在成立三年、烧钱无数之后，Grok终于活成马斯克想要的样子。昨天凌晨，SpaceXAI发布Grok...",
-          "published_at": "2026-08-14T09:26:57"
+          "summary": "一个没有真实用户数据的个人AI产品MVP，基于倪海厦学习资料构建。本文从产品假设、内容加工到问答路线，详细拆解了从资料结构化到Hybrid RAG的完整决策过程，并坦诚展示了当前测试结果与用户验证之间的差距，为知识类AI产品设计提供了可参考的实现样例。这是一个没有真实用户数据的个人 AI 产品 MVP。项目基于倪海厦相关学习资料整理，和官方没有关联，只供学习研究。本文使用了项目过程文件、Git 提...",
+          "published_at": "2026-08-15T07:12:19"
         },
         {
-          "title": "如何把一个智能体做成可持续迭代的平台？",
-          "url": "https://www.woshipm.com/ai/6447172.html",
-          "author": "我叫小米粒",
+          "title": "为什么产品专业人士，赚不过只会动嘴的销售",
+          "url": "https://www.woshipm.com/share/6447356.html",
+          "author": "邹叔海外营销AI实战",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "智能体不应只是功能，而应拆解为知识库、模板、Skills、智能体与运营入口五类资产。本文通过企业模型路由与升级建议助手的实际案例，解析如何构建最小编排、定位迭代问题，让AI产品持续成长。很多产品团队会把智能体当作一个功能：“在系统里增加一个 AI 助手。”但如果只停留在功能层，项目很容易遇到三个问题：用户不知道什么时候该用；运营不知道为什么要更新；研发不知道修改哪个地方。要让 AI 应用持续成长，...",
-          "published_at": "2026-08-14T09:25:44"
+          "summary": "为什么十年磨一剑的专业人士，收入却不如一个只会打电话的销售？本文直击商业世界的残酷真相：利润从不按劳分配，只按交易分配。销售离钱更近，而专业人士困在完美主义与线性收入中。要么学会卖，要么别再抱怨——这才是职场人真正的分水岭。最近中有一些朋友抱怨一个现象。那个花了十年把打磨专业的市场总监、产品负责人、研发骨干，收入可能不如一个连产品底层逻辑都讲不清楚，但就是会打电话、会加微信、会拍胸脯说”没问题交给...",
+          "published_at": "2026-08-15T06:49:39"
         }
       ]
     },
@@ -366,6 +365,15 @@
           "published_at": null
         },
         {
+          "title": "PX PUSH",
+          "url": "https://www.awwwards.com/sites/px-push",
+          "author": "Lewis Webber",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "HAOQI.DESIGN",
           "url": "https://www.awwwards.com/sites/haoqi-design",
           "author": "curiosity-wen",
@@ -427,66 +435,39 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "20 Years Inspired by People",
-          "url": "https://www.awwwards.com/sites/20-years-inspired-by-people",
-          "author": "/nk.studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 3,
       "items": [
         {
-          "title": "Compass Calendar",
-          "url": "https://www.producthunt.com/products/compass-calendar",
-          "author": "Tyler Dane",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The keyboard-first calendar to get organized quicklyDiscussion|Link",
-          "published_at": "2026-08-13T19:31:57"
-        },
-        {
-          "title": "Basedash Tasks",
-          "url": "https://www.producthunt.com/products/basedash",
-          "author": "Max Musing",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Run your business on autopilotDiscussion|Link",
-          "published_at": "2026-08-14T03:29:11"
-        },
-        {
-          "title": "Openmotion",
-          "url": "https://www.producthunt.com/products/openmotion",
-          "author": "Usman Farooq",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Turn product screenshots and prompts into motion videosDiscussion|Link",
-          "published_at": "2026-08-13T07:46:55"
-        },
-        {
-          "title": "Port22",
-          "url": "https://www.producthunt.com/products/port22",
-          "author": "harsha chaganti",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Claude Code, Codex & more on your phoneDiscussion|Link",
-          "published_at": "2026-08-13T13:28:31"
-        },
-        {
-          "title": "DeepSeek Harness",
-          "url": "https://www.producthunt.com/products/deepseek",
+          "title": "GLM-5.3",
+          "url": "https://www.producthunt.com/products/z-ai",
           "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Composable agent harness where everything is a pluginDiscussion|Link",
-          "published_at": "2026-08-13T13:08:16"
+          "summary": "Coding leap from scaled post-training on the same baseDiscussion|Link",
+          "published_at": "2026-08-14T06:21:52"
+        },
+        {
+          "title": "nenspace",
+          "url": "https://www.producthunt.com/products/nenspace",
+          "author": "fmerian",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "the lo-fi of LLMs: your mind, made largerDiscussion|Link",
+          "published_at": "2026-08-12T15:22:53"
+        },
+        {
+          "title": "Chronock",
+          "url": "https://www.producthunt.com/products/chronock",
+          "author": "Takahiro Ikeuchi",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Scheduling and calendar sync, all in oneDiscussion|Link",
+          "published_at": "2026-08-13T23:57:28"
         }
       ]
     },
@@ -602,33 +583,18 @@
       ]
     },
     {
-      "category": "前端设计",
-      "count": 2,
-      "items": [
-        {
-          "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
-          "url": "https://css-tricks.com/whats-important-17/",
-          "author": "Daniel Schwarz",
-          "category": "前端设计",
-          "source": "CSS-Tricks",
-          "summary": "Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff.What’s !important #17:...",
-          "published_at": "2026-08-14T14:01:51"
-        },
-        {
-          "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
-          "url": "https://css-tricks.com/blocked-aria-hidden-fix/",
-          "author": "Durgesh Rajubhai Pawar",
-          "category": "前端设计",
-          "source": "CSS-Tricks",
-          "summary": "The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue.Blocked aria-hidden: The Warning is Right, and Every Fix You’...",
-          "published_at": "2026-08-12T13:43:56"
-        }
-      ]
-    },
-    {
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布",
+          "url": "https://sspai.com/post/111974",
+          "author": "LOSSES",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "published_at": "2026-08-15T07:07:54"
+        },
         {
           "title": "本周看什么 | 最近值得一看的 9 部作品",
           "url": "https://sspai.com/post/113459",
@@ -673,15 +639,6 @@
           "source": "少数派",
           "summary": "阿里千问开放平台上线菜鸟智能体，Brave 和 Firefox 浏览器宣布将继续支持 uBlock Origin 扩展程序等。查看全文",
           "published_at": "2026-08-14T00:52:24"
-        },
-        {
-          "title": "不用改签名，给 Mac 微信聊天记录「搬个家」",
-          "url": "https://sspai.com/post/113225",
-          "author": "wclebb",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "对长期把 Mac 放在固定位置、外置硬盘常年连接的用户来说，它可以让体积庞大的聊天记录不再挤占有限的内置存储。查看全文",
-          "published_at": "2026-08-13T09:30:00"
         }
       ]
     }
