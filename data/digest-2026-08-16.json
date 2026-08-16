@@ -1,28 +1,37 @@
 {
   "date": "2026-08-16T00:00:00",
-  "total_items": 61,
+  "total_items": 62,
   "sources": [
     "优设网",
-    "NN/g (Nielsen Norman Group)",
     "UX Planet",
-    "Design Milk",
-    "Smashing Magazine",
-    "Awwwards",
-    "Product Hunt",
     "少数派",
-    "A List Apart",
-    "人人都是产品经理",
-    "Sidebar",
-    "CSS-Tricks",
     "UX Design CC",
-    "Intercom Blog"
+    "NN/g (Nielsen Norman Group)",
+    "Awwwards",
+    "Design Milk",
+    "Intercom Blog",
+    "Sidebar",
+    "A List Apart",
+    "Smashing Magazine",
+    "Product Hunt",
+    "CSS-Tricks",
+    "人人都是产品经理"
   ],
-  "generated_at": "2026-08-16T01:35:11.276719",
+  "generated_at": "2026-08-16T12:44:50.597774",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 10,
+      "count": 11,
       "items": [
+        {
+          "title": "You already know how to make it accessible",
+          "url": "https://uxdesign.cc/you-already-know-how-to-make-it-accessible-b29513a9b217?source=rss----138adf9c44c---4",
+          "author": "Hope Turner",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "A translation guide for designers who think accessibility is a separate skill setEvery year,WebAIMcrawls the home pages of the top one million websites and runs them through an automated accessibility...",
+          "published_at": "2026-08-16T10:08:38"
+        },
         {
           "title": "How to become an AI Designer",
           "url": "https://uxdesign.cc/how-to-become-an-ai-designer-ff8ee8aed205?source=rss----138adf9c44c---4",
@@ -225,49 +234,49 @@
           "published_at": "2026-08-13T17:33:52"
         },
         {
-          "title": "从洛天依到方桃子：2.5次元偶像的进化之路",
-          "url": "https://www.woshipm.com/ai/6447328.html",
-          "author": "AI价值官",
+          "title": "FDE不是“新售前”：AI落地进入深水区，产品经理该如何理解这个岗位？",
+          "url": "https://www.woshipm.com/ai/6447680.html",
+          "author": "礼乐昇",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI短剧《被裁掉的女孩》女主角方桃子以25.8万元接下广告，一个月吸粉40万，而此前全网还在吐槽AI平均脸的恐怖谷效应。为什么观众反感AI真人剧角色，却愿意为方桃子买单？本文从次元光谱视角，拆解1.5次元到2.5次元的角色差异，揭示AI偶像如何突破“结界”成为情感陪伴新物种。AI短剧《被裁掉的女孩》女主角方桃子接下60秒广告，报价25.8万元——而仅仅不到三周前，全网还在讨论AI平均脸的恐怖谷效应...",
-          "published_at": "2026-08-16T01:33:37"
+          "summary": "当通用AI能力成为公共供给，企业间的差距取决于如何将模型嵌入具体业务。FDE（前线部署工程师）作为驻扎现场、兼具工程与产品能力的角色，正成为AI落地的关键。本文从产品经理视角拆解FDE的五步闭环与转型路径，揭示AI产品竞争的新护城河。如果你最近关注AI招聘，可能频繁看到一个缩写：FDE，Forward Deployed Engineer。有人把它翻译为前线部署工程师，有人说它是“会写代码的顾问”，...",
+          "published_at": "2026-08-16T08:49:01"
         },
         {
-          "title": "开源一个公众号排版 Skill：彻底解决排版难题（建议收藏！）",
-          "url": "https://www.woshipm.com/ai/6447715.html",
-          "author": "甲木未来派",
+          "title": "一个项目管理软件的诞生（一）：从项目管理思想到产品模型，管理对象与系统边界",
+          "url": "https://www.woshipm.com/pd/6447211.html",
+          "author": "AI产品零度",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "大家好啊，我是甲木，这几天趁着还能用「天才程序员」，跟小李一起把公众号排版 Skill打磨了一下。之前我们每次发布内容，都会有朋友问文章怎么进行排版的，今天直接把方法论和代码库开源出来供大家使用～AI 排版要保证既有阅读路径，又不影响复制粘贴。既有审美判断，又能稳定复用。试了几轮之后，效果比我们预期好很多。而且在国产 Agent 上统统适用！WorkBuddy、TraeWork、QoderWork...",
-          "published_at": "2026-08-15T15:01:39"
+          "summary": "项目管理软件不是功能堆砌的结果，而是组织规模将隐性管理逼成显性系统的产物。本文从团队演进视角出发，拆解管理思想如何通过五层抽象转化为产品模型，并对比主流软件的核心差异，揭示选型背后的真正逻辑。项目管理软件不是从功能规划里长出来的，而是组织规模把隐性的管理方式一步步逼成了显性的系统。我的团队从小到大，内部项目管理软件的演进也一直由我负责，这个判断是我最先想讲清楚的。刚开始工作室，我所在的团队很小，小...",
+          "published_at": "2026-08-16T06:37:22"
         },
         {
-          "title": "教你用Workbuddy生成好看的封面图",
-          "url": "https://www.woshipm.com/share/6447701.html",
-          "author": "马佳彬",
+          "title": "给小白的本地模型避坑指南：别折腾了，先算账",
+          "url": "https://www.woshipm.com/ai/6447614.html",
+          "author": "产品不正经",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI生图的两个重点有小伙伴一直在催更这期的教程，原本老马是真没想写的。因为确实没啥技术含量，而且是老生常谈的东西。首先声明，本文的标题是有点标题党的意思。因为要介绍的工具和模型，并非只有WorkBuddy和内置模型，还有其它的。AI生图，无非两个重点，一个是提示词，一个是生图模型。随着生图模型的发展，现在提示词已经不那么关键了。假设按二八法则划分，现在提示词只占20%，生图模型占80%。也就是说，...",
-          "published_at": "2026-08-15T13:23:09"
+          "summary": "本地模型热潮来袭，但你真的需要吗？本文从硬件配置、模型选择到软件实操，手把手教你算清成本账。显存决定一切，先跑通再买设备才是省钱王道。看完这篇，你就能判断本地模型是“真香”还是“智商税”。最近全网都在聊“本地模型”，教程满天飞。作为一个做 AI 产品的，我换个角度给小白算笔账。不讲虚的，只讲三件事：怎么选模型、怎么算硬件、怎么配软件。看完这篇，你大概知道自己电脑能跑什么，该花多少钱，以及本地模型到...",
+          "published_at": "2026-08-16T05:43:11"
         },
         {
-          "title": "上线12小时5万星，DeepSeek Harness实测：能干活，但得盯着",
-          "url": "https://www.woshipm.com/ai/6447663.html",
-          "author": "AIX财经",
+          "title": "GPT-5.6 把 Agent 做便宜了，但产品经理最该先改的不是模型",
+          "url": "https://www.woshipm.com/ai/6447574.html",
+          "author": "十二",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "DeepSeek发布首个Harness产品，以“一切皆插件”为核心，支持模型、工具、Skills等模块自由拆装，并提供四种模式。实测显示其在复杂任务上表现不俗，但长任务稳定性待提升。本文深度评测其能力与门槛，解析这款开发者工具的独特定位与生态潜力。DeepSeek也有自己的“马具”了。8月13日晚，DeepSeek发布首个Harness产品DeepSeek Harness。上线一天，GitHub ...",
-          "published_at": "2026-08-15T11:54:54"
+          "summary": "GPT-5.6 降价了，但别急着换模型。真正的成本陷阱在于让模型做了太多不该做的事。本文拆解 Agent 任务四分类法，指出产品经理应先优化工作流而非盲目升级模型，并给出从上下文管理到模型路由的实战建议。OpenAI 最近发布了 GPT-5.6 的构建者指南。里面有一组很容易让人兴奋的数据：在 OpenAI 的示例里，GPT-5.6 Luna 在 BrowseComp 上的得分接近 GPT-5.5...",
+          "published_at": "2026-08-16T04:40:51"
         },
         {
-          "title": "实测GLM 5.3｜重回开源国模一哥",
-          "url": "https://www.woshipm.com/share/6447609.html",
-          "author": "摸鱼小李",
+          "title": "生产 Agent 为什么不是一个机器人，而是一套运营系统",
+          "url": "https://www.woshipm.com/ai/6447479.html",
+          "author": "Jaimo.",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "长程调度，Agent Loop，这两个词，圈里喊了大半年，你随便刷个技术社区都能看到乍一听挺唬人。翻译过来其实就一句话：让 AI 自己把一件大事，拆成很多步，一步一步做完，中途还记得自己为啥在干这几个月，DeepSeek、Kimi、Qwen 都在验证这条路线。今天智谱也发了GLM-5.3官方说，通过通过极致的后训练 Scaling：数十倍的长程任务环境、更丰富多样的环境类型、超长的后训练时间，大大...",
-          "published_at": "2026-08-15T09:02:21"
+          "summary": "OpenAI Presence 宣称在英语电话客服场景中实现 75% 自动解决率，但这组数据究竟证明了什么？本文从产品分析视角拆解 Agent 的生产可行性，指出模型能力不等于业务闭环，真正可运营的数字岗位需要 SOP、权限、人工接管与评测改进六层系统支撑。OpenAI 发布 Presence 时披露了一组很有吸引力的数据：在英语电话客服场景中，Agent 能够在没有人工介入的情况下解决 75% ...",
+          "published_at": "2026-08-16T03:39:38"
         }
       ]
     },
@@ -339,6 +348,15 @@
           "published_at": null
         },
         {
+          "title": "SSTR - Friction Reduction",
+          "url": "https://www.awwwards.com/sites/sstr-friction-reduction",
+          "author": "Dmitry Golub",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "PX PUSH",
           "url": "https://www.awwwards.com/sites/px-push",
           "author": "Lewis Webber",
@@ -400,15 +418,6 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Vero New-York",
-          "url": "https://www.awwwards.com/sites/vero-new-york",
-          "author": "Rodéo studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -417,22 +426,22 @@
       "count": 2,
       "items": [
         {
-          "title": "Chronock",
-          "url": "https://www.producthunt.com/products/chronock",
-          "author": "Takahiro Ikeuchi",
+          "title": "HarnessRouter Community Edition",
+          "url": "https://www.producthunt.com/products/epsilla",
+          "author": "Garry Tan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Scheduling and calendar sync, all in oneDiscussion|Link",
-          "published_at": "2026-08-13T23:57:28"
+          "summary": "Open-source unified interface for agent harnessesDiscussion|Link",
+          "published_at": "2026-08-14T06:38:52"
         },
         {
-          "title": "Talvo",
-          "url": "https://www.producthunt.com/products/talvo-2",
-          "author": "Philippe Maes",
+          "title": "Chert",
+          "url": "https://www.producthunt.com/products/chert",
+          "author": "Garry Tan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Connect 2,500+ European banks to track your spendingDiscussion|Link",
-          "published_at": "2026-08-13T15:04:29"
+          "summary": "Vapi for FaceTime: AI video agents in a few linesDiscussion|Link",
+          "published_at": "2026-08-15T04:01:04"
         }
       ]
     },
@@ -567,6 +576,15 @@
       "count": 6,
       "items": [
         {
+          "title": "浏览器扩展合集： 我们为你找到了这 6 款实用、 有趣的「新玩意」",
+          "url": "https://sspai.com/post/113495",
+          "author": "克莱德",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "在浏览器扩展这边，近期又有哪些好用、有趣的「新玩意」呢？查看全文",
+          "published_at": "2026-08-16T04:48:21"
+        },
+        {
           "title": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布",
           "url": "https://sspai.com/post/111974",
           "author": "LOSSES",
@@ -610,15 +628,6 @@
           "source": "少数派",
           "summary": "DeskBox 让 Windows 桌面上散落的文件、待办和临时信息，都有一个顺手的位置。查看全文",
           "published_at": "2026-08-14T02:54:21"
-        },
-        {
-          "title": "派早报：深度求索推出开源 Agent 框架 DeepSeek Harness 及配套插件生态",
-          "url": "https://sspai.com/post/113434",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "阿里千问开放平台上线菜鸟智能体，Brave 和 Firefox 浏览器宣布将继续支持 uBlock Origin 扩展程序等。查看全文",
-          "published_at": "2026-08-14T00:52:24"
         }
       ]
     }
