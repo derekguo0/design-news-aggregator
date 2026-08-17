@@ -1,26 +1,52 @@
 {
   "date": "2026-08-17T00:00:00",
-  "total_items": 52,
+  "total_items": 50,
   "sources": [
-    "优设网",
-    "Product Hunt",
-    "Sidebar",
-    "少数派",
-    "UX Design CC",
-    "人人都是产品经理",
-    "Design Milk",
     "NN/g (Nielsen Norman Group)",
     "A List Apart",
+    "人人都是产品经理",
+    "少数派",
+    "CSS-Tricks",
     "UX Planet",
-    "Awwwards",
-    "CSS-Tricks"
+    "Design Milk",
+    "Product Hunt",
+    "优设网",
+    "Sidebar",
+    "UX Design CC"
   ],
-  "generated_at": "2026-08-17T01:26:12.823578",
+  "generated_at": "2026-08-17T12:50:34.462604",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 5,
+      "count": 9,
       "items": [
+        {
+          "title": "Rethinking leadership, Judgment as bottleneck, Ethical UX for machines",
+          "url": "https://uxdesign.cc/rethinking-leadership-judgment-as-bottleneck-ethical-ux-for-machines-5927df9a399e?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“Design leadership is currently suffering from a bad case of mechanical thinking. We talk endlessly about cross-functional alignment, produ...",
+          "published_at": "2026-08-17T11:23:18"
+        },
+        {
+          "title": "The feature was fine. So why did users keep hiding it?",
+          "url": "https://uxdesign.cc/the-feature-was-fine-so-why-did-users-keep-hiding-it-58082b6f3abf?source=rss----138adf9c44c---4",
+          "author": "SoYoon Park (DR. PARK)",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The retention killer that never shows up in a requirements doc.This image was the consumer-generated collage of the ‘typical MISSHA user’ at the time: loud, immature, trying too hard, and far removed ...",
+          "published_at": "2026-08-17T11:22:10"
+        },
+        {
+          "title": "AI adoption and the slow erosion of design idealism",
+          "url": "https://uxdesign.cc/ai-adoption-and-the-slow-erosion-of-design-idealism-fab75761ebd6?source=rss----138adf9c44c---4",
+          "author": "Michael Buckley",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How years of client work, deadlines, and professional practice reshape a designer’s relationship with emerging technology.Photo byK. K.onUnsplashI was having lunch with a couple of friends the other d...",
+          "published_at": "2026-08-17T07:37:27"
+        },
         {
           "title": "You already know how to make it accessible",
           "url": "https://uxdesign.cc/you-already-know-how-to-make-it-accessible-b29513a9b217?source=rss----138adf9c44c---4",
@@ -56,6 +82,15 @@
           "source": "UX Design CC",
           "summary": "The gap between what AI is reliable for and what it looks reliable for is where damage happens, and enablement failsHow to lead the change with AI in a nutshellI’ve been building with AI for three yea...",
           "published_at": "2026-08-14T19:26:57"
+        },
+        {
+          "title": "Claude Design Critique: A Better Way to Improve AI-Generated UI",
+          "url": "https://uxplanet.org/claude-design-critique-a-better-way-to-improve-ai-generated-ui-7efa1064bf8a?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Design critique is an integral step in the design process, as it’s the best way to improve the quality of design you create. Originally…Continue reading on UX Planet »",
+          "published_at": "2026-08-17T12:43:11"
         },
         {
           "title": "3 Types of Agentic Workflows in Claude Code: Safe, Risky, and Dangerous",
@@ -151,55 +186,55 @@
           "published_at": "2026-08-14T05:00:03"
         },
         {
-          "title": "海外营销必看：工具类APP如何用十步策略进行冷启动用户增长？",
-          "url": "https://www.woshipm.com/share/6447714.html",
-          "author": "Megan_用户增长",
+          "title": "开源一个非常漂亮的运动数据分析、分享 Skills",
+          "url": "https://www.woshipm.com/share/6449059.html",
+          "author": "歸藏的AI工具箱",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "出海工具类APP如何实现冷启动用户增长？本文拆解一套经过海外成熟市场验证的十步法，从精准定位受众、种子用户获取，到内容营销、付费投放与达人合作，系统化构建增长闭环，助力品牌低成本高效获客。今天和大家分享一套适用于工具类APP的成熟海外营销打法。这套方法论源自YouTube上针对美国成熟应用市场的实战总结，并且结合了我实际工作中对于APP出海的实战经验与思考，不仅适配海外品牌出海、落地市场推广，同样...",
-          "published_at": "2026-08-17T01:10:12"
+          "summary": "我做了一个骑行、跑步和徒步分析 Skill，叫 guizang-sports-skill（github.com/op7418/guizang-sports-skill）。把码表或运动 App 导出的 FIT / KML 交给 Codex、Claude Code 或者其他 Agent，它会先告诉你这次运动发生了什么、下次可以怎么做，然后自动打开一份本地 3D 路线报告。想分享时，还能把路线、数据卡和...",
+          "published_at": "2026-08-17T11:33:33"
         },
         {
-          "title": "Graph Engineering：把一条低效的 Agent 长链，改造成真正能运行的工作图",
-          "url": "https://www.woshipm.com/ai/6447611.html",
-          "author": "查拉图斯特拉怎么说",
+          "title": "团队用AI又省出一个人力！fusion融合模型实测：快速搞定全团队模型调用与成本管控",
+          "url": "https://www.woshipm.com/ai/6448458.html",
+          "author": "晓庄同学",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Agent越做越慢？问题藏在“然后”里。Graph Engineering通过拆解任务节点、删除假边、设计并行与恢复路径，让AI系统只在该等待的地方等待，只在失败的地方重做。本文从实战案例出发，拆解图结构工程的核心逻辑与落地方法。GraphEngineering（图结构工程）设计的是 AI 工作中的依赖结构：把任务拆成节点，删除不传递结果的假边，再安排并行、汇合、验证、路由和局部恢复。一个 Age...",
-          "published_at": "2026-08-17T01:07:19"
+          "summary": "单模型“偏科”让AI应用落地屡屡碰壁？PPIO派欧云Fusion融合模型，用“专家会诊”机制实现多模型协同，一行代码接入，成本仅为顶级模型的1/10，智商却反超。本文以合同审查工具为例，手把手教你如何低成本打出高推理表现。经常有读者问我：“啊庄，我自己搭 AI 工具或者 Agent 时，到底选哪个模型最划算、效果最好？”讲真，过去一年多我踩过最大的坑，就是盲目“押注”某一款全能大模型。有些模型写代...",
+          "published_at": "2026-08-17T09:21:38"
         },
         {
-          "title": "1.2万字拆解Anthropic：那个选择“不卷”的人，最终“卷”赢了所有人",
-          "url": "https://www.woshipm.com/ai/6438748.html",
-          "author": "罗兰@AIToB增长",
+          "title": "Codex 远程控制连不上？我用 3 条命令 + 1 个启动器彻底解决了",
+          "url": "https://www.woshipm.com/ai/6448704.html",
+          "author": "菜根老谭",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "估值9000亿美元，18个月营收增长500倍，Anthropic以40%市占率登顶企业AI市场，将OpenAI拉下王座。它不追AGI热点、不砸天价广告，靠“安全”作为核心卖点，从第一天起只做企业客户。本文拆解其“不卷”GTM策略背后的道、术、器、用，揭示这家AI巨头如何用安全合规撬动金融、医疗等高监管行业。有人说它是硅谷最”佛系”的AI巨头——估值9000亿美元（投前，2026年5月），却从不对标...",
-          "published_at": "2026-08-17T01:06:48"
+          "summary": "当AI工具自身出问题时，不妨让它自己诊断自己。本文作者通过让ChatGPT分析截图、日志与代理配置，成功解决了Codex远程控制的连接故障。这不仅是一次技术排障，更展示了人机协作的新模式：人提供现场，AI持续推理，共同逼近根因。先说结论：AI 不只是帮你”用工具”，当它越来越深入你的操作系统、开发环境和产品生态，它也开始具备一种很有意思的能力——诊断自己的工具链。我一直想把手机上的 ChatGPT...",
+          "published_at": "2026-08-17T08:33:55"
         },
         {
-          "title": "AI互联网日报：阿里通义千问下载破20亿、腾讯QQ Bot接入Harness、微信框架升级与PayPal交易传出变局",
-          "url": "https://www.woshipm.com/ai/6447944.html",
-          "author": "AI星球",
+          "title": "从跑步机吃灰到抬腿即玩：临境漫游如何在鸿蒙生态里重做家庭运动",
+          "url": "https://www.woshipm.com/share/6431608.html",
+          "author": "Aine",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当工具开始接手开发、社交和支付入口，真正被重写的是哪一步？入口正在变近。DeepSeek进国家超算互联网，腾讯把QQ Bot接上Harness，NVIDIA把算力融资和能源伙伴一起推进，说明AI工作流正在从模型能力变成可交付系统。PayPal出售谈判和微信小程序框架升级，也在提醒平台入口仍会换形态。我这次想盯住一件事：入口越靠近任务执行，信任和成本越不能含糊。一起来看看这两天发生的AI和互联网赛道...",
-          "published_at": "2026-08-16T13:41:49"
+          "summary": "居家运动设备最怕被买回家后沦为晾衣架。临境漫游选择深耕鸿蒙生态，将脚步变为大屏最自然的输入方式，用实景步道和互动游戏把“我得去运动”变成“我想上去玩一会儿”。本文从产品定位、技术适配到用户反馈，拆解这款轻运动设备如何让家庭运动不再需要心理建设。一台放进家里的运动设备，最怕的不是用户没有买下它，而是买回家之后，很快被放到阳台吃灰，甚至变成晾衣架。这也是临境漫游最早看到的问题。很多家庭并不是没有运动意...",
+          "published_at": "2026-08-17T08:16:13"
         },
         {
-          "title": "二次元头像=技术大佬？DeepSeek Harness揭开AI圈隐藏规律",
-          "url": "https://www.woshipm.com/share/6447940.html",
-          "author": "向阳乔木推荐看",
+          "title": "Notion：一个千人 SaaS 公司，怎么把自己重新做成 AI 公司",
+          "url": "https://www.woshipm.com/ai/6448577.html",
+          "author": "张艾拉",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "8 月 13 日晚，DeepSeek 发布了 DeepSeek Harness，简称 DSH（有朋友cuimao等戏称单身汉）不到两小时，DSH 的 GitHub Star 破万。12 小时后超 5 万，两天后接近 9 万，成为 GitHub 史上涨星最快的项目之一。Harness 的原义是马具、缰绳，今天逛辽宁朝阳博物馆，刚好看到个图。😂😂😂简单说：Harness 是让模型能当 Agent 干活...",
-          "published_at": "2026-08-16T13:26:48"
+          "summary": "Notion 从文档工具到 AI 工作空间的转型，揭示了成熟 SaaS 公司如何在 AI 时代避免沦为旧公司。创始人 Ivan Zhao 两次“重做”公司的经历，以及组织、招聘、市场的全面调整，为所有面临 AI 变革的企业提供了极具参考价值的样本。今天分享的并不是一个新公司，大家应该都很熟悉：Notion，也是我最喜欢用的 app 之一。Notion 2013 年成立，后来从文档、笔记、知识库、项...",
+          "published_at": "2026-08-17T07:50:23"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 14,
+      "count": 6,
       "items": [
         {
           "title": "Designed for a Dead Language",
@@ -254,102 +289,48 @@
           "source": "A List Apart",
           "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
           "published_at": null
-        },
-        {
-          "title": "SSTR - Friction Reduction",
-          "url": "https://www.awwwards.com/sites/sstr-friction-reduction",
-          "author": "Dmitry Golub",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "PX PUSH",
-          "url": "https://www.awwwards.com/sites/px-push",
-          "author": "Lewis Webber",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "HAOQI.DESIGN",
-          "url": "https://www.awwwards.com/sites/haoqi-design",
-          "author": "curiosity-wen",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Mosby's Files",
-          "url": "https://www.awwwards.com/sites/mosbys-files",
-          "author": "Tubik",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Revelatio Studio",
-          "url": "https://www.awwwards.com/sites/revelatio-studio",
-          "author": "Revelatio Studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Studio K95",
-          "url": "https://www.awwwards.com/sites/studio-k95-3",
-          "author": "Studio K95",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "NOTHIN'",
-          "url": "https://www.awwwards.com/sites/nothin",
-          "author": "Thomas Carré",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Produx Design",
-          "url": "https://www.awwwards.com/sites/produx-design",
-          "author": "Prødux Design",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 4,
       "items": [
         {
-          "title": "HarnessRouter Community Edition",
-          "url": "https://www.producthunt.com/products/epsilla",
+          "title": "Vendo",
+          "url": "https://www.producthunt.com/products/vendo",
           "author": "Garry Tan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Open-source unified interface for agent harnessesDiscussion|Link",
-          "published_at": "2026-08-14T06:38:52"
+          "summary": "Let your users build their own features inside your productDiscussion|Link",
+          "published_at": "2026-08-16T22:13:45"
         },
         {
-          "title": "Chert",
-          "url": "https://www.producthunt.com/products/chert",
-          "author": "Garry Tan",
+          "title": "Omni by xpander",
+          "url": "https://www.producthunt.com/products/omni-by-xpander",
+          "author": "Ben Lang",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Vapi for FaceTime: AI video agents in a few linesDiscussion|Link",
-          "published_at": "2026-08-15T04:01:04"
+          "summary": "Stop babysitting your AI agentsDiscussion|Link",
+          "published_at": "2026-08-14T18:14:45"
+        },
+        {
+          "title": "Meridian",
+          "url": "https://www.producthunt.com/products/meridian-16",
+          "author": "Rohan Chaubey",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Don't let your work go unnoticed. Get promoted!Discussion|Link",
+          "published_at": "2026-08-14T08:42:54"
+        },
+        {
+          "title": "Hansel by Seedling",
+          "url": "https://www.producthunt.com/products/hansel-by-seedling",
+          "author": "Kemone Phillips",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Your email, your server, your keys so you're not locked outDiscussion|Link",
+          "published_at": "2026-08-16T23:41:18"
         }
       ]
     },
@@ -357,6 +338,15 @@
       "category": "设计教程",
       "count": 6,
       "items": [
+        {
+          "title": "22个实战案例！Codex 零基础保姆级手册进阶版",
+          "url": "https://www.uisdc.com/codex-in-action",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
         {
           "title": "哪个更好用更省钱？3个主流AI视频模型超详细测评来了！",
           "url": "https://www.uisdc.com/budget-video-models",
@@ -394,15 +384,6 @@
           "published_at": null
         },
         {
-          "title": "想找科技感十足的英文字体？试试这款免费的Acro Mono",
-          "url": "https://www.uisdc.com/acro-mono",
-          "author": "",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
-        },
-        {
           "title": "几百版方案全否决，Instagram字标升级有多难做？",
           "url": "https://www.uisdc.com/hunter/0221680767.html",
           "author": "龙爪槐守望者",
@@ -418,49 +399,49 @@
       "count": 5,
       "items": [
         {
-          "title": "AI is removing the middle class of software engineering",
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+          "title": "Take your meeting context to new places",
+          "url": "https://bit.ly/side-gra2",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The economic shift that values human architectural judgment over execution speed.",
-          "published_at": "2026-08-14T08:32:06"
+          "summary": "Granola's new Model Context Protocol (MCP) integration connects your meeting notes to your AI app of choice.",
+          "published_at": "2026-08-17T07:53:00"
         },
         {
-          "title": "Liquid Gooey",
-          "url": "https://gooey.jakubantalik.com/",
+          "title": "Design is how it tastes",
+          "url": "https://superposition.jem.computer/design-is-how-it-tastes/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Liquid UI effects for React.",
-          "published_at": "2026-08-14T08:31:10"
+          "summary": "If our design specs only tell models what the interface is made of, they have already forgotten what the interface is for",
+          "published_at": "2026-08-17T07:52:33"
         },
         {
-          "title": "You don't have a design system",
-          "url": "https://mattrothenberg.com/notes/you-dont-have-a-design-system/",
+          "title": "Eigendrum",
+          "url": "https://eigendrum.com/#p=circle",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A classification that forces teams to document implementation logic for sustained product consistency.",
-          "published_at": "2026-08-14T08:30:33"
+          "summary": "Draw any shape and hear it as a drum. Every frequency is solved from your outline with finite elements, never sampled.",
+          "published_at": "2026-08-17T07:52:02"
         },
         {
-          "title": "Stolen thoughts",
-          "url": "https://stolen-thoughts.com/",
+          "title": "Accessibility getting dropped in the process",
+          "url": "https://buttondown.com/nic-steenhout/archive/accessibility-getting-dropped-in-the-process/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Encrypted chain-of-thought blocks returned by Anthropic, OpenAI and Google APIs—we exploit this to decode hidden reasoning at scale.",
-          "published_at": "2026-08-14T08:29:18"
+          "summary": "When accessible designs become inaccessible products.",
+          "published_at": "2026-08-17T07:50:47"
         },
         {
-          "title": "Claude Code 101, for designers",
-          "url": "https://yaronschoen.com/blog/claude-code-101-for-designers/",
+          "title": "The making of Cursor’s icons",
+          "url": "https://www.minoradventures.co/blog/the-making-of-cursors-icons",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "What Claude Code actually is, plus a plain-language decoder for the jargon around it. Models, tokens, agents, MCP, and friends.",
-          "published_at": "2026-08-14T08:27:51"
+          "summary": "A year of drawing, testing, and shipping a complete icon system for the world’s favourite coding agent.",
+          "published_at": "2026-08-17T07:49:53"
         }
       ]
     },
@@ -484,6 +465,42 @@
       "count": 6,
       "items": [
         {
+          "title": "派评 | 近期值得关注的 App",
+          "url": "https://sspai.com/post/113544",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "published_at": "2026-08-17T10:14:56"
+        },
+        {
+          "title": "分享我知识管理 12 年来最重要的经验：INL 结构",
+          "url": "https://sspai.com/post/113368",
+          "author": "羊清乐",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "你是不是有几百个笔记，超级乱，都懒得打开？今天我们介绍一个方法，可以让你不怎么整理，就能快速找到重点。查看全文",
+          "published_at": "2026-08-17T07:00:00"
+        },
+        {
+          "title": "当陶瓷水杯遇上像素屏：PixelMug 体验",
+          "url": "https://sspai.com/post/113448",
+          "author": "M00Nface",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "如今，伴随着科技和生产力的发展，许多曾经只存在于科幻作品里的创意都逐渐变成了现实。各种新奇酷炫的产品，也开始在人们的刚需之外提供不一样的解法。尤其是那些无关「生产力」、单纯为了让生活变得更有意思的产品 ...查看全文",
+          "published_at": "2026-08-17T05:55:17"
+        },
+        {
+          "title": "成年人包里的唯一一支笔：模块笔入门导购",
+          "url": "https://sspai.com/post/113445",
+          "author": "北鸮",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "如果你的包里想带一支笔以备不时之需，这支笔应该就是你想要的。查看全文",
+          "published_at": "2026-08-17T03:00:00"
+        },
+        {
           "title": "派早报：😭（放声大哭）成为最流行 emoji",
           "url": "https://sspai.com/post/113524",
           "author": "少数派编辑部",
@@ -500,42 +517,6 @@
           "source": "少数派",
           "summary": "在浏览器扩展这边，近期又有哪些好用、有趣的「新玩意」呢？查看全文",
           "published_at": "2026-08-16T04:48:21"
-        },
-        {
-          "title": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布",
-          "url": "https://sspai.com/post/111974",
-          "author": "LOSSES",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "published_at": "2026-08-15T07:07:54"
-        },
-        {
-          "title": "本周看什么 | 最近值得一看的 9 部作品",
-          "url": "https://sspai.com/post/113459",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "📅本周新预告《不存在的罪人》正式预告8月11日，电影《不存在的罪人》发布了正式预告，将于10月2日在北美上映。迈克尔·肖沃特执导，安妮·海瑟薇、达科塔·约翰逊、乔什·哈奈特主演，当红小说家留下未竟手稿 ...查看全文",
-          "published_at": "2026-08-14T09:50:02"
-        },
-        {
-          "title": "你初高中时的书单里，总有本「东野圭吾」吧？",
-          "url": "https://sspai.com/post/113416",
-          "author": "潘誉晗",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "纪念并且感谢他为我们留下的推理世界。查看全文",
-          "published_at": "2026-08-14T07:00:00"
-        },
-        {
-          "title": "声擎×少数派｜「角落新声」征文活动获奖结果公布",
-          "url": "https://sspai.com/post/111709",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅，是如何被你切片、重排并注入新生的？查看全文",
-          "published_at": "2026-08-14T03:44:03"
         }
       ]
     }
