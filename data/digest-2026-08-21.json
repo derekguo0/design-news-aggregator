@@ -1,21 +1,21 @@
 {
   "date": "2026-08-21T00:00:00",
-  "total_items": 59,
+  "total_items": 60,
   "sources": [
-    "CSS-Tricks",
-    "人人都是产品经理",
-    "UX Design CC",
-    "Design Milk",
-    "Sidebar",
-    "A List Apart",
-    "少数派",
-    "优设网",
     "Smashing Magazine",
     "NN/g (Nielsen Norman Group)",
+    "A List Apart",
+    "Design Milk",
+    "Sidebar",
+    "CSS-Tricks",
+    "人人都是产品经理",
     "UX Planet",
+    "UX Design CC",
+    "少数派",
+    "优设网",
     "Product Hunt"
   ],
-  "generated_at": "2026-08-21T01:34:49.755965",
+  "generated_at": "2026-08-21T12:54:19.068500",
   "categories": [
     {
       "category": "用户体验设计",
@@ -241,49 +241,49 @@
           "published_at": "2026-08-18T13:00:16"
         },
         {
-          "title": "项目管理，被AI困在2026年",
-          "url": "https://www.woshipm.com/share/6451995.html",
-          "author": "李召羊",
+          "title": "实体生意持续获客方法：裂变获客模式",
+          "url": "https://www.woshipm.com/it/6452541.html",
+          "author": "老陈的深度思考",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI工具在职场中的普及，正悄然改变项目管理的节奏与质量平衡。本文通过真实落地案例，揭示AI助手在提升效率的同时，如何将人的注意力推向极限，导致“半成品”上线成为常态。当大版本求快、小版本求稳，团队如何在AI与人的协作中寻找容错空间？AI的助手们：兜底效率和质量。12026年人工智能彻底混迹职场，培训课听太多的老板们，AI实践经验溢出的超级个体，构成组织转型的假设条件。打工人拥有几个AI助手，就存在...",
-          "published_at": "2026-08-21T01:11:32"
+          "summary": "子母卡裂变模式正成为实体门店的流量密码。本文以美容院为例，拆解如何通过2000元免费体验与5人转介绍机制，实现低成本获客与业绩倍增。这套通用玩法适用于餐饮、服装等多行业，助你打造无限裂变的客流闭环。拆解一个所有行业通用的裂变获客模式，这个方法就是用子母卡的模式做裂变，不管你是做美容、养生、美业还是餐饮 服装店，这套方法都能直接套用，快速帮你引爆门店客流。我拿美容院举个例子，大家一听就懂。那门店可以...",
+          "published_at": "2026-08-21T09:27:27"
         },
         {
-          "title": "国内跑通的情感AI，做出海为什么架构要推倒重来？",
-          "url": "https://www.woshipm.com/ai/6451991.html",
-          "author": "AI合规研究者",
+          "title": "大厂争相开源 Harness 背后的商业阳谋",
+          "url": "https://www.woshipm.com/ai/6452361.html",
+          "author": "实战产品说",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "情感AI出海，绝非简单翻译界面。国内与海外监管逻辑截然不同，直接平移风控架构将面临结构错位。本文深入剖析出海后风控架构面临的三大结构性压力，并针对欧盟、北美、东南亚等市场给出产品架构调整建议，助力中小团队避开合规陷阱，实现轻量化出海。很多团队在国内把情感AI的合规闭环跑通之后，会形成一个判断：既然国内那套已经经过市场验证，出海不就是把话术翻译一下、把界面改成当地语言吗？真正踩过坑的人都知道，这个判...",
-          "published_at": "2026-08-21T01:11:18"
+          "summary": "OpenAI与DeepSeek在一周内相继开源智能体核心框架Harness，标志着AI竞争从模型层转向框架层。本文深入解析Harness的技术价值、开源背后的战略考量，以及其对行业落地门槛、产品形态和竞争格局的深远影响，为产品经理提供理解AI基础设施变革的关键视角。8月19日，OpenAI在开发者博客放出重磅更新：将Codex背后的核心智能体运行框架Harness全面开源。这距离DeepSeek开...",
+          "published_at": "2026-08-21T09:20:45"
         },
         {
-          "title": "Pi说模型可以更换： AI产品真正该留下的，是Harness吗？",
-          "url": "https://www.woshipm.com/ai/6451983.html",
-          "author": "清晨ai white",
+          "title": "对抗 AI 讨好型人格的“双向钢人论证”",
+          "url": "https://www.woshipm.com/ai/6452470.html",
+          "author": "龙国富",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Pi 将 Harness 定义为系统提示词、工具、Agent 循环与翻译层的组合，它决定模型如何行动、如何反馈、如何切换。本文从四层定义出发，结合 DeepSeek Harness 与 Codex 的实测对比，探讨 AI 产品真正该积累的，是模型依赖还是执行环境。从Pi的四层定义出发，重新理解Agent的执行环境与产品控制权2026年8月20日，Pi官方账号分享了Earendil的一篇新文章《Wh...",
-          "published_at": "2026-08-21T01:07:35"
+          "summary": "模型答非所问、只会顺着你说——AI 的讨好型人格怎么治？本文从逻辑学中的钢人论证出发，提出双向钢人决策测试：让 AI 同时扮演最坚定的支持者与最尖锐的反对者，在极限对抗中逼出真实结论，并讨论了为何不宜把整套规则写进全局 AGENTS.md。在日常使用各类大语言模型时，许多人经常会陷入一种诡异的舒适区：你抛出一个并不成熟的想法，AI 往往第一句就是“这是一个非常棒的视角！”，随后给出一堆四平八稳、放...",
+          "published_at": "2026-08-21T09:17:30"
         },
         {
-          "title": "品味作为生产基建跟 AI 对齐，而不是跟人对齐",
-          "url": "https://www.woshipm.com/ai/6451494.html",
-          "author": "NEXERA AI",
+          "title": "手把手搭建AI报价工作台，甩掉手工查表算价",
+          "url": "https://www.woshipm.com/ai/6452353.html",
+          "author": "伍德安思壮",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "“跟 AI 对齐”不是把判断权交给 AI，而是把人的意图、品味、约束和责任，转化为 AI 可以持续执行、检验和迭代的系统。生成越便宜，判断越昂贵；未来出海竞争的基本单位，不再是一张设计图，而是“证据—规范—原型—产品—市场反馈”的决策闭环。本文结合FDE深度服务制造业 X 出海 场景，提炼AI 时代产品与设计出海的决策重构闭环，指引设计师、产品经理、出海卖家如何与AI对齐，使用AI创造更大的价值；...",
-          "published_at": "2026-08-21T01:03:51"
+          "summary": "客户一条微信过来要报价，翻型号、对单价、算折扣，十几分钟就过去了。本文面向销售、商务与跟单人群，演示如何用 AI 搭建专属报价工作台，无需写一行代码即可自动查表算价，把重复劳动交给系统，让报价从加班变成秒回。做销售、商务、跟单的朋友，大概率都被产品报价折腾过。客户一条微信过来：“这款什么价？要200台多少钱？”你就得点开存着几百上千行的产品Excel，翻型号、找规格、对单价、算折扣、加运费，改个数...",
+          "published_at": "2026-08-21T09:16:46"
         },
         {
-          "title": "Codex 让我震惊的瞬间：直接操作微信，把客户信息汇总成了飞书表格，还自动打标、数据统计！",
-          "url": "https://www.woshipm.com/ai/6451839.html",
-          "author": "AI产品大峡谷",
+          "title": "场景策略四步法之FIRE模型（2026年版）",
+          "url": "https://www.woshipm.com/marketing/6452345.html",
+          "author": "策略人藏锋",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "一次真实的客户信息整理任务，Codex 在 15 分钟内完成了原本需要大半天的工作：自动提取微信回复、筛选客户、生成 Excel 并同步飞书。它不仅能听懂模糊指令，还能守住版本边界，将繁琐流程串联成自动化闭环。本文记录了这一“封神时刻”，探讨 AI 如何从工具进化为能交付完整任务的助手。这次不算评测新功能，而是记录一次 Codex 的封神时刻。下午发出去一批客户对接信息，晚上想把回复整理出来。原本...",
-          "published_at": "2026-08-21T01:01:43"
+          "summary": "用户需求并非一直存在，它需要在特定时刻被点燃。本文提出 FIRE 场景策略模型，从找到场景、理解情境到触发需求的完整链路，结合系统方法拆解如何聚焦具体的人、时刻与问题，让营销方案真正落到用户需求被激发的瞬间。场景策略的本质，是用户导向。不要泛泛而谈的用户画像，要关注一个具体的人+在一个具体的时刻与情境+遇到的一个具体的问题。问题越聚焦，解决方案越有效。需求并非一直都在，它需要被点燃。用户是在某个时...",
+          "published_at": "2026-08-21T09:14:39"
         }
       ]
     },
@@ -358,52 +358,61 @@
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "The New Calendly",
-          "url": "https://www.producthunt.com/products/calendly",
-          "author": "Chris Messina",
+          "title": "Project SKY",
+          "url": "https://www.producthunt.com/products/project-sky",
+          "author": "Pratham Solanki",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Handle all of the work before, during, and after meetingsDiscussion|Link",
-          "published_at": "2026-08-20T05:17:09"
+          "summary": "Your ambient AI companion for Windows.Discussion|Link",
+          "published_at": "2026-08-21T03:43:53"
         },
         {
-          "title": "NobodyWho",
-          "url": "https://www.producthunt.com/products/nobodywho",
-          "author": "Pierre",
+          "title": "Dockhand",
+          "url": "https://www.producthunt.com/products/dockhand",
+          "author": "Jarek Krochmalski",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Run AI models on any deviceDiscussion|Link",
-          "published_at": "2026-08-19T09:35:50"
+          "summary": "Docker management for everyoneDiscussion|Link",
+          "published_at": "2026-08-20T12:06:37"
         },
         {
-          "title": "MiniMax Design",
-          "url": "https://www.producthunt.com/products/minimax",
-          "author": "Zac Zuo",
+          "title": "OneCLI",
+          "url": "https://www.producthunt.com/products/onecli",
+          "author": "Garry Tan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your own agent team for open-ended creationDiscussion|Link",
-          "published_at": "2026-08-20T04:06:04"
+          "summary": "Give every employee a secured, sandboxed pro assistant agentDiscussion|Link",
+          "published_at": "2026-08-19T07:59:04"
         },
         {
-          "title": "Grok 4.6",
-          "url": "https://www.producthunt.com/products/grok-4-6-7",
-          "author": "KP",
+          "title": "ShogunAI",
+          "url": "https://www.producthunt.com/products/shogunai",
+          "author": "ShogunAI",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Frontier Intelligence for Long-Running AgentsDiscussion|Link",
-          "published_at": "2026-08-19T14:26:08"
+          "summary": "Your personal AGI on your PC. Built to finish real work.Discussion|Link",
+          "published_at": "2026-08-21T07:04:00"
         },
         {
-          "title": "ProtoNote",
-          "url": "https://www.producthunt.com/products/protonote",
-          "author": "Zach Friesen",
+          "title": "Actx0",
+          "url": "https://www.producthunt.com/products/actx0",
+          "author": "Ahmed",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Share AI-built prototypes, get feedback pinned to the pageDiscussion|Link",
-          "published_at": "2026-08-20T06:59:05"
+          "summary": "Memory infrastructure for AI agents.Discussion|Link",
+          "published_at": "2026-08-19T22:00:59"
+        },
+        {
+          "title": "Plow Latch",
+          "url": "https://www.producthunt.com/products/plow-latch",
+          "author": "Sam Odio",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Run AI agents on your Mac with scoped accessDiscussion|Link",
+          "published_at": "2026-08-19T23:12:47"
         }
       ]
     },
@@ -457,8 +466,8 @@
           "published_at": null
         },
         {
-          "title": "原来后轮转向会增加剐蹭率？聊聊座舱设计的隐藏盲区",
-          "url": "https://www.uisdc.com/hunter/0221681404.html",
+          "title": "Uber Eats界面改动虽小，却让骑手小费悄悄变多了",
+          "url": "https://www.uisdc.com/hunter/0221681416.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -472,49 +481,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Is design dead in the age of AI?",
-          "url": "https://adobe.design/ideas/is-design-dead-in-the-age-of-ai",
+          "title": "The task isn’t the job",
+          "url": "https://sunilpai.dev/posts/the-task-isnt-the-job/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "No, but it’s undergoing a revision. Written by Jessica Walsh.",
-          "published_at": "2026-08-20T04:39:47"
+          "summary": "A new role, and some questions I want to build my way through.",
+          "published_at": "2026-08-21T04:19:05"
         },
         {
-          "title": "Do you miss the old internet?",
-          "url": "https://www.pi.fyi/welcome",
+          "title": "Syntax",
+          "url": "https://www.doc.cc/syntax",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Before vibeless algo curation, psychopath CEOs, tech bros, and influencers took over? You came to the right place.",
-          "published_at": "2026-08-20T04:39:00"
+          "summary": "This series examines core concepts shaping our designed world, tracing their origins and dissecting their practical significance.",
+          "published_at": "2026-08-21T04:18:11"
         },
         {
-          "title": "How to choose a UI font (and 10 Inter alternatives)",
-          "url": "https://yeptype.com/article/inter-alternatives",
+          "title": "Claude Academy",
+          "url": "https://academy.claude.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Tired of Inter being everywhere? Two real criteria—cap-centered vertical metrics and a tall x-height—for choosing a UI font.",
-          "published_at": "2026-08-20T04:37:20"
+          "summary": "Free courses, tutorials, and use cases from Anthropic — whether you’re exploring AI, getting started with Claude, or rolling it out to your team.",
+          "published_at": "2026-08-21T04:17:39"
         },
         {
-          "title": "Poline: esoteric color palette generation",
-          "url": "https://meodai.github.io/poline/",
+          "title": "RIP.so: the digital graveyard",
+          "url": "https://rip.so/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Poline is a lightweight, dependency free and fast JavaScript function written in TypeScript.",
-          "published_at": "2026-08-20T04:36:48"
+          "summary": "A memorial to the messengers, social networks, browsers and websites the internet forgot.",
+          "published_at": "2026-08-21T04:17:08"
         },
         {
-          "title": "Shading motion",
-          "url": "https://blog.maximeheckel.com/posts/shading-motion/",
+          "title": "How to become an AI Designer",
+          "url": "https://uxdesign.cc/how-to-become-an-ai-designer-ff8ee8aed205",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Detecting, extracting, and stylizing motion with WebGPU and TSL, covering motion masking, blob tracking, optical flow, and velocity-based motion blur.",
-          "published_at": "2026-08-20T04:35:45"
+          "summary": "A realistic guide to shipping your own designs.",
+          "published_at": "2026-08-21T04:16:22"
         }
       ]
     },
@@ -546,6 +555,24 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "本周看什么 | 最近值得一看的 10 部作品",
+          "url": "https://sspai.com/post/113693",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "📅本周新预告《复仇者联盟5》新预告8月15日，电影《复仇者联盟5：毁灭之日》发布了新预告，将于12月全球献映。罗素兄弟执导，克里斯·埃文斯、克里斯·海姆斯沃斯、佩德罗·帕斯卡等主演，小罗伯特·唐尼回归 ...查看全文",
+          "published_at": "2026-08-21T10:08:59"
+        },
+        {
+          "title": "TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验",
+          "url": "https://sspai.com/post/113586",
+          "author": "KingTsui",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Nothing Ear (3a) 保持了它作为 Nothing 产品的精良做工和标志性的外观设计，在操作等方面也做得不错，单元素质也在水平线之上，降噪等方面也并不差，至少在中价位产品中绝对不能算落后。查看全文",
+          "published_at": "2026-08-21T03:05:01"
+        },
         {
           "title": "派早报：华为发布 Pura X View、享界 G9 等多款新品",
           "url": "https://sspai.com/post/113666",
@@ -581,24 +608,6 @@
           "source": "少数派",
           "summary": "在 R9 身上，我竟依稀能感到夏普正在谋求一种仰望星空和脚踏实地间的精妙平衡。查看全文",
           "published_at": "2026-08-20T02:41:31"
-        },
-        {
-          "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本",
-          "url": "https://sspai.com/post/113638",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "哈浮 VERSA 飞行口袋云台相机发布，OpenAI 回应少量 Codex 用户调用 GPT-5.6 系列 AI 模型误删文件问题等。查看全文",
-          "published_at": "2026-08-20T00:46:04"
-        },
-        {
-          "title": "iOS 27 测试版近期动向，还有 Apple 产品新消息",
-          "url": "https://sspai.com/post/113618",
-          "author": "Vanilla",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "7月20日至今，Apple陆续发布了iOS27的DeveloperBeta4、5、6三个测试版本。随着9月秋季发布会的渐进，iOS27距离正式版的发布越来越近。今天，我们就来一起看看这三个Beta版本 ...查看全文",
-          "published_at": "2026-08-19T09:39:05"
         }
       ]
     }
