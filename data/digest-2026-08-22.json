@@ -1,22 +1,22 @@
 {
   "date": "2026-08-22T00:00:00",
-  "total_items": 67,
+  "total_items": 64,
   "sources": [
-    "UX Planet",
-    "Awwwards",
-    "人人都是产品经理",
-    "A List Apart",
-    "Sidebar",
-    "Product Hunt",
-    "少数派",
-    "Design Milk",
-    "NN/g (Nielsen Norman Group)",
     "UX Design CC",
     "Smashing Magazine",
+    "A List Apart",
+    "人人都是产品经理",
+    "少数派",
+    "Awwwards",
+    "优设网",
     "CSS-Tricks",
-    "优设网"
+    "NN/g (Nielsen Norman Group)",
+    "Design Milk",
+    "Product Hunt",
+    "UX Planet",
+    "Sidebar"
   ],
-  "generated_at": "2026-08-22T01:23:32.833540",
+  "generated_at": "2026-08-22T12:44:49.112624",
   "categories": [
     {
       "category": "用户体验设计",
@@ -224,49 +224,49 @@
           "published_at": "2026-08-19T21:43:40"
         },
         {
-          "title": "实体生意持续获客方法：裂变获客模式",
-          "url": "https://www.woshipm.com/it/6452541.html",
-          "author": "老陈的深度思考",
+          "title": "AI 对话体验重构：从「聊完即走」到「可管理、可回溯、可复用」的知识工作流设计",
+          "url": "https://www.woshipm.com/ai/6452722.html",
+          "author": "AI 思录",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "子母卡裂变模式正成为实体门店的流量密码。本文以美容院为例，拆解如何通过2000元免费体验与5人转介绍机制，实现低成本获客与业绩倍增。这套通用玩法适用于餐饮、服装等多行业，助你打造无限裂变的客流闭环。拆解一个所有行业通用的裂变获客模式，这个方法就是用子母卡的模式做裂变，不管你是做美容、养生、美业还是餐饮 服装店，这套方法都能直接套用，快速帮你引爆门店客流。我拿美容院举个例子，大家一听就懂。那门店可以...",
-          "published_at": "2026-08-21T09:27:27"
+          "summary": "AI 对话的深度用户常被无结构的信息流困扰：重要结论难找回、长对话易迷路、提示词无法复用。本文提出一套增强脚本设计方案，通过笔记标记、提示词管理、轮次导航与时间线锚点四大模块，为对话赋予结构，将其转化为可管理、可回溯的知识工作流。AI对话增强脚本设计方案：给无结构的对话加上结构深度用户要的不是更多 AI 能力，而是把 AI 对话变成「可管理、可回溯、可复用」的个人知识工作流。本文基于日常使用 AI...",
+          "published_at": "2026-08-22T07:12:28"
         },
         {
-          "title": "大厂争相开源 Harness 背后的商业阳谋",
-          "url": "https://www.woshipm.com/ai/6452361.html",
-          "author": "实战产品说",
+          "title": "公关、广告行业的OPC时代来了",
+          "url": "https://www.woshipm.com/ai/6452759.html",
+          "author": "寻空",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "OpenAI与DeepSeek在一周内相继开源智能体核心框架Harness，标志着AI竞争从模型层转向框架层。本文深入解析Harness的技术价值、开源背后的战略考量，以及其对行业落地门槛、产品形态和竞争格局的深远影响，为产品经理提供理解AI基础设施变革的关键视角。8月19日，OpenAI在开发者博客放出重磅更新：将Codex背后的核心智能体运行框架Harness全面开源。这距离DeepSeek开...",
-          "published_at": "2026-08-21T09:20:45"
+          "summary": "当AI能独立完成三维动画，当资深从业者一人即可串起全流程，广告公关行业的OPC时代正加速到来。本文从组织变革视角，剖析互联网公司如何将广告公司推向执行端，AI又如何拆解重组织，揭示未来能力将重新回归个人。前段时间，一位在互联网大厂工作的朋友给我看了一条视频，这是他们的供应商用AI做的，一条三维动画的品牌视频。我说这个片子用AI做，应该用不了一万吧，我知道供应商的机制，所以故意往多了说。但他的回答是...",
+          "published_at": "2026-08-22T07:08:15"
         },
         {
-          "title": "对抗 AI 讨好型人格的“双向钢人论证”",
-          "url": "https://www.woshipm.com/ai/6452470.html",
-          "author": "龙国富",
+          "title": "AI产品经理，别急着删数据：真正要交付的是一套可回滚的清洗规则",
+          "url": "https://www.woshipm.com/ai/6452703.html",
+          "author": "怂怂的AI脑内小剧场",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "模型答非所问、只会顺着你说——AI 的讨好型人格怎么治？本文从逻辑学中的钢人论证出发，提出双向钢人决策测试：让 AI 同时扮演最坚定的支持者与最尖锐的反对者，在极限对抗中逼出真实结论，并讨论了为何不宜把整套规则写进全局 AGENTS.md。在日常使用各类大语言模型时，许多人经常会陷入一种诡异的舒适区：你抛出一个并不成熟的想法，AI 往往第一句就是“这是一个非常棒的视角！”，随后给出一堆四平八稳、放...",
-          "published_at": "2026-08-21T09:17:30"
+          "summary": "AI项目中的数据清洗远非简单的表格整理，一条看似不规范的记录可能是关键业务信息。本文深入剖析清洗规则制定中的常见误区，提出用规则卡和保留清单确保数据价值不流失，帮助产品经理在AI项目中做出更明智的数据处理决策。做AI项目时，产品经理经常会收到一句看起来很简单的任务：这批数据有点脏，上线前先清洗一下。技术同学开始跑脚本，空值补了，重复项删了，格式统一了。处理后的数据少了一大截，报表里的指标也变得很漂...",
+          "published_at": "2026-08-22T06:55:40"
         },
         {
-          "title": "手把手搭建AI报价工作台，甩掉手工查表算价",
-          "url": "https://www.woshipm.com/ai/6452353.html",
-          "author": "伍德安思壮",
+          "title": "7个人，把学生笔记做成“闯关游戏”，拿下1300万用户",
+          "url": "https://www.woshipm.com/chuangye/6448660.html",
+          "author": "张艾拉",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "客户一条微信过来要报价，翻型号、对单价、算折扣，十几分钟就过去了。本文面向销售、商务与跟单人群，演示如何用 AI 搭建专属报价工作台，无需写一行代码即可自动查表算价，把重复劳动交给系统，让报价从加班变成秒回。做销售、商务、跟单的朋友，大概率都被产品报价折腾过。客户一条微信过来：“这款什么价？要200台多少钱？”你就得点开存着几百上千行的产品Excel，翻型号、找规格、对单价、算折扣、加运费，改个数...",
-          "published_at": "2026-08-21T09:16:46"
+          "summary": "Gizmo 用游戏化机制重塑学习体验，将笔记、PDF 甚至视频自动转化为闯关式测验。从 30 万到 1300 万用户，仅 7 人团队如何靠口碑与分享实现爆发增长？本文拆解其产品逻辑与增长策略，看 AI 如何让学习像刷抖音一样上瘾。今天分享的产品我觉的还蛮有意思的：Gizmo，https://gizmo.ai/Gizmo 的 slogan 就道出了产品核心：对学习上瘾。如果你用过多邻国，大概很熟悉这...",
+          "published_at": "2026-08-22T06:41:01"
         },
         {
-          "title": "场景策略四步法之FIRE模型（2026年版）",
-          "url": "https://www.woshipm.com/marketing/6452345.html",
-          "author": "策略人藏锋",
+          "title": "小红书大字报笔记正在替代达人笔记",
+          "url": "https://www.woshipm.com/share/6452738.html",
+          "author": "Vic的营销思考",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "用户需求并非一直存在，它需要在特定时刻被点燃。本文提出 FIRE 场景策略模型，从找到场景、理解情境到触发需求的完整链路，结合系统方法拆解如何聚焦具体的人、时刻与问题，让营销方案真正落到用户需求被激发的瞬间。场景策略的本质，是用户导向。不要泛泛而谈的用户画像，要关注一个具体的人+在一个具体的时刻与情境+遇到的一个具体的问题。问题越聚焦，解决方案越有效。需求并非一直都在，它需要被点燃。用户是在某个时...",
-          "published_at": "2026-08-21T09:14:39"
+          "summary": "小红书“大字报”笔记正以低制作门槛和强共鸣感迅速走红，品牌投放逻辑也随之改变。本文从内容形态、选题策略到产品植入，拆解这种新型营销方式的有效性与潜在风险，探讨其能否成为品牌内容营销的长期解法。大家最近刷小红书，有没有发现推荐页里越来越多「大字报」内容了一张纯色背景，中间放一句很大的话，没有精修图，没有复杂排版，账号可能也没多少粉丝，但点赞、评论一点都不少业内现在习惯把这类内容叫作「大字报笔记」。它...",
+          "published_at": "2026-08-22T06:24:20"
         }
       ]
     },
@@ -338,6 +338,15 @@
           "published_at": null
         },
         {
+          "title": "The state of the gallery",
+          "url": "https://www.awwwards.com/sites/the-state-of-the-gallery",
+          "author": "Majo Puterka",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Oimachi",
           "url": "https://www.awwwards.com/sites/oimachi",
           "author": "Oimachi",
@@ -399,75 +408,39 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "HAOQI.DESIGN",
-          "url": "https://www.awwwards.com/sites/haoqi-design",
-          "author": "curiosity-wen",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 3,
       "items": [
         {
-          "title": "Dockhand",
-          "url": "https://www.producthunt.com/products/dockhand",
-          "author": "Jarek Krochmalski",
+          "title": "Open Analytics",
+          "url": "https://www.producthunt.com/products/open-analytics-2",
+          "author": "Abbas Aga",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Docker management for everyoneDiscussion|Link",
-          "published_at": "2026-08-20T12:06:37"
+          "summary": "AI-Native Google Analytics alternative for the modern webDiscussion|Link",
+          "published_at": "2026-08-21T15:08:16"
         },
         {
-          "title": "Actx0",
-          "url": "https://www.producthunt.com/products/actx0",
-          "author": "Ahmed",
+          "title": "AutoClaw",
+          "url": "https://www.producthunt.com/products/z-ai",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Memory infrastructure for AI agents.Discussion|Link",
-          "published_at": "2026-08-19T22:00:59"
+          "summary": "An AI work agent across desktop, browser, and chatDiscussion|Link",
+          "published_at": "2026-08-21T16:04:14"
         },
         {
-          "title": "Flunkey",
-          "url": "https://www.producthunt.com/products/flunkey",
-          "author": "Rohan Sharvesh",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Voice-first AI layer for Windows (beta)Discussion|Link",
-          "published_at": "2026-08-20T18:50:24"
-        },
-        {
-          "title": "fx (by Vercel)",
-          "url": "https://www.producthunt.com/products/fx-by-vercel",
+          "title": "Pocket by Meta",
+          "url": "https://www.producthunt.com/products/pocket-by-meta",
           "author": "Justin Jincaid",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Vercel's tiny, open-source coding agentDiscussion|Link",
-          "published_at": "2026-08-20T08:24:52"
-        },
-        {
-          "title": "Wizstar",
-          "url": "https://www.producthunt.com/products/wizstar",
-          "author": "Chris Messina",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Digital avatars that move and act like professional actorsDiscussion|Link",
-          "published_at": "2026-08-20T15:05:01"
-        },
-        {
-          "title": "PixelRead AI OCR",
-          "url": "https://www.producthunt.com/products/pixelread-ai-ocr",
-          "author": "Dimi Tarasowski",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Capture, translate, and understand any text on your MacDiscussion|Link",
-          "published_at": "2026-08-20T21:21:51"
+          "summary": "Vibe-code games, then share them like TikToksDiscussion|Link",
+          "published_at": "2026-08-21T03:32:59"
         }
       ]
     },
@@ -475,6 +448,15 @@
       "category": "设计教程",
       "count": 6,
       "items": [
+        {
+          "title": "一个可拆装的智能体框架！帮你快速了解DeepSeek Harness",
+          "url": "https://www.uisdc.com/deepseek-harness",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
         {
           "title": "学AI两年还是原地打转？这15个实用技巧帮你快速自学！",
           "url": "https://www.uisdc.com/beginner-ai-pitfalls",
@@ -505,15 +487,6 @@
         {
           "title": "资讯/灵感全都有！2026年8月AI设计资讯周刊",
           "url": "https://www.uisdc.com/design-ai-weekly",
-          "author": "",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "作品集配图的4个雷区+4种用法，一次讲透！",
-          "url": "https://www.uisdc.com/pick-the-right-image",
           "author": "",
           "category": "设计教程",
           "source": "优设网",
@@ -620,6 +593,15 @@
       "count": 6,
       "items": [
         {
+          "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
+          "url": "https://sspai.com/post/113675",
+          "author": "听歌的水獭",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "又一年8月29日如期而至，MichaelJackson的诞辰来到了第68个年头，我们决定在少数派广州线下店举办一场MJ唱片展。少数派广州店一直想做一处能让数码和音乐爱好者都能自在落脚的空间，不必拘谨落 ...查看全文",
+          "published_at": "2026-08-22T03:00:00"
+        },
+        {
           "title": "本周看什么 | 最近值得一看的 10 部作品",
           "url": "https://sspai.com/post/113693",
           "author": "少数派编辑部",
@@ -663,15 +645,6 @@
           "source": "少数派",
           "summary": "从2017年开始，我养成了读书的习惯，到今年年底刚好完成十年的阅读之旅。在这十年里，我累计阅读的书籍有六百余本。在阅读的过程中，我使用了/曾经使用非常多的应用和服务，来辅助阅读、记录书单、整理笔记等。 ...查看全文",
           "published_at": "2026-08-20T07:25:47"
-        },
-        {
-          "title": "「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测",
-          "url": "https://sspai.com/post/113497",
-          "author": "WangMT",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "在 R9 身上，我竟依稀能感到夏普正在谋求一种仰望星空和脚踏实地间的精妙平衡。查看全文",
-          "published_at": "2026-08-20T02:41:31"
         }
       ]
     }
