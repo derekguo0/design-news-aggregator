@@ -1,26 +1,45 @@
 {
   "date": "2026-08-23T00:00:00",
-  "total_items": 56,
+  "total_items": 58,
   "sources": [
-    "UX Design CC",
     "NN/g (Nielsen Norman Group)",
-    "Design Milk",
-    "Awwwards",
+    "少数派",
     "优设网",
-    "Smashing Magazine",
+    "CSS-Tricks",
+    "A List Apart",
     "Product Hunt",
-    "Sidebar",
     "人人都是产品经理",
     "UX Planet",
-    "A List Apart",
-    "少数派"
+    "Awwwards",
+    "UX Design CC",
+    "Sidebar",
+    "Design Milk",
+    "Smashing Magazine"
   ],
-  "generated_at": "2026-08-23T01:36:59.250357",
+  "generated_at": "2026-08-23T12:45:42.395694",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 6,
+      "count": 8,
       "items": [
+        {
+          "title": "Nobody wants a blank page. Nobody touches a perfect one.",
+          "url": "https://uxdesign.cc/nobody-wants-a-blank-page-nobody-touches-a-perfect-one-48d452a26dae?source=rss----138adf9c44c---4",
+          "author": "Takuma Kakehi",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Why people can’t begin from nothing, and won’t touch anything finished.Continue reading on UX Collective »",
+          "published_at": "2026-08-23T11:22:08"
+        },
+        {
+          "title": "Sterling Cooper built your UX process. We need to redefine it in the age of AI and systems.",
+          "url": "https://uxdesign.cc/sterling-cooper-built-your-ux-process-we-need-to-redefine-it-in-the-age-of-ai-and-systems-520a2d3b2a60?source=rss----138adf9c44c---4",
+          "author": "Patrick Neeman",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Modern creative work was assembled in the mid-century ad agency, and UX inherited the whole show. Now is time for a reset in the age of AI. AI assisted.The rituals of the 1960s ad shop — the whiskey, ...",
+          "published_at": "2026-08-23T09:35:34"
+        },
         {
           "title": "What The Matrix got wrong about AI (so far)",
           "url": "https://uxdesign.cc/what-the-matrix-got-wrong-about-ai-so-far-c35f8e7f091c?source=rss----138adf9c44c---4",
@@ -169,49 +188,49 @@
           "published_at": "2026-08-20T22:47:39"
         },
         {
-          "title": "AI互联网日报：特斯拉车机接入豆包和DeepSeek、DeepSeek上线多模态、豆包办公应用升温、阿里Accio商家超5万",
-          "url": "https://www.woshipm.com/ai/6452861.html",
-          "author": "AI星球",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "8GB内存都开始被拿来讨论本地跑Kimi K3，DeepSeek又把视觉能力补上了。字节跳动还准备把豆包里的工作任务拆成办公AI应用，车机、电脑和文档都在被同一类助手接管。老曹这次看到的不是功能堆料。我会把它看成入口竞争变得更贴身：模型能不能进到真实设备和真实流程里，决定用户到底愿不愿意把任务交出去。一起来看看这两天发生的AI和互联网赛道的大事件吧！📌 今日AI互联网大事件速览1，DeepSeek...",
-          "published_at": "2026-08-22T15:34:54"
-        },
-        {
-          "title": "对话 Anthropic 产品负责人：不懂评测的 AI 产品负责人，只是在假装做产品",
-          "url": "https://www.woshipm.com/ai/6452857.html",
-          "author": "Z Finance",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "2023 年，Dianne Penn 加入 Anthropic 时，这家公司的产品团队只有五名工程师，整个 API 业务由一名工程师负责。当时，OpenAI 已经凭借 ChatGPT 和 GPT-4 建立起领先优势，Anthropic 还在寻找自己的产品定位。三年之后，作为 Anthropic 首位技术产品经理、现任 AI Research 与 Labs 团队产品负责人，Dianne 参与了从 C...",
-          "published_at": "2026-08-22T15:01:15"
-        },
-        {
-          "title": "AI 对话体验重构：从「聊完即走」到「可管理、可回溯、可复用」的知识工作流设计",
-          "url": "https://www.woshipm.com/ai/6452722.html",
+          "title": "当 AI 对话超过 20 轮后，我们需要一张「对话地图」",
+          "url": "https://www.woshipm.com/pd/6452908.html",
           "author": "AI 思录",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI 对话的深度用户常被无结构的信息流困扰：重要结论难找回、长对话易迷路、提示词无法复用。本文提出一套增强脚本设计方案，通过笔记标记、提示词管理、轮次导航与时间线锚点四大模块，为对话赋予结构，将其转化为可管理、可回溯的知识工作流。AI对话增强脚本设计方案：给无结构的对话加上结构深度用户要的不是更多 AI 能力，而是把 AI 对话变成「可管理、可回溯、可复用」的个人知识工作流。本文基于日常使用 AI...",
-          "published_at": "2026-08-22T07:12:28"
+          "summary": "长对话中迷路是AI聊天的高频痛点，但底部固定栏并非最优解。本文提出将阅读App的成熟交互迁移至右侧侧边栏，构建「对话地图」：轮次列表、进度细线、精准跳转与星标筛选，让无结构的对话变得可管理、可回溯，成为持续积累的知识资产。一、一个真实的场景和 AI 聊到第 27 轮，你突然想回到第 8 轮确认一个数据口径。你开始疯狂滚动鼠标，页面像瀑布一样向上飞。滚到第 15 轮，你怀疑自己滚过了，又往下滚一点。...",
+          "published_at": "2026-08-23T12:11:20"
         },
         {
-          "title": "公关、广告行业的OPC时代来了",
-          "url": "https://www.woshipm.com/ai/6452759.html",
-          "author": "寻空",
+          "title": "对话 Claude Code 之父：当模型越来越聪明，还在设计复杂工作流的人只是在假装做产品",
+          "url": "https://www.woshipm.com/ai/6453025.html",
+          "author": "Z Finance",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI能独立完成三维动画，当资深从业者一人即可串起全流程，广告公关行业的OPC时代正加速到来。本文从组织变革视角，剖析互联网公司如何将广告公司推向执行端，AI又如何拆解重组织，揭示未来能力将重新回归个人。前段时间，一位在互联网大厂工作的朋友给我看了一条视频，这是他们的供应商用AI做的，一条三维动画的品牌视频。我说这个片子用AI做，应该用不了一万吧，我知道供应商的机制，所以故意往多了说。但他的回答是...",
-          "published_at": "2026-08-22T07:08:15"
+          "summary": "2024 年，Boris Cherny 加入 Anthropic 时，AI 编程产品大多还停留在代码补全和对话问答阶段。模型已经能够写出完整的函数和文件，但产品通常只允许它在编辑器里提出建议，很少真正赋予它读取代码库、修改文件和调用终端的能力。Boris 决定试试另一种做法：尽量拿掉复杂的限制，让模型直接进入真实的开发环境。这个最初的实验，后来发展成了 Claude Code。加入 Anthrop...",
+          "published_at": "2026-08-23T10:42:02"
         },
         {
-          "title": "AI产品经理，别急着删数据：真正要交付的是一套可回滚的清洗规则",
-          "url": "https://www.woshipm.com/ai/6452703.html",
-          "author": "怂怂的AI脑内小剧场",
+          "title": "从一次危重猫接诊，看动物医院该怎么做 RAG",
+          "url": "https://www.woshipm.com/ai/6452868.html",
+          "author": "Molly",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI项目中的数据清洗远非简单的表格整理，一条看似不规范的记录可能是关键业务信息。本文深入剖析清洗规则制定中的常见误区，提出用规则卡和保留清单确保数据价值不流失，帮助产品经理在AI项目中做出更明智的数据处理决策。做AI项目时，产品经理经常会收到一句看起来很简单的任务：这批数据有点脏，上线前先清洗一下。技术同学开始跑脚本，空值补了，重复项删了，格式统一了。处理后的数据少了一大截，报表里的指标也变得很漂...",
-          "published_at": "2026-08-22T06:55:40"
+          "summary": "一次看似普通的宠物就诊预约，却因信息模糊、知识断层和系统割裂演变为医疗风险事件。本文从动物医院接诊场景切入，深入拆解RAG在医疗AI产品中的落地路径：如何将个人经验转化为机构知识，如何为三类信息设计不同检索路径，以及为何流程治理比模型选型更优先。在一家动物医院，前台曾接到一位宠物主人的电话。对方只说：“小猫不正常，想来医院检查一下心脏。”这句话听起来像一次普通预约。但电话另一端，猫无法描述自己的感...",
+          "published_at": "2026-08-23T10:14:08"
+        },
+        {
+          "title": "私域正在重塑康复机构的经营模式",
+          "url": "https://www.woshipm.com/share/6385289.html",
+          "author": "林裕虎",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "康复机构私域运营普遍陷入误区：企微沦为预约客服，患者离店即失联，数千元疗程难以转化为复购。本文直击行业痛点，提出以患者全周期服务为核心的私域闭环方案，从诊前信任建立到诊后长期管理，系统拆解企微、SCRM与门诊系统的协同逻辑，为消费医疗的长期增长指明方向。这段时间跑了七八家康复机构，发现一个普遍现象，每家都在用企微添加患者微信，用企微却只做两件事，预约到店和核销套餐。患者一离店，就躺在好友列表里。除...",
+          "published_at": "2026-08-23T08:14:46"
+        },
+        {
+          "title": "前沿大模型都在拼代码，真正争夺的不是编程能力，而是下一代模型的创造权",
+          "url": "https://www.woshipm.com/ai/6452852.html",
+          "author": "冒泡泡",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "大模型竞争正从“比谁更会聊天”转向“比谁更能干活”。Grok、OpenAI、Anthropic 等前沿实验室纷纷押注代码与智能体，背后争夺的实则是自动化研发能力。本文深入拆解这一趋势，探讨 AI 如何从知识使用者变为知识生产者，并重新审视其对科研、交通与教育等社会结构的深层冲击。如果把过去几年的大模型发布会放在一起看，会发现一个非常明显的变化。早期大家比的是谁回答得更准确、谁的上下文更长、谁能在数...",
+          "published_at": "2026-08-23T07:11:12"
         }
       ]
     },
@@ -283,6 +302,15 @@
           "published_at": null
         },
         {
+          "title": "Kononenko Architectural Bureau",
+          "url": "https://www.awwwards.com/sites/kononenko-architectural-bureau",
+          "author": "Reksa Andhika",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "The state of the gallery",
           "url": "https://www.awwwards.com/sites/the-state-of-the-gallery",
           "author": "Majo Puterka",
@@ -344,15 +372,6 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "PX PUSH",
-          "url": "https://www.awwwards.com/sites/px-push",
-          "author": "Lewis Webber",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -361,40 +380,40 @@
       "count": 4,
       "items": [
         {
-          "title": "Pocket by Meta",
-          "url": "https://www.producthunt.com/products/pocket-by-meta",
-          "author": "Justin Jincaid",
+          "title": "Claude Academy",
+          "url": "https://www.producthunt.com/products/claude-academy",
+          "author": "KP",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Vibe-code games, then share them like TikToksDiscussion|Link",
-          "published_at": "2026-08-21T03:32:59"
+          "summary": "The Official Learning Hub by AnthropicDiscussion|Link",
+          "published_at": "2026-08-21T00:47:05"
         },
         {
-          "title": "Open Analytics",
-          "url": "https://www.producthunt.com/products/open-analytics-2",
-          "author": "Abbas Aga",
+          "title": "Yatko",
+          "url": "https://www.producthunt.com/products/yatko",
+          "author": "Anurag Vallur",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI-Native Google Analytics alternative for the modern webDiscussion|Link",
-          "published_at": "2026-08-21T15:08:16"
+          "summary": "The download button Github forgot to addDiscussion|Link",
+          "published_at": "2026-08-20T02:28:21"
         },
         {
-          "title": "Port Radar for macOS",
-          "url": "https://www.producthunt.com/products/port-radar-for-macos",
-          "author": "Sebastian Solano",
+          "title": "KanaSensei",
+          "url": "https://www.producthunt.com/products/kanasensei",
+          "author": "Samuel",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "An AI port manager for your Mac.Discussion|Link",
-          "published_at": "2026-08-21T20:35:10"
+          "summary": "Read Japanese kana in two weeksDiscussion|Link",
+          "published_at": "2026-08-20T19:24:28"
         },
         {
-          "title": "AutoClaw",
-          "url": "https://www.producthunt.com/products/z-ai",
+          "title": "OpenLogi",
+          "url": "https://www.producthunt.com/products/openlogi",
           "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "An AI work agent across desktop, browser, and chatDiscussion|Link",
-          "published_at": "2026-08-21T16:04:14"
+          "summary": "A local-first alternative to Logitech Options+Discussion|Link",
+          "published_at": "2026-08-22T17:13:58"
         }
       ]
     },
@@ -402,6 +421,15 @@
       "category": "设计教程",
       "count": 6,
       "items": [
+        {
+          "title": "一站式创作神器！LibTV导演台零基础保姆级入门教程",
+          "url": "https://www.uisdc.com/libtv",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
         {
           "title": "一个可拆装的智能体框架！帮你快速了解DeepSeek Harness",
           "url": "https://www.uisdc.com/deepseek-harness",
@@ -439,17 +467,8 @@
           "published_at": null
         },
         {
-          "title": "资讯/灵感全都有！2026年8月AI设计资讯周刊",
-          "url": "https://www.uisdc.com/design-ai-weekly",
-          "author": "",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "美团怎么在结算临门一脚，让用户顺手再下一单？",
-          "url": "https://www.uisdc.com/hunter/0221681481.html",
+          "title": "同样是拖拽安装，VS Code 凭什么能让人会心一笑？",
+          "url": "https://www.uisdc.com/hunter/0221681565.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -460,7 +479,7 @@
     },
     {
       "category": "设计资讯",
-      "count": 5,
+      "count": 4,
       "items": [
         {
           "title": "The task isn’t the job",
@@ -479,15 +498,6 @@
           "source": "Sidebar",
           "summary": "This series examines core concepts shaping our designed world, tracing their origins and dissecting their practical significance.",
           "published_at": "2026-08-21T04:18:11"
-        },
-        {
-          "title": "Claude Academy",
-          "url": "https://academy.claude.com/",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "Free courses, tutorials, and use cases from Anthropic — whether you’re exploring AI, getting started with Claude, or rolling it out to your team.",
-          "published_at": "2026-08-21T04:17:39"
         },
         {
           "title": "RIP.so: the digital graveyard",
@@ -510,9 +520,42 @@
       ]
     },
     {
+      "category": "前端设计",
+      "count": 1,
+      "items": [
+        {
+          "title": "Resolved: CSS Class Prefix Selector",
+          "url": "https://css-tricks.com/resolved-css-class-prefix-selector/",
+          "author": "Geoff Graham",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like.prefix-*.Resolved: CSS Class Prefix Selectororiginally handwritten and published with ...",
+          "published_at": "2026-08-21T15:13:03"
+        }
+      ]
+    },
+    {
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
+          "url": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
+          "author": "neyham",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "手头这台闲置的SurfacePro7在桌角放了挺长一段时间。当年买它看重的是二合一的便携形态，但放在Windows11下只要长时间亮屏就一定会过热、偶尔跳屏，基本处于不可用的状态。直到前阵子在网上看到 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "published_at": "2026-08-23T07:25:29"
+        },
+        {
+          "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast",
+          "url": "https://sspai.com/post/113002",
+          "author": "isayyeah",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "打破生态壁垒，让好的设备发挥出它应有的价值，这就是 WinAirCast 的初衷。我们希望为 Windows 用户提供一款稳定、低延迟且现代化的音频串流工具。查看全文",
+          "published_at": "2026-08-23T03:00:00"
+        },
         {
           "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
           "url": "https://sspai.com/post/113675",
@@ -548,24 +591,6 @@
           "source": "少数派",
           "summary": "影石推出竖拍云台相机 Luna Pro，森海塞尔发布 MOMENTUM True Wireless 5 真无线耳机等。查看全文",
           "published_at": "2026-08-20T23:00:00"
-        },
-        {
-          "title": "新玩意 249｜少数派的编辑们最近买了啥？",
-          "url": "https://sspai.com/post/113650",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
-          "published_at": "2026-08-20T09:30:00"
-        },
-        {
-          "title": "十年阅读历程，这是我的阅读工具推荐",
-          "url": "https://sspai.com/post/113567",
-          "author": "ElijahLee",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "从2017年开始，我养成了读书的习惯，到今年年底刚好完成十年的阅读之旅。在这十年里，我累计阅读的书籍有六百余本。在阅读的过程中，我使用了/曾经使用非常多的应用和服务，来辅助阅读、记录书单、整理笔记等。 ...查看全文",
-          "published_at": "2026-08-20T07:25:47"
         }
       ]
     }
