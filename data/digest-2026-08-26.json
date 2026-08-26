@@ -2,21 +2,21 @@
   "date": "2026-08-26T00:00:00",
   "total_items": 62,
   "sources": [
-    "Product Hunt",
-    "NN/g (Nielsen Norman Group)",
-    "优设网",
+    "Smashing Magazine",
+    "Awwwards",
     "CSS-Tricks",
-    "Sidebar",
     "人人都是产品经理",
-    "A List Apart",
+    "Sidebar",
     "UX Design CC",
     "Design Milk",
+    "A List Apart",
+    "Product Hunt",
     "少数派",
-    "Awwwards",
-    "Smashing Magazine",
-    "UX Planet"
+    "NN/g (Nielsen Norman Group)",
+    "UX Planet",
+    "优设网"
   ],
-  "generated_at": "2026-08-26T01:34:58.456050",
+  "generated_at": "2026-08-26T12:58:05.697873",
   "categories": [
     {
       "category": "用户体验设计",
@@ -215,49 +215,49 @@
           "published_at": "2026-08-24T12:00:45"
         },
         {
-          "title": "边界动作诊断：拒绝 ≠ 终止 权利差异未区分",
-          "url": "https://www.woshipm.com/ai/6454423.html",
-          "author": "阿基拉de_Akir",
+          "title": "《反正你也没时间活》两天播放破亿，AI漫剧不再拼画质，而是人性！",
+          "url": "https://www.woshipm.com/ai/6454826.html",
+          "author": "晓庄同学",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI说“我无法回答”和“会话已结束”时，用户真的能分清吗？本文通过结构化诊断，揭示拒绝与终止在界面上的语义混淆，并引入boundary_action令牌与契约约束，让权利状态清晰可辨，避免用户陷入“被请出门”的困惑。我在阶段一 Guard 结构化诊断中通过组件语义快照与三层判定模型发现了 6 个漂移模式《ERR-001 错误状态诊断》与《PRO-001 过程状态诊断》已经证明了：AI 生成界面的...",
-          "published_at": "2026-08-26T01:29:51"
+          "summary": "一个人、两周、几千元成本，AI短片《反正也没时间活》播放量破2.5亿，评论区没人聊技术，全在算自己的时间账。当AI让制作门槛归零，爆款的胜负手已从画面转向情绪与判断力。本文拆解爆款公式，给创作者三条可复用的启示。太猛了。8月14日，一条3分钟的AI短片《反正也没时间活》发布，两天播放破亿，一周涨粉超60万。截至目前，抖音播放2.5亿、点赞1470万、转发近800万，13万条评论刷屏。更扎心的是数据...",
+          "published_at": "2026-08-26T09:13:10"
         },
         {
-          "title": "秋一奶茶当日下午2点断冰：产品经理如何用「本体」来设计保供？",
-          "url": "https://www.woshipm.com/operate/6454422.html",
-          "author": "数商思语行",
+          "title": "豆包月活3.8亿、Kimi月活729万：被吹上神的和被用脚投票的，不是同一个产品",
+          "url": "https://www.woshipm.com/evaluating/6454612.html",
+          "author": "柚子",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "面对茶饮行业营销活动中的突发缺冰问题，产品经理不应只构建预测功能，而应设计可执行的决策流程。本文提出从风险预演到储备签约、监测行权的五阶段方案，并借助本体建模与AI辅助，将应急响应转化为有准备的经营决策，为复杂业务产品设计提供全新思路。最近的一次茶饮行业的同行交流中，讨论到秋天的第一杯奶茶营销事件，一个很有画面感的场景代入了话题。“秋天第一杯奶茶”活动当天，销量快速冲高。企业并非毫无准备：此前已经...",
-          "published_at": "2026-08-26T01:24:33"
+          "summary": "豆包月活断层第一，Kimi口碑爆棚，DeepSeek闷声赚钱——AI助手三巨头，谁才是学生党的真正刚需？本文以学生身份实测一个月，从长文本生成、多轮对话到代码Debug，用真实任务揭穿营销泡沫，告诉你哪个App最值得留在手机里。2026年8月，QuestMobile上半年榜单出炉：豆包月活3.82亿，断层第一，一家超过第二到第七名的总和。而常年被学术圈捧为”论文神器”的Kimi，月活729万——不...",
+          "published_at": "2026-08-26T09:00:35"
         },
         {
-          "title": "产品经理如何快速了解一项陌生业务",
-          "url": "https://www.woshipm.com/zhichang/6454375.html",
-          "author": "简谙",
+          "title": "她们把聊天框过成了另一个世界",
+          "url": "https://www.woshipm.com/share/6454619.html",
+          "author": "快慢刀",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从B端到G端，三年间横跨多个行业，产品经理如何在陌生业务中快速找到方向？本文从实际项目出发，揭示业务理解的核心：不是记住名词，而是看清人、事、物、规则，区分规定、说辞与实际操作，避免经验套用。来了现在这家公司三年，我从B端做到G端，又做B端加G端，企业、农业、财政、住建、组织、民政、社工、人社，各个条线基本都接触了一遍。有时候刚把一个领域的专业名词认全，转头又被拉进另一个项目，从头学习一套新的政策...",
-          "published_at": "2026-08-26T01:23:31"
+          "summary": "当现实情绪被送进虚构世界，AI 陪伴产品便有了温度。本文通过四位深度用户的真实故事，揭示用户如何在聊天框中寻找身份、情感与创作空间，并探讨产品经理如何重新理解这些用户。一位刚考上公务员的女孩，在入职培训前很不安。她没有直接跟 AI 说自己害怕新工作。她打开一段已经聊了几个月的古风剧情，让自己扮演的将军去见幕僚。将军马上要奔赴陌生战场，不知道能不能打赢，也不知道自己能不能活着回来。幕僚一遍遍安慰他。...",
+          "published_at": "2026-08-26T08:21:06"
         },
         {
-          "title": "AI办公到底该选哪个？先问自己这三个问题",
-          "url": "https://www.woshipm.com/ai/6454404.html",
-          "author": "柳星聊产品",
+          "title": "腾讯汤道生深度复盘WorkBuddy、元宝以及AI竞争：和AI一起长跑的这两年",
+          "url": "https://www.woshipm.com/ai/6454755.html",
+          "author": "深流研究所",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI办公赛道大厂混战，豆包工作、千问办公、WorkBuddy、灵犀、Copilot各显神通。但选型不必纠结于参数对比，关键在于想清楚三件事：你的工作入口生态、AI介入深度、数据上云底线。本文帮你理清思路，告别选择焦虑。这个夏天，AI办公赛道突然就挤满了大厂，各自开花。这不，抖音快速动手，直接把自家的豆包刚把扣子和工作台合了，推出”豆包工作”。加上腾讯的WorkBuddy、阿里的千问办公、金山的WP...",
-          "published_at": "2026-08-26T01:23:09"
+          "summary": "腾讯WorkBuddy的崛起并非规划中的一步，而是源于一个险些被砍的DevTools项目。本文通过汤道生的深度复盘，揭示了腾讯在AI竞赛中的真实策略：熬得久比起得早更重要，场景与工程能力是最大底牌。从代码工具到办公智能体，腾讯如何穿越周期？过去几个月，AI智能体成了大厂争夺最激烈的主赛道。腾讯、阿里、字节等公司陆续加码，腾讯WorkBuddy也跑出了一定的领先优势。最近，腾讯集团高级执行副总裁、云...",
+          "published_at": "2026-08-26T08:18:59"
         },
         {
-          "title": "豆包工作体验-AI办公大战",
-          "url": "https://www.woshipm.com/ai/6454359.html",
-          "author": "王蘑菇丽",
+          "title": "豆包工作一手实测，这下真是飞一般的感觉了。",
+          "url": "https://www.woshipm.com/ai/6454753.html",
+          "author": "阿真Irene",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "豆包工作正式上线，主打文档、表格、PPT等办公场景。本文作者用一段真实录音进行测试，发现它不仅能转写，还能自动归类、提炼重点，生成可直接使用的学习笔记。但AI补充的信息来源是否清晰？复杂任务下能否保持可靠？作者提出了自己的衡量标准。8月25号豆包工作正式上线。官方宣传的功能单子拉得很长，文档、表格、PPT、网页操作、云电脑，什么都沾点。但我没打算按清单挨个试，那样写出来跟说明书没什么两样。我就想知...",
-          "published_at": "2026-08-26T01:15:44"
+          "summary": "豆包工作独立应用上线，实测它能替你走完火山引擎开通API的迷宫流程，生图直出后自动归入文档，Windows虚拟桌面承接批量任务。深度融合飞书生态之后，企业账号还能调动文档、群聊与会议，直接交付可继续编辑复用的成果。昨天，面向生产力场景的豆包工作正式推出独立应用。看豆包工作的首发直播就有大几十万观看，我也跟着火速体验了一波。简单来说，豆包工作正在把原来散落在浏览器、文件夹、聊天记录和飞书里的工作步骤...",
+          "published_at": "2026-08-26T08:18:46"
         }
       ]
     },
@@ -329,6 +329,15 @@
           "published_at": null
         },
         {
+          "title": "Ai in Design Report 2026",
+          "url": "https://www.awwwards.com/sites/ai-in-design-report-2026",
+          "author": "++hellohello",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "MIU MIU A House that we shaped",
           "url": "https://www.awwwards.com/sites/miu-miu-a-house-that-we-shaped",
           "author": "Merci Michel",
@@ -390,15 +399,6 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Michael Gatt",
-          "url": "https://www.awwwards.com/sites/michael-gatt",
-          "author": "Synchronized Studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -407,31 +407,31 @@
       "count": 3,
       "items": [
         {
-          "title": "session-indexer",
-          "url": "https://www.producthunt.com/products/session-indexer",
-          "author": "Valentyn Solomko",
+          "title": "OpenComputer",
+          "url": "https://www.producthunt.com/products/opencomputer",
+          "author": "Utpal Nadiger 👋📈",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Semantic search over your own Claude Code session historyDiscussion|Link",
-          "published_at": "2026-08-24T09:32:05"
+          "summary": "Firebase for AgentsDiscussion|Link",
+          "published_at": "2026-08-26T05:56:36"
         },
         {
-          "title": "Buddy Visual Tests",
-          "url": "https://www.producthunt.com/products/buddy",
-          "author": "Rafal Sztwiorok",
+          "title": "TaskShell 2.0",
+          "url": "https://www.producthunt.com/products/taskshell",
+          "author": "Fred A.",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Every UI change, reviewed before mergeDiscussion|Link",
-          "published_at": "2026-08-24T09:19:46"
+          "summary": "Agent-first task management for more agentic productivityDiscussion|Link",
+          "published_at": "2026-08-25T05:11:15"
         },
         {
-          "title": "Agnost AI",
-          "url": "https://www.producthunt.com/products/agnost-ai",
-          "author": "Garry Tan",
+          "title": "DeployHermes",
+          "url": "https://www.producthunt.com/products/deployhermes",
+          "author": "Akshay Maurya",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Catch agent failures your evals missDiscussion|Link",
-          "published_at": "2026-08-23T06:03:45"
+          "summary": "Hire persistent Hermes agents with roles, memory + skillsDiscussion|Link",
+          "published_at": "2026-08-25T19:40:09"
         }
       ]
     },
@@ -485,8 +485,8 @@
           "published_at": null
         },
         {
-          "title": "追剧注水又怕漏主角，这个痛点终于被腾讯用AI解决了？",
-          "url": "https://www.uisdc.com/hunter/0221681833.html",
+          "title": "每天打字就能记单词，输入框里的微学习体验设计",
+          "url": "https://www.uisdc.com/hunter/0221681962.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -500,49 +500,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Vibe coding and quality",
-          "url": "https://ilyabirman.net/meanwhile/all/vibe-coding-and-quality/",
+          "title": "What is the purpose of software",
+          "url": "https://uxdesign.cc/what-is-the-purpose-of-software-410e155567e3",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Just last year, vibe coding seemed like a toy. Today I think that high quality is achievable only through vibe coding",
-          "published_at": "2026-08-25T05:28:59"
+          "summary": "Mapping 50 years of economic data to measure software's productivity yield.",
+          "published_at": "2026-08-26T07:10:26"
         },
         {
-          "title": "Every fork looks like adoption",
-          "url": "https://blog.murphytrueman.com/every-fork-looks-like-adoption/",
-          "author": "@murphytrueman",
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "How we measure design system adoption and how the graph keeps going up anyway.",
-          "published_at": "2026-08-25T05:27:46"
-        },
-        {
-          "title": "Is Agentic",
-          "url": "https://is-agentic.com/",
+          "title": "Tegaki",
+          "url": "https://gkurt.com/tegaki/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Score how ready a website is for AI agents, then get evidence and recommendations to improve it.",
-          "published_at": "2026-08-25T05:26:38"
+          "summary": "Animated handwriting from any font.",
+          "published_at": "2026-08-26T07:08:21"
         },
         {
-          "title": "Balsa UI",
-          "url": "https://balsa-ui.com/",
+          "title": "On teaching AI how you work",
+          "url": "https://karlkoch.me/writing/on-teaching-ai-how-you-work/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Balsa UI is an agent-native, open-code component system for Vue and React.",
-          "published_at": "2026-08-25T05:25:40"
+          "summary": "Personal skills turn years of writing into loadable judgement you can install instead of re-explaining, and one command that runs all of it.",
+          "published_at": "2026-08-26T07:07:42"
         },
         {
-          "title": "Susan Kare: Designing icons & graphics for the original Mac",
-          "url": "https://www.youtube.com/watch?v=YEvLKzsEwMw",
+          "title": "The AI Interface Museum",
+          "url": "https://interfaces.kylejeong.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Stories behind the Happy Mac, Command key, Chicago font, and more, along with the design lessons Susan learned from Steve Jobs and others.",
-          "published_at": "2026-08-25T05:25:10"
+          "summary": "A visual history of how humans learned to interact with AI.",
+          "published_at": "2026-08-26T07:06:49"
+        },
+        {
+          "title": "When code is abundant",
+          "url": "https://about.gitlab.com/blog/when-code-is-abundant/",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "Producing code is getting cheap. Trusting it is not. Why enterprises need a durable layer of context, verification, and governance around AI.",
+          "published_at": "2026-08-26T07:06:17"
         }
       ]
     },
@@ -575,6 +575,42 @@
       "count": 6,
       "items": [
         {
+          "title": "开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱",
+          "url": "https://sspai.com/post/68227",
+          "author": "jijiali",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "学生党到底有哪些专享福利？看这一篇就对了。查看全文",
+          "published_at": "2026-08-26T08:25:44"
+        },
+        {
+          "title": "装了啥特别篇：少数派编辑部最近都 vibe 了啥？",
+          "url": "https://sspai.com/prime/story/zhuanglesha-260826",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "如今，vibecoding的话题热度居高不下。但抛开那些被吹上天的一人公司「壮举」，vibecoding能给一般用户的日常使用带来什么帮助呢？本期「装了啥」中，编辑部成员就分享了一些近期折腾出的小玩意 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "published_at": "2026-08-26T07:59:03"
+        },
+        {
+          "title": "《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总",
+          "url": "https://sspai.com/post/113851",
+          "author": "机核GCORES",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "编注：本文首发于机核网，少数派经授权转载，仅对文章格式略作调整。科隆游戏展2026开幕夜为我们带来了海量新作公布与续作消息：从《巫师3：重制版》《魔法门之英雄无敌3：重制版》等经典IP重制，到《寂静岭 ...查看全文",
+          "published_at": "2026-08-26T07:11:40"
+        },
+        {
+          "title": "在正镶白旗，用五天共同生活理解现代牧场",
+          "url": "https://sspai.com/post/113714",
+          "author": "PJHubs",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "这一趟田野调查旅行打破了以往我对旅行的传统认识，不再是到了一个地方打卡就结束，而是要和当地人产生连接。查看全文",
+          "published_at": "2026-08-26T02:39:24"
+        },
+        {
           "title": "派早报：Apple 发布新款 Mac mini 和 Mac Studio 等",
           "url": "https://sspai.com/post/113847",
           "author": "少数派编辑部",
@@ -591,42 +627,6 @@
           "source": "少数派",
           "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
           "published_at": "2026-08-25T09:00:00"
-        },
-        {
-          "title": "台湾打工换宿｜用人与人的喜好串起淡水的地图",
-          "url": "https://sspai.com/post/113673",
-          "author": "许万里Alva",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "published_at": "2026-08-25T07:00:00"
-        },
-        {
-          "title": "App+1｜ArkFlow：满足你的卡面收集癖，给信用卡做个卡面墙",
-          "url": "https://sspai.com/post/112442",
-          "author": "ArkLab",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "你会把它当成一个金融账户，还是一件属于自己人生的收藏品？查看全文",
-          "published_at": "2026-08-25T03:13:35"
-        },
-        {
-          "title": "派早报：阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片等",
-          "url": "https://sspai.com/post/113813",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解你可能错过的文章快 ...查看全文",
-          "published_at": "2026-08-25T00:28:32"
-        },
-        {
-          "title": "派评 | 近期值得关注的 App",
-          "url": "https://sspai.com/post/113795",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
-          "published_at": "2026-08-24T09:52:01"
         }
       ]
     }
