@@ -1,26 +1,36 @@
 {
   "date": "2026-08-27T00:00:00",
-  "total_items": 57,
+  "total_items": 69,
   "sources": [
-    "Sidebar",
-    "Design Milk",
-    "CSS-Tricks",
-    "少数派",
-    "Smashing Magazine",
-    "NN/g (Nielsen Norman Group)",
-    "优设网",
+    "UX Design CC",
     "人人都是产品经理",
-    "Product Hunt",
+    "CSS-Tricks",
+    "Design Milk",
     "A List Apart",
+    "Awwwards",
+    "Sidebar",
+    "Product Hunt",
     "UX Planet",
-    "UX Design CC"
+    "Smashing Magazine",
+    "少数派",
+    "优设网",
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2026-08-27T08:21:49.426673",
+  "generated_at": "2026-08-27T22:00:23.320608",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 10,
+      "count": 12,
       "items": [
+        {
+          "title": "What Blade Runner got wrong about AI (so far)",
+          "url": "https://uxdesign.cc/what-blade-runner-got-wrong-about-ai-so-far-d01b579288c1?source=rss----138adf9c44c---4",
+          "author": "Patrick Neeman",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The film gave us rain, ziggurats, and androids; the real machine arrived as a blank place to type.The film is a design masterpiece and a lousy weather forecast, and the gap between the two tells you w...",
+          "published_at": "2026-08-27T20:22:49"
+        },
         {
           "title": "AI has a hospitality problem money can’t fix",
           "url": "https://uxdesign.cc/ai-has-a-hospitality-problem-money-cant-fix-e8fa34e91d62?source=rss----138adf9c44c---4",
@@ -74,6 +84,15 @@
           "source": "UX Design CC",
           "summary": "Weekly curated resources for designers — thinkers and makers.“Online used to be a place you could leave. We designed the exit out of it because an exit reads as a leak. Here is why building it back is...",
           "published_at": "2026-08-24T11:15:25"
+        },
+        {
+          "title": "How to Design AI Products Users Can Trust",
+          "url": "https://uxplanet.org/how-to-design-ai-products-users-can-trust-8d98dd7ad2e2?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Handling AI Uncertainty with Claude DesignContinue reading on UX Planet »",
+          "published_at": "2026-08-27T14:34:09"
         },
         {
           "title": "My Top 5 Favorite Ways of Using DESIGN.md in Claude Code",
@@ -175,8 +194,26 @@
     },
     {
       "category": "产品设计",
-      "count": 10,
+      "count": 11,
       "items": [
+        {
+          "title": "Goop Kitchen Sets the Table for Its First Dine-In Restaurant",
+          "url": "https://design-milk.com/goop-kitchen-del-mar-restaurant/",
+          "author": "Design Milk Staff",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Michael Hsu Office of Architecture brings Goop’s aesthetic to the table in Del Mar",
+          "published_at": "2026-08-27T18:16:42"
+        },
+        {
+          "title": "A Tuscan-Inspired Home Brings European Ease to Los Angeles",
+          "url": "https://design-milk.com/tuscan-inspired-home-tarzana-california/",
+          "author": "Nicole Haddad",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Tucked into a lush landscape, this sprawling retreat blends the warmth of Tuscany with California’s laid-back charm",
+          "published_at": "2026-08-27T17:30:00"
+        },
         {
           "title": "Behr’s 2027 Color of the Year Finds New Depth in Green",
           "url": "https://design-milk.com/behr-2027-color-of-the-year-grounded/",
@@ -214,13 +251,13 @@
           "published_at": "2026-08-24T18:47:17"
         },
         {
-          "title": "8 Chairs Rethinking a Familiar Form",
-          "url": "https://design-milk.com/new-chair-designs-2026/",
-          "author": "Anna Zappia",
+          "title": "14天冷静期生效，亚马逊把售后成本还给市场",
+          "url": "https://www.woshipm.com/share/6455448.html",
+          "author": "极新",
           "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "From circular materials and residential-inspired office seating to colorful updates of design classics, these chairs prove there’s still plenty of room to reinvent how we sit",
-          "published_at": "2026-08-24T12:00:45"
+          "source": "人人都是产品经理",
+          "summary": "亚马逊欧洲站将默认退货窗口从30天压缩至14天，看似只是数字调整，却在德、法等国引发连锁反应。本文深入剖析各国消费文化差异、不同类目的收益分化，以及卖家如何将售后政策转化为竞争筹码，为欧洲跨境卖家提供过渡期的实操指南。2026 年 8 月，亚马逊欧洲站对外更新退货机制。10 月 1 日之后送达消费者手中的订单，平台默认退货窗口从沿用多年的 30 天压缩至 14 天，FBA、自发货卖家统一执行这套新...",
+          "published_at": "2026-08-27T08:47:29"
         },
         {
           "title": "德芙文案翻车背后，品牌正在失去对自己的控制",
@@ -257,21 +294,12 @@
           "source": "人人都是产品经理",
           "summary": "领导丢来一行销售数据就要预测？别慌！本文手把手教你用Excel实现时间序列预测，从识别趋势和季节性到构建回归模型，步骤清晰，还附赠避坑指南，让你轻松应对建模需求。“建个模型预测一下！” 一听到要建模预测，很多同学都会菊花一紧。有人说现在 AI 这么强，丢给 DeepSeek 一句话不就出模型了？可问题是，领导们喊着 “建个模型” 的时候，他丢给你的就孤零零的一行数，形如下图：AI 能自动选模型、自...",
           "published_at": "2026-08-27T07:51:34"
-        },
-        {
-          "title": "京东物流李亚曼：当AI进入物流全链路，产品经理要重新定义自己的价值",
-          "url": "https://www.woshipm.com/ai/6455237.html",
-          "author": "人人都是产品经理",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "AI正在重塑物流行业，从单点优化到智能体重构，京东物流等企业已走在变革前沿。本文通过UPS、FedEx、DHL及京东物流的实践案例，解析AI在物流中的四级演进，揭示产品经理如何应对AI带来的挑战与机遇。物流系统连接生产、采购、仓储、运输、配送与逆向处置，单量高、节点多、变化快。AI进入物流之后，变化已经从某个环节的提效，走向网络、运营和执行系统的重新组织。在 2026 AI产品大会现场，京东物流李...",
-          "published_at": "2026-08-27T07:44:27"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 8,
+      "count": 16,
       "items": [
         {
           "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
@@ -344,6 +372,78 @@
           "source": "A List Apart",
           "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
           "published_at": null
+        },
+        {
+          "title": "Sharplink",
+          "url": "https://www.awwwards.com/sites/sharplink",
+          "author": "Studio Freight",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Ai in Design Report 2026",
+          "url": "https://www.awwwards.com/sites/ai-in-design-report-2026",
+          "author": "++hellohello",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "MIU MIU A House that we shaped",
+          "url": "https://www.awwwards.com/sites/miu-miu-a-house-that-we-shaped",
+          "author": "Merci Michel",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "/zeroz Brand Site",
+          "url": "https://www.awwwards.com/sites/zeroz-brand-site",
+          "author": "SHIFTBRAIN",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Kononenko Architectural Bureau",
+          "url": "https://www.awwwards.com/sites/kononenko-architectural-bureau",
+          "author": "Reksa Andhika",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "The state of the gallery",
+          "url": "https://www.awwwards.com/sites/the-state-of-the-gallery",
+          "author": "Majo Puterka",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Oimachi",
+          "url": "https://www.awwwards.com/sites/oimachi",
+          "author": "Oimachi",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Cipher",
+          "url": "https://www.awwwards.com/sites/cipher",
+          "author": "Magnetism",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
@@ -352,22 +452,13 @@
       "count": 3,
       "items": [
         {
-          "title": "The Million Sad Ducks",
-          "url": "https://www.producthunt.com/products/the-million-sad-ducks",
-          "author": "Bogdan Nechifor",
+          "title": "Sendra",
+          "url": "https://www.producthunt.com/products/sendra",
+          "author": "Joseph Azzi",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "$1 makes one of them permanently happyDiscussion|Link",
-          "published_at": "2026-08-25T12:51:25"
-        },
-        {
-          "title": "GitNexus (Akon Labs)",
-          "url": "https://www.producthunt.com/products/gitnexus-akon-labs",
-          "author": "Garry Tan",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The Open Source Kernel for Coding AgentsDiscussion|Link",
-          "published_at": "2026-08-26T07:30:19"
+          "summary": "Design emails in Figma, export HTML that works everywhereDiscussion|Link",
+          "published_at": "2026-08-26T03:31:49"
         },
         {
           "title": "SpacebarX",
@@ -377,6 +468,15 @@
           "source": "Product Hunt",
           "summary": "A keyboard-first outliner for notes, tasks and projectsDiscussion|Link",
           "published_at": "2026-08-24T10:33:53"
+        },
+        {
+          "title": "Wondering Canvas",
+          "url": "https://www.producthunt.com/products/wondering-2",
+          "author": "Angelica",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Visual ChatGPT in ParallelDiscussion|Link",
+          "published_at": "2026-08-27T06:40:56"
         }
       ]
     },
@@ -493,8 +593,17 @@
     },
     {
       "category": "前端设计",
-      "count": 3,
+      "count": 4,
       "items": [
+        {
+          "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
+          "url": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
+          "author": "Daniel Schwarz",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.Creating Web Widgets Using the Document Picture-in-Picture APIo...",
+          "published_at": "2026-08-27T14:41:06"
+        },
         {
           "title": "animation-trigger",
           "url": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
@@ -528,6 +637,24 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "新玩意 250｜少数派的编辑们最近买了啥？",
+          "url": "https://sspai.com/post/113905",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@小葵：超大号封闭式猫砂盆参 ...查看全文",
+          "published_at": "2026-08-27T10:00:05"
+        },
+        {
+          "title": "日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑",
+          "url": "https://sspai.com/post/89194",
+          "author": "爱拼安小匠",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "不知不觉，我日常使用 Linux 已经有第 6 个年头了。一个词概括，「舒适」。查看全文",
+          "published_at": "2026-08-27T07:28:44"
+        },
         {
           "title": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记",
           "url": "https://sspai.com/post/113222",
@@ -563,24 +690,6 @@
           "source": "少数派",
           "summary": "如今，vibecoding的话题热度居高不下。但抛开那些被吹上天的一人公司「壮举」，vibecoding能给一般用户的日常使用带来什么帮助呢？本期「装了啥」中，编辑部成员就分享了一些近期折腾出的小玩意 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
           "published_at": "2026-08-26T07:59:03"
-        },
-        {
-          "title": "《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总",
-          "url": "https://sspai.com/post/113851",
-          "author": "机核GCORES",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "编注：本文首发于机核网，少数派经授权转载，仅对文章格式略作调整。科隆游戏展2026开幕夜为我们带来了海量新作公布与续作消息：从《巫师3：重制版》《魔法门之英雄无敌3：重制版》等经典IP重制，到《寂静岭 ...查看全文",
-          "published_at": "2026-08-26T07:11:40"
-        },
-        {
-          "title": "在正镶白旗，用五天共同生活理解现代牧场",
-          "url": "https://sspai.com/post/113714",
-          "author": "PJHubs",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "这一趟田野调查旅行打破了以往我对旅行的传统认识，不再是到了一个地方打卡就结束，而是要和当地人产生连接。查看全文",
-          "published_at": "2026-08-26T02:39:24"
         }
       ]
     }
