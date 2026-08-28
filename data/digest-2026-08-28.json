@@ -1,23 +1,26 @@
 {
   "date": "2026-08-28T00:00:00",
-  "total_items": 51,
+  "total_items": 68,
   "sources": [
-    "人人都是产品经理",
-    "UX Planet",
-    "Product Hunt",
-    "A List Apart",
-    "优设网",
-    "少数派",
+    "NN/g (Nielsen Norman Group)",
     "Smashing Magazine",
+    "Sidebar",
+    "UX Planet",
+    "CSS-Tricks",
     "Design Milk",
-    "UX Design CC",
-    "Sidebar"
+    "A List Apart",
+    "人人都是产品经理",
+    "Product Hunt",
+    "Awwwards",
+    "少数派",
+    "优设网",
+    "UX Design CC"
   ],
-  "generated_at": "2026-08-28T10:22:56.517275",
+  "generated_at": "2026-08-28T21:55:24.562538",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 10,
+      "count": 11,
       "items": [
         {
           "title": "What Blade Runner got wrong about AI (so far)",
@@ -74,6 +77,15 @@
           "published_at": "2026-08-25T11:18:37"
         },
         {
+          "title": "The Horrible State of AI-Powered Product Design in 2026",
+          "url": "https://uxplanet.org/the-horrible-state-of-ai-powered-product-design-in-2026-e3ef607b371d?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "AI-powered product design process in 2026 is simultaneously incredible and deeply disappointing.Continue reading on UX Planet »",
+          "published_at": "2026-08-28T14:24:38"
+        },
+        {
           "title": "How to Design AI Products Users Can Trust",
           "url": "https://uxplanet.org/how-to-design-ai-products-users-can-trust-8d98dd7ad2e2?source=rss----819cc2aaeee0---4",
           "author": "Nick Babich",
@@ -112,9 +124,78 @@
       ]
     },
     {
+      "category": "用户体验研究",
+      "count": 6,
+      "items": [
+        {
+          "title": "AI Can't Replace Real Research in Empathy Mapping",
+          "url": "https://www.nngroup.com/articles/ai-empathy-mapping/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "The Custodial Era of UX: Cleaning Up After AI",
+          "url": "https://www.nngroup.com/articles/ai-ux-debt/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "AI-Generated Images Can Perform as Well as Stock Photography",
+          "url": "https://www.nngroup.com/articles/ai-generated-images/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Artificial Intelligence: Glossary",
+          "url": "https://www.nngroup.com/articles/artificial-intelligence-glossary/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "One AI Output Is an Example, Not an Evaluation",
+          "url": "https://www.nngroup.com/articles/eval-ai-output/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Psychological Ownership: Own the Right Things",
+          "url": "https://www.nngroup.com/articles/psychological-ownership/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        }
+      ]
+    },
+    {
       "category": "产品设计",
       "count": 11,
       "items": [
+        {
+          "title": "The Clear-Tech Comeback Is Putting Everything on Display",
+          "url": "https://design-milk.com/transparent-tech-gadgets-retro-design/",
+          "author": "Adrian Madlener",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Clear cases and visible circuitry give modern electronics a decidedly retro edge",
+          "published_at": "2026-08-28T13:00:48"
+        },
         {
           "title": "Lamborghini’s Latest Four-Wheeler Is Built for Babies",
           "url": "https://design-milk.com/silver-cross-lamborghini-reef-al-giallo-stroller/",
@@ -159,15 +240,6 @@
           "source": "Design Milk",
           "summary": "A reimagined Egyptian dahabeah pairs a centuries-old mode of travel with contemporary interiors, local craftsmanship, and an itinerary designed around the pleasures of drifting",
           "published_at": "2026-08-26T19:54:14"
-        },
-        {
-          "title": "Andover Audio Gives Portable Hi-Fi a More Refined Look",
-          "url": "https://design-milk.com/andover-audio-freeplay-portable-speaker/",
-          "author": "Design Milk Staff",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Andover Audio’s FreePlay brings true stereo sound outdoors without adopting the bulky visual language of traditional rugged speakers",
-          "published_at": "2026-08-25T20:12:54"
         },
         {
           "title": "“到我的收藏夹里吃灰去吧”，这句玩笑话里的真问题",
@@ -218,7 +290,7 @@
     },
     {
       "category": "网页设计",
-      "count": 8,
+      "count": 16,
       "items": [
         {
           "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
@@ -291,30 +363,111 @@
           "source": "A List Apart",
           "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
           "published_at": null
+        },
+        {
+          "title": "Decathlon Yestalgia",
+          "url": "https://www.awwwards.com/sites/decathlon-yestalgia",
+          "author": "index",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Sharplink",
+          "url": "https://www.awwwards.com/sites/sharplink",
+          "author": "Studio Freight",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Ai in Design Report 2026",
+          "url": "https://www.awwwards.com/sites/ai-in-design-report-2026",
+          "author": "++hellohello",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "MIU MIU A House that we shaped",
+          "url": "https://www.awwwards.com/sites/miu-miu-a-house-that-we-shaped",
+          "author": "Merci Michel",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "/zeroz Brand Site",
+          "url": "https://www.awwwards.com/sites/zeroz-brand-site",
+          "author": "SHIFTBRAIN",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Kononenko Architectural Bureau",
+          "url": "https://www.awwwards.com/sites/kononenko-architectural-bureau",
+          "author": "Reksa Andhika",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "The state of the gallery",
+          "url": "https://www.awwwards.com/sites/the-state-of-the-gallery",
+          "author": "Majo Puterka",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Oimachi",
+          "url": "https://www.awwwards.com/sites/oimachi",
+          "author": "Oimachi",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "Firecrawl Developer Index",
-          "url": "https://www.producthunt.com/products/extract-by-firecrawl",
-          "author": "Eric Ciarla",
+          "title": "Gemini Omni 1.1 Flash",
+          "url": "https://www.producthunt.com/products/gemini-omni-1-1-flash",
+          "author": "Ankit Sharma",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A curated index of 70M+ artifacts for coding agents.Discussion|Link",
-          "published_at": "2026-08-26T17:33:36"
+          "summary": "Our newest multimodal model for video generation and editingDiscussion|Link",
+          "published_at": "2026-08-27T20:52:18"
         },
         {
-          "title": "SnakeRank",
-          "url": "https://www.producthunt.com/products/snakerank",
-          "author": "Aryan Agrawal",
+          "title": "Microduck",
+          "url": "https://www.producthunt.com/products/hugging-face",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The leaderboard is a snake. Bid your way to the head.Discussion|Link",
-          "published_at": "2026-08-27T06:19:41"
+          "summary": "A tiny open-source biped you can train yourselfDiscussion|Link",
+          "published_at": "2026-08-27T13:40:20"
+        },
+        {
+          "title": "Play with Putty",
+          "url": "https://www.producthunt.com/products/google-labs",
+          "author": "Gabe Perez",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Simple, Collaborative Vibe CodingDiscussion|Link",
+          "published_at": "2026-08-25T18:45:36"
         },
         {
           "title": "Spline V2",
@@ -324,24 +477,6 @@
           "source": "Product Hunt",
           "summary": "Best 3D platform for the agentic eraDiscussion|Link",
           "published_at": "2026-08-27T08:06:07"
-        },
-        {
-          "title": "NotchDrop",
-          "url": "https://www.producthunt.com/products/notchdrop",
-          "author": "Muhammad Saddam Nur",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "A Dynamic Island experience for your Mac notchDiscussion|Link",
-          "published_at": "2026-08-26T08:16:24"
-        },
-        {
-          "title": "Revalvo",
-          "url": "https://www.producthunt.com/products/revalvo",
-          "author": "Lokesh",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Run prompts on every model at once. Score. Version. Ship.Discussion|Link",
-          "published_at": "2026-08-28T06:38:16"
         }
       ]
     },
@@ -395,8 +530,8 @@
           "published_at": null
         },
         {
-          "title": "很多产品的收藏夹早吃灰了，抖音却把它做成了灵感池",
-          "url": "https://www.uisdc.com/hunter/0221682209.html",
+          "title": "滑动时图标跟着变，如何用细节让组件发光？",
+          "url": "https://www.uisdc.com/hunter/0221682279.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -457,9 +592,51 @@
       ]
     },
     {
+      "category": "前端设计",
+      "count": 3,
+      "items": [
+        {
+          "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
+          "url": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
+          "author": "Daniel Schwarz",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.Creating Web Widgets Using the Document Picture-in-Picture APIo...",
+          "published_at": "2026-08-27T14:41:06"
+        },
+        {
+          "title": "animation-trigger",
+          "url": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
+          "author": "Saleh Mubashar",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "The CSSanimation-triggerproperty allows you to delay the start of a CSS animation until a specific trigger occurs.animation-triggeroriginally handwritten and published with love onCSS-Tricks. You shou...",
+          "published_at": "2026-08-26T15:38:41"
+        },
+        {
+          "title": "MicroLighter: Syntax Highlighter",
+          "url": "https://css-tricks.com/microlighter-syntax-highlighter/",
+          "author": "Geoff Graham",
+          "category": "前端设计",
+          "source": "CSS-Tricks",
+          "summary": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.MicroLighter: Syntax Highlighteroriginally handwritten and published ...",
+          "published_at": "2026-08-25T14:10:34"
+        }
+      ]
+    },
+    {
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "本周看什么 | 最近值得一看的 10 部作品",
+          "url": "https://sspai.com/post/113944",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "📅本周新预告《社交清算》新预告8月27日，电影《社交清算》发布了新预告，将于10月9日在北美上映。凭借《社交网络》斩获奥斯卡金像奖的艾伦・索金带来全新姐妹篇，当科技巨头以「言论自由」为名逃避责任，当算 ...查看全文",
+          "published_at": "2026-08-28T09:44:32"
+        },
         {
           "title": "开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理",
           "url": "https://sspai.com/post/68623",
@@ -504,15 +681,6 @@
           "source": "少数派",
           "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@小葵：超大号封闭式猫砂盆参 ...查看全文",
           "published_at": "2026-08-27T10:00:05"
-        },
-        {
-          "title": "日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑",
-          "url": "https://sspai.com/post/89194",
-          "author": "爱拼安小匠",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "不知不觉，我日常使用 Linux 已经有第 6 个年头了。一个词概括，「舒适」。查看全文",
-          "published_at": "2026-08-27T07:28:44"
         }
       ]
     }
