@@ -1,22 +1,22 @@
 {
   "date": "2026-08-29T00:00:00",
-  "total_items": 62,
+  "total_items": 58,
   "sources": [
+    "Smashing Magazine",
+    "NN/g (Nielsen Norman Group)",
     "UX Design CC",
-    "少数派",
-    "Product Hunt",
     "Sidebar",
+    "Product Hunt",
+    "UX Planet",
     "Design Milk",
+    "人人都是产品经理",
+    "Awwwards",
     "A List Apart",
     "优设网",
-    "人人都是产品经理",
-    "UX Planet",
-    "Awwwards",
-    "CSS-Tricks",
-    "NN/g (Nielsen Norman Group)",
-    "Smashing Magazine"
+    "少数派",
+    "CSS-Tricks"
   ],
-  "generated_at": "2026-08-29T06:22:22.374832",
+  "generated_at": "2026-08-29T16:27:05.581187",
   "categories": [
     {
       "category": "用户体验设计",
@@ -188,6 +188,33 @@
           "published_at": "2026-08-26T19:54:14"
         },
         {
+          "title": "为什么大厂都在补 Harness？Agent 的竞争正在从模型转向运行时",
+          "url": "https://www.woshipm.com/ai/6456450.html",
+          "author": "思敏",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "模型能力决定上限，但真正拉开 Agent 产品差距的，是模型与任务之间的运行控制层——Harness。Anthropic、OpenAI、DeepSeek 等大厂纷纷公开补 Harness，背后是 Context、成本与验证成为新瓶颈。本文从 AI 产品交付视角，拆解 Harness 边界与四条技术路线差异。只看模型，已经解释不了今天的 Agent 产品差距。同一个模型，接入不同的工具、上下文策略、...",
+          "published_at": "2026-08-29T08:56:18"
+        },
+        {
+          "title": "从“找到搭子”到“按约成行”：我如何构思一款留学生旅行 Agent",
+          "url": "https://www.woshipm.com/pd/6456438.html",
+          "author": "Molly",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "留学生旅行组队，最难的不是找到人，而是让口头约定真正落地。从“达西庄园迟到”到“黄石自驾无人开车”，本文基于真实经历提出产品假设，拆解一款面向陌生人组队场景的旅行Agent——如何把模糊意向转化为可执行、可调整的共同计划。人找到了，不代表旅行就能顺利发生。我在英国留学时，曾在社交平台上找到一位女生，一起去被不少中国游客称为“达西庄园”的 Chatsworth。那天我从约克出发，她从伦敦出发。我们先...",
+          "published_at": "2026-08-29T07:53:45"
+        },
+        {
+          "title": "两个被慢性病折磨多年的年轻人，做了个“记住你全部病史”的 AI，8个月15万下载",
+          "url": "https://www.woshipm.com/chuangye/6453455.html",
+          "author": "张艾拉",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "两位长期病患把反复就医、检查和讲述病史的疲惫做成 Juno：它不替代医生，而是帮用户记住病历、症状和对话脉络。文章梳理其从个人经历切入健康管理的路径，并观察患者数据、陪伴需求和医疗边界如何共同决定产品价值。今天分享的产品很简单，切入点很小但延展性却很强：Juno，https://junocompanion.com/Isaac Tolley 从小就一直咳嗽。看医生，做检查，换医生，再做检查。直到14...",
+          "published_at": "2026-08-29T06:56:22"
+        },
+        {
           "title": "如何做好任务管理：从任务入池到验收复盘",
           "url": "https://www.woshipm.com/ai/6454995.html",
           "author": "小普",
@@ -204,33 +231,6 @@
           "source": "人人都是产品经理",
           "summary": "八年老用户因体验恶化而卸载，Keep的财报揭示其用户规模持续探底，商业化重心从内容转向卖货，却难掩基本盘萎缩的困境。本文剖析Keep用户流失的深层原因，并延伸至垂直赛道普遍面临的商业困局，探讨在综合平台与AI浪潮夹击下，垂类玩家是否还有生存空间。“八年用户，已卸载Keep”，一位网友在小红书发帖称。作为一名健身爱好者，她越来越反感Keep，打开页面全是社区推荐、课程推荐、直播商城，“连看自己的运动...",
           "published_at": "2026-08-29T05:00:33"
-        },
-        {
-          "title": "我开始重新理解vibe coding",
-          "url": "https://www.woshipm.com/ai/6456350.html",
-          "author": "AI Second",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "一个不懂技术的产品人，手持顶级AI模型，却把简单的公众号爬虫任务硬生生折腾成了虚拟机+20G流量的“大工程”。本文复盘了这段令人哭笑不得的经历，揭示了与AI协作时最容易被忽视的致命误区——不告诉AI最终目标，AI就会把局部问题当成需求本身。值得每个AI使用者反思。上周我一直在搞一个公众号爬虫脚本。哎，把自己气笑了。给我的技术哥朋友讲这事吧，又被嘲笑了一把。简单说，就是一个原本只有两步操作的爬虫脚本...",
-          "published_at": "2026-08-29T02:48:52"
-        },
-        {
-          "title": "腾讯猛踩油门，混元追赶的127天",
-          "url": "https://www.woshipm.com/ai/6456417.html",
-          "author": "深流研究所",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "腾讯混元Hy4 preview发布，总参数达770B，代码与推理能力跃升，逼近头部模型。其加速秘诀在于“实战闭环”：以preview机制收集真实反馈，借Co-Design整合专家知识，并通过WorkBuddy等多产品矩阵构建训练场，让每一次发布都成为能力进化的催化剂。8 月 28 日，腾讯混元发布并开源 Hy4 preview。从今年 2 月重建预训练与强化学习基建算起，混元把大版本的迭代周期，压...",
-          "published_at": "2026-08-29T02:41:41"
-        },
-        {
-          "title": "从人形概念到咖啡机器人，具身智能如何跨过商业化鸿沟",
-          "url": "https://www.woshipm.com/it/6453574.html",
-          "author": "人人都是产品经理",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "具身智能浪潮下，产品经理如何转型？唐沐以咖啡机器人为例，强调机器人必须从“造出来”走向“用起来”，回归场景、数据与ROI。本文从设计、产品到硬件创业的实战视角，解析PM如何成为全栈Builder，并重新定义考核标准。在 2026 AI产品大会现场，影智科技（XBOT）创始人兼CEO唐沐老师从设计、产品、互联网软件和智能硬件的职业经历讲起，讨论产品经理如何进入具身智能领域。他以扫地机器人、咖啡机器人...",
-          "published_at": "2026-08-29T01:53:29"
         }
       ]
     },
@@ -377,61 +377,25 @@
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 2,
       "items": [
         {
-          "title": "OpenTag",
-          "url": "https://www.producthunt.com/products/opentag",
-          "author": "Garry Tan",
+          "title": "Cohere Parse 5",
+          "url": "https://www.producthunt.com/products/cohere-2",
+          "author": "Anusha Viswanadham",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI coworker lives on Slack and TeamsDiscussion|Link",
-          "published_at": "2026-08-27T21:52:16"
+          "summary": "Turn complex docs, tables & images into AI-ready dataDiscussion|Link",
+          "published_at": "2026-08-28T15:59:34"
         },
         {
-          "title": "Almanac",
-          "url": "https://www.producthunt.com/products/almanac-5",
-          "author": "Garry Tan",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The agent with a second brainDiscussion|Link",
-          "published_at": "2026-08-27T20:43:25"
-        },
-        {
-          "title": "Gemini Omni 1.1 Flash",
-          "url": "https://www.producthunt.com/products/gemini-omni-1-1-flash",
-          "author": "Ankit Sharma",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Our newest multimodal model for video generation and editingDiscussion|Link",
-          "published_at": "2026-08-27T20:52:18"
-        },
-        {
-          "title": "SnakeRank",
-          "url": "https://www.producthunt.com/products/snakerank",
-          "author": "Aryan Agrawal",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The leaderboard is a snake. Bid your way to the head.Discussion|Link",
-          "published_at": "2026-08-27T06:19:41"
-        },
-        {
-          "title": "Firecrawl Developer Index",
-          "url": "https://www.producthunt.com/products/extract-by-firecrawl",
-          "author": "Eric Ciarla",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "A curated index of 70M+ artifacts for coding agents.Discussion|Link",
-          "published_at": "2026-08-26T17:33:36"
-        },
-        {
-          "title": "Microduck",
-          "url": "https://www.producthunt.com/products/hugging-face",
+          "title": "Hy4 preview",
+          "url": "https://www.producthunt.com/products/hunyuan-a13b",
           "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A tiny open-source biped you can train yourselfDiscussion|Link",
-          "published_at": "2026-08-27T13:40:20"
+          "summary": "Tencent’s 770B open model for long-horizon workDiscussion|Link",
+          "published_at": "2026-08-28T16:57:52"
         }
       ]
     },
