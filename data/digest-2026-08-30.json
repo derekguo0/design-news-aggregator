@@ -1,20 +1,21 @@
 {
   "date": "2026-08-30T00:00:00",
-  "total_items": 44,
+  "total_items": 53,
   "sources": [
-    "CSS-Tricks",
-    "A List Apart",
-    "人人都是产品经理",
     "优设网",
-    "NN/g (Nielsen Norman Group)",
-    "Sidebar",
     "Product Hunt",
     "UX Design CC",
-    "Design Milk",
+    "CSS-Tricks",
+    "UX Planet",
+    "Awwwards",
+    "人人都是产品经理",
+    "NN/g (Nielsen Norman Group)",
+    "Sidebar",
     "少数派",
-    "UX Planet"
+    "A List Apart",
+    "Design Milk"
   ],
-  "generated_at": "2026-08-30T04:32:54.646881",
+  "generated_at": "2026-08-30T16:20:34.604368",
   "categories": [
     {
       "category": "用户体验设计",
@@ -150,6 +151,33 @@
           "published_at": "2026-08-27T17:30:00"
         },
         {
+          "title": "约束显化：把隐含的语义假设变成显式规则",
+          "url": "https://www.woshipm.com/ai/6456700.html",
+          "author": "阿基拉de_Akir",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "当AI成为界面生产主体，设计师脑中的语义判断若仍停留在评审会与文档中，将必然失效。本文论证约束显化的必要性：将隐性规范形式化为机器可读的YAML契约，编译为Prompt前缀、JSON Schema、Checklist与CI规则，获得机器可读、自动校验、版本管理与多格式分发四项传统规范无法提供的能力，为AI生成时代的界面质量提供工程化解法。我在前序章节中用语义令牌把语义概念编码成了离散枚举（如”Cr...",
+          "published_at": "2026-08-30T08:34:19"
+        },
+        {
+          "title": "功能越来越容易做，MVP 为什么反而越来越难收敛？——从 Scribe 到 Clinical Advisor 的一次复盘",
+          "url": "https://www.woshipm.com/share/6456443.html",
+          "author": "Molly",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "从AI Scribe到多Agent平台，HiPaw的产品范围在四年间不断膨胀，却让MVP边界越来越模糊。作者复盘发现，Vibe Coding降低了开发门槛，却放大了“完整产品幻觉”。当技术实现越来越快，产品取舍反而成为更核心的挑战。本文深入拆解功能膨胀的路径与MVP的本质。2023 年，我开始关注动物医疗 AI。那时还没有一个成形的产品，我更关心的是：AI 能不能进入动物医院的真实工作流，而不只是...",
+          "published_at": "2026-08-30T06:54:14"
+        },
+        {
+          "title": "Anthropic 写给 AI Native 团队的完整开发手册",
+          "url": "https://www.woshipm.com/ai/6456809.html",
+          "author": "AI陆小凤",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "Anthropic 发布《The AI-Native SDLC Playbook》，揭示 AI 开发的核心瓶颈不在代码生成，而在流程协同。本文深入拆解 intent.md 到部署的产物链机制，探讨产品经理价值上升、审查前置等关键转变，为 AI 从业者提供一套可落地的项目系统改造思路。上周，Anthropic 发布了《The AI-Native SDLC Playbook》。我最近把这份手册完整读了...",
+          "published_at": "2026-08-30T06:33:52"
+        },
+        {
           "title": "从 Sora 退场到实时交互，AI视频产品如何走向真实场景",
           "url": "https://www.woshipm.com/ai/6453549.html",
           "author": "人人都是产品经理",
@@ -159,15 +187,6 @@
           "published_at": "2026-08-30T03:48:01"
         },
         {
-          "title": "入门第三课：欺诈风险介绍",
-          "url": "https://www.woshipm.com/pd/6456661.html",
-          "author": "风控PM说",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "欺诈风险正成为平台必须跨越的生死线。从诈骗、网赌到洗钱，黑产手法不断升级，单靠规则拦截已力不从心。本文系统拆解三类欺诈场景的典型链路与识别难点，并梳理事前、事中、事后全链路管控策略，为风控产品经理提供一套可落地的实战框架。一、业务概述欺诈，指行为人故意虚构事实或隐瞒真相，诱使他人作出错误意思表示的行为。随着网络技术的发展，业务流程中的各环节被黑产利用进行洗诈赌的可能性增大，对风险管控提出更严苛的要...",
-          "published_at": "2026-08-30T03:21:37"
-        },
-        {
           "title": "AI产品成功经验分享：AI质检从NLP到大模型",
           "url": "https://www.woshipm.com/ai/6456471.html",
           "author": "吴德馨",
@@ -175,30 +194,12 @@
           "source": "人人都是产品经理",
           "summary": "从NLP时代到大模型时代，AI质检的落地成本骤降十倍，准确率却从半年苦练的80%跃升至开箱即达的98%。本文通过两个真实案例，对比不同技术路线下的架构、训练与成本差异，揭示技术革命如何将AI质检从大公司专属的奢侈品，变为中小企业随手可用的生产力工具。AI 质检已在客服质检、呼叫质检、录音检查、视频监测、文件识别等多场景广泛应用。相比人工质检，检查范围、检查质量、检查效率都是阶跃式提升。但「AI 质...",
           "published_at": "2026-08-30T02:15:48"
-        },
-        {
-          "title": "40岁，我把”带团队”当成一款产品重做了一遍",
-          "url": "https://www.woshipm.com/share/6456588.html",
-          "author": "Ai-Lin",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "带团队和做产品本质相通：定方向、把关、控边界。作者从“救火队长”转型为“产品型管理者”，将产品方法论应用于团队管理，并指出这套思维在AI时代同样适用——AI越强，定义问题、承担判断、划定边界的能力越值钱。本文分享实战经验，助你从“瞎忙”到“想得清”。带团队和做产品是一个道理——定方向、把关、控边界。用在人身上叫管理，用在 AI 身上叫认知主权。但说实话，我带团队十来年，真把它当”产品”来重做，是3...",
-          "published_at": "2026-08-30T01:15:18"
-        },
-        {
-          "title": "为什么大厂都在补 Harness？Agent 的竞争正在从模型转向运行时",
-          "url": "https://www.woshipm.com/ai/6456450.html",
-          "author": "思敏",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "模型能力决定上限，但真正拉开 Agent 产品差距的，是模型与任务之间的运行控制层——Harness。Anthropic、OpenAI、DeepSeek 等大厂纷纷公开补 Harness，背后是 Context、成本与验证成为新瓶颈。本文从 AI 产品交付视角，拆解 Harness 边界与四条技术路线差异。只看模型，已经解释不了今天的 Agent 产品差距。同一个模型，接入不同的工具、上下文策略、...",
-          "published_at": "2026-08-29T08:56:18"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 6,
+      "count": 14,
       "items": [
         {
           "title": "Designed for a Dead Language",
@@ -253,30 +254,111 @@
           "source": "A List Apart",
           "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
           "published_at": null
+        },
+        {
+          "title": "Aardvark Book Club",
+          "url": "https://www.awwwards.com/sites/aardvark-book-club",
+          "author": "FUTURE THREE®",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "HOBRO DIGITAL",
+          "url": "https://www.awwwards.com/sites/hobro-digital",
+          "author": "Hobro Digital",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Decathlon Yestalgia",
+          "url": "https://www.awwwards.com/sites/decathlon-yestalgia",
+          "author": "index",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Sharplink",
+          "url": "https://www.awwwards.com/sites/sharplink",
+          "author": "Studio Freight",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Ai in Design Report 2026",
+          "url": "https://www.awwwards.com/sites/ai-in-design-report-2026",
+          "author": "++hellohello",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "MIU MIU A House that we shaped",
+          "url": "https://www.awwwards.com/sites/miu-miu-a-house-that-we-shaped",
+          "author": "Merci Michel",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "/zeroz Brand Site",
+          "url": "https://www.awwwards.com/sites/zeroz-brand-site",
+          "author": "SHIFTBRAIN",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Kononenko Architectural Bureau",
+          "url": "https://www.awwwards.com/sites/kononenko-architectural-bureau",
+          "author": "Reksa Andhika",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 3,
       "items": [
         {
-          "title": "Cohere Parse 5",
-          "url": "https://www.producthunt.com/products/cohere-2",
-          "author": "Anusha Viswanadham",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Turn complex docs, tables & images into AI-ready dataDiscussion|Link",
-          "published_at": "2026-08-28T15:59:34"
-        },
-        {
-          "title": "Hy4 preview",
-          "url": "https://www.producthunt.com/products/hunyuan-a13b",
+          "title": "Topview Motion Studio",
+          "url": "https://www.producthunt.com/products/topview-ai",
           "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Tencent’s 770B open model for long-horizon workDiscussion|Link",
-          "published_at": "2026-08-28T16:57:52"
+          "summary": "Create launch videos without touching After EffectsDiscussion|Link",
+          "published_at": "2026-08-27T06:32:36"
+        },
+        {
+          "title": "Maritime",
+          "url": "https://www.producthunt.com/products/maritime",
+          "author": "Maria Gorskikh",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Dedicated computers for AI agents, starting at $1/monthDiscussion|Link",
+          "published_at": "2026-08-28T22:04:42"
+        },
+        {
+          "title": "Superagent",
+          "url": "https://www.producthunt.com/products/superagent-a-home-for-your-ai-agents",
+          "author": "Worathiti Pung",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Claude Code for the rest of usDiscussion|Link",
+          "published_at": "2026-08-29T22:27:58"
         }
       ]
     },
@@ -411,6 +493,15 @@
       "count": 6,
       "items": [
         {
+          "title": "城市漫步指南 | 佛罗伦萨：来自六月的梦幻艺术夏令营",
+          "url": "https://sspai.com/post/113974",
+          "author": "程天冲",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "我种草佛罗伦萨的理由绝对是世所罕见：因为SEVENTEEN的NanaTour有很大一部分是在佛罗伦萨及其周边拍摄的。从去年夏天看了这个综艺开始，我就一直对这个地方念念不忘，心想夏日的意大利到底是有何种 ...查看全文",
+          "published_at": "2026-08-30T07:00:00"
+        },
+        {
           "title": "2026 烟灶选购指南",
           "url": "https://sspai.com/post/112775",
           "author": "真叫浩南",
@@ -454,15 +545,6 @@
           "source": "少数派",
           "summary": "2017年，明基推出第一代ScreenBar，把原本占据桌面的灯座挪到屏幕上方，再用非对称光路照亮桌面、避开屏幕，由此创造了世界上第一盏屏幕挂灯。此后近十年的产品迭代，大致沿着物理结构和智能体验两个方 ...查看全文",
           "published_at": "2026-08-28T01:56:00"
-        },
-        {
-          "title": "派早报：智谱开源 GLM-5.3-Flash 原生多模态模型等",
-          "url": "https://sspai.com/post/113922",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Perplexity AI 推出 Portable Computer，明基推出 Creative Pro PV50 系列专业显示器。查看全文",
-          "published_at": "2026-08-28T00:29:37"
         }
       ]
     }
