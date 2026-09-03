@@ -1,26 +1,26 @@
 {
   "date": "2026-09-03T00:00:00",
-  "total_items": 71,
+  "total_items": 70,
   "sources": [
-    "UX Design CC",
-    "优设网",
-    "Smashing Magazine",
-    "Awwwards",
-    "人人都是产品经理",
-    "Product Hunt",
     "Sidebar",
+    "Smashing Magazine",
+    "Design Milk",
     "少数派",
-    "CSS-Tricks",
     "NN/g (Nielsen Norman Group)",
     "A List Apart",
+    "Product Hunt",
+    "CSS-Tricks",
     "UX Planet",
-    "Design Milk"
+    "人人都是产品经理",
+    "Awwwards",
+    "优设网",
+    "UX Design CC"
   ],
-  "generated_at": "2026-09-03T03:40:36.040356",
+  "generated_at": "2026-09-03T16:04:41.999668",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 14,
+      "count": 15,
       "items": [
         {
           "title": "When the canvas starts acting, who’s really in control?",
@@ -111,6 +111,15 @@
           "source": "UX Design CC",
           "summary": "A conversation with Whitney Hess, on careers, whispers, and where to plant yourselfPhoto byBob BowieonUnsplashSome questions sound administrative but are not, and “why do you want to switch jobs?” tur...",
           "published_at": "2026-08-31T15:56:04"
+        },
+        {
+          "title": "How to Audit and Extend Your Design System with Claude Code",
+          "url": "https://uxplanet.org/how-to-audit-and-extend-your-design-system-with-claude-code-28be5c059d49?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Claude Code recently got a new plugin /design that lets you craft designs right in Claude Code. I’ve described the entire process of…Continue reading on UX Planet »",
+          "published_at": "2026-09-03T13:20:56"
         },
         {
           "title": "Fable 5.1 for Product Designers",
@@ -215,6 +224,15 @@
       "count": 11,
       "items": [
         {
+          "title": "Rick Tegelaar’s Designs Begin With Making, Not Sketching",
+          "url": "https://design-milk.com/rick-tegelaar-designer-meshmatics-tabby/",
+          "author": "Melissa Feldman",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "From chicken wire to woven LEDs, the Dutch designer lets materials and process lead the way",
+          "published_at": "2026-09-03T13:00:29"
+        },
+        {
           "title": "Snoopy’s Fashion Résumé Gets a New Chapter in New York",
           "url": "https://design-milk.com/snoopy-in-style-nyc-fashion-exhibition/",
           "author": "Design Milk Staff",
@@ -260,58 +278,49 @@
           "published_at": "2026-09-01T13:00:02"
         },
         {
-          "title": "Louis Vuitton and Singer Take the Porsche 911 Somewhere Unexpected",
-          "url": "https://design-milk.com/louis-vuitton-singer-porsche-911/",
-          "author": "Will Sabel Courtney",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "What began with a request for a dashboard clock grew into two extensively reimagined Porsche 911s shaped by watchmaking, leatherwork, and an unexpected dose of nautical design",
-          "published_at": "2026-08-31T13:00:56"
-        },
-        {
-          "title": "人人都能学会的自进化 Agent 搭建指南",
-          "url": "https://www.woshipm.com/ai/6458985.html",
-          "author": "一泽Eze",
+          "title": "对话a16z合伙人：AI 创始人最大的错误，是把99%的时间花在想策略上",
+          "url": "https://www.woshipm.com/ai/6459294.html",
+          "author": "Z Finance",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Loop Engineering 让 Agent 在运行中自我迭代。借助飞书、豆包联动，十来分钟搓出一套自进化信源 Loop：自动收集群聊批注与日报反馈，校准监控清单与呈现，把重复工作流交给会进化的 Agent。你想让自己的 Agent 工作流，每天自动迭代吗？是否发现用了一段时间的 Workflow、Skill，就会和实际需求脱节？今天，我们来聊「如何给自己搭一套自进化的 Agent 系统」。ㅤ...",
-          "published_at": "2026-09-03T03:04:00"
+          "summary": "2009 年，Andy McCall 加入 Meraki 时，企业网络市场早已被 Cisco 和 HP 占据。作为一家缺乏品牌背书的初创公司，Meraki 几乎没有机会直接进入全球最大的企业客户，只能从 IT 能力有限、决策速度更快的中端市场切入，用免费试用证明自己的云管理网络设备更简单、更易部署。三年后，Meraki 被 Cisco 收购。2017 年，Andy 又加入成立仅两年的 Samsar...",
+          "published_at": "2026-09-03T11:21:44"
         },
         {
-          "title": "手把手教你接入WorkBuddy开放平台",
-          "url": "https://www.woshipm.com/ai/6458983.html",
-          "author": "沃垠AI",
+          "title": "基金互金运营之活动运营：从体验金到投资赛，什么阶段该用什么活动",
+          "url": "https://www.woshipm.com/operate/6458475.html",
+          "author": "飞飞飞菲",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "鹅厂正式上线开放平台，把造好的Agent底座直接开放给个人与开发者。文章逐一拆解Buddy应用、专家、Skill、连接器与硬件五大能力，并演示账号认证、Skill YAML编写与市场提交的完整接入流程。刚刚，鹅厂放了个大招：WorkBuddy开放平台，正式上线。这和我之前在群里的判断一致：WB正在生态上发力，软硬件一起建设。前段时间还只是邀测，今天正式上线了，所有个人开发者、公司都可以入驻，目前免...",
-          "published_at": "2026-09-03T02:56:35"
+          "summary": "互联网金融运营为何总在做活动？体验金、红包、签到、答题、投资赛……不同活动形式背后，隐藏着怎样的运营逻辑？本文从用户旅程出发，拆解活动运营的三层架构与八大常见形式，教你如何精准匹配活动机制与业务目标，实现高效转化与留存。互联网金融运营为什么总在做活动？体验金、红包、签到、答题、投资赛……都是活动，为什么选择这些形式呢？——用户来了但不转化，要用什么激活；用户打开APP但不知道干什么，要用什么引导；...",
+          "published_at": "2026-09-03T09:39:29"
         },
         {
-          "title": "为什么很多老板看不上正规军的IPD流程？",
-          "url": "https://www.woshipm.com/share/6458982.html",
-          "author": "产品人卫朋",
+          "title": "AI 写Blog全套 SOP，让内容产出效率提升20倍",
+          "url": "https://www.woshipm.com/ai/6459224.html",
+          "author": "外贸小巨熊",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "任正非引入IPD、郭士纳借研发体系救活IBM，背后是强势文化与弱势文化的分野。不少老板对体系化流程抱有偏见，差距不在方法本身，而在按不按规律办事。格律诗音响演练与2×2网格，讲清经验与制度的本质。现实企业中有一个很普遍的现象：很多赚了大钱的「土」老板，看不上做商业咨询的「正规军」。同时有人把华为 IPD 当成圣经，也有人避之不及。这两极看着相反，背后其实是同一回事。我原本以为这是认知高低的问题，后...",
-          "published_at": "2026-09-03T02:55:39"
+          "summary": "AI写作工具虽能大幅提升效率，但SEO的底层逻辑才是决定内容成败的关键。本文分享一套结合AI的Blog写作SOP，从关键词研究到内容更新，涵盖搜索意图匹配、E-E-A-T原则、去AI味技巧等核心环节，帮助内容创作者在AI时代构建可持续的流量增长引擎。AI是生产力的杠杆，但SEO的底层逻辑（搜索意图、内容质量、用户体验）永远比”写得快”重要。Phase 0：SOP全景图与核心原则0.1 流程总览关键...",
+          "published_at": "2026-09-03T08:47:29"
         },
         {
-          "title": "从40亿到130亿美元！中国大模型这波增长，可能和你想得不一样",
-          "url": "https://www.woshipm.com/ai/6458981.html",
-          "author": "硅基观察Pro",
+          "title": "身家85亿孙宇晨还打不赢的，不是公关舆论是「认知框架」",
+          "url": "https://www.woshipm.com/share/6459155.html",
+          "author": "刘欣",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "中国大模型商业化正以超预期速度提速。2025年12月国内主要模型公司年化收入仅40亿美元，如今已逼近130亿美元，并非靠价格战驱动：智谱API均价上涨101%，Token用量却增长40余倍；MiniMax六成以上收入来自海外。过去半年，国内大模型商业化开始突然爆发。2025年12月，中国主要AI模型公司的年化收入还只有40亿美元，而如今已经接近130亿美元。尤其6月以后，增长明显提速。更反常识的是...",
-          "published_at": "2026-09-03T02:55:03"
+          "summary": "身家85亿的币圈大佬孙宇晨，为何被一句“眼光不行”和“等你回北京”打崩？这不仅是八卦，更是一场认知框架的博弈。本文从框架思维视角，拆解孙宇晨与景甜、胡锡进的隔空交锋，揭示高维框架如何碾压低维叙事，值得产品人深思。一个身家 85 亿美刀的大佬，为什么会被一句“眼光不行”和一句“等你回北京”打崩？击败他的不是公关舆论，是框架博弈！8月底这瓜，全网都吃撑了。币圈大佬孙宇晨，身家85亿美元。8月27号晚上...",
+          "published_at": "2026-09-03T08:13:32"
         },
         {
-          "title": "用一周了，是时候来总结把豆包当国产Codex用的7种玩法了",
-          "url": "https://www.woshipm.com/ai/6458980.html",
-          "author": "卡尔的AI沃茨",
+          "title": "淘宝正式上线「AI空间站」，以后买Token，可以像充话费一样简单了！",
+          "url": "https://www.woshipm.com/ai/6459215.html",
+          "author": "卖火柴的小女孩",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "把豆包当国产Codex用，一周高强度实测后有了具体答案。本地与云电脑打通、飞书授权一次即可复用全部内置工具、随时插话还带完整上下文，再加上图片视频生成和手写识图，一台16G的Mac mini也能吃上Agent红利。上周我在交个朋友分享goodcase是如何自动化收集提示语，然后人工和三个模型交叉验证提示语质量的同时，其实我还在同一个会场摆摊来着。当然摆摊遇到的物料，大尺寸高清图片，视觉设计啥的我感...",
-          "published_at": "2026-09-03T02:54:29"
+          "summary": "以后买大模型套餐，可能真要跟充话费差不多了。9月3日，淘宝正式上线AI空间站（Token充值中心），用户可直接购买多家头部大模型的订阅产品。这意味着，AI服务首次作为标准化商品，被摆上了主流电商平台的货架。01都有谁入驻了？页面显示，该充值中心首批集合了阿里云、智谱、Kimi、MiniMax等国内头部大模型厂商的订阅服务。在售商品主要包括三类：●Token Plan：按周期订阅的通用模型调用额度●...",
+          "published_at": "2026-09-03T08:05:43"
         }
       ]
     },
@@ -383,6 +392,15 @@
           "published_at": null
         },
         {
+          "title": "Trevor Noah",
+          "url": "https://www.awwwards.com/sites/trevor-noah",
+          "author": "OFF+BRAND.",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Paul Kalkbrenner",
           "url": "https://www.awwwards.com/sites/paul-kalkbrenner",
           "author": "HOLOGRAPHIK",
@@ -444,75 +462,48 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Ai in Design Report 2026",
-          "url": "https://www.awwwards.com/sites/ai-in-design-report-2026",
-          "author": "++hellohello",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 4,
       "items": [
         {
-          "title": "RoundOS",
-          "url": "https://www.producthunt.com/products/roundos-data-room",
-          "author": "Dmitry Abramov",
+          "title": "CodeLook",
+          "url": "https://www.producthunt.com/products/codelook",
+          "author": "Edden Amber",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Free Docsend alternativeDiscussion|Link",
-          "published_at": "2026-09-01T07:29:27"
+          "summary": "Quick Look code previews with 700+ editor themesDiscussion|Link",
+          "published_at": "2026-09-02T19:46:18"
         },
         {
-          "title": "Monid",
-          "url": "https://www.producthunt.com/products/monid",
-          "author": "Ryan Hoover",
+          "title": "Grove",
+          "url": "https://www.producthunt.com/products/grove-8",
+          "author": "Rakesh",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "OpenRouter for agent toolsDiscussion|Link",
-          "published_at": "2026-08-31T07:07:32"
+          "summary": "One terminal for you and your AI agentDiscussion|Link",
+          "published_at": "2026-09-02T14:13:31"
         },
         {
-          "title": "GhostReply",
-          "url": "https://www.producthunt.com/products/ghostreply-2",
-          "author": "Harrison Rampell",
+          "title": "Blume.codes",
+          "url": "https://www.producthunt.com/products/blume-codes",
+          "author": "Peder Aaby",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI auto-replier for iMessage on your MacDiscussion|Link",
-          "published_at": "2026-09-01T04:35:26"
+          "summary": "Turns coding agent sessions into better rules and skillsDiscussion|Link",
+          "published_at": "2026-08-31T17:22:47"
         },
         {
-          "title": "Roadie",
-          "url": "https://www.producthunt.com/products/roadie-4",
-          "author": "Yash Raj",
+          "title": "Causal",
+          "url": "https://www.producthunt.com/products/causal-2",
+          "author": "Rameen Sharif",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Keep your Mac on the right microphone and speakersDiscussion|Link",
-          "published_at": "2026-09-01T15:40:57"
-        },
-        {
-          "title": "Basedash AI Sources",
-          "url": "https://www.producthunt.com/products/basedash",
-          "author": "Max Musing",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Trust every AI answer by seeing what built itDiscussion|Link",
-          "published_at": "2026-09-02T04:29:20"
-        },
-        {
-          "title": "Dynamic Edge",
-          "url": "https://www.producthunt.com/products/dynamic-edge",
-          "author": "Eyuel Engida",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The Dynamic Island for WindowsDiscussion|Link",
-          "published_at": "2026-09-01T10:31:29"
+          "summary": "AI Powered Canvas for planning visual projectsDiscussion|Link",
+          "published_at": "2026-09-02T11:32:44"
         }
       ]
     },
@@ -566,8 +557,8 @@
           "published_at": null
         },
         {
-          "title": "Figma新增矢量橡皮擦，一刷抹掉多余线条太省事！",
-          "url": "https://www.uisdc.com/hunter/0221682792.html",
+          "title": "微信未读消息交互改版，效率和防误触如何兼得？",
+          "url": "https://www.uisdc.com/hunter/0221682878.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -581,49 +572,49 @@
       "count": 5,
       "items": [
         {
-          "title": "How AI-ready is your design system?",
-          "url": "https://christophhellmuth.com/open-design-system-bench/",
+          "title": "The call for an agentic standard",
+          "url": "https://uxdesign.cc/the-call-for-an-agentic-standard-we-need-to-stop-shipping-the-same-form-four-different-times-be5b9d40e370",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Every design system team is having the same conversation right now, and nobody can back it with numbers.",
-          "published_at": "2026-09-02T08:15:34"
+          "summary": "We need to stop shipping the same form four different times.",
+          "published_at": "2026-09-03T05:13:22"
         },
         {
-          "title": "Compression is prediction",
-          "url": "https://ngrok.com/blog/compression-is-prediction",
+          "title": "Make your logo brighter than white",
+          "url": "https://www.soverybright.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Compression and LLMs are trying to solve the exact same problem: predicting what comes next.",
-          "published_at": "2026-09-02T08:14:53"
+          "summary": "Upload a logo, choose what glows, download an HDR JPEG. Free — nothing is stored.",
+          "published_at": "2026-09-03T05:12:41"
         },
         {
-          "title": "Creepy crawlies",
-          "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+          "title": "Designing product simplicity for the agentic AI era",
+          "url": "https://commandline.microsoft.com/design-product-simplicity-seamless-ux-ui-agentic-ai-azure-developer-services-foundry/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Bots consume 20% of CPU capacity by rendering HTML commits instead of cloning repos.",
-          "published_at": "2026-09-02T08:13:43"
+          "summary": "Shared design components aren’t enough to ensure a seamless product experience. Can designers create consistency by embracing simplicity?",
+          "published_at": "2026-09-03T05:12:20"
         },
         {
-          "title": "Gabriel Diogo on football, memory, and childhood",
-          "url": "https://www.creativeboom.com/inspiration/gabriel-diogo/",
+          "title": "Mesurer",
+          "url": "https://mesurer.dev/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "From terrace flags to the humble bar glass, the illustrator draws the everyday life of Brazil he grew up in—and now Nike has come calling.",
-          "published_at": "2026-09-02T08:12:26"
+          "summary": "Inspect, annotate, and give feedback on any live interface. Share feedback with your agents and your team.",
+          "published_at": "2026-09-03T05:10:50"
         },
         {
-          "title": "The critical design engineering manifesto",
-          "url": "https://www.pipshea.net/manifesto",
+          "title": "AI and the city",
+          "url": "https://www.stripeeconomics.com/p/ai-and-the-city",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A remix of the 2011 Critical Engineering Manifesto for Design Engineers — guardrails for inhabiting the space between software design and eng.",
-          "published_at": "2026-09-02T08:11:09"
+          "summary": "More businesses are forming outside major metros, but big cities still matter for frontier tech.",
+          "published_at": "2026-09-03T05:10:08"
         }
       ]
     },
@@ -656,6 +647,33 @@
       "count": 6,
       "items": [
         {
+          "title": "新玩意 251｜少数派的编辑们最近买了啥？",
+          "url": "https://sspai.com/post/114154",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@什么陈：洗手间置物架参考价 ...查看全文",
+          "published_at": "2026-09-03T10:18:06"
+        },
+        {
+          "title": "TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验",
+          "url": "https://sspai.com/post/113998",
+          "author": "KingTsui",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "经过一个季度的使用，聊聊这个此前不会考虑其数码产品的品牌。查看全文",
+          "published_at": "2026-09-03T07:00:00"
+        },
+        {
+          "title": "当说起「Hi-Fi」时，我们到底在追求什么？",
+          "url": "https://sspai.com/post/113159",
+          "author": "DerQi",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "聊聊 Hi-Fi 这件事。查看全文",
+          "published_at": "2026-09-03T03:32:28"
+        },
+        {
           "title": "派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等",
           "url": "https://sspai.com/post/114113",
           "author": "少数派编辑部",
@@ -681,33 +699,6 @@
           "source": "少数派",
           "summary": "Windows 下的累计更新会修复大量的安全漏洞，虽然可以暂停更新但是最长只能暂停 35 天，35 天后 Windows 电脑就要强行帮你更新了，而本文介绍了一种突破暂停最大时间的方法。查看全文",
           "published_at": "2026-09-02T07:22:27"
-        },
-        {
-          "title": "众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响",
-          "url": "https://sspai.com/post/113581",
-          "author": "听歌的水獭",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "近年来，智能音响正在从「放在客厅的固定设备」变为「跟随你移动的声音系统」。用户不再满足于单一房间的聆听，而是希望音乐能随着自己的脚步，从客厅到厨房、从书房到户外，无缝流转、不断联。这正是Sonos一直 ...查看全文",
-          "published_at": "2026-09-02T03:00:00"
-        },
-        {
-          "title": "派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等",
-          "url": "https://sspai.com/post/114093",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "索尼发布三款 ULT Tower 派对音箱，Starman Optical 收购 GoPro 等。查看全文",
-          "published_at": "2026-09-01T23:58:40"
-        },
-        {
-          "title": "社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验",
-          "url": "https://sspai.com/post/114078",
-          "author": "Matrix机器人",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
-          "published_at": "2026-09-01T09:00:00"
         }
       ]
     }
