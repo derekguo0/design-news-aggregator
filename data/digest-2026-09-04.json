@@ -1,20 +1,19 @@
 {
   "date": "2026-09-04T00:00:00",
-  "total_items": 64,
+  "total_items": 58,
   "sources": [
-    "Awwwards",
-    "人人都是产品经理",
-    "A List Apart",
     "Product Hunt",
-    "NN/g (Nielsen Norman Group)",
-    "UX Planet",
-    "优设网",
-    "Design Milk",
     "少数派",
+    "人人都是产品经理",
+    "UX Planet",
+    "A List Apart",
+    "NN/g (Nielsen Norman Group)",
+    "UX Design CC",
+    "优设网",
     "Sidebar",
-    "UX Design CC"
+    "Design Milk"
   ],
-  "generated_at": "2026-09-04T03:41:19.837116",
+  "generated_at": "2026-09-04T16:00:46.494965",
   "categories": [
     {
       "category": "用户体验设计",
@@ -249,55 +248,55 @@
           "published_at": "2026-09-02T16:34:46"
         },
         {
-          "title": "“豆包工作”撕开入口，大厂AI办公的终局猜想",
-          "url": "https://www.woshipm.com/ai/6454760.html",
-          "author": "奇点研究社",
+          "title": "两个斯坦福毕业生做了个女性健康手环：不用抽血，也能连续看激素变化",
+          "url": "https://www.woshipm.com/chuangye/6457134.html",
+          "author": "张艾拉",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "字节30天内三次调整组织，将飞书、TRAE、扣子并入豆包，推出独立品牌“豆包工作”，收拢AI战线。阿里、腾讯同步整合办公智能体，争夺AI办公入口。本文拆解大厂战略逻辑，探讨AI办公终局：从软件到能力，从入口到记忆，从卖工具到卖劳动力。过去，办公软件抢的是入口；现在，AI 开始重新定义入口本身。不到一个月，字节连落三子：飞书产品团队并入豆包，TRAE 和扣子整体并入豆包，随后又推出新的独立品牌“豆包...",
-          "published_at": "2026-09-04T03:06:01"
+          "summary": "Clair 想做“女性版连续血糖仪”，不扎针，用10类生物传感采集130多项指标，由机器学习反推激素与周期变化。文章拆解两位斯坦福毕业生如何用生理痕迹替代抽血，并规划 FDA 许可的两代产品。今天分享的产品我很喜欢：Clair，https://wearclair.com/如果一个人想知道自己的血糖变化，现在已经有连续血糖监测仪。但女性身体里另外一组同样重要、而且一直在变化的数据：激素。想知道雌激素...",
+          "published_at": "2026-09-04T09:42:37"
         },
         {
-          "title": "从发现异常到验证结果，产品经理该把什么交给 Agent？",
-          "url": "https://www.woshipm.com/ai/6458447.html",
-          "author": "人人都是产品经理",
+          "title": "AI 带货视频竖转横，不用重拍不用裁：一段提示词重构画面",
+          "url": "https://www.woshipm.com/ai/6459774.html",
+          "author": "月鹿造物",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "产品上线越来越快，维护、洞察和运营却未必同步变快。嘉宾通过结合三个客户案例，讲述如何让 AI 参与异常修复、指标归因和精细化运营，把报表连接到行动与结果；以及产品经理必须保留的三项判断：定义问题、选择可信数据、验收用户价值。在 2026 AI 产品大会现场，友盟+冯成蹊老师做了《从看报表到跑闭环：Al Agent 驱动的 APP增长新范式》的演讲，老师从他十多年服务开发者和数据产品的经验出发，讨论...",
-          "published_at": "2026-09-04T03:02:06"
+          "summary": "带货视频常因画幅比例不匹配而影响投放效果，裁剪又容易丢失关键画面。本文分享一段提示词，让AI在理解画面元素后自动重构构图，将9:16竖版转为16:9横版，并实测短分镜与长视频的转换效果，附完整可复制的提示词。我刷 X 的时候看到海幸分享了一个帖子，说可以用一段提示词把视频的画幅比例转换——9:16 的竖版变 16:9 的横版，不是裁剪，不是拉伸，是让 AI 重新理解画面然后重构构图。提示词原作者是...",
+          "published_at": "2026-09-04T09:21:17"
         },
         {
-          "title": "腾讯 WorkBuddy 开放平台上线，如何快速接入？手把手教会",
-          "url": "https://www.woshipm.com/ai/6459469.html",
-          "author": "陌晨",
+          "title": "OpenViking 实战：把知识库、长期记忆和 Agent 技能统一到一个上下文文件系统",
+          "url": "https://www.woshipm.com/ai/6459718.html",
+          "author": "AI李子",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "腾讯WorkBuddy开放平台上线，个人开发者也能快速上手。本文手把手教你从零开始创建并发布第一个Skill，避开YAML格式陷阱，掌握Agent工作方式，将个人经验转化为可复用的公开能力。9 月 2 日，腾讯 WorkBuddy 开放平台上线了。Buddy 应用、专家 Agent、Skill、连接器、硬件接入，五种能力一起放出来，阵仗挺大。普通 AI 学习者可以先忽略那些宏大的生态故事，从一个很...",
-          "published_at": "2026-09-04T02:56:59"
+          "summary": "火山引擎开源OpenViking，以虚拟文件系统统一知识库、记忆与技能，通过L0/L1/L2分层加载优化Agent上下文检索。本文详解其设计思路、部署流程及Claude Code等工具接入实测，展示如何提升Agent信息利用效率。最近在整理 Agent 的知识库和长期记忆时，我发现一个很有意思的开源项目：OpenViking。它来自火山引擎团队，定位是面向 AI Agent 的开源上下文数据库——...",
+          "published_at": "2026-09-04T09:17:06"
         },
         {
-          "title": "这30个问题答不上来，别说你懂文案",
-          "url": "https://www.woshipm.com/copy/6459478.html",
-          "author": "外贸小巨熊",
+          "title": "即时零售火了以后，最先撑不住的往往不是配送",
+          "url": "https://www.woshipm.com/share/6458368.html",
+          "author": "Zoe产品手记",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "文案新人最常踩的坑，这里都有答案。从调研、定位到标题、转化，再到本地化与AI提效，资深文案总结5年实战经验，拆解几十个高频问题。不绕弯子，全是干过才知道的干货，建议收藏反复阅读。5年过去，我从执行做到带团队，面试过几百个候选人，也带过几十个新人。关于文案，他们问我的问题高度重合。这篇就把新人最常问的问题整理出来，分 6 个板块，每个问题附上我的实操答案，不绕弯子，全是干过之后才知道的东西。📌 这篇...",
-          "published_at": "2026-09-04T02:43:15"
+          "summary": "即时零售增长迅猛，但“小时达”并非简单加个标签。本文从库存、订单、门店、运力四维拆解订单承诺的构建，指出真正的挑战在于付款前完成四重校验，并明确责任边界。适合电商产品经理深入理解即时零售的系统逻辑。最近一组数据很扎眼：2025 年，餐饮、生鲜等即时配送平台交易额同比增长 30.3%；到了 2026 年上半年，即时零售交易额仍保持两位数增长。增长落到需求群里，通常会被翻译成一句话：“竞品都上小时达了...",
+          "published_at": "2026-09-04T09:14:48"
         },
         {
-          "title": "只靠共享照片，Yope 凭什么圈粉1400万年轻人？",
-          "url": "https://www.woshipm.com/share/6459424.html",
-          "author": "沉迷社交产品的初九哥",
+          "title": "谷歌真的急了！Gemini 3.8 Flash 刚发布，Google Harness 就跟随其后",
+          "url": "https://www.woshipm.com/ai/6459627.html",
+          "author": "实战产品说",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Yope 是一款将相册变成社交语言的私密群组分享应用，用户可在小圈子内共享照片、视频并即时互动。其锁屏小组件和照片墙设计，缩短了分享与反馈的距离，精准满足年轻人的私密表达需求。本文从产品设计角度解析其社交逻辑与裂变机制。不知道你有过这种经历吗？在地铁上玩着手机，时不时会突然收到一条隔空投送。还在纠结要不要接收，好奇心战胜了理智，点开接受隔空投送照片后，是一张写着「站起来，让我坐一会」的表情包。哭笑...",
-          "published_at": "2026-09-04T01:49:19"
+          "summary": "Google 发布 Gemini 3.8 Flash 的同时，深入探讨了 Harness Engineering 的重要性。本文对比 OpenAI、DeepSeek、Google 三大厂商的 Harness 路线，解析如何通过工程架构让 Agent 稳定、安全地完成复杂任务，并揭示未来企业评估 Agent 的关键指标。9 月 2 日，Google 正式发布 Gemini 3.8 Flash，这是目...",
+          "published_at": "2026-09-04T07:48:11"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 14,
+      "count": 6,
       "items": [
         {
           "title": "Designed for a Dead Language",
@@ -352,120 +351,66 @@
           "source": "A List Apart",
           "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
           "published_at": null
-        },
-        {
-          "title": "Trevor Noah",
-          "url": "https://www.awwwards.com/sites/trevor-noah",
-          "author": "OFF+BRAND.",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Paul Kalkbrenner",
-          "url": "https://www.awwwards.com/sites/paul-kalkbrenner",
-          "author": "HOLOGRAPHIK",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Squarespace Foundations",
-          "url": "https://www.awwwards.com/sites/squarespace-foundations",
-          "author": "Resn",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "ERA Residence",
-          "url": "https://www.awwwards.com/sites/era-residence",
-          "author": "The First The Last",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Aardvark Book Club",
-          "url": "https://www.awwwards.com/sites/aardvark-book-club",
-          "author": "FUTURE THREE®",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "HOBRO DIGITAL",
-          "url": "https://www.awwwards.com/sites/hobro-digital",
-          "author": "Hobro Digital",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Decathlon Yestalgia",
-          "url": "https://www.awwwards.com/sites/decathlon-yestalgia",
-          "author": "index",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Sharplink",
-          "url": "https://www.awwwards.com/sites/sharplink",
-          "author": "Studio Freight",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 6,
       "items": [
         {
-          "title": "Readr",
-          "url": "https://www.producthunt.com/products/readr-3",
-          "author": "anusree",
+          "title": "cmmnts",
+          "url": "https://www.producthunt.com/products/cmmnts",
+          "author": "Sanjeeb Sahoo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A free reader that answers your questions and reads aloudDiscussion|Link",
-          "published_at": "2026-09-02T18:30:59"
+          "summary": "Add a powerful comment section to any websiteDiscussion|Link",
+          "published_at": "2026-09-03T10:49:49"
         },
         {
-          "title": "CodeLook",
-          "url": "https://www.producthunt.com/products/codelook",
-          "author": "Edden Amber",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Quick Look code previews with 700+ editor themesDiscussion|Link",
-          "published_at": "2026-09-02T19:46:18"
-        },
-        {
-          "title": "Causal",
-          "url": "https://www.producthunt.com/products/causal-2",
-          "author": "Rameen Sharif",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "AI Powered Canvas for planning visual projectsDiscussion|Link",
-          "published_at": "2026-09-02T11:32:44"
-        },
-        {
-          "title": "Higgsfield Genjutsu",
-          "url": "https://www.producthunt.com/products/higgsfield",
+          "title": "Google Gemini 3.8 Flash and Cyber",
+          "url": "https://www.producthunt.com/products/gemini-3-8-flash",
           "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Recast motion with your characters, locations & productsDiscussion|Link",
-          "published_at": "2026-09-02T18:56:29"
+          "summary": "Next-gen Gemini for agents, reasoning, and cyber securityDiscussion|Link",
+          "published_at": "2026-09-02T15:45:58"
+        },
+        {
+          "title": "Clockwork",
+          "url": "https://www.producthunt.com/products/clockwork-5",
+          "author": "Vimox Shah",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The calendar where your AI agents show up for workDiscussion|Link",
+          "published_at": "2026-09-03T15:55:16"
+        },
+        {
+          "title": "Chalked for Mac",
+          "url": "https://www.producthunt.com/products/chalked",
+          "author": "Atticus Jackson",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Your replies ready with your work's full contextDiscussion|Link",
+          "published_at": "2026-09-03T12:47:52"
+        },
+        {
+          "title": "WeatherNext 3",
+          "url": "https://www.producthunt.com/products/weathernext-3",
+          "author": "Ankit Sharma",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Our most advanced and accurate global weather AI modelDiscussion|Link",
+          "published_at": "2026-09-03T15:17:27"
+        },
+        {
+          "title": "GPT-6 Astra",
+          "url": "https://www.producthunt.com/products/openai",
+          "author": "KP",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "OpenAI's most capable model for end-to-end workDiscussion|Link",
+          "published_at": "2026-09-03T20:14:40"
         }
       ]
     },
@@ -473,6 +418,15 @@
       "category": "设计教程",
       "count": 6,
       "items": [
+        {
+          "title": "欢迎来到AGI时代！GPT-6 Astra 全面深度解析",
+          "url": "https://www.uisdc.com/astra-arrives",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
         {
           "title": "第二波！2026年9月精选实用 AI 和设计干货合集",
           "url": "https://www.uisdc.com/2026-9-design-resources-vol2",
@@ -510,17 +464,8 @@
           "published_at": null
         },
         {
-          "title": "UU远程史诗级升级，这就是如今远程Vibe Coding的第一神器！",
-          "url": "https://www.uisdc.com/uuyc",
-          "author": "",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "微信未读消息交互改版，效率和防误触如何兼得？",
-          "url": "https://www.uisdc.com/hunter/0221682878.html",
+          "title": "复杂的智驾座舱设计，为什么反而加重了驾驶员负担？",
+          "url": "https://www.uisdc.com/hunter/0221683019.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -585,6 +530,42 @@
       "count": 6,
       "items": [
         {
+          "title": "本周看什么 | 最近值得一看的 8 部作品",
+          "url": "https://sspai.com/post/114175",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "📅本周新预告《哈利·波特》剧集先导预告9月2日，剧集《哈利·波特与魔法石》发布了先导预告，第一季共8集，将于12月25日上线HBOMax。原作者J·K·罗琳担任执行制片人，多米尼克·麦克劳克林、阿拉贝 ...查看全文",
+          "published_at": "2026-09-04T09:32:48"
+        },
+        {
+          "title": "新学期，新气象：正版软件 & 付费栏目限时优惠",
+          "url": "https://sspai.com/post/114110",
+          "author": "福利派",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。查看全文",
+          "published_at": "2026-09-04T07:11:46"
+        },
+        {
+          "title": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点",
+          "url": "https://sspai.com/post/114117",
+          "author": "谷雨G2rain",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "研究一下iOS自带的快捷指令，可能会让你的学习生活也轻松不少。查看全文",
+          "published_at": "2026-09-04T07:01:57"
+        },
+        {
+          "title": "在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ThinkPad T61p",
+          "url": "https://sspai.com/post/113990",
+          "author": "随便好啦",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "在 2026 年用一台 4:3 屏幕的 ThinkPad 是一种什么体验？查看全文",
+          "published_at": "2026-09-04T03:25:29"
+        },
+        {
           "title": "派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等",
           "url": "https://sspai.com/post/114164",
           "author": "少数派编辑部",
@@ -601,42 +582,6 @@
           "source": "少数派",
           "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@什么陈：洗手间置物架参考价 ...查看全文",
           "published_at": "2026-09-03T10:18:06"
-        },
-        {
-          "title": "TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验",
-          "url": "https://sspai.com/post/113998",
-          "author": "KingTsui",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "经过一个季度的使用，聊聊这个此前不会考虑其数码产品的品牌。查看全文",
-          "published_at": "2026-09-03T07:00:00"
-        },
-        {
-          "title": "当说起「Hi-Fi」时，我们到底在追求什么？",
-          "url": "https://sspai.com/post/113159",
-          "author": "DerQi",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "聊聊 Hi-Fi 这件事。查看全文",
-          "published_at": "2026-09-03T03:32:28"
-        },
-        {
-          "title": "派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等",
-          "url": "https://sspai.com/post/114113",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "World Labs 发布多模态世界模型 Atlas、阿里千问推出 Qwen3.8-Max-0902 等。查看全文",
-          "published_at": "2026-09-03T00:31:14"
-        },
-        {
-          "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
-          "url": "https://sspai.com/post/114084",
-          "author": "Vanilla",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "上周，Apple公布了今年秋季发布会的时间和主题，这场名为「Surpriseandshine」的发布会将于北京时间9月10日凌晨一点在ApplePark举行。与过去两年的秋季发布会不同，今年的「科技春 ...查看全文",
-          "published_at": "2026-09-02T09:40:56"
         }
       ]
     }
