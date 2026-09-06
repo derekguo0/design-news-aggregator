@@ -1,20 +1,20 @@
 {
   "date": "2026-09-06T00:00:00",
-  "total_items": 52,
+  "total_items": 50,
   "sources": [
-    "优设网",
-    "NN/g (Nielsen Norman Group)",
+    "Awwwards",
+    "UX Design CC",
     "人人都是产品经理",
     "UX Planet",
-    "Design Milk",
+    "Sidebar",
     "少数派",
-    "Awwwards",
-    "A List Apart",
     "Product Hunt",
-    "UX Design CC",
-    "Sidebar"
+    "优设网",
+    "Design Milk",
+    "A List Apart",
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2026-09-06T03:43:14.335055",
+  "generated_at": "2026-09-06T15:11:03.047270",
   "categories": [
     {
       "category": "用户体验设计",
@@ -150,49 +150,49 @@
           "published_at": "2026-09-03T13:00:29"
         },
         {
-          "title": "一个项目管理软件的诞生（十一）：企业级权限设计，谁能在什么条件下做什么",
-          "url": "https://www.woshipm.com/share/6457434.html",
-          "author": "AI产品零度",
+          "title": "AI互联网日报：千问开源Qwen-Drive/Kimi、MiniMax洽谈天猫开店/国内首款AI辅助创新药艾普司韦获批上市",
+          "url": "https://www.woshipm.com/ai/6460553.html",
+          "author": "AI星球",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "企业级权限的主干应是用户组加功能权限：先按职能建组、再在组上配功能权限，TAPD 式把成员管理与组权限分离，管理员才说得清每项权限来自哪里；属性与对象关系，只给少数需收窄的权限加条件。做内部项目管理平台时，权限最容易走偏的地方，不是少设计了一种模型，而是一上来就从复杂模型讲起。管理员真正面对的问题通常很朴素：测试人员应该能创建、编辑和流转缺陷，但要不要允许删除缺陷？能不能导出全部缺陷？他是否可以修...",
-          "published_at": "2026-09-06T01:53:20"
+          "summary": "一起来看看这两天发生的AI和互联网赛道的大事件吧！📌 今日AI互联网大事件速览1，OpenAI承认德国Wiki事故，将制定智能体失准披露框架2，《西雅图时报》和Newsday起诉OpenAI与Microsoft3，三名登山者依赖Gemini规划遇险，官方提醒勿把AI当唯一依据4，Microsoft用AI把WinUI原生应用开发压缩到30分钟5，Windows提出“无计量智能”，日常AI任务更多转向...",
+          "published_at": "2026-09-06T14:32:50"
         },
         {
-          "title": "苹果史上最惨失败：Pippin游戏主机为何只卖出4.2万台？",
-          "url": "https://www.woshipm.com/share/6459541.html",
-          "author": "李明Bright",
+          "title": "找到你的 Herbie：小企业如何用 AI 改造核心工作流",
+          "url": "https://www.woshipm.com/ai/6460410.html",
+          "author": "Jace在造",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "1996年，苹果与万代联合推出游戏主机Pippin，定价599美元、首发仅4款游戏，全球销量仅4.2万台，远逊索尼PlayStation。这场惨败揭示了价格、生态与定位对产品成败的决定性作用。今天聊苹果Pippin。你可能没听说过这个名字。但你大概率知道苹果App Store游戏年收入高达百亿美元——苹果是全世界最大的“隐形游戏巨头”。你也可能知道Mac、iPhone、iPad，知道苹果几乎做什么...",
-          "published_at": "2026-09-05T08:17:18"
+          "summary": "企业AI落地，别急着全员铺开。约束理论告诉我们，系统产出受限于瓶颈环节。本文从童子军Herbie的故事切入，教你如何识别真正的瓶颈、先减负再提效，让AI作用于杠杆最大的地方，实现工作流整体提速。Eliyahu M. Goldratt 在《The Goal》里讲过一个故事。一群童子军排成一列徒步。有人走得快，有人走得慢。队伍很快被拉长——走得快的人已经跑到前面，走得慢的人落在后面。看起来很多人在努力...",
+          "published_at": "2026-09-06T12:04:30"
         },
         {
-          "title": "GitHub 周报：科研、语音、SEO，一个清单看懂 14 个 AI 项目",
-          "url": "https://www.woshipm.com/ai/6460165.html",
-          "author": "逛逛GitHub",
+          "title": "一家机器人公司还没开始交付，为什么就值63亿美元？",
+          "url": "https://www.woshipm.com/embodied/6459461.html",
+          "author": "Tech后视镜",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "这是一篇周更式 GitHub 开源盘点：作者从本周 Trending 与社区热点中筛出 14 个项目，每个按 “是什么 → 能做什么 → 注意事项 → 开源地址” 的节奏介绍，可跳读、可收藏。按用途，本期项目可归为六类：科研与知识生产（01、05）：Scientific Agent Skills 把 160+ 科研技能与 100+ 科学数据库打包成 Agent 可调用的 Skill；中国专利 Sk...",
-          "published_at": "2026-09-05T08:07:54"
+          "summary": "小鹏机器人融资63亿美元，特斯拉、现代、宝马纷纷入局，人形机器人为何成了智能汽车公司的共同议题？本文拆解车企布局机器人的四种路径，分析造车经验能迁移多少，以及谁在认真做产品、谁在讲资本故事。8月24日，小鹏宣布机器人业务首轮融资超过9亿美元，投后估值超过63亿美元。与这个颇具冲击力的数字同时存在的，是另一组不那么醒目的事实：交易仍涉及后续交割安排，小鹏的IRON也还没有进入规模商业交付。换句话说，...",
+          "published_at": "2026-09-06T11:41:46"
         },
         {
-          "title": "对话 Cursor 人才负责人：迷信大厂Logo的AI团队，往往最先招到平庸的人",
-          "url": "https://www.woshipm.com/ai/6460154.html",
-          "author": "Z Finance",
+          "title": "实测GPT-6 Astra：曾经的那个OpenAI，回来了。",
+          "url": "https://www.woshipm.com/ai/6460269.html",
+          "author": "数字生命卡兹克",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "过去二十年，Adam Ward 几乎亲历了硅谷每一轮人才战争。他曾在 Facebook 领导覆盖十个办公室、65 名招聘官的全球团队，推动技术团队从约 1000 人扩张至超过 1 万人；此后又执掌 Pinterest 全球招聘，将公司从 200 人带到 2000 多人。后来，他联合创办精品招聘公司 Growth by Design，公司被 Cursor 全资收购，他也由此成为 Cursor 人才负...",
-          "published_at": "2026-09-05T07:33:31"
+          "summary": "GPT-6 Astra正式推送，OpenAI重回黄金时代！实测速度大幅提升、前端审美史诗级强化，一句话生成高精度3D模型惊艳全场。本文还分享了适配超级模型的AGENT.md优化策略，助你彻底释放新模型潜力。今天凌晨，GPT-6 Astra正式向所有订阅用户开始推送。不过这几天通宵的有点狠，我2点多就睡了，然后完美的错过了。。。一觉睡醒，已经是下午2点了，然后微信就炸了，一堆人还有群里都在问我，GP...",
+          "published_at": "2026-09-06T08:53:01"
         },
         {
-          "title": "微信AI“小微”PC版体验：这些功能没同步，小工具却藏着变化",
-          "url": "https://www.woshipm.com/ai/6460153.html",
-          "author": "产品笔记",
+          "title": "番茄钟已经有一万种，他只加了一只猫，8个月做到月入1.8万美元",
+          "url": "https://www.woshipm.com/chuangye/6457148.html",
+          "author": "张艾拉",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "刚打开电脑版微信，发现有一双眼睛注视着我。我去，这不是微信小微了，上 PC 版了。点开，可和小微进行互动。比如我问小微，PC 版上，它可以做什么。它回答，基本和手机端一样，帮你把微信里的各类事情都办了。和小微聊天中，支持各种文件的上传。但暂不支持视频的上传。如果你不想打字，也支持语音转文字。可以通过小微给好友发送消息、打语音、打视频等操作。但是手机端小微的一些功能， PC 端还不支持。比如不支持定...",
-          "published_at": "2026-09-05T07:32:19"
+          "summary": "Cat on Chair 给普通番茄钟加了只手绘猫，用收集、布置与陪伴感替代功能堆砌，8个月下载破12万、月入近1.8万美元。文章拆解设计师如何用 AI Coding 完成95%代码、把女友画的猫做成产品。今天这个产品我可太喜欢了，这个 App 的开发者如果看到这一篇请务必告诉我。这个 App，第一眼几乎不像一个值得创业的产品，它叫Cat on Chair，核心功能就是一个番茄钟。所谓番茄钟，就是...",
+          "published_at": "2026-09-06T07:21:39"
         }
       ]
     },
@@ -252,6 +252,15 @@
           "category": "网页设计",
           "source": "A List Apart",
           "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
+          "published_at": null
+        },
+        {
+          "title": "United Carriers",
+          "url": "https://www.awwwards.com/sites/united-carriers",
+          "author": "Bearplus",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
           "published_at": null
         },
         {
@@ -316,48 +325,21 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "HOBRO DIGITAL",
-          "url": "https://www.awwwards.com/sites/hobro-digital",
-          "author": "Hobro Digital",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 1,
       "items": [
         {
-          "title": "GitWarren",
-          "url": "https://www.producthunt.com/products/gitwarren",
-          "author": "Michał Wrzosek",
+          "title": "DocsAlot Visual Editor",
+          "url": "https://www.producthunt.com/products/docsalot-2",
+          "author": "faizan khan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Review code with your coding agents before committingDiscussion|Link",
-          "published_at": "2026-09-04T05:02:54"
-        },
-        {
-          "title": "Experiential Labs",
-          "url": "https://www.producthunt.com/products/experiential-labs",
-          "author": "Garry Tan",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Open source AI gateway turning traffic into a better modelDiscussion|Link",
-          "published_at": "2026-09-04T03:10:57"
-        },
-        {
-          "title": "Ponytail",
-          "url": "https://www.producthunt.com/products/ponytail",
-          "author": "Zac Zuo",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Make new code the last resortDiscussion|Link",
-          "published_at": "2026-09-04T14:18:13"
+          "summary": "Create beautiful docs, by typing. No AI required.Discussion|Link",
+          "published_at": "2026-09-04T21:26:52"
         }
       ]
     },
@@ -477,6 +459,15 @@
       "count": 6,
       "items": [
         {
+          "title": "让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游",
+          "url": "https://sspai.com/post/114076",
+          "author": "ElijahLee",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "对于使用AppleWatch游泳的人来说，记录一次游泳并不困难。在手表上打开体能训练App，选择开始游泳，结束后就能在Apple健身中看到完整的游泳表现，包括时间、距离、卡路里、配速、心率等数据。但真 ...查看全文",
+          "published_at": "2026-09-06T07:00:00"
+        },
+        {
           "title": "最值得买的顶级公路车？TREK 八代 Madone 评测",
           "url": "https://sspai.com/post/114040",
           "author": "写小黑文的Alex",
@@ -520,15 +511,6 @@
           "source": "少数派",
           "summary": "在 2026 年用一台 4:3 屏幕的 ThinkPad 是一种什么体验？查看全文",
           "published_at": "2026-09-04T03:25:29"
-        },
-        {
-          "title": "派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等",
-          "url": "https://sspai.com/post/114164",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Anthropic 升级 Claude Code 及 Cowork，微软调整 Xbox Cloud Gaming 商业模式等。查看全文",
-          "published_at": "2026-09-04T00:47:49"
         }
       ]
     }
