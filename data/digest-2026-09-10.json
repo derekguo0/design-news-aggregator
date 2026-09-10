@@ -2,25 +2,25 @@
   "date": "2026-09-10T00:00:00",
   "total_items": 66,
   "sources": [
-    "Intercom Blog",
-    "少数派",
-    "NN/g (Nielsen Norman Group)",
+    "优设网",
     "Design Milk",
     "UX Design CC",
-    "UX Planet",
-    "A List Apart",
-    "Awwwards",
-    "优设网",
-    "人人都是产品经理",
     "Sidebar",
+    "少数派",
+    "UX Planet",
+    "NN/g (Nielsen Norman Group)",
+    "人人都是产品经理",
+    "Product Hunt",
     "Smashing Magazine",
-    "Product Hunt"
+    "Awwwards",
+    "Intercom Blog",
+    "A List Apart"
   ],
-  "generated_at": "2026-09-10T03:51:26.847947",
+  "generated_at": "2026-09-10T16:04:36.534750",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 12,
+      "count": 13,
       "items": [
         {
           "title": "What Shakespeare got right about AI",
@@ -102,6 +102,15 @@
           "source": "UX Design CC",
           "summary": "What product teams should borrow from the people who want to take over the world.Continue reading on UX Collective »",
           "published_at": "2026-09-07T22:26:09"
+        },
+        {
+          "title": "Can GPT-6 Actually Do UX Design?",
+          "url": "https://uxplanet.org/can-gpt-6-actually-do-ux-design-1fe818e91794?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "GPT-6 Astra can create impressive prototypes. I’ve tested this AI model for creating mobile layouts:Continue reading on UX Planet »",
+          "published_at": "2026-09-10T14:43:34"
         },
         {
           "title": "GPT-6 Astra for Web Design",
@@ -194,8 +203,35 @@
     },
     {
       "category": "产品设计",
-      "count": 11,
+      "count": 12,
       "items": [
+        {
+          "title": "Emirates Fits Out a U.S. Open Suite With the Design Language of Its A380",
+          "url": "https://design-milk.com/emirates-a380-us-open-suite/",
+          "author": "Hayley Arsenault",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "The airline’s 15th year at the tournament brings cream leather, lacquered woodgrain, and the A380’s onboard bar to a nearly 1,600-square-foot suite inside Arthur Ashe Stadium",
+          "published_at": "2026-09-10T15:30:04"
+        },
+        {
+          "title": "Outside In and Nature of Things Rethink Beauty Retail in NYC",
+          "url": "https://design-milk.com/outside-in-nature-of-things-soho-fog-architecture/",
+          "author": "Design Milk Staff",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Designed by F.O.G. Architecture, the new Crosby Street destination brings beauty, fragrance, hospitality, and a hidden garden together through light and sensory experience",
+          "published_at": "2026-09-10T14:00:35"
+        },
+        {
+          "title": "Bvlgari’s Golden Serpent Slithers Onto New York’s High Line",
+          "url": "https://design-milk.com/bvlgari-auruboros-high-line-new-york/",
+          "author": "Design Milk Staff",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "A temporary installation by Berlin-based duo Plastique Fantastique turns the jewelry house’s familiar Serpenti motif into a monumental, air-filled intervention in the city",
+          "published_at": "2026-09-10T14:00:00"
+        },
         {
           "title": "Hollis+Morris Looks Beneath the Ice With Beaufort Lighting",
           "url": "https://design-milk.com/hollis-morris-beaufort-lighting-collection/",
@@ -224,25 +260,7 @@
           "published_at": "2026-09-08T17:34:08"
         },
         {
-          "title": "Evey Reorients the Familiar Montreal Triplex From the Inside Out",
-          "url": "https://design-milk.com/evey-appareil-architecture-montreal-triplex/",
-          "author": "Leo Lei",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Appareil Architecture works within a familiar Montreal housing typology, using sightlines, circulation, and a carefully considered extension to create a more open way of living",
-          "published_at": "2026-09-08T17:18:10"
-        },
-        {
-          "title": "Clap Studio Turns an Iconic Spanish Nightclub Into a Study in Pure Sound",
-          "url": "https://design-milk.com/clap-studio-spook-nightclub-valencia/",
-          "author": "Sophie Sobol",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Inside SPOOK, faceted acoustic forms, deep blue surfaces, and salvaged details transform a legendary rave room without erasing its history",
-          "published_at": "2026-09-08T15:51:30"
-        },
-        {
-          "title": "Announcing ‘The 2026 AI Sentiment Report’: How end users feel about AI Agents",
+          "title": "Announcing the 2026 AI Sentiment Report: How end users feel about AI Agents",
           "url": "https://www.intercom.com/blog/the-2026-ai-sentiment-report/",
           "author": "Maia Bridi",
           "category": "产品设计",
@@ -251,49 +269,49 @@
           "published_at": "2026-09-09T16:44:02"
         },
         {
-          "title": "让员工自费买AI的公司，已经输了",
-          "url": "https://www.woshipm.com/ai/6462090.html",
-          "author": "ToB老人家",
+          "title": "99%的商家都投错了小红书人群定向",
+          "url": "https://www.woshipm.com/share/6462936.html",
+          "author": "Vic的营销思考",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "一位粉丝吐槽公司不报销 AI 费用，只能用免费版，推理链一断就全是漏洞。算笔账：50 人研发团队每人每月 20 美元，一年不到 10 万，却可能换来十倍效率。作者直言，CEO 不亲自用 AI，才是企业转型失败的根源。一位粉丝发来消息，说公司不报销AI费用，自己舍不得买每月20美元的付费模型，只能用国产免费版，效果很烂。他说：做复杂任务时，免费版推理链容易断裂——要么跳步、要么漏掉关键条件。出来的内...",
-          "published_at": "2026-09-10T03:32:31"
+          "summary": "搜索品类词的用户真的属于你吗？当所有品牌都在争抢同一批决策人群，你的主力预算不过是在为竞品做嫁衣。本文拆解小红书定向的常见误区，提出从需求场景出发提前触达用户，用上下游推词和UGC洞察创造专属核心人群，让品牌成为用户心中的标准答案。前几天跟一个品牌聊合作聊到他们目前的投放情况，发现了一个比较大的问题他们目前的定向太单一了，主要投的就是搜索产品词的人比如做除湿机，就直接圈选在小红书搜「除湿机推荐」「...",
+          "published_at": "2026-09-10T09:49:12"
         },
         {
-          "title": "怎么用2-4个Agent，干一个真实项目？",
-          "url": "https://www.woshipm.com/ai/6462658.html",
-          "author": "产品方法论集散地",
+          "title": "实体门店业绩和客户增长策划的底层逻辑",
+          "url": "https://www.woshipm.com/share/6462933.html",
+          "author": "老陈的深度思考",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "用2-4个Agent并行推进HR SaaS系统CLI化改造，作者通过明确诉求、准备Context、反复调试三个环节闭环法，在Trae与QoderWork中分别完成产品规划、场景梳理、原型绘制与需求文档输出。如果你看过这个系列的前两篇，应该能拼出我一路走来的完整路径：从用1个Agent完成AI培训课程的全流程准备，到用1-2个Agent从0到1手搓一款产品，再到今天这篇——用2-4个Agent，干一...",
-          "published_at": "2026-09-10T03:29:02"
+          "summary": "实体门店做活动一停就跌，问题不在营销套路，而在基础竞争力。本文拆解业绩增长的底层逻辑：先通过市场、同行、客户、自身四项调研摸底，打磨产品、服务、体验与差异化价值，再设计流量与成交体系，让门店真正具备留客、复购和裂变的能力。很多实体门店做业绩增长、做活动策划，只盯着获客、成交、裂变这些表面方法，最后却发现：活动一做就有客流，活动一停生意就跌，效果根本留不住。其实真正能长久盈利的策划，核心逻辑非常简单...",
+          "published_at": "2026-09-10T09:47:47"
         },
         {
-          "title": "本地生活：旧模式越成功，转型反而越困难",
-          "url": "https://www.woshipm.com/share/6462671.html",
-          "author": "陈罡Pro",
+          "title": "AI长剧的尴尬：降本容易赚钱难",
+          "url": "https://www.woshipm.com/ai/6462878.html",
+          "author": "道总有理",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "本地生活赛道中，传统招商与轻连锁模式看似只是收费差异，实则塑造出截然不同的组织形态与能力壁垒。本文深度拆解两种模式如何通过收入来源决定资源流向、考核体系与核心团队，揭示企业转型的真正难点：旧模式越成功，转型越困难。看懂收入结构、资源流向、奖励机制与能力培养四重变化，才能判断转型是否真正落地。在本地生活里，同一个品类，往往会同时存在两种完全不同的公司。以肩颈理疗为例，一类品牌仍然按照传统招商模式发展...",
-          "published_at": "2026-09-10T02:58:12"
+          "summary": "AI长剧《后西游记》登陆卫视黄金档，收视夺冠、股价涨停，资本市场为之沸腾。然而，高收视背后是口碑争议与付费难题：AI能否真正讲好长故事？用户又是否愿意为AI剧集买单？本文从内容质量、商业模式与行业生态三重视角，拆解AI长剧的机遇与挑战。8月31日，一部没有任何真人演员的AI剧集—《后西游记》，进入了省级卫视的电视剧黄金档。该剧由芒果 TV 出品、芒果 TV AIGC 创新内容中心制作、伯璟文化承制...",
+          "published_at": "2026-09-10T09:20:29"
         },
         {
-          "title": "最新B 端 AI 热词 “本体”：是什么、为什么火、企业怎么落地，一文说清",
-          "url": "https://www.woshipm.com/ai/6462587.html",
-          "author": "嘻嘻李",
+          "title": "一个27岁的AI研究员从Anthropic辞职了，因为他担心AI会导致人类灭绝。",
+          "url": "https://www.woshipm.com/ai/6462888.html",
+          "author": "数字生命卡兹克",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AI从聊天问答走向任务执行，碎片化信息已不够用。本体作为描述业务世界的概念、关系与规则，正成为企业AI和Agent的关键基础设施。本文深入解析本体的定义、与知识图谱/ER图的区别，以及如何构建和维护，帮助AI真正理解业务全貌。最近做企业 AI、Agent 和知识库的人，可能会反复看到一个词：本体。本体是什么？这里的本体，和机器人身体里的 body 不是一回事。它来自哲学和知识工程里的 ontol...",
-          "published_at": "2026-09-10T02:53:27"
+          "summary": "前OpenAI与Anthropic核心预训练研究员Jacob Coxon辞职并公开警告：AI正冲向自我改进的超级智能，业内高层私下认为十年内人类灭绝概率超10%。本文借Tim Urban十一年前的《人工智能革命》框架，重审智能爆炸、DPU与智能阶梯，揭示我们已站在那条虚线之上。昨天呢，我在X上看到了一条流量已经过了1亿的帖子。讲道理，我在X上已经很久很久没有见过这种流量的帖子了。发帖的人叫Jaco...",
+          "published_at": "2026-09-10T09:02:26"
         },
         {
-          "title": "美团新上线的“闪电新品”藏了什么？30分钟送达的iPhone，和万亿增量！",
-          "url": "https://www.woshipm.com/share/6462628.html",
-          "author": "即时刘说",
+          "title": "从岚图汽车看数据架构演进：资产积累 → 全链路贯通 → 生态",
+          "url": "https://www.woshipm.com/share/6462872.html",
+          "author": "Victoria",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "美团闪购上线“闪电新品”专区，将即时零售的边界从快消品拓展至iPhone、华为手机、大疆相机等高价3C家电。速度只是入场券，正品保障、售后体系与用户信任才是真正的护城河。本文拆解万亿即时零售大盘中被忽视的6000亿增量，以及美团与京东在3C赛道上的正面交锋。9 月 8 日，界面新闻发布报道，美团闪购上线全新板块“闪电新品”专区。不过，我打开美团闪购并没有直接找到该专区，通过搜索 “闪电新品” 才找...",
-          "published_at": "2026-09-10T02:52:32"
+          "summary": "数字生态不是建出来的，而是长出来的。岚图汽车大数据专家雷亮东提出的“三步走”战略——数字资产积累、全价值链数据贯通、构建数字生态，为数字化产品经理提供了可复用的节奏感。本文结合数字孪生项目实战，拆解每一步的关键动作与常见陷阱，告诉你为什么数据能力建设跳不了级。在 2023 第二届汽车数字化转型大会上，岚图汽车大数据专家雷亮东抛出的这句话，值得每一位做数字化产品的经理人反复琢磨。我之所以对它有共鸣，...",
+          "published_at": "2026-09-10T08:13:50"
         }
       ]
     },
@@ -365,6 +383,15 @@
           "published_at": null
         },
         {
+          "title": "Cerebrium",
+          "url": "https://www.awwwards.com/sites/cerebrium",
+          "author": "Louis Paquet",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "USAvionix",
           "url": "https://www.awwwards.com/sites/usavionix",
           "author": "basement studio",
@@ -426,66 +453,39 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Paul Kalkbrenner",
-          "url": "https://www.awwwards.com/sites/paul-kalkbrenner",
-          "author": "HOLOGRAPHIK",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 3,
       "items": [
         {
-          "title": "Ass Auction",
-          "url": "https://www.producthunt.com/products/ass-auction",
-          "author": "Mahdi Farra",
+          "title": "Wealthfolio",
+          "url": "https://www.producthunt.com/products/wealthfolio",
+          "author": "FADIL",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Brands outbid each other to put their logo on my assDiscussion|Link",
-          "published_at": "2026-09-08T08:30:13"
+          "summary": "Private, local-first personal financeDiscussion|Link",
+          "published_at": "2026-09-07T20:39:17"
         },
         {
-          "title": "Basedash in Español Français & Português",
-          "url": "https://www.producthunt.com/products/basedash",
-          "author": "Max Musing",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Work with your data in your languageDiscussion|Link",
-          "published_at": "2026-09-08T21:43:49"
-        },
-        {
-          "title": "Type.com",
-          "url": "https://www.producthunt.com/products/type-com",
-          "author": "Fletcher Richman",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "A shared workspace for Claude, Codex, and your teamDiscussion|Link",
-          "published_at": "2026-09-09T03:54:10"
-        },
-        {
-          "title": "Muse by Meta",
-          "url": "https://www.producthunt.com/products/muse-22",
-          "author": "Chris Messina",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Your personal AI agent that gets things doneDiscussion|Link",
-          "published_at": "2026-09-08T19:10:38"
-        },
-        {
-          "title": "ChatGPT Images 2.5",
-          "url": "https://www.producthunt.com/products/openai",
+          "title": "AirPods 5",
+          "url": "https://www.producthunt.com/products/apple",
           "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Sharper visuals, faster flow, better creative controlDiscussion|Link",
-          "published_at": "2026-09-08T19:47:45"
+          "summary": "1.5x Active Noise Cancellation, AI Siri, Live TranslationDiscussion|Link",
+          "published_at": "2026-09-09T21:18:06"
+        },
+        {
+          "title": "Modeinspect",
+          "url": "https://www.producthunt.com/products/modeinspect-1-0",
+          "author": "Alex",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "99 Days Free AI Credits - Design product UI in your codebaseDiscussion|Link",
+          "published_at": "2026-09-10T03:31:49"
         }
       ]
     },
@@ -605,6 +605,15 @@
       "count": 6,
       "items": [
         {
+          "title": "App+1｜下一节：教学工作紧张忙碌，下一节课从从容容",
+          "url": "https://sspai.com/post/114384",
+          "author": "Tao_Sway",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "祝每一位老师教师节快乐！查看全文",
+          "published_at": "2026-09-10T06:51:52"
+        },
+        {
           "title": "派早报：Apple 发布 iPhone Duo 折叠屏等",
           "url": "https://sspai.com/post/114394",
           "author": "少数派编辑部",
@@ -648,15 +657,6 @@
           "source": "少数派",
           "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
           "published_at": "2026-09-09T07:03:35"
-        },
-        {
-          "title": "Velastar：喜欢仰望星空的你，有了一个探索异星的新选择",
-          "url": "https://sspai.com/post/113668",
-          "author": "Tolecen",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "published_at": "2026-09-09T03:00:48"
         }
       ]
     }
