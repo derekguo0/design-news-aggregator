@@ -1,26 +1,26 @@
 {
   "date": "2026-09-11T00:00:00",
-  "total_items": 67,
+  "total_items": 69,
   "sources": [
-    "A List Apart",
-    "UX Design CC",
-    "Sidebar",
-    "Awwwards",
-    "人人都是产品经理",
-    "Design Milk",
     "少数派",
-    "UX Planet",
-    "Smashing Magazine",
     "Intercom Blog",
-    "NN/g (Nielsen Norman Group)",
+    "Sidebar",
     "优设网",
-    "Product Hunt"
+    "Product Hunt",
+    "Smashing Magazine",
+    "人人都是产品经理",
+    "UX Planet",
+    "Design Milk",
+    "Awwwards",
+    "NN/g (Nielsen Norman Group)",
+    "UX Design CC",
+    "A List Apart"
   ],
-  "generated_at": "2026-09-11T03:47:43.017932",
+  "generated_at": "2026-09-11T16:08:23.524525",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 13,
+      "count": 14,
       "items": [
         {
           "title": "8 voice AIUX patterns",
@@ -28,7 +28,7 @@
           "author": "Sharang Sharma",
           "category": "用户体验设计",
           "source": "UX Design CC",
-          "summary": "Mapping emerging Voice AI UI patterns, perceived agent roles, key design decisions and limitationsRadio Rex (1922)was the first voice-activated toy ever sold. Rex the dog lived in a little doghouse he...",
+          "summary": "8 voice AI UX patternsMapping emerging Voice AI UX patterns, perceived agent roles, key design decisions and limitationsRadio Rex (1922)was the first voice-activated toy ever sold. Rex the dog lived i...",
           "published_at": "2026-09-10T22:40:55"
         },
         {
@@ -41,12 +41,12 @@
           "published_at": "2026-09-10T22:39:57"
         },
         {
-          "title": "Death of the iPod",
+          "title": "Death of the iPod?",
           "url": "https://uxdesign.cc/death-of-the-ipod-1f22d3d1d065?source=rss----138adf9c44c---4",
           "author": "Neel Dozome",
           "category": "用户体验设计",
           "source": "UX Design CC",
-          "summary": "The hacks that made chip-stored sound a standard feature of digital interactionContinue reading on UX Collective »",
+          "summary": "The hacks that made chip-derived sound a standard feature of digital interactionContinue reading on UX Collective »",
           "published_at": "2026-09-10T22:38:24"
         },
         {
@@ -111,6 +111,15 @@
           "source": "UX Design CC",
           "summary": "What a 1980s photocopier study reveals about the Agentic UX eraA mixed-media recreation of a field observation at Bossa Nova Robotics, where a shopper attempts to scan a container of blueberries again...",
           "published_at": "2026-09-08T20:34:18"
+        },
+        {
+          "title": "Design Critique with Claude Code",
+          "url": "https://uxplanet.org/design-critique-with-claude-code-7628e74f95a1?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Claude Code can be used not only to create product prototypes but also to critique design. In this article, I will share everything you…Continue reading on UX Planet »",
+          "published_at": "2026-09-11T10:11:50"
         },
         {
           "title": "Can GPT-6 Actually Do UX Design?",
@@ -206,6 +215,15 @@
       "count": 12,
       "items": [
         {
+          "title": "Nicole Alexander Shares 5 Siren Betty Projects Full of Personality",
+          "url": "https://design-milk.com/nicole-alexander-siren-betty-friday-five/",
+          "author": "Anna Zappia",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "From a nostalgic Italian-American restaurant to a former bank turned neighborhood bar, the Siren Betty founder shares five projects that capture her studio’s layered approach to interiors",
+          "published_at": "2026-09-11T13:00:35"
+        },
+        {
           "title": "Lang Architecture Reimagines Art Deco in an East Village Apartment",
           "url": "https://design-milk.com/lang-architecture-east-village-apartment/",
           "author": "Leo Lei",
@@ -251,15 +269,6 @@
           "published_at": "2026-09-09T17:13:51"
         },
         {
-          "title": "Sana Skin Studio Finds Calm in the Heart of Wynwood",
-          "url": "https://design-milk.com/sana-skin-studio-wynwood-michael-dolatowski/",
-          "author": "Anna Zappia",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Michael Dolatowski refines the skincare brand’s design language with sculptural forms, a restrained material palette, and an interior conceived as one continuous space",
-          "published_at": "2026-09-09T13:00:00"
-        },
-        {
           "title": "Announcing the 2026 AI Sentiment Report: How end users feel about AI Agents",
           "url": "https://www.intercom.com/blog/the-2026-ai-sentiment-report/",
           "author": "Maia Bridi",
@@ -269,56 +278,65 @@
           "published_at": "2026-09-09T16:44:02"
         },
         {
-          "title": "WorkBuddy越来越像QQ了！",
-          "url": "https://www.woshipm.com/ai/6463309.html",
-          "author": "老曹",
+          "title": "社群活跃不是靠发红包，而是靠“人、仪式、价值、节奏”",
+          "url": "https://www.woshipm.com/share/6462779.html",
+          "author": "刘志兴",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "最近更新WorkBuddy的时候，我发现它的画风开始有点不对了。不是模型又升级了，也不是多了一个 Agent。换皮肤了而是——它开始可以。在 WorkBuddy 的“外观”设置里，现在除了最基础的浅色、深色主题，还出现了张韶涵联名、《和平精英》联动、“经典 QQ”等一批明显带有 IP 属性的主题。最近已有用户发现，WorkBuddy 集中上线了一批官方主题，开始把明星、游戏和经典 QQ 元素搬进 ...",
-          "published_at": "2026-09-11T03:39:24"
+          "summary": "把社群活跃拆成聚对人、给仪式、做价值、控节奏四块，说明第一批用户为什么决定社群基因、入群仪式如何建立信任、内容人脉资源三类价值与精神激励的作用，以及固定节奏互动和线下活动对活跃度的意义。很多人做社群，一上来就是拉人、发资料、发红包，三板斧用完群就凉了。现在很多微信上的群也基本都是这样：刚成立时热闹三天，随后进入漫长的静默期，管理员每天在群里自言自语，最后变成只发通知的广告群。其实社群活跃这件事，本...",
+          "published_at": "2026-09-11T09:32:38"
         },
         {
-          "title": "不用刷照片，也不用聊天，这个 AI 每周三晚上 7点直接给你安排一场约会",
-          "url": "https://www.woshipm.com/ai/6462301.html",
-          "author": "张艾拉",
+          "title": "“美国版豆包”又更新了",
+          "url": "https://www.woshipm.com/ai/6463492.html",
+          "author": "AI星球",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "美国两个伯克利辍学生做的 Ditto 干脆删掉照片流和滑动匹配，只靠 iMessage 收需求，每周三晚 7 点直接给你安排一场约会。它挑战的是约会 App 十几年的默认设定：该让你多用，还是尽快送你去现实。过去十几年，约会 App 已经形成了一套非常成熟的产品逻辑。先给你看照片，喜欢就右滑，不喜欢就左滑；匹配之后再聊天，聊得不错再约时间，最后才有可能真正见面。Tinder、Bumble、Hing...",
-          "published_at": "2026-09-11T03:25:55"
+          "summary": "最近，那个经常被国内网友调侃成“美国版豆包”的 Gemini，终于把 Windows 客户端端上来了。Google现在已经正式上线Gemini Desktop，Windows和macOS都可以下载安装。Windows用户按下 Alt + Space，就能在任何界面直接唤起Gemini，不用再专门打开浏览器；它还能连接Gmail、Google Drive、Docs和Calendar，把邮件、文档和日...",
+          "published_at": "2026-09-11T08:08:47"
         },
         {
-          "title": "Meta新模型翻身，AI能替小扎挣钱了吗？",
-          "url": "https://www.woshipm.com/ai/6460719.html",
-          "author": "深流研究所",
+          "title": "Codex，差点把我搞疯！！！",
+          "url": "https://www.woshipm.com/ai/6462266.html",
+          "author": "运营官张沐",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Meta 砸下千亿美元追赶 AI，新模型 Muse Spark 1.3 终于跻身第一梯队，但小扎的算盘不止于卖模型。本文拆解 Meta 如何用 AI 反哺广告业务、构建算力出租与硬件后手，揭示应用层公司 AI 投入的隐秘回报逻辑。扎克伯格终于可以松一口气了。砸了这么多钱，Meta的AI模型总算追上来了。前天，Meta发布新模型Muse Spark 1.3。在Artificial Analysis的...",
-          "published_at": "2026-09-11T03:07:47"
+          "summary": "Codex 6.0 的编码能力虽强，但产品上线时被资源消耗、Docker 打包和部署耗时折腾得够呛。从 5.6 切换到 6.0 后，排查一次问题就能吃掉 5 小时额度，Windows 本地开发到 Linux 云端部署更是频频踩坑。Codex编码能力是一绝，根本没啥问题，但是在我最近产品上线的过程中，Codex的问题频出，让我应接不暇。不知道你有没有同款问题。第一：资源消耗问题最近我把codex的模...",
+          "published_at": "2026-09-11T07:55:46"
         },
         {
-          "title": "“用户行为分析”的标准答案，看完直接套用",
-          "url": "https://www.woshipm.com/share/6463285.html",
-          "author": "接地气的陈老师",
+          "title": "模型发布比快递还快，AI产品经理该怎么选",
+          "url": "https://www.woshipm.com/ai/6462785.html",
+          "author": "AI产品经理Echo",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "把用户行为数据丢给 AI，几秒就能生成一份看似全面的报告，但数字背后的业务价值却常常让人一头雾水。本文系统拆解用户行为的 6 要素与 4 类业务需求场景，教你如何从模糊需求中剥洋葱般找到真问题，让数据分析真正驱动业务行动。“我们有很多用户数据，可到底该怎么分析呢？”很多人有类似疑问。现在这问题更常见——把用户行为数据丢给 AI，几秒吐回一份”用户画像+活跃漏斗+行为路径”报告，看着很全，但又看不出...",
-          "published_at": "2026-09-11T03:07:30"
+          "summary": "针对四家厂商四天内接连更新旗舰模型带来的选型压力，给出四点建议：场景匹配度优先于排行榜名次、建立自己的内部评估基准、按总拥有成本而不是 API 单价算账、把安全与合规放在接入之前完成。9 月初 AI 行业迎来一轮密集迭代。9 月 1–3 日，Anthropic、Google、Meta、OpenAI 四大厂商接连推出新一代旗舰大模型，形成一轮短期 “模型军备竞赛”；Meta Muse Spark 1...",
+          "published_at": "2026-09-11T07:49:01"
         },
         {
-          "title": "AI 接单最该补的，其实不是技术",
-          "url": "https://www.woshipm.com/ai/6461561.html",
-          "author": "子文",
+          "title": "广告投放这件事，正在变成一条AI流水线",
+          "url": "https://www.woshipm.com/ai/6463289.html",
+          "author": "卫夕",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "那些真接到了第一单的人，往往不是工具最多的人。文章指出，做 AI 接单要先找到具体麻烦、做出能演示的最小成品、敢开口找客户，这三点才是拉开差距的关键，别陷入永远学习的拖延。这几天翻后台留言，有人来报喜，说照着做了，真接到了第一单，钱不多，但心里踏实。更多的人是另一种状态：教程收藏了几十篇，工具也下了一堆，真问到动手，就卡住了，不知道从哪儿下手。按理说，后一种人其实更用功。他们看的东西、用的工具，跟...",
-          "published_at": "2026-09-11T02:05:10"
+          "summary": "素材磨损效应把信息流广告的寿命压到几天，投放团队的瓶颈从花钱变成了创意产能。本文呢借百度营销发布会上的擎舵3.0、AIMax与AI投放助手，分享这套组合如何把拍素材、买量、调优连成一条AI流水线，也讲了它凭什么敢说比人类设计师更适合做广告素材。01我以前做广告产品经理和很多优化师交流时，他们一个很大的困扰是：素材衰退速度，永远比素材生产速度快。老外把这个叫做Wear-out Effect，素材磨损...",
+          "published_at": "2026-09-11T07:16:04"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 15,
+      "count": 16,
       "items": [
+        {
+          "title": "Building A UX ROI Case That Survives The Boardroom",
+          "url": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
+          "author": "hello@smashingmagazine.com (Alex Williams)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for ...",
+          "published_at": "2026-09-11T13:00:00"
+        },
         {
           "title": "The Death Of The Button: Why The Best Interface Is No Interface",
           "url": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
@@ -383,6 +401,15 @@
           "published_at": null
         },
         {
+          "title": "White Desert",
+          "url": "https://www.awwwards.com/sites/white-desert",
+          "author": "Malvah",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Cerebrium",
           "url": "https://www.awwwards.com/sites/cerebrium",
           "author": "Louis Paquet",
@@ -444,15 +471,6 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Trevor Noah",
-          "url": "https://www.awwwards.com/sites/trevor-noah",
-          "author": "OFF+BRAND.",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -461,40 +479,40 @@
       "count": 4,
       "items": [
         {
-          "title": "iPhone Duo",
-          "url": "https://www.producthunt.com/products/apple",
-          "author": "Chris Messina",
+          "title": "LiveGrid",
+          "url": "https://www.producthunt.com/products/livegrid-4",
+          "author": "LUCAS ANDRADE",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The largest iPhone display ever. In a thin, foldable design.Discussion|Link",
-          "published_at": "2026-09-09T20:11:16"
+          "summary": "Watch multiple live streams at once, never miss a thingDiscussion|Link",
+          "published_at": "2026-09-11T04:01:14"
         },
         {
-          "title": "Vibe Eyes",
-          "url": "https://www.producthunt.com/products/vibe-eyes",
-          "author": "Vibe Eyes",
+          "title": "Accordio",
+          "url": "https://www.producthunt.com/products/accordio",
+          "author": "Roma Bors",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Put your pets in your macOS menu barDiscussion|Link",
-          "published_at": "2026-09-09T19:08:08"
+          "summary": "Give Claude your hours, invoices and contractsDiscussion|Link",
+          "published_at": "2026-09-11T00:18:55"
         },
         {
-          "title": "Modeinspect",
-          "url": "https://www.producthunt.com/products/modeinspect-1-0",
-          "author": "Alex",
+          "title": "Cline Desktop App",
+          "url": "https://www.producthunt.com/products/cline-4",
+          "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "99 Days Free AI Credits - Design product UI in your codebaseDiscussion|Link",
-          "published_at": "2026-09-10T03:31:49"
+          "summary": "An open-source app for open-weight modelsDiscussion|Link",
+          "published_at": "2026-09-08T14:26:09"
         },
         {
-          "title": "Speechmark",
-          "url": "https://www.producthunt.com/products/speechmark",
-          "author": "Nitin Hayaran",
+          "title": "Sliick",
+          "url": "https://www.producthunt.com/products/sliick",
+          "author": "Charlie Clark",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Private, on-device meeting notes for MacDiscussion|Link",
-          "published_at": "2026-09-08T17:47:27"
+          "summary": "Free 3D mockups for your screenshots and videosDiscussion|Link",
+          "published_at": "2026-09-08T03:15:57"
         }
       ]
     },
@@ -614,6 +632,42 @@
       "count": 6,
       "items": [
         {
+          "title": "本周看什么 | 最近值得一看的 7 部作品",
+          "url": "https://sspai.com/post/114458",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "📅本周新预告《哥斯拉-0.0》正式预告9月8日，电影《哥斯拉-0.0》发布了正式预告，将于11月3日在日本上映、11月6日在北美上映。山崎贵回归担任导演、编剧和特效总监，神木隆之介、滨边美波回归出演， ...查看全文",
+          "published_at": "2026-09-11T10:02:49"
+        },
+        {
+          "title": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
+          "url": "https://sspai.com/post/114449",
+          "author": "宛潼",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "新品尚未发货，我们继续整理了一些发布会中未提及的细节，不妨一起来看看有没有你感兴趣的。查看全文",
+          "published_at": "2026-09-11T08:30:00"
+        },
+        {
+          "title": "「正常」已是不易：聊聊不那么标新立异的理想 i6",
+          "url": "https://sspai.com/post/113605",
+          "author": "别惹小炸毛",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "如果你想买一辆能够长期持有、同时又足够「正常」的新能源车，我还是非常推荐去试试理想 i6。查看全文",
+          "published_at": "2026-09-11T06:50:20"
+        },
+        {
+          "title": "新 iPhone 配件精选：多种组合一次配齐",
+          "url": "https://sspai.com/post/114414",
+          "author": "什么陈",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "iPhone18Pro/ProMax即将开售，这次我们围绕新iPhone准备了几种常用配件，并整理成了五种配件组合，覆盖机身防护、充电、数据连接和磁吸支撑。其中，日常防护组合优惠29元，防护充电组合优 ...查看全文",
+          "published_at": "2026-09-11T04:00:00"
+        },
+        {
           "title": "派早报：商务部回应美国 AI 蒸馏指控",
           "url": "https://sspai.com/post/114439",
           "author": "少数派编辑部",
@@ -630,42 +684,6 @@
           "source": "少数派",
           "summary": "祝每一位老师教师节快乐！查看全文",
           "published_at": "2026-09-10T06:51:52"
-        },
-        {
-          "title": "派早报：Apple 发布 iPhone Duo 折叠屏等",
-          "url": "https://sspai.com/post/114394",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "奥之心发布 OM SYSTEM PEN 相机、Sonos 更新音频系统等。查看全文",
-          "published_at": "2026-09-09T22:38:42"
-        },
-        {
-          "title": "一图流 | 一张图带你看完 2026 Apple 秋季发布会",
-          "url": "https://sspai.com/post/114393",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra 4 以及 AirPods 5 系列。查看全文",
-          "published_at": "2026-09-09T21:30:34"
-        },
-        {
-          "title": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
-          "url": "https://sspai.com/post/114392",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra 4 以及 AirPods 5 系列。查看全文",
-          "published_at": "2026-09-09T21:21:18"
-        },
-        {
-          "title": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年",
-          "url": "https://sspai.com/post/114366",
-          "author": "北鸮",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "为啥那么多人喜欢大手机呢？既然上了 70 mm 我都握不住，要不买个 Pro Max 试试？查看全文",
-          "published_at": "2026-09-09T09:30:00"
         }
       ]
     }
