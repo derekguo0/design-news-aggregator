@@ -1,22 +1,22 @@
 {
   "date": "2026-09-12T00:00:00",
-  "total_items": 65,
+  "total_items": 67,
   "sources": [
-    "Design Milk",
-    "Smashing Magazine",
-    "Product Hunt",
-    "UX Design CC",
-    "A List Apart",
     "优设网",
-    "Intercom Blog",
-    "少数派",
-    "人人都是产品经理",
-    "NN/g (Nielsen Norman Group)",
-    "Awwwards",
     "Sidebar",
-    "UX Planet"
+    "Product Hunt",
+    "Intercom Blog",
+    "A List Apart",
+    "Smashing Magazine",
+    "NN/g (Nielsen Norman Group)",
+    "UX Planet",
+    "UX Design CC",
+    "Design Milk",
+    "少数派",
+    "Awwwards",
+    "人人都是产品经理"
   ],
-  "generated_at": "2026-09-12T03:51:05.554314",
+  "generated_at": "2026-09-12T15:16:01.784327",
   "categories": [
     {
       "category": "用户体验设计",
@@ -260,49 +260,49 @@
           "published_at": "2026-09-09T16:44:02"
         },
         {
-          "title": "百度又一款明星APP即将消失",
-          "url": "https://www.woshipm.com/ai/6463731.html",
-          "author": "人人都是产品经理",
+          "title": "对话OpenAI产品设计负责人：只会往聊天框里堆功能的产品设计师，只是在假装做AI产品",
+          "url": "https://www.woshipm.com/ai/6463881.html",
+          "author": "Z Finance",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "今天打开百家号，看到了一则改版通知。从9月22日起，原来的百家号APP将更名为“百度直播伴侣”，以后主要提供直播相关功能。至于过去在百家号APP里发文章、发视频、管理内容这些事情，则被整合进百度APP里的“创作中心”。账号还在，历史内容还在，粉丝和收益也都不会受到影响。所以严格来说，百家号并没有消失。但那个我们用了很多年的“百家号APP”作为一个独立的创作入口，基本算是要退出历史舞台了。看到这个通...",
-          "published_at": "2026-09-12T03:12:24"
+          "summary": "当工程师借助 AI 更快地写出代码，产品设计却成了科技行业里最焦虑的一群人。工具扩大了他们的能力，也让组织对他们的期待变得模糊。OpenAI 产品设计负责人 Ian Silber 对此给出了一个乐观的判断：现在可能是做设计师最好的时候。他曾在 Instagram 工作八年，经历过 IGTV 的失败和 Reels 的成功。加入 OpenAI 三年后，他面对的是另一类设计难题——同一个产品，既要帮助普...",
+          "published_at": "2026-09-12T13:40:59"
         },
         {
-          "title": "为什么说实体行业最先改变的只能是获客结构",
-          "url": "https://www.woshipm.com/share/6462678.html",
-          "author": "陈罡Pro",
+          "title": "中医馆连锁化率8.6%：用RACI矩阵拆解一个传统行业的组织设计",
+          "url": "https://www.woshipm.com/pd/6463416.html",
+          "author": "心明企业增长实验室",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当内容平台杀入本地生活，实体行业的获客逻辑正在被重写。抖音的全国流量分发让门店突破服务半径，但流量狂欢背后，履约能力才是真正的生死线。本文深度拆解从搜索到内容、从单店到总部的获客结构变迁，揭示线上流量如何转化为实体门店的长期生意。实体行业的发展，长期被线性增长所锁死。把餐饮、洗车、维修、美业和大健康放在一起看，行业差别很大，经营上受到的限制却很接近。一家餐厅想多接待顾客，要增加餐位和服务人员。洗车...",
-          "published_at": "2026-09-12T03:04:09"
+          "summary": "中医馆连锁化率仅8.6%，组织混乱成为扩张最大瓶颈。本文以12家客户调研为基础，拆解固生堂、圣爱中医的RACI实战案例，揭示创始人集权、医生挑客、销售单一三大坑，并给出跨行业迁移启示，为传统行业管理者与产品经理提供一套可落地的组织设计方法论。一、开场：一个真实的中医馆会议室我服务的第8家中医馆客户，开周会的时候出了这么一幕：老板坐在主位，问馆长：”上周获客情况怎么样？”馆长说：”还行，来了20多个...",
+          "published_at": "2026-09-12T09:16:01"
         },
         {
-          "title": "一个项目管理软件的诞生（十四）：项目管理平台如何接入 AI 工作流，从需求到交付形成闭环",
-          "url": "https://www.woshipm.com/pd/6462957.html",
-          "author": "AI产品零度",
+          "title": "拆解AI产品商业模式：别迷信技术，这才是真相！",
+          "url": "https://www.woshipm.com/ai/6385587.html",
+          "author": "造梦产品论",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI 已经进入编码、测试等环节，但项目仍靠人搬运上下文、确认结果和手工对账。文章把自动化、Agent 与 AI 工作流分开，用工作流定义、业务绑定、上下文快照、执行实例、步骤与检查点、结果与证据六类对象，把业务承诺变成可运行、可验收的执行链。一个需求已经评审通过，产品经理在项目管理软件里把它推进“待开发”。研发打开编码 Agent，把需求描述复制进去；Agent 生成代码以后，研发再去代码平台创建...",
-          "published_at": "2026-09-12T01:26:21"
+          "summary": "AI市场正从炫技时代转向生意时代，能赚钱的AI才是好产品。本文深入剖析四种主流商业模式，提出AI产品三观与三大内核，并给出创业者的灵魂三问，为AI创业者提供从定位到壁垒的完整思考框架。字节将飞书产品团队、TRAE及扣子（Coze）团队全面并入豆包工作，阿里将原有的QoderWork、悟空（Wukong）及MuleRun并入千问办公，腾讯旗下的WorkBuddy则另辟蹊径，在全场景AI办公工作台的定...",
+          "published_at": "2026-09-12T08:23:50"
         },
         {
-          "title": "社群活跃不是靠发红包，而是靠“人、仪式、价值、节奏”",
-          "url": "https://www.woshipm.com/share/6462779.html",
-          "author": "刘志兴",
+          "title": "AI、产业升级与普通人的成长困境",
+          "url": "https://www.woshipm.com/share/6463657.html",
+          "author": "做产品的小芳",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "把社群活跃拆成聚对人、给仪式、做价值、控节奏四块，说明第一批用户为什么决定社群基因、入群仪式如何建立信任、内容人脉资源三类价值与精神激励的作用，以及固定节奏互动和线下活动对活跃度的意义。很多人做社群，一上来就是拉人、发资料、发红包，三板斧用完群就凉了。现在很多微信上的群也基本都是这样：刚成立时热闹三天，随后进入漫长的静默期，管理员每天在群里自言自语，最后变成只发通知的广告群。其实社群活跃这件事，本...",
-          "published_at": "2026-09-11T09:32:38"
+          "summary": "AI浪潮正以不可逆之势重塑职场格局，压缩年轻人的成长路径，让“可替代性”成为悬在每个行业头顶的利剑。本文从产业升级的宏观视角切入，剖析功能型岗位的崩盘趋势与能力要求的内卷升级，揭示资本逐利下普通人的价值困境，并指出资深从业者反而迎来新机遇。犀利观点，直击时代痛点。AI的发展，一定程度上来说，压缩了年轻人的成长机会，让有机会成长这件事本身变得越来越难。因为从可替代性和提升效率的角度来说，所有行业做不...",
+          "published_at": "2026-09-12T07:11:24"
         },
         {
-          "title": "“美国版豆包”又更新了",
-          "url": "https://www.woshipm.com/ai/6463492.html",
-          "author": "AI星球",
+          "title": "模型越聪明，为什么 Prompt 和 Skill 越要做减法？",
+          "url": "https://www.woshipm.com/ai/6463672.html",
+          "author": "小霖AI",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "最近，那个经常被国内网友调侃成“美国版豆包”的 Gemini，终于把 Windows 客户端端上来了。Google现在已经正式上线Gemini Desktop，Windows和macOS都可以下载安装。Windows用户按下 Alt + Space，就能在任何界面直接唤起Gemini，不用再专门打开浏览器；它还能连接Gmail、Google Drive、Docs和Calendar，把邮件、文档和日...",
-          "published_at": "2026-09-11T08:08:47"
+          "summary": "随着模型能力跃升，Claude Code 删除80%系统提示词，GPT-6 Astra 对指令更敏感，Prompt 与 Skill 的旧规则正从帮助变为负担。本文结合实测数据与专家观点，拆解哪些指令该留、哪些该删，教你为 AI 工作流科学瘦身。2026 年，Claude Code 的创造者 Boris Cherny 在 Y Combinator 的一次公开对谈里提到：为了适配新一代模型 Opus ...",
+          "published_at": "2026-09-12T06:40:15"
         }
       ]
     },
@@ -383,6 +383,15 @@
           "published_at": null
         },
         {
+          "title": "Warm & Fuzzy",
+          "url": "https://www.awwwards.com/sites/warm-fuzzy",
+          "author": "Neutral Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "White Desert",
           "url": "https://www.awwwards.com/sites/white-desert",
           "author": "Malvah",
@@ -444,39 +453,48 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Illoca",
-          "url": "https://www.awwwards.com/sites/illoca",
-          "author": "Unseen Studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 4,
       "items": [
         {
-          "title": "Jackalope",
-          "url": "https://www.producthunt.com/products/jackalope",
-          "author": "Caden Sumner",
+          "title": "VoxelWall",
+          "url": "https://www.producthunt.com/products/voxelwall",
+          "author": "Eric Liew",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Codex, Claude Code, Grok, + OpenCode in one shared workspaceDiscussion|Link",
-          "published_at": "2026-09-10T22:46:57"
+          "summary": "Music-reactive live wallpapers for MacDiscussion|Link",
+          "published_at": "2026-09-10T06:29:28"
         },
         {
-          "title": "LiveGrid",
-          "url": "https://www.producthunt.com/products/livegrid-4",
-          "author": "LUCAS ANDRADE",
+          "title": "Calerto for Mac",
+          "url": "https://www.producthunt.com/products/calerto-meeting-alarms",
+          "author": "rohit jindal",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Watch multiple live streams at once, never miss a thingDiscussion|Link",
-          "published_at": "2026-09-11T04:01:14"
+          "summary": "Full-screen meeting alerts for your MacDiscussion|Link",
+          "published_at": "2026-09-10T06:14:32"
+        },
+        {
+          "title": "Wokyintosh",
+          "url": "https://www.producthunt.com/products/wokyintosh",
+          "author": "Salar Farahani",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Turn a spare Mac display into a retro system dashboard!Discussion|Link",
+          "published_at": "2026-09-09T11:44:38"
+        },
+        {
+          "title": "SUDARI",
+          "url": "https://www.producthunt.com/products/sudari",
+          "author": "Jacob",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "A pixel otter desktop pet that reacts to how you workDiscussion|Link",
+          "published_at": "2026-09-11T06:18:58"
         }
       ]
     },
@@ -596,6 +614,15 @@
       "count": 6,
       "items": [
         {
+          "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
+          "url": "https://sspai.com/post/114461",
+          "author": "程天冲",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "published_at": "2026-09-12T07:00:00"
+        },
+        {
           "title": "本周看什么 | 最近值得一看的 7 部作品",
           "url": "https://sspai.com/post/114458",
           "author": "少数派编辑部",
@@ -639,15 +666,6 @@
           "source": "少数派",
           "summary": "商务部回应美国 AI 蒸馏指控谷歌声称为了合规将「降级」欧盟搜索服务Apple 智能将有用量限制OpenAI 将与三星合作开发芯片小岛秀夫新游戏被索尼取消，转由微软发行DeepSeek V4.1 发布看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
           "published_at": "2026-09-10T22:58:54"
-        },
-        {
-          "title": "App+1｜下一节：教学工作紧张忙碌，下一节课从从容容",
-          "url": "https://sspai.com/post/114384",
-          "author": "Tao_Sway",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "祝每一位老师教师节快乐！查看全文",
-          "published_at": "2026-09-10T06:51:52"
         }
       ]
     }
