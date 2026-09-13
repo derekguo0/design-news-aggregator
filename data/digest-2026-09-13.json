@@ -1,20 +1,21 @@
 {
   "date": "2026-09-13T00:00:00",
-  "total_items": 55,
+  "total_items": 62,
   "sources": [
-    "Smashing Magazine",
-    "Product Hunt",
     "A List Apart",
-    "人人都是产品经理",
+    "Product Hunt",
+    "Awwwards",
     "优设网",
-    "UX Design CC",
-    "NN/g (Nielsen Norman Group)",
-    "Sidebar",
-    "UX Planet",
     "Design Milk",
-    "少数派"
+    "Smashing Magazine",
+    "UX Planet",
+    "少数派",
+    "UX Design CC",
+    "人人都是产品经理",
+    "Sidebar",
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2026-09-13T03:59:35.154875",
+  "generated_at": "2026-09-13T15:52:05.732761",
   "categories": [
     {
       "category": "用户体验设计",
@@ -231,55 +232,55 @@
           "published_at": "2026-09-10T14:00:35"
         },
         {
-          "title": "腾讯可能要给WorkBuddy改名了？",
-          "url": "https://www.woshipm.com/ai/6463922.html",
-          "author": "人人都是产品经理",
+          "title": "同样叫产品经理，换个行业为什么面试难度和薪资差这么多",
+          "url": "https://www.woshipm.com/share/6463483.html",
+          "author": "Zero海緃天",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "最近我一直在想一个问题：WorkBuddy 会不会改名？这个问题其实是从一个很小的细节开始的。WorkBuddy这款产品我用得比较多，属于铁粉了。产品本身越做越完善，但它在国内推广有一个很现实的问题：这个名字对普通用户并不友好。WorkBuddy。会英语的人知道，大概是“工作伙伴”的意思。但真正面向大众市场的时候，你会发现很多人不知道怎么读，也记不住，更别说口口相传。反过来看它现在的几个直接竞品，...",
-          "published_at": "2026-09-13T03:35:59"
+          "summary": "产品经理岗位看似相同，实则因行业赛道不同而能力要求天差地别。本文梳理出13个产业集群、40条一级赛道，从岗位分类到职级阶梯，再到AI时代的能力变迁，帮你绘制一张可对照招聘JD的行业地图，快速定位适合自己的发展方向。分节导航：全文分两部分。第一部分是岗位地图与行业赛道全景，第二部分是分赛道能力模型与差异。想快速定位，直接搜「第一部分」「第二部分」即可。先说一个大家都在经历的困惑你有没有过这种感受。打...",
+          "published_at": "2026-09-13T11:59:21"
         },
         {
-          "title": "一个项目管理软件的诞生（十五）：当 Agent 成为正式参与者，AI Native 组织如何运行？",
-          "url": "https://www.woshipm.com/ai/6462953.html",
-          "author": "AI产品零度",
+          "title": "30秒出一条多渠道电商文案：一个AI文案工具的架构复盘",
+          "url": "https://www.woshipm.com/ai/6463927.html",
+          "author": "葱葱",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI 能提升一个人的产出，但若分工、交接和决策方式不变，组织只是以更快的速度生产更多等待处理的材料。文章从结果出发重画流程，讨论按任务而非岗位分配 Agent、管理者如何重排注意力与决定权，并用一条完整工作链验证方法是否真的有效。如果一份文档写得更快，交出去以后仍要等待同样的评审、同样的确认和同样的排期，项目究竟快了多少？这个问题，比“团队接入了多少个 Agent”更值得问。AI 能改善一个人的工...",
-          "published_at": "2026-09-13T02:26:21"
+          "summary": "AI文案工具看似简单，实则难点在于“能否直接用”。本文复盘了一个深度绑定业务数据的AI文案项目，从Prompt四层结构到渠道×语气动态注入，再到API自动拉取数据与数据飞轮，六个关键决策将单条文案产出时间从5-10分钟压缩至30秒，点击率提升10%。这篇复盘，是继上一篇智能客服之后，在真实工作场景中，发现到的痛点-AI文案工具，一开始我以为很简单 —— 不就是调一下大模型，让它写几段话吗？真做了才...",
+          "published_at": "2026-09-13T11:56:29"
         },
         {
-          "title": "帮小店搭一个AI客服从0到1：普通人怎么用扣子接第一单（保姆级教程）",
-          "url": "https://www.woshipm.com/ai/6461565.html",
-          "author": "子文",
+          "title": "广告商业化变现：短剧APP广告变现",
+          "url": "https://www.woshipm.com/operate/6461750.html",
+          "author": "泡泡",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "不懂技术的普通人也能用扣子给小店搭 AI 客服。文章以火锅店老板花 800 块做自动回复机器人和 90 后宝妈做订餐机器人为例，拆解注册创建、写人设、传知识库、配工作流、测试调试、发布交付六步，并给出报价与获客建议。一个做 AI 培训的博主分享过她学员的案例：有个学员接了个火锅店老板的单，老板的需求很简单——“我想让客户在抖音上能提前订座、问招牌菜，能不能做个机器人自动回复？”这个学员用扣子（Co...",
-          "published_at": "2026-09-13T02:05:12"
+          "summary": "短剧App的广告变现，远不止是插几个广告位那么简单。从卡点设计、联盟混排到预加载时序，每一步都藏着ROI的生死线。本文拆解IAAP混合变现、1换N策略等八大维度，带你理解短剧行业如何用产品策略平衡用户体验与商业收益。最近被身边人安利了几个AI短剧，眼睁睁看着自己的周末被熬穿了，确实爽也确实“害人”，接之前的内容，我本身是想把广告商业化变现的内容做成一整个系列的内容作为分享，但是发现这是一个很大的工...",
+          "published_at": "2026-09-13T08:53:01"
         },
         {
-          "title": "鸿蒙版本的JSBridge兼容与安卓配套的H5啦",
-          "url": "https://www.woshipm.com/share/6463745.html",
-          "author": "aqi00",
+          "title": "产品经理架构师们：外卖未必非要全国大平台，县域本地化平台该被看见",
+          "url": "https://www.woshipm.com/share/6463915.html",
+          "author": "智照为",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在Android、iOS与鸿蒙三足鼎立的时代，H5混合开发成为降本增效的关键，而JSBridge正是打通APP与H5双向通信的桥梁。本文深入拆解安卓版JsBridge开源框架迁移至鸿蒙的全过程，涵盖系统API变更、ArkTS语法适配等核心改造点，助你实现“一套网页多处运行”的开发目标。现在主流的手机操作系统有Android、iOS和HarmonyOS（鸿蒙系统），为了减少同时维护三种客户端的工作量...",
-          "published_at": "2026-09-13T01:16:39"
+          "summary": "全国性外卖平台在一二线城市风生水起，却在县城遭遇水土不服：高抽佣、强制营销让本地商家利润外流。本文提出一个大胆设想——外卖未必需要全国巨头，本地化小程序或平台服务三五公里生活圈，或许才是下沉市场的更优解，也为IT从业者指明了一条务实创业路径。外卖是不是一定要搞体量庞大的全国性超级平台？未必。很多县城、区县的民生外卖需求，其实完全可以交给本地运营来解决，甚至一套县城版本就够用。在此也想喊话 IT 行...",
+          "published_at": "2026-09-13T06:29:30"
         },
         {
-          "title": "对话OpenAI产品设计负责人：只会往聊天框里堆功能的产品设计师，只是在假装做AI产品",
-          "url": "https://www.woshipm.com/ai/6463881.html",
-          "author": "Z Finance",
+          "title": "为什么明明确认过需求，方向还是做错了？",
+          "url": "https://www.woshipm.com/share/6451943.html",
+          "author": "君安",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当工程师借助 AI 更快地写出代码，产品设计却成了科技行业里最焦虑的一群人。工具扩大了他们的能力，也让组织对他们的期待变得模糊。OpenAI 产品设计负责人 Ian Silber 对此给出了一个乐观的判断：现在可能是做设计师最好的时候。他曾在 Instagram 工作八年，经历过 IGTV 的失败和 Reels 的成功。加入 OpenAI 三年后，他面对的是另一类设计难题——同一个产品，既要帮助普...",
-          "published_at": "2026-09-12T13:40:59"
+          "summary": "需求评审通过、PRD完成、设计稿出炉，临上线却发现方向跑偏——这不是执行问题，而是从一开始就在解一道错题。作者将这种隐蔽失误定义为“窄框架陷阱”，用亲身经历拆解如何把开放问题压缩成封闭解法，并给出3个可立即落地的避坑方法，帮你跳出思维惯性。你有没有遇到过这种情况：需求评审通过了，PRD写完了，设计稿也出来了，结果临上线前突然发现——方向跑偏了，用户要的根本不是这个。不是执行环节出了问题，不是细节没...",
+          "published_at": "2026-09-13T03:48:37"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 7,
+      "count": 15,
       "items": [
         {
           "title": "Building A UX ROI Case That Survives The Boardroom",
@@ -343,48 +344,111 @@
           "source": "A List Apart",
           "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
           "published_at": null
+        },
+        {
+          "title": "The Tuscan Journey Begins",
+          "url": "https://www.awwwards.com/sites/the-tuscan-journey-begins",
+          "author": "MONOGRID",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Warm & Fuzzy",
+          "url": "https://www.awwwards.com/sites/warm-fuzzy",
+          "author": "Neutral Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "White Desert",
+          "url": "https://www.awwwards.com/sites/white-desert",
+          "author": "Malvah",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Cerebrium",
+          "url": "https://www.awwwards.com/sites/cerebrium",
+          "author": "Louis Paquet",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "USAvionix",
+          "url": "https://www.awwwards.com/sites/usavionix",
+          "author": "basement studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Seasats",
+          "url": "https://www.awwwards.com/sites/seasats",
+          "author": "Raw Materials",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Why Zero",
+          "url": "https://www.awwwards.com/sites/why-zero",
+          "author": "Sindhur Dutta",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "United Carriers",
+          "url": "https://www.awwwards.com/sites/united-carriers",
+          "author": "Bearplus",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 3,
       "items": [
         {
-          "title": "ABrush",
-          "url": "https://www.producthunt.com/products/abrush-ai-2",
-          "author": "Zac Zuo",
+          "title": "Visiby",
+          "url": "https://www.producthunt.com/products/visiby",
+          "author": "Ash Bagda",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI Studio for Digital ArtistsDiscussion|Link",
-          "published_at": "2026-09-10T20:18:42"
+          "summary": "Track and grow your visibility across AI searchDiscussion|Link",
+          "published_at": "2026-09-10T05:45:55"
         },
         {
-          "title": "VoxelWall",
-          "url": "https://www.producthunt.com/products/voxelwall",
-          "author": "Eric Liew",
+          "title": "Neopress",
+          "url": "https://www.producthunt.com/products/neopress",
+          "author": "Joon",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Music-reactive live wallpapers for MacDiscussion|Link",
-          "published_at": "2026-09-10T06:29:28"
+          "summary": "Build and grow your website by chatting with AIDiscussion|Link",
+          "published_at": "2026-09-10T06:43:00"
         },
         {
-          "title": "SUDARI",
-          "url": "https://www.producthunt.com/products/sudari",
-          "author": "Jacob",
+          "title": "Kirokune",
+          "url": "https://www.producthunt.com/products/kirokune",
+          "author": "Genki A",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A pixel otter desktop pet that reacts to how you workDiscussion|Link",
-          "published_at": "2026-09-11T06:18:58"
-        },
-        {
-          "title": "FrameSketch",
-          "url": "https://www.producthunt.com/products/framesketch",
-          "author": "Ali Asgar Khawasawala",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Scrub vids frame-by-frame and sketch on them at 60fpsDiscussion|Link",
-          "published_at": "2026-09-10T10:42:55"
+          "summary": "Keep work incident notes on your iPhone, without an accountDiscussion|Link",
+          "published_at": "2026-09-10T23:40:50"
         }
       ]
     },
@@ -504,6 +568,15 @@
       "count": 6,
       "items": [
         {
+          "title": "搭建自己的 HomeLab（一）：聊聊我的硬件清单",
+          "url": "https://sspai.com/post/113880",
+          "author": "dong4j",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "作为系列的第一篇，这里想把三件事讲清楚：什么是 HomeLab、我为什么愿意折腾它、以及这套东西需要哪些硬件、它们大概又要花多少钱。系列其他文章的目录放在文末。查看全文",
+          "published_at": "2026-09-13T07:51:55"
+        },
+        {
           "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
           "url": "https://sspai.com/post/114461",
           "author": "程天冲",
@@ -547,15 +620,6 @@
           "source": "少数派",
           "summary": "iPhone18Pro/ProMax即将开售，这次我们围绕新iPhone准备了几种常用配件，并整理成了五种配件组合，覆盖机身防护、充电、数据连接和磁吸支撑。其中，日常防护组合优惠29元，防护充电组合优 ...查看全文",
           "published_at": "2026-09-11T04:00:00"
-        },
-        {
-          "title": "派早报：商务部回应美国 AI 蒸馏指控",
-          "url": "https://sspai.com/post/114439",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "商务部回应美国 AI 蒸馏指控谷歌声称为了合规将「降级」欧盟搜索服务Apple 智能将有用量限制OpenAI 将与三星合作开发芯片小岛秀夫新游戏被索尼取消，转由微软发行DeepSeek V4.1 发布看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
-          "published_at": "2026-09-10T22:58:54"
         }
       ]
     }
