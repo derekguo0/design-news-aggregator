@@ -1,25 +1,53 @@
 {
   "date": "2026-09-14T00:00:00",
-  "total_items": 48,
+  "total_items": 56,
   "sources": [
+    "Awwwards",
+    "Product Hunt",
+    "UX Design CC",
     "A List Apart",
-    "Sidebar",
+    "NN/g (Nielsen Norman Group)",
+    "Smashing Magazine",
+    "Design Milk",
+    "优设网",
     "人人都是产品经理",
     "UX Planet",
-    "少数派",
-    "NN/g (Nielsen Norman Group)",
-    "Design Milk",
-    "UX Design CC",
-    "Smashing Magazine",
-    "优设网",
-    "Awwwards"
+    "Sidebar",
+    "少数派"
   ],
-  "generated_at": "2026-09-14T04:06:51.537991",
+  "generated_at": "2026-09-14T17:55:19.278199",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 3,
+      "count": 7,
       "items": [
+        {
+          "title": "For the Designless",
+          "url": "https://uxdesign.cc/for-the-designless-0d3e7936a70c?source=rss----138adf9c44c---4",
+          "author": "Joshua Leigh",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "On the value of cultural references, and the cost of losing them at scale.Photo byYonghyun Leeon UnplashA designer is not an artist. A designer is a commercial problem-solver, hired to take a client’s...",
+          "published_at": "2026-09-14T13:59:28"
+        },
+        {
+          "title": "Five eras of UX, First drafts, Logos made of data, Voice AIUX patterns",
+          "url": "https://uxdesign.cc/five-eras-of-ux-first-drafts-logos-made-of-data-voice-aiux-patterns-7b326c9aba4a?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“There are two famous lines about history, and UX earns both. George Santayana wrote that those who cannot remember the past are condemned ...",
+          "published_at": "2026-09-14T11:26:18"
+        },
+        {
+          "title": "How to say no when a friend asks for a discount",
+          "url": "https://uxdesign.cc/how-to-say-no-when-a-friend-asks-for-a-discount-d0e48087eb1d?source=rss----138adf9c44c---4",
+          "author": "Hiroshi Sato",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How thinking about price can connect to much bigger things.Continue reading on UX Collective »",
+          "published_at": "2026-09-14T11:20:16"
+        },
         {
           "title": "The real reason everyone hates the viral AI food slop images",
           "url": "https://uxdesign.cc/why-people-hate-viral-ai-food-posters-db2b4329ae11?source=rss----138adf9c44c---4",
@@ -37,6 +65,15 @@
           "source": "UX Design CC",
           "summary": "Almost everyone in tech thinks the rest of the industry is further ahead. Most of them are wrong, and for the same reasons.Continue reading on UX Collective »",
           "published_at": "2026-09-11T21:04:03"
+        },
+        {
+          "title": "I Tried to Make Claude Code Stop Producing AI Slop",
+          "url": "https://uxplanet.org/i-tried-to-make-claude-code-stop-producing-ai-slop-fa594f6b5981?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "AI can generate a polished interface in seconds. But the problem is that most of the time, you can easily tell that AI generated it.Continue reading on UX Planet »",
+          "published_at": "2026-09-14T12:30:52"
         },
         {
           "title": "Design Critique with Claude Code",
@@ -111,8 +148,26 @@
     },
     {
       "category": "产品设计",
-      "count": 8,
+      "count": 10,
       "items": [
+        {
+          "title": "L’OBJET x Jessica McCormack Turns Jewelry Into Objects for the Home",
+          "url": "https://design-milk.com/lobjet-jessica-mccormack-collaboration/",
+          "author": "Design Milk Staff",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Shells, spirals, and twisted rope move beyond decoration in a sea-inspired collection that brings the intimacy and precision of fine jewelry to the table.",
+          "published_at": "2026-09-14T16:05:22"
+        },
+        {
+          "title": "Sabrina Albanese Reimagines a Toronto Home for Its Next Chapter",
+          "url": "https://design-milk.com/toronto-home-renovation-sabrina-albanese/",
+          "author": "Malia Agostinelli",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "The Lawrence Park renovation turns its attention to everyday rituals, with a professional chef’s kitchen, dedicated coffee bar, and immersive indoor garden.",
+          "published_at": "2026-09-14T15:26:11"
+        },
         {
           "title": "ROOM’s New Identity Puts People at the Center of Workplace Design",
           "url": "https://design-milk.com/room-new-brand-identity-workplace-design/",
@@ -141,49 +196,49 @@
           "published_at": "2026-09-11T13:00:35"
         },
         {
-          "title": "WorkBuddy + 飞书的 8 种神仙用法（建议收藏）",
-          "url": "https://www.woshipm.com/ai/6464224.html",
-          "author": "苍何",
+          "title": "正式开源！比橙皮书skill更强10倍的Huashu-Report来了！",
+          "url": "https://www.woshipm.com/ai/6464596.html",
+          "author": "花叔",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "WorkBuddy 上线了官方飞书连接器，接入只要五步：在飞书开放平台创建应用、完成授权，再在对话里打开开关。之后它能读群聊、知识库、日程和多维表格，也能建文档、约会议、发通知、做 PPT，文中给了 8 个可直接照抄的场景。最近，我看 WorkBuddy 又上线了官方飞书连接器，连接飞书也更方便了。接入后，它能读取群聊、知识库、日程和多维表格，还能继续建文档、约会议、发通知、做 PPT。我又完整进...",
-          "published_at": "2026-09-14T03:54:21"
+          "summary": "之前发Claude Code、Harness Engineering、OpenClaw这些橙皮书的时候，总有粉丝站出来表示，比起书本身，更希望我分享做橙皮书的那个skill。哈哈哈，我懂。不过橙皮书对我来说也不过是阶段性的试验产物，现在已经算是过去式了。很多人问过我橙皮书到底赚不赚钱，我干脆把四期结算单摊开给你看：四个月，从2.35万掉到0.49万，跌了79%。这中间我还上架了三本新书，从6本变成...",
+          "published_at": "2026-09-14T14:08:29"
         },
         {
-          "title": "市场变了，智能硬件的研发逻辑也该变了",
-          "url": "https://www.woshipm.com/share/6464246.html",
-          "author": "无事小神仙",
+          "title": "重磅！微信把自家的AI知识库开源了",
+          "url": "https://www.woshipm.com/ai/6464592.html",
+          "author": "AI星球",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "智能硬件创业的底层逻辑正在被改写。当技术迭代以周为单位，传统四到八个月的研发周期、上百万的团队投入，反而成为最大的风险。本文深度拆解从自建全栈团队到套用成熟方案、快速验证的新路径，揭示为什么'快'本身就是壁垒，以及中小企业如何避免产品上市即过时的困境。一个越来越普遍的困境如果你是一家中小企业的负责人，想做一款智能硬件产品，你大概率会面对这样一套流程：先做市场调研，再找设计公司出方案，然后打样、做工...",
-          "published_at": "2026-09-14T03:51:02"
+          "summary": "最近在做知识库相关项目，我发现微信这边有个挺容易被忽略的开源项目：WeKnora。如果只看一句介绍，你可能会把它理解成又一个 AI 知识库：上传 PDF、Word，然后对着文档问问题。但我认真看了一遍现在的 WeKnora，发现这个理解已经有点过时了。它现在做的事情，已经从最早的“RAG 知识库”，一路扩展到了Agent、自动 Wiki、知识图谱、长期记忆、MCP、Skill、企业权限、数据源同步...",
+          "published_at": "2026-09-14T12:12:52"
         },
         {
-          "title": "微信的 AI 社交来了，怎么这么怪？",
-          "url": "https://www.woshipm.com/ai/6464222.html",
-          "author": "产品小球",
+          "title": "工信部把“智能体软件”写进专项行动，下一代软件到底会变成什么？",
+          "url": "https://www.woshipm.com/ai/6464485.html",
+          "author": "AI原生架构笔记",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "微信的 AI 助手小微开始内测互聊能力：用户先说清要跟哪位好友的小微沟通，它拟好草稿、由本人一键确认后发送，双方小微的会话单独成线展示。实际体验下来，每轮往来都要走「收到」「转达」的确认流程，沟通反而更累。最近，微信的 AI 助手“小微”开始内测一项新能力——它能找好友的小微聊天了。于是，“微信的 AI 社交来了”成了不少讨论里的关键词。这一听，就很有意思啊！这几年，AI 社交已经有了不少尝试。一...",
-          "published_at": "2026-09-14T03:33:03"
+          "summary": "工信部“人工智能+软件”专项行动方案发布，智能体软件被定义为大模型与软件深度融合的新形态。当软件从等待点击按钮转向理解目标、调用工具、跨系统推进工作，产品经理的设计对象正从功能转向完整的工作流。本文从产品视角拆解下一代软件必须补上的四层能力，以及Agent时代产品作为入口的地位变化。9 月 11 日，工信部公开了《“人工智能+软件”专项行动实施方案》。我不打算在这里复述政策条文，更想借这件事谈一个...",
+          "published_at": "2026-09-14T09:09:40"
         },
         {
-          "title": "苹果折叠屏，一个动画就让人想换手机？",
-          "url": "https://www.woshipm.com/ucd/6464115.html",
-          "author": "彩云sky",
+          "title": "Codex GPT-6 Astra额度掉得太快？我用一段提示词，把上下文消耗大幅降低了！",
+          "url": "https://www.woshipm.com/ai/6464483.html",
+          "author": "AI产品大峡谷",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "折叠屏 iPhone Duo 的开合动画，让不少人第一次因为一个动效产生换机冲动。壁纸和图标像固定在现实空间，屏幕从画面下穿出，透视压缩与模糊渐变接住视觉连续性，复现的关键是界面投影取色与开合参数联动。今年的“科技春晚”，苹果发布会又多了一个One more thing的时刻，传了好多年的折叠屏iPhone Duo终于在上个星期给端出来了，总算是放了个大招。发布会之后，群里有人说，自己第一次因为一...",
-          "published_at": "2026-09-14T03:06:33"
+          "summary": "GPT-6 Astra 上线之后，Codex 操控电脑的能力确实更强了，但额度下降速度也让我感受非常明显。原来可以用三天的额度，做同样的内容，大半天就能用完。我退回 GPT-5.6 后，消耗依然很快，最后只好把历史任务和本机配置完整翻了一遍。众所周知，Codex 一致是我的最佳 CP，我一直在用 Codex 做产品、写文章、跑脚本。讲真，GPT-6 Astra 上线之后，性能确实很强，尤其是操控电...",
+          "published_at": "2026-09-14T09:08:31"
         },
         {
-          "title": "AI这只手Palantir造了二十年",
-          "url": "https://www.woshipm.com/ai/6464113.html",
-          "author": "王智远",
+          "title": "Open AI官网首发提示词教程，教你玩转GPT Image 2.5",
+          "url": "https://www.woshipm.com/ai/6464443.html",
+          "author": "AI陆小凤",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从 2006 年那份写着 dynamic ontology 的专利申请讲起，Palantir 用名词、介词、动词三种词为企业世界造了一门语言。它不满足于让报表对得上，还要把动作真正落地，并在克利夫兰医学中心把拍板权留给人。本体论（Ontology），给企业世界造的一门语言。这个词，算被说烂了，但凡关注过企业 AI 或 FDE，很难绕开它。不过，多数人讲它，还是从今天往回看。要理解透，得换个方向，回...",
-          "published_at": "2026-09-14T03:05:31"
+          "summary": "GPT Image 2.5 上线，生图能力再突破。本文结合官方指南与实测，拆解手绘角色、带字海报、照片换装、线稿转写实、界面生成五大玩法，手把手教你写提示词、调结果，让设计师和产品经理都能快速上手。最近，GPT Image 2.5 上线，又刷新了生图大模型的天花板。看着这次展示的效果，很难不调侃一句，设计师离失业又近了一步手绘插画、带字海报、照片换装，这次有不少值得试试的玩法。我自己用下来，比较有...",
+          "published_at": "2026-09-14T08:10:47"
         }
       ]
     },
@@ -329,6 +384,30 @@
       ]
     },
     {
+      "category": "产品发现",
+      "count": 2,
+      "items": [
+        {
+          "title": "Image to ASCII",
+          "url": "https://www.producthunt.com/products/image-to-ascii-2",
+          "author": "楠木",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Make ASCII art for READMEs, Discord & creative visualsDiscussion|Link",
+          "published_at": "2026-09-13T07:52:20"
+        },
+        {
+          "title": "Aside",
+          "url": "https://www.producthunt.com/products/aside-6",
+          "author": "Garry Tan",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "AI browser that actually gets work done for youDiscussion|Link",
+          "published_at": "2026-09-12T18:17:02"
+        }
+      ]
+    },
+    {
       "category": "设计教程",
       "count": 6,
       "items": [
@@ -378,9 +457,9 @@
           "published_at": null
         },
         {
-          "title": "解析苹果新海报，异质同构手法能有多惊艳？",
-          "url": "https://www.uisdc.com/hunter/0221683916.html",
-          "author": "惊蛰",
+          "title": "告别刻板AI味，让ChatGPT反向提取你的语言习惯",
+          "url": "https://www.uisdc.com/hunter/0221684110.html",
+          "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
           "summary": null,
@@ -435,6 +514,33 @@
       "count": 6,
       "items": [
         {
+          "title": "派评｜近期值得关注的 App",
+          "url": "https://sspai.com/post/114577",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "published_at": "2026-09-14T09:24:02"
+        },
+        {
+          "title": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？",
+          "url": "https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
+          "author": "Kostya",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "用具体的测试数据和盲评结果，聊聊当下 AI 辅助制作 Excel 的真实水平，以及我使用 AI 辅助制作 Excel 的心得。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "published_at": "2026-09-14T08:35:27"
+        },
+        {
+          "title": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
+          "url": "https://sspai.com/post/114453",
+          "author": "HaroldLee",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "照片能证明它被拍过，但不能证明镜头前是真的。查看全文",
+          "published_at": "2026-09-14T07:16:23"
+        },
+        {
           "title": "众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」",
           "url": "https://sspai.com/post/114410",
           "author": "听歌的水獭",
@@ -460,33 +566,6 @@
           "source": "少数派",
           "summary": "作为系列的第一篇，这里想把三件事讲清楚：什么是 HomeLab、我为什么愿意折腾它、以及这套东西需要哪些硬件、它们大概又要花多少钱。系列其他文章的目录放在文末。查看全文",
           "published_at": "2026-09-13T07:51:55"
-        },
-        {
-          "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
-          "url": "https://sspai.com/post/114461",
-          "author": "程天冲",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "published_at": "2026-09-12T07:00:00"
-        },
-        {
-          "title": "本周看什么 | 最近值得一看的 7 部作品",
-          "url": "https://sspai.com/post/114458",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "📅本周新预告《哥斯拉-0.0》正式预告9月8日，电影《哥斯拉-0.0》发布了正式预告，将于11月3日在日本上映、11月6日在北美上映。山崎贵回归担任导演、编剧和特效总监，神木隆之介、滨边美波回归出演， ...查看全文",
-          "published_at": "2026-09-11T10:02:49"
-        },
-        {
-          "title": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
-          "url": "https://sspai.com/post/114449",
-          "author": "宛潼",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "新品尚未发货，我们继续整理了一些发布会中未提及的细节，不妨一起来看看有没有你感兴趣的。查看全文",
-          "published_at": "2026-09-11T08:30:00"
         }
       ]
     }
