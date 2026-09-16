@@ -1,25 +1,44 @@
 {
   "date": "2026-09-16T00:00:00",
-  "total_items": 58,
+  "total_items": 66,
   "sources": [
-    "Product Hunt",
-    "Sidebar",
-    "人人都是产品经理",
-    "UX Planet",
     "A List Apart",
-    "Design Milk",
-    "Awwwards",
-    "优设网",
+    "Sidebar",
+    "Product Hunt",
     "少数派",
     "UX Design CC",
-    "NN/g (Nielsen Norman Group)"
+    "优设网",
+    "Design Milk",
+    "人人都是产品经理",
+    "Smashing Magazine",
+    "NN/g (Nielsen Norman Group)",
+    "UX Planet",
+    "Awwwards"
   ],
-  "generated_at": "2026-09-16T04:02:57.356232",
+  "generated_at": "2026-09-16T16:27:53.815038",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 9,
+      "count": 12,
       "items": [
+        {
+          "title": "What Shakespeare got wrong about AI",
+          "url": "https://uxdesign.cc/what-shakespeare-got-wrong-about-ai-73e9f58bfbc8?source=rss----138adf9c44c---4",
+          "author": "Dan Maccarone",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "He wrote about a magic you could always stop. We built the kind that gets loose.He understood us better than science fiction ever has. The one thing he couldn’t imagine was what we actually built.Shak...",
+          "published_at": "2026-09-16T15:21:34"
+        },
+        {
+          "title": "Don’t let AI build a Winchester Mystery House",
+          "url": "https://uxdesign.cc/dont-let-ai-build-a-winchester-mystery-house-2cb59ec05a73?source=rss----138adf9c44c---4",
+          "author": "Patrick Neeman",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "A house built for 38 years without a plan, and the apps we are shipping the same way.Each new feature works alone and connects to nothing. Six architectural moves that give the rooms you have already ...",
+          "published_at": "2026-09-16T07:27:23"
+        },
         {
           "title": "The hidden culture layer in AI",
           "url": "https://uxdesign.cc/ai-culture-ux-design-36c7d410cd1f?source=rss----138adf9c44c---4",
@@ -82,6 +101,15 @@
           "source": "UX Design CC",
           "summary": "How thinking about price can connect to much bigger things.Continue reading on UX Collective »",
           "published_at": "2026-09-14T11:20:16"
+        },
+        {
+          "title": "Design handoff with Claude Code",
+          "url": "https://uxplanet.org/design-handoff-with-claude-code-fdaf477e4a0c?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Design handoff is the process of handing over a finished design for implementation. This is one of the most tedious parts of the design…Continue reading on UX Planet »",
+          "published_at": "2026-09-16T12:52:23"
         },
         {
           "title": "Claude Design vs Figma AI: I Designed the Same Web Page With Both",
@@ -213,56 +241,65 @@
           "published_at": "2026-09-14T15:26:11"
         },
         {
-          "title": "项目汇报怎么讲，才能让领导看见你的价值？",
-          "url": "https://www.woshipm.com/share/6465245.html",
-          "author": "IPD产品研发管理",
+          "title": "GPT-6 Sol 曝光：OpenAI 要把旗舰变成大白菜",
+          "url": "https://www.woshipm.com/share/6465694.html",
+          "author": "欧阳俊杰",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "项目汇报总被打断？问题可能出在逻辑混乱、重点不清、重过程轻结果。本文拆解项目汇报的常见误区，并给出从基础信息规范、进展分层汇报到成果量化、资源诉求的完整方法论，帮你用真实数据和清晰逻辑赢得管理层认可。最近和几位高管朋友聊天，大家都有同一个感受：现在很多项目经理做项目汇报，模板痕迹、AI的修饰痕迹过重，脱离真实业务场景。整体逻辑生硬混乱，有用的价值不提及，琐碎的细节又太多，完全达不到汇报的目的。你们...",
-          "published_at": "2026-09-16T03:32:56"
+          "summary": "你最近用的 ChatGPT，可能已经偷偷换模型了。这两天，一个叫 GPT-6 Sol 的名字开始频繁冒头。有人在 OpenAI API 模型列表里短暂看到了 GPT-6-Sol，几个小时后又消失；也有用户反馈，自己明明选的是 GPT-5.6 Sol，后台却显示被路由到了 gpt-6-sol。再加上多个爆料账号连续放风，GPT-6 Sol 已经成了这两天 AI 圈最热的“未官宣选手”。先说清楚：目前...",
+          "published_at": "2026-09-16T11:58:45"
         },
         {
-          "title": "从200亿收购失败到650亿IPO：Figma如何用“协作”颠覆设计帝国",
-          "url": "https://www.woshipm.com/chuangye/6464913.html",
-          "author": "李明Bright",
+          "title": "豆包工作还想反超WorkBuddy？",
+          "url": "https://www.woshipm.com/ai/6465578.html",
+          "author": "怪哥",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Figma 上市首日暴涨 250%，市值超过 Adobe 当年 200 亿美元报价的三倍。从浏览器协作到 AI 原型工具 Figma Make，它的五个关键决策回答了同一件事：被颠覆的为什么不是它。今天聊Figma。你可能用过它，也可能没用过。但如果你身边有做设计、做产品、做前端的人，他们大概率每天都在用。2025年7月31日，Figma在纽交所上市，首日股价暴涨250%，收盘市值超过560亿美元...",
-          "published_at": "2026-09-16T03:30:53"
+          "summary": "最近我一直在用WorkBuddy和豆包工作，已经是铁粉级别了。但如果现在让我判断国内AI办公这条赛道谁跑得更快，我大概率还是会投 WorkBuddy 一票。而且按照现在这个趋势继续下去，我甚至觉得 WorkBuddy 和其他产品之间的差距还有可能继续扩大。原因其实一点都不复杂。不是因为它多了某个特别惊艳的功能，也不是因为腾讯突然做出了一个遥遥领先的大模型。真正拉开差距的，就两件事：模型够多，额度够...",
+          "published_at": "2026-09-16T09:51:22"
         },
         {
-          "title": "做了两年AI落地，我总结了这7点思考",
-          "url": "https://www.woshipm.com/ai/6464274.html",
-          "author": "丰宪飞",
+          "title": "物理 AI 的大结果何时到来？",
+          "url": "https://www.woshipm.com/embodied/6465488.html",
+          "author": "山上Hillvue",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "做了两年AI落地的实践者分享七点思考：个人和组织都要建一套能自我演化的人机协同系统，别怕AI取代自己，动手接触比纠结要不要学更重要；软件的一次性交易、订阅的持续服务之后，是每一次调用都要产生价值的token时代。公众号已经有很长一段时间没更新了。停更的这段时间，自己做了很多新事情，其中AI应用落地方面花的时间最多。我做AI应用落地这块有些年头了，甚至可能是国内最早的一批人之一（2023年就开始研究...",
-          "published_at": "2026-09-16T03:04:31"
+          "summary": "从黄仁勋在 Computex 喊出“下一波浪潮是物理 AI”开始，汽车、摄像头、家电公司纷纷挤进这个概念，连会计师行都成立了物理 AI 实验室。但真正大规模落地的载体还不多，人形机器人全球年产量不过万台。人人都是物理 AI。如今业务只要和硬件相关，都有机会挤进这个概念。汽车自不必说，“汽车就是机器人”的口号响彻寰宇。连法拉第未来都在今年宣布升级为“物理 AI 生态公司”了。贾老板的生态化反，再一次...",
+          "published_at": "2026-09-16T09:25:54"
         },
         {
-          "title": "企业该买模型还是养上下文？",
-          "url": "https://www.woshipm.com/ai/6465216.html",
-          "author": "王智远",
+          "title": "DeepSeek-V4.1-Flash 的最佳 Harness 搭档，我觉得可能是 Claude Code",
+          "url": "https://www.woshipm.com/ai/6465528.html",
+          "author": "Ai学习的老章",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "过去半年，不少老板都被同一个问题问过，咱们要不要搞一个自己的大模型。「专有模型」四个字实际装着四样东西：自训、微调、私有部署和上下文。前三件是买得到、会贬值的商品，第四件才是买不到、会复利的资产，文章用三笔账给出了不同企业的选择清单。过去半年，不少老板都被同一个问题问过，咱们要不要搞一个自己的大模型？问的人很认真，被问的人心里有点慌，钱不少花，方向看不清。这个词从哪一年开始流行的，已经记不清了，反...",
-          "published_at": "2026-09-16T02:39:44"
+          "summary": "DeepSeek 技术文件提到，大模型很少只跑在固定 Harness 里，不同脚手架的提示词、工具定义与上下文管理都会影响结果。官方测试显示 DSH Minimal 模式反常识地优于 Standard 与 PTC，Claude Code 开箱即用接近峰值。DeepSeek V4.1 Flash 开源，本地部署成本骤降！实测，顶夯！ 一文中，我注意到DeepSeek 技术文件里提到：大模型很少只跑在...",
+          "published_at": "2026-09-16T09:23:43"
         },
         {
-          "title": "视频号评论区小蓝词使用指南",
-          "url": "https://www.woshipm.com/share/6465223.html",
-          "author": "李逸和",
+          "title": "想把喜欢的故事做成动画？我用 AIXTV 把《聊斋》做出来了",
+          "url": "https://www.woshipm.com/ai/6465508.html",
+          "author": "月鹿造物",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "视频号「小蓝词」正成为博主和品牌打通曝光与转化的关键入口。它不仅能将用户导向话题聚合页和搜一搜结果，还能无缝串联公众号、小程序等私域触点，形成更短更合规的闭环。本文以中老年在线教育为例，拆解小蓝词的触发逻辑与五大运营策略，助你抓住流量确定性。在视频号里，“小蓝词”可准确对应蓝色话题标签与评论区右上角的“都在搜”入口：前者把人带到话题聚合页，后者把人带到搜一搜搜索结果，这两类入口共同构成视频号的“搜...",
-          "published_at": "2026-09-16T02:27:21"
+          "summary": "最近刷短视频，古风、悬疑类的 AI 漫剧常能刷到，作者也想自己试一把：用 AIXTV 的影视片场，把《聊斋志异》里的《云翠仙》做成两集古风二维动画，又顺着古典武侠 Skill 拍了电影感的《最后一镖》。最近刷短视频，经常能看到古风、悬疑类的AI漫剧。有时候只是随手点开，看着看着，反而想知道下一集会发生什么。我自己一直挺喜欢看电影，也喜欢《聊斋志异》这类故事。一个普通人走进一间山中宅院，遇见的人看起...",
+          "published_at": "2026-09-16T09:22:45"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 14,
+      "count": 15,
       "items": [
+        {
+          "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+          "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container...",
+          "published_at": "2026-09-16T13:00:00"
+        },
         {
           "title": "Designed for a Dead Language",
           "url": "https://alistapart.com/article/designed-for-a-dead-language/",
@@ -315,6 +352,15 @@
           "category": "网页设计",
           "source": "A List Apart",
           "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
+          "published_at": null
+        },
+        {
+          "title": "L.I.S.A.",
+          "url": "https://www.awwwards.com/sites/l-i-s-a",
+          "author": "Locomotive",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
           "published_at": null
         },
         {
@@ -379,39 +425,66 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "Seasats",
-          "url": "https://www.awwwards.com/sites/seasats",
-          "author": "Raw Materials",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 6,
       "items": [
         {
-          "title": "PeekPaste",
-          "url": "https://www.producthunt.com/products/lucidbit",
-          "author": "Sulochanal Chellian",
+          "title": "Appwrite 2.0",
+          "url": "https://www.producthunt.com/products/appwrite",
+          "author": "Eldad Fux",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your clipboard, within reachDiscussion|Link",
-          "published_at": "2026-09-15T00:44:31"
+          "summary": "The open-source cloud for agents and developersDiscussion|Link",
+          "published_at": "2026-09-15T09:56:57"
         },
         {
-          "title": "Mailyte",
-          "url": "https://www.producthunt.com/products/mailyte",
-          "author": "David Asiru",
+          "title": "Expand Board for macOS",
+          "url": "https://www.producthunt.com/products/expand-board-for-macos",
+          "author": "Gabriel",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Email for your team, your app, and your customers.Discussion|Link",
-          "published_at": "2026-09-14T07:20:35"
+          "summary": "Expand ideas, concepts, and plans across limitless boardsDiscussion|Link",
+          "published_at": "2026-09-15T16:28:05"
+        },
+        {
+          "title": "Convo",
+          "url": "https://www.producthunt.com/products/convo-7",
+          "author": "Iván Abad",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The AI copilot for people who sellDiscussion|Link",
+          "published_at": "2026-09-14T23:29:05"
+        },
+        {
+          "title": "Project Feed",
+          "url": "https://www.producthunt.com/products/project-feed",
+          "author": "Dylan Amos",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Project management with built-in file reviewDiscussion|Link",
+          "published_at": "2026-09-15T16:35:49"
+        },
+        {
+          "title": "CAT ME app",
+          "url": "https://www.producthunt.com/products/cat-me-app",
+          "author": "Damjanski",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "See yourself or your friends as catsDiscussion|Link",
+          "published_at": "2026-09-14T21:28:07"
+        },
+        {
+          "title": "Twigg",
+          "url": "https://www.producthunt.com/products/twigg",
+          "author": "Matti De Beer",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The context layer you never have to buildDiscussion|Link",
+          "published_at": "2026-09-14T16:29:15"
         }
       ]
     },
@@ -480,49 +553,49 @@
       "count": 5,
       "items": [
         {
-          "title": "We must pace the frontier",
-          "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+          "title": "Dario, please",
+          "url": "https://pop.rdi.sh/dario-please/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Dario Amodei proposes a three-step framework for AI companies to slow capability progress to ensure safety systems.",
-          "published_at": "2026-09-15T05:18:01"
+          "summary": "Debunking AI apocalypse hype and exposing CEO calls for open-source bans as self-serving tactics to protect corporate moats.",
+          "published_at": "2026-09-16T07:47:35"
         },
         {
-          "title": "Bencho",
-          "url": "https://bencho.dev/",
+          "title": "Let’s talk about gradients",
+          "url": "https://brainfunctioncollapse.com/projects/gradients",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A library of interactive UI blocks you can explore, tweak, and take straight into your projects.",
-          "published_at": "2026-09-15T05:16:50"
+          "summary": "A short essay on tools, with a working exhibit.",
+          "published_at": "2026-09-16T07:45:05"
         },
         {
-          "title": "Optical vs. mathematical alignment",
-          "url": "https://pangrampangram.com/blogs/journal/optical-vs-mathematical-alignment",
+          "title": "Opusfived",
+          "url": "https://opusfived.dev/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "While software can place objects with mathematical precision, our eyes don’t always agree with the result.",
-          "published_at": "2026-09-15T05:16:20"
+          "summary": "Make one button blue. Change nothing else. A short interactive comedy about agentic AI assistants that can never just do the thing.",
+          "published_at": "2026-09-16T07:44:23"
         },
         {
-          "title": "Planning with agents",
-          "url": "https://maggieappleton.com/planning-agents",
-          "author": null,
+          "title": "Rauno's field notes: 5",
+          "url": "https://rauno.me/notes/5",
+          "author": "@raunofreiberg",
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Why we need richer, thicker interfaces and better boundary objects for collaborative planning with agents.",
-          "published_at": "2026-09-15T05:15:24"
+          "summary": "How removing pagination arrows in favor of interactive card stacks solves tight UI spatial constraints.",
+          "published_at": "2026-09-16T07:43:58"
         },
         {
-          "title": "If coding is solved, what now?",
-          "url": "https://earendil.com/posts/measuring-code-sloppiness/",
+          "title": "Sidebranch: worktree visual diffing",
+          "url": "https://sidebranch.dev/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Exploring how to measure code sloppiness, why correct code can still erode a codebase, and why human intuition and taste still matter.",
-          "published_at": "2026-09-15T05:14:50"
+          "summary": "Review PRs from inside your running app: switch branches from an in-page widget and compare worktrees side by side.",
+          "published_at": "2026-09-16T07:42:50"
         }
       ]
     },
@@ -530,6 +603,24 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "探秘柬埔寨，千年吴哥窟",
+          "url": "https://sspai.com/post/114454",
+          "author": "PJHubs",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "published_at": "2026-09-16T09:33:41"
+        },
+        {
+          "title": "具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性",
+          "url": "https://sspai.com/post/114607",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "今年 iPadOS 中的更新并不算多，我们依旧帮你整理出了哪些值得关注的新特性。查看全文",
+          "published_at": "2026-09-16T07:00:00"
+        },
         {
           "title": "当我怀念旧版 Edge 浏览器时，我在怀念什么？",
           "url": "https://sspai.com/post/113295",
@@ -565,24 +656,6 @@
           "source": "少数派",
           "summary": "少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。查看全文",
           "published_at": "2026-09-15T07:00:00"
-        },
-        {
-          "title": "开学季 | 学生理财的三条建议，学生党也可以一样理财",
-          "url": "https://sspai.com/post/47126",
-          "author": "也谈钱",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "学生理财应是「理」字当头，培养收支的计划性是第一位，也恰恰是理财投资的基础。查看全文",
-          "published_at": "2026-09-15T03:10:08"
-        },
-        {
-          "title": "派早报：中国联通宣布支持所有国行设备 eSIM 业务办理、Homebrew 7.0.0 发布等",
-          "url": "https://sspai.com/post/114593",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "英伟达发布 RTX PRO 5500 Blackwell 专业显卡，阿凡途发布 AVENTHO Y 头戴式耳机等查看全文",
-          "published_at": "2026-09-15T00:06:40"
         }
       ]
     }
