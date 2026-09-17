@@ -1,26 +1,35 @@
 {
   "date": "2026-09-17T00:00:00",
-  "total_items": 68,
+  "total_items": 70,
   "sources": [
-    "Sidebar",
-    "UX Planet",
-    "Product Hunt",
-    "人人都是产品经理",
-    "少数派",
-    "Smashing Magazine",
-    "A List Apart",
     "Design Milk",
+    "A List Apart",
+    "Sidebar",
     "Awwwards",
-    "优设网",
+    "少数派",
     "NN/g (Nielsen Norman Group)",
-    "UX Design CC"
+    "优设网",
+    "UX Design CC",
+    "人人都是产品经理",
+    "Product Hunt",
+    "UX Planet",
+    "Smashing Magazine"
   ],
-  "generated_at": "2026-09-17T04:09:54.658832",
+  "generated_at": "2026-09-17T16:33:48.506960",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 12,
+      "count": 14,
       "items": [
+        {
+          "title": "Lost dog—or lost designer?",
+          "url": "https://uxdesign.cc/lost-dog-or-lost-designer-d5de922e54d9?source=rss----138adf9c44c---4",
+          "author": "Michael Buckley",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Why the ethics of AI-generated design depend on context, intention, and consequenceImage: Generated with ChatGPT using a one-shot promptI recently saw a missing-dog poster that caught my attention bec...",
+          "published_at": "2026-09-17T04:31:32"
+        },
         {
           "title": "What Shakespeare got wrong about AI",
           "url": "https://uxdesign.cc/what-shakespeare-got-wrong-about-ai-73e9f58bfbc8?source=rss----138adf9c44c---4",
@@ -101,6 +110,15 @@
           "source": "UX Design CC",
           "summary": "How thinking about price can connect to much bigger things.Continue reading on UX Collective »",
           "published_at": "2026-09-14T11:20:16"
+        },
+        {
+          "title": "I Tested 3 Popular Claude Code Skills for Web Design",
+          "url": "https://uxplanet.org/ive-tested-3-popular-claude-code-skills-for-web-design-24b7866e05a7?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Front-end design is by far one of the most popular tasks Claude Code users do. Nearly every second tutorial about Claude Code covers its…Continue reading on UX Planet »",
+          "published_at": "2026-09-17T13:45:41"
         },
         {
           "title": "Design handoff with Claude Code",
@@ -196,6 +214,15 @@
       "count": 11,
       "items": [
         {
+          "title": "A 1978 Vancouver Special Gets a “Sophisti-Quirk” Reinvention",
+          "url": "https://design-milk.com/scheido-vancouver-special-renovation/",
+          "author": "Malia Agostinelli",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Schéido transforms a familiar Vancouver housing type with vaulted ceilings, unexpected color, local craftsmanship, and a catamaran-inspired net suspended between floors",
+          "published_at": "2026-09-17T13:00:53"
+        },
+        {
           "title": "Laneige Turns Skincare Customization Into a Four-Story Experience",
           "url": "https://design-milk.com/laneige-seoul-flagship-playlab/",
           "author": "Design Milk Staff",
@@ -241,58 +268,49 @@
           "published_at": "2026-09-14T19:57:31"
         },
         {
-          "title": "L’OBJET x Jessica McCormack Turns Jewelry Into Objects for the Home",
-          "url": "https://design-milk.com/lobjet-jessica-mccormack-collaboration/",
-          "author": "Design Milk Staff",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Shells, spirals, and twisted rope move beyond decoration in a sea-inspired collection that brings the intimacy and precision of fine jewelry to the table.",
-          "published_at": "2026-09-14T16:05:22"
-        },
-        {
-          "title": "为什么说群里加一个Al，是做Al落地最好的切入点？",
-          "url": "https://www.woshipm.com/ai/6464276.html",
-          "author": "丰宪飞",
+          "title": "腾讯刚入局，Manus又要融资33亿",
+          "url": "https://www.woshipm.com/ai/6466160.html",
+          "author": "曹哥聊AI",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI时代的组织竞争，正从人的平均水平切换到人加AI的复合水平。文章从沟通、认知、决策、记忆四层拆解：上下文第一次变成组织资产，而决策差距的主因不是能力而是上下文，把背景给到合适的人，决策质量自然提高。今天要讲的不是一个关于Al工具的话题，是一个关于组织进化的话题，AI时代，组织的竞争，正在从“人的平均水平”的竞争，切换到“人+AI的复合水平”的竞争。前一种组织，被人的认知天花板压着；后一种组织，认...",
-          "published_at": "2026-09-17T03:24:32"
+          "summary": "Manus 这家公司，今年的剧情多少有点离谱。去年底，Meta花大约20亿美元把Manus收入囊中。没想到几个月之后，这笔交易因为监管原因被叫停，双方开始拆分，Manus 又重新变回一家独立公司。正常创业公司的剧本走到这里，多少都会伤点元气。Manus倒好。刚恢复独立没多久，新一轮融资5亿美金就要来了，而且估值直接翻倍。据彭博社报道，AI初创企业 Manus即将完成融资。这是在其与Meta分拆之后...",
+          "published_at": "2026-09-17T12:25:52"
         },
         {
-          "title": "ZPedia｜视频正在从文件变成界面，Vidu S2 把 AI 视频推向实时交互",
-          "url": "https://www.woshipm.com/ai/6465909.html",
-          "author": "Z Finance",
+          "title": "阿里发鸡蛋，字节送咖啡",
+          "url": "https://www.woshipm.com/share/6466109.html",
+          "author": "怪哥",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "视频长期是一段确定的时间线，即使生成式 AI 也只改变了生产方式。生数科技的 Vidu S2 把编辑带进实时生成：一边是 S2-Avatar 持续接收新指令，一边是 S2-Editing 直接改写正在输入的视频流，视频第一次能在运行中被改写。过去很长一段时间，视频都是一种单向媒介。电影、短视频、广告、直播回放，无论内容以什么方式生产，用户最终面对的都是一条已经确定的时间线：点开、播放、观看。你可以...",
-          "published_at": "2026-09-17T03:20:03"
+          "summary": "今年AI圈有个特别好玩的梗，叫“一代人有一代人的鸡蛋要领”。以前，叔叔阿姨们热衷于去超市排队领鸡蛋；现在，年轻人天天盯着各大AI平台，哪里送免费 Token、哪里重置额度、哪里能白嫖新模型，消息比谁都灵通。几个月前，字节跳动为了推广旗下AI产品TRAE还送过星巴克咖啡，社区里有很多小伙伴也都领取了。更搞笑的是，领完还舍不得用，放着放着额度就过期了。甚至有人在人人都是产品经理社群里专门讨论这种现象：...",
+          "published_at": "2026-09-17T10:17:18"
         },
         {
-          "title": "隐性需求的双向挖掘：波兰尼知识论与KANO模型的对接",
-          "url": "https://www.woshipm.com/pd/6465424.html",
-          "author": "Roxana",
+          "title": "腾讯内测「游点灵」，一个全新 AI 游戏创作平台",
+          "url": "https://www.woshipm.com/ai/6466108.html",
+          "author": "产品笔记",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "用户需求中大量内容无法被完整表述，这成为产品评审争议的根源。本文借助波兰尼的隐性知识论与KANO模型，构建了一个对接框架，揭示隐性需求的双向结构：向下的基本型与向上的兴奋型。需求分析，很考验基本功，因为用户需求中，有相当一部分，没办法被完整表述出来。波兰尼的知识论将知识区分为显性与隐性，KANO模型将需求分为基本型、期望型与兴奋型——两套理论从不同维度切入同一问题，其底层逻辑存在明确的对应关系。笔...",
-          "published_at": "2026-09-17T03:17:31"
+          "summary": "近日，腾讯正在内测一款叫做「游点灵」的 AI Agent。这是腾讯的一个全新的 AI 游戏创作平台。通过对话，把脑洞变成游戏。从主页可以看到。可通自然语言交流，就能快速把创意、想法，生成2D、3D游戏。腾讯， 在自己的主战场，要开始做自己擅长的事情了。当游戏 和 AI 结合，腾讯游戏的想象空间，又打开了。产品中文名叫做「游点灵」，英文名叫做 CraftBuddy，创作搭子。进入首页，可以通过对话，...",
+          "published_at": "2026-09-17T10:13:12"
         },
         {
-          "title": "同样在花积分，五种玩法为什么不是一条订单链？",
-          "url": "https://www.woshipm.com/share/6465738.html",
-          "author": "Zoe产品手记",
+          "title": "Claude重大合并，腾讯会抄作业吗？",
+          "url": "https://www.woshipm.com/ai/6466064.html",
+          "author": "欧阳俊杰",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "积分商城玩法看似都是“花积分换东西”，但纯积分实物、积分加现金、虚拟权益、抽奖和竞拍背后，交易对象、积分处理、成功定义和失败退出路径截然不同。本文从产品建模视角，拆解五种玩法如何共用商城骨架却必须拆分订单链，并给出四个关键问题，帮你判断哪些能力可复用、哪些状态必须独立。上一篇，我们把积分商城从一个“兑换区”，展开成了资产、供给、交易和交付四重承诺。它可以复用主商城的通用能力，但要对一次积分兑换的完...",
-          "published_at": "2026-09-17T03:16:09"
+          "summary": "就在刚刚，Anthropic 宣布将 Claude Chat 与主打复杂任务处理的 Cowork 合并为一个统一版本的 Claude。以后不用再纠结“这事该去 Chat，还是该扔给 Cowork”，入口收成一个 Claude。至于你是随口问一句，还是甩过去一堆活，让 Claude 自己判断怎么接。消息看起来只是产品改版，但我看到这里，脑子里突然蹦出了另一个名字：腾讯。因为这招，腾讯可能真的该抄一下...",
+          "published_at": "2026-09-17T08:48:34"
         },
         {
-          "title": "大模型的进步，为什么越来越难衡量了？",
-          "url": "https://www.woshipm.com/ai/6465714.html",
-          "author": "深流研究所",
+          "title": "雷军的钱，罗福莉来烧",
+          "url": "https://www.woshipm.com/ai/6466046.html",
+          "author": "运营派",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "25位菲尔兹奖得主罕见联名警告：AI公司正将数学难题变成刷榜工具，伤害数学研究本身。从基准污染到智能体绕过评测，传统评测体系已濒临失效。当榜单分数无法体现真实能力，我们该如何衡量智能？本文深度剖析评测危机与AI公司的新探索。近期，数学家陶哲轩在个人博客上发布了一封罕见的公开信。共同签署的还有彼得·舒尔策、邓煜、许埈珥等另外 24 位菲尔兹奖得主。数学家们承认，大模型在最近几个月取得明显进步，已经解...",
-          "published_at": "2026-09-17T03:00:38"
+          "summary": "今天凌晨，小米干了一件很离谱的事：把下一代大模型的训练现场，直接直播给全网看了。MiMo-V2.6-Pro 和 Flash 两条训练线同时开跑，Token 在涨，成绩在涨，故障实时播报。最刺激的是旁边那个数字——钱也在疯狂涨。两款模型累计已经烧掉超过百万美元，而且计价器还在往上跳。但真正有意思的，还不是小米有多能烧钱，而是这场直播背后的关系太有戏了。雷军负责出钱，罗福莉负责练模型，而她，正是从 D...",
+          "published_at": "2026-09-17T08:23:51"
         }
       ]
     },
@@ -442,67 +460,67 @@
       "count": 7,
       "items": [
         {
-          "title": "Project Feed",
-          "url": "https://www.producthunt.com/products/project-feed",
-          "author": "Dylan Amos",
+          "title": "S-Roll",
+          "url": "https://www.producthunt.com/products/s-roll",
+          "author": "Ritik Bompilwar",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Project management with built-in file reviewDiscussion|Link",
-          "published_at": "2026-09-15T16:35:49"
+          "summary": "An agentic harness that turns long videos into clipsDiscussion|Link",
+          "published_at": "2026-09-17T06:40:23"
         },
         {
-          "title": "Convo",
-          "url": "https://www.producthunt.com/products/convo-7",
-          "author": "Iván Abad",
+          "title": "Ever Beyond: Space Conquest",
+          "url": "https://www.producthunt.com/products/ever-beyond-space-conquest",
+          "author": "Gökhan D.",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The AI copilot for people who sellDiscussion|Link",
-          "published_at": "2026-09-14T23:29:05"
+          "summary": "Tactical Battles & Idle MergeDiscussion|Link",
+          "published_at": "2026-09-16T07:09:19"
         },
         {
-          "title": "Jottoo",
-          "url": "https://www.producthunt.com/products/jottoo",
-          "author": "Fady Sharobeem",
+          "title": "Die With Me",
+          "url": "https://www.producthunt.com/products/die-with-me-2",
+          "author": "Chris Messina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI meeting notes that turn into tracked tasksDiscussion|Link",
-          "published_at": "2026-09-14T08:39:28"
+          "summary": "AIM buddy list for your friends’ Claude Code and Codex usageDiscussion|Link",
+          "published_at": "2026-09-16T03:20:34"
         },
         {
-          "title": "Twigg",
-          "url": "https://www.producthunt.com/products/twigg",
-          "author": "Matti De Beer",
+          "title": "Pitchfire for Startups",
+          "url": "https://www.producthunt.com/products/pitchfire-for-startups",
+          "author": "Ryan O'Hara",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The context layer you never have to buildDiscussion|Link",
-          "published_at": "2026-09-14T16:29:15"
+          "summary": "Reach investors that are aligned with youDiscussion|Link",
+          "published_at": "2026-09-17T02:48:27"
         },
         {
-          "title": "Expand Board for macOS",
-          "url": "https://www.producthunt.com/products/expand-board-for-macos",
-          "author": "Gabriel",
+          "title": "MacSentinel",
+          "url": "https://www.producthunt.com/products/macsentinel",
+          "author": "Timothy Baskaran",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Expand ideas, concepts, and plans across limitless boardsDiscussion|Link",
-          "published_at": "2026-09-15T16:28:05"
+          "summary": "Find what’s slowing your Mac then clean it safelyDiscussion|Link",
+          "published_at": "2026-09-15T07:28:50"
         },
         {
-          "title": "CAT ME app",
-          "url": "https://www.producthunt.com/products/cat-me-app",
-          "author": "Damjanski",
+          "title": "Higgsfield API",
+          "url": "https://www.producthunt.com/products/higgsfield",
+          "author": "KP",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "See yourself or your friends as catsDiscussion|Link",
-          "published_at": "2026-09-14T21:28:07"
+          "summary": "One async API for 50+ generative media modelsDiscussion|Link",
+          "published_at": "2026-09-16T23:58:11"
         },
         {
-          "title": "Appwrite 2.0",
-          "url": "https://www.producthunt.com/products/appwrite",
-          "author": "Eldad Fux",
+          "title": "The Forge by Bob's Workshop",
+          "url": "https://www.producthunt.com/products/the-forge-by-bob-s-workshop",
+          "author": "Kemone Phillips",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The open-source cloud for agents and developersDiscussion|Link",
-          "published_at": "2026-09-15T09:56:57"
+          "summary": "Describe your idea & your team builds, deploys & operates itDiscussion|Link",
+          "published_at": "2026-09-16T22:42:59"
         }
       ]
     },
@@ -556,8 +574,8 @@
           "published_at": null
         },
         {
-          "title": "以为折叠屏只是翻转开合？iPhone Duo 演示打破传统想象",
-          "url": "https://www.uisdc.com/hunter/0221684324.html",
+          "title": "语音只能点按键？微信Mac版巧妙用鼠标长按做交互！",
+          "url": "https://www.uisdc.com/hunter/0221684438.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -571,49 +589,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Dario, please",
-          "url": "https://pop.rdi.sh/dario-please/",
+          "title": "Five eras of UX design and the lessons to keep in the AI era",
+          "url": "https://uxdesign.cc/five-eras-of-ux-design-and-the-lessons-to-keep-in-the-ai-era-d76a548747a9",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Debunking AI apocalypse hype and exposing CEO calls for open-source bans as self-serving tactics to protect corporate moats.",
-          "published_at": "2026-09-16T07:47:35"
+          "summary": "Human factors has reinvented itself every decade since Bell Labs, the oldest lessons are the ones pointing the way forward.",
+          "published_at": "2026-09-17T04:40:11"
         },
         {
-          "title": "Let’s talk about gradients",
-          "url": "https://brainfunctioncollapse.com/projects/gradients",
+          "title": "WCAG Accessibility Guidelines Explorer",
+          "url": "https://emesstyle.com/a11y-design/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A short essay on tools, with a working exhibit.",
-          "published_at": "2026-09-16T07:45:05"
+          "summary": "Learn and understand web accessibility standards with interactive demos showing violations vs. solutions.",
+          "published_at": "2026-09-17T04:39:39"
         },
         {
-          "title": "Opusfived",
-          "url": "https://opusfived.dev/",
+          "title": "Maybe we shouldn’t be reviewing all this code",
+          "url": "https://martinfowler.com/rachels-ramblings/code-review.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Make one button blue. Change nothing else. A short interactive comedy about agentic AI assistants that can never just do the thing.",
-          "published_at": "2026-09-16T07:44:23"
+          "summary": "Or, perhaps the problem isn’t that AI has broken code review, maybe it’s that we’ve been using code review to solve the wrong problems",
+          "published_at": "2026-09-17T04:39:09"
         },
         {
-          "title": "Rauno's field notes: 5",
-          "url": "https://rauno.me/notes/5",
-          "author": "@raunofreiberg",
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "How removing pagination arrows in favor of interactive card stacks solves tight UI spatial constraints.",
-          "published_at": "2026-09-16T07:43:58"
-        },
-        {
-          "title": "Sidebranch: worktree visual diffing",
-          "url": "https://sidebranch.dev/",
+          "title": "The most important product decision is what you don’t build",
+          "url": "https://liamnugent.me/posts/what-you-dont-build/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Review PRs from inside your running app: switch branches from an in-page widget and compare worktrees side by side.",
-          "published_at": "2026-09-16T07:42:50"
+          "summary": "Ask a team what they shipped this year and you’ll get a list. Ask what they killed and the room goes quiet.",
+          "published_at": "2026-09-17T04:38:25"
+        },
+        {
+          "title": "Seats and sunsets",
+          "url": "https://yegge.ai/essays/seats-and-sunsets/",
+          "author": null,
+          "category": "设计资讯",
+          "source": "Sidebar",
+          "summary": "Understanding agent orchestration economics, model capability thresholds, token burn rates, and structural failure modes.",
+          "published_at": "2026-09-17T04:37:58"
         }
       ]
     },
@@ -621,6 +639,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "城市漫步指南｜威海初秋，看海玩沙",
+          "url": "https://sspai.com/post/114557",
+          "author": "Victor42",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "9 月刚开渔，避开暑假，正是玩沙吃海鲜的好时节。而威海，胶东半岛尖端上的海滨小城，有历史厚重的一面，也有现代休闲的一面。多留几天给它，会有很丰富的度假体验。查看全文",
+          "published_at": "2026-09-17T09:47:28"
+        },
+        {
+          "title": "具透 | macOS 27 正式版来了，这些是你值得了解新细节",
+          "url": "https://sspai.com/post/114643",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "除了只支持 Apple Silicon，macOS 27 Golden Gate 还有这些变化。查看全文",
+          "published_at": "2026-09-17T07:00:00"
+        },
+        {
+          "title": "一个小创意的诞生：BeatBox 雪漫天外壳定制指南",
+          "url": "https://sspai.com/post/114451",
+          "author": "蓬岸",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "今年早些时候，在少数派 × 飞傲联名 CD 机盖板设计大赛中，不少朋友都参与设计了自己的 CD 机盖板，但如何才能把它们制作出来呢？查看全文",
+          "published_at": "2026-09-17T03:11:01"
+        },
         {
           "title": "派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等",
           "url": "https://sspai.com/post/114658",
@@ -647,33 +692,6 @@
           "source": "少数派",
           "summary": "今年 iPadOS 中的更新并不算多，我们依旧帮你整理出了哪些值得关注的新特性。查看全文",
           "published_at": "2026-09-16T07:00:00"
-        },
-        {
-          "title": "当我怀念旧版 Edge 浏览器时，我在怀念什么？",
-          "url": "https://sspai.com/post/113295",
-          "author": "Nullpinter",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "复活吧，微软（旧）Edge——怀念一款「失败」的浏览器。查看全文",
-          "published_at": "2026-09-16T02:38:34"
-        },
-        {
-          "title": "派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等",
-          "url": "https://sspai.com/post/114638",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "华为与问界调整鸿蒙智行合作模式，雅马哈发布 B200A 条形音箱等。查看全文",
-          "published_at": "2026-09-16T00:39:40"
-        },
-        {
-          "title": "社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备",
-          "url": "https://sspai.com/post/114613",
-          "author": "Matrix机器人",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
-          "published_at": "2026-09-15T09:00:00"
         }
       ]
     }
