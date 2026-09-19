@@ -1,21 +1,20 @@
 {
   "date": "2026-09-19T00:00:00",
-  "total_items": 64,
+  "total_items": 56,
   "sources": [
-    "少数派",
-    "Sidebar",
-    "UX Planet",
-    "人人都是产品经理",
-    "Awwwards",
-    "Design Milk",
     "UX Design CC",
-    "Product Hunt",
-    "NN/g (Nielsen Norman Group)",
     "Smashing Magazine",
     "A List Apart",
-    "优设网"
+    "Product Hunt",
+    "人人都是产品经理",
+    "少数派",
+    "Design Milk",
+    "优设网",
+    "UX Planet",
+    "NN/g (Nielsen Norman Group)",
+    "Sidebar"
   ],
-  "generated_at": "2026-09-19T03:52:28.015295",
+  "generated_at": "2026-09-19T15:38:14.055828",
   "categories": [
     {
       "category": "用户体验设计",
@@ -250,55 +249,55 @@
           "published_at": "2026-09-17T13:00:53"
         },
         {
-          "title": "我近期看到的最有创意的 GitHub 开源项目，太惊艳了。",
-          "url": "https://www.woshipm.com/ai/6466415.html",
-          "author": "逛逛GitHub",
+          "title": "WorkBuddy + 腾讯乐享，原来知识库还能这么用",
+          "url": "https://www.woshipm.com/ai/6466932.html",
+          "author": "苍何",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Arnis 能把真实地图上的街道、建筑和山川搬进《我的世界》，在地图上框选一块区域、点一下生成就能走进去探索。实测美国白宫区域效果不错，中国区域因为地图数据不够详细会差一些，它还支持生成月球和火星地形。最近有一个 GitHub 项目，Star 数量涨的还挺猛的。叫 Arnis。喜欢玩《我的世界》游戏的朋友，可能会喜欢这个开源工具。Arnis 可以把真实地图上的街道、建筑和山川，生成《我的世界》里可...",
-          "published_at": "2026-09-19T01:45:09"
+          "summary": "大家好，我是苍何。我在上个月的时候，分享了我是如何用 WorkBuddy + Codex 搭建个人知识库的文章。收获到了很多朋友的喜欢，不少朋友更是在评论区分享自己的搭建实践以及自己的困惑。其中有人问到，说我的那种知识库搭建方式是否支持团队使用。个人知识库可以围绕自己的习惯来搭。到了团队场景或者企业场景，还得考虑：资料散在不同地方怎么汇总，版本不一致该信哪份，哪些内容能让谁、让哪个 Agent 读...",
+          "published_at": "2026-09-19T09:26:21"
         },
         {
-          "title": "不写一个字，却可能是 AI 时代最重要的模型",
-          "url": "https://www.woshipm.com/ai/6466421.html",
-          "author": "深思圈",
+          "title": "阿里内测 Qovest，一个面向个人投资者的AI Agent，要帮你赚钱",
+          "url": "https://www.woshipm.com/ai/6466931.html",
+          "author": "产品笔记",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "TypeSafe AI 发布的 Jev 不生成任何文字，只在几百毫秒内并行给出带概率值的结构化决策。创始人 Diogo Almeida 是 ChatGPT 的联合发明人之一、RLHF 的重要贡献者，他用两年时间回答一个问题：模型这么聪明，自动化为什么还难落地。你有没有想过，AI 模型最大的问题从来不是不够聪明，而是不够可靠？我们已经用了好几年的 ChatGPT、Claude、Gemini，它们能写...",
-          "published_at": "2026-09-19T01:33:11"
+          "summary": "近日，阿里正在内测一个叫做 Qovest 的 AI 金融 Agent产品。这是一个面向专业个人投资者的 AI 金融投研助手。Qovest，这个名字，和阿里的Qoder如出一辙，属于invest（投资）的变体。产品 Slogan：你负责判断，研究交给 Qovest。产品 logo ，是沉稳的金融蓝风格。做金融投研时，很费劲的一个事是，关键资料分散在各处，整理耗时。在Qovest上，支持你对感兴趣的公...",
+          "published_at": "2026-09-19T09:24:00"
         },
         {
-          "title": "微信AI团队开源WeKnora：给知识库装上“手脚”，AI 从能答到能做",
-          "url": "https://www.woshipm.com/ai/6466723.html",
-          "author": "Aine",
+          "title": "为什么APP广告平台接得越来越多，收入没有跟着涨？",
+          "url": "https://www.woshipm.com/operate/6466631.html",
+          "author": "刀客",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当知识库不再满足于\"找答案\"，腾讯开源的WeKnora把文档解析、知识图谱、Agent沙箱与Skill生态串成一条完整链路。0.8.0版本为每个会话提供持久化运行时，让文件读写、脚本执行与产物生成在受控工作区中完成。本文解析这套框架如何让分散文档真正变成可推理、可执行的知识资产。一份产品设计手册，可能同时包含文字、表格、流程图；一套企业制度会不断更新；一个研发项目的知识，又往往分散在文档、代码仓库...",
-          "published_at": "2026-09-18T10:02:43"
+          "summary": "很多开发者接了越来越多广告平台，收入却没有同步上涨，问题不在于广告源不够多，而在于所有用户都被送进同一条 Waterfall。文章以 Taku 的用户价值分组为例，把设备按历史广告表现划出价值区间、各走不同瀑布流，再用 A/B 测试检验效果。假设你正在运营一款App。用户A经常使用产品，过去展示的广告价格也比较高；用户B偶尔打开，历史广告价值相对较低。两个人虽然价值不同，发起广告请求时，却可能进入...",
+          "published_at": "2026-09-19T07:24:13"
         },
         {
-          "title": "为什么中美头部Agent，不约而同走向开放？",
-          "url": "https://www.woshipm.com/ai/6466487.html",
-          "author": "深流研究所",
+          "title": "Anthropic 优化 30 多个生物模型，蛋白质设计成本最高降 98%",
+          "url": "https://www.woshipm.com/ai/6466624.html",
+          "author": "有新Newin",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Agent 竞争白热化之际，OpenAI、Anthropic 和腾讯却纷纷开放自家 Agent 底座。从 Codex Harness 到 Claude Agent SDK，再到 WorkBuddy 生态，一场围绕 Context 与平台化的暗战已然打响。本文深度拆解三巨头的开放逻辑与差异化路径，揭示 Agent 从 coding 走向通用平台的必然趋势。Agent 战场打得最凶的时候，跑在最前面的...",
-          "published_at": "2026-09-18T08:05:50"
+          "summary": "Anthropic 让 Claude 用不到四周优化了 30 多个生物研究开源模型，覆盖蛋白结构预测、蛋白设计与基因组学，平均提速数倍，并把大型分子系统压到单张 GPU 节点上推理。此前要花上万美元算力的蛋白设计流程，如今约 150 美元即可完成计算设计。9 月 17 日，Anthropic 公布 Claude 在生物分子建模上的一组新结果：不到四周，Claude 优化了 30 多个用于生物研究的...",
+          "published_at": "2026-09-19T06:24:01"
         },
         {
-          "title": "从 Demo 到3D游戏，GPT-6 加 Tripo 把清明上河图“整活”了！",
-          "url": "https://www.woshipm.com/share/6466453.html",
-          "author": "鲸选AI",
+          "title": "从 3.44 到 3.47：Flutter 新特性与鸿蒙适配的对照观察",
+          "url": "https://www.woshipm.com/share/6466320.html",
+          "author": "nutpi",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "作者用 GPT-6 Astra 调度 Tripo 生成人物与道具，再用 Three.js 搭场景，把《清明上河图》的网页 Demo 做成有剧情动画、互动人物和收集任务的 3D 游戏。虹桥场景一次做出 45 个人物，并靠动画重定向与拆分进程压低量产成本。3 天 3 夜，我和 AI 一起把《清明上河图》的网页demo ，变成了有剧情动画、有互动NPC、有收集任务的3D游戏！上一篇我们用GPT-6 As...",
-          "published_at": "2026-09-18T07:43:11"
+          "summary": "Flutter 3.44 发布于 Google I/O 2026，3.47 发布于 8 月 12 日； 而 flutter-oh 的 3.44 基线还停留在 canary 预览，3.47 也已经预览可用—— 这中间，只隔了 3 天。一、为什么把 3.44 和 3.47 放在一起看如果你只关注 Flutter 官方节奏，3.44 和 3.47 是两次普通的大版本发布：一次在 Google I/O（5...",
+          "published_at": "2026-09-19T05:47:53"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 14,
+      "count": 7,
       "items": [
         {
           "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
@@ -362,111 +361,39 @@
           "source": "A List Apart",
           "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
           "published_at": null
-        },
-        {
-          "title": "LxL Creative",
-          "url": "https://www.awwwards.com/sites/lxl-creative",
-          "author": "Jordan Gilroy",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "L.I.S.A.",
-          "url": "https://www.awwwards.com/sites/l-i-s-a",
-          "author": "Locomotive",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Aspen Search",
-          "url": "https://www.awwwards.com/sites/aspen-search",
-          "author": "Edoardo Lunardi",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Léo Parpeix - Portfolio 2026",
-          "url": "https://www.awwwards.com/sites/leo-parpeix-portfolio-2026",
-          "author": "Léo Parpeix",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "The Tuscan Journey Begins",
-          "url": "https://www.awwwards.com/sites/the-tuscan-journey-begins",
-          "author": "MONOGRID",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Warm & Fuzzy",
-          "url": "https://www.awwwards.com/sites/warm-fuzzy",
-          "author": "Neutral Studio",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "White Desert",
-          "url": "https://www.awwwards.com/sites/white-desert",
-          "author": "Malvah",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 3,
       "items": [
         {
-          "title": "Ami AI",
-          "url": "https://www.producthunt.com/products/ami-ai",
-          "author": "Garry Tan",
+          "title": "VoiceCap",
+          "url": "https://www.producthunt.com/products/voicecap",
+          "author": "Rokas Jurkenas",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Lovable for getting customersDiscussion|Link",
-          "published_at": "2026-09-16T12:26:17"
+          "summary": "The AI notetaker for meetings in your languageDiscussion|Link",
+          "published_at": "2026-09-17T05:56:36"
         },
         {
-          "title": "ProductBridge",
-          "url": "https://www.producthunt.com/products/productbridge",
-          "author": "Hareesh Vemasani",
+          "title": "Bolt Forge",
+          "url": "https://www.producthunt.com/products/bolt-new",
+          "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI-native customer support and feedback agentDiscussion|Link",
-          "published_at": "2026-09-17T13:56:09"
+          "summary": "Bolt's new agent with open-source models and 50X usageDiscussion|Link",
+          "published_at": "2026-09-16T23:59:56"
         },
         {
-          "title": "Sider Omni Sidebar",
-          "url": "https://www.producthunt.com/products/sider-omni",
-          "author": "Rick Fan",
+          "title": "Punch",
+          "url": "https://www.producthunt.com/products/punch-4",
+          "author": "Paul Kim",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Give every Mac app an Agent SidebarDiscussion|Link",
-          "published_at": "2026-09-16T10:50:40"
-        },
-        {
-          "title": "citizen404",
-          "url": "https://www.producthunt.com/products/citizen404",
-          "author": "Joginder Tanikella",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The AGI runs the world with GPT-6 Astra. Hunt citizen404!Discussion|Link",
-          "published_at": "2026-09-18T07:00:29"
+          "summary": "Save your group chat's important stuffDiscussion|Link",
+          "published_at": "2026-09-18T13:56:07"
         }
       ]
     },
@@ -520,8 +447,8 @@
           "published_at": null
         },
         {
-          "title": "语音只能点按键？微信Mac版巧妙用鼠标长按做交互！",
-          "url": "https://www.uisdc.com/hunter/0221684438.html",
+          "title": "把角色场景做成独立节点，看小云雀如何切中短剧团队痛点？",
+          "url": "https://www.uisdc.com/hunter/0221684669.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -586,6 +513,15 @@
       "count": 6,
       "items": [
         {
+          "title": "你的脸红是什么红：了解玫瑰痤疮",
+          "url": "https://sspai.com/post/114641",
+          "author": "鸿苓",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "脸红发烫却没有小鹿乱撞：警惕玫瑰痤疮。查看全文",
+          "published_at": "2026-09-19T07:00:00"
+        },
+        {
           "title": "本周看什么 | 最近值得一看的 9 部作品",
           "url": "https://sspai.com/post/114716",
           "author": "少数派编辑部",
@@ -629,15 +565,6 @@
           "source": "少数派",
           "summary": "少数派的近期动态口袋先知新版本1.3.3上线，你可以自定义任何你想展示的屏幕效果。了解更多能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解八月买了什 ...查看全文",
           "published_at": "2026-09-18T00:17:34"
-        },
-        {
-          "title": "城市漫步指南｜威海初秋，看海玩沙",
-          "url": "https://sspai.com/post/114557",
-          "author": "Victor42",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "9 月刚开渔，避开暑假，正是玩沙吃海鲜的好时节。而威海，胶东半岛尖端上的海滨小城，有历史厚重的一面，也有现代休闲的一面。多留几天给它，会有很丰富的度假体验。查看全文",
-          "published_at": "2026-09-17T09:47:28"
         }
       ]
     }
