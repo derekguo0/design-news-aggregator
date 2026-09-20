@@ -1,24 +1,34 @@
 {
   "date": "2026-09-20T00:00:00",
-  "total_items": 51,
+  "total_items": 59,
   "sources": [
-    "Design Milk",
-    "Product Hunt",
-    "少数派",
-    "NN/g (Nielsen Norman Group)",
-    "Sidebar",
-    "UX Planet",
+    "人人都是产品经理",
     "A List Apart",
+    "Product Hunt",
     "优设网",
+    "Design Milk",
+    "Awwwards",
     "UX Design CC",
-    "人人都是产品经理"
+    "少数派",
+    "UX Planet",
+    "NN/g (Nielsen Norman Group)",
+    "Sidebar"
   ],
-  "generated_at": "2026-09-20T04:09:33.307039",
+  "generated_at": "2026-09-20T15:43:19.499941",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 9,
+      "count": 10,
       "items": [
+        {
+          "title": "AI nutrition facts",
+          "url": "https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8?source=rss----138adf9c44c---4",
+          "author": "Hiroshi Sato",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Designing an interface between writers, readers, and AIContinue reading on UX Collective »",
+          "published_at": "2026-09-20T12:36:44"
+        },
         {
           "title": "Whatever happened to “Download on the App Store” buttons?",
           "url": "https://uxdesign.cc/whatever-happened-to-download-on-the-app-store-buttons-e39edb72df79?source=rss----138adf9c44c---4",
@@ -221,55 +231,55 @@
           "published_at": "2026-09-17T13:00:53"
         },
         {
-          "title": "拆解 Perplexity：一个搜索框如何长成 200 亿美元的平台！",
-          "url": "https://www.woshipm.com/evaluating/6466946.html",
-          "author": "葱葱",
+          "title": "FDE这么火，产品经理要不要跟？我来泼点冷水",
+          "url": "https://www.woshipm.com/ai/6467287.html",
+          "author": "欧阳俊杰",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Perplexity 月活破亿、估值 200 亿，但它真正的赌注不在搜索框，而在 Comet AI 浏览器。本文从产品经理视角拆解其核心循环、设计语言、商业模式与竞品格局，剖析它凭什么值 200 亿，以及最大的裂缝在哪里。Perplexity 不是搜索引擎。它是一个把”搜索-综合-引用-追问”压缩成一次交互的答案引擎——每个论断有来源，每个来源可点击验证。如今月活破亿、估值 200 亿、年化营收 ...",
-          "published_at": "2026-09-20T03:36:23"
+          "summary": "最近后台被问得最多的一个问题：“杰哥，FDE是不是产品经理的新出路？”我理解大家为什么心动。你去看看FDE的面试题就知道了。有人在Reddit上整理了一份Anthropic的FDE面试指南，里面的题大概是这样的：一家银行想用AI自动化分析师的工作，第一步干什么？客户买了AI、搭了系统，结果说不好用，是模型的锅、数据的锅、权限的锅，还是工作流选错了？老板要让Agent直接改生产系统，安全团队死活不同...",
+          "published_at": "2026-09-20T10:33:56"
         },
         {
-          "title": "Jev新决策模型的试用心得",
-          "url": "https://www.woshipm.com/evaluating/6467031.html",
-          "author": "产品老高",
+          "title": "又一家AI大厂发福利，无套路送75天会员",
+          "url": "https://www.woshipm.com/ai/6467247.html",
+          "author": "怪哥",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "今天刷到一个新出的模型叫 Jev，怪在它不会写字。你给它一段话，它不回话，给的是一个分数、一个概率或者一个 yes/no 的判断。作者为了给自建的知识图谱系统补一个决策模块去充了点钱，玩了一天，聊了聊 vibe coding 为什么让人累。今天刷到一个新出的模型叫 Jev，看完介绍我直接去 OpenRouter 充了点钱。不是为了追什么新出的 GPT 或者 Claude，就是为了试这个怪东西。这个...",
-          "published_at": "2026-09-20T02:59:36"
+          "summary": "正准备睡个回笼觉呢，就看到一个可以顺手领的AI福利，怪哥就立马不困了，上线分享给大家。这次做福利的是阶跃星辰的Step Plan订阅会员。领取后也不需要下载他们的客户端，可以在WorkBuddy、千问办公各种AI软件里配置自定义模型时候调用就行，这也太良心了。阶跃AI这个名字可能很多人不太熟，但人家其实是国产第一梯队大模型，也是AI六小虎。今天刚刚发布了一款新的旗舰模型——Step 5 Previ...",
+          "published_at": "2026-09-20T09:28:17"
         },
         {
-          "title": "现在就用WorkBuddy，免费开发部署上线全栈网站应用",
-          "url": "https://www.woshipm.com/ai/6467024.html",
-          "author": "马佳彬",
+          "title": "比 LLM 快 193 倍、输出 token 免费：Jev 的“判断模型”路线靠谱吗？",
+          "url": "https://www.woshipm.com/ai/6467184.html",
+          "author": "David Lee",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "WorkBuddy 最新的 5.5.6 版本上线了全栈网站应用生成能力，支持一键部署到云服务。老马按官方文档整理了七项核心能力与额度规则：云数据库、文件存储、注册登录、免密钥 AI 调用，免部署、发布即用，还附上手搓网站上线实操。WorkBuddy也是好起来了，最新的5.5.6版本上线了全栈网站应用生成能力，并且支持一键部署到云服务上，省时省心又省力，这个操作很秒哒。01 什么是全栈网站应用什么是...",
-          "published_at": "2026-09-20T02:56:17"
+          "summary": "一个不会写字、只做判断的新模型，来自前 OpenAI 研究员 Diogo Almeida 创办的 TypeSafe AI。这篇笔记梳理了它的 RLCD 训练法、把智能塞进旧壳子的四个比喻，以及十八个行业用例，也如实列出自测数字与「零幻觉」两处可疑的地方。We’re building prod, not God. 我们要造能投入生产的东西，不是造神。——TypeSafe AI这两天听到不少人提Jev...",
+          "published_at": "2026-09-20T08:16:47"
         },
         {
-          "title": "AI都能直接转绘了，用 Skill 会更好看吗？我用GPT和国产模型实测了一下",
-          "url": "https://www.woshipm.com/evaluating/6467020.html",
-          "author": "月鹿造物",
+          "title": "未来的 AI 产品应该怎么被“定义”",
+          "url": "https://www.woshipm.com/share/6467146.html",
+          "author": "沐枫",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "我拍了很多照片，但回头翻相册总觉得差点意思。刷 X 看到有人分享的风格 Skill，普通照片放进去就变成水彩和手账。于是试了两种做法：一种拿参考图做风格迁移，一种装上 Skill 再调用，分别在 GPT、豆包、千问和 WorkBuddy 里各跑一遍。我拍了很多照片，但回头翻相册，总觉得自己拍得不太好看。风景是好看的，饭也挺好吃，怎么到了我的照片里，就差点意思。直接发吧，感觉有点普通，又想看看能不能...",
-          "published_at": "2026-09-20T02:31:45"
+          "summary": "当AI能像产品经理一样理解需求、构建应用并持续迭代，产品形态将发生根本改变。本文通过一家服装品牌的案例，推演AI如何围绕问题生长，从分析积压与退货到自主改进功能，并探讨当实现变容易后，想象力、创造力和判断力为何成为更稀缺的能力。设想一家小型服装品牌，有百来款商品，同时经营两个线上渠道。订单看起来不少，仓库里却总有一批衣服卖不动，退换货也迟迟降不下来。经营者很清楚自己想要什么：减少积压和退换货，同时...",
+          "published_at": "2026-09-20T06:59:22"
         },
         {
-          "title": "为什么大模型跑分很高，到了真实业务却不好用",
-          "url": "https://www.woshipm.com/ai/6466953.html",
-          "author": "小王的AI视野",
+          "title": "SDK实战：产品经理快速开发远程同步观影创意应用",
+          "url": "https://www.woshipm.com/ai/6467145.html",
+          "author": "amycr",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "为什么模型在 Benchmark 上表现优异，上线后却差评如潮？本文深入解析 Benchmark 的运作机制与 SOTA 的真实含义，揭示高分模型在真实业务中可能“水土不服”的三大原因，并给出产品经理科学使用 Benchmark 的实用建议，帮你避开选型陷阱。我们常常会遇到这样的场景：AI产品根据各个 Benchmark 榜单上的成绩选出一个表现领先的模型，项目推进得很顺利，产品也成功上线。正当P...",
-          "published_at": "2026-09-20T02:06:45"
+          "summary": "音视频互动产品开发门槛高？成熟SDK早已抹平技术鸿沟。本文分享一次完整实操：如何依托云屋音视频SDK，3天落地「多人同步远程观影+实时连麦互动」小应用，从需求拆解到功能实现，全程聚焦产品思维与体验优化，为小团队快速验证创意提供可复用的方法论。作为产品经理，我们常常陷入一个误区：觉得音视频类互动产品开发门槛极高，需要深耕流媒体传输、编码解码、网络适配、降噪防抖等底层技术，小团队根本无法快速落地。但实...",
+          "published_at": "2026-09-20T06:47:50"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 6,
+      "count": 13,
       "items": [
         {
           "title": "Designed for a Dead Language",
@@ -324,6 +334,69 @@
           "source": "A List Apart",
           "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
           "published_at": null
+        },
+        {
+          "title": "Pensatori Irrazionali",
+          "url": "https://www.awwwards.com/sites/pensatori-irrazionali",
+          "author": "Pensatori Irrazionali",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Boc.Studio",
+          "url": "https://www.awwwards.com/sites/boc-studio",
+          "author": "Boc.Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "LxL Creative",
+          "url": "https://www.awwwards.com/sites/lxl-creative",
+          "author": "Jordan Gilroy",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "L.I.S.A.",
+          "url": "https://www.awwwards.com/sites/l-i-s-a",
+          "author": "Locomotive",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Aspen Search",
+          "url": "https://www.awwwards.com/sites/aspen-search",
+          "author": "Edoardo Lunardi",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Léo Parpeix - Portfolio 2026",
+          "url": "https://www.awwwards.com/sites/leo-parpeix-portfolio-2026",
+          "author": "Léo Parpeix",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "The Tuscan Journey Begins",
+          "url": "https://www.awwwards.com/sites/the-tuscan-journey-begins",
+          "author": "MONOGRID",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
@@ -332,22 +405,22 @@
       "count": 2,
       "items": [
         {
-          "title": "VoiceCap",
-          "url": "https://www.producthunt.com/products/voicecap",
-          "author": "Rokas Jurkenas",
+          "title": "Morsa Signals",
+          "url": "https://www.producthunt.com/products/morsa-signals",
+          "author": "Sergei Petrov",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The AI notetaker for meetings in your languageDiscussion|Link",
-          "published_at": "2026-09-17T05:56:36"
+          "summary": "GTM and AI visibility workflows for developer toolsDiscussion|Link",
+          "published_at": "2026-09-17T15:07:28"
         },
         {
-          "title": "Basedash Models",
-          "url": "https://www.producthunt.com/products/basedash",
-          "author": "Max Musing",
+          "title": "Launchie 1.6.1",
+          "url": "https://www.producthunt.com/products/launchie",
+          "author": "Nick Friedrich",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Define it once. Query it like a table.Discussion|Link",
-          "published_at": "2026-09-18T16:18:15"
+          "summary": "Launchpad Replacement for MacOS 27 Golden GateDiscussion|Link",
+          "published_at": "2026-09-19T06:59:49"
         }
       ]
     },
@@ -467,6 +540,15 @@
       "count": 6,
       "items": [
         {
+          "title": "觉来知打明钟未，忽听邻家叫佛声：佛国老挝行记",
+          "url": "https://sspai.com/post/114495",
+          "author": "PJHubs",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "这是一趟水陆空三栖的旅行——在万象的街头巷尾无意间推门而入点了一份炸五花肉套饭，味道香上了头发根；在万荣连跳两天水，最高的 8 米跳台跳下来砸得屁股很疼，各种户外活动性价比拉满；琅勃拉邦的慢生活，从清晨薄雾中的布施开始到日落时分反射着金光的湄公河结束。查看全文",
+          "published_at": "2026-09-20T07:00:00"
+        },
+        {
           "title": "给电话加上「辅助驾驶」？我们想听听你的意见",
           "url": "https://sspai.com/post/114717",
           "author": "OrbiSona",
@@ -510,15 +592,6 @@
           "source": "少数派",
           "summary": "让我们一起细数 watchOS 27 中的新功能。查看全文",
           "published_at": "2026-09-18T03:30:00"
-        },
-        {
-          "title": "让 Agent 读懂你的身体：数据获取篇",
-          "url": "https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis",
-          "author": "叁思Santh",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "某一天，我站在健身房里，发现自己似乎已经有一阵子没什么进步了，隐约生出一种「怎么练来练去还是这样」的顿感。我知道，这多半是平台期。理论上，我要做的无非是调整训练量、换动作、看恢复、查饮食，必要时调整周 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "published_at": "2026-09-18T03:19:13"
         }
       ]
     }
