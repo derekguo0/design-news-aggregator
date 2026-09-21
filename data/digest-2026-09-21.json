@@ -1,25 +1,34 @@
 {
   "date": "2026-09-21T00:00:00",
-  "total_items": 49,
+  "total_items": 52,
   "sources": [
-    "优设网",
+    "UX Design CC",
     "Design Milk",
     "少数派",
-    "UX Design CC",
-    "UX Planet",
     "Awwwards",
-    "Product Hunt",
     "A List Apart",
+    "Product Hunt",
+    "Sidebar",
+    "UX Planet",
+    "优设网",
     "人人都是产品经理",
-    "NN/g (Nielsen Norman Group)",
-    "Sidebar"
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2026-09-21T04:06:30.777314",
+  "generated_at": "2026-09-21T18:02:36.144136",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 4,
+      "count": 6,
       "items": [
+        {
+          "title": "For the Designless, The death of the deliverable, iPhone Duo’s UX",
+          "url": "https://uxdesign.cc/for-the-designless-the-death-of-the-deliverable-iphone-duos-ux-d8ce63862469?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“A designer is not an artist. A designer is a commercial problem-solver, hired to take a client’s half-formed intent — a vibe, a feeling, a...",
+          "published_at": "2026-09-21T11:36:07"
+        },
         {
           "title": "AI nutrition facts",
           "url": "https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8?source=rss----138adf9c44c---4",
@@ -46,6 +55,15 @@
           "source": "UX Design CC",
           "summary": "Nader’s fight was never about one car, and neither is this one. AI assisted.Detroit spent a decade calling crashes driver error. The AI industry is running the same defense, now we’re all sitting in t...",
           "published_at": "2026-09-18T07:38:53"
+        },
+        {
+          "title": "Can AI follow a real design system?",
+          "url": "https://uxplanet.org/can-ai-follow-a-real-design-system-c30330ad6dd1?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "I Gave Claude Design My Design System and Here’s What HappenedContinue reading on UX Planet »",
+          "published_at": "2026-09-21T13:48:36"
         },
         {
           "title": "Google Stitch vs Figma AI: I Designed the Same Mobile App With Both",
@@ -150,49 +168,49 @@
           "published_at": "2026-09-18T12:00:17"
         },
         {
-          "title": "5年10000家店，我总结了5条本地生活经营逻辑",
-          "url": "https://www.woshipm.com/marketing/6467348.html",
-          "author": "陈罡Pro",
+          "title": "深度｜豌豆荚往事：中国互联网最体面的「失败者」，如何成为AI时代的黄埔军校",
+          "url": "https://www.woshipm.com/ai/6468106.html",
+          "author": "Z Finance",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "这几年做本地生活，见过太多生意在某个阶段突然跑起来。流量很重要，但流量从来不是终点：门店从100家变成1000家后，企业靠什么继续增长？真正决定用户价值的，是流量之外的经营承接与复制能力。这几年做本地生活，我见过太多生意在某个阶段突然跑起来，即便到现在也会会出现。有人踩中了抖音红利，有人抓住了一轮招商机会，有人靠一个爆品快速开了几百家店，也有人通过低价、投放、达人或者直播，在几个月内把成交做得非常...",
-          "published_at": "2026-09-21T03:43:39"
+          "summary": "2020年2月，中国的第三方应用商店在一个星期里被集体消失。2月14日，PP助手公告产品将于月底下线；2月17日，91助手和安卓市场的渠道包停止上传与管理；2月20日，轮到豌豆荚：PC版将于2月28日停止在线服务，“由此给您带来的不便敬请谅解”。三份公告，措辞客气，语气平静。一个属于安卓草莽年代的入口生意，就此谢幕。媒体后来为这场集体谢幕写下的标题是：《十年，一部中国互联网罗曼蒂克消亡史》。豌豆荚...",
+          "published_at": "2026-09-21T14:50:15"
         },
         {
-          "title": "20小时破百万美元，海外用户为何买Violoop？",
-          "url": "https://www.woshipm.com/ai/6467346.html",
-          "author": "银海",
+          "title": "苹果OV密集发布，涌现“AI OS元周”，到底谁更能打？",
+          "url": "https://www.woshipm.com/it/6467586.html",
+          "author": "鲸选AI",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Kickstarter公开数据显示，Violoop上线约20小时后筹款超过100万美元，来自近两千位支持者。它把Agent从一次性的能力调用，变成可长期使用的个人工作系统，让AI进入用户现有的电脑做事。Violoop刚在Kickstarter交出了一份挺强的首发成绩。据「明亮公司」9月17日引用的Kickstarter公开数据，Violoop上线约20小时后筹款超过100万美元，截至北京时间9月1...",
-          "published_at": "2026-09-21T03:42:11"
+          "summary": "九月第三周，iOS 27、OriginOS 7、ColorOS 17 与鸿蒙 HMAF 集中发布，真正的 AI OS 突然来袭。它们基本都有端侧模型与跨 App 的 Agent 调度能力，代价是内存与价格齐涨，值不值得买还要看实际能力。这周AI OS 密集发布更新，意味着真正的AI手机来了。先是在9月15日，苹果更新了 iOS 27，Siri AI 终于来了；然后是 9 月 16 日，vivo发布...",
+          "published_at": "2026-09-21T09:58:12"
         },
         {
-          "title": "AI 时代，别只追 AI 工具，快去练你的工作流",
-          "url": "https://www.woshipm.com/ai/6467321.html",
-          "author": "知果日记",
+          "title": "鸿蒙PC迎来首款AI编程智能体工作台Qoder：将智能体能力从编程拓展至日常工作",
+          "url": "https://www.woshipm.com/share/6467985.html",
+          "author": "Aine",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "收藏一堆 ChatGPT、Claude、Cursor 教程，回到工作却该怎么干还怎么干，工作方式并没有发生本质变化。文章说缺的不是 AI 能力，而是工作方法：把自己的流程训练成 AI 能参与的步骤，再写成 Skill，让个人经验变成可重复执行的生产线。你是不是也这样子，收藏了一堆 AI 工具教程，学过 ChatGPT、Claude、Cursor，也听过 Agent、MCP、Skill……可真正回到...",
-          "published_at": "2026-09-21T03:27:01"
+          "summary": "9月21日，阿里巴巴旗下智能体工作台 Qoder 正式上线鸿蒙 PC 应用市场，这也是鸿蒙PC的首款AI编程智能体工作台。Qoder 以编程智能体为核心引擎，将任务执行能力拓展至文档处理、数据分析、信息研究等工作场景，为专业程序员和泛开发者提供从提出需求到交付成果的智能协作体验。“你出想法，Qoder 负责实现。”围绕这一理念，Qoder 不止于回答问题、提供建议，还能理解用户意图，自主拆解任务步...",
+          "published_at": "2026-09-21T09:51:06"
         },
         {
-          "title": "产品经理用 AI 干活的一些经验和建议",
-          "url": "https://www.woshipm.com/ai/6467319.html",
-          "author": "简谙",
+          "title": "一万字Jev 工程实践长文：把 Agent 的“判断题”从大模型里拆出来",
+          "url": "https://www.woshipm.com/ai/6467980.html",
+          "author": "AI星球",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "刚接手陌生项目时，让 AI 快速整理行业知识和重点关注点，比从文档第一页啃起高效。本文推荐用 Codex 在同一个项目里持续做需求和原型，并指出 GPT Plus 现在一个月大概 150 元上下，只要不做复杂前后端就够日常产品工作。最近，有个产品经理同事很苦恼，说她被安排紧急接手一个新项目，刚开始没多久就要写需求。她自己项目都没弄明白呢，天天在那看文档看得头疼。我有点话欲言又止。我最近也接手了一个...",
-          "published_at": "2026-09-21T03:26:31"
+          "summary": "最近 Jev 很火。它的传播路径很典型：先是 TypeSafe AI 发布一个听起来有点反常识的新模型，再是 Hacker News、知乎、Reddit 开始争论，接着 GitHub 上很快出现一批 Demo。有人拿它玩 Doom，有人拿它跑 Mario，也有人拿它接进浏览器自动化、代码审查、Agent 路由和上下文压缩里。我一开始对它也有点怀疑。一个“不生成文本”的模型，能有多大空间？现在 GP...",
+          "published_at": "2026-09-21T09:35:49"
         },
         {
-          "title": "一份接口文档，怎么变成一个能点的产品原型？",
-          "url": "https://www.woshipm.com/ai/6467317.html",
-          "author": "产品方法论集散地",
+          "title": "品牌价值主张90%人误解了！坑坏企业",
+          "url": "https://www.woshipm.com/share/6467581.html",
+          "author": "小僧鲲鲲",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "把开发者视角的接口文档交给 AI Agent，先当翻译官再当画图员。面对 PTS 七类接口和拼音缩写字段，作者一个多小时、十二轮对话，产出一个 864 行代码的单文件网页：每个按钮可点、每条流程能跑的产品原型，当场部署成链接发给同事。周一晚上，我收到一份文档：《PTS社公智能一体化组件交付手册》。PTS，一个做社保公积金智能化办理的服务商。我们自己的 HR SaaS 想对接他们的能力——让客户的社...",
-          "published_at": "2026-09-21T03:25:14"
+          "summary": "定位、价值主张与 slogan 常被混为一谈。作者以建筑作喻：定位是选址图纸，价值主张是承重墙，口号只是外墙门牌。价值主张本质是品牌与顾客之间的隐形契约，写不清楚，楼就会盖歪。在品牌战略的讨论中，这种情况高频出现在会议桌上：“我们的slogan就是我们的定位。”话音落下，与会者往往点头附和，讨论就此翻页。这一幕在企业里并不少见。平心而论，责任不都在决策者：一些所谓营销专家，也时常将这组概念混用。定...",
+          "published_at": "2026-09-21T09:07:50"
         }
       ]
     },
@@ -321,16 +339,25 @@
     },
     {
       "category": "产品发现",
-      "count": 1,
+      "count": 2,
       "items": [
         {
-          "title": "Answers by Context.dev",
-          "url": "https://www.producthunt.com/products/context-dev",
-          "author": "Ely",
+          "title": "Google Flow for iOS & Android",
+          "url": "https://www.producthunt.com/products/google",
+          "author": "Chris Messina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Give it a research task + the JSON shape you want back.Discussion|Link",
-          "published_at": "2026-09-19T08:54:55"
+          "summary": "Google's AI creative studio now on mobileDiscussion|Link",
+          "published_at": "2026-09-21T04:12:23"
+        },
+        {
+          "title": "Milliseconds.ai",
+          "url": "https://www.producthunt.com/products/milliseconds-ai",
+          "author": "Baptiste Laget",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Fast AI decisions on text and images, via one APIDiscussion|Link",
+          "published_at": "2026-09-20T20:14:25"
         }
       ]
     },
@@ -384,8 +411,8 @@
           "published_at": null
         },
         {
-          "title": "同样是清理系统垃圾，为何 AppZapper 能让人玩上瘾？",
-          "url": "https://www.uisdc.com/hunter/0221684784.html",
+          "title": "精准和范围冲突？iOS 27 灵动岛用长按破局！",
+          "url": "https://www.uisdc.com/hunter/0221684887.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -399,49 +426,49 @@
       "count": 5,
       "items": [
         {
-          "title": "For the Designless",
-          "url": "https://uxdesign.cc/for-the-designless-0d3e7936a70c",
+          "title": "The AI notepad for back-to-back meetings",
+          "url": "https://bit.ly/side-gra5",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "On the value of cultural references, and the cost of losing them at scale.",
-          "published_at": "2026-09-18T07:53:57"
+          "summary": "Notes, actions and memory. Without a meeting bot.",
+          "published_at": "2026-09-21T08:00:00"
         },
         {
-          "title": "Craft",
-          "url": "https://craft.gustavofior.com/",
+          "title": "Making software hurts now",
+          "url": "https://notes.erlend.sh/3muwdtclths2d",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A collection of design engineering concepts.",
-          "published_at": "2026-09-18T07:51:14"
+          "summary": "And hurt people hurt people.",
+          "published_at": "2026-09-21T07:56:00"
         },
         {
-          "title": "We are all Product Engineers now",
-          "url": "https://seldo.com/posts/we-are-all-product-engineers-now/",
+          "title": "How Rob Farmer turns half-baked sketches into New York Times covers",
+          "url": "https://www.creativeboom.com/work/how-rob-farmer-turns-half-baked-sketches-into-new-york-times-covers/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Where, in fact, is the entire industry of software going in the next decade?",
-          "published_at": "2026-09-18T07:50:12"
+          "summary": "The motion designer discusses procedural software, editorial deadlines and why perfectionism is the enemy of good work getting seen.",
+          "published_at": "2026-09-21T07:55:06"
         },
         {
-          "title": "Why your numbers look wrong",
-          "url": "https://www.carmenansio.com/articles/opentype-features-css/",
+          "title": "Walking Men",
+          "url": "https://walking-men.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "It’s the figures your font gives you by default, and the better ones it keeps a switch away.",
-          "published_at": "2026-09-18T07:49:13"
+          "summary": "A series of public art installations of pedestrian traffic icons assembled from around the world, presented in humane scale.",
+          "published_at": "2026-09-21T07:54:19"
         },
         {
-          "title": "Designing with AI",
-          "url": "https://buzzusborne.com/work/designing-with-ai/",
+          "title": "Email has never been free",
+          "url": "https://buttondown.com/blog/metered-email",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How a career of building creative teams and design systems led to AI tools that increase speed without lowering the quality bar.",
-          "published_at": "2026-09-18T07:48:17"
+          "summary": "The question is only who pays for it, and how.",
+          "published_at": "2026-09-21T07:53:24"
         }
       ]
     },
@@ -450,6 +477,51 @@
       "count": 6,
       "items": [
         {
+          "title": "一台主机，多重角色：新款 Mac mini 首发体验",
+          "url": "https://sspai.com/post/114829",
+          "author": "waychane",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Macmini虽然不是性能最强、体验最完整的Mac电脑，但在AI时代，它或许比以往任何时候都更适合家庭用户。从年初OpenClaw的现象级走红，到如今Codex引领Agent工作方式潮流，这台小巧精悍 ...查看全文",
+          "published_at": "2026-09-21T13:02:58"
+        },
+        {
+          "title": "派评 | 近期值得关注的 App",
+          "url": "https://sspai.com/post/114815",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "published_at": "2026-09-21T09:57:01"
+        },
+        {
+          "title": "以人为本还是脱离实际？GNOME 桌面环境的演进及争议",
+          "url": "https://sspai.com/prime/story/the-development-and-controversies-of-gnome-de",
+          "author": "Cheech",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "反复失败的预言1999年，时任SUSE首席技术官的DirkHohndel大概不会想到，自己口中的「Linux桌面元年」此后会被反复提起，成为圈内一个著名的迷因。每年都有人扮演先知，然后看着统计报告上的 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "published_at": "2026-09-21T09:02:38"
+        },
+        {
+          "title": "体验过华为 Pura X View 后，他们最想留下的「阔体验」是……",
+          "url": "https://sspai.com/post/114734",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "不久前，我们发起了「华为PuraXView新品探索计划」，请大家去线下门店亲自感受华为PuraXView，也向我们分享那些最真实、细致的上手体验。比起参数表，我们更想知道，换成一块更阔的屏幕后，到底哪 ...查看全文",
+          "published_at": "2026-09-21T05:26:32"
+        },
+        {
+          "title": "当 AI 让执行力变得廉价，我们该拿什么脱颖而出？",
+          "url": "https://sspai.com/post/114519",
+          "author": "shiquda",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "当代码与设计的生产成本趋近于零，我们可以这样跳出工具的依赖，构建属于自己的优势和认知壁垒。查看全文",
+          "published_at": "2026-09-21T03:38:08"
+        },
+        {
           "title": "派早报：微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃",
           "url": "https://sspai.com/post/114788",
           "author": "少数派编辑部",
@@ -457,51 +529,6 @@
           "source": "少数派",
           "summary": "微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃12306 称第三方购票可能更慢或失败特朗普提议为人工智能改名谷歌在 Android 17 中加入 Pixel 独占的 APIiPhone 18 Pro Max 支持固件限制电量以便发运苹果硬件工程副总裁表示不建议贴膜看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
           "published_at": "2026-09-20T22:26:04"
-        },
-        {
-          "title": "觉来知打明钟未，忽听邻家叫佛声：佛国老挝行记",
-          "url": "https://sspai.com/post/114495",
-          "author": "PJHubs",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "这是一趟水陆空三栖的旅行——在万象的街头巷尾无意间推门而入点了一份炸五花肉套饭，味道香上了头发根；在万荣连跳两天水，最高的 8 米跳台跳下来砸得屁股很疼，各种户外活动性价比拉满；琅勃拉邦的慢生活，从清晨薄雾中的布施开始到日落时分反射着金光的湄公河结束。查看全文",
-          "published_at": "2026-09-20T07:00:00"
-        },
-        {
-          "title": "给电话加上「辅助驾驶」？我们想听听你的意见",
-          "url": "https://sspai.com/post/114717",
-          "author": "OrbiSona",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "会议开到一半，手机亮了：一个陌生号码。你盯着屏幕犹豫了几秒，不知道这会是推销、客户，还是外卖员。直接挂掉，又得惦记着会不会耽误正事；接起来，不方便说，聊完还得整理待办。轮到你主动打电话，也不轻松。邀约 ...查看全文",
-          "published_at": "2026-09-20T03:01:47"
-        },
-        {
-          "title": "你的脸红是什么红：了解玫瑰痤疮",
-          "url": "https://sspai.com/post/114641",
-          "author": "鸿苓",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "脸红发烫却没有小鹿乱撞，可能真不是什么好事……查看全文",
-          "published_at": "2026-09-19T07:00:00"
-        },
-        {
-          "title": "本周看什么 | 最近值得一看的 9 部作品",
-          "url": "https://sspai.com/post/114716",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "📅本周新预告《哆啦A梦大雄的蒸汽时间车》首支特报9月15日，动画电影《哆啦A梦大雄的蒸汽时间车》发布了特报影像，定档2027年3月5日在日本上映。本作为《哆啦A梦》电影系列第46部作品，森山瑠潮执导， ...查看全文",
-          "published_at": "2026-09-18T09:58:55"
-        },
-        {
-          "title": "8月音乐精选：有限的生命里，要听得再任性一点！",
-          "url": "https://sspai.com/post/114555",
-          "author": "麻乐",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文",
-          "published_at": "2026-09-18T06:55:30"
         }
       ]
     }
