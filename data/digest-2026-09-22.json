@@ -1,24 +1,79 @@
 {
   "date": "2026-09-22T00:00:00",
-  "total_items": 42,
+  "total_items": 55,
   "sources": [
+    "Design Milk",
+    "NN/g (Nielsen Norman Group)",
+    "UX Planet",
+    "Awwwards",
     "少数派",
+    "Sidebar",
+    "人人都是产品经理",
     "Product Hunt",
     "优设网",
     "A List Apart",
-    "人人都是产品经理",
-    "Sidebar",
-    "NN/g (Nielsen Norman Group)",
-    "Design Milk",
-    "UX Planet",
     "UX Design CC"
   ],
-  "generated_at": "2026-09-22T04:04:16.690732",
+  "generated_at": "2026-09-22T16:35:33.986841",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 5,
+      "count": 12,
       "items": [
+        {
+          "title": "Designers lost their unit of measurement. That’s why we’re struggling.",
+          "url": "https://uxdesign.cc/designers-lost-their-unit-of-measurement-thats-why-we-re-struggling-b3c6beeea74f?source=rss----138adf9c44c---4",
+          "author": "Kai Wong",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "If screens don’t work as a unit of measurement, what does instead?Continue reading on UX Collective »",
+          "published_at": "2026-09-22T11:23:11"
+        },
+        {
+          "title": "The variance problem in AI products",
+          "url": "https://uxdesign.cc/the-variance-problem-in-ai-products-62a58272564c?source=rss----138adf9c44c---4",
+          "author": "Adi Leviim",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Users forgive a slow answer. What breaks trust is an AI product that is fast one day, slow the next, and never says why.The same six seconds, described two ways. Only one of them tells you whether six...",
+          "published_at": "2026-09-22T11:22:49"
+        },
+        {
+          "title": "What is a screen made of?",
+          "url": "https://uxdesign.cc/what-is-a-screen-made-of-f2b1318778d4?source=rss----138adf9c44c---4",
+          "author": "Takuma Kakehi",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Flat design was right that the screen isn’t leather. Then it assumed that meant nothing.Continue reading on UX Collective »",
+          "published_at": "2026-09-22T11:22:00"
+        },
+        {
+          "title": "Where does your work go when the tool shuts down?",
+          "url": "https://uxdesign.cc/where-does-your-work-go-when-the-tool-shuts-down-d3b74c2a74d8?source=rss----138adf9c44c---4",
+          "author": "Dora Czerna",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "A quarter of the last decade’s web pages have vanished, mostly from sites still online. Who’s archiving yours?Continue reading on UX Collective »",
+          "published_at": "2026-09-22T11:21:28"
+        },
+        {
+          "title": "Nobody starts as an accessibility expert",
+          "url": "https://uxdesign.cc/nobody-starts-as-an-accessibility-expert-6a16e8a99960?source=rss----138adf9c44c---4",
+          "author": "Hope Turner",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Designers, leave your intimidation at the door.Nobody becomes a designer because they’re excited about compliance. It sounds boring and it sounds like someone else’s job. Most of us are glad it is.But...",
+          "published_at": "2026-09-22T04:33:52"
+        },
+        {
+          "title": "Can stress be quantified?",
+          "url": "https://uxdesign.cc/can-stress-be-quantified-d247a81dd0f2?source=rss----138adf9c44c---4",
+          "author": "Catherine Chu",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The science and design behind wearable stress tracking(Image source)Many wearable devices have moved beyond counting steps and tracking heart rate. Now they are trying to measure something more compli...",
+          "published_at": "2026-09-22T04:32:17"
+        },
         {
           "title": "The lie we keep telling ourselves about regulating AI",
           "url": "https://uxdesign.cc/the-lie-we-keep-telling-ourselves-about-regulating-ai-61e0163d795e?source=rss----138adf9c44c---4",
@@ -54,6 +109,15 @@
           "source": "UX Design CC",
           "summary": "Designing an interface between writers, readers, and AIContinue reading on UX Collective »",
           "published_at": "2026-09-20T12:36:44"
+        },
+        {
+          "title": "Figma vs. Claude Design: From UI Screenshot to Functional Prototype",
+          "url": "https://uxplanet.org/figma-vs-claude-design-from-ui-screenshot-to-functional-prototype-82e00fb924bc?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Both Figma and Claude Design allow you to go from a design idea to a fully functional prototype. And the cool thing is that you can feed…Continue reading on UX Planet »",
+          "published_at": "2026-09-22T13:52:21"
         },
         {
           "title": "Can AI follow a real design system?",
@@ -140,55 +204,55 @@
           "published_at": "2026-09-22T00:04:40"
         },
         {
-          "title": "workbuddy不开机永久自动签到领积分",
-          "url": "https://www.woshipm.com/ai/6468057.html",
-          "author": "马佳彬",
+          "title": "我把463个AI视频做成了Skill和提示语模版，全都开源！",
+          "url": "https://www.woshipm.com/ai/6468462.html",
+          "author": "卡尔的AI沃茨",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "WorkBuddy 每天打开客户端就会自动签到领积分，长期不开机等于白扔。文章先讲清新版签到机制的变化，再用金山文档脚本加定时任务，实现不开机也能自动领取，并附上四步部署与令牌失效的排查方法。说到WorkBuddy的Buddy加油站，小伙伴一定是不陌生的。那就是每天可以打开WorkBuddy的电脑客户端软件，进行签到，领取100积分的奖励。积分约等于token，有了积分，就可以免费使用WorkBu...",
-          "published_at": "2026-09-22T03:11:24"
+          "summary": "作者开源了跑了近一个月的项目 awesome-seedance，把 463 条 AI 视频提示语重新实测了一遍，产出覆盖各类视频的提示语模版与 Skills，并复盘了视频复现比图片难在哪、打分与聚类又是怎么自动完成的。很多人都问过我是怎么从一个程序员到做出百万播放的AI视频的，答案就四个字，审美积累。看到好看的视频片段，愿意花积分去复现它。做多了你就能学会点分镜思维，了解什么模型适合做什么类型的片...",
+          "published_at": "2026-09-22T10:56:05"
         },
         {
-          "title": "AI 接单平台选好了，新手怎么接到第一单？",
-          "url": "https://www.woshipm.com/share/6468054.html",
-          "author": "子文",
+          "title": "Jev爆火，具身智能迎来大救星？",
+          "url": "https://www.woshipm.com/ai/6468439.html",
+          "author": "AIX财经",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在 AI 接单平台注册并上架服务之后，为什么迟迟等不到第一单？文章把从主页包装、标题写法、样例作品到分档定价与详情页说明的准备工作逐条拆开，也给出新手常踩的坑和一份七天安排。前些天介绍了7个AI接单平台试了7 个 AI 接单平台，只有这 3 个真能接到单。如果你看完去注册了账号、上架了服务，大概率很快会遇到一个让人着急的情况：服务挂了好几天，没人来问，更没人下单。是不是平台不行？是不是AI副业根本...",
-          "published_at": "2026-09-22T03:09:30"
+          "summary": "一个只做判断、不生成文本的模型 Jev 走红，由前 OpenAI 研究员创立的 TypeSafe AI 发布，被归入 System One Models 这一新品类。文章拆解它的速度与成本优势，以及它对 Agent 调用结构和模型分工的可能影响。最近，一个不聊天、不写代码的AI模型刷屏了。开发者把它塞进各种应用，有人拿它玩游戏，有人用它分邮件，还有人让它操控浏览器。它叫Jev，由前OpenAI研究...",
+          "published_at": "2026-09-22T10:49:26"
         },
         {
-          "title": "刘大一恒接棒林俊旸，阿里重新明确 Qwen 模型负责人",
-          "url": "https://www.woshipm.com/ai/6468052.html",
-          "author": "有新Newin",
+          "title": "部署TradingAgents：把一家公司“装进”大模型里，自动完成股票研究",
+          "url": "https://www.woshipm.com/ai/6468328.html",
+          "author": "AI李子",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "据 The Information 报道，阿里已任命刘大一恒担任 Qwen 大语言模型负责人，完整头衔为 ATH 事业群 Token Foundry Qwen LLM 项目负责人。文章梳理了半年内从林俊旸离职到组织重组的这条线。9 月 21 日，阿里 Qwen 团队持续半年的负责人调整有了更明确的结果。据 The Information 援引两名知情员工消息，阿里巴巴已经任命刘大一恒担任 Qwen...",
-          "published_at": "2026-09-22T03:06:34"
+          "summary": "TradingAgents把真实机构的研究、讨论与风控流程拆成可协作的角色：基本面、技术、新闻与情绪分析师各自处理数据，多空研究员辩论，交易员形成计划，风控与组合经理审核。项目在GitHub已获超10.8万Star，四条命令即可启动。今天和大家分享一个股票研究类的开源项目：TradingAgents。它是一个面向金融研究的多智能体开源框架。它尝试把真实交易机构中的研究、讨论和风控流程，组织成一套可...",
+          "published_at": "2026-09-22T10:47:21"
         },
         {
-          "title": "简单讲讲 Agent 的工作原理",
-          "url": "https://www.woshipm.com/ai/6468050.html",
-          "author": "赛博禅心",
+          "title": "搞AI 版华盛顿条约？Anthropic一边呼吁放缓发展AI，一边怕被中国超越",
+          "url": "https://www.woshipm.com/ai/6468427.html",
+          "author": "新商业派",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Agent 产品的用途各不相同，底层却是同一套 Harness 对上下文的自动化编排。文章从上下文来源与请求组装讲起，说明模型每次判断前系统准备了什么，以及工具调用怎样与请求配对，让任务一步步走完。现在的 Agent 的产品越来越多，有些主打 Coding，有些事做日常办公，也有些用于情感陪伴虽然这些产品的用途不同，背后的工作原理其实都大同小异，便是 Harness 对上下文的自动化编排本文则是以...",
-          "published_at": "2026-09-22T03:05:56"
+          "summary": "Anthropic 首席执行官达里奥·阿莫迪发表长文，呼吁全球 AI 行业有意放缓模型能力提升速度，并提出三步走监管框架。马斯克与奥尔特曼公开表态支持，文章同时拆解这套裁军式倡议背后的现实算盘与落地困境。2026年9月12日，Anthropic首席执行官达里奥·阿莫迪发表了一篇约3800字的长文《我们必须为前沿技术设定节奏》，呼吁全球AI行业“有意放缓”模型能力的提升速度，并提出了一个三步走的监管...",
+          "published_at": "2026-09-22T10:44:47"
         },
         {
-          "title": "大模型+用户生命周期：指标划分、成长路径、业务应用",
-          "url": "https://www.woshipm.com/share/6468025.html",
-          "author": "接地气的陈老师",
+          "title": "大厂后训练视角看Jev模型的更新（大白话）",
+          "url": "https://www.woshipm.com/ai/6468130.html",
+          "author": "AI搭子木木",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "理论把用户生命周期分成引入期、成长期、成熟期、衰退期和流失期，可真实人群是混在一起的。文章指出问题常出在分母上：把压根不是目标群体的用户一直算进来，转化率会被系统性低估，所以要先把这批人摘出去。“识别用户生命周期”是精细化运营的基础，是体现数据分析价值的重要手段。你让 AI 讲用户生命周期，它能把五个阶段的定义、每个阶段的运营策略写得比教科书还完整——引入期做什么、成长期做什么、衰退期怎么召回，一...",
-          "published_at": "2026-09-22T03:04:30"
+          "summary": "Jev 的爆火并非因为“读懂潜台词”的趣味截图，而是它试图用 RLCD 取代 RLHF，让大模型从“会聊天”转向“能决策”。本文用大白话拆解预训练、RLHF 到 RLCD 的演进，结合客服等场景，客观分析 Jev 的价值、局限与待验证之处。Jev 最近因为各种“读懂潜台词”的趣味截图爆火，但它真正值得关注的，并不是会不会分析老板和对象，而是它尝试改变大模型的后训练目标。本文将用大白话讲清从预训练、...",
+          "published_at": "2026-09-22T09:21:07"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 6,
+      "count": 13,
       "items": [
         {
           "title": "Designed for a Dead Language",
@@ -243,30 +307,84 @@
           "source": "A List Apart",
           "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
           "published_at": null
+        },
+        {
+          "title": "bleibtgleich'26",
+          "url": "https://www.awwwards.com/sites/bleibtgleich26",
+          "author": "The First The Last",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Gil Huybrecht",
+          "url": "https://www.awwwards.com/sites/gil-huybrecht",
+          "author": "Gil Huybrecht",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Pensatori Irrazionali",
+          "url": "https://www.awwwards.com/sites/pensatori-irrazionali",
+          "author": "Pensatori Irrazionali",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Boc.Studio",
+          "url": "https://www.awwwards.com/sites/boc-studio",
+          "author": "Boc.Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "LxL Creative",
+          "url": "https://www.awwwards.com/sites/lxl-creative",
+          "author": "Jordan Gilroy",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "L.I.S.A.",
+          "url": "https://www.awwwards.com/sites/l-i-s-a",
+          "author": "Locomotive",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Aspen Search",
+          "url": "https://www.awwwards.com/sites/aspen-search",
+          "author": "Edoardo Lunardi",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 1,
       "items": [
         {
-          "title": "slop-grader",
-          "url": "https://www.producthunt.com/products/slop-grader",
-          "author": "Lukas",
+          "title": "Freebuff Ads",
+          "url": "https://www.producthunt.com/products/freebuff-2",
+          "author": "Dawson Chen",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Jev-AI CLI tool that evaluates text against custom rulesetsDiscussion|Link",
-          "published_at": "2026-09-20T17:10:58"
-        },
-        {
-          "title": "Plume",
-          "url": "https://www.producthunt.com/products/plume-11",
-          "author": "Tharsan",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Import your old CV, get a polished ATS-ready one in minutesDiscussion|Link",
-          "published_at": "2026-09-20T16:07:49"
+          "summary": "Advertise to 500k developers in our coding agentDiscussion|Link",
+          "published_at": "2026-09-21T20:56:02"
         }
       ]
     },
@@ -320,8 +438,8 @@
           "published_at": null
         },
         {
-          "title": "搞不懂苹果设计规范？让AI调取设计指南帮你推敲！",
-          "url": "https://www.uisdc.com/hunter/0221684915.html",
+          "title": "底栏总嫌挤？看波点音乐如何用环形进度条省出大空间",
+          "url": "https://www.uisdc.com/hunter/0221684984.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -335,49 +453,49 @@
       "count": 5,
       "items": [
         {
-          "title": "The AI notepad for back-to-back meetings",
-          "url": "https://bit.ly/side-gra5",
+          "title": "I am often wrong",
+          "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Notes, actions and memory. Without a meeting bot.",
-          "published_at": "2026-09-21T08:00:00"
+          "summary": "Six steps for pretty much every problem, and pretty much every product.",
+          "published_at": "2026-09-22T04:45:36"
         },
         {
-          "title": "Making software hurts now",
-          "url": "https://notes.erlend.sh/3muwdtclths2d",
+          "title": "The Enshittification Resistant Software",
+          "url": "https://er-certification.statichost.page/index.html",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "And hurt people hurt people.",
-          "published_at": "2026-09-21T07:56:00"
+          "summary": "A self certification process with a somewhat official blessing.",
+          "published_at": "2026-09-22T04:44:32"
         },
         {
-          "title": "How Rob Farmer turns half-baked sketches into New York Times covers",
-          "url": "https://www.creativeboom.com/work/how-rob-farmer-turns-half-baked-sketches-into-new-york-times-covers/",
+          "title": "Scenarios for our economic future",
+          "url": "https://www.anthropic.com/institute/econ-scenarios",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The motion designer discusses procedural software, editorial deadlines and why perfectionism is the enemy of good work getting seen.",
-          "published_at": "2026-09-21T07:55:06"
+          "summary": "The Anthropic Economics Team models the effects of AI on the economy of 2030.",
+          "published_at": "2026-09-22T04:43:44"
         },
         {
-          "title": "Walking Men",
-          "url": "https://walking-men.com/",
+          "title": "Filling in the last row of a responsive grid",
+          "url": "https://twilson.net/writing/filling-responsive-grid",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A series of public art installations of pedestrian traffic icons assembled from around the world, presented in humane scale.",
-          "published_at": "2026-09-21T07:54:19"
+          "summary": "Filler cells for CSS grids with borders.",
+          "published_at": "2026-09-22T04:43:15"
         },
         {
-          "title": "Email has never been free",
-          "url": "https://buttondown.com/blog/metered-email",
+          "title": "Natural General Intelligence",
+          "url": "https://naturalgeneralintelligence.ai/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The question is only who pays for it, and how.",
-          "published_at": "2026-09-21T07:53:24"
+          "summary": "The case for a nature model that learns the state and dynamics of the planet itself.",
+          "published_at": "2026-09-22T04:42:54"
         }
       ]
     },
@@ -385,6 +503,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验",
+          "url": "https://sspai.com/post/114878",
+          "author": "waychane",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "在BeatsStudioPro发布3年之后，Beats终于想起来要更新一下自家头戴式耳机的旗舰款了，推出了全新的Beats360。值得一提的是，Beats不久前刚刚度过了成立后的20周年生日，Beat ...查看全文",
+          "published_at": "2026-09-22T14:00:00"
+        },
+        {
+          "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
+          "url": "https://sspai.com/post/114551",
+          "author": "随便好啦",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "黄金时代「时尚与科技结合」的浪漫。查看全文",
+          "published_at": "2026-09-22T08:11:03"
+        },
+        {
+          "title": "App+1 | Coast：用十年经验，给记账这件事一个「终点」",
+          "url": "https://sspai.com/post/114479",
+          "author": "thisLeon",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "从大学时代入不敷出开始记账，到 10 年后发现记账数据没有被充分利用，再到用 Vibe Coding 把自己的想法做成了一款 App——10 年的记账经验变成了产品设计的基础，而 Vibe Coding 让一个非技术出身的人有能力把这些想法实现出来。查看全文",
+          "published_at": "2026-09-22T06:39:39"
+        },
         {
           "title": "少数派独家｜泡泡骚 Low Pro 碳纹黑款，把握持与支撑收进 2.6mm",
           "url": "https://sspai.com/post/114823",
@@ -411,33 +556,6 @@
           "source": "少数派",
           "summary": "Macmini虽然不是性能最强、体验最完整的Mac电脑，但在AI时代，它或许比以往任何时候都更适合家庭用户。从年初OpenClaw的现象级走红，到如今Codex引领Agent工作方式潮流，这台小巧精悍 ...查看全文",
           "published_at": "2026-09-21T13:02:58"
-        },
-        {
-          "title": "派评 | 近期值得关注的 App",
-          "url": "https://sspai.com/post/114815",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
-          "published_at": "2026-09-21T09:57:01"
-        },
-        {
-          "title": "以人为本还是脱离实际？GNOME 桌面环境的演进及争议",
-          "url": "https://sspai.com/prime/story/the-development-and-controversies-of-gnome-de",
-          "author": "Cheech",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "反复失败的预言1999年，时任SUSE首席技术官的DirkHohndel大概不会想到，自己口中的「Linux桌面元年」此后会被反复提起，成为圈内一个著名的迷因。每年都有人扮演先知，然后看着统计报告上的 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "published_at": "2026-09-21T09:02:38"
-        },
-        {
-          "title": "体验过华为 Pura X View 后，他们最想留下的「阔体验」是……",
-          "url": "https://sspai.com/post/114734",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "不久前，我们发起了「华为PuraXView新品探索计划」，请大家去线下门店亲自感受华为PuraXView，也向我们分享那些最真实、细致的上手体验。比起参数表，我们更想知道，换成一块更阔的屏幕后，到底哪 ...查看全文",
-          "published_at": "2026-09-21T05:26:32"
         }
       ]
     }
