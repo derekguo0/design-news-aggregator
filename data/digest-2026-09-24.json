@@ -1,24 +1,24 @@
 {
   "date": "2026-09-24T00:00:00",
-  "total_items": 62,
+  "total_items": 66,
   "sources": [
-    "人人都是产品经理",
-    "UX Planet",
-    "优设网",
-    "Design Milk",
-    "A List Apart",
-    "Awwwards",
-    "Sidebar",
-    "UX Design CC",
     "NN/g (Nielsen Norman Group)",
+    "Product Hunt",
+    "优设网",
+    "UX Design CC",
+    "Awwwards",
+    "人人都是产品经理",
+    "Sidebar",
     "少数派",
-    "Product Hunt"
+    "Design Milk",
+    "UX Planet",
+    "A List Apart"
   ],
-  "generated_at": "2026-09-24T03:54:48.751421",
+  "generated_at": "2026-09-24T16:47:34.827317",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 13,
+      "count": 14,
       "items": [
         {
           "title": "Why the best resume may be the wrong resume for a design team",
@@ -111,6 +111,15 @@
           "published_at": "2026-09-21T22:47:57"
         },
         {
+          "title": "GPT-6 Astra vs Opus 5.5: Which one is better for product design?",
+          "url": "https://uxplanet.org/gpt-6-astra-vs-opus-5-5-which-one-is-better-for-product-design-ea66a6ff4527?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Anthropic recently updated its flagship AI model, Opus.Continue reading on UX Planet »",
+          "published_at": "2026-09-24T12:26:11"
+        },
+        {
           "title": "Claude Opus 5.5 for Product Designers",
           "url": "https://uxplanet.org/claude-opus-5-5-for-product-designers-6d354142d5ac?source=rss----819cc2aaeee0---4",
           "author": "Nick Babich",
@@ -141,11 +150,20 @@
     },
     {
       "category": "用户体验研究",
-      "count": 5,
+      "count": 6,
       "items": [
         {
           "title": "Designing AI Products and Features: Study Guide",
           "url": "https://www.nngroup.com/articles/designing-ai-study-guide/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "The 3 Roles of Context for AI Agents",
+          "url": "https://www.nngroup.com/articles/3-agent-context-roles/",
           "author": null,
           "category": "用户体验研究",
           "source": "NN/g (Nielsen Norman Group)",
@@ -192,8 +210,26 @@
     },
     {
       "category": "产品设计",
-      "count": 10,
+      "count": 11,
       "items": [
+        {
+          "title": "Wrensilva Gives Its Studio Record Console a Lighter Look in White Oak",
+          "url": "https://design-milk.com/wrensilva-studio-white-oak-record-console/",
+          "author": "Justin Kirkland",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "The compact record console pairs rift- and quarter-sawn White Oak grain with natural speaker fabric, caramel leather, and Wrensilva’s audio system",
+          "published_at": "2026-09-24T14:00:41"
+        },
+        {
+          "title": "Tiffany’s Blue Box Café Brings Breakfast at Tiffany’s to California",
+          "url": "https://design-milk.com/tiffany-blue-box-cafe-south-coast-plaza/",
+          "author": "Tiffany Harrison",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "The first California Blue Box Café turns Tiffany & Co.’s signature color, blue boxes, and monogram into an immersive dining room at South Coast Plaza",
+          "published_at": "2026-09-24T13:00:01"
+        },
         {
           "title": "The Artful—and Thoughtful—Side of Vegetables",
           "url": "https://design-milk.com/taste-curious-lives-of-vegetables/",
@@ -231,58 +267,49 @@
           "published_at": "2026-09-22T21:42:36"
         },
         {
-          "title": "Urban Cowboy Brings Its Maximalist Americana to Governors Island",
-          "url": "https://design-milk.com/urban-cowboy-tent-governors-island/",
-          "author": "Bianca Weeko Martin",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "A 325-square-foot tent layers Pendleton textiles, vintage finds, and a cast-iron soaking tub into an unlikely Western escape overlooking New York Harbor",
-          "published_at": "2026-09-22T00:04:40"
-        },
-        {
-          "title": "大模型效率竞赛加速：MiMo V2.6 双登顶，「单位智能成本」成为新价值锚",
-          "url": "https://www.woshipm.com/ai/6469518.html",
-          "author": "Z Finance",
+          "title": "WorkBuddy，提个需求就能做产品了？",
+          "url": "https://www.woshipm.com/ai/6470044.html",
+          "author": "欧阳俊杰",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "2026 年，能力上限不再是唯一焦点：Google 密集迭代 Flash，OpenAI 给旗舰分档并大幅降价，Anthropic 发布 Claude Opus 5.5 时也把效率放到了核心位置，行业开始用智能与成本的帕累托前沿描述这场竞赛。2022 年末，ChatGPT 把大模型推到聚光灯下。此后的三年多里，最吸引注意力的始终是能力上限：模型还能变得多聪明，还能解决多难的问题。Scaling La...",
-          "published_at": "2026-09-24T03:19:42"
+          "summary": "AI办公赛道卷到飞起，WorkBuddy却拿下中国个人端和企业级桌面智能体双榜第一。本文用“一句话需求”实测：让WorkBuddy从0到1开发一个面向英语老师的教育产品，不拆任务、不替它定流程，结果它真的做到了。功能丰富只是基础，能把模糊想法推进到可用成果，才是Agent的硬实力。过去一段时间，AI 办公可以说是卷得最狠的赛道之一：写文档的、做 PPT 的、管项目的，隔三差五就冒出一个新产品，大家...",
+          "published_at": "2026-09-24T09:18:14"
         },
         {
-          "title": "有主业后副业更新慢？我用AI把节奏捡回来了",
-          "url": "https://www.woshipm.com/ai/6469668.html",
-          "author": "曙欧巴",
+          "title": "元宇宙成了Muse的AI挂件",
+          "url": "https://www.woshipm.com/ai/6469978.html",
+          "author": "数智奔流",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "从全职做亚马逊转成兼职后，白天上班、晚上带娃，写一篇要两三个小时，于是经常算了不写了。本文作者把重复机械的活全交给 AI：素材按自己的文风出初稿、脚本自动生成封面、一键推进草稿箱，现在从素材到草稿约半小时，但 IP 白名单和封面字体仍要人工收拾。今天有人问我：有了主业之后，副业和内容更新是不是就慢下来了？说实话，确实慢了。我之前全职做亚马逊，时间自由，每天都能写点东西记录。后来转成兼职做了，白天上...",
-          "published_at": "2026-09-24T03:11:45"
+          "summary": "Meta 在元宇宙受挫后，凭借个人 AI 助手 Muse 打了一场翻身仗。扎克伯格在 Connect 大会上宣布 Muse 将登陆智能眼镜和钥匙扣设备，并推出机密虚拟机、最小权限等隐私方案，同时以免费 tokens 和交易抽成模式探索盈利。本文深度解析 Muse 如何从助手进化为全天候数字员工，以及 Meta 的 AI 野心与挑战。“有时候，整整一年都很艰难，”对于Meta在大模型竞赛中的失利，扎...",
+          "published_at": "2026-09-24T09:15:49"
         },
         {
-          "title": "腾讯龙虾赛马结束：Qclaw下线",
-          "url": "https://www.woshipm.com/ai/6469709.html",
-          "author": "运营派",
+          "title": "真正的数据驱动决策，不是罗列同环比",
+          "url": "https://www.woshipm.com/share/6469872.html",
+          "author": "接地气的陈老师",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "腾讯 QClaw 突然宣布停运，老用户被引导迁往 WorkBuddy。从 3 月高调亮相到 12 月正式关门，这款产品的退场并非孤例。阿里、字节、百度同步收拢 AI 入口，第一轮大厂赛马正进入收口阶段，下一轮争夺的将是 AI 办公的\"一号位\"。半年前，腾讯还在疯狂“养龙虾”。半年后，已经有一只准备关门了。今天，QClaw 官网突然挂出停止运营公告。即日起停止新用户注册，订阅和续费一起停掉。到 12...",
-          "published_at": "2026-09-24T03:06:47"
+          "summary": "很多分析师能算清同环比，却说不清数据到底怎么驱动决策。本文用一顿饭的例子把全流程走一遍：先挑有挑战、有变化、全新的项目，再清晰目标、提出约束条件，然后罗列潜在方案，在综合评估与试点测试之间选对方法。哪些该由人做、哪些交给 AI，文中都划了线。经常有新手同学问：数据分析到底是怎么驱动决策的？AI给的决策建议我觉得很好，但领导还是觉得没啥用，怎么办？今天用一个通俗的例子，让大家看清楚数据驱动决策全流程...",
+          "published_at": "2026-09-24T09:08:04"
         },
         {
-          "title": "教你搞懂WorkBuddy的项目功能",
-          "url": "https://www.woshipm.com/ai/6469612.html",
-          "author": "马佳彬",
+          "title": "Flutter 3.47.5 鸿蒙适配发布：从 4 个月到 1 天，0day 适配由社区共同定义",
+          "url": "https://www.woshipm.com/share/6469842.html",
+          "author": "nutpi",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "本文以新手视角拆解 WorkBuddy 的项目功能，认为它本质上是给团队搭建一个共享的 AI 办公室，把指令、连接器、专家、技能与定时任务装进同一个工具箱。来填坑了，这也是有小伙伴提出的疑问，就是WorkBuddy上的项目功能，到底是个什么东西，有什么作用，怎么看起来跟Skill和专家那些不一样，不清楚怎么用等问题。其实这个项目功能还是挺实用的，用一句话总结，本质上就是给团队搭建一个共享的AI办公...",
-          "published_at": "2026-09-24T03:01:08"
+          "summary": "这次发布鸿蒙适配版的不是 CPF-Flutter，而是 AtomGit 上一群社区开发者：他们 fork 代码后自建 oh-3.47-dev 分支、自己同步上游、自己打 tag。两个主体并行适配同一上游，正是生态成熟的信号。本文讲清这条线的性质与配套要求。这一次的发布者，不是 CPF-Flutter。这是AtomGit 平台社区开发者在 fork 了 CPF-Flutter 代码之后，自主建立 3...",
+          "published_at": "2026-09-24T08:39:27"
         },
         {
-          "title": "马卡龙的下注：把模型后训练，做成企业服务",
-          "url": "https://www.woshipm.com/ai/6469601.html",
-          "author": "赛博禅心",
+          "title": "设计师自己做分析：我把8张竞品图丢给豆包工作",
+          "url": "https://www.woshipm.com/ai/6469837.html",
+          "author": "AI高手杜小虎",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Mind Lab 发布模型后训练与推理平台 Mint Recursive，把 MinT 等内部训练链路开放成托管服务。文章复盘 Macaron V1.1 以 GLM-5.3 为基座、训练四个 2B LoRA 专家的过程，以及发票核对与生成式 UI 任务上的前后对照。马卡龙（准确说叫 Mind Lab）在版本理解上，一直是非常领先的。而今天，马卡龙正式发布了Mint Recursive：定位面向企业...",
-          "published_at": "2026-09-24T02:58:11"
+          "summary": "约 6200 人样本的报告显示，用 AI 处理本职之外任务的比例从 13.1% 涨到 25.9%。作者把 8 张同品类主图丢给豆包工作，让它逐图拆视觉要素、整成对比表格、画出频次图，再一键生成汇报 PPT。本文记录这条链每一步的准确度，以及设计师省下的时间。前几天我刷到海外一份工作前沿报告：约6200名持续被跟踪的员工里，用AI处理本职之外任务的比例，从13.1%涨到了25.9%。在国内的环境下辅...",
+          "published_at": "2026-09-24T08:38:08"
         }
       ]
     },
@@ -345,6 +372,15 @@
           "published_at": null
         },
         {
+          "title": "Moto Finance",
+          "url": "https://www.awwwards.com/sites/moto-finance",
+          "author": "Properly Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "Sobha Privy Collection",
           "url": "https://www.awwwards.com/sites/sobha-privy-collection",
           "author": "Vide Infra",
@@ -397,57 +433,57 @@
           "source": "Awwwards",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "L.I.S.A.",
-          "url": "https://www.awwwards.com/sites/l-i-s-a",
-          "author": "Locomotive",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 5,
       "items": [
         {
-          "title": "Lightmeter",
-          "url": "https://www.producthunt.com/products/lightmeter-2",
-          "author": "Aakash Goel",
+          "title": "IntellAgents.io",
+          "url": "https://www.producthunt.com/products/intellagents-io",
+          "author": "Vilen Bezhanyan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Film Camera designed for everyday momentsDiscussion|Link",
-          "published_at": "2026-09-22T04:06:00"
+          "summary": "One AI agent for every call, chat, and DMDiscussion|Link",
+          "published_at": "2026-09-23T10:45:46"
         },
         {
-          "title": "ToneBird",
-          "url": "https://www.producthunt.com/products/tonebird",
-          "author": "Lyn Zhong",
+          "title": "Harness Manager",
+          "url": "https://www.producthunt.com/products/harness-manager",
+          "author": "Sebastian Solano",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI reply assistant that remembers your relationshipsDiscussion|Link",
-          "published_at": "2026-09-22T00:23:50"
+          "summary": "Your AI coding stack manager, all in one placeDiscussion|Link",
+          "published_at": "2026-09-23T18:17:40"
         },
         {
-          "title": "Alexandria by Firecrawl",
-          "url": "https://www.producthunt.com/products/extract-by-firecrawl",
-          "author": "Eric Ciarla",
+          "title": "Floot MCP",
+          "url": "https://www.producthunt.com/products/floot",
+          "author": "Yuj Yao",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The knowledge library for superintelligenceDiscussion|Link",
-          "published_at": "2026-09-22T17:16:10"
+          "summary": "Build and ship web and mobile apps inside Claude or ChatGPTDiscussion|Link",
+          "published_at": "2026-09-23T20:54:45"
         },
         {
-          "title": "Solid",
-          "url": "https://www.producthunt.com/products/solid-3",
-          "author": "Zac Zuo",
+          "title": "Bitrise Build Hub",
+          "url": "https://www.producthunt.com/products/bitrise",
+          "author": "Lisa Dziuba",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Agents with their own computers, accounts, and budgets.Discussion|Link",
-          "published_at": "2026-09-21T06:01:40"
+          "summary": "GitHub Actions runners that build 2x faster for your agentsDiscussion|Link",
+          "published_at": "2026-09-23T19:34:15"
+        },
+        {
+          "title": "CtrlOps 1.0",
+          "url": "https://www.producthunt.com/products/ctrlops",
+          "author": "fmerian",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Your server. Audited, managed, and deployed with AI.Discussion|Link",
+          "published_at": "2026-09-22T10:20:30"
         }
       ]
     },
@@ -516,49 +552,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Caring vs. knowing",
-          "url": "https://blog.exe.dev/caring-vs-knowing",
+          "title": "The fear of AI",
+          "url": "https://voiceinthemachine.com/2026/09/21/the-fear-of-ai/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Thoughts on how to DIY sustainably.",
-          "published_at": "2026-09-23T04:15:59"
+          "summary": "When numbers do not match the fear, and where fear should be aimed.",
+          "published_at": "2026-09-24T07:28:31"
         },
         {
-          "title": "Petdex",
-          "url": "https://petdex.dev/",
+          "title": "I gave my website a boss fight",
+          "url": "https://www.paulbakaus.com/i-gave-my-website-a-boss-fight/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Open-source animated pets for coding agents. Browse pets, preview their animations, and install one with a single command.",
-          "published_at": "2026-09-23T04:15:14"
+          "summary": "Building a little piece of it involved Claude, 4,096 colors, and a surprisingly difficult pair of legs.",
+          "published_at": "2026-09-24T07:27:24"
         },
         {
-          "title": "The 3 roles of context for AI agents",
-          "url": "https://www.nngroup.com/articles/3-agent-context-roles/",
+          "title": "Category colors",
+          "url": "https://categorycolors.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "AI-agent power users curate 3 kinds of context: global (across tasks), local (task-specific), and ambient (raw streams like email).",
-          "published_at": "2026-09-23T04:14:07"
+          "summary": "A browser-based optimizer for categorical color palettes.",
+          "published_at": "2026-09-24T07:26:37"
         },
         {
-          "title": "Image to ASCII converter",
-          "url": "https://imagetoascii.art/",
+          "title": "loading.dev",
+          "url": "https://loading.dev/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Convert images to ASCII art locally in your browser. No upload, no signup. Copy ASCII or export TXT, PNG, SVG, and Markdown.",
-          "published_at": "2026-09-23T04:13:41"
+          "summary": "A lightweight library full of beautiful loading indicators for React.",
+          "published_at": "2026-09-24T07:25:50"
         },
         {
-          "title": "Audit your agent files",
-          "url": "https://addyosmani.com/blog/audit-your-agent-files/",
+          "title": "Code as the source of truth",
+          "url": "https://www.tonyward.dev/articles/code-as-the-source-of-truth",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A practical guide to auditing what your coding agent still needs.",
-          "published_at": "2026-09-23T04:13:08"
+          "summary": "With AI tooling, code being the source of truth just makes sense.",
+          "published_at": "2026-09-24T07:25:17"
         }
       ]
     },
@@ -566,6 +602,42 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "新玩意 252｜少数派的编辑们最近买了啥？",
+          "url": "https://sspai.com/post/114954",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
+          "published_at": "2026-09-24T09:30:00"
+        },
+        {
+          "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品",
+          "url": "https://sspai.com/prime/story/home-made-beverages-5",
+          "author": "老林还年少",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）常用固体物料推荐（四）奶昔、柠檬和茶系列配方这一篇的配方主要是特调咖啡和其他类饮品，特调咖啡中的咖啡液按照固定比例萃取Espresso ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "published_at": "2026-09-24T08:20:39"
+        },
+        {
+          "title": "微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」",
+          "url": "https://sspai.com/post/113823",
+          "author": "SUNTRISE",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "published_at": "2026-09-24T07:06:19"
+        },
+        {
+          "title": "古董电脑室十周年记：为什么我不再是收藏家（上）",
+          "url": "https://sspai.com/post/114395",
+          "author": "蓬岸",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "站在十年的时间节点回望，2016 年知乎专栏「古董电脑室」的起点，其实并非一个怀旧的「博物馆」，而是一个试图在商业上寻找切口的「最小可行产品」（MVP）。然而，这场始于「市场验证」的创业实验，在随后的十年里，撞上了中国独特的社群生态与商业现实，最终将我推向了一个完全意想不到的方向，并彻底改变了我对「技术」和「收藏」的理解。查看全文",
+          "published_at": "2026-09-24T04:15:24"
+        },
         {
           "title": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等",
           "url": "https://sspai.com/post/114913",
@@ -583,42 +655,6 @@
           "source": "少数派",
           "summary": "除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。查看全文",
           "published_at": "2026-09-23T09:02:00"
-        },
-        {
-          "title": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性",
-          "url": "https://sspai.com/post/114901",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Apple于9月15日凌晨正式发布了iOS27、iPadOS27、macOS27GoldenGate和watchOS27、visionOS27等系统的正式版本。其中，visionOS27加入了Siri ...查看全文",
-          "published_at": "2026-09-23T07:30:57"
-        },
-        {
-          "title": "Here Wallpaper：把喜欢的地图做成壁纸",
-          "url": "https://sspai.com/post/114211",
-          "author": "sha2kyou",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "家附近的街道、旅行时喜欢上的一座城市、或者喜欢的海岸线和岛屿，都可以拿来做壁纸。查看全文",
-          "published_at": "2026-09-23T02:19:17"
-        },
-        {
-          "title": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验",
-          "url": "https://sspai.com/post/114878",
-          "author": "waychane",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "在BeatsStudioPro发布3年之后，Beats终于想起来要更新一下自家头戴式耳机的旗舰款了，推出了全新的Beats360。值得一提的是，Beats不久前刚刚度过了成立后的20周年生日，Beat ...查看全文",
-          "published_at": "2026-09-22T14:00:00"
-        },
-        {
-          "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
-          "url": "https://sspai.com/post/114551",
-          "author": "随便好啦",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "黄金时代「时尚与科技结合」的浪漫。查看全文",
-          "published_at": "2026-09-22T08:11:03"
         }
       ]
     }
