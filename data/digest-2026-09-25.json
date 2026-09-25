@@ -2,23 +2,23 @@
   "date": "2026-09-25T00:00:00",
   "total_items": 65,
   "sources": [
-    "NN/g (Nielsen Norman Group)",
+    "Product Hunt",
+    "Design Milk",
+    "Sidebar",
+    "A List Apart",
+    "UX Design CC",
+    "少数派",
     "UX Planet",
     "Awwwards",
-    "A List Apart",
-    "少数派",
-    "UX Design CC",
+    "NN/g (Nielsen Norman Group)",
     "优设网",
-    "Sidebar",
-    "Product Hunt",
-    "人人都是产品经理",
-    "Design Milk"
+    "人人都是产品经理"
   ],
-  "generated_at": "2026-09-25T04:09:21.676476",
+  "generated_at": "2026-09-25T16:52:23.879361",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 13,
+      "count": 14,
       "items": [
         {
           "title": "What the Bible got right about AI",
@@ -109,6 +109,15 @@
           "source": "UX Design CC",
           "summary": "The science and design behind wearable stress tracking(Image source)Many wearable devices have moved beyond counting steps and tracking heart rate. Now they are trying to measure something more compli...",
           "published_at": "2026-09-22T04:32:17"
+        },
+        {
+          "title": "I Tested Opus 5.5 at Every Effort Level for UI Design",
+          "url": "https://uxplanet.org/i-tested-opus-5-5-at-every-effort-level-for-ui-design-c19860ad8563?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "I was curious how different effort levels impact the quality of output Opus 5.5 produces. So I tested Opus 5.5 at every effort level, from…Continue reading on UX Planet »",
+          "published_at": "2026-09-25T12:16:48"
         },
         {
           "title": "GPT-6 Astra vs Opus 5.5: Which one is better for product design?",
@@ -204,6 +213,15 @@
       "count": 11,
       "items": [
         {
+          "title": "Hannah Buechler Finds Inspiration in Music, Fashion + Experimentation",
+          "url": "https://design-milk.com/friday-five-hannah-buechler/",
+          "author": "Anna Zappia",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "The Los Angeles-based textile artist shares the influences behind her tactile practice, from heavy metal and collecting to material experimentation and her Boston Terrier, Stevie",
+          "published_at": "2026-09-25T13:00:35"
+        },
+        {
           "title": "MSCHF Twists and Stretches Lexus Cars Into Surreal Sculptures",
           "url": "https://design-milk.com/mschf-lexus-motomorphosis/",
           "author": "Design Milk Staff",
@@ -220,6 +238,15 @@
           "source": "Design Milk",
           "summary": "Porsche and Hedley Studios shrink a 1950s racing icon to 80% scale without sacrificing the details that made the original so recognizable",
           "published_at": "2026-09-24T16:52:53"
+        },
+        {
+          "title": "Elizabeth Herrmann Clads a Cornwall Home in Gendai Yakisugi",
+          "url": "https://design-milk.com/milo-house-gendai-yakisugi-vermont/",
+          "author": "Leo Lei",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Charred cedar gives Milo House a bark-like exterior that settles into its wooded Vermont hillside",
+          "published_at": "2026-09-24T15:00:30"
         },
         {
           "title": "Wrensilva Gives Its Studio Record Console a Lighter Look in White Oak",
@@ -240,67 +267,49 @@
           "published_at": "2026-09-24T13:00:01"
         },
         {
-          "title": "The Artful—and Thoughtful—Side of Vegetables",
-          "url": "https://design-milk.com/taste-curious-lives-of-vegetables/",
-          "author": "TJ Girard",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "'The Curious Lives of Vegetables' looks beyond the plate to uncover the history, biodiversity, and beauty hiding in the foods we know best",
-          "published_at": "2026-09-23T22:43:16"
-        },
-        {
-          "title": "Listening Rooms Are Having a Design Moment",
-          "url": "https://design-milk.com/design-forward-listening-rooms/",
-          "author": "Adrian Madlener",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "A new generation of design-forward listening rooms puts acoustics, atmosphere, and the shared experience of music at the center.",
-          "published_at": "2026-09-23T21:48:48"
-        },
-        {
-          "title": "11个人、零融资、年入2亿美元：Midjourney如何用“美学”打败OpenAI",
-          "url": "https://www.woshipm.com/chuangye/6469811.html",
-          "author": "李明Bright",
+          "title": "体验 PixVerse R2：世界模型的产品流程已经变了",
+          "url": "https://www.woshipm.com/ai/6470225.html",
+          "author": "海蛞蝓",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "11 个人、零融资、没有销售团队，2023 年用户超 1600 万、年收入超 2 亿美元。Midjourney 没在“画得更准”上跟 DALL-E 硬拼，而是把美学当产品指标、把 Discord 当产品界面。本文拆解它五个反共识决策，以及产品经理能抄走的部分。今天聊Midjourney。你可能用过它，也可能在社交媒体上见过它生成的图片。那些光影精致、构图考究、风格鲜明的AI画作——很多都来自Mid...",
-          "published_at": "2026-09-25T03:23:30"
+          "summary": "PixVerse R2 将 AI 视频生成从“提交任务”推向“实时交互”，但十几秒的响应延迟让用户陷入等待与操作的模糊地带。本文从产品体验视角出发，探讨世界模型下反馈机制、状态记忆与用户控制感的设计挑战，为生成式产品的交互设计提供新思路。PixVerse R2：实时世界模型生成的世界，你可以实时走入、操控、并通过自然语言实时改变画面和剧情。我体验了一下，点开 PixVerse R2 的一个世界，等...",
+          "published_at": "2026-09-25T10:35:47"
         },
         {
-          "title": "砍掉品牌部，公司业绩增长更快了",
-          "url": "https://www.woshipm.com/share/6467718.html",
-          "author": "品牌的旁光",
+          "title": "DeepSeek Harness客户端来了，AI办公又多了一个王者？",
+          "url": "https://www.woshipm.com/ai/6470242.html",
+          "author": "欧阳俊杰",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "问公司为什么要做品牌，销售、研发和老板的答案整齐划一：为了卖货、赚更多的钱，唯独品牌部会搬出长期主义。作者认为不少中小企业砍掉品牌部后业绩反而上涨，是因为品牌工作脱离了生意本质，没能回答品牌到底解决什么问题。如果你去一家公司里问：“我们为什么要做品牌？”只要你别问品牌部，答案通常都非常统一。销售说，为了卖货；研发说，为了卖货；老板更直接：为了卖更多的货，赚更多的钱。但唯独品牌部的从业者，会习惯性地...",
-          "published_at": "2026-09-25T02:48:34"
+          "summary": "DeepSeek 终于有自己的官方客户端了。而且这次做得还挺大。Windows、Mac 都可以直接下载安装，能读本地文件、联网搜索、跑终端，还能让多个 Agent 一起干活。如果非要给它找一个普通用户容易理解的名字，我觉得可以叫：DeepSeek 的“AI 办公版”。它的正式名字叫DeepSeek Harness。目前 DeepSeek 官方还没有正式官宣，但安装包已经开始在社区流传。我第一时间下...",
+          "published_at": "2026-09-25T09:02:46"
         },
         {
-          "title": "ERP流程图，多了条AI泳道",
-          "url": "https://www.woshipm.com/share/6468805.html",
-          "author": "产品真经",
+          "title": "豆包前负责人，又做了个AI",
+          "url": "https://www.woshipm.com/ai/6470241.html",
+          "author": "怪哥",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "把一个大模型接进 ERP 如今已经算不上一件难事，接口是现成的，文档是齐全的。真正难的是人、AI 和系统之间的协作关系——流程图里多出一条 AI 泳道，要改的是流程与组织，不是代码。把一个大模型接进ERP，如今已经算不上一件难事。接口是现成的，文档是齐全的，懂点软件工程的人花上几天，就能让系统里冒出一个能对话的助手。真正难的部分，是人、AI和系统之间的协作关系。这一年里，ERP厂商几乎没有不谈智能...",
-          "published_at": "2026-09-25T02:22:49"
+          "summary": "Teambition 创始人、前豆包 PC 端负责人齐俊元的新产品 Today，正式在国内上线了。这个产品之前已经在海外开放公测，现在中国用户也可以直接下载安装。目前覆盖 Mac、Windows、Linux、iOS 和 Android，基础版永久免费，新注册用户还会送 1 亿 Tokens + 1 个月 Pro 权益。1 亿 Token 看着很猛，但 Today 真正有意思的地方，其实不在于送多少...",
+          "published_at": "2026-09-25T08:55:22"
         },
         {
-          "title": "Retro：AI 内容越来越多？这家刚融了 2100万美元的社交 App 只让你看朋友",
-          "url": "https://www.woshipm.com/chuangye/6467305.html",
-          "author": "张艾拉",
+          "title": "扎克伯格谈Muse：个人Agent必须从预训练开始设计，虚拟机、记忆和权限系统是巨头的全栈护城河",
+          "url": "https://www.woshipm.com/ai/6470240.html",
+          "author": "Z Finance",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "一款反主流的社交产品去掉推荐算法与广告，只让用户看现实朋友动态，背后团队仅7人且来自Instagram。产品近期完成超2100万美元A轮融资，累计融资逾3000万美元，月活约170万。今天分享的产品思路，我还蛮喜欢的，产品的设计我也很喜欢：Retro，https://retro.app/如果你现在要做一个新的社交 App，最容易得到的建议大概是：一定要有推荐算法，要有短视频，要有创作者，最关键的是...",
-          "published_at": "2026-09-25T01:24:38"
+          "summary": "Muse上线后，Meta久违地拥有了一款迅速出圈的AI产品。不到两周，它登上美国应用下载榜首。据Sensor Tower统计，截至9月22日，累计下载量已超过250万次。为了让Agent真正替人行动，Meta给它配置了云端虚拟机。为了让用户敢把邮件、账户和私人信息交给它，又必须设计记忆、凭据存储和逐项授权的权限系统。扎克伯格认为，这些能力不能靠给现成模型增加一个产品界面完成；模型从预训练开始，就要...",
+          "published_at": "2026-09-25T08:45:25"
         },
         {
-          "title": "做品牌是反人性的，大多数人死在第 3 年",
-          "url": "https://www.woshipm.com/share/6470069.html",
-          "author": "外贸小巨熊",
+          "title": "支付宝鱼来拆解：C端消费Agent如何跨越「信任鸿沟」？",
+          "url": "https://www.woshipm.com/pd/6468264.html",
+          "author": "造梦产品论",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "《品牌营销 100 讲》里被划线最多的 20 多句话，按认知、定位、符号、传播、组织五层排开。人性喜欢爆款和短期见效，做品牌却要十年如一日，大多数人死在第 3 年。从心智份额到视觉锤，这篇文章把品牌营销的底层骨架重新捋了一遍。这几天把《品牌营销 100 讲》这本书又翻了一遍，我把书中被读者划线最多的 20 多条热门句子整理出来，按认知—定位—符号—传播—组织五个层次排好。读懂这 20 句，相当于读...",
-          "published_at": "2026-09-25T00:32:17"
+          "summary": "当AI Agent从对话框走向真实消费，效率与信任的矛盾便浮出水面。本文以支付宝「鱼来」为样本，拆解生活消费类Agent的市场分层、商业模式与产品三问，剖析自动化执行中「太保守没价值，太自动不敢用」的底层困局，为C端Agent产品经理提供一份清醒的避坑指南。很多人只看见 AI 炫酷的能力，却忽略了一个产品底层矛盾：自动化程度越高，效率越强，但用户的信任风险同步指数级放大；自动化做的太保守，又会直接...",
+          "published_at": "2026-09-25T08:31:05"
         }
       ]
     },
@@ -429,52 +438,43 @@
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "LockLines",
-          "url": "https://www.producthunt.com/products/locklines",
-          "author": "Ighor July",
+          "title": "PixVerse R2",
+          "url": "https://www.producthunt.com/products/pixverse-r2",
+          "author": "Justin Jincaid",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Design Mac lock screen messages that fitDiscussion|Link",
-          "published_at": "2026-09-23T20:09:03"
+          "summary": "A real-time world model you can explore and changeDiscussion|Link",
+          "published_at": "2026-09-23T09:26:05"
         },
         {
-          "title": "Harness Manager",
-          "url": "https://www.producthunt.com/products/harness-manager",
-          "author": "Sebastian Solano",
+          "title": "Once UI 2.0",
+          "url": "https://www.producthunt.com/products/once-ui-for-figma",
+          "author": "Lorant One",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your AI coding stack manager, all in one placeDiscussion|Link",
-          "published_at": "2026-09-23T18:17:40"
+          "summary": "Builds consistent React apps for developers and AI agentsDiscussion|Link",
+          "published_at": "2026-09-24T23:05:08"
         },
         {
-          "title": "IntellAgents.io",
-          "url": "https://www.producthunt.com/products/intellagents-io",
-          "author": "Vilen Bezhanyan",
+          "title": "DEV·TV",
+          "url": "https://www.producthunt.com/products/dev-tv",
+          "author": "Souvik Palit",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "One AI agent for every call, chat, and DMDiscussion|Link",
-          "published_at": "2026-09-23T10:45:46"
+          "summary": "A retro TV for GitHub, HN, Hugging Face & more: 10 channelsDiscussion|Link",
+          "published_at": "2026-09-24T14:29:20"
         },
         {
-          "title": "Storytailor®",
-          "url": "https://www.producthunt.com/products/storytailor",
-          "author": "JQ Sirls",
+          "title": "Jango",
+          "url": "https://www.producthunt.com/products/jango",
+          "author": "Emmanuel Adesola",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A personal world built around your child’s imaginationDiscussion|Link",
-          "published_at": "2026-09-23T06:09:39"
-        },
-        {
-          "title": "Parall",
-          "url": "https://www.producthunt.com/products/parall",
-          "author": "Ighor July",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Run multiple instances of the same app on your MacDiscussion|Link",
-          "published_at": "2026-09-23T20:13:18"
+          "summary": "Test multi-user apps with AI agents that act like real usersDiscussion|Link",
+          "published_at": "2026-09-25T02:16:38"
         }
       ]
     },
@@ -543,49 +543,49 @@
       "count": 5,
       "items": [
         {
-          "title": "The fear of AI",
-          "url": "https://voiceinthemachine.com/2026/09/21/the-fear-of-ai/",
+          "title": "I don’t want the details",
+          "url": "https://michaelheap.com/i-dont-want-the-details/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "When numbers do not match the fear, and where fear should be aimed.",
-          "published_at": "2026-09-24T07:28:31"
+          "summary": "Why reasonable explanations are one of the easiest ways to avoid changing anything.",
+          "published_at": "2026-09-25T08:09:42"
         },
         {
-          "title": "I gave my website a boss fight",
-          "url": "https://www.paulbakaus.com/i-gave-my-website-a-boss-fight/",
+          "title": "Anatomy of a $100 bill",
+          "url": "https://www.realworth.io/anatomy-of-a-100-dollar-bill",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Building a little piece of it involved Claude, 4,096 colors, and a surprisingly difficult pair of legs.",
-          "published_at": "2026-09-24T07:27:24"
+          "summary": "A 3D tour of the U.S. $100 bill, plus 15 design and security feature groups explained.",
+          "published_at": "2026-09-25T08:09:04"
         },
         {
-          "title": "Category colors",
-          "url": "https://categorycolors.com/",
+          "title": "IMG_0001",
+          "url": "https://walzr.com/IMG_0001/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A browser-based optimizer for categorical color palettes.",
-          "published_at": "2026-09-24T07:26:37"
+          "summary": "A bot that crawled YouTube and found 5 million of raw, unedited videos.",
+          "published_at": "2026-09-25T08:08:31"
         },
         {
-          "title": "loading.dev",
-          "url": "https://loading.dev/",
+          "title": "Skip the tools, make the outcomes",
+          "url": "https://www.lukew.com/ff/entry.asp?2163",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A lightweight library full of beautiful loading indicators for React.",
-          "published_at": "2026-09-24T07:25:50"
+          "summary": "The pervasiveness of tools may have implanted the wrong instinct in our heads in a world of AI.",
+          "published_at": "2026-09-25T08:07:33"
         },
         {
-          "title": "Code as the source of truth",
-          "url": "https://www.tonyward.dev/articles/code-as-the-source-of-truth",
+          "title": "Isometric NYC",
+          "url": "https://cannoneyed.com/isometric-nyc/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "With AI tooling, code being the source of truth just makes sense.",
-          "published_at": "2026-09-24T07:25:17"
+          "summary": "A giant isometric pixel-art map of New York City. And an excuse to push hard on the limits of the latest and greatest coding agents.",
+          "published_at": "2026-09-25T08:06:41"
         }
       ]
     },
@@ -593,6 +593,15 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "本周看什么 | 最近值得一看的 6 部作品",
+          "url": "https://sspai.com/post/114957",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "📅本周新预告《侦战》定档预告9月21日，电影《侦战》发布定档预告，宣布10月1日上映。影片由孔令政编剧、导演，古天乐、此沙、任达华、谢君豪领衔主演，袁富华、卢慧敏、杨伟伦主演，讲述一名嫌疑人从警署羁押 ...查看全文",
+          "published_at": "2026-09-25T09:30:00"
+        },
         {
           "title": "新玩意 252｜少数派的编辑们最近买了啥？",
           "url": "https://sspai.com/post/114954",
@@ -637,15 +646,6 @@
           "source": "少数派",
           "summary": "Amazfit 推出智能手表 T-Rex Dual Solar、雷蛇推出灰鲭鲨 X 游戏音箱等。查看全文",
           "published_at": "2026-09-24T00:19:37"
-        },
-        {
-          "title": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品",
-          "url": "https://sspai.com/post/114904",
-          "author": "Matrix机器人",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。查看全文",
-          "published_at": "2026-09-23T09:02:00"
         }
       ]
     }
