@@ -1,20 +1,20 @@
 {
   "date": "2026-09-26T00:00:00",
-  "total_items": 59,
+  "total_items": 57,
   "sources": [
-    "NN/g (Nielsen Norman Group)",
-    "UX Planet",
     "Product Hunt",
-    "少数派",
-    "Design Milk",
-    "Sidebar",
-    "优设网",
+    "UX Planet",
+    "UX Design CC",
     "人人都是产品经理",
-    "Awwwards",
+    "Design Milk",
+    "优设网",
+    "Sidebar",
+    "少数派",
     "A List Apart",
-    "UX Design CC"
+    "Awwwards",
+    "NN/g (Nielsen Norman Group)"
   ],
-  "generated_at": "2026-09-26T04:14:16.086713",
+  "generated_at": "2026-09-26T16:03:36.698449",
   "categories": [
     {
       "category": "用户体验设计",
@@ -204,49 +204,49 @@
           "published_at": "2026-09-24T14:00:41"
         },
         {
-          "title": "参加了几场AI营销沙龙之后，我无语了。。。",
-          "url": "https://www.woshipm.com/share/6467720.html",
-          "author": "品牌的旁光",
+          "title": "Jev 爆火背后：AI Agent 正在从“三体人”变成“地球人”",
+          "url": "https://www.woshipm.com/ai/6470288.html",
+          "author": "PM熊叔",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "参加了几场 AI 营销沙龙之后有点无语：台上从模型参数讲到跑分对比，像车圈发布会，可最关键的落地部分永远点到为止。作者认为当下做 AI 营销应用真正稀缺的不是技术，而是能被一线业务直接拿去用的真问题。最近，我参加了几场AI营销相关的沙龙。去之前，我还挺期待的。毕竟AI是发展趋势，我也特别想听听同行们现在都在怎么用，有没有什么新玩法。结果，参加完几次以后，我有点无语了。倒不是大家讲得不专业，恰恰相反...",
-          "published_at": "2026-09-26T03:08:35"
+          "summary": "Jev之所以爆火，是因为它做了一件和行业潮流相反的事：不追求想得更久，只负责判断，接受一段状态就直接返回结构化概率。TypeSafe把这类模型称为System One Model，把经验沉淀成稳定判断可能是下一场竞争。刘慈欣在《三体》里设计过一个很有意思的文明差异。三体人的思想很难隐藏，思考和表达高度绑定。但地球人不一样。我们的内心是一个黑盒。我们当然会思考，但不需要把所有思考过程都表达出来。更重...",
+          "published_at": "2026-09-26T08:16:33"
         },
         {
-          "title": "3个人，把 AI 动漫做成了“短剧平台”：3亿播放，3000个创作者，每天生产 500集",
-          "url": "https://www.woshipm.com/chuangye/6468763.html",
-          "author": "张艾拉",
+          "title": "AI 时代的 App Store 时刻到了？",
+          "url": "https://www.woshipm.com/ai/6470284.html",
+          "author": "深思圈",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Mochi 把短剧的节奏、动漫的画面和 AI 的生成能力接在一起：一分钟一集、竖屏连播、每一分钟留一个悬念，核心团队只有 3个人，却已拿到 3亿次以上播放与超过 10万用户，平台上还聚集了 3000多名创作者，每天生成超过 500集动漫内容。今天分享的产品是：Mochi，https://www.mochi.tv/如果把现在最火的两个内容趋势放在一起，你就会得到一个新的产品：短剧的节奏，加上动漫的画...",
-          "published_at": "2026-09-26T02:04:42"
+          "summary": "2008年苹果开放App Store，两年不到就向开发者支付了超过10亿美元分成。相似的结构性变化正在发生：Meta开放个人agent Muse并推出Connector机制，外部服务可在用户提出需求时被agent中途调用，分发不再靠搜索。2008 年，苹果开放 App Store 的那一刻，有多少人意识到这是一个历史性的分水岭？当时大多数人只觉得这是一个让手机能下载应用的商店，但两年不到，苹果就向...",
+          "published_at": "2026-09-26T07:16:29"
         },
         {
-          "title": "基元律动发布 NeoHorse-Jev，开源 Jev 综合评测第一",
-          "url": "https://www.woshipm.com/ai/6470203.html",
-          "author": "Z Finance",
+          "title": "让 AI 帮你操作手机，这个 GitHub 开源项目支持安卓和 iPhone。",
+          "url": "https://www.woshipm.com/share/6470286.html",
+          "author": "逛逛GitHub",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "你玩过贪吃蛇吗？基元律动发布轻量级决策模型 NeoHorse-Jev-4B：仅 4B 参数，却在六组基准测试拿下 77.70 的综合 AVG 分数，位列成绩完整的开源参评模型第一。文章从贪吃蛇讲到自动驾驶与机械臂仿真，并说明权重与推理源码已开源。你玩过贪吃蛇吗？游戏刚开始时，怎么走都不容易出错。但随着蛇身越来越长，留给自己的活动空间被不断压缩，任何一次错误转向，都可能让整局游戏瞬间结束。如果让一个...",
-          "published_at": "2026-09-26T01:46:21"
+          "summary": "Mobile MCP是一个让Agent操作手机的开源项目，GitHub上已有接近7K Star。接好设备后，AI能读取屏幕、点击按钮、滑动页面，也能填写文字，安卓和iOS的真机与模拟器都支持。文章给出接入MCP客户端的配置步骤。Mobile MCP 是一个让 Agent 操作手机的开源项目。现在在 GitHub 上有接近 7K 的 Star。接好设备后，AI 可以读取屏幕上的内容，点击按钮，滑动页...",
+          "published_at": "2026-09-26T06:46:31"
         },
         {
-          "title": "大模型决策模型和知识图谱融合探索分享",
-          "url": "https://www.woshipm.com/ai/6470201.html",
-          "author": "产品老高",
+          "title": "豆包新版创意设计内测：Seedream 5.0 Flash 画得快，改得动，文字也更稳了",
+          "url": "https://www.woshipm.com/ai/6470199.html",
+          "author": "AI李子",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "我一直有一个感触：我把客户背景、预算和历史沟通记录一股脑塞进去，想要一个准话，它却先分析行业前景、再列优劣势，最后只回一句「综合来看，建议您根据实际情况权衡决定」。企业日常决策要的是结论，而不是把权衡过程再讲一遍。最近我使用agent我一直有一个感触。我把客户背景、预算、历史沟通记录一股脑塞进去，等它给我个准话。它倒好，吭哧吭哧写了八百多字。先分析了客户的行业前景，再列了我们的优势和劣势，又分了短...",
-          "published_at": "2026-09-26T01:16:19"
+          "summary": "实测豆包新版创意设计：一张画布就能走完从想法到成图，品牌视觉、角色表情包、名画改编与游戏界面五类任务一次跑通。Seedream 5.0 Flash 出图速度快、文字呈现也稳，细节要求多的任务仍需多轮调整。最近，我申请体验了豆包新版「创意设计」功能。它把创作过程放进一张画布里：从提出想法、生成方案，到围绕已有图片继续修改和延展，都能在同一处完成。这次我用它做了品牌视觉、角色表情包、名画改编、游戏界面...",
+          "published_at": "2026-09-26T05:44:00"
         },
         {
-          "title": "我所了解的机器视觉检测产品应用（4）：把算子做成产品，参数、公差、复检逻辑怎么设计",
-          "url": "https://www.woshipm.com/pd/6470196.html",
-          "author": "产品经理Mike",
+          "title": "美业这样用WorkBuddy就对了",
+          "url": "https://www.woshipm.com/ai/6470278.html",
+          "author": "马佳彬",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "机器视觉检测设备交付后，客户真正关心的不是算法，而是参数、公差与复检逻辑。本文从产品经理视角拆解：如何将算子翻译成产品语言、用三层用户与配方管理降低误操作、将公差视为商业条款，以及让复检数据反哺模型迭代。算法决定下限，产品化决定上限。销售带客户来公司看 demo，客户在检测机前站了十分钟，问了一个问题：“你们这个，算法是自己写的吗？”我说核心算子是自研的，一部分用了开源库封装。客户点点头，又摇摇头...",
-          "published_at": "2026-09-26T00:42:12"
+          "summary": "美业这几年挺难，差不多4家门店就有1家撑不住，竞争要素正从位置和推销转向内容与信任。本文挑出总部运营、督导、店长与美容顾问最高频的四类活儿，用WorkBuddy逐项落地：活动方案与门店SOP、营销文案与合规审查、会员话术库、巡检归档。从今天这篇文章开始，老马会继续更新WorkBuddy在各行各业中各类场景的落地应用思路与实操方法，补齐一下之前只涉及到具体岗位，而缺乏行业案例的问题。当然还是那句老话...",
+          "published_at": "2026-09-26T05:26:27"
         }
       ]
     },
@@ -384,43 +384,25 @@
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 2,
       "items": [
         {
-          "title": "Quiver GTM",
-          "url": "https://www.producthunt.com/products/quiver-gtm",
-          "author": "fmerian",
+          "title": "Lisen",
+          "url": "https://www.producthunt.com/products/lisen",
+          "author": "Augustin",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Run developer marketing like an engineering systemDiscussion|Link",
-          "published_at": "2026-09-24T01:50:08"
+          "summary": "Free Read Aloud with Cartesia VoicesDiscussion|Link",
+          "published_at": "2026-09-23T06:59:19"
         },
         {
-          "title": "GitHub statistics · Velocity Radar",
-          "url": "https://www.producthunt.com/products/github-statistics-velocity-radar",
-          "author": "Paul Save",
+          "title": "MakerMap",
+          "url": "https://www.producthunt.com/products/makermap",
+          "author": "Martijn Verbove",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Real GitHub momentum, including private repos & AI agentsDiscussion|Link",
-          "published_at": "2026-09-24T09:51:45"
-        },
-        {
-          "title": "Pinky Promise",
-          "url": "https://www.producthunt.com/products/pinky-promise",
-          "author": "Andrea Radojičić",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "A reminder for the promises you make with friendsDiscussion|Link",
-          "published_at": "2026-09-24T10:33:59"
-        },
-        {
-          "title": "Jango",
-          "url": "https://www.producthunt.com/products/jango",
-          "author": "Emmanuel Adesola",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Test multi-user apps with AI agents that act like real usersDiscussion|Link",
-          "published_at": "2026-09-25T02:16:38"
+          "summary": "A living map of makers and what they’re buildingDiscussion|Link",
+          "published_at": "2026-09-25T23:58:29"
         }
       ]
     },
@@ -540,6 +522,15 @@
       "count": 6,
       "items": [
         {
+          "title": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局",
+          "url": "https://sspai.com/post/114958",
+          "author": "南桥北桥不是桥",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "距离宜家首批Matter智能家居产品在海外上市已有大半年的时间，而中国市场则是许久未有消息。直到今年年中，多款宜家智能新品陆续出现在国家CCC认证数据库中，我们才得知：这批主打高性价比、支持新一代智能 ...查看全文",
+          "published_at": "2026-09-26T06:00:00"
+        },
+        {
           "title": "本周看什么 | 最近值得一看的 6 部作品",
           "url": "https://sspai.com/post/114957",
           "author": "少数派编辑部",
@@ -583,15 +574,6 @@
           "source": "少数派",
           "summary": "站在十年的时间节点回望，2016 年知乎专栏「古董电脑室」的起点，其实并非一个怀旧的「博物馆」，而是一个试图在商业上寻找切口的「最小可行产品」（MVP）。然而，这场始于「市场验证」的创业实验，在随后的十年里，撞上了中国独特的社群生态与商业现实，最终将我推向了一个完全意想不到的方向，并彻底改变了我对「技术」和「收藏」的理解。查看全文",
           "published_at": "2026-09-24T04:15:24"
-        },
-        {
-          "title": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等",
-          "url": "https://sspai.com/post/114913",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Amazfit 推出智能手表 T-Rex Dual Solar、雷蛇推出灰鲭鲨 X 游戏音箱等。查看全文",
-          "published_at": "2026-09-24T00:19:37"
         }
       ]
     }
