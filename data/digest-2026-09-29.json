@@ -1,23 +1,33 @@
 {
   "date": "2026-09-29T00:00:00",
-  "total_items": 42,
+  "total_items": 54,
   "sources": [
-    "A List Apart",
-    "Product Hunt",
     "NN/g (Nielsen Norman Group)",
-    "人人都是产品经理",
-    "UX Planet",
+    "UX Design CC",
     "优设网",
-    "少数派",
     "Sidebar",
-    "UX Design CC"
+    "A List Apart",
+    "Awwwards",
+    "Product Hunt",
+    "少数派",
+    "人人都是产品经理",
+    "UX Planet"
   ],
-  "generated_at": "2026-09-29T05:00:22.829431",
+  "generated_at": "2026-09-29T17:52:42.141673",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 6,
+      "count": 8,
       "items": [
+        {
+          "title": "If you want to design for underserved users, look at farmers’ markets",
+          "url": "https://uxdesign.cc/if-you-want-to-design-for-underserved-users-look-at-farmers-markets-eefaedb35607?source=rss----138adf9c44c---4",
+          "author": "Kai Wong",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The bottom third model, and why your help patterns miss the users who need them mostContinue reading on UX Collective »",
+          "published_at": "2026-09-29T12:10:56"
+        },
         {
           "title": "The strategic designer: navigating the Jevons paradox in the AI age",
           "url": "https://uxdesign.cc/the-strategic-designer-navigating-the-jevons-paradox-in-the-ai-age-e06aa836f9d8?source=rss----138adf9c44c---4",
@@ -62,6 +72,15 @@
           "source": "UX Design CC",
           "summary": "The craft was learned at this table, one marked-up screen at a time. AI assisted,Automation is taking tasks juniors learned on. Here are seven tasks that put the practice back so we keep human element...",
           "published_at": "2026-09-27T19:38:02"
+        },
+        {
+          "title": "I Tested Claude Sonnet 5.5 for Web Design",
+          "url": "https://uxplanet.org/i-tested-claude-sonnet-5-5-for-web-design-8ab1df274cf9?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "And it’s not as good as Anthropic claimsContinue reading on UX Planet »",
+          "published_at": "2026-09-29T12:49:48"
         },
         {
           "title": "I Tested Opus 5.5 at Every Effort Level for Animation Design",
@@ -139,55 +158,55 @@
       "count": 5,
       "items": [
         {
-          "title": "FDE第一次见客户，最先做的一定不是提问题",
-          "url": "https://www.woshipm.com/zhichang/6471711.html",
-          "author": "王佳亮",
+          "title": "豆包连夜”抄作业”，字节版Muse要来了？",
+          "url": "https://www.woshipm.com/ai/6472100.html",
+          "author": "怪哥",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当FDE带着标准提问清单进场，调研就已经输了。本文从真实项目案例出发，揭示新手FDE的两大致命陷阱：确认偏误与信任透支，并给出成熟FDE的核心逻辑——我先看，你多说，我慢问。用利他思维和沉浸式观察五抓手，帮你摆脱模板依赖，真正读懂现场。一、被神化的”标准提问清单”最近刷信息流，满屏都是关于 FDE 现场调研的”干货文”。点进去一看，清一色罗列着「现场必问 100 个问题」「调研标准提问清单」「进场...",
-          "published_at": "2026-09-29T04:01:31"
+          "summary": "据说豆包的同学们在”抄作业”。今天上午，新浪科技发了一条独家消息：豆包从今年4月起就在内部测试一款个人助理方向的探索产品，代号”Spell”。项目原本由豆包手机助手团队主导，因为豆包手机要发布，一直没对外公开。最近 Muse 这类海外个人助理产品火了，字节开始着急，计划把 Spell 和豆包产品深度整合，由 Spell 项目组和豆包对话团队一起负责，“预期较快会对外推出”。还有一条更有戏剧性的小道...",
+          "published_at": "2026-09-29T12:24:19"
         },
         {
-          "title": "拼多多诊断店铺的流程",
-          "url": "https://www.woshipm.com/share/6471503.html",
-          "author": "阿虎讲运营",
+          "title": "当一个人能做一个团队的事，组织该怎么变？",
+          "url": "https://www.woshipm.com/ai/6471985.html",
+          "author": "深思圈",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "拼多多店铺起不来，问题到底出在哪？本文作者结合代运营实战经验，系统梳理诊断店铺的完整流程：从服务数据、商品数据、直通车数据到活动信息与违规记录，层层拆解，帮你精准定位是产品垃圾还是权重不够，对症下药，让店铺起量不再盲目。大家做拼多多有没有听过一个词：诊断店铺。我刚做拼多多那会儿，特别喜欢看网上的主播在线直播诊断店铺，一是在别人诊断店铺过程中学习到经验，二是了解下不同品类的数据特点，比如非标品相比标...",
-          "published_at": "2026-09-29T03:52:59"
+          "summary": "Elena Verna 在 Lenny and Friends Summit 上讲了一个反直觉的现象：越来越多资深管理者主动放弃头衔，成为“高影响力的个人贡献者”（HI-IC）。当一个人就能做完一个团队的事，组织该怎么变？最近刷到一个视频，是 Elena Verna 在 Lenny and Friends Summit 上的一段演讲，标题叫“The rise of HI-ICs: Why seni...",
+          "published_at": "2026-09-29T09:50:38"
         },
         {
-          "title": "对话 Snowflake CEO：创业者最容易高估用户对旧产品的不满，低估用户改变习惯的成本",
-          "url": "https://www.woshipm.com/ai/6471603.html",
-          "author": "Z Finance",
+          "title": "AI写代码之后，产品经理离产品更近了吗？",
+          "url": "https://www.woshipm.com/share/6471966.html",
+          "author": "Hej0330",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Sridhar Ramaswamy 从 Google 高管到创办搜索引擎 Neeva，再到出任 Snowflake CEO。在与 Aditya 的对话中，他谈到开源模型、Agent 与企业软件的未来，以及当软件越来越容易被造出来时，什么价值仍然难以复制。Sridhar Ramaswamy做过Google高管，也从Google离职创办了搜索引擎Neeva。如今担任Snowflake CEO的他，正面...",
-          "published_at": "2026-09-29T03:48:33"
+          "summary": "这个季度，一些产品经理已经进入生产代码开发：从需求到实现，再到测试上线，大家开始直接参与。以前遇到问题，通常先写需求、找研发、等排期；现在至少一部分事情可以自己往前推进。能打开仓库、查日志、看懂数据流转，和只看页面完全不同。以下内容，来自团队季度复盘会议摘要：今天复盘，我想多花一点时间，聊聊大家这个季度写代码的事。这个Q，我们的一些产品经理已经进入生产代码开发了。从需求到实现，再到测试和上线，大家...",
+          "published_at": "2026-09-29T09:47:05"
         },
         {
-          "title": "【全球视野篇04】GPSR+PPWR双规来袭，跨境产品研发如何提前避坑？",
-          "url": "https://www.woshipm.com/operate/6469090.html",
-          "author": "骞说跨境",
+          "title": "Manus终于像个通用Agent了",
+          "url": "https://www.woshipm.com/ai/6471952.html",
+          "author": "虾蛄AI",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当跨境卖家还在为测款成功沾沾自喜时，欧盟GPSR与PPWR已悄然成为2026年最致命的黑天鹅。本文从产品经理视角，拆解如何将合规要求焊死在模具与包材工程中，把法规壁垒转化为品牌出海的护城河。上一篇，我们讲了如何用 3D 渲染与 AI 视觉将 GTM 测款周期缩短 70%。款式测出来了，开模非常顺利，首单量产完成装柜发往欧洲。很多产品经理（PM）觉得此时只需等货到入仓。但在 2026 年，最致命的黑...",
-          "published_at": "2026-09-29T03:47:13"
+          "summary": "2025 年 3 月 Manus 刚上线时，行业里最吵的问题是：AI Agent 到底该做全能通用型，还是聚焦单一场景。加入 Meta 又独立之后，2.0 版的 Manus 终于把“General Agent”从定位做成了体验，不再只是覆盖面广的执行助手。离开Meta后的2.0。2025年3月Manus刚上线的时候，大家讨论的不只是产品好不好用。行业里吵得最凶的一个问题：AI Agent到底要做全...",
+          "published_at": "2026-09-29T08:59:22"
         },
         {
-          "title": "续班率上不去的机构，都栽在家长离校那一刻：课后反馈与口碑复购的运营复盘",
-          "url": "https://www.woshipm.com/operate/6471207.html",
-          "author": "数字化落地笔记",
+          "title": "82亿美元，硅谷上演顶级版“Girls help girls”",
+          "url": "https://www.woshipm.com/it/6471958.html",
+          "author": "山农下山",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "续班率上不去，问题往往不在课程质量或续费话术，而在家长离校后的24小时。本文复盘一次教育机构续班率改造，拆解课后反馈、作业跟进、老师主动沟通三个关键动作，并给出私聊、表格、系统化三阶段落地路径，用真实案例和ROI测算，帮你把课后服务变成可管理的续班引擎。先说结论：续班率上不去的机构，问题往往不在课程质量，也不在续费话术，而在家长离校后的那24小时。孩子下课、家长接走，到下次上课之间发生了什么——有...",
-          "published_at": "2026-09-29T03:45:08"
+          "summary": "AMD 在 9 月 28 日官宣以 82 亿美元全股票收购李飞飞创办的 World Labs，这是它历史上第二大收购案。48 岁创业、两年后套现 82 亿美元，李飞飞将出任 AMD 执行副总裁兼首席科学家，直接向董事长兼 CEO 苏姿丰汇报。01 温柔的收购与现实的考量“去寻找一个更新的世界，永远不会太晚。”AMD在9月28日官宣收购李飞飞创办的 World Labs，82亿美元、全股票交易。 随...",
+          "published_at": "2026-09-29T08:57:38"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 6,
+      "count": 14,
       "items": [
         {
           "title": "Designed for a Dead Language",
@@ -242,30 +261,120 @@
           "source": "A List Apart",
           "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
           "published_at": null
+        },
+        {
+          "title": "Jesper Landberg",
+          "url": "https://www.awwwards.com/sites/jesper-landberg-4",
+          "author": "Jesper Landberg",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Butter",
+          "url": "https://www.awwwards.com/sites/butter",
+          "author": "ToyFight",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Realevate",
+          "url": "https://www.awwwards.com/sites/realevate",
+          "author": "Or Halevi",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "MEER MOHSIN",
+          "url": "https://www.awwwards.com/sites/meer-mohsin",
+          "author": "Meer Mohsin",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "The Tie-break",
+          "url": "https://www.awwwards.com/sites/the-tie-break",
+          "author": "Merci Michel",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Moto Finance",
+          "url": "https://www.awwwards.com/sites/moto-finance",
+          "author": "Properly Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Sobha Privy Collection",
+          "url": "https://www.awwwards.com/sites/sobha-privy-collection",
+          "author": "Vide Infra",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "bleibtgleich'26",
+          "url": "https://www.awwwards.com/sites/bleibtgleich26",
+          "author": "The First The Last",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 4,
       "items": [
         {
-          "title": "Lattice",
-          "url": "https://www.producthunt.com/products/lattice-11",
-          "author": "Aryan Rastogi",
+          "title": "Gladys Assistant 5",
+          "url": "https://www.producthunt.com/products/gladys-assistant",
+          "author": "Pierre-Gilles",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Reshape your text across languages while preserving meaningDiscussion|Link",
-          "published_at": "2026-09-27T14:59:30"
+          "summary": "Private, self-hosted smart home, no YAML requiredDiscussion|Link",
+          "published_at": "2026-09-28T15:17:40"
         },
         {
-          "title": "vantage.ai",
-          "url": "https://www.producthunt.com/products/vantage-ai-2",
-          "author": "Jovan",
+          "title": "Would you pay?",
+          "url": "https://www.producthunt.com/products/would-you-pay",
+          "author": "Mustafa Ergisi",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "See and control what your coding agent does.Discussion|Link",
-          "published_at": "2026-09-26T10:22:26"
+          "summary": "Find out who'd pay before you build moreDiscussion|Link",
+          "published_at": "2026-09-28T14:35:04"
+        },
+        {
+          "title": "GhostDeck",
+          "url": "https://www.producthunt.com/products/ghostdeck-retro-music-player",
+          "author": "Djordje Janjic",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Offline Mac music player with living low-poly worldsDiscussion|Link",
+          "published_at": "2026-09-28T06:30:53"
+        },
+        {
+          "title": "Timeless Code",
+          "url": "https://www.producthunt.com/products/timeos",
+          "author": "Tommy Barav",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Meeting notetaker that installs and runs inside Claude CodeDiscussion|Link",
+          "published_at": "2026-09-28T10:37:27"
         }
       ]
     },
@@ -385,6 +494,24 @@
       "count": 6,
       "items": [
         {
+          "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
+          "url": "https://sspai.com/post/115153",
+          "author": "Matrix机器人",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。临近国庆长假 ...查看全文",
+          "published_at": "2026-09-29T09:03:00"
+        },
+        {
+          "title": "更懂你的心，也更懂你：Apple Watch Series 12 体验",
+          "url": "https://sspai.com/post/115061",
+          "author": "ElijahLee",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "全新 Apple Watch Series 12，有哪些可感知的升级？查看全文",
+          "published_at": "2026-09-29T07:44:46"
+        },
+        {
           "title": "可塑的白昼：ColorOS17 深度评测",
           "url": "https://sspai.com/post/114728",
           "author": "Enc3lMag1k",
@@ -419,24 +546,6 @@
           "source": "少数派",
           "summary": "不 root、不刷机，在随身设备上跑通 AI Agent 与微型 Linux 环境。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
           "published_at": "2026-09-28T09:33:03"
-        },
-        {
-          "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-          "url": "https://sspai.com/post/114972",
-          "author": "阿斯巴盐",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "一起来看看 Apple 是如何围绕一块会改变形状的屏幕，重新思考人与界面的关系。查看全文",
-          "published_at": "2026-09-28T07:00:00"
-        },
-        {
-          "title": "摸鱼+3 | 还剩三天班，一天一个解谜游戏",
-          "url": "https://sspai.com/post/114967",
-          "author": "北鸮",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": null,
-          "published_at": "2026-09-28T03:00:30"
         }
       ]
     }
