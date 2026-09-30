@@ -1,25 +1,35 @@
 {
   "date": "2026-09-30T00:00:00",
-  "total_items": 57,
+  "total_items": 62,
   "sources": [
-    "优设网",
-    "Design Milk",
-    "UX Planet",
-    "NN/g (Nielsen Norman Group)",
-    "Sidebar",
-    "Awwwards",
-    "UX Design CC",
     "人人都是产品经理",
-    "Product Hunt",
+    "UX Planet",
+    "UX Design CC",
+    "Sidebar",
+    "A List Apart",
     "少数派",
-    "A List Apart"
+    "Awwwards",
+    "Product Hunt",
+    "NN/g (Nielsen Norman Group)",
+    "Smashing Magazine",
+    "优设网",
+    "Design Milk"
   ],
-  "generated_at": "2026-09-30T04:46:41.895907",
+  "generated_at": "2026-09-30T17:48:10.452461",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 9,
+      "count": 11,
       "items": [
+        {
+          "title": "The economics of attention in the age of AI",
+          "url": "https://uxdesign.cc/the-economics-of-attention-in-the-age-of-ai-5f92e7e0fb49?source=rss----138adf9c44c---4",
+          "author": "Aurélie Radom",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "When machines pay attention, what deserves ours?AI filtering the information reaching us, shaping the economics of human attention. AI-generated visual, Aurélie Radom ©For decades, digital products co...",
+          "published_at": "2026-09-30T11:14:25"
+        },
         {
           "title": "How to de-slopify your designs",
           "url": "https://uxdesign.cc/how-to-de-slopify-your-designs-4c40c57c1dc9?source=rss----138adf9c44c---4",
@@ -82,6 +92,15 @@
           "source": "UX Design CC",
           "summary": "The craft was learned at this table, one marked-up screen at a time. AI assisted,Automation is taking tasks juniors learned on. Here are seven tasks that put the practice back so we keep human element...",
           "published_at": "2026-09-27T19:38:02"
+        },
+        {
+          "title": "GPT-6.1 Sol vs Claude Sonnet 5.5: I Tested Both for Web Design",
+          "url": "https://uxplanet.org/gpt-6-1-sol-vs-claude-sonnet-5-5-i-tested-both-for-web-design-6612bc851872?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "OpenAI just updated its most balanced AI model, GPT-6.1 Sol. The biggest change is that GPT-6.1 Sol is less about a new feature set and…Continue reading on UX Planet »",
+          "published_at": "2026-09-30T12:48:09"
         },
         {
           "title": "I Tested Claude Sonnet 5.5 for Web Design",
@@ -195,56 +214,65 @@
           "published_at": "2026-09-29T19:17:50"
         },
         {
-          "title": "超16万人预约，前Hinge产品官做AI占星，掀起美国年轻人“关系解读”热潮",
-          "url": "https://www.woshipm.com/ai/6472452.html",
-          "author": "扬帆出海",
+          "title": "腾讯秘密开发Personal Agent独立App“Handy Bot”",
+          "url": "https://www.woshipm.com/ai/6472701.html",
+          "author": "读佳",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Match Group 财报显示 Tinder 付费用户同比降 5%，Hinge 却涨 17%。前 Hinge 首席产品官 Michelle Parsons 创业做 AI 占星产品 Lora，靠 16 万人预约、手帐风星盘切入美国年轻人的关系解读。在社交App市场高度饱和的今天，年轻人并不缺少认识新人的机会。向左滑、向右滑，基于兴趣推荐、算法匹配，平台可以帮助用户快速找到大量潜在连接。当匹配变得越...",
-          "published_at": "2026-09-30T03:52:41"
+          "summary": "腾讯正在开发 Personal Agent 产品 Handy Bot，计划推出独立 App，已在微信上线服务号。文章拿它和 Meta 的 Muse 对比，解释 Personal Agent 与 Chatbot 的差别：它有长期存续的运行环境，接住目标后能持续推进任务。腾讯的Personal Agent产品要来了？《读佳》获知，腾讯正在秘密开发一款Personal Agent产品“Handy Bot...",
+          "published_at": "2026-09-30T09:48:37"
         },
         {
-          "title": "两款开源 PDF 操作工具推荐：BentoPDF 和 Stirling PDF",
-          "url": "https://www.woshipm.com/ai/6472442.html",
-          "author": "AI李子",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "推荐两款 Adobe 平替的开源 PDF 工具：BentoPDF 用 WebAssembly 把渲染与转换搬进浏览器，文件不出本地、断网可用；Stirling PDF 定位企业级全能中枢，支持自托管、批量转换与无代码管道作业。PDF 诞生至今已有三十余年，它的设计初衷是确保跨设备打印与排版呈现的绝对一致。这种特性在视觉上保证了排版美感，却也给后期的二次修改带来了巨大的阻碍。近两年来，围绕 PDF ...",
-          "published_at": "2026-09-30T03:48:56"
-        },
-        {
-          "title": "做 AI 短剧的人，在愁什么？",
-          "url": "https://www.woshipm.com/share/6472107.html",
+          "title": "Anthropic 严正警告：GLM-5.3 已具备高级网络攻击能力",
+          "url": "https://www.woshipm.com/ai/6472687.html",
           "author": "赛博禅心",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "横店变成了「竖店」，云栖大会上又有人接了句「空店」——很多剧组已经不用群演，直接靠 AI 生视频。阿里云牵头成立短漫剧产业发展联盟，掌阅、快看、麦芽、点众与淘宝短剧、优酷一同做了分享：效率确实高，但不好赚钱。这两年流行一个说法：横店，变「竖店」了而在上周的云栖大会上，赵晖教授又接了句：现在叫「空店」至于为啥，不难解释…现在很多剧组已经不用群演了，直接 AI 生视频山海短剧付磊：AI 短剧上线 22...",
-          "published_at": "2026-09-30T03:48:06"
+          "summary": "Anthropic 发布对智谱 GLM-5.3 的网络安全评估：该模型能自主开发端到端漏洞利用程序，发布时却缺少有效护栏，用欺骗性提示、预填思考内容或移除拒绝行为，参与比例可以达到 64%、92% 甚至 100%。以下为全文翻译。今天凌晨，Anthropic 发布了对智谱 GLM-5.3 的网络安全评估，讨论模型的漏洞利用能力、安全护栏，以及开放权重带来的影响以下为全文翻译文中的「我们」指 Ant...",
+          "published_at": "2026-09-30T09:45:41"
         },
         {
-          "title": "同质化的“使命宣言”，正在毁掉品牌差异化？",
-          "url": "https://www.woshipm.com/marketing/6471457.html",
-          "author": "品牌猿",
+          "title": "对话 Instinct 创始人：个人 Agent 必须自研推理管线降低成本，商业模式终局是「AI 版苹果商店」",
+          "url": "https://www.woshipm.com/ai/6472662.html",
+          "author": "Z Finance",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "一家机构把 75 家工程与建筑咨询企业的品牌使命宣言隐去名称再做比对，结果几乎无法区分。文章借马斯洛与柯林斯的观点指出：使命若不扎根企业自身的历史、文化与真实行为，就只是在描述整个行业，外观再好看也只完成了一半。不少行业重金投入“使命导向型”品牌建设，却陷入最严重的同质化——问题出在哪？一、一个令人不安的发现最根本的问题在于，激励你的愿景是什么？——亚伯拉罕·马斯洛吉姆·柯林斯在《卓越基因》说：领...",
-          "published_at": "2026-09-30T03:24:28"
+          "summary": "Instinct 成立约一年，估值一个月内从 25 亿涨到 100 亿美元，用户每天增长约 10%，年化 GMV 超 10 亿。创始人 Noah Shinn 谈为什么不做独立 App，而是给 Agent 配电话号码、邮箱和云端电脑，让它像真人助理一样把事办完。2026 年 9 月 28 日，个人 Agent 公司 Instinct 宣布完成 10 亿美元 C 轮融资，估值达到 100 亿美元，投资...",
+          "published_at": "2026-09-30T09:40:45"
         },
         {
-          "title": "Manus 2.0归来：从”一码难求”到”Work战场已瓜分”，通用Agent还有机会吗？",
-          "url": "https://www.woshipm.com/ai/6472435.html",
-          "author": "Ai学习的老章",
+          "title": "扣住 Astra，放出 Dots",
+          "url": "https://www.woshipm.com/ai/6472676.html",
+          "author": "王智远",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Manus 发布 2.0 并推出独立 Agent 产品 Cue：底层换成 Cascade Agent Harness，补齐 Manus Studio 桌面端、云电脑与 Cue 的数字身份。作者认为 Work 类协同应用已瓜分战场，定价还撑不起替代 Codex。今天科技圈最抓人眼球的新闻，莫过于曾经火遍全球的 Manus 正式端出了它的 2.0 版本，还顺带发布了全新的独立 Agent 产品 Cue...",
-          "published_at": "2026-09-30T03:22:12"
+          "summary": "OpenAI 在 DevDay 发布了便宜的 GPT-6.1 Sol 和 24 小时在线的 Dots，唯独把 Astra 扣下，理由是欺骗和越权操作。作者由此谈到 specification gaming：模型按评分标准优化，做出来的却不是你要的结果。OpenAI 开了它的年度开发者大会 DevDay，今年在旧金山；发了几样东西：GPT-6.1 Sol，便宜版大模型，性能接近 Astra，价格只有...",
+          "published_at": "2026-09-30T08:48:48"
+        },
+        {
+          "title": "a16z 最新深度对话：这才是 personal agent 的正确打开方式",
+          "url": "https://www.woshipm.com/ai/6472681.html",
+          "author": "深思圈",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "a16z 的 Anish Acharya 与助理测评平台创始人 David Pawlan 聊了 personal agent：谁会用、谁可能赢。作者没有只做复述，而是把对话与自己的使用体验放在一起，分辨哪些判断是泡沫、哪些对做产品真有参考价值。前几天我看了一期 a16z 的播客，是 General Partner Anish Acharya 和 Assistant Benchmark（AI 助手对...",
+          "published_at": "2026-09-30T07:04:49"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 14,
+      "count": 15,
       "items": [
+        {
+          "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
+          "url": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creat...",
+          "published_at": "2026-09-30T13:30:00"
+        },
         {
           "title": "Designed for a Dead Language",
           "url": "https://alistapart.com/article/designed-for-a-dead-language/",
@@ -375,34 +403,52 @@
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 5,
       "items": [
         {
-          "title": "Claude Sonnet 5.5",
-          "url": "https://www.producthunt.com/products/claude",
-          "author": "Rohan Chaubey",
+          "title": "Ship It: Idle Dev Tycoon",
+          "url": "https://www.producthunt.com/products/ship-it-idle-dev-tycoon",
+          "author": "Hendrik Haandrikman",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Anthropic's second model in the Claude 5.5 familyDiscussion|Link",
-          "published_at": "2026-09-28T18:27:48"
+          "summary": "The idle game where App Review can reject youDiscussion|Link",
+          "published_at": "2026-09-29T07:06:48"
         },
         {
-          "title": "Timeless Code",
-          "url": "https://www.producthunt.com/products/timeos",
-          "author": "Tommy Barav",
+          "title": "Notely",
+          "url": "https://www.producthunt.com/products/notely-7",
+          "author": "Safar Khan Shuvo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Meeting notetaker that installs and runs inside Claude CodeDiscussion|Link",
-          "published_at": "2026-09-28T10:37:27"
+          "summary": "Turn notes into tasks, with AI that asks firstDiscussion|Link",
+          "published_at": "2026-09-28T08:11:31"
         },
         {
-          "title": "Codex Remote",
-          "url": "https://www.producthunt.com/products/codex-remote",
-          "author": "Pandelis Zembashis",
+          "title": "Aktar",
+          "url": "https://www.producthunt.com/products/aktar",
+          "author": "Mert Topuz",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Put Codex or Claude Code on your own cloud machineDiscussion|Link",
-          "published_at": "2026-09-28T09:56:03"
+          "summary": "Share files instantly from your own cloud. Mac, Windows, iOSDiscussion|Link",
+          "published_at": "2026-09-29T11:23:35"
+        },
+        {
+          "title": "GitBot",
+          "url": "https://www.producthunt.com/products/gitbot-2",
+          "author": "Sunny ☀️",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Build bots on the coding agent you already useDiscussion|Link",
+          "published_at": "2026-09-28T11:05:50"
+        },
+        {
+          "title": "CrawlRaven MCP",
+          "url": "https://www.producthunt.com/products/crawlraven-mcp",
+          "author": "Ayush Chaturvedi",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Your SEO work, done from your AI agentDiscussion|Link",
+          "published_at": "2026-09-30T06:51:13"
         }
       ]
     },
@@ -410,6 +456,15 @@
       "category": "设计教程",
       "count": 6,
       "items": [
+        {
+          "title": "怎样为 iPhone Duo 设计交互？官方设计指南中文版来了！",
+          "url": "https://www.uisdc.com/design-for-iphone-duo",
+          "author": "",
+          "category": "设计教程",
+          "source": "优设网",
+          "summary": null,
+          "published_at": null
+        },
         {
           "title": "一个模型搞定生图和修图！超多案例实测Qwen-Image-2.1",
           "url": "https://www.uisdc.com/qwen-image-cloud",
@@ -440,15 +495,6 @@
         {
           "title": "从Demo到真实产品，AI生成UI最容易卡在这3个地方！",
           "url": "https://www.uisdc.com/ai-ui-survivors",
-          "author": "",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "GPT-Image 2.5 假期出片指南！12个玩法从修图到朋友圈大片",
-          "url": "https://www.uisdc.com/holiday-ai-retouch",
           "author": "",
           "category": "设计教程",
           "source": "优设网",
@@ -522,6 +568,24 @@
       "count": 6,
       "items": [
         {
+          "title": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉",
+          "url": "https://sspai.com/post/115070",
+          "author": "Plutonium",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Bungie 究竟是在和时间赛跑，还是在和自己赛跑？查看全文",
+          "published_at": "2026-09-30T14:32:58"
+        },
+        {
+          "title": "经典任务管理软件的现代重构：新版 2Do 详解",
+          "url": "https://sspai.com/post/115166",
+          "author": "广陵止息",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "完全重构的 2Do 是我的心目中最佳的任务管理工具。查看全文",
+          "published_at": "2026-09-30T07:00:00"
+        },
+        {
           "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
           "url": "https://sspai.com/post/114945",
           "author": "胡九思",
@@ -556,24 +620,6 @@
           "source": "少数派",
           "summary": "全新 Apple Watch Series 12，有哪些可感知的升级？查看全文",
           "published_at": "2026-09-29T07:44:46"
-        },
-        {
-          "title": "可塑的白昼：ColorOS17 深度评测",
-          "url": "https://sspai.com/post/114728",
-          "author": "Enc3lMag1k",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "时间倾斜，触碰我，发出清澈的金属般的声响。我的感官在战栗，我觉我能——我能抓住这可塑的白昼。——里尔克《时辰祈祷》AppleEvent'26上，主动智能赋能的SiriAI终于正式发布。Craig一句「 ...查看全文",
-          "published_at": "2026-09-29T03:28:25"
-        },
-        {
-          "title": "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等",
-          "url": "https://sspai.com/post/115134",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "少数派的近期动态给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研泡泡骚LowPro碳纹黑少数派独家款上架，把握持与支撑收进2.6m ...查看全文",
-          "published_at": "2026-09-29T00:09:05"
         }
       ]
     }
