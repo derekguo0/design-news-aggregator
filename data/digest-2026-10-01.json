@@ -1,25 +1,25 @@
 {
   "date": "2026-10-01T00:00:00",
-  "total_items": 67,
+  "total_items": 69,
   "sources": [
-    "Awwwards",
-    "优设网",
-    "UX Design CC",
-    "NN/g (Nielsen Norman Group)",
-    "Design Milk",
     "Product Hunt",
     "人人都是产品经理",
+    "UX Design CC",
+    "Sidebar",
+    "Awwwards",
+    "优设网",
+    "Smashing Magazine",
+    "NN/g (Nielsen Norman Group)",
     "UX Planet",
     "A List Apart",
     "少数派",
-    "Smashing Magazine",
-    "Sidebar"
+    "Design Milk"
   ],
-  "generated_at": "2026-10-01T04:59:10.150792",
+  "generated_at": "2026-10-01T18:13:50.386534",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 13,
+      "count": 14,
       "items": [
         {
           "title": "Five-step color balancing with GenAI",
@@ -110,6 +110,15 @@
           "source": "UX Design CC",
           "summary": "Designing beyond the interface, the product, and the promptContinue reading on UX Collective »",
           "published_at": "2026-09-28T22:29:04"
+        },
+        {
+          "title": "Sonnet 5.5 vs Opus 5.5: Which one is better for product design?",
+          "url": "https://uxplanet.org/sonnet-5-5-vs-opus-5-5-which-one-is-better-for-product-design-c2c9849f754f?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Anthropic just updated its most balanced AI model, Sonnet. What makes Sonnet 5.5 most interesting for product design is that, beyond more…Continue reading on UX Planet »",
+          "published_at": "2026-10-01T12:57:32"
         },
         {
           "title": "GPT-6.1 Sol vs Claude Sonnet 5.5: I Tested Both for Web Design",
@@ -205,6 +214,24 @@
       "count": 11,
       "items": [
         {
+          "title": "6 Design-Forward Essentials for the Minimalist Bedroom",
+          "url": "https://design-milk.com/minimalist-bedroom-design-essentials/",
+          "author": "Design Milk Staff",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Clean lines, natural materials, and clever storage bring a sense of calm to these six furnishings designed for pared-back spaces",
+          "published_at": "2026-10-01T14:00:26"
+        },
+        {
+          "title": "Bitreel’s AI Knowledge Agents Are Reshaping the Design Process",
+          "url": "https://design-milk.com/bitreel-ai-knowledge-agents/",
+          "author": "Design Milk Staff",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "By streamlining tedious behind-the-scenes tasks, Bitreel’s AI Knowledge Agents give designers more time to focus on the creative work that matters.",
+          "published_at": "2026-10-01T13:00:26"
+        },
+        {
           "title": "A Warsaw Law Office Finds Common Ground Between Japan and New York",
           "url": "https://design-milk.com/baker-mckenzie-warsaw-office/",
           "author": "Anna Zappia",
@@ -241,67 +268,49 @@
           "published_at": "2026-09-29T23:01:16"
         },
         {
-          "title": "Church Edit’s LA Headquarters Rethinks the Editing Studio",
-          "url": "https://design-milk.com/church-edit-headquarters/",
-          "author": "Leo Lei",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Argyle Design brings residential warmth to an industrial Frogtown building, balancing the technical demands of a post-production studio with light, openness, and softer materials",
-          "published_at": "2026-09-29T22:30:30"
-        },
-        {
-          "title": "A Paul Rudolph Original Is Rebuilt for Modern Coastal Living",
-          "url": "https://design-milk.com/paul-rudolph-biggs-residence/",
-          "author": "Malia Agostinelli",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Nina and Michael Marco spent six years reconstructing the 1955 Biggs Residence, preserving Rudolph’s tropical modernist vision while bringing the Delray Beach home up to contemporary standards",
-          "published_at": "2026-09-29T19:17:50"
-        },
-        {
-          "title": "买汉堡为什么非得带一杯可乐？",
-          "url": "https://www.woshipm.com/share/6472551.html",
-          "author": "寻空",
+          "title": "一个令人惊艳的开源项目，解决你的客服 AI 难题！",
+          "url": "https://www.woshipm.com/ai/6472744.html",
+          "author": "甲木未来派",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "单点汉堡 20 元、可乐 8 元、薯条 12 元，加起来 40 元；套餐只要 25 元，于是你几乎下意识地点了套餐。作者从这杯可乐讲起：它的毛利率能到 80% 到 90%，真正撑起快餐利润的其实是饮料，而不是汉堡本身。你去麦当劳、肯德基点餐，有没有遇到过这种情况。本来只是想随便吃个汉堡，站在点餐屏前扫了一眼菜单，突然就被套餐吸引住了。单点一个汉堡，20 块，单点一杯可乐，8 块，薯条，12 块。你...",
-          "published_at": "2026-10-01T03:12:53"
+          "summary": "「转人工」是客服机器人听得最多的一句话。作者介绍了 ZooWork 开源的 Instinct 决策模型：不让大模型写作文式地输出 JSON，只让它在候选里选一个、并说清有多确定。4B 权重开源可本地部署，27B 面向复杂规则判断，目前处于免费预览阶段。最近 Jev 模型不是比较火吗？以“系统一”模型著称，用于决策处理非常地快，但用在「客服」场景中我觉得还是差点意思。。正好我又发现了一个宝藏开源项目...",
+          "published_at": "2026-10-01T10:01:15"
         },
         {
-          "title": "3000万人用 AI 练外语，这家公司发现：让老师记住学生，比让老师更聪明重要",
-          "url": "https://www.woshipm.com/chuangye/6471437.html",
-          "author": "张艾拉",
+          "title": "瞬间启发：创新、领导和领导力",
+          "url": "https://www.woshipm.com/share/6472750.html",
+          "author": "品牌猿",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "很多人学了十几年外语，真正需要开口的时候还是会紧张。Praktika 为这件事做了一群 AI 外语老师，可以在手机上随时开聊。截至 2026 年 9 月，官网宣称已拥有超过 3000 万名学习者，眼下它更在意的是让 AI 记住每一个学生。今天分享的产品是：Praktika，https://praktika.ai/很多人学了十几年英语，背过几千个单词，做阅读理解也没什么问题，但真正到了需要开口的时候...",
-          "published_at": "2026-10-01T02:52:24"
+          "summary": "「领导」一词源自 leith，意思是跨越界限、往前再走一步。作者用几组对照说明领导者与管理者的差别——任正非与柳传志、张一鸣与马云、乔布斯与韦尔奇、纳德拉与鲍尔默——并给出五个自问：你是否渴望变革、指明方向、影响追随者、以身作则、终身学习。01 创新，就是打破现状现在和未来，「打破现状」的品牌、组织和个人将是最大的赢家。那些刺激组织，鼓励别人改变规则的人，会成为「领导者」。我们再一次回到「领导」这...",
+          "published_at": "2026-10-01T09:01:16"
         },
         {
-          "title": "Gemini 4 Argon 发布",
-          "url": "https://www.woshipm.com/ai/6473057.html",
-          "author": "赛博禅心",
+          "title": "AI 时代产品经理的竞争力迭代：从方法论执行到经营判断力升维",
+          "url": "https://www.woshipm.com/pmd/6471544.html",
+          "author": "Roxana",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Google 凌晨发布 Gemini 4 Argon，19 项测试拿下 14 项第一，单次输出上限从 64K 直接拉到 100 万 token，还首次在 Vals Index 经济价值榜登顶。它已在 Google 内部迁移 C/C++ 到 Rust、优化数据中心内存。本文拆解这份成绩单背后的能力跃迁与分阶段开放策略。今天凌晨，Google 发布了新一代前沿模型 Gemini 4 Argon，达到了...",
-          "published_at": "2026-10-01T02:46:43"
+          "summary": "AI 已能自动完成 PRD 撰写、竞品分析等基础工作，产品经理的执行瓶颈被打破，判断力成为新的核心短板。本文从瓶颈理论、半人马模型与 Cynefin 框架出发，结合实战经验，探讨产品经理如何从执行者升级为经营者，构建 AI 时代的高阶判断力。笔者此前在文章《方法论被自动化之后：产品经理真正的壁垒是隐性知识》中提出过一个观点：产品工作的标准化方法论属于显性知识，可被编码、复刻，大概率会被 AI 逐步...",
+          "published_at": "2026-10-01T08:20:12"
         },
         {
-          "title": "【乙方视角】客户说“我需要”，你就真做？——ToB/G真伪需求判别指南",
-          "url": "https://www.woshipm.com/share/6458776.html",
-          "author": "钟溯/trace",
+          "title": "独立开发者的推广困局：别把获客留到上线那天",
+          "url": "https://www.woshipm.com/operate/6472900.html",
+          "author": "桑木拓",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "客户说“需要”，你就埋头开发？在ToB/G领域，需求真假直接决定项目成败。本文从政策、领导、业务、采购四大来源拆解需求本质，教你用沟通与表情识别真伪，避免竹篮打水一场空。客户说：“这个功能我们很需要，你们能不能做？”你回去吭哧吭哧做了三个月，产品出来了，客户说：“我们再看看。”这个场景，每个ToB/G一线人员都遇到过。问题出在哪？出在客户说的“需要”，和你理解的“需要”，根本不是一回事。真伪需求判...",
-          "published_at": "2026-10-01T02:17:39"
+          "summary": "很多独立开发者把推广理解为“产品做完之后的最后一步”——闭门开发数月，上线发帖，然后坐等下载。结果往往是后台个位数用户、收入几美元，最后把失败归咎于“平台限流”或“我不擅长推广”。但推广从来不是产品上线后才贴的那层包装纸，它从你决定解决什么问题的那一刻就已经开始了。前段时间，一位做生活记录类 App 的独立开发者在社交平台上发帖：熬了无数个通宵，UI 抠到极致，满心欢喜上线，结果后台总用户 10 ...",
+          "published_at": "2026-10-01T07:15:38"
         },
         {
-          "title": "一篇文章带你入门 AI 视频模型：从基本概念到主流模型与选择方法",
-          "url": "https://www.woshipm.com/ai/6472933.html",
-          "author": "未完结AI",
+          "title": "前TikTok全球运营负责人再创业，给宠物造了个平行世界",
+          "url": "https://www.woshipm.com/ai/6472713.html",
+          "author": "虾蛄AI",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI视频模型正从技术名词变成内容创作的新引擎。本文用红果短剧的爆火切入，手把手拆解文生视频、图生视频、首尾帧等概念，从技术原理到实操技巧，帮你快速上手，看懂行业讨论，独立判断新模型的价值。2026 年，如果你问身边的朋友：”你知道 AI 视频模型是什么吗？”他可能会摇摇头。但如果换个问题：”你刷过红果短剧吗？”那他可就不困了。毕竟谁不想下班后，急头白脸地来一集红果短剧？白天受的气，晚上靠穿越主角逆...",
-          "published_at": "2026-10-01T02:15:31"
+          "summary": "宠物走后，留下的人想留住那些日常画面。Furever Pet in Heaven 让主人上传离世宠物的照片，持续生成新图、视频，甚至模拟宠物发来消息。团队核心是 Musical.ly 早期成员、前 TikTok 全球运营负责人周秉俊和前 BAI 投资人胡禹丞。宠物离开后的另一种陪伴。宠物走后，大家想留给它们的纪念方式也变多了。今年7月，Euromonitor在最新全球宠物市场报告里给出的规模已经达...",
+          "published_at": "2026-10-01T06:42:58"
         }
       ]
     },
@@ -448,52 +457,61 @@
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "Zumbo",
-          "url": "https://www.producthunt.com/products/zumbo",
-          "author": "Claudiu Sararu",
+          "title": "Dots by OpenAI",
+          "url": "https://www.producthunt.com/products/dots-by-openai",
+          "author": "KP",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Open source local AI voice-to-text for Mac for private STTDiscussion|Link",
-          "published_at": "2026-09-28T07:36:26"
+          "summary": "Always on agents built to handle everythingDiscussion|Link",
+          "published_at": "2026-09-29T18:35:29"
         },
         {
-          "title": "RxFilmStudio",
-          "url": "https://www.producthunt.com/products/rxfilmstudio",
-          "author": "Moe Z",
+          "title": "Phare C1®",
+          "url": "https://www.producthunt.com/products/phare-c1",
+          "author": "Daniel McBride",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Create and edit Product videos with your AI AgentDiscussion|Link",
-          "published_at": "2026-09-28T12:32:12"
+          "summary": "A smoke alarm that detects fire, not toast.Discussion|Link",
+          "published_at": "2026-09-29T12:51:48"
         },
         {
-          "title": "Voice Memo",
-          "url": "https://www.producthunt.com/products/voice-memo",
-          "author": "Hussain Trawadi",
+          "title": "DSH Desktop",
+          "url": "https://www.producthunt.com/products/deepseek",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Open-source voice notes that file your tasks and remindersDiscussion|Link",
-          "published_at": "2026-09-28T06:44:03"
+          "summary": "Official app for DeepSeek’s open-source agent harnessDiscussion|Link",
+          "published_at": "2026-09-30T02:21:19"
         },
         {
-          "title": "Agent Identity",
-          "url": "https://www.producthunt.com/products/agent-identity",
-          "author": "Naol Ketema",
+          "title": "Formalini",
+          "url": "https://www.producthunt.com/products/formalini",
+          "author": "Marco Pascalini",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Give every AI agent real identities, inboxes, and a phoneDiscussion|Link",
-          "published_at": "2026-09-28T22:09:33"
+          "summary": "Docs to Data, BI, Personal Finance, Huge Dev Platform.Try itDiscussion|Link",
+          "published_at": "2026-09-29T20:14:12"
         },
         {
-          "title": "m’kay",
-          "url": "https://www.producthunt.com/products/m-kay",
-          "author": "Maxim Makatchev",
+          "title": "Vitra.ai",
+          "url": "https://www.producthunt.com/products/vitra-ai-agentic-content-platform",
+          "author": "Satvik Jagannath",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "One voice for all your coding agents, from your phoneDiscussion|Link",
-          "published_at": "2026-09-29T02:18:05"
+          "summary": "Agentic content platform to create and localize contentDiscussion|Link",
+          "published_at": "2026-09-30T19:36:03"
+        },
+        {
+          "title": "Buddy Drop",
+          "url": "https://www.producthunt.com/products/buddy",
+          "author": "Rafal Sztwiorok",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Drop the files, get a live URL in secondsDiscussion|Link",
+          "published_at": "2026-09-30T09:20:05"
         }
       ]
     },
@@ -547,8 +565,8 @@
           "published_at": null
         },
         {
-          "title": "为什么B站急着改版评论区？中长视频打破信息茧房新解",
-          "url": "https://www.uisdc.com/hunter/0221685580.html",
+          "title": "体验百度古今地图，这个宝藏图层比百科还好用！",
+          "url": "https://www.uisdc.com/hunter/0221685672.html",
           "author": "龙爪槐守望者",
           "category": "设计教程",
           "source": "优设网",
@@ -562,49 +580,49 @@
       "count": 5,
       "items": [
         {
-          "title": "AI is a boring technology",
-          "url": "https://www.chrbutler.com/ai-is-a-boring-technology",
+          "title": "The lie we keep telling ourselves about regulating AI",
+          "url": "https://uxdesign.cc/the-lie-we-keep-telling-ourselves-about-regulating-ai-61e0163d795e",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Is AI as interesting as what it helps you do? I don’t think it is, and I mean that as a compliment.",
-          "published_at": "2026-09-30T04:05:00"
+          "summary": "The excuse for not regulating AI is that nobody can agree how. The people who built the internet would find that laughable.",
+          "published_at": "2026-10-01T05:03:24"
         },
         {
-          "title": "Sidenotes with CSS anchor positioning",
-          "url": "https://vincent.bernat.ch/en/blog/2026-css-sidenotes",
+          "title": "Google's 3D emoji design process",
+          "url": "https://design.google/library/noto-3d-emoji-design",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Sidenotes positioned in the margin with CSS anchor positioning, without JavaScript. On narrow viewports and older browsers, they fall back below...",
-          "published_at": "2026-09-30T04:04:00"
+          "summary": "How Google brought 3,977 Noto emoji into 3D.",
+          "published_at": "2026-10-01T05:02:39"
         },
         {
-          "title": "Online hacker simulator",
-          "url": "https://hacker-simulator.com/",
+          "title": "I can’t tell who’s teaching who anymore",
+          "url": "https://blog.murphytrueman.com/i-cant-tell-whos-teaching-who-anymore/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "This interactive online hacker app will let you simulate that you’re hacking a computer or a digital network.",
-          "published_at": "2026-09-30T04:03:00"
+          "summary": "On inheriting my mum’s sentences, and watching them read as a machine’s.",
+          "published_at": "2026-10-01T05:01:49"
         },
         {
-          "title": "The WebGPU library, designed for agents",
-          "url": "https://vgpu.sh/examples",
+          "title": "Agent skill: Libraries.dev",
+          "url": "https://libraries.dev/skill",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Fullscreen shaders, compute pipelines, raw WebGPU interop, and read-only source files compiled directly by this docs app.",
-          "published_at": "2026-09-30T04:02:00"
+          "summary": "Teach your coding agent Border beam, Thinking orbs, Gooey, Voice, Bot avatars, Liquid metal and Image.",
+          "published_at": "2026-10-01T05:00:43"
         },
         {
-          "title": "How to keep enjoying programming in a world of LLMs",
-          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "title": "State of Devs 2026",
+          "url": "https://2026.stateofdevs.com/en-US/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Afraid of loosing your job to someone with little programming skills, no aspirations to quality, and a huge Claude account?",
-          "published_at": "2026-09-30T04:01:00"
+          "summary": "Nearly half of this year's survey respondents had experienced job insecurity and insufficient wages.",
+          "published_at": "2026-10-01T04:59:31"
         }
       ]
     },
