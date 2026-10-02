@@ -1,25 +1,34 @@
 {
   "date": "2026-10-02T00:00:00",
-  "total_items": 60,
+  "total_items": 62,
   "sources": [
-    "NN/g (Nielsen Norman Group)",
-    "人人都是产品经理",
-    "UX Design CC",
     "Sidebar",
-    "优设网",
-    "Design Milk",
+    "UX Design CC",
     "少数派",
+    "Product Hunt",
     "UX Planet",
     "Smashing Magazine",
-    "Product Hunt",
+    "人人都是产品经理",
+    "Awwwards",
+    "Design Milk",
+    "NN/g (Nielsen Norman Group)",
     "A List Apart"
   ],
-  "generated_at": "2026-10-02T04:49:48.899960",
+  "generated_at": "2026-10-02T17:39:23.631207",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 13,
+      "count": 14,
       "items": [
+        {
+          "title": "In/tension modeling: what gives us the right?",
+          "url": "https://uxdesign.cc/in-tension-modeling-what-gives-us-the-right-01740248eb45?source=rss----138adf9c44c---4",
+          "author": "Stacie Sheldon",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "How to navigate opposing voices and lived tensions.ByJulia Beard,Naman Mandhan,&Stacie SheldonAsking the Hardest Question First“What gives us the right to make the interventions and choices we are con...",
+          "published_at": "2026-10-02T11:09:56"
+        },
         {
           "title": "Stop blaming the model for slow AI. Using Doherty’s threshold as a guideline.",
           "url": "https://uxdesign.cc/stop-blaming-the-model-for-slow-ai-heres-how-to-design-for-it-doherty-s-threshold-as-a-guideline-5fa6d52e23fc?source=rss----138adf9c44c---4",
@@ -35,7 +44,7 @@
           "author": "Anamol Rajbhandari",
           "category": "用户体验设计",
           "source": "UX Design CC",
-          "summary": "The same evidence about AI is being read two opposite ways, and designers are left choosing between them without a clear consensus to lean…Continue reading on UX Collective »",
+          "summary": "The same evidence about AI is being read two opposite ways, leaving designers to choose without a clear consensus to lean on.Continue reading on UX Collective »",
           "published_at": "2026-10-01T22:51:02"
         },
         {
@@ -102,13 +111,13 @@
           "published_at": "2026-09-30T11:14:25"
         },
         {
-          "title": "How to de-slopify your designs",
-          "url": "https://uxdesign.cc/how-to-de-slopify-your-designs-4c40c57c1dc9?source=rss----138adf9c44c---4",
-          "author": "Maya Brennan",
+          "title": "3D Modeling with Claude Code: A Practical Blender Workflow",
+          "url": "https://uxplanet.org/3d-modeling-with-claude-code-a-practical-blender-workflow-97e6e0b536b0?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
           "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "Tips for anyone who vibecodes.All images in this post are my original work.AsAI slopcontinues to inundate our everyday lives, I have come to the following conclusions —People can identify slop.People ...",
-          "published_at": "2026-09-29T21:39:48"
+          "source": "UX Planet",
+          "summary": "Claude Code can be used for various design tasks, including 3D modelling. But the best way to use Claude Code for 3D modeling is to treat…Continue reading on UX Planet »",
+          "published_at": "2026-10-02T12:37:51"
         },
         {
           "title": "Sonnet 5.5 vs Opus 5.5: Which one is better for product design?",
@@ -144,6 +153,24 @@
       "count": 6,
       "items": [
         {
+          "title": "Empathy Mapping: The First Step in Design Thinking",
+          "url": "https://www.nngroup.com/articles/empathy-mapping/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "The New Big Ball of Mud: Why Agentic AI Systems Turn Fragile",
+          "url": "https://www.nngroup.com/articles/big-ball-of-mud-ai/",
+          "author": null,
+          "category": "用户体验研究",
+          "source": "NN/g (Nielsen Norman Group)",
+          "summary": null,
+          "published_at": null
+        },
+        {
           "title": "How AI Works and How Users Think About It: Study Guide",
           "url": "https://www.nngroup.com/articles/ai-functionality-study-guide/",
           "author": null,
@@ -178,24 +205,6 @@
           "source": "NN/g (Nielsen Norman Group)",
           "summary": null,
           "published_at": null
-        },
-        {
-          "title": "AI Can Help Write an Article, but It Can’t Stand Behind It",
-          "url": "https://www.nngroup.com/articles/ai-editorial-process/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Test Complex Interactions Earlier with AI Prototyping",
-          "url": "https://www.nngroup.com/articles/test-earlier-with-ai/",
-          "author": null,
-          "category": "用户体验研究",
-          "source": "NN/g (Nielsen Norman Group)",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
@@ -203,6 +212,15 @@
       "category": "产品设计",
       "count": 11,
       "items": [
+        {
+          "title": "Paola Lenti’s São Paulo Flagship Turns Architecture Into a Living Frame",
+          "url": "https://design-milk.com/paola-lenti-sao-paulo-flagship/",
+          "author": "Murrye Bernard",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Armentano Arquitetura pairs a precise metal-and-glass structure with a planted façade that will continue to transform the Italian furniture brand’s São Paulo home",
+          "published_at": "2026-10-02T12:00:43"
+        },
         {
           "title": "A Williamsburg Duplex Draws From Brooklyn’s Industrial Past",
           "url": "https://design-milk.com/williamsburg-duplex-brooklyn/",
@@ -249,64 +267,55 @@
           "published_at": "2026-10-01T02:15:58"
         },
         {
-          "title": "A Bahrain Bay Apartment Finds Its Rhythm in Art and Curves",
-          "url": "https://design-milk.com/bahrain-bay-apartment/",
-          "author": "Catherine DiPersico",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Qreative Design transforms a contemporary waterfront apartment with wave-inspired forms, warm walnut, collectible design, and art sourced from Bahrain and beyond",
-          "published_at": "2026-10-01T01:35:48"
-        },
-        {
-          "title": "喝了几十年水才懂：我买的从来不是水，而是这4层需求",
-          "url": "https://www.woshipm.com/share/6473075.html",
-          "author": "王在行",
+          "title": "广告教父李奥·贝纳：24条“与生俱来的戏剧性”法则",
+          "url": "https://www.woshipm.com/share/6473208.html",
+          "author": "品牌猿",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "自驾出门前把车里暴晒过的水拿来擦玻璃，顺手买了箱怡宝，结账发现比农夫山泉便宜五毛，这才开始琢磨瓶装水的差价到底差在哪。查完资料他总结出四层需求：解渴、口感、信任、场景，品牌靠不同标准、水源故事和场景标签，一层层把价格撑起来。每次出去穿越，后备箱都会码上1-2箱水。出发前我会把车里长时间暴晒的水，用来擦前挡风玻璃。我媳妇说我：“太浪费，这些不能再喝吗？”。我随口说：晒太长时间了，喝了会不好吧？其实，...",
-          "published_at": "2026-10-02T04:07:11"
+          "summary": "万宝路牛仔、绿巨人豌豆、凯洛格玉蜀黍片，都出自芝加哥广告学派创始人李奥·贝纳之手。文章整理了他关于广告人守则、创意方法论与广告本质的 24 条原话，核心是那句「与生俱来的戏剧性」——把商品自身的价值挖出来，让它成为广告里的英雄。李奥·贝纳，美国广告先驱，芝加哥广告学派创始人。他一手打造了万宝路牛仔、绿巨人豌豆、凯洛格玉蜀黍片等传奇品牌，被誉为“广告教父”。他提出的“与生俱来的戏剧性”理论深刻影响了...",
+          "published_at": "2026-10-02T09:13:27"
         },
         {
-          "title": "阶跃星辰“第一梯队”，是“自嗨”吗？",
-          "url": "https://www.woshipm.com/ai/6473079.html",
-          "author": "AIX财经",
+          "title": "我们盘点了30款出海的AI+游戏产品，发现钱都流向了生产管线",
+          "url": "https://www.woshipm.com/ai/6473116.html",
+          "author": "扬帆出海",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "靠一款模型挤进第一梯队，把握有多大？阶跃星辰 9 月发布 Step 5 Preview，一度与 Kimi K3 并列开源第二，随后被新模型挤到第三。文章从榜单排名、开发者口碑和调用量三层拆解：代码与 Agent 能力拿得出手，前端和视觉偏弱，位置并不稳。9月20日，它发布Step 5 Preview，原生支持文本与视觉输入，重点面向编程、软件工程、专业知识工作和长程Agent任务。上线初期，登录并...",
-          "published_at": "2026-10-02T03:42:13"
+          "summary": "2026 年，AI 游戏的供给已经爆炸：Steam 上标注使用 AI 的新游占到全部新品的 30.8%，中位收入却停在 300 美元，Top1% 拿走约 94%。盘点 30 款出海产品后的结论是，钱没流向玩法本身，而是先变成了美术、本地化和投放上的效率。2026年，“AI 游戏能不能做出来”这件事已经有答案，真正要回答的是下一个问题：“AI+游戏”的钱从哪里收回来。眼下Steam上每三款新游就有一...",
+          "published_at": "2026-10-02T08:57:27"
         },
         {
-          "title": "把面试官和难缠的客户做成 AI，这家公司吸引了近百万人",
-          "url": "https://www.woshipm.com/chuangye/6471435.html",
-          "author": "张艾拉",
+          "title": "李飞飞也卖公司，具身模型还怎么创业？",
+          "url": "https://www.woshipm.com/ai/6473189.html",
+          "author": "有界UnKnown",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "把面试官、难缠的客户甚至老板做成 AI，让用户在真正开口之前先练一遍。Yoodli 会在对话里反问、质疑和打断，练完再分析你漏掉了哪些关键信息。这家公司成立于 2021 年，累计融资已超过 6000 万美元。今天分享的产品是：Yoodli，https://yoodli.ai/无论你是 I 人还是 E 人，可能都有类似的经历：明天要去面试，准备了一整晚，自我介绍背得很熟，常见问题也都想好了答案。结果...",
-          "published_at": "2026-10-02T03:24:24"
+          "summary": "AMD 以 82 亿美元收购李飞飞创立的 World Labs，交易后她出任执行副总裁兼首席科学家，直接向苏姿丰汇报。这家公司今年 2 月才融到 10 亿美元，并不缺钱。文章顺着这笔交易追问：世界模型和具身智能的创业窗口还剩多少。苏姿丰和李飞飞，两位在AI领域具有重要影响力的华人女性，最近上演了一场科技圈里罕见的大手笔“Girls help girls”。9月29日，AMD宣布斥资82亿美元收购李...",
+          "published_at": "2026-10-02T08:21:59"
         },
         {
-          "title": "产品开发中，产品经理为什么特别重要？",
-          "url": "https://www.woshipm.com/pmd/6473224.html",
-          "author": "AI产品经理老猫",
+          "title": "用 Claude Opus 5.5 做视频堪称一绝，外网已经玩疯了。",
+          "url": "https://www.woshipm.com/ai/6473114.html",
+          "author": "逛逛GitHub",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "会员续费入口优化，看似简单的功能需求，实则暗藏业务判断的深水区。本文以一款付费模板工具为例，拆解如何从“没续费”的表象中定位真实卡点，通过冻结名单、明确观察窗口与主指标，构建可检验的续费过程。运营提出一个需求：把会员续费入口做得明显一点，快到期时再提醒一次。这件事很容易被拆成几项开发任务：增加按钮、配置提醒、接入支付、延长会员有效期。但这些功能都能正常运行以后，还会剩下一个问题：原来没有续费的人，...",
-          "published_at": "2026-10-02T02:54:12"
+          "summary": "火起来的不是视频生成模型，而是让 Claude Code、Codex 这类工具写 HTML、Canvas 或 Remotion 动画，再逐帧导出 MP4，字幕、镜头和转场都在代码里调。文章整理了外网 10 支成品，又挑了五个能上手的开源项目。好好好，Jev 模型和 GPT-6 做 3D 的爆火浪潮还没过去。大家就研究出来用Claude Opus 5.5 做视频。这里提到的做视频不是 Seedanc...",
+          "published_at": "2026-10-02T07:57:26"
         },
         {
-          "title": "Muse 深度解析：当 AI 有了“一张脸”和“一台云端电脑”，Meta 把个人智能体做成了消费品",
-          "url": "https://www.woshipm.com/evaluating/6472859.html",
-          "author": "丘山Eric",
+          "title": "字节「小豆」呼之欲出，腾讯三路推进，个人 Agent 已成大厂组织能力之战",
+          "url": "https://www.woshipm.com/ai/6473164.html",
+          "author": "Z Finance",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Meta 发布个人 AI 智能体 Muse，上线 12 天下载量超 ChatGPT 两倍，股价应声大涨。这款产品以“云端电脑”为核心，通过子代理、安全审批和拟人化形象，重新定义了 AI Agent 的交互范式。本文从功能、交互与争议切入，拆解 Muse 对 AI 产品经理的参考价值。2026 年 9 月 8 日，Meta 独立发布个人 AI 智能体 Muse。两周后，它登顶美国 App Store...",
-          "published_at": "2026-10-02T02:37:22"
+          "summary": "字节即将推出独立个人助理应用，内部或定名「小豆」，由掌舵 Chat 与搜索产品线的李福祥主导，此前孵化的 Spell 充当端侧能力供给方。腾讯同期在三个方向下注。文章拆了大厂在个人 Agent 上的组织分工与卡位思路。过去一个月，大厂在个人 AI Agent 上的动作明显密集了起来。Manus 推出了 Cue，阿里正加速把千问改造成每个人的 Agent，腾讯在不同部门间铺开了多条产品线，字节也终于...",
+          "published_at": "2026-10-02T07:33:57"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 7,
+      "count": 15,
       "items": [
         {
           "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
@@ -370,126 +379,129 @@
           "source": "A List Apart",
           "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
           "published_at": null
+        },
+        {
+          "title": "Milledollars",
+          "url": "https://www.awwwards.com/sites/milledollars",
+          "author": "Magnetism",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Colonia Zacamil",
+          "url": "https://www.awwwards.com/sites/colonia-zacamil",
+          "author": "Adoratorio Studio",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "CoMinVi",
+          "url": "https://www.awwwards.com/sites/cominvi",
+          "author": "HOLOGRAPHIK",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Jesper Landberg",
+          "url": "https://www.awwwards.com/sites/jesper-landberg-4",
+          "author": "Jesper Landberg",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Butter",
+          "url": "https://www.awwwards.com/sites/butter",
+          "author": "ToyFight",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "Realevate",
+          "url": "https://www.awwwards.com/sites/realevate",
+          "author": "Or Halevi",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "MEER MOHSIN",
+          "url": "https://www.awwwards.com/sites/meer-mohsin",
+          "author": "Meer Mohsin",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
+        },
+        {
+          "title": "The Tie-break",
+          "url": "https://www.awwwards.com/sites/the-tie-break",
+          "author": "Merci Michel",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
+          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "title": "America.gov",
-          "url": "https://www.producthunt.com/products/america-gov",
-          "author": "Chris Messina",
+          "title": "Mintlify Desktop",
+          "url": "https://www.producthunt.com/products/mintlify",
+          "author": "Garry Tan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Whatever you need from government, start here.Discussion|Link",
-          "published_at": "2026-09-29T18:38:12"
+          "summary": "An AI-native app for writing documentation and knowledgeDiscussion|Link",
+          "published_at": "2026-09-30T00:08:54"
         },
         {
-          "title": "Phare C1®",
-          "url": "https://www.producthunt.com/products/phare-c1",
-          "author": "Daniel McBride",
+          "title": "ShipHQ",
+          "url": "https://www.producthunt.com/products/shiphq",
+          "author": "Rıdvan Uyan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A smoke alarm that detects fire, not toast.Discussion|Link",
-          "published_at": "2026-09-29T12:51:48"
+          "summary": "Build your own app studio, powered by your real appsDiscussion|Link",
+          "published_at": "2026-10-01T16:57:17"
         },
         {
-          "title": "Dots by OpenAI",
-          "url": "https://www.producthunt.com/products/dots-by-openai",
-          "author": "KP",
+          "title": "Never Boring AI",
+          "url": "https://www.producthunt.com/products/never-boring-ai",
+          "author": "Maxence VROILANT",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Always on agents built to handle everythingDiscussion|Link",
-          "published_at": "2026-09-29T18:35:29"
+          "summary": "The AI agent that writes your LinkedIn posts in your voiceDiscussion|Link",
+          "published_at": "2026-10-01T10:21:53"
         },
         {
-          "title": "Formalini",
-          "url": "https://www.producthunt.com/products/formalini",
-          "author": "Marco Pascalini",
+          "title": "Gauth Unlimited Digital Canvas",
+          "url": "https://www.producthunt.com/products/gauth-ai-course",
+          "author": "Aleksandar Blazhev",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Docs to Data, BI, Personal Finance, Huge Dev Platform.Try itDiscussion|Link",
-          "published_at": "2026-09-29T20:14:12"
+          "summary": "An AI tutor on an infinite whiteboard, not a chat threadDiscussion|Link",
+          "published_at": "2026-09-29T12:33:13"
         },
         {
-          "title": "Vorker",
-          "url": "https://www.producthunt.com/products/vorker-ai",
-          "author": "Jason Dainter",
+          "title": "CodeAF",
+          "url": "https://www.producthunt.com/products/codeaf",
+          "author": "Santosh Radha",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI Coworker Running Your Small BusinessDiscussion|Link",
-          "published_at": "2026-09-30T16:47:18"
-        },
-        {
-          "title": "OpenCompanion",
-          "url": "https://www.producthunt.com/products/opencompanion",
-          "author": "Yusup Supriyadi",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Start, watch and answer AI coding CLIs from one desktop appDiscussion|Link",
-          "published_at": "2026-09-30T02:23:34"
-        }
-      ]
-    },
-    {
-      "category": "设计教程",
-      "count": 6,
-      "items": [
-        {
-          "title": "怎样为 iPhone Duo 设计交互？官方设计指南中文版来了！",
-          "url": "https://www.uisdc.com/design-for-iphone-duo",
-          "author": "",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "一个模型搞定生图和修图！超多案例实测Qwen-Image-2.1",
-          "url": "https://www.uisdc.com/qwen-image-cloud",
-          "author": "",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "不会代码也能做出百万月活产品？这是我用 AI 跑通的完整流程！",
-          "url": "https://www.uisdc.com/aihot-open-source",
-          "author": "",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "上线两周登顶榜首！拆解 Meta Muse 的 Agent 交互设计",
-          "url": "https://www.uisdc.com/muse-ai-hype",
-          "author": "",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "从Demo到真实产品，AI生成UI最容易卡在这3个地方！",
-          "url": "https://www.uisdc.com/ai-ui-survivors",
-          "author": "",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "体验百度古今地图，这个宝藏图层比百科还好用！",
-          "url": "https://www.uisdc.com/hunter/0221685672.html",
-          "author": "龙爪槐守望者",
-          "category": "设计教程",
-          "source": "优设网",
-          "summary": null,
-          "published_at": null
+          "summary": "Open Source Software FactoryDiscussion|Link",
+          "published_at": "2026-10-01T16:53:06"
         }
       ]
     },
@@ -498,49 +510,49 @@
       "count": 5,
       "items": [
         {
-          "title": "The lie we keep telling ourselves about regulating AI",
-          "url": "https://uxdesign.cc/the-lie-we-keep-telling-ourselves-about-regulating-ai-61e0163d795e",
+          "title": "What happens when you can build it all yourself",
+          "url": "https://www.renatovaldes.com/essays/what-happens-when-you-can-build-it-all-yourself/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The excuse for not regulating AI is that nobody can agree how. The people who built the internet would find that laughable.",
-          "published_at": "2026-10-01T05:03:24"
+          "summary": "What speed is doing to my expectations, my attention and the case for startup funding.",
+          "published_at": "2026-10-02T09:03:28"
         },
         {
-          "title": "Google's 3D emoji design process",
-          "url": "https://design.google/library/noto-3d-emoji-design",
+          "title": "Thinking orbs",
+          "url": "https://www.thinkingorbs.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "How Google brought 3,977 Noto emoji into 3D.",
-          "published_at": "2026-10-01T05:02:39"
+          "summary": "A React component library of well-crafted, animated orbs for AI: thinking, searching, compacting and more status indicators. Free, open source.",
+          "published_at": "2026-10-02T09:02:47"
         },
         {
-          "title": "I can’t tell who’s teaching who anymore",
-          "url": "https://blog.murphytrueman.com/i-cant-tell-whos-teaching-who-anymore/",
+          "title": "Blume",
+          "url": "https://useblume.dev/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "On inheriting my mum’s sentences, and watching them read as a machine’s.",
-          "published_at": "2026-10-01T05:01:49"
+          "summary": "The open-source docs framework for humans and agents. Drop Markdown into a folder and ship a fast docs site.",
+          "published_at": "2026-10-02T09:02:12"
         },
         {
-          "title": "Agent skill: Libraries.dev",
-          "url": "https://libraries.dev/skill",
+          "title": "Modern web types",
+          "url": "https://philipwalton.com/articles/modern-web-types/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Teach your coding agent Border beam, Thinking orbs, Gooey, Voice, Bot avatars, Liquid metal and Image.",
-          "published_at": "2026-10-01T05:00:43"
+          "summary": "TypeScript intentionally doesn’t support all new APIs, but there’s an easy fix.",
+          "published_at": "2026-10-02T09:01:20"
         },
         {
-          "title": "State of Devs 2026",
-          "url": "https://2026.stateofdevs.com/en-US/",
+          "title": "Do frameworks matter anymore?",
+          "url": "https://brookslybrand.com/posts/do-frameworks-matter-anymore/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Nearly half of this year's survey respondents had experienced job insecurity and insufficient wages.",
-          "published_at": "2026-10-01T04:59:31"
+          "summary": "How abstractions constrain AI agents, helping engineering teams evaluate long-term web architecture choices.",
+          "published_at": "2026-10-02T09:00:36"
         }
       ]
     },
@@ -548,6 +560,15 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "本周看什么 | 最近值得一看的 8 部作品",
+          "url": "https://sspai.com/post/115211",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "📅本周新预告《泥面人》终极预告9月24日，DC新片《泥面人》发布了终极预告，将于10月23日在北美上映。詹姆斯·瓦特金斯执导，汤姆·里斯·哈里斯主演，隆重介绍哥谭市的新面孔，一位意外毁容的演员在注射了 ...查看全文",
+          "published_at": "2026-10-02T09:30:00"
+        },
         {
           "title": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉",
           "url": "https://sspai.com/post/115070",
@@ -592,15 +613,6 @@
           "source": "少数派",
           "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。临近国庆长假 ...查看全文",
           "published_at": "2026-09-29T09:03:00"
-        },
-        {
-          "title": "更懂你的心，也更懂你：Apple Watch Series 12 体验",
-          "url": "https://sspai.com/post/115061",
-          "author": "ElijahLee",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "全新 Apple Watch Series 12，有哪些可感知的升级？查看全文",
-          "published_at": "2026-09-29T07:44:46"
         }
       ]
     }
