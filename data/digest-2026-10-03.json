@@ -1,25 +1,34 @@
 {
   "date": "2026-10-03T00:00:00",
-  "total_items": 60,
+  "total_items": 57,
   "sources": [
+    "Sidebar",
+    "人人都是产品经理",
+    "Smashing Magazine",
     "NN/g (Nielsen Norman Group)",
-    "UX Design CC",
+    "少数派",
+    "Awwwards",
     "A List Apart",
     "UX Planet",
     "Design Milk",
-    "Product Hunt",
-    "少数派",
-    "人人都是产品经理",
-    "Smashing Magazine",
-    "Awwwards",
-    "Sidebar"
+    "UX Design CC",
+    "Product Hunt"
   ],
-  "generated_at": "2026-10-03T04:31:58.108756",
+  "generated_at": "2026-10-03T15:57:51.772097",
   "categories": [
     {
       "category": "用户体验设计",
       "count": 13,
       "items": [
+        {
+          "title": "The feed I produce myself",
+          "url": "https://uxdesign.cc/the-feed-i-produce-myself-11e4192f394c?source=rss----138adf9c44c---4",
+          "author": "Pedro A. Brêtas",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "On working with agents, producing more than ever, and losing the ability to see anything whole.Maestro, we have six more deliveries ready — Created by the author with AII'm writing this on a Sunday mo...",
+          "published_at": "2026-10-03T11:12:42"
+        },
         {
           "title": "In/tension modeling: what gives us the right?",
           "url": "https://uxdesign.cc/in-tension-modeling-what-gives-us-the-right-01740248eb45?source=rss----138adf9c44c---4",
@@ -100,15 +109,6 @@
           "source": "UX Design CC",
           "summary": "Intelligent accessibility — what if accessibility could adapt to you?Exploring how AI can transform accessibility from static accommodations into adaptive, human-centered experiencesFour main function...",
           "published_at": "2026-09-30T23:08:19"
-        },
-        {
-          "title": "The economics of attention in the age of AI",
-          "url": "https://uxdesign.cc/the-economics-of-attention-in-the-age-of-ai-5f92e7e0fb49?source=rss----138adf9c44c---4",
-          "author": "Aurélie Radom",
-          "category": "用户体验设计",
-          "source": "UX Design CC",
-          "summary": "When machines pay attention, what deserves ours?AI filtering the information reaching us, shaping the economics of human attention. AI-generated visual, Aurélie Radom ©For decades, digital products co...",
-          "published_at": "2026-09-30T11:14:25"
         },
         {
           "title": "3D Modeling with Claude Code: A Practical Blender Workflow",
@@ -258,49 +258,49 @@
           "published_at": "2026-10-01T13:00:26"
         },
         {
-          "title": "国庆相册里舍不得删的废片，我找到了25种新玩法来拯救它们！",
-          "url": "https://www.woshipm.com/share/6473413.html",
-          "author": "卡尔的AI沃茨",
+          "title": "腾讯上线「企鹅微单」，一个 AI 接单平台，要帮 OPC 赚钱",
+          "url": "https://www.woshipm.com/ai/6473490.html",
+          "author": "产品笔记",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "把旅行照片分成人物、风景、美食三类，再让模型按玩法逐类重做，是这次整理的思路。工具是元宝 AI 创作里内置的 Hy Image3.5 Preview，模板和提示语都已备好，可以做成黑白颗粒感加拼贴的双层封面，也能做成写满信息的手绘登机牌。前一段时间应该已经有人开始爽休13天（说不羡慕是假的），先祝大家国庆快乐！当然，肯定很多人准备出去玩，那出去玩肯定要拍照，拍照肯定要出片，出片肯定要发朋友圈。那我...",
-          "published_at": "2026-10-03T04:11:14"
+          "summary": "腾讯上线AI创作接单平台「企鹅微单」，这是一个线上技能撮合平台，撮合需求方和供给方，供给方被称为手艺人。需求方可发布需求、选择手艺人、下单支付验收；手艺人可展示技能、接单交付拿报酬。产品Slogan是说出你的需求，智能匹配创作搭子。近日，腾讯上线了一个 AI 创作接单平台「企鹅微单」。这是一个线上技能撮合平台，撮合需求方和供给方（企鹅微单成为“手艺人”）。需求方，可在企鹅微单发布需求，选择或联系手...",
+          "published_at": "2026-10-03T11:21:04"
         },
         {
-          "title": "Muse狂飙，龙虾退潮",
-          "url": "https://www.woshipm.com/ai/6473303.html",
-          "author": "智械岛",
+          "title": "实测 ChatGPT Dot，龙虾转生？不完全是。",
+          "url": "https://www.woshipm.com/evaluating/6473388.html",
+          "author": "Ai学习的老章",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Meta的Muse上线三周登顶美区免费榜，日活超ChatGPT同期近三倍，个人Agent首次被验证为大众需求。但订阅费、交易抽佣与高成本三大矛盾，让商业模式仍存疑。国内大厂虽紧急跟进，却因生态封闭、广告依赖与数据壁垒，注定不会出现中国版Muse，只会催生各自围城内的管家。9月8日，Meta正式发布旗下首款智能代理（Agent）产品Muse。随后，Muse登顶美国App Store免费榜，下载量超过...",
-          "published_at": "2026-10-03T03:36:12"
+          "summary": "ChatGPT Dot 由 GPT-6 Astra 驱动，任务跑在云端电脑、不占周限额，定位是有独立身份、全天候常驻的智能体，而不是随开随关的对话框。Muse、Cue、Grok Bot 都已下场，Dot 的差别在磁盘持久化和 4,000 多个应用连接。OpenAI 在 DevDay 上放出了重磅杀器：ChatGPT Dot，亮点是由最新的旗舰模型 GPT-6 Astra 驱动，云端电脑执行任务，不...",
+          "published_at": "2026-10-03T09:39:44"
         },
         {
-          "title": "Higgsfield 创始人万字复盘：AI 应用死于自研模型的技术虚荣，控制流量路由才是真实护城河",
-          "url": "https://www.woshipm.com/share/6473406.html",
-          "author": "Z Finance",
+          "title": "现代广告之父霍普金斯的20条定律，教你如何“科学”的做广告",
+          "url": "https://www.woshipm.com/share/6473422.html",
+          "author": "品牌猿",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "一家生成式 AI 公司用 18 个月把年化收入从 100 万美元推到 10 亿美元，此前一年烧掉超 1000 万美元、迟迟找不到产品市场匹配，转折点是访谈八位资深创意总监后从「镜头与运镜控制」切入。创始人还给出判断：只调闭源 API 毛利率可能只有 20%—30%。Higgsfield 是目前增长最快的生成式 AI 公司之一。按照创始人 Alex Mashrabov 在访谈中的说法，公司仅用 18...",
-          "published_at": "2026-10-03T03:09:50"
+          "summary": "霍普金斯把广告从玄学拉成可测量、可复制的手艺：广告是放大的推销术，唯一目的是销售。他给施利茨啤酒的文案是「每一个啤酒瓶都经过高温蒸汽消毒」「怎样从 4000 英尺的地下获取纯净水」，用确切数字和具体事实代替形容词。克劳德·霍普金斯，现代广告奠基人之一，被大卫·奥格威视为创造现代广告的六大巨人之一。他主张“广告是放大的推销术”，将广告从艺术玄学转变为可测量、可复制的科学。霍普金斯最著名的案例之一：施...",
+          "published_at": "2026-10-03T09:10:19"
         },
         {
-          "title": "半年人工喂出来的AI客服：从0到1打磨生产级RAG系统，越用越聪明",
-          "url": "https://www.woshipm.com/ai/6473390.html",
-          "author": "叶小钗",
+          "title": "从小红书竞品到行业报告，我用 ChatGPT 做了一次产品调研",
+          "url": "https://www.woshipm.com/ai/6473400.html",
+          "author": "月鹿造物",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "一个语言学习 App 上线后靠创始人轮流当客服，每天要花两三个小时回答重复问题，这种状态持续了半年多，也顺带攒下了真实语料。落到工程上，团队在低代码平台和自建代码之间选了后者：知识库检索要求高，召回策略、排序逻辑和上下文拼接都得自己调。之前我们说过23年是模型初年，主要行业主要着眼于模型，史称百模大战；然后很快大家发现确实卷不动，于是开始冷静下来，找切实的落地场景，所以24年都在做应用，AI应用三...",
-          "published_at": "2026-10-03T02:29:46"
+          "summary": "把产品想法交给 ChatGPT，让它去小红书搜竞品、查价格和用户评论，再整理成对比表。这轮找到 Woolley、Tarnoo 等五个案例：相近的塔罗产品已有 188 元众筹档，OPPO Bubble 标价 499 元，于是 299 元被当成测试价格。这次，我把自己的产品想法告诉 ChatGPT，让它到小红书搜索竞品，继续查价格、交付进度、用户评论和行业报告，最后整理出竞品对比表、产品图集和宏观市场...",
+          "published_at": "2026-10-03T08:39:47"
         },
         {
-          "title": "a16z 最新市场洞察：AI 拿走美国 VC 86% 的钱，toB 开始算 ROI，toC Agent 的入口机会……",
-          "url": "https://www.woshipm.com/ai/6473404.html",
-          "author": "有新Newin",
+          "title": "豆包/千问/元宝，集体转向 Personal Agent",
+          "url": "https://www.woshipm.com/ai/6473488.html",
+          "author": "产品笔记",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "2026 年上半年美国 VC 向 AI 公司投入约 3559 亿美元，占投资总额的 86%，但交易笔数占比只有 43.2%，钱在往少数公司集中。另一头是落地落差：69% 的标普 500 公司已有正式运行的 AI 项目，能量化业务影响的约 30%，持续追踪指标的只有 2%。2026 年上半年，美国 VC 共向 AI 公司投入约 3559 亿美元，占同期 4127 亿美元投资总额的 86%。2025 ...",
-          "published_at": "2026-10-03T01:39:49"
+          "summary": "国内前四的通用型AI助理里，除了DeepSeek，豆包、千问、元宝正集体转向Personal AI Agent。豆包内部在做一款对标Meta Muse的产品，代号Spell，名字或叫小豆，据称仅用6天拿出内测体验版。年初Claw龙虾热，年中办公Agent潮，年末的风向来到了个人 Agent。也就是Meta 掀起的 Personal AI Agent 风。回看国内， 国内前四的通用型 AI 助理。除...",
+          "published_at": "2026-10-03T08:19:15"
         }
       ]
     },
@@ -447,61 +447,25 @@
     },
     {
       "category": "产品发现",
-      "count": 6,
+      "count": 2,
       "items": [
         {
-          "title": "GitSync",
-          "url": "https://www.producthunt.com/products/gitsync",
-          "author": "Parth Sanepara",
+          "title": "Kindle 2026",
+          "url": "https://www.producthunt.com/products/kindle-2026",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Sync branches between GitHub repos, right from ChromeDiscussion|Link",
-          "published_at": "2026-10-01T21:29:07"
+          "summary": "A smaller, faster Kindle with a flush-front displayDiscussion|Link",
+          "published_at": "2026-10-02T16:02:19"
         },
         {
-          "title": "Finbar",
-          "url": "https://www.producthunt.com/products/finbar-2",
-          "author": "Garry Tan",
+          "title": "Sapien",
+          "url": "https://www.producthunt.com/products/sapien-4",
+          "author": "Sulayman Bowles",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Agentic investment researchDiscussion|Link",
-          "published_at": "2026-10-01T16:40:49"
-        },
-        {
-          "title": "esigna",
-          "url": "https://www.producthunt.com/products/esigna",
-          "author": "Luis Rodriguez",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "A design studio for your email signatureDiscussion|Link",
-          "published_at": "2026-09-30T16:04:43"
-        },
-        {
-          "title": "Open Inspector",
-          "url": "https://www.producthunt.com/products/open-inspector",
-          "author": "Patryk Lasek",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Hover any website, get its design system. Open-source. Free.Discussion|Link",
-          "published_at": "2026-10-01T13:30:35"
-        },
-        {
-          "title": "JarvisCore",
-          "url": "https://www.producthunt.com/products/jarviscore",
-          "author": "Muyukani Kizito",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Build agents as peers in a mesh network with zero-trustDiscussion|Link",
-          "published_at": "2026-09-30T05:40:59"
-        },
-        {
-          "title": "Codync",
-          "url": "https://www.producthunt.com/products/codync",
-          "author": "kevinkai",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The open-source alternative to Grok Bot, Muse and DotsDiscussion|Link",
-          "published_at": "2026-10-02T04:45:31"
+          "summary": "AI market research with synthetic populationsDiscussion|Link",
+          "published_at": "2026-10-03T02:30:10"
         }
       ]
     },
@@ -558,8 +522,17 @@
     },
     {
       "category": "数字生活",
-      "count": 4,
+      "count": 5,
       "items": [
+        {
+          "title": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验",
+          "url": "https://sspai.com/post/114922",
+          "author": "KingTsui",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "不知道以后 CMF 的设计还会不会像现在一样出彩。查看全文",
+          "published_at": "2026-10-03T07:00:00"
+        },
         {
           "title": "本周看什么 | 最近值得一看的 8 部作品",
           "url": "https://sspai.com/post/115211",
