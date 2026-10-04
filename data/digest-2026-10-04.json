@@ -1,24 +1,33 @@
 {
   "date": "2026-10-04T00:00:00",
-  "total_items": 49,
+  "total_items": 50,
   "sources": [
-    "人人都是产品经理",
     "NN/g (Nielsen Norman Group)",
+    "Awwwards",
+    "Design Milk",
+    "人人都是产品经理",
     "UX Design CC",
     "A List Apart",
-    "Product Hunt",
-    "少数派",
-    "Awwwards",
     "Sidebar",
+    "Product Hunt",
     "UX Planet",
-    "Design Milk"
+    "少数派"
   ],
-  "generated_at": "2026-10-04T05:02:38.603867",
+  "generated_at": "2026-10-04T16:39:47.637113",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 7,
+      "count": 8,
       "items": [
+        {
+          "title": "The building was there first",
+          "url": "https://uxdesign.cc/the-building-was-there-first-26c6c4e49ba8?source=rss----138adf9c44c---4",
+          "author": "Takuma Kakehi",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "A style’s real output isn’t what it makes. It’s the category it installs in whoever looks.Continue reading on UX Collective »",
+          "published_at": "2026-10-04T14:34:28"
+        },
         {
           "title": "The feed I produce myself",
           "url": "https://uxdesign.cc/the-feed-i-produce-myself-11e4192f394c?source=rss----138adf9c44c---4",
@@ -203,6 +212,33 @@
           "published_at": "2026-10-01T13:00:26"
         },
         {
+          "title": "关于腾讯HandyBot这款Muse产品，官方回应来了",
+          "url": "https://www.woshipm.com/ai/6473494.html",
+          "author": "产品笔记",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "腾讯被曝正秘密研发一款叫Personal Agent的产品，还计划推出独立App，名为TX Handy Bot。两个对应服务号的主体正是腾讯，一度被猜为腾讯自研的Muse。但服务号现已注销，腾讯混元官方回应：内容失实，官方无此产品计划。近日，有媒体集中报道。腾讯正在秘密研发一款叫做Personal Agent产品，还计划推出独立App。名字叫做 TX Handy Bot。因为已有2 个这个产品的服...",
+          "published_at": "2026-10-04T08:19:18"
+        },
+        {
+          "title": "兄弟，找个班上吧！不要迷信AI创业，我是后悔离职的",
+          "url": "https://www.woshipm.com/share/6473502.html",
+          "author": "叶小钗",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "一位 CTO 前同事想从外包转做企业 AI 培训和 FDE 改造，得到的却是负反馈：真实成单率不到 10%，最近两个月掉到 5%，拜访二十家客户才可能成一单。作者认为，想在 AI 浪潮里活下来，关键是找到不太卷而自己又能做的细分。最近有个 CTO 前同事找到我，想交流下“赚钱的经验”！他现正在筹划做企业AI培训这块，想问我有什么建议没有…深入聊下来大概是：他们本身有个外包团队，但从去年开始就变得比...",
+          "published_at": "2026-10-04T06:26:54"
+        },
+        {
+          "title": "AI时代，事务型的CSM还有存在的必要吗？",
+          "url": "https://www.woshipm.com/ai/6473504.html",
+          "author": "SAAS老司机",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "如果 AI 明天就能接手答疑、培训、写报告、做 QBR，CSM 还有存在的必要吗？作者的判断是这个问题问反了：客户成功等于客户成果加客户体验，服务只是过程而非结果。该追问的是，过去为什么有那么多 CSM 的时间耗在过程上，懂业务的 CSM 会不会更值钱。最近我一直在想一个问题：如果AI明天就能接手CSM手上大部分的工作，CSM还有存在的必要吗？答疑、培训、整理数据、写报告、做QBR、跟进客户……这...",
+          "published_at": "2026-10-04T05:26:55"
+        },
+        {
           "title": "腾讯四款 Muse 产品盘点",
           "url": "https://www.woshipm.com/ai/6473492.html",
           "author": "产品笔记",
@@ -219,33 +255,6 @@
           "source": "人人都是产品经理",
           "summary": "Meta 的 Muse 想替用户去 Amazon 找货下单，很快被拦了下来——这背后是两个平台在争谁更懂用户。当用户把通勤时间长、耳朵疼、预算两千这类条件说给 AI，企业原本费力摸索的需求就摆在了明面上。微信里躺着十万人，不等于握着十万用户资产。前几天，我看到一个挺有意思的新闻。Meta刚推出AI助手Muse，想帮用户直接去Amazon找商品、完成购物，Amazon很快把它拦了。表面看，这是两个大...",
           "published_at": "2026-10-04T01:53:58"
-        },
-        {
-          "title": "传统百货商场的没落与存续",
-          "url": "https://www.woshipm.com/share/6473514.html",
-          "author": "左手键盘右手诗",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "传统百货商场如今活成两个版本：一种是类目大而全、通道窄而复杂、价格靠砍价的小隔间；另一种翻新了动线与灯光，却因物理空间和商户构成没变，依然只有淘的功能，没有逛的属性。当 60、70 年代生人逐渐老去，靠捡漏需求存活的百货还能撑多久。零售业态有多种：按成交场域，有线上和线下之分；按商品供给，有平台自营或者品牌自运营的官旗店，也有专卖品牌尾货折扣的垂直业态，如线上唯品会、线下奥特莱斯，这些业态的长期并...",
-          "published_at": "2026-10-04T00:54:59"
-        },
-        {
-          "title": "Claude Code 最新版更新 Mods 能力，致敬 DeepSeek Harness？",
-          "url": "https://www.woshipm.com/ai/6473496.html",
-          "author": "Ai学习的老章",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "Anthropic 在 Claude Code 的 v2.1.287 里加了 Claude Mods：写一段 TypeScript 或 JavaScript 函数，就能挂到事件流上观察、改写或接管工具调用。DeepSeek Harness 走的则是服务接口拼装的路子。DeepSeek-V4.1-Flash 的最佳 Harness 搭档，我觉得可能是 Claude Code下载即用的 DeepSee...",
-          "published_at": "2026-10-04T00:26:50"
-        },
-        {
-          "title": "腾讯上线「企鹅微单」，一个 AI 接单平台，要帮 OPC 赚钱",
-          "url": "https://www.woshipm.com/ai/6473490.html",
-          "author": "产品笔记",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "腾讯上线AI创作接单平台「企鹅微单」，这是一个线上技能撮合平台，撮合需求方和供给方，供给方被称为手艺人。需求方可发布需求、选择手艺人、下单支付验收；手艺人可展示技能、接单交付拿报酬。产品Slogan是说出你的需求，智能匹配创作搭子。近日，腾讯上线了一个 AI 创作接单平台「企鹅微单」。这是一个线上技能撮合平台，撮合需求方和供给方（企鹅微单成为“手艺人”）。需求方，可在企鹅微单发布需求，选择或联系手...",
-          "published_at": "2026-10-03T11:21:04"
         }
       ]
     },
@@ -383,43 +392,34 @@
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 3,
       "items": [
         {
-          "title": "Kindle 2026",
-          "url": "https://www.producthunt.com/products/kindle-2026",
-          "author": "Zac Zuo",
+          "title": "FlexChords",
+          "url": "https://www.producthunt.com/products/flexchords",
+          "author": "Amit S Namboothiry",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A smaller, faster Kindle with a flush-front displayDiscussion|Link",
-          "published_at": "2026-10-02T16:02:19"
+          "summary": "Turn any YouTube video into accurate, playable guitar chordsDiscussion|Link",
+          "published_at": "2026-10-03T12:22:08"
         },
         {
-          "title": "Muse Gadgets",
-          "url": "https://www.producthunt.com/products/muse-22",
-          "author": "Justin Jincaid",
+          "title": "TinyFolder",
+          "url": "https://www.producthunt.com/products/tinyfolder",
+          "author": "Sergey Filkov",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Meta's open-source kit for building your own AI gadgetsDiscussion|Link",
-          "published_at": "2026-10-03T02:07:11"
+          "summary": "App folders for your Mac Dock, designed your wayDiscussion|Link",
+          "published_at": "2026-10-02T21:27:59"
         },
         {
-          "title": "Crowny!",
-          "url": "https://www.producthunt.com/products/crowny-2",
-          "author": "Amrit Barsaiyan",
+          "title": "Poddle",
+          "url": "https://www.producthunt.com/products/poddle-3",
+          "author": "Daniel",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Claude Code, Codex, music, your day & 20+ apps in your notchDiscussion|Link",
-          "published_at": "2026-10-01T07:14:59"
-        },
-        {
-          "title": "Singularity",
-          "url": "https://www.producthunt.com/products/singularity-2",
-          "author": "Antony KERVAZO CANUT",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "Run AI coding agents in parallel, one ticket at a timeDiscussion|Link",
-          "published_at": "2026-10-01T13:12:28"
+          "summary": "Swing your phone, play pickleball on any computer!Discussion|Link",
+          "published_at": "2026-10-04T04:39:18"
         }
       ]
     },
@@ -476,8 +476,17 @@
     },
     {
       "category": "数字生活",
-      "count": 2,
+      "count": 3,
       "items": [
+        {
+          "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
+          "url": "https://sspai.com/post/115308",
+          "author": "waychane",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "iPhone 18 Pro 也许不会让你感觉焕然一新，却在许多地方都变得更加完整了。查看全文",
+          "published_at": "2026-10-04T07:58:39"
+        },
         {
           "title": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验",
           "url": "https://sspai.com/post/114922",
