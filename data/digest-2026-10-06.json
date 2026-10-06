@@ -1,23 +1,24 @@
 {
   "date": "2026-10-06T00:00:00",
-  "total_items": 48,
+  "total_items": 50,
   "sources": [
-    "Awwwards",
-    "Sidebar",
-    "Product Hunt",
-    "A List Apart",
-    "人人都是产品经理",
-    "少数派",
     "NN/g (Nielsen Norman Group)",
     "UX Planet",
-    "Design Milk",
-    "UX Design CC"
+    "少数派",
+    "A List Apart",
+    "Product Hunt",
+    "Sidebar",
+    "人人都是产品经理",
+    "Awwwards",
+    "Smashing Magazine",
+    "UX Design CC",
+    "Design Milk"
   ],
-  "generated_at": "2026-10-06T05:36:01.721315",
+  "generated_at": "2026-10-06T18:06:47.673437",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 7,
+      "count": 8,
       "items": [
         {
           "title": "Is Meta’s new AI agent easier to trust because it’s cute?",
@@ -72,6 +73,15 @@
           "source": "UX Design CC",
           "summary": "On working with agents, producing more than ever, and losing the ability to see anything whole.Maestro, we have six more deliveries ready — Created by the author with AII'm writing this on a Sunday mo...",
           "published_at": "2026-10-03T11:12:42"
+        },
+        {
+          "title": "GPT-6 Astra vs Claude Opus 5.5: Which Is Better for Game Design?",
+          "url": "https://uxplanet.org/gpt-6-astra-vs-claude-opus-5-5-which-is-better-for-game-design-35e47babf36d?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "OpenAI and Anthropic recently updated their flagship AI models, Astra and Opus. And it’s a great opportunity to test both models on one of…Continue reading on UX Planet »",
+          "published_at": "2026-10-06T14:51:58"
         },
         {
           "title": "Claude Code Mods are game changers",
@@ -194,56 +204,65 @@
           "published_at": "2026-10-03T01:28:24"
         },
         {
-          "title": "我所了解的机器视觉检测产品应用（9）：验收的 99%，量产怎么就成了 95%？",
-          "url": "https://www.woshipm.com/ai/6473696.html",
-          "author": "产品经理Mike",
+          "title": "产品指标怎么定？从业务结果倒推用户行为",
+          "url": "https://www.woshipm.com/operate/6473988.html",
+          "author": "AI产品经理老猫",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "验收时99%，量产一个月95%，四个点的差距让双方对簿公堂。这不是设备故障，而是验收口径、过杀成本、环境漂移与合同条款的连环陷阱。本文拆解四个关键窟窿，教你用一张表锁死验收标准，避免扯皮。上一篇结尾我埋了个雷：验收当天 99%，量产一个月 95%，这官司怎么打？评论区有几位等着看这篇——好，这篇就把这四个点丢在哪，一个一个拆开。先摆案子。这是我见过最典型的一次验收纠纷，细节做了模糊，情节全是真的。...",
-          "published_at": "2026-10-06T04:46:36"
+          "summary": "\"退款处理更快\"是合理的考核指标吗？不一定。从用户提交到支付渠道到账，中间藏着资格校验、审核排队、补件往返、物流节点、支付回调等十几个环节。指标不是找一个漂亮数字，而是从业务结果倒推：谁要完成什么任务，系统能否准确记录这些事件，变化发生在哪个环节。提问：在电商类产品中，如果有一个考核指标是：“退款处理更快”，会对用户体验更好吗？指标是否合理？答案是：不是。这个指标看似明确，落地却会出现一串问题：处...",
+          "published_at": "2026-10-06T10:49:19"
         },
         {
-          "title": "DeepSeek Harness 为什么要兼容 Claude Code Mods",
-          "url": "https://www.woshipm.com/ai/6473810.html",
-          "author": "赛博禅心",
+          "title": "离业务越近，越觉得流量没那么重要",
+          "url": "https://www.woshipm.com/operate/6473854.html",
+          "author": "黑来古",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "10 月 1 日 Claude Code 发布 Mods，10 月 3 日 DeepSeek Harness 就跟上了实验性兼容层。知乎上随即出现「如何看待」的提问，DSH 组作者崔添翼作答：一切皆插件和开源一样，是立项之初就定下的方向，不是被迫或模仿别人才做的。10 月 1 日，Claude Code 发布了 Mods，插件作者可以用函数钩子改写提示词、拦截工具调用、在终端里画界面：Claude...",
-          "published_at": "2026-10-06T04:01:57"
+          "summary": "有人在市场群里问：为什么市场部不能自己把线索直接成交，非得经过销售？作者说这问题单看有点外行，在市场这端干过的人却觉得很正常。他讲了在茶桌聊一两个小时却丢单的经历，也讲了坐到甲方那边才明白——真正的东西藏在参数表一个字都找不到的地方。前段时间，我在一个做市场的群里看到有人问了一句话：为什么市场部不能自己把线索直接成交了，非得还要经过销售？我看到的时候其实挺有感触。因为这个问题你单独拎出来看，好像有...",
+          "published_at": "2026-10-06T09:19:55"
         },
         {
-          "title": "腾讯悄悄做了个免费AI接待员，上传文档就能替你回复访客",
-          "url": "https://www.woshipm.com/ai/6473812.html",
-          "author": "虾蛄AI",
+          "title": "产品经理35岁就没出路了吗？",
+          "url": "https://www.woshipm.com/share/6473987.html",
+          "author": "Lucas",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "搭过网站的人多半踩过同一个坑：访客来了，却找不到一个轻量的沟通入口。腾讯做的 Knocket 想解决这件小事——粘一段脚本，页面右下角就有聊天入口，上传 FAQ 让 AI 先答，忙不过来再转人工，也能变成一条专属联系页链接。让所有联系汇聚一起。如果你搭建过网站、个人主页或是小型产品，基本都踩过同一个坑。页面上线、有访客访问之后，一旦用户临时咨询报价、产品功能或是合作相关事宜，常常找不到轻量化的沟通...",
-          "published_at": "2026-10-06T03:01:58"
+          "summary": "35岁不是答案，岗位匹配才是问题。你是工作了十年，还是呆了十年？经验要从\"做过什么\"变成\"解决过什么\"，从交付功能转向承担结果。真正需要更新的不是年龄，而是经验表达方式和能力证明方式。对职场人来说，35岁好像是一个比毕业更危险的门槛。很多人问的“产品经理35岁就没出路了吗”，其实是在问三个问题：年龄会不会影响求职，过去的经验有没有继续增值，下一份工作还愿不愿意为这些经验买单。很多公司在JD里要求“...",
+          "published_at": "2026-10-06T08:37:54"
         },
         {
-          "title": "创意宗师伯恩巴克：广告不是科学，是说服的艺术（40条）",
-          "url": "https://www.woshipm.com/marketing/6473824.html",
-          "author": "品牌猿",
+          "title": "向量库是RAG的伪命题，知识图谱是答案，本体论是灵魂",
+          "url": "https://www.woshipm.com/ai/6473808.html",
+          "author": "叶小钗",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "广告究竟是艺术还是科学？DDB 联合创始人伯恩巴克站后者：广告本质是说服，而说服不是科学。这篇梳理了他的 40 条创意主张，并复盘大众、安飞士等传世案例，看「拒绝方程式」如何反过来变成一笔好生意。广告史上，长久存在一场争论：广告究竟是艺术，还是科学？威廉・伯恩巴克，DDB 广告联合创始人，广告 “创意革命” 三大旗手之一。 和霍普金斯、罗瑟・瑞夫斯所推崇的 “科学广告” 截然不同，伯恩巴克主张——...",
-          "published_at": "2026-10-06T02:47:47"
+          "summary": "做 RAG 几乎绕不开向量库，但它找的是语义相近，不是精确答案。当知识需要严格的因果与关联时，图谱才是答案，而本体论是背后那张网的建模逻辑。文章从传统知识库讲到图谱加 RAG 的三层诊断体系，并配了大量架构图与对比案例。在最初做RAG系统的时候有个几乎绑定的名词：向量库。所以他是什么呢？应该说向量库是一个理论上很美好的名词，他是一类用于存储和检索向量的数据系统，这里有两点要注意：向量（embedd...",
+          "published_at": "2026-10-06T08:21:56"
         },
         {
-          "title": "a16z：押注 AI 头部赢家，让增长跑赢估值",
-          "url": "https://www.woshipm.com/ai/6473814.html",
-          "author": "有新Newin",
+          "title": "盘点 20 个 9 月份 GitHub 上顶顶顶的开源项目。",
+          "url": "https://www.woshipm.com/share/6473850.html",
+          "author": "逛逛GitHub",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "a16z 成长投资负责人给出两个评分：产品周期 9 到 10 分，资本周期只有 6 分。产业机会极好，价格却只是尚可。当市场已经认可赢家，超额回报不能只靠选对公司，还要看它未来的收入能否超过今天估值已经计入的预期。AI 头部公司的估值越来越高，成长期投资的机会却未必在减少。2026 年 10 月 1 日，a16z 成长投资负责人 David George 在《Uncapped with Jack ...",
-          "published_at": "2026-10-06T02:13:58"
+          "summary": "9 月 GitHub 冒出的 20 个开源项目里，Archify 能把代码仓库画成交互式架构图，导出网页点节点就能看详情，月增约 3.34 万 Star；Ponytail 给 Agent 加了实现前的判断顺序，优先复用已有代码与标准库。01 Archify：教 AI 画复杂架构画Archify 这个 Skill 可以把一段系统描述或一个代码仓库画成交互式图表。比如，你让它画出一次网页请求怎样经过接...",
+          "published_at": "2026-10-06T08:12:55"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 14,
+      "count": 15,
       "items": [
+        {
+          "title": "A Practical Guide To Naming Things",
+          "url": "https://smashingmagazine.com/2026/10/how-name-things/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "A practical guide to naming UI components, with useful resources, naming conventions, and structures.",
+          "published_at": "2026-10-06T10:00:00"
+        },
         {
           "title": "Designed for a Dead Language",
           "url": "https://alistapart.com/article/designed-for-a-dead-language/",
@@ -377,89 +396,89 @@
       "count": 3,
       "items": [
         {
-          "title": "Spira Maxima",
-          "url": "https://www.producthunt.com/products/spira-ai",
-          "author": "Justin Jincaid",
+          "title": "Ranktune",
+          "url": "https://www.producthunt.com/products/ranktune",
+          "author": "Sewell Stephens",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Video model that turns script into viral social media videosDiscussion|Link",
-          "published_at": "2026-10-05T01:32:19"
+          "summary": "Track AI visibility, citations, and referral trafficDiscussion|Link",
+          "published_at": "2026-10-03T17:46:59"
         },
         {
-          "title": "Dots UI",
-          "url": "https://www.producthunt.com/products/dots-ui",
-          "author": "Hamza Al Sorkhy",
+          "title": "Cosmic AI Support Agent",
+          "url": "https://www.producthunt.com/products/cosmic",
+          "author": "Tony Spiro",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A React library for morphable particle interfacesDiscussion|Link",
-          "published_at": "2026-10-04T16:18:38"
+          "summary": "An AI support agent that stays in sync with your siteDiscussion|Link",
+          "published_at": "2026-10-05T15:33:20"
         },
         {
-          "title": "Reactive Resume v6",
-          "url": "https://www.producthunt.com/products/reactive-resume",
-          "author": "Amruth Pillai",
+          "title": "Rill Browser",
+          "url": "https://www.producthunt.com/products/rill-3",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A free and open-source resume builderDiscussion|Link",
-          "published_at": "2026-10-04T00:44:32"
+          "summary": "The browser where Claude Code and Codex work beside youDiscussion|Link",
+          "published_at": "2026-10-05T06:40:56"
         }
       ]
     },
     {
       "category": "设计资讯",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "Save time with Wispr Flow (4x faster than typing)",
-          "url": "https://bit.ly/side-wis1",
+          "title": "Prompting as self-portrait",
+          "url": "https://www.doc.cc/humankind/self-portrait",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "The voice-to-text AI that turns speech into clear, polished writing in every app.",
-          "published_at": "2026-10-05T04:05:00"
+          "summary": "AI installed a distorted mirror where the blank page used to be.",
+          "published_at": "2026-10-06T07:43:38"
         },
         {
-          "title": "How to de-slopify your designs",
-          "url": "https://uxdesign.cc/how-to-de-slopify-your-designs-4c40c57c1dc9",
+          "title": "Leadership folios",
+          "url": "https://www.leadershipfolios.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Tips for anyone who vibecodes.",
-          "published_at": "2026-10-05T04:04:00"
+          "summary": "Portfolios from design managers, directors, VPs, and executives, each annotated with what it shows, why it works at that level, and what to steal.",
+          "published_at": "2026-10-06T07:43:05"
         },
         {
-          "title": "Amazing glass",
-          "url": "https://tomacco.github.io/amazing-glass/",
+          "title": "Many agents, many views",
+          "url": "https://www.lukew.com/ff/2165/many-agents-many-views",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Glass that bends the page behind it. Liquid glass web components for HTML, React and Vue, tuned pixel by pixel against Apple’s own renderer.",
-          "published_at": "2026-10-05T04:03:00"
+          "summary": "You manage agents, they manage more agents, and those agents manage even more agents.",
+          "published_at": "2026-10-06T07:41:11"
         },
         {
-          "title": "A loading state within a loading state",
-          "url": "https://unsung.aresluna.org/a-loading-state-within-a-loading-state/",
+          "title": "In defense of the detour",
+          "url": "https://www.nytimes.com/interactive/2026/09/27/opinion/ai-art-creativity.html?unlocked_article_code=1.FlE.ew95.hRKwQHd_aTem",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Loading is a complex space, where sometimes the most natural solution is a bad one.",
-          "published_at": "2026-10-05T04:02:00"
-        },
-        {
-          "title": "Google has the best AI money can buy. Its products still feel broken.",
-          "url": "https://hitesh.in/2026/best-ai-still-feels-broken/",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "Google’s AI-era products keep breaking an old trust contract with users, and the model isn’t the reason.",
-          "published_at": "2026-10-05T04:01:00"
+          "summary": "On craft, A.I. and what gets lost when we skip the slow part.",
+          "published_at": "2026-10-06T07:40:23"
         }
       ]
     },
     {
       "category": "数字生活",
-      "count": 3,
+      "count": 4,
       "items": [
+        {
+          "title": "基于 Vaultwarden 和 Keyguard 的自托管密码管理实践",
+          "url": "https://sspai.com/post/115416",
+          "author": "大大大K",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "密码管理服务的数据，当然要掌握在自己手里。查看全文",
+          "published_at": "2026-10-06T10:00:00"
+        },
         {
           "title": "十个案例助你轻松上手 iOS 27 通知自动化",
           "url": "https://sspai.com/post/114536",
