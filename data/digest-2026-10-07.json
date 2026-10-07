@@ -1,24 +1,24 @@
 {
   "date": "2026-10-07T00:00:00",
-  "total_items": 52,
+  "total_items": 57,
   "sources": [
-    "A List Apart",
-    "Smashing Magazine",
-    "UX Design CC",
     "人人都是产品经理",
     "Product Hunt",
-    "少数派",
-    "Awwwards",
-    "Design Milk",
-    "NN/g (Nielsen Norman Group)",
+    "Smashing Magazine",
     "Sidebar",
-    "UX Planet"
+    "A List Apart",
+    "UX Planet",
+    "Design Milk",
+    "Awwwards",
+    "NN/g (Nielsen Norman Group)",
+    "UX Design CC",
+    "少数派"
   ],
-  "generated_at": "2026-10-07T05:06:19.177157",
+  "generated_at": "2026-10-07T18:39:58.794571",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 10,
+      "count": 11,
       "items": [
         {
           "title": "Jev: How to use it for better, faster, and cheaper user decisions in UX",
@@ -91,6 +91,15 @@
           "source": "UX Design CC",
           "summary": "A style’s real output isn’t what it makes. It’s the category it installs in whoever looks.Continue reading on UX Collective »",
           "published_at": "2026-10-04T14:34:28"
+        },
+        {
+          "title": "Meta Muse vs OpenAI Dots: Which AI Assistant Is Better for Product Designers?",
+          "url": "https://uxplanet.org/meta-muse-vs-openai-dots-which-ai-assistant-is-better-for-product-designers-1fb2f4dd4530?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "September 2026 was a pretty hot month for AI companies. Both Meta and OpenAI released their AI assistants: Muse and Dots. Muse took the…Continue reading on UX Planet »",
+          "published_at": "2026-10-07T14:13:04"
         },
         {
           "title": "GPT-6 Astra vs Claude Opus 5.5: Which Is Better for Game Design?",
@@ -231,49 +240,49 @@
           "published_at": "2026-10-05T19:48:59"
         },
         {
-          "title": "单票价格从13跌到7块，快递行业接下来靠什么活",
-          "url": "https://www.woshipm.com/share/6473949.html",
-          "author": "曼话产品",
+          "title": "在 agent 的世界里，留存就是分发",
+          "url": "https://www.woshipm.com/ai/6473946.html",
+          "author": "深思圈",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "过去十年快递有个铁律：件量涨 10%，收入涨 5%。国家邮政局 9 月 18 日的数据打破了它——收入增速 7.4% 跑赢了件量增速 4.6%。作者说这不是涨价，是结构变了：单票价格从 13 跌到 7 块，但冷链、大件、生鲜这些高价值件占比在提高。过去十年，快递行业有个铁律：件量涨10%，收入涨5%。今年，这个铁律破了。9.18，国家邮政局数据：收入增速7.4% > 件量增速4.6%01 不是涨价...",
-          "published_at": "2026-10-07T04:46:53"
+          "summary": "OpenAI 负责 ChatGPT 和 Codex 的 Tibo 说，让人自己搭循环、画流程图，也许有人兴奋过，但他不认为这是未来。9 月 29 日 DevDay 上线的 Dots 才是他想要的样子：永远在线、有自己的云端电脑、能接入 4000 多个应用。你有没有想过，你花了几个月打磨的那套 AI 工作流，下一代模型一出来，可能就用不上了？这不是危言耸听。OpenAI 负责 ChatGPT 和 C...",
+          "published_at": "2026-10-07T10:27:53"
         },
         {
-          "title": "Codex 越来越拉了",
-          "url": "https://www.woshipm.com/ai/6474208.html",
-          "author": "Ai学习的老章",
+          "title": "Cline免费模型接入各种Agent，多账号免费token管够",
+          "url": "https://www.woshipm.com/ai/6474226.html",
+          "author": "马佳彬",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Tibo 宣布 28 天连续改进，首日只是把 GPT-6 Astra 与 6.1 Sol 提速 50%。SemiAnalysis 研报指出，Claude 订阅给开发者的等效 API 价值是 OpenAI 的五倍以上。作者从心流讲起，拆解额度腰斩与两家自救路线的差异。最近 OpenAI 总想搞大新闻，掩盖模型不如 A 社，速度巨慢，消耗极快的事实Tibo 发推要开启为期 28 天的连续改进挑战，无改...",
-          "published_at": "2026-10-07T04:34:39"
+          "summary": "Cline 的免费模型列表随新模型更新，官方只支持在客户端或 VSCode 插件里用，接不进 WorkBuddy 等 Agent。作者基于 cline-free 做出 ClineFreePool，剔掉耗光赠送额度的付费模型，把多账号池轮询写成可照做的步骤。说到Cline这个编程Agent，可能接触Vibe Coding不是太多的小伙伴不大熟悉，它最早是以VSCode插件的形式推出，在开发者社区享有...",
+          "published_at": "2026-10-07T09:46:47"
         },
         {
-          "title": "王慧文、林盛都在挺西贝，消费者为什么不买账？",
-          "url": "https://www.woshipm.com/it/6474102.html",
-          "author": "颗粒度财经1",
+          "title": "广告教皇奥格威：25条依旧有效的大师心法，满满干货",
+          "url": "https://www.woshipm.com/share/6474238.html",
+          "author": "品牌猿",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "西贝深陷倒闭传闻，王慧文、林盛等大佬排队力挺，消费者却用脚投票。一边是资本看中的供应链与品牌资产，一边是信任崩塌的性价比争议。本文拆解这场舆论与市场的割裂，探讨西贝困局背后的深层逻辑。想救西贝的人，一个接一个。9月23日，美团联合创始人王慧文在社交平台“即刻”发了一条动态：“听说西贝要倒闭了，有没有人组局把西贝买下来？”9月20日晚，钟薛高创始人林盛在直播间里替西贝撑腰：“西贝要是真的倒了，肯定是...",
-          "published_at": "2026-10-07T04:20:44"
+          "summary": "奥美创始人奥格威说：「不能提升销售，则无创意。」这篇文章整理他关于广告、营销与经营广告公司的 25 条心法，并配上哈萨威衬衫、梅赛德斯-奔驰、多芬香皂与奥美自己的经典案例，说明哪些判断今天依然奏效。大卫・奥格威，奥美广告创始人，品牌形象理论奠基人，现代广告界无可争议的“广告教皇”。我不认为广告是娱乐或艺术，我认为广告是传播信息的媒介。我不希望你告诉我，你觉得我写的某个广告“有创意”，我希望你发现它...",
+          "published_at": "2026-10-07T09:36:52"
         },
         {
-          "title": "我所了解的机器视觉检测产品应用（10）：一体机还是二次开发平台？差的不只是几十万",
-          "url": "https://www.woshipm.com/share/6473837.html",
-          "author": "产品经理Mike",
+          "title": "当AI文自带隐形水印了，你的自媒体没流量，去AI味怎么破？",
+          "url": "https://www.woshipm.com/ai/6474075.html",
+          "author": "前进ing",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "同一道外观检测工序，一体机报价45万，平台方案却要80万，差价背后藏着两种截然不同的商业逻辑。本文从产品视角拆解两种形态的本质差异，用成本曲线和真实案例告诉你：选型的关键不在价格，而在产线的变更频率与团队承接能力。上一篇结尾我留了个话头：算法、样本库、发布流程、指标对账，这套东西最后总得以某种形态交到客户手里——是封装死的一体机，插电就用；还是开放的二次开发平台，客户自己往里长本事。这篇就把这个取...",
-          "published_at": "2026-10-07T03:50:48"
+          "summary": "做自媒体的最怕的是什么？刚开始用AI提效辅助写文章了，然后发现AI文章很容易被检测出来，被平台限流了，任何平台都不鼓励AI内容的泛滥，可偏偏你的去AI味儿没有任何用处，还是被检测出来是AI文。今天这篇文章告诉你为什么会这样。我看到一条爆炸的新闻，10 月 5 号OpenAI 宣布给欧盟的ChatGPT 和 Codex 加上一层隐形的文本水印，名字叫 textGrain。它藏的位置，和文风没有任何关...",
+          "published_at": "2026-10-07T09:09:01"
         },
         {
-          "title": "美国开源的新希望，对标智谱的上一代模型",
-          "url": "https://www.woshipm.com/ai/6474222.html",
-          "author": "赛博禅心",
+          "title": "聊聊A16Z这两份AI报告，以及一些反常识的真相。",
+          "url": "https://www.woshipm.com/ai/6474224.html",
+          "author": "数字生命卡兹克",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "英伟达投资的 Reflection 发布首个开源模型 Beam，主打写代码、推理和 Agent 任务，对标智谱 GLM-5.2。官方称两者高级推理分数相当，Beam 的推理算力只要三分之一到四分之一。本文逐项对比官方跑分，并给出同分项里 8 胜 5 负的结果。英伟达投资了一个叫 Reflection 的模型公司，发布了第一个开源模型 Beam，对标智谱的 GLM-5.2官方说两者在高级推理测试上分...",
-          "published_at": "2026-10-07T03:34:44"
+          "summary": "a16z 第七版《Top 100 消费级 AI 应用》与 9 月底更新的《市场状况 II》里，有一组数据放在一起很有趣：美国近一半人用过 AI，每天真正在用的只有 25%；98% 的美国家庭还没为 AI 付过费。作者挑出最值得聊的几条，聊了杰文斯悖论与这轮基建。昨天看了两个来自A16Z的最新的非常有趣的AI报告，我觉得还是有蛮多新东西的，也有一些反常识的数据，我觉得很值得给大家分享一下。一个是第七...",
+          "published_at": "2026-10-07T08:48:46"
         }
       ]
     },
@@ -287,7 +296,7 @@
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "category": "网页设计",
           "source": "Smashing Magazine",
-          "summary": "A practical guide to naming UI components, with useful resources, naming conventions, and structures.",
+          "summary": "A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online wo...",
           "published_at": "2026-10-06T10:00:00"
         },
         {
@@ -411,25 +420,61 @@
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 6,
       "items": [
         {
-          "title": "Rill Browser",
-          "url": "https://www.producthunt.com/products/rill-3",
-          "author": "Zac Zuo",
+          "title": "Featherweight Dictation",
+          "url": "https://www.producthunt.com/products/featherweight-dictation",
+          "author": "Rohit C",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The browser where Claude Code and Codex work beside youDiscussion|Link",
-          "published_at": "2026-10-05T06:40:56"
+          "summary": "Dictation that weighs nothing, for Mac and WindowsDiscussion|Link",
+          "published_at": "2026-10-06T12:12:07"
         },
         {
-          "title": "Brnch",
-          "url": "https://www.producthunt.com/products/brnch",
-          "author": "Ilyas Esmail",
+          "title": "Redlamp",
+          "url": "https://www.producthunt.com/products/redlamp",
+          "author": "Pedro Gomes",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Modern code hosting for the agent eraDiscussion|Link",
-          "published_at": "2026-10-05T15:30:20"
+          "summary": "Native, open-source RAW Lightroom alternative editor for MacDiscussion|Link",
+          "published_at": "2026-10-04T08:54:21"
+        },
+        {
+          "title": "Nano Banana 2.1",
+          "url": "https://www.producthunt.com/products/google",
+          "author": "KP",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Google's image model with sharper design and mask editingDiscussion|Link",
+          "published_at": "2026-10-06T18:54:11"
+        },
+        {
+          "title": "Kitbar",
+          "url": "https://www.producthunt.com/products/kitbar",
+          "author": "Abbas Aga",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Your dev tools, in one bar.Discussion|Link",
+          "published_at": "2026-10-06T23:04:00"
+        },
+        {
+          "title": "Vanoor",
+          "url": "https://www.producthunt.com/products/vanoor-running-pacer-map",
+          "author": "Felix Machan",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Turn your Apple Watch into a serious running watchDiscussion|Link",
+          "published_at": "2026-10-05T11:51:09"
+        },
+        {
+          "title": "IrisGo for Solopreneurs",
+          "url": "https://www.producthunt.com/products/irisgo-public-beta",
+          "author": "Deepak",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "AI workflow automation: show it once, let it runDiscussion|Link",
+          "published_at": "2026-10-05T22:45:07"
         }
       ]
     },
