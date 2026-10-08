@@ -1,25 +1,34 @@
 {
   "date": "2026-10-08T00:00:00",
-  "total_items": 57,
+  "total_items": 63,
   "sources": [
-    "NN/g (Nielsen Norman Group)",
-    "Sidebar",
     "UX Planet",
-    "Smashing Magazine",
-    "Product Hunt",
-    "A List Apart",
-    "Awwwards",
     "Design Milk",
+    "Smashing Magazine",
+    "Awwwards",
     "UX Design CC",
     "少数派",
-    "人人都是产品经理"
+    "Sidebar",
+    "A List Apart",
+    "NN/g (Nielsen Norman Group)",
+    "人人都是产品经理",
+    "Product Hunt"
   ],
-  "generated_at": "2026-10-08T05:16:49.992546",
+  "generated_at": "2026-10-08T18:38:24.983275",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 12,
+      "count": 15,
       "items": [
+        {
+          "title": "AI: incidents by design",
+          "url": "https://uxdesign.cc/ai-incidents-by-design-d4708a3dda9e?source=rss----138adf9c44c---4",
+          "author": "Patrizia Bertini",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "When safety is optional, and capability is urgent, incidents are not accidents. They are what we (consciously or not) designed and built for.AI makes headlines almost every day. And most days, they re...",
+          "published_at": "2026-10-08T09:20:37"
+        },
         {
           "title": "Bounded delegation: How much authority should AI have?",
           "url": "https://uxdesign.cc/bounded-delegation-how-much-authority-should-ai-have-823a58fb4192?source=rss----138adf9c44c---4",
@@ -100,6 +109,24 @@
           "source": "UX Design CC",
           "summary": "Weekly curated resources for designers — thinkers and makers.“Every prompt is a confession. Before the model returns a word, the box has read me back: the clarity of my thinking, the range of my refer...",
           "published_at": "2026-10-05T11:01:01"
+        },
+        {
+          "title": "Claude Haiku 5.5 is the Ultimate Junior Designer",
+          "url": "https://uxplanet.org/claude-haiku-5-5-is-the-ultimate-junior-designer-f8567a2d9697?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Haiku 5.5 is the fastest and most token-efficient AI model from Anthropic. I’ve demonstrated what this model is capable of in my previous…Continue reading on UX Planet »",
+          "published_at": "2026-10-08T15:44:09"
+        },
+        {
+          "title": "Claude Haiku 5.5: The Most Underrated Claude Model Just Got a Major Update",
+          "url": "https://uxplanet.org/claude-haiku-5-5-the-most-overlooked-claude-model-just-got-a-major-update-85c0bf30e76a?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Claude Sonnet, Opus, and Fable often receive a lot of media attention. People test these models in all possible scenarios and compare the…Continue reading on UX Planet »",
+          "published_at": "2026-10-08T11:56:02"
         },
         {
           "title": "Meta Muse vs OpenAI Dots: Which AI Assistant Is Better for Product Designers?",
@@ -249,49 +276,49 @@
           "published_at": "2026-10-05T22:21:51"
         },
         {
-          "title": "广告狂人乔治·路易斯的28个Big Idea忠告，句句锋利",
-          "url": "https://www.woshipm.com/share/6474518.html",
-          "author": "品牌猿",
+          "title": "阿里开源了个神器，给WorkBuddy、豆包挑毛病",
+          "url": "https://www.woshipm.com/ai/6475030.html",
+          "author": "老曹",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "乔治·路易斯是美国60年代创意革命的领军人物，也是《广告狂人》男主角的原型，一生反对把广告科学化，坚信创意才是核心。他把 Big Idea 视作对市场问题的惊人解决方案，以下28条忠告句句锋利，做创意和营销的人值得逐条对照。乔治・路易斯，美国 60 年代创意革命领军人物，人称麦迪逊大道的疯子，也是《广告狂人》男主角原型。他坚决反对广告科学化，坚信创意才是广告的核心，Big Idea（大创意）是他理...",
-          "published_at": "2026-10-08T04:38:20"
+          "summary": "现在用 AI 开发一个网站、小程序、APP，真的越来越简单了。尤其是去年Vibe Coding火起来之后，很多原本完全不懂编程的人，也开始自己动手做产品。WorkBuddy、豆包工作、Qoder、TRAE、GPT、Claude等产品，已经降低普通人的开发门槛，基本上自然语言就能手搓完成。产品经理可以自己开发原型，知识付费博主可以做课程网站，自媒体人可以搭建内容工具，甚至一个人就能折腾出一套 Saa...",
+          "published_at": "2026-10-08T08:19:41"
         },
         {
-          "title": "设计系统负责人的语义生长：在1个组件的2个场景上练习核对",
-          "url": "https://www.woshipm.com/share/6474606.html",
-          "author": "阿基拉de_Akir",
+          "title": "世界模型赛道：谁在收编，谁在突围？",
+          "url": "https://www.woshipm.com/ai/6474923.html",
+          "author": "智械岛",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "设计系统负责人如何低成本建立组件语义评审能力？本文提出只需找到使用频率最高的组件，核对它在2个场景下的语义身份，就能从“管组件长什么样”升级到“管组件承担什么责任”。通过真实案例和结构化域绑定方法，帮你迈出语义治理的第一步。前一篇《从追问1个Design Token开始》讲了设计系统负责人怎么从1个错误色开始，建立”从色值到语义”的评审能力：追问三个问题，写成结构化定义，贴在规范旁边。这篇我们接着...",
-          "published_at": "2026-10-08T04:29:28"
+          "summary": "AMD 以 82 亿美元收购成立仅两年的 World Labs，市场用股价下跌表达疑虑。这笔交易的本质不是买收入，而是买模型洞察与人才，是芯片巨头从卖算力转向抢模型入口的信号。本文拆解收购逻辑、定价难题与行业格局，并追问国产芯片厂商能否复制这一策略。9月28日，芯片巨头AMD宣布以82亿美元全股票交易收购World Labs，该公司成立仅两年多，员工约70人，首款商业产品Marble上线不到一年，...",
+          "published_at": "2026-10-08T07:54:43"
         },
         {
-          "title": "DeepSeek三年融资史：前两年自己养，今年资本抢着送钱",
-          "url": "https://www.woshipm.com/ai/6474784.html",
-          "author": "怪哥",
+          "title": "我在山姆“进厂式”工作：外企滤镜、流水线与人间剧场",
+          "url": "https://www.woshipm.com/zhichang/6474791.html",
+          "author": "山农下山",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "就在昨天，彭博社报道：DeepSeek新一轮融资即将敲定，规模至少800亿元，原定目标只有约500亿元，按已签的条款书最终可能逼近1000亿元。宁德时代和腾讯是出资最多的两家，这笔钱被视为2027年初IPO的铺路石。放在别的公司身上，这只是又一条融资快讯。放在DeepSeek身上就有点魔幻了：一年半前，它还在辟谣”融资相关均为谣言”；梁文锋公开说过，DeepSeek不缺钱，短期没有融资计划。从”不...",
-          "published_at": "2026-10-08T03:29:25"
+          "summary": "今年夏天我在北京郊区一家山姆前台做兼职：入职发工牌、有明亮更衣室，兼职每天只上 4 小时、时薪 27.7 元，看起来像标准外企。但层层指标压下来，区与区、店与店、组与组都要排名，从 HR 到小组长几乎每个环节都能遇到疑似 PUA。01 置身姆内今年夏天，我在北京某郊区的山姆前台部门做了一段时间兼职。报名时，我想得很简单：经过一层会员门槛的过滤，山姆顾客的素质应该会相对高一些；山姆是外企，员工待遇应...",
+          "published_at": "2026-10-08T07:24:40"
         },
         {
-          "title": "我所了解的机器视觉检测产品应用（11）：换一次型到底花多少钱？五样东西先看哪些重来",
-          "url": "https://www.woshipm.com/share/6474685.html",
-          "author": "产品经理Mike",
+          "title": "关了电脑还在替你干活：Personal Agent的技术内核与医疗落地",
+          "url": "https://www.woshipm.com/ai/6474922.html",
+          "author": "壮年女子AIGC版",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "换型不是调调参数那么简单，而是涉及配方、机构、光源、标定、模型五层。本文拆解每层的更换逻辑与成本，算清准备期和停线当天的两本账，并给出六个设计要点和签合同前的六个关键问题，帮你避开换型中的隐形坑。上一篇结尾我留了个话头：形态选对了，真到换型那天，到底要动哪些东西？这篇兑现——我把“换型”拆成一份清单，一层一层算账。先给一个我亲眼见过的场景。早上六点，产线切新型号：物料换完、机械手示教完、PLC 程...",
-          "published_at": "2026-10-08T03:20:21"
+          "summary": "当急诊医生关掉电脑，AI仍在替他写病历、排随访——这不是科幻，而是Personal Agent（个人智能体）的日常。它和聊天机器人最本质的区别是：你合上电脑，它还在干活。本文以医疗场景为试金石，拆解分层记忆、MCP协议、权限分级三大技术支柱，并对比OpenAI Dots、Gemini Spark等四款产品，揭示这场AI产品革命的真正内核。急诊医生Haroun Zayed走出渥太华医院急诊室的时候，...",
+          "published_at": "2026-10-08T07:22:42"
         },
         {
-          "title": "硬件团队避坑指南：初创企业该如何选择最适配的质量体系？ ——从华为到创业团队的质量选型血泪史（中篇：实操操盘手册）",
-          "url": "https://www.woshipm.com/share/6473545.html",
-          "author": "邬翔",
+          "title": "走心，你能做的最好的差异化战略",
+          "url": "https://www.woshipm.com/pd/6474926.html",
+          "author": "万物复苏",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "初创硬件团队如何避免流程照搬大厂的陷阱？本文提出'灵魂四问与1-3-5量化评估模型'，结合ISO/QMS四大支柱，提供五大断层线校准表、通用选型武器库及跨行业案例，并给出极度贫乏条件下的'穷人实战解法'，助你找到适配的流程体系。在上篇揭示了大厂流程在初创企业的认知错位后，最核心的实战命题随之而来：“不照搬大厂，初创硬件团队到底该怎么做？”完全不要流程会沦为草台班子，全上大厂流程会沦为僵尸企业。本篇...",
-          "published_at": "2026-10-08T03:19:11"
+          "summary": "当产品同质化成为常态，功能差异的保质期越来越短，如何破局？本文从波特竞争战略切入，提出'走心'是差异化的核心，并给出'走心力=看见×承担×表达×坚持'的公式，结合三只松鼠、亚朵、老乡鸡等案例，拆解四个落地切口，助你构建情感连接与品牌壁垒。“同质化”这三个字，是近两年我们听到最多的抱怨。产品越来越难做，技术陷入瓶颈，大家合作的都是同一批方案商，参数互相抄录，连详情页的文案都大同小异。于是所有人都在追...",
+          "published_at": "2026-10-08T07:22:20"
         }
       ]
     },
@@ -429,43 +456,61 @@
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 6,
       "items": [
         {
-          "title": "Rhem Labs",
-          "url": "https://www.producthunt.com/products/rhem-labs",
+          "title": "BotBus",
+          "url": "https://www.producthunt.com/products/botbus",
+          "author": "Rico.www",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Manage your local coding agents from your phoneDiscussion|Link",
+          "published_at": "2026-10-07T08:49:08"
+        },
+        {
+          "title": "Claude for Google Workspace",
+          "url": "https://www.producthunt.com/products/claude-for-google-workspace",
+          "author": "Justin Jincaid",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Bring Claude directly into Google Docs, Sheets & SlidesDiscussion|Link",
+          "published_at": "2026-10-08T02:20:15"
+        },
+        {
+          "title": "Cekura Bench",
+          "url": "https://www.producthunt.com/products/vocera",
           "author": "Garry Tan",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Health assistant robots for your parents’Discussion|Link",
-          "published_at": "2026-10-06T17:34:45"
+          "summary": "Speech-to-speech model benchmarks on live phone callsDiscussion|Link",
+          "published_at": "2026-10-06T17:39:40"
         },
         {
-          "title": "Knuff App",
-          "url": "https://www.producthunt.com/products/knuff-app",
-          "author": "Gabrielle Zenati",
+          "title": "Isle Notch",
+          "url": "https://www.producthunt.com/products/isle-notch",
+          "author": "Gökhan AYTEKİN",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Family check-in app to know your people are okayDiscussion|Link",
-          "published_at": "2026-10-06T14:32:47"
+          "summary": "Lowweight minimal dynamic island for WindowsDiscussion|Link",
+          "published_at": "2026-10-05T14:06:57"
         },
         {
-          "title": "Vanoor",
-          "url": "https://www.producthunt.com/products/vanoor-running-pacer-map",
-          "author": "Felix Machan",
+          "title": "OpenSwarm",
+          "url": "https://www.producthunt.com/products/openswarm-3",
+          "author": "Ben Lang",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn your Apple Watch into a serious running watchDiscussion|Link",
-          "published_at": "2026-10-05T11:51:09"
+          "summary": "A swarm of agents, in the same place you workDiscussion|Link",
+          "published_at": "2026-10-05T23:22:58"
         },
         {
-          "title": "Albie",
-          "url": "https://www.producthunt.com/products/albie",
-          "author": "Andrew Kwag",
+          "title": "Polylane for Vercel",
+          "url": "https://www.producthunt.com/products/polylane",
+          "author": "fmerian",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "An AI tutor that teaches at a whiteboard, not a chat boxDiscussion|Link",
-          "published_at": "2026-10-05T20:26:27"
+          "summary": "An AI on-call engineer for your Vercel appsDiscussion|Link",
+          "published_at": "2026-10-07T22:05:44"
         }
       ]
     },
@@ -474,56 +519,83 @@
       "count": 5,
       "items": [
         {
-          "title": "On being anything other than a designer",
-          "url": "https://blog.ronbronson.com/on-being-anything-other-than-a-designer",
+          "title": "Agents don’t need memory. They need documentation.",
+          "url": "https://liao.gg/blog/agents-dont-need-memory",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "There’s that person in your job who is the one people call for all kinds of tasks that only “they can do.”",
-          "published_at": "2026-10-07T04:07:01"
+          "summary": "Why agents need project documentation instead of retrieval from old conversations.",
+          "published_at": "2026-10-08T07:32:38"
         },
         {
-          "title": "F*cking good libraries",
-          "url": "https://fglibs.com/",
+          "title": "12 axes",
+          "url": "https://12axes.vercel.app/en",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A browsable semantic library for creative development resources.",
-          "published_at": "2026-10-07T04:05:37"
+          "summary": "A complete, free political quiz: find your political ideology, compatible country and political figure across 12 axes.",
+          "published_at": "2026-10-08T07:31:53"
         },
         {
-          "title": "Emerging patterns: design leadership in 2026",
-          "url": "https://www.emergingpatterns.design/",
+          "title": "Money as a file",
+          "url": "https://design.lightspark.com/money-as-a-file",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Findings from nearly 120 design leaders — pathways, mentorship, portfolio careers, tooling, and the human qualities of leadership.",
-          "published_at": "2026-10-07T04:04:54"
+          "summary": "A working prototype that lets you move test money as a file: into Finder, along with a message, or directly between two phones.",
+          "published_at": "2026-10-08T07:31:14"
         },
         {
-          "title": "The era of cmd+tab",
-          "url": "https://era-of-cmd-tab.vercel.app/",
+          "title": "Agentic systems are the future of brands",
+          "url": "https://agentic.littleplains.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "An essay that degrades 1% at a time, and a little more every time you leave it.",
-          "published_at": "2026-10-07T04:04:17"
+          "summary": "Agentic Brand Systems, a Little Plains research note.",
+          "published_at": "2026-10-08T07:30:31"
         },
         {
-          "title": "Design is a nice-to-have",
-          "url": "https://draganbabic.com/blog/design-is-a-nice-to-have/?utm_source=tldrdesign",
+          "title": "Chat is AI’s command line",
+          "url": "https://wattenberger.com/thoughts/ai-is-still-in-its-terminal-era/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "I am in a very weird place right now when it comes to design.",
-          "published_at": "2026-10-07T04:03:48"
+          "summary": "AI should make us more capable—not just give us someone more capable to talk to.",
+          "published_at": "2026-10-08T07:30:00"
         }
       ]
     },
     {
       "category": "数字生活",
-      "count": 5,
+      "count": 6,
       "items": [
+        {
+          "title": "iPhone Duo：苹果，终究还是对强迫症下手了",
+          "url": "https://sspai.com/post/115282",
+          "author": "lavande",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "published_at": "2026-10-08T09:28:11"
+        },
+        {
+          "title": "从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole",
+          "url": "https://sspai.com/post/113843",
+          "author": "Tw93",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "最近我写了不少关于独立开发的思考，想着要汇总一下，就把Mole从开源CLI做到Mac付费软件这一路聊一聊：我当时是怎么想的，哪些事情做下来真的有用，也许能给正在做自己作品的朋友一些输入。去年国庆我在三 ...查看全文",
+          "published_at": "2026-10-08T08:10:51"
+        },
+        {
+          "title": "扔掉的是杂念，掌控的是生活：我的断舍离实践经验",
+          "url": "https://sspai.com/post/115209",
+          "author": "鸿苓",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "断舍离从来不是为了追求极致的空旷，而是为了在混乱的生活里，重新夺回对空间的掌控权。查看全文",
+          "published_at": "2026-10-08T06:42:14"
+        },
         {
           "title": "App Store 生态规模五年翻倍，助力中国开发者走向全球",
           "url": "https://sspai.com/post/115462",
@@ -550,24 +622,6 @@
           "source": "少数派",
           "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
           "published_at": "2026-10-07T03:00:00"
-        },
-        {
-          "title": "基于 Vaultwarden 和 Keyguard 的自托管密码管理实践",
-          "url": "https://sspai.com/post/115416",
-          "author": "大大大K",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "密码管理服务的数据，当然要掌握在自己手里。查看全文",
-          "published_at": "2026-10-06T10:00:00"
-        },
-        {
-          "title": "十个案例助你轻松上手 iOS 27 通知自动化",
-          "url": "https://sspai.com/post/114536",
-          "author": "谷雨G2rain",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "iOS 27 通知自动化改变了通知的处理方式，快捷指令也迎来了不少的新玩法。查看全文",
-          "published_at": "2026-10-05T02:59:24"
         }
       ]
     }
