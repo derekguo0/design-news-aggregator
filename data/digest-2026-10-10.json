@@ -2,18 +2,18 @@
   "date": "2026-10-10T00:00:00",
   "total_items": 58,
   "sources": [
-    "A List Apart",
-    "人人都是产品经理",
-    "Design Milk",
-    "Product Hunt",
     "Awwwards",
     "Sidebar",
-    "NN/g (Nielsen Norman Group)",
+    "Design Milk",
     "UX Planet",
+    "UX Design CC",
+    "A List Apart",
     "少数派",
-    "UX Design CC"
+    "NN/g (Nielsen Norman Group)",
+    "人人都是产品经理",
+    "Product Hunt"
   ],
-  "generated_at": "2026-10-10T05:04:23.684982",
+  "generated_at": "2026-10-10T17:08:19.158005",
   "categories": [
     {
       "category": "用户体验设计",
@@ -266,49 +266,49 @@
           "published_at": "2026-10-07T21:19:22"
         },
         {
-          "title": "大厂卷 Jarvis，Samantha却在恋爱影游里冒了头？",
-          "url": "https://www.woshipm.com/ai/6473731.html",
+          "title": "客户说要一个功能，产品经理怎么找到真正的需求在那？",
+          "url": "https://www.woshipm.com/pd/6475402.html",
+          "author": "AI产品经理老猫",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "当客户要求合同审批增加财务和法务节点时，直接画流程图可能埋下隐患。本文通过具体案例，拆解如何将模糊的功能诉求转化为风险分级、权限边界和责任追溯的可执行方案，并给出上线后的验证指标，帮助产品经理设计出既高效又可靠的审批流程。客户说：“合同审批再增加一个财务节点，最好法务也一起加上。”如果把这句话直接翻成流程图，通常不会太难：销售提交，主管审核，销售总监批准，接着增加财务和法务，最后签署。难的是，节点...",
+          "published_at": "2026-10-10T10:17:35"
+        },
+        {
+          "title": "实测一个月，我把手机里 20 多个常用 App 全删了，只留了一个豆包工作",
+          "url": "https://www.woshipm.com/ai/6475936.html",
+          "author": "Ai学习的老章",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "作者高强度用了整整一个月豆包工作，盘点气象查询、菜谱推荐、记账、体检报告解读等 20 个场景，演示一个输入框如何替代手机里 20 多个常用独立 App，也拆解了背后的执行机制。豆包工作我写过 6 篇实测文章了，涉及云端电脑跑长任务、手机遥控多台电脑、日周月报系统、实现知识库全流水线、做数据抓取与分析、全套办公（PDF 结构化提取、Word 排版、Excel 公式 + 分析、PPT 按模板生成）、A...",
+          "published_at": "2026-10-10T09:33:40"
+        },
+        {
+          "title": "Stripe创始人：AI agent 将重写整个互联网",
+          "url": "https://www.woshipm.com/ai/6475925.html",
+          "author": "深思圈",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "Stripe 联合创始人 John Collison 在 Sourcery 播客访谈里聊 AI agent：填网页表单不是任何人的增值活动，computer use 是通往真实世界的向后兼容层，Stripe 把 2026 年 1 月 1 日定为「奇点纪元」第一天。你有没有想过，如果你想让 AI 替你续一张驾照，要等多久，DMV（车管所）才会给自己的网站加上 MCP（让 AI 调用外部工具的协议）？...",
+          "published_at": "2026-10-10T09:30:10"
+        },
+        {
+          "title": "旅行成为个人 Agent 的高频场景，「豆包工作」把几十小时攻略浓缩成 PPT",
+          "url": "https://www.woshipm.com/ai/6475913.html",
+          "author": "有新Newin",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "作者把一份两人同行、六天五晚的北京旅行方案交给「豆包工作」：先用 Skill 录入旅行方法，再让三个 Agent 并行查资料，最后产出一份可继续修改、便于同行者讨论的行程文档与 PPT。回顾一下国庆假期。共同出行中负责做攻略的人，要处理的事情通常比找几个好去处更琐碎：酒店离地铁近不近，逛完景点还要走多远才能吃饭，同伴临时想加一个展览，当天原有的安排又该怎样挪动。每个选项都牵动时间、预算和偏好，查到...",
+          "published_at": "2026-10-10T09:29:22"
+        },
+        {
+          "title": "Claude、GPT“跨界”做视频，Seedance们的护城河还牢吗？",
+          "url": "https://www.woshipm.com/ai/6474292.html",
           "author": "AI价值官",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当《钢铁侠》的Jarvis路线挤满AI助手，恋爱影游正悄悄孕育《Her》里的Samantha。Yoroll推出两款AI互动影游，让玩家在电竞执教与摄影恋爱中与角色建立羁绊，通关后还能与她们实时视频通话。AI生成画面降低成本，长线陪伴或成影游新生态。说到 AGI 和人类友好相处的终极样子，电影科幻作品里大概就两种：一种是《钢铁侠》里的 Jarvis，帮你干活的 AI 助手；一种是《Her》里的 Sa...",
-          "published_at": "2026-10-10T04:42:45"
-        },
-        {
-          "title": "微信聊天记录终于能正经交给 AI 了，官方开的口子不怕封号",
-          "url": "https://www.woshipm.com/ai/6475726.html",
-          "author": "林月半子的AI笔记",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "微信合并转发聊天记录时新增了「转发到其他应用」入口，第一个就是腾讯WorkBuddy。作者借这个官方入口做了两个skill：一个把216条群消息整理成日报长图，还能从聊天里捞选题；另一个逐条核查家族群真假，并代写好回给长辈的话。不知道你有没有注意到，微信最近多了一个入口。合并转发聊天记录的时候，弹窗里多了一个「转发到其他应用」，点开第一个就是腾讯 WorkBuddy。看到它，我第一反应是：这事我以...",
-          "published_at": "2026-10-10T03:25:49"
-        },
-        {
-          "title": "一次模型测评后，我开始重新理解WorkBuddy",
-          "url": "https://www.woshipm.com/evaluating/6475551.html",
-          "author": "奇点研究社",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "给几款 Flash 模型布置同样两项任务：一份手机行业深度研报和一个三消小游戏。复盘时才发现这场测试从一开始就不公平——两个模型跑在能联网检索、读写文件、调用工具的环境里，另一个只有一个孤立的对话框。换到工作流里复测，结果大变。Flash 模型越来越像AI世界里的“基本款”。速度快、价格低，应付日常任务绰绰有余。模型横评也因此有了一个固定套路：给几款模型布置同样的任务，看谁的答案更好，再排个名次。...",
-          "published_at": "2026-10-10T03:14:28"
-        },
-        {
-          "title": "得中女得天下？这个年销3亿的女装品牌AAAD给出了新答案！",
-          "url": "https://www.woshipm.com/share/6475596.html",
-          "author": "Sally",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "如果停止投放广告，消费者还会不会主动搜索并购买你的品牌？女装品牌 an action a day 年营收突破 3亿元，入选小红书 Rise100 新锐品牌榜单，打法却不靠疯狂投流：先一句话说清消费者为什么选择你，再把定位落到三个具体主张上。如果停止投放广告，消费者还会不会主动搜索并购买你的品牌？这是一个越来越多电商人开始焦虑的问题。投流成本水涨船高，ROI越算越薄，钱砸下去有声响，一停就断崖。很多...",
-          "published_at": "2026-10-10T03:12:59"
-        },
-        {
-          "title": "闪电仓赛道，为什么惠宜选要做自有品牌？",
-          "url": "https://www.woshipm.com/share/6475592.html",
-          "author": "即时刘说",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "即时零售的上半场，拼的是仓；下半场，拼的是货。已经做到 5000+ 仓规模的宜选，却在干一件大多数同行不愿意干的事：自建自有品牌矩阵，26 大品类、800+ SKU、216 家合作工厂。文章借一句行业判断展开：规模只是入场券。业内有个共识：即时零售的上半场，拼的是仓；下半场，拼的是货。过去这几年即时零售行业，一直上演着一种行业悖论：绝大多数闪电仓玩家，持续在拼命开店、拼价格、抢夺平台流量。已经做到...",
-          "published_at": "2026-10-10T03:11:22"
+          "summary": "AI视频领域最热的讨论并非围绕 Seedance、Minmax 等专业视频模型，而是越界闯入的通用大模型。Claude Opus 5.5 靠代码渲染视频，带火了新的创作范式；GPT-6 Astra 则扮演 AI 导演，深入专业软件做分镜预演与剪辑。过去一个月，AI视频领域最激动人心的讨论热潮，并非围绕Seedance、Minmax、可灵等专业视频模型，而是“越界”闯入的通用大模型。Claude O...",
+          "published_at": "2026-10-10T08:42:51"
         }
       ]
     },
@@ -431,40 +431,40 @@
       "count": 4,
       "items": [
         {
-          "title": "Comcent",
-          "url": "https://www.producthunt.com/products/comcent",
-          "author": "Pavan Kumar",
+          "title": "Microsoft-Decision-1",
+          "url": "https://www.producthunt.com/products/microsoft-decision-1",
+          "author": "Rohan Chaubey",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "AI-ready voice infrastructure on your own SIP trunkDiscussion|Link",
-          "published_at": "2026-10-07T10:05:19"
+          "summary": "Microsoft’s decision model for agents and workflowsDiscussion|Link",
+          "published_at": "2026-10-09T18:50:17"
         },
         {
-          "title": "Amazon Alexa Tablets",
-          "url": "https://www.producthunt.com/products/amazon-alexa-tablets",
-          "author": "Zac Zuo",
+          "title": "PocketWebTools for Mac",
+          "url": "https://www.producthunt.com/products/pocketwebtools",
+          "author": "Shafu",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Full Google Play, Alexa+ and a Kindle reading modeDiscussion|Link",
-          "published_at": "2026-10-08T15:51:14"
+          "summary": "Local AI chat, transcription and video tools in one Mac appDiscussion|Link",
+          "published_at": "2026-10-09T07:00:05"
         },
         {
-          "title": "Thravik",
-          "url": "https://www.producthunt.com/products/thravik",
-          "author": "Ahmed Yacoub",
+          "title": "Maildun for Mac",
+          "url": "https://www.producthunt.com/products/maildun-for-mac",
+          "author": "Dunn",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The native Mac browser that remembersDiscussion|Link",
-          "published_at": "2026-10-08T20:52:59"
+          "summary": "Design on-brand emails by hand, with AI, or over MCPDiscussion|Link",
+          "published_at": "2026-10-10T01:06:33"
         },
         {
-          "title": "Microsoft Surface Laptop Ultra",
-          "url": "https://www.producthunt.com/products/microsoft-surface-laptop-ultra",
-          "author": "Justin Jincaid",
+          "title": "TapNoise",
+          "url": "https://www.producthunt.com/products/tapnoise",
+          "author": "Rudra Satani",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Run 120B AI models locally on Microsoft's new SurfaceDiscussion|Link",
-          "published_at": "2026-10-08T02:29:49"
+          "summary": "A tiny desktop pet that reacts to every key you pressDiscussion|Link",
+          "published_at": "2026-10-09T07:16:56"
         }
       ]
     },
