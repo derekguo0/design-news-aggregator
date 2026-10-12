@@ -1,24 +1,69 @@
 {
   "date": "2026-10-12T00:00:00",
-  "total_items": 44,
+  "total_items": 51,
   "sources": [
-    "Awwwards",
+    "Sidebar",
     "少数派",
-    "Design Milk",
-    "Product Hunt",
     "人人都是产品经理",
-    "UX Planet",
     "NN/g (Nielsen Norman Group)",
+    "Awwwards",
+    "UX Planet",
+    "Design Milk",
     "UX Design CC",
     "A List Apart",
-    "Sidebar"
+    "Product Hunt"
   ],
-  "generated_at": "2026-10-12T05:08:21.416167",
+  "generated_at": "2026-10-12T21:04:40.763036",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 3,
+      "count": 10,
       "items": [
+        {
+          "title": "Secret agent bot: accessibility matters for the agents even if you can’t see them",
+          "url": "https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9?source=rss----138adf9c44c---4",
+          "author": "Patrick Neeman",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Two readers, one page. The agent never sees the surface you designed; it reads the structure underneath. AI assisted.The semantic structure screen readers have used for decades now also decide whether...",
+          "published_at": "2026-10-12T20:19:31"
+        },
+        {
+          "title": "AI is hollowing out the middle of design, leaving an hourglass behind",
+          "url": "https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd?source=rss----138adf9c44c---4",
+          "author": "Anamol Rajbhandari",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "For fifteen years, the design process kept growing while the time left for making the product kept shrinking.Continue reading on UX Collective »",
+          "published_at": "2026-10-12T20:17:45"
+        },
+        {
+          "title": "On M.F. Husain and multiple meanings of the colour orange",
+          "url": "https://uxdesign.cc/on-m-f-husain-and-multiple-meanings-of-the-colour-orange-bf4b1a6f5504?source=rss----138adf9c44c---4",
+          "author": "Neel Dozome",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "The painting that introduced me to the power and purpose of artContinue reading on UX Collective »",
+          "published_at": "2026-10-12T11:35:46"
+        },
+        {
+          "title": "Borrowed slopes",
+          "url": "https://uxdesign.cc/borrowed-slopes-cb5c5b464a61?source=rss----138adf9c44c---4",
+          "author": "Wira Indra Kusuma",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "When a traffic line bends, newsrooms reach for the oldest kit in digital design. The readers it costs are the ones they most need.Continue reading on UX Collective »",
+          "published_at": "2026-10-12T11:35:36"
+        },
+        {
+          "title": "AI-generated UI, What the AI era owes you, Amazing Glass, Jev for UX",
+          "url": "https://uxdesign.cc/ai-generated-ui-what-the-ai-era-owes-you-amazing-glass-jev-for-ux-22f8393c4cc6?source=rss----138adf9c44c---4",
+          "author": "Fabricio Teixeira",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Weekly curated resources for designers — thinkers and makers.“Today, my house and life are painfully void of craft. I live in a new build with pumped out, builder-grade (aka cheap) materials. I have p...",
+          "published_at": "2026-10-12T09:07:53"
+        },
         {
           "title": "Designing for an idea before it exists",
           "url": "https://uxdesign.cc/designing-for-an-idea-before-it-exists-ecd8cb19999a?source=rss----138adf9c44c---4",
@@ -27,6 +72,24 @@
           "source": "UX Design CC",
           "summary": "On empty seats, metaphors, and the useful parts that don’t quite fitContinue reading on UX Collective »",
           "published_at": "2026-10-09T20:32:02"
+        },
+        {
+          "title": "5 Best Claude Code Mods You Should Try in 2026",
+          "url": "https://uxplanet.org/5-best-claude-code-mods-you-should-try-in-2026-580eee0aec57?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "Mods let you customize your Claude Code to fit your specific needs. Previously, I’ve discussed how to create a new mod for Claude Code…Continue reading on UX Planet »",
+          "published_at": "2026-10-12T20:15:04"
+        },
+        {
+          "title": "I Tested 100+ GitHub Tools for Claude. These 7 Are the Best",
+          "url": "https://uxplanet.org/i-tested-100-github-tools-for-claude-these-7-are-the-best-d3d13ad1befd?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "There are hundreds of GitHub repositories for Claude, and pretty much every repository claims it will streamline your work with Claude…Continue reading on UX Planet »",
+          "published_at": "2026-10-12T12:45:14"
         },
         {
           "title": "15 Figma Tools That Solve Problems Nobody Wants to Deal With",
@@ -110,8 +173,26 @@
     },
     {
       "category": "产品设计",
-      "count": 8,
+      "count": 10,
       "items": [
+        {
+          "title": "B+N Industries Builds Its Modular Systems to Keep Evolving After Installation",
+          "url": "https://design-milk.com/bn-industries-builds-its-modular-systems-to-keep-evolving-after-installation/",
+          "author": "Hayley Arsenault",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Across System 1224, Sorbetti 2.0, and Muro, B+N Industries designs modular frameworks that expand, reconfigure, and take on new roles years after they first go up",
+          "published_at": "2026-10-12T17:09:40"
+        },
+        {
+          "title": "Walnut and Leather Meet at the Seams of Eureka Ergonomic’s Arundel Collection",
+          "url": "https://design-milk.com/walnut-and-leather-meet-at-the-seams-of-eureka-ergonomics-arundel-collection/",
+          "author": "Hayley Arsenault",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Walnut, leather, stone, and brass shape a new collection for the home, debuting at High Point Market this fall",
+          "published_at": "2026-10-12T13:33:12"
+        },
         {
           "title": "Ry Van Der Hout Reassembles Memory in ‘In Broken Light’",
           "url": "https://design-milk.com/in-broken-light-ry-van-der-hout/",
@@ -140,49 +221,49 @@
           "published_at": "2026-10-09T19:39:12"
         },
         {
-          "title": "姚顺雨坐在马化腾身旁，腾讯坐到了AI牌桌中间",
-          "url": "https://www.woshipm.com/share/6476178.html",
-          "author": "互联网江湖",
+          "title": "赫拉利：人类不必赢过AI，但知道去哪需要智慧",
+          "url": "https://www.woshipm.com/share/6476927.html",
+          "author": "数智奔流",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "腾讯总现金超5100亿却发债融资，姚顺雨与马化腾同框释放强烈组织信号。本文深度剖析腾讯从平台生态向AI生态转型的战略逻辑，对比阿里、字节的融资动作，揭示巨头们在AI商业化探索期的焦虑与野心，以及各自的核心边界与底牌。这两天，姚顺雨和马化腾同框露面引发热议。要知道，这样的画面，在腾讯历史上并不常见，过去能坐在马化腾身边的核心高管，通常是腾讯的老资历。况且，姚顺雨和马化腾，几乎是完全不同的两代人，反差...",
-          "published_at": "2026-10-12T04:23:30"
+          "summary": "当AI从工具演变为文明级变量，人类正站在控制权交接的临界点。赫拉利与《经济学人》主编深度对话，揭示AI如何通过金融信任转移、亲密关系批量生产、责任主体模糊等路径，悄然接管社会运行。这场实验最危险之处，不是机器觉醒，而是人类主动交出方向盘。2026年，人工智能逐渐从技术突破演变为影响社会结构、经济体系甚至人类自我认知的巨大力量。关于AI的未来，英国《经济学人》（The Economist）主编赞妮·...",
+          "published_at": "2026-10-12T09:58:25"
         },
         {
-          "title": "实测Octop开源智能伙伴，它是否干得过WorkBuddy",
-          "url": "https://www.woshipm.com/ai/6476622.html",
-          "author": "马佳彬",
+          "title": "项目案例分享：产品经理个人工作台",
+          "url": "https://www.woshipm.com/ai/6476767.html",
+          "author": "安全沼",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "被称作「开源版 WorkBuddy」的 Octop，到底成色如何？老马从安装踩坑、接入模型，到专家、记忆、云端协同和插件市场，做了一轮完整体验。Agent 的外壳换了又换，本质却大同小异；真正决定能力的，还是模型本身。这算迟到的测评了，之前一直有小伙伴想让老马实测一下Octop，看看这款开源的AI Agent到底怎样。毕竟网上很多博主都在说，Octop就是开源版、内网版的WorkBuddy，甚至比...",
-          "published_at": "2026-10-12T03:38:53"
+          "summary": "AI 产品经理的日常，总在写 PRD、竞品分析、提示词方案和评估报告之间来回切换，重复交代项目背景更是家常便饭。作者干脆自己搭了一个 AI 工作台，把立项、PRD、评估、版本规划等六个入口装进同一个项目空间，让上下文能复用、文档能接着改。本文完整拆解这个工作台的设计思路与使用流程，并分享从界面到协作的踩坑心得。这阵子在折腾一个AI 产品经理工作台。可以把立项报告、PRD、竞品分析放进去，还有提示词...",
+          "published_at": "2026-10-12T09:54:29"
         },
         {
-          "title": "超实用！WorkBuddy 独立文件浏览器的 6 种玩法来了！",
-          "url": "https://www.woshipm.com/ai/6476596.html",
-          "author": "万象AI实验室",
+          "title": "模型长出交互界面，“手搓”AI应用要全面退潮了？",
+          "url": "https://www.woshipm.com/it/6476880.html",
+          "author": "AI价值官",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "AI 时代，Markdown 等文档格式通用，但打开和编辑却常需付费工具。WorkBuddy 新上线的独立文件浏览器，支持 Word、Excel、PPT、PDF 等格式，并集成 AI 对话，实现边看边改。本文实测 6 个玩法，从双击打开到生成分享链接，带你体验一站式文档处理流程。AI 时代，Markdown 几乎成了最通用的文档格式，AI 读它很方便，我们要打开 .md文档却还需要专业的软件。免费...",
-          "published_at": "2026-10-12T02:52:24"
+          "summary": "OpenAI 推出 Intelligent UI，让 ChatGPT 从文字回答升级为可点击的图表、表单和交互工具，模型正从信息提供者变为任务交互入口。这一变化不仅冲击移动应用生态，更可能让手搓 AI 应用成为被跨过的弯路。本文深度解析 Intelligent UI 对应用入口、流量分配及国内大模型布局的深远影响。10月7日，OpenAI宣布将GPT-6与Intelligent UI带入更广泛的C...",
+          "published_at": "2026-10-12T09:54:13"
         },
         {
-          "title": "Photoroom：3亿用户的 AI 抠图工具",
-          "url": "https://www.woshipm.com/chuangye/6475498.html",
-          "author": "张艾拉",
+          "title": "产品定义怎么做？从用户层、方案层到价值层的完整方法论拆解",
+          "url": "https://www.woshipm.com/pd/6476787.html",
+          "author": "策略人藏锋",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "手机拍一张商品照片，AI 自动去掉背景，再把商品放进白色摄影棚或者咖啡馆；如果卖的是衣服，还能生成一位虚拟模特。它可以一次处理 250张商品图片，让不同商品保持相同的背景、光线和模特风格。到今年6月，全球累计用户已达 3亿。今天分享的是：Photoroom，https://www.photoroom.com/看到 Photoroom 之前，我也没想到（区区）一个抠图+换背景的 AI 工具能做这么大...",
-          "published_at": "2026-10-12T02:45:34"
+          "summary": "产品定义的本质是取舍，回答为谁做、在什么场景下、解决什么问题、用什么方式解决。它包含用户层、方案层、价值层三层结构，而人群定得泛、场景想得浅、缺少用户导向，正是大多数人做不好的根源。产品策略的根是产品定义，产品定义的根是用户导向。产品定义核心回答四大问题：为谁→在什么场景下→解决什么问题→用什么方式解决。很多人做产品定义容易陷入三大误区：人群定得泛+场景想得浅+没有用户导向。从而导致洞察不深+痛点...",
+          "published_at": "2026-10-12T09:18:55"
         },
         {
-          "title": "奥乐齐创始人唯一亲述：硬折扣的底层经营法则是什么？",
-          "url": "https://www.woshipm.com/share/6476531.html",
-          "author": "莹姐的营销纪实录",
+          "title": "商品定价：从经营目标到价格落地",
+          "url": "https://www.woshipm.com/share/6476814.html",
+          "author": "张二十三",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "硬折扣模式为何能穿越百年周期？本文独家翻译奥乐齐创始人卡尔·阿尔布雷希特的罕见德文经营自述，并总结其成功的11个秘密。从‘少商品、低价格’原则到极致简化哲学，深度解析这家零售巨头如何用最朴素的逻辑颠覆行业，为产品经理与零售从业者提供穿越周期的战略启示。近两年 硬折扣成了中国零售圈最热的话题，但我一直在想：奥乐齐的这套模式，创始人是抱着何种经营思想创造出来的？这套能穿越百年周期的硬折扣模式，为什么到...",
-          "published_at": "2026-10-12T02:45:09"
+          "summary": "商品定价不是简单的成本加成，而是经营目标、成本结构与市场策略的综合博弈。本文从业务目标、成本测算到销量预估，拆解商品定价的完整逻辑，帮助产品经理在利润、规模与投入回收之间找到平衡点，让价格真正支撑商业成功。上一篇讨论产品商品化时，其中一个小节讲到了商品定价，一个产品要真正作为商品进入市场，除了明确卖给谁、卖什么、怎么交付，还需要形成相应的标准报价、计价说明和价格调整规则。当时主要讨论的是商品化过程...",
+          "published_at": "2026-10-12T09:12:54"
         }
       ]
     },
@@ -302,43 +383,25 @@
     },
     {
       "category": "产品发现",
-      "count": 4,
+      "count": 2,
       "items": [
         {
-          "title": "SimpleSpread",
-          "url": "https://www.producthunt.com/products/simplespread",
-          "author": "Matt Sergeant",
+          "title": "Kudos 3.0",
+          "url": "https://www.producthunt.com/products/kudos-smart-wallet",
+          "author": "Tikue Anazodo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Native, open source Mac spreadsheetDiscussion|Link",
-          "published_at": "2026-10-09T00:21:08"
+          "summary": "The AI that finds money you're missing and gets it backDiscussion|Link",
+          "published_at": "2026-10-12T01:58:06"
         },
         {
-          "title": "Gboard Kurukuru Version",
-          "url": "https://www.producthunt.com/products/google",
-          "author": "Zac Zuo",
+          "title": "guilds.run",
+          "url": "https://www.producthunt.com/products/guilds-run",
+          "author": "Kate Ramakaieva",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Your fingers stay put. The keys come aroundDiscussion|Link",
-          "published_at": "2026-10-11T04:14:18"
-        },
-        {
-          "title": "FocusWrite",
-          "url": "https://www.producthunt.com/products/focuswrite",
-          "author": "Hein Htoo Htoo Kyaw",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "A local-first writing app with focus modes.Discussion|Link",
-          "published_at": "2026-10-10T07:08:24"
-        },
-        {
-          "title": "Farol",
-          "url": "https://www.producthunt.com/products/farol-3",
-          "author": "Lucas Neves Pereira",
-          "category": "产品发现",
-          "source": "Product Hunt",
-          "summary": "The macOS terminal that shows which coding agent needs youDiscussion|Link",
-          "published_at": "2026-10-10T10:38:06"
+          "summary": "Create multi-agent workflows that you can trustDiscussion|Link",
+          "published_at": "2026-10-09T09:50:52"
         }
       ]
     },
@@ -398,6 +461,24 @@
       "count": 6,
       "items": [
         {
+          "title": "派评 | 近期值得关注的 App",
+          "url": "https://sspai.com/post/115934",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "published_at": "2026-10-12T09:30:00"
+        },
+        {
+          "title": "iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注",
+          "url": "https://sspai.com/post/115242",
+          "author": "ElijahLee",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "iOS 27 对家长控制和儿童账户体系进行了进一步完善，让对儿童的设备管理从过去偏重「限制监控」，逐步转向更加系统级别的「管理保护」。查看全文",
+          "published_at": "2026-10-12T07:00:00"
+        },
+        {
           "title": "怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小",
           "url": "https://sspai.com/post/114821",
           "author": "随便好啦",
@@ -432,24 +513,6 @@
           "source": "少数派",
           "summary": "把决定使用时长的时机，放到每次打开应用之前。查看全文",
           "published_at": "2026-10-10T02:19:52"
-        },
-        {
-          "title": "本周看什么 | 最近值得一看的 11 部作品",
-          "url": "https://sspai.com/post/115566",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "📅本周新预告《寒夜怪谈》新预告10月1日，电影《寒夜怪谈》发布了新预告，将于11月13日在北美上映。缇·威斯特（《X》《珀尔》《玛克辛》）执导，约翰尼·德普回归奇幻巨制，将狄更斯名著《圣诞颂歌》改编为 ...查看全文",
-          "published_at": "2026-10-09T10:04:09"
-        },
-        {
-          "title": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
-          "url": "https://sspai.com/post/115456",
-          "author": "Microhoo",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "让生活里的寻常片刻，在被轻松记录的同时依然经得起回味。查看全文",
-          "published_at": "2026-10-09T06:43:28"
         }
       ]
     }
