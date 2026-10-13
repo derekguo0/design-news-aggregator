@@ -1,24 +1,42 @@
 {
   "date": "2026-10-13T00:00:00",
-  "total_items": 50,
+  "total_items": 54,
   "sources": [
-    "A List Apart",
-    "Sidebar",
-    "少数派",
-    "Awwwards",
-    "UX Design CC",
-    "NN/g (Nielsen Norman Group)",
-    "Design Milk",
-    "Product Hunt",
     "UX Planet",
+    "Product Hunt",
+    "少数派",
+    "Sidebar",
+    "UX Design CC",
+    "Awwwards",
+    "NN/g (Nielsen Norman Group)",
+    "A List Apart",
+    "Design Milk",
     "人人都是产品经理"
   ],
-  "generated_at": "2026-10-13T06:07:31.844218",
+  "generated_at": "2026-10-13T19:03:23.429675",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 7,
+      "count": 10,
       "items": [
+        {
+          "title": "The synth everyone owned and few could program: a lesson for AI design",
+          "url": "https://uxdesign.cc/the-synth-everyone-owned-and-few-could-program-a-lesson-for-ai-design-6f618ec2aea0?source=rss----138adf9c44c---4",
+          "author": "Mathieu Poli",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "AI made quality available to everyone, and made it average. What sets work apart now is a decision you can see.An AI assistant helped me write this. The ideas, the data and the final edit are mine.E.P...",
+          "published_at": "2026-10-13T09:03:24"
+        },
+        {
+          "title": "What are we willing to sacrifice for AI?",
+          "url": "https://uxdesign.cc/what-are-we-willing-to-sacrifice-for-ai-a57736f368a1?source=rss----138adf9c44c---4",
+          "author": "Michael Buckley",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Three paths forward, each challenging what we value most.Photo byJosh JohnsononUnsplashI suspect artificial intelligence may eventually accomplish what generations of socialists have struggled to achi...",
+          "published_at": "2026-10-13T07:30:43"
+        },
         {
           "title": "Secret agent bot: accessibility matters for the agents even if you can’t see them",
           "url": "https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9?source=rss----138adf9c44c---4",
@@ -63,6 +81,15 @@
           "source": "UX Design CC",
           "summary": "Weekly curated resources for designers — thinkers and makers.“Today, my house and life are painfully void of craft. I live in a new build with pumped out, builder-grade (aka cheap) materials. I have p...",
           "published_at": "2026-10-12T09:07:53"
+        },
+        {
+          "title": "Want to Make Product Development with Claude Code More Predictable? Use Agent Skills!",
+          "url": "https://uxplanet.org/want-to-make-product-development-with-claude-code-more-predictable-use-agent-skills-f37d056f67cc?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "If you use Claude Code for product design and development, you know that AI performance can be inconsistent. Sometimes it works…Continue reading on UX Planet »",
+          "published_at": "2026-10-13T12:08:06"
         },
         {
           "title": "5 Best Claude Code Mods You Should Try in 2026",
@@ -149,6 +176,33 @@
       "count": 11,
       "items": [
         {
+          "title": "A Brooklyn Brownstone Trades Restraint for Color and Character",
+          "url": "https://design-milk.com/baao-brooklyn-brownstone-renovation/",
+          "author": "Adrian Madlener",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Barker Associates Architecture Office pairs preserved architectural details with saturated hues, custom woodwork, and contemporary art in a four-story Clinton Hill home for empty nesters",
+          "published_at": "2026-10-13T16:03:57"
+        },
+        {
+          "title": "Beyond the Feed: Why an iF DESIGN AWARD Win Carries Lasting Recognition",
+          "url": "https://design-milk.com/if-design-award-2027-submission-deadline/",
+          "author": "Design Milk Staff",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Outlast the algorithm and claim lasting industry credibility by submitting to the iF DESIGN AWARD 2027 before the final deadline on Nov. 2, 2026.",
+          "published_at": "2026-10-13T14:30:26"
+        },
+        {
+          "title": "Kozo Transforms Peninsula London’s Cars into a Moving Art Exhibition",
+          "url": "https://design-milk.com/peninsula-london-art-fleet-kozo/",
+          "author": "Misha Agostinelli",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Six signature green vehicles become one continuous visual story, with illustrated landscapes and hotel motifs fitted around each car’s existing curves and contours",
+          "published_at": "2026-10-13T12:00:04"
+        },
+        {
           "title": "Sherwin-Williams’ 2027 Color of the Year Takes a Lighter Approach to Green",
           "url": "https://design-milk.com/sherwin-williams-2027-color-of-the-year-celery/",
           "author": "Design Milk Staff",
@@ -176,76 +230,49 @@
           "published_at": "2026-10-12T22:08:09"
         },
         {
-          "title": "B+N Industries Builds Its Modular Systems to Keep Evolving After Installation",
-          "url": "https://design-milk.com/bn-industries-builds-its-modular-systems-to-keep-evolving-after-installation/",
-          "author": "Hayley Arsenault",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Across System 1224, Sorbetti 2.0, and Muro, B+N Industries designs modular frameworks that expand, reconfigure, and take on new roles years after they first go up",
-          "published_at": "2026-10-12T17:09:40"
-        },
-        {
-          "title": "Walnut and Leather Meet at the Seams of Eureka Ergonomic’s Arundel Collection",
-          "url": "https://design-milk.com/walnut-and-leather-meet-at-the-seams-of-eureka-ergonomics-arundel-collection/",
-          "author": "Hayley Arsenault",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "Walnut, leather, stone, and brass shape a new collection for the home, debuting at High Point Market this fall",
-          "published_at": "2026-10-12T13:33:12"
-        },
-        {
-          "title": "Ry Van Der Hout Reassembles Memory in ‘In Broken Light’",
-          "url": "https://design-milk.com/in-broken-light-ry-van-der-hout/",
-          "author": "Bianca Weeko Martin",
-          "category": "产品设计",
-          "source": "Design Milk",
-          "summary": "At Toronto’s Spadina Museum, shattered mirrors, stained glass, photography, and sound turn fragments of family history into five site-specific interventions",
-          "published_at": "2026-10-11T01:14:25"
-        },
-        {
-          "title": "一句话做出一个多人游戏：3个人，吸引了 2.5万创作者和 13万玩家",
-          "url": "https://www.woshipm.com/chuangye/6475500.html",
-          "author": "张艾拉",
+          "title": "从“会用 AI ”到“会做 AI 产品”，中间差的是什么？",
+          "url": "https://www.woshipm.com/ai/6476806.html",
+          "author": "黄哈哈哈",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "在平台上写一句话，比如做一个四个人玩的厨房大战，几分钟之后，一个真的可以玩的多人游戏就出来了：有角色、有规则、有计分，生成一个网页链接扔进群里，其他人点开就能直接玩。团队只有 3 个人，平台已有超过 2.5万名创作者。我之前分享过很多 AI 做游戏的产品，今天也是一家面向消费者的 AI 游戏制作公司：Instaplay，https://www.instaplay.ai/你可能会说，这类型产品太多了...",
-          "published_at": "2026-10-13T03:45:34"
+          "summary": "当AI把“周五再决定要不要采购”整理成“周五前完成采购”，产品含义完全变了。本文从真实会议场景出发，拆解AI会议任务提取的六个关键维度，强调保留原句、人工核对与证据链的重要性，告诉你从“会用AI”到“会做AI”的核心差距。“周五再决定要不要采购。”系统把它整理成了：“周五前完成采购。”就这么几个字，产品含义全变了。前一句是会议里的待定事项，后一句是一个带截止时间的任务。谁负责、什么时候交、算不算已...",
+          "published_at": "2026-10-13T09:19:40"
         },
         {
-          "title": "腾讯、阿里、字节的AI，开始围剿携程？",
-          "url": "https://www.woshipm.com/ai/6477253.html",
-          "author": "怪哥",
+          "title": "花了一年时间，我是如何把品牌抖音体量翻三倍的？",
+          "url": "https://www.woshipm.com/share/6477473.html",
+          "author": "JoannaWang",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "图片由AI生成，纯属娱乐最近，腾讯、阿里、字节都在密集布局 Personal Agent（个人智能体），一个个都想成为用户的私人 AI 管家。看着这些消息，我突然想到一个问题：如果以后每个人都有自己的 AI 管家，可以直接帮我们订机票、酒店、打车、规划旅行，那携程这样的独立App，还有多少存在的必要？举个例子。下个月准备带家人去成都玩三天。以前，我可能要先去小红书找攻略，再打开携程比较机票和酒店，...",
-          "published_at": "2026-10-13T03:35:43"
+          "summary": "实体餐饮连锁如何借抖音实现线上GMV翻三倍？本文作者复盘一年实战：从品牌基础框架搭建、加盟门店规则制定，到新店开业营销模板复制，再到视频带货与直播的精细化运营，拆解如何将1100万盘子做到3600万。核心逻辑与可复制方法，值得每位操盘手细读。接手的是家依托于实体门店的餐饮连锁品牌。25年中体量大概在80家左右，目前110多家（中型连锁正餐），增量不到30%。重点讲讲我是如何花一年时间把一盘散沙的抖...",
+          "published_at": "2026-10-13T09:04:44"
         },
         {
-          "title": "灵光2.0，国内首个大厂Personal Agent来了",
-          "url": "https://www.woshipm.com/ai/6477064.html",
-          "author": "产品笔记",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "Meta 的 Muse、xAI 的 Grok Bot、OpenAI 的 Dots 把 Personal Agent 战场推到海外，但申请门槛高、主要连接海外邮箱与支付。灵光 2.0 把生活事务做成卡片并接入智能家居，成为国内第一个大厂级 Personal Agent。国外的 Personal AI Agent 打得火热。Meta 的 Muse，一骑绝尘。xAI 的 Grok Bot，OpenAI ...",
-          "published_at": "2026-10-13T03:11:02"
-        },
-        {
-          "title": "竞品分析的本质是找到解决问题的思路：定义、拆解、结论三步法",
-          "url": "https://www.woshipm.com/share/6476791.html",
-          "author": "策略人藏锋",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "竞品分析的本质是借别人的经验解决自己的问题，重点不是你看了多少东西，而是看完能得出什么结论。信息要扣题、分析要本质、结论要落地，从定义竞品范围，到拆解事实层、动机层与效果层。竞品分析的本质，是找到解决问题的思路。好的竞品分析，不在于你看了多少东西，而在于看完之后能得出什么结论，有什么解决方案。但很多人做着做着就跑偏了，内容很多结论很少，或者就是得出的结论就是总结表面现象，而不是深刻洞察。问题的本质...",
-          "published_at": "2026-10-13T02:14:08"
-        },
-        {
-          "title": "5 个 GitHub 上开源的稀奇古怪小玩意儿，这一届网友真天才。",
-          "url": "https://www.woshipm.com/share/6477077.html",
+          "title": "这 6 本 GitHub 上的开源 AI 宝典，那是相当有真东西。",
+          "url": "https://www.woshipm.com/ai/6477469.html",
           "author": "逛逛GitHub",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "五个在 GitHub 上开源的桌面小玩意儿：Desktop Cleaning 给 Mac 桌面铺一块能掀开的毛地毯、晾衣绳式截图条、能拿锤子砸屏幕的减压小游戏、菜单栏水族馆与等离子球，以及给应用窗口换花色的毛线球边框。01 桌面太乱，拿块地毯盖住笑死。这个叫 Desktop Cleaning 的项目，直接给 Mac 桌面铺了一块地毯，专门用来盖住乱七八糟的文件图标。鼠标拖过去，把那些文件一遮就清净...",
-          "published_at": "2026-10-13T02:13:16"
+          "summary": "六本在 GitHub 上开源的中文 AI 教材，从讲透 Agent 等于 LLM 加上下文加工具的《深入理解 AI Agent》，到把大模型算力账算明白的 AI Infra、蒲公英书第二版与通识版，以及谷歌 Agent 设计模式的 21 个模式中文译本。01 《深入理解 AI Agent》《深入理解 AI Agent：设计原理与工程实践》这本书挺不错的。这个开源项目包括 PDF、配图、EPUB 和...",
+          "published_at": "2026-10-13T09:01:48"
+        },
+        {
+          "title": "开源「红绿灯」提示语，解决Agent刹不住车浪费token额度的老毛病",
+          "url": "https://www.woshipm.com/ai/6477460.html",
+          "author": "卡尔的AI沃茨",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "Agent 从不会主动说做完了，每轮都抛来一批新的优化清单，一个半小时的需求拖成一下午。作者手搓了不到三百字的进度提示语，用绿黄红三色收尾：绿灯只记搁置项，黄灯给带证据的后续计划，红灯存档结束，额度也省下来了。我给Agent每次对话结尾加了三个emoji，把额度省下来了，也终于可以不需要被模型暗示把任务无限往下跑了。现在是凌晨两点，我盯着屏幕上的Claude Code和Codex窗口发呆。本来我是...",
+          "published_at": "2026-10-13T08:56:20"
+        },
+        {
+          "title": "蚂蚁灵光内测新版 Personal Agent：接管钉钉、遥控电脑，一手体验！",
+          "url": "https://www.woshipm.com/ai/6477455.html",
+          "author": "特工宇宙",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "新版灵光从生成个人应用转向带长期记忆、能主动推进长程任务的 AI 管家，给每个用户一台 24 小时运行的 Linux 云电脑。作者实测让它接管散落各处的自家 Agent，一句话把电脑上的文件发回来、一句话调用电脑上的 Agent。九月份，Personal Agent 突然“又”火了。这个赛道半年前已经热过一次：当时龙虾刚出来，所有人都在养龙虾，朋友圈、公众号每天都是各种养龙虾。但后来许多人部署过龙...",
+          "published_at": "2026-10-13T08:52:21"
         }
       ]
     },
@@ -365,34 +392,43 @@
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 4,
       "items": [
         {
-          "title": "Dropstone CLI",
-          "url": "https://www.producthunt.com/products/dropstone-cli",
-          "author": "Likhit Kumar V P",
+          "title": "Xiryn",
+          "url": "https://www.producthunt.com/products/xiryn",
+          "author": "sourav bera",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The self-learning coding agent for your terminalDiscussion|Link",
-          "published_at": "2026-10-11T19:00:02"
+          "summary": "The open-source personal agent that runs on your computerDiscussion|Link",
+          "published_at": "2026-10-12T08:12:38"
         },
         {
-          "title": "Cube Forms",
-          "url": "https://www.producthunt.com/products/cube-forms",
-          "author": "Bonan Kou",
+          "title": "Scape",
+          "url": "https://www.producthunt.com/products/scape-3",
+          "author": "Elliot Nash",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Forms that can be filled by agentsDiscussion|Link",
-          "published_at": "2026-10-11T08:49:11"
+          "summary": "Orchestrate agent fleets with custom tools built on macOSDiscussion|Link",
+          "published_at": "2026-10-11T22:09:39"
         },
         {
-          "title": "Scrape Anything by Context.dev",
-          "url": "https://www.producthunt.com/products/context-dev",
-          "author": "Ely",
+          "title": "Music Dawn",
+          "url": "https://www.producthunt.com/products/music-dawn",
+          "author": "Ted Broberg",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Turn any website into clean data with one API call.Discussion|Link",
-          "published_at": "2026-10-11T19:23:53"
+          "summary": "A recorder for musicians. Every idea sounds finished.Discussion|Link",
+          "published_at": "2026-10-12T07:10:35"
+        },
+        {
+          "title": "The Drive AI",
+          "url": "https://www.producthunt.com/products/the-drive-ai-2",
+          "author": "Bigyan Karki",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The AI agent that does the work on your filesDiscussion|Link",
+          "published_at": "2026-10-13T05:39:15"
         }
       ]
     },
@@ -401,49 +437,49 @@
       "count": 5,
       "items": [
         {
-          "title": "Put your meetings to work",
-          "url": "https://bit.ly/side-gra7",
+          "title": "The convergence of design",
+          "url": "https://www.lukew.com/ff/2166/the-convergence-of-design",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Meetings aren’t the problem. The challenge is everything that comes after them. Download Granola for free and use it in your next meeting.",
-          "published_at": "2026-10-12T03:05:00"
+          "summary": "You don't have to squint to see the pattern... but why?",
+          "published_at": "2026-10-13T07:39:13"
         },
         {
-          "title": "The designer’s constitution",
-          "url": "https://constitution.design/",
+          "title": "Designing Michelangelus",
+          "url": "https://microsoft.design/articles/designing-michelangelus/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A model for rethinking what makes a designer in the age of AI.",
-          "published_at": "2026-10-12T03:04:00"
+          "summary": "Inside the making of Michelangelus, a contemporary serif shaped by handwriting, architecture, and stone.",
+          "published_at": "2026-10-13T07:38:04"
         },
         {
-          "title": "Decorative images aren’t a thing",
-          "url": "https://adrianroselli.com/2026/10/decorative-images.html",
+          "title": "Is AI the end of math as we know it?",
+          "url": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Adding an image to a design, email, document, page, app, etc. is done for a reason.",
-          "published_at": "2026-10-12T03:03:00"
+          "summary": "Mathematicians are facing the sudden shift with grief, anger, and a desperate search for fresh ideas.",
+          "published_at": "2026-10-13T07:37:18"
         },
         {
-          "title": "Fluid functionalism",
-          "url": "https://www.fluidfunctionalism.com/",
+          "title": "Native page transitions on the web",
+          "url": "https://ssgoi.dev/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Open source UI components with satisfying hover.",
-          "published_at": "2026-10-12T03:02:00"
+          "summary": "Router-agnostic page transitions for React, Svelte, Vue, Solid, Angular, and Qwik.",
+          "published_at": "2026-10-13T07:36:28"
         },
         {
-          "title": "Worth building",
-          "url": "https://armstr.ng/writing/worth-building",
+          "title": "The people holding up the internet",
+          "url": "https://sheets.works/data-viz/holding-up-the-internet",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "What changes when a tool doesn’t have to pay for itself.",
-          "published_at": "2026-10-12T03:01:00"
+          "summary": "Four billion phones ask one text file what time it is. One lecturer keeps it in his spare time. We counted the rest.",
+          "published_at": "2026-10-13T07:35:28"
         }
       ]
     },
@@ -451,6 +487,24 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议",
+          "url": "https://sspai.com/post/116068",
+          "author": "Matrix机器人",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+          "published_at": "2026-10-13T09:00:00"
+        },
+        {
+          "title": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App",
+          "url": "https://sspai.com/post/115400",
+          "author": "Tp",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "在2018、2019年左右的少数派，大家曾有一段时间痴迷于折腾各种任务管理软件，我也是其中之一。经过这么多年，我尝试过世面上几乎所有知名的任务管理工具，从小而美的Things、Sorted到大而全的O ...查看全文",
+          "published_at": "2026-10-13T07:00:00"
+        },
         {
           "title": "迈上生态新台阶，首期 Apple 应用孵化器顺利收官",
           "url": "https://sspai.com/post/116028",
@@ -486,24 +540,6 @@
           "source": "少数派",
           "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
           "published_at": "2026-10-12T09:30:00"
-        },
-        {
-          "title": "iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注",
-          "url": "https://sspai.com/post/115242",
-          "author": "ElijahLee",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "iOS 27 对家长控制和儿童账户体系进行了进一步完善，让对儿童的设备管理从过去偏重「限制监控」，逐步转向更加系统级别的「管理保护」。查看全文",
-          "published_at": "2026-10-12T07:00:00"
-        },
-        {
-          "title": "怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小",
-          "url": "https://sspai.com/post/114821",
-          "author": "随便好啦",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "来看看一种消失已久的笔记本。查看全文",
-          "published_at": "2026-10-12T03:20:18"
         }
       ]
     }
