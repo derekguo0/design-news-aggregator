@@ -1,24 +1,33 @@
 {
   "date": "2026-10-14T00:00:00",
-  "total_items": 56,
+  "total_items": 58,
   "sources": [
-    "UX Planet",
-    "少数派",
+    "人人都是产品经理",
     "NN/g (Nielsen Norman Group)",
+    "UX Design CC",
     "Design Milk",
-    "Sidebar",
-    "Product Hunt",
     "Awwwards",
     "A List Apart",
-    "UX Design CC",
-    "人人都是产品经理"
+    "Product Hunt",
+    "Sidebar",
+    "UX Planet",
+    "少数派"
   ],
-  "generated_at": "2026-10-14T04:10:34.546373",
+  "generated_at": "2026-10-14T16:49:52.698793",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 12,
+      "count": 14,
       "items": [
+        {
+          "title": "How getting good at your job can stop you getting better",
+          "url": "https://uxdesign.cc/how-getting-good-at-your-job-can-stop-you-getting-better-023b6e7637ec?source=rss----138adf9c44c---4",
+          "author": "Dora Czerna",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Many experienced people plateau out of sight. Whether they keep growing depends partly on the problems they’re given to tackle.Continue reading on UX Collective »",
+          "published_at": "2026-10-14T08:53:49"
+        },
         {
           "title": "Taste is not a design methodology",
           "url": "https://uxdesign.cc/taste-is-not-a-design-methodology-e02b37aea148?source=rss----138adf9c44c---4",
@@ -99,6 +108,15 @@
           "source": "UX Design CC",
           "summary": "Weekly curated resources for designers — thinkers and makers.“Today, my house and life are painfully void of craft. I live in a new build with pumped out, builder-grade (aka cheap) materials. I have p...",
           "published_at": "2026-10-12T09:07:53"
+        },
+        {
+          "title": "Reverse Engineer Anything: What the Viral GitHub Repo Actually Does",
+          "url": "https://uxplanet.org/reverse-engineer-anything-what-the-viral-github-repo-actually-does-c5ea949123a5?source=rss----819cc2aaeee0---4",
+          "author": "Nick Babich",
+          "category": "用户体验设计",
+          "source": "UX Planet",
+          "summary": "A hands-on take on REA, the tool for Claude Code and Codex that lets it decompile apps, the benefits this tool brings, and the limitations…Continue reading on UX Planet »",
+          "published_at": "2026-10-14T13:30:17"
         },
         {
           "title": "Want to Make Product Development with Claude Code More Predictable? Use Agent Skills!",
@@ -248,49 +266,49 @@
           "published_at": "2026-10-13T00:55:51"
         },
         {
-          "title": "停车超时1分钟，是停车平台被低估的增长缝隙",
-          "url": "https://www.woshipm.com/share/6477958.html",
-          "author": "蜗牛",
+          "title": "月薪6万招AI转型负责人，品牌总监能去干吗？",
+          "url": "https://www.woshipm.com/share/6478116.html",
+          "author": "品牌的旁光",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "停车超时1分钟多付5块钱，这种“零头时刻”让用户扎心，却是智慧停车平台被忽视的运营盲点。本文从提醒、透明、顺滑、回看四个维度，拆解如何帮用户省下“多付的那一档”，把信任变成平台竞争力。你有没有遇到过这样的场景：想去商场买杯咖啡，前后感觉不到30分钟，出场时却刚好31分钟，付了一个小时的停车费；有的时候明明可以整点内离场，却因为等电梯，找缴费二维码，眼睁睁看着停车费从3块跳到了5块。很多时候不是停车...",
-          "published_at": "2026-10-14T03:20:00"
+          "summary": "4 万到 6 万月薪、年薪能到百万，越来越多企业在高薪招 AI 转型负责人。翻完几份招聘要求会发现，这个岗位的核心不是开发技术，而是把技术趋势翻译成可落地的业务流程改造：做业务诊断、技术选型、跨部门协调，还要对结果负责。最近，越来越多的企业，开始高薪招聘AI转型负责人。4万—6万元的月薪是常态，更高的甚至年薪能达到了百万级别。说实话，看到这些招聘信息，我突然想到一个问题：品牌总监，能不能转型去干A...",
+          "published_at": "2026-10-14T09:06:35"
         },
         {
-          "title": "AIOS×快递100：智能终端触手可及的AI快递物流基础设施",
-          "url": "https://www.woshipm.com/share/6477994.html",
-          "author": "Aine",
+          "title": "小红书横测笔记收紧，对比类内容该如何表达",
+          "url": "https://www.woshipm.com/share/6478079.html",
+          "author": "Vic的营销思考",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当AIOS成为智能终端的新入口，快递物流服务正从APP里被\"解放\"出来。快递100以「果宝」智能体与MCP、Skill等原子化能力嵌入鸿蒙、荣耀、vivo、OPPO生态，让\"一句话查寄快递\"成为系统级体验。本文拆解其端云协同方法论与生态共创路径，看垂域服务如何成为AIOS时代的服务分发新样本。从云端大模型到端侧智能体，AI正在加速进入真实的智能终端应用场景。2026年7月，国家网信办公布了7款提供...",
-          "published_at": "2026-10-14T03:14:26"
+          "summary": "小红书已经针对横测笔记上线三版规则，自然流吃不到，投流还卡审。文章给出的做法是先把选品做对：从相关笔记和电商问答里的「纠结」「二选一」收集真实犹豫点，选三四款用户真的会放在一起比较的产品；拍摄则放弃逐款介绍，改按同一个使用过程分段对照。横向测评可以说是小红书最有说服力的内容形式因为效果太好，也衍生了很多笔记里的“黑灰产”，有一些商家通过P图和恶意拉踩的方式来给自家产品种草于是就有了官方对于横测笔记...",
+          "published_at": "2026-10-14T09:06:28"
         },
         {
-          "title": "年轻人捧火的“大水理论”，救不了怡宝们",
-          "url": "https://www.woshipm.com/it/6477839.html",
-          "author": "山农下山",
+          "title": "WorkBuddy大更新，上线浏览器操控能力",
+          "url": "https://www.woshipm.com/ai/6478181.html",
+          "author": "产品笔记",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "年轻人捧红“大水理论”，1.5~2升瓶装水成新顶流，但卖水生意却更难做了。价格战、渠道饱和、消费认知薄弱，让传统水企陷入内卷。本文从“大水”现象切入，拆解饮用水赛道的竞争困局与行业变局，看健康风潮下谁在裸泳。01 大水崛起饮品界最近又出了一个 “顶流” 单品，不来自奶茶界，不来自饮料界，只是最简单的 —— 水。但也不是随便哪一种水都行，而是特定指向 “大水”，即 1.5~2 升的瓶装水。这源于一位...",
-          "published_at": "2026-10-14T02:57:43"
+          "summary": "WorkBuddy 上线浏览器操控能力，Beta 公测，支持 Chrome、Edge 与 QQ 浏览器。它能自己开标签页组执行搜索、下载、去水印，遇到安全验证滑块这类敏感操作则交回给你确认。作者认为这意味着人和浏览器的交互被换成了人与 Agent 的交互。WorkBuddy 更新，最新版中上线了一个实用的大功能：让 WorkBuddy 控制浏览器。目前该功能，处于 Beta 公测版。支持 Chro...",
+          "published_at": "2026-10-14T09:06:26"
         },
         {
-          "title": "WorkBuddy × 企业微信深度融合：连接企业经营“全域上下文”",
-          "url": "https://www.woshipm.com/ai/6477882.html",
-          "author": "Aine",
+          "title": "实测Gemini 4 Argon写作能力，百万上下文竟恐怖如斯",
+          "url": "https://www.woshipm.com/ai/6478176.html",
+          "author": "卡尔的AI沃茨",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "企业微信与 WorkBuddy 的深度融合，让 AI 真正嵌入日常办公流。从消息整理、文档引用到任务执行与结果同步，十大能力覆盖协作全链路。本文拆解其产品逻辑，看 AI 如何在不改变工作习惯的前提下，成为企业通讯录里的新同事。WorkBuddy 与企业微信深度融合：现在，WorkBuddy 客户端可在企业授权范围内调用消息、文档、会议、微盘等十大能力，完成深度分析、复杂文档处理等任务；同时以对话机...",
-          "published_at": "2026-10-14T02:38:30"
+          "summary": "Gemini 4 Argon 把输入输出窗口统一到 100 万，输出上限从 64K 提上来，写作强调直接、不套话。实测让模型给自己写小说：单章六万多字一气呵成不断层，跑分带上高思考模式拿下初榜魁首，编程重构也有斩获。都说Google这次的Gemini 4 Argon统一了100 万的输入输出窗口（之前的输出上限只有 64K）。写作能力有明显的提升，强调回答更直接，没有套话和陈词滥调，能够更好遵循我...",
+          "published_at": "2026-10-14T09:03:13"
         },
         {
-          "title": "我给 Codex 装了个神仙 Skill，一键解锁 327 种手绘风格、165 种排版图型！",
-          "url": "https://www.woshipm.com/ai/6477614.html",
-          "author": "萤柳",
+          "title": "真正的出海，不是把产品卖到海外，而是把企业重做成全球组织",
+          "url": "https://www.woshipm.com/share/6478149.html",
+          "author": "ToB SaaS大D",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "一个叫 handraw-style 的 Skill 整理了 327 种手绘风格、165 种排版图型与 36 种经典单色主题色。选好风格编号、排版编号和主题色再给出主题，就能拿到实测过的中英双语生图提示词，粘进支持生图的 AI 工具即可出图，省去描述画风的麻烦。最近发现一个Skill，叫handraw-style。不会描述画风？排不好版面构图？选个编号，一键生成极具辨识度的 AI 生图提示词。这个S...",
-          "published_at": "2026-10-14T02:18:52"
+          "summary": "当AI能自动生成产品方案、核验供应商、批量询盘，出海是否就高枕无忧？本文犀利指出：AI尚未替你完成最关键的一步——决定向谁下单。真正的出海，不是把更多工作交给AI，而是重新划分自动化与人类责任的边界，从信任构建、结果交付、组织协同、内容重构到数据合规，层层拆解全球化能力的核心命题。一个海外采购商想开发一款新的家居产品。过去，他可能需要先找设计师，再找供应商，再发询盘，再比较报价，最后把样品、合规文...",
+          "published_at": "2026-10-14T09:02:47"
         }
       ]
     },
@@ -413,40 +431,40 @@
       "count": 4,
       "items": [
         {
-          "title": "OpenCode 2.0",
-          "url": "https://www.producthunt.com/products/opencode",
+          "title": "Confidence by Spotify",
+          "url": "https://www.producthunt.com/products/spotify",
           "author": "Chris Messina",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The open source AI coding agentDiscussion|Link",
-          "published_at": "2026-10-12T20:08:47"
+          "summary": "Build products at full speed, with both hands on the wheelDiscussion|Link",
+          "published_at": "2026-10-12T14:15:03"
         },
         {
-          "title": "Music Dawn",
-          "url": "https://www.producthunt.com/products/music-dawn",
-          "author": "Ted Broberg",
+          "title": "Exodus for Google Cloud Run",
+          "url": "https://www.producthunt.com/products/exodus-by-elim-io",
+          "author": "Abdugafur Ali",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A recorder for musicians. Every idea sounds finished.Discussion|Link",
-          "published_at": "2026-10-12T07:10:35"
+          "summary": "Upgrade any app to Cloud Run, with your coding agentDiscussion|Link",
+          "published_at": "2026-10-13T09:40:26"
         },
         {
-          "title": "Google Fitbit Edge",
-          "url": "https://www.producthunt.com/products/google-fit-2",
-          "author": "Rohan Chaubey",
+          "title": "AdAnt 2.0",
+          "url": "https://www.producthunt.com/products/adant-ai",
+          "author": "Justin Jincaid",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Google’s smartest fitness tracker ever with 7-day batteryDiscussion|Link",
-          "published_at": "2026-10-12T16:19:58"
+          "summary": "Muse for Social Media MarketingDiscussion|Link",
+          "published_at": "2026-10-13T07:51:30"
         },
         {
-          "title": "Xiryn",
-          "url": "https://www.producthunt.com/products/xiryn",
-          "author": "sourav bera",
+          "title": "daily.dev",
+          "url": "https://www.producthunt.com/products/daily-dev",
+          "author": "fmerian",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The open-source personal agent that runs on your computerDiscussion|Link",
-          "published_at": "2026-10-12T08:12:38"
+          "summary": "Where agents discover what's nextDiscussion|Link",
+          "published_at": "2026-10-12T18:30:13"
         }
       ]
     },
@@ -455,49 +473,49 @@
       "count": 5,
       "items": [
         {
-          "title": "The convergence of design",
-          "url": "https://www.lukew.com/ff/2166/the-convergence-of-design",
+          "title": "Grieving the loss of details",
+          "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "You don't have to squint to see the pattern... but why?",
-          "published_at": "2026-10-13T07:39:13"
+          "summary": "Over the course of a year, I went from having a planned future to worrying about applying for disability.",
+          "published_at": "2026-10-14T06:28:14"
         },
         {
-          "title": "Designing Michelangelus",
-          "url": "https://microsoft.design/articles/designing-michelangelus/",
+          "title": "A flame needs three sine waves",
+          "url": "https://www.carmenansio.com/articles/matchstick-flame-canvas/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Inside the making of Michelangelus, a contemporary serif shaped by handwriting, architecture, and stone.",
-          "published_at": "2026-10-13T07:38:04"
+          "summary": "How a few pencil sketches turned into a matchstick you can strike, and why the flicker needed three sine waves instead of one.",
+          "published_at": "2026-10-14T06:25:40"
         },
         {
-          "title": "Is AI the end of math as we know it?",
-          "url": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
+          "title": "Energy icons",
+          "url": "https://energyicons.com/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Mathematicians are facing the sudden shift with grief, anger, and a desperate search for fresh ideas.",
-          "published_at": "2026-10-13T07:37:18"
+          "summary": "Open-source icon library for the renewable energy and energy-transition sector. Two optical masters, scaled — never redrawn.",
+          "published_at": "2026-10-14T06:24:43"
         },
         {
-          "title": "Native page transitions on the web",
-          "url": "https://ssgoi.dev/",
+          "title": "Inside Anthropic’s design team",
+          "url": "https://designerfund.com/blog/ai-design-anthropic",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Router-agnostic page transitions for React, Svelte, Vue, Solid, Angular, and Qwik.",
-          "published_at": "2026-10-13T07:36:28"
+          "summary": "How Anthropic’s design team is adapting to a widening velocity gap between eng and design.",
+          "published_at": "2026-10-14T06:24:04"
         },
         {
-          "title": "The people holding up the internet",
-          "url": "https://sheets.works/data-viz/holding-up-the-internet",
+          "title": "Anatomy",
+          "url": "https://skills.wheresryan.sh/anatomy",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Four billion phones ask one text file what time it is. One lecturer keeps it in his spare time. We counted the rest.",
-          "published_at": "2026-10-13T07:35:28"
+          "summary": "A Claude skill that draws an idea as the real machine that does it: a live isometric figure you can turn, press and read.",
+          "published_at": "2026-10-14T06:22:54"
         }
       ]
     },
@@ -505,6 +523,42 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "认知心理学背后的播客剪辑技巧",
+          "url": "https://sspai.com/post/114861",
+          "author": "知道分子吴先先",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "为什么剪辑时会时常出现爆音？为什么有些地方剪辑后意思接得上，听起来却觉得别扭？为什么有些地方稍微动一下就会不自然？查看全文",
+          "published_at": "2026-10-14T09:33:49"
+        },
+        {
+          "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+          "url": "https://sspai.com/post/115426",
+          "author": "Vanilla",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "这些新技术将如何让我们的照片和视频更好？查看全文",
+          "published_at": "2026-10-14T07:00:00"
+        },
+        {
+          "title": "家中、这里、那里——Sonos Play 体验",
+          "url": "https://sspai.com/post/115382",
+          "author": "mivansaka",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "本文是少数派联合Sonos发起的SonosPlay众测活动「最佳体验官」奖项获奖文章，奖品为免费保留两台送测的SonosPlay。你可以从众测话题页看到其他参与者的作品。目前，Sonos众测活动第二期 ...查看全文",
+          "published_at": "2026-10-14T04:10:30"
+        },
+        {
+          "title": "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam Ultra 与 Ace Ultra 抢先体验",
+          "url": "https://sspai.com/post/116109",
+          "author": "挨石",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "上一轮SonosPlay众测结果已经出来了，恭喜这三位作者！最佳体验官：mivansaka：家中、这里、那里——SonosPlay体验；优秀体验官：带电的泡芙：SonosPlay深度体验：音质喜人，功 ...查看全文",
+          "published_at": "2026-10-14T03:57:01"
+        },
         {
           "title": "已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒",
           "url": "https://sspai.com/post/92653",
@@ -522,42 +576,6 @@
           "source": "少数派",
           "summary": "Apple Watch 在中国大陆推出睡眠呼吸暂停迹象提示功能、Google 发布 Gemini 4 Argon 等。查看全文",
           "published_at": "2026-10-14T00:40:39"
-        },
-        {
-          "title": "社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议",
-          "url": "https://sspai.com/post/116068",
-          "author": "Matrix机器人",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
-          "published_at": "2026-10-13T09:00:00"
-        },
-        {
-          "title": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App",
-          "url": "https://sspai.com/post/115400",
-          "author": "Tp",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "在2018、2019年左右的少数派，大家曾有一段时间痴迷于折腾各种任务管理软件，我也是其中之一。经过这么多年，我尝试过世面上几乎所有知名的任务管理工具，从小而美的Things、Sorted到大而全的O ...查看全文",
-          "published_at": "2026-10-13T07:00:00"
-        },
-        {
-          "title": "迈上生态新台阶，首期 Apple 应用孵化器顺利收官",
-          "url": "https://sspai.com/post/116028",
-          "author": "waychane",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "为成熟的开发者、设计师和创业者，提供一片走向广阔商业市场的沃土。查看全文",
-          "published_at": "2026-10-13T03:30:05"
-        },
-        {
-          "title": "高端，不只是材质而已：Apple Watch Edition 的前世今生",
-          "url": "https://sspai.com/post/114561",
-          "author": "秋风花雨落",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Apple Watch Edition 留下来的，不是一种材料，而是一套做材料的方式。查看全文",
-          "published_at": "2026-10-13T03:09:17"
         }
       ]
     }
