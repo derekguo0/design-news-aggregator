@@ -1,19 +1,18 @@
 {
   "date": "2026-10-15T00:00:00",
-  "total_items": 57,
+  "total_items": 54,
   "sources": [
-    "Design Milk",
-    "NN/g (Nielsen Norman Group)",
-    "少数派",
-    "Awwwards",
-    "Product Hunt",
-    "Sidebar",
     "UX Design CC",
-    "人人都是产品经理",
+    "Design Milk",
     "UX Planet",
+    "Sidebar",
+    "Product Hunt",
+    "人人都是产品经理",
+    "少数派",
+    "NN/g (Nielsen Norman Group)",
     "A List Apart"
   ],
-  "generated_at": "2026-10-15T03:53:10.035870",
+  "generated_at": "2026-10-15T16:35:51.634207",
   "categories": [
     {
       "category": "用户体验设计",
@@ -266,55 +265,55 @@
           "published_at": "2026-10-13T00:55:51"
         },
         {
-          "title": "用杜邦分析法/指标拆解法开经营分析会",
-          "url": "https://www.woshipm.com/share/6478532.html",
-          "author": "詹师兄",
+          "title": "对话OpenAI产品负责人：当模型三个月迭代一次，跟不上前沿研究的 PM 只是假装在做产品",
+          "url": "https://www.woshipm.com/ai/6478995.html",
+          "author": "Z Finance",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "很多餐饮品牌几乎每个月都会开经营分析会，财务和运营准备几十页 PPT 逐页汇报，会开完了大家还是不知道接下来怎么做。真正的经营分析要走完发现差距、找到原因、定下动作、责任到人、跟踪结果这条链路，比如用杜邦分析法把净利润逐层拆解。很多餐饮品牌公司几乎每个月都会开经营分析会，然后运营以及财务的同事就会准备几十页的PPT，或者是有很多个sheet页的Excel表格，逐页汇报营业收入、成本、利润、各渠道收...",
-          "published_at": "2026-10-15T03:32:46"
+          "summary": "当 AI 开始承担越来越多的执行工作，产品经理、工程师和设计师的价值将如何变化？在这期 Lenny’s Podcast 中，负责 OpenAI Codex 与 ChatGPT Work 产品的 Tara Seshan，分享了她在 AI 产品开发一线的观察。加入 OpenAI 之前，她曾在 Stripe 工作六年，是公司最早的五位产品经理之一，也曾负责 Watershed 的产品，并有过创业和担任投...",
+          "published_at": "2026-10-15T12:50:36"
         },
         {
-          "title": "双11，又“热闹”起来了？",
-          "url": "https://www.woshipm.com/it/6478416.html",
-          "author": "山农下山",
+          "title": "OpenAI 迟到 21 天，一出手就奔着 Meta 命门去了",
+          "url": "https://www.woshipm.com/ai/6478789.html",
+          "author": "运营官张沐",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "走访了义乌国际商贸城、东莞大朗毛纺织市场、四季青与河北清河羊毛衫市场，作者发现靠流量爆款和低价换销量的玩法正在退场。今年4月落地的《互联网平台价格行为规则》明确禁止平台强制商家「全网最低价」，双11的期待也不再是去库存与捡漏。01 电商到了最难的时候，可能也是最好的时候流量爆款。这大概是过去几年里电商人最爱又最恨的一个词。从义乌国际商贸城、东莞大朗毛纺织批发市场、四季青服装市场到河北清河羊毛衫大市...",
-          "published_at": "2026-10-15T03:25:40"
+          "summary": "Muse 登顶美区 App Store 三周后，OpenAI 在 DevDay 端出住在 ChatGPT 里的个人 agent dots。它不抢手机桌面，而是钻进 Slack 与 Teams，先绑定付费意愿最强的 Pro 用户，用四张获客牌和三层留存逻辑打这场入口战。Muse 九月八号发布，横扫美区 App Store 第一，21 天后，OpenAI 的反击来了。九月二十九号 DevDay，Sam...",
+          "published_at": "2026-10-15T10:53:59"
         },
         {
-          "title": "分享一个最近很惊艳的开源Skill，一句话让AI搓出任何原理的科普视频。",
-          "url": "https://www.woshipm.com/ai/6478517.html",
-          "author": "数字生命卡兹克",
+          "title": "闲鱼体验拆解：2.17亿月活背后的用户结构与信任难题",
+          "url": "https://www.woshipm.com/evaluating/6478754.html",
+          "author": "陆路",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "一个叫 Anatomy 的开源 Skill，设计理念只有一句「物体本身，就是解释」：它会把要理解的原理做成能运转、能交互的机械模型动画，比如机械手表的内部结构。作者再把动画交给 AI 配上讲解和配音，一轮直出就能做出机械表、显卡的科普视频。前两天发现了一个超棒的Skill，可能很多朋友也都刷到了。叫Anatomy，中文含义是深度剖析。这个东西，我觉得特别有意思。它的核心设计理念，只有一句话。The...",
-          "published_at": "2026-10-15T03:19:42"
+          "summary": "闲鱼月活突破2.17亿，稳坐闲置交易头把交椅，但繁荣背后暗流涌动。本文基于真机走查与真实纠纷案例，拆解其用户结构、四类典型画像与核心交易流程，揭示从二手工具到复合社区的演进逻辑，以及信任机制面临的深层挑战。闲鱼是阿里旗下以C2C 个人闲置交易为主、兼顾 B2C 回收与验货业务的二手交易平台，依托支付宝与芝麻信用解决线上二手交易的信任问题，是新品电商（淘宝）的互补平台。本报告基于用户结构数据、四类典...",
+          "published_at": "2026-10-15T09:30:55"
         },
         {
-          "title": "AgentHop：让你的 AI 和别人的 AI，直接开聊！",
-          "url": "https://www.woshipm.com/ai/6478511.html",
-          "author": "易安说AI",
+          "title": "从优势到依赖：关键人才如何悄悄锁死公司的第二块业务",
+          "url": "https://www.woshipm.com/share/6478745.html",
+          "author": "舒泽品牌手记",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "两台没有公网 IP 的电脑、两个不同厂商的 Agent，过去只能靠人复制上下文、粘贴消息、再把结果传回去。AgentHop 用一个配对码建立加密通道，让两个 Agent 直接对话，可接入 Claude Code、Codex、Cursor 等工具。两台没有公网 IP 的电脑，两个不同厂商的 Agent，过去通常只能靠人复制上下文、粘贴消息，再把结果传回去。AgentHop 提供了另一种方式：用一个配...",
-          "published_at": "2026-10-15T03:16:05"
+          "summary": "关键人才长期成为默认答案以后，公司会越来越习惯沿着过去验证过的经验继续判断。真要换个方向往下做，人怎么配、预算往哪投、什么先做，都得重新取舍。几年下来，组织选择会跟着收窄，很多方向即使还在讨论，也很难再拿到足够条件，跑出一个足以让公司拍板的结果。这几年做市场营销一号位，我一直在解决一件事儿：怎么把团队里的关键人才用好，又不让业务越来越离不开某一个人？一个人前面几次判断都准，下次碰到类似问题，一号位...",
+          "published_at": "2026-10-15T08:27:16"
         },
         {
-          "title": "AI Agent 开始真正干活了，政务产品应该怎么切入？",
-          "url": "https://www.woshipm.com/ai/6478505.html",
-          "author": "柳星聊产品",
+          "title": "AI浏览器的虚妄与可能：一次交互范式的回溯",
+          "url": "https://www.woshipm.com/ai/6478731.html",
+          "author": "发疯的超",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "OpenAI 发布 Agents API 公测版后，开发者可以让 Agent 持续执行复杂任务、调用不同工具，还能把一项工作拆给多个子智能体并行处理。放到政务产品上，难的并不是接入大模型，而是把业务拆成可执行步骤，并让每一步可被检查和追溯。最近，OpenAI 发布了 Agents API 公测版。相比过去调用模型、拼接提示词的开发方式，这次更值得关注的是：开发者可以让 Agent 持续执行复杂任务...",
-          "published_at": "2026-10-15T03:15:15"
+          "summary": "当全行业都在鼓吹AI浏览器战争时，我们是否只是在给旧世界镶金边？本文犀利指出，当前AI交互本质是场灾难，对话框把人类赶回命令行，而真正的革命尚未到来。从超链接的启示到未来载体的猜想，带你穿透喧嚣，看清AI浏览器的虚妄与可能。科技圈最近两年最大的默契，是假装革命已经完成了。不管是融资 PPT、产品发布会，还是 X 上的技术布道，几乎所有人都在争先恐后地兜售同一种叙事：AI 时代的浏览器战争已经打响，...",
+          "published_at": "2026-10-15T08:26:22"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 12,
+      "count": 6,
       "items": [
         {
           "title": "Designed for a Dead Language",
@@ -369,93 +368,66 @@
           "source": "A List Apart",
           "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
           "published_at": null
-        },
-        {
-          "title": "Huy Phan Vol.2",
-          "url": "https://www.awwwards.com/sites/huy-phan-vol-2",
-          "author": "Huy Phan",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Neutomni",
-          "url": "https://www.awwwards.com/sites/neutomni",
-          "author": "Neutomni",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Heron AI",
-          "url": "https://www.awwwards.com/sites/heron-ai",
-          "author": "Bearplus",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Nick Ho",
-          "url": "https://www.awwwards.com/sites/nick-ho",
-          "author": "BORING",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Maria Vasilyeva Portfolio",
-          "url": "https://www.awwwards.com/sites/maria-vasilyeva-portfolio",
-          "author": "Maria Vasilyeva",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
-        },
-        {
-          "title": "Odyssée",
-          "url": "https://www.awwwards.com/sites/odyssee",
-          "author": "NIGHTJAR",
-          "category": "网页设计",
-          "source": "Awwwards",
-          "summary": null,
-          "published_at": null
         }
       ]
     },
     {
       "category": "产品发现",
-      "count": 3,
+      "count": 6,
       "items": [
         {
-          "title": "Confidence by Spotify",
-          "url": "https://www.producthunt.com/products/spotify",
-          "author": "Chris Messina",
+          "title": "Audio Lip Sync Pro for Blender",
+          "url": "https://www.producthunt.com/products/audio-lip-sync-pro-for-blender",
+          "author": "Nick Fisher",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Build products at full speed, with both hands on the wheelDiscussion|Link",
-          "published_at": "2026-10-12T14:15:03"
+          "summary": "Generate high-quality facial animations, direct from audio.Discussion|Link",
+          "published_at": "2026-10-15T05:09:17"
         },
         {
-          "title": "AURORA Lifeline",
-          "url": "https://www.producthunt.com/products/aurora-lifeline",
-          "author": "Tushar Agarwal",
+          "title": "Basedash Connector gallery",
+          "url": "https://www.producthunt.com/products/basedash",
+          "author": "Max Musing",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Know who a cyclone will cut off, before the roads closeDiscussion|Link",
-          "published_at": "2026-10-13T17:35:59"
+          "summary": "See what you'll build before you connect a data sourceDiscussion|Link",
+          "published_at": "2026-10-14T21:32:02"
         },
         {
-          "title": "NoteHouse",
-          "url": "https://www.producthunt.com/products/notehouse-2",
-          "author": "Adam Cooper",
+          "title": "SuperLocalMemory",
+          "url": "https://www.producthunt.com/products/superlocalmemory-v2",
+          "author": "varun pratap Bhardwaj",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Private lending, without the paperwork headache.Discussion|Link",
-          "published_at": "2026-10-13T15:54:39"
+          "summary": "Agent memory with Laya, Jev + Google GemmaDiscussion|Link",
+          "published_at": "2026-10-13T19:43:21"
+        },
+        {
+          "title": "Kerno 1.0",
+          "url": "https://www.producthunt.com/products/kerno",
+          "author": "Karim Traiaia",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The AI Runtime Backend QA EngineerDiscussion|Link",
+          "published_at": "2026-10-12T13:19:36"
+        },
+        {
+          "title": "Chatway MCP",
+          "url": "https://www.producthunt.com/products/chatway",
+          "author": "Gal Dubinski",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Let ChatGPT & Claude answer customer support tickets via MCPDiscussion|Link",
+          "published_at": "2026-10-14T11:30:36"
+        },
+        {
+          "title": "CinemaLut",
+          "url": "https://www.producthunt.com/products/cinemalut",
+          "author": "Dil-Domine Jacobe Leonares",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Any frame's color, as a LUT for yours.Discussion|Link",
+          "published_at": "2026-10-14T21:20:59"
         }
       ]
     },
@@ -515,6 +487,42 @@
       "count": 6,
       "items": [
         {
+          "title": "新玩意 253｜少数派的编辑们最近买了啥？",
+          "url": "https://sspai.com/post/116246",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
+          "published_at": "2026-10-15T09:10:14"
+        },
+        {
+          "title": "顺应变化，重申标准：《少数派创作手册》修订说明",
+          "url": "https://sspai.com/post/116181",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "四年前，我们发布了《少数派创作手册》（manual.sspai.com），旨在让作者更快捷地获得创作过程中所需的信息，以及更一致地传达对于内容选编的标准和主张。四年来，《创作手册》获得了作者们的广泛查 ...查看全文",
+          "published_at": "2026-10-15T08:09:12"
+        },
+        {
+          "title": "学得会的快捷指令，零基础入门苹果效率魔法",
+          "url": "https://sspai.com/post/116182",
+          "author": "Tp",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "快捷指令一直被视为苹果用户必备的效率利器。不仅网络上已有大量的指令可供下载，如果能根据自己的需求，从零开始构建一条快捷指令，就不用在iPhone/Mac上频繁手动操作，可以节省大量时间。然而想要熟练掌 ...查看全文",
+          "published_at": "2026-10-15T06:30:00"
+        },
+        {
+          "title": "App+1｜Mangata：把每次散步当作一次探索旅行",
+          "url": "https://sspai.com/post/115238",
+          "author": "zac",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "不一定要拍满，也不一定要发。走完看看留下了什么，就够了。查看全文",
+          "published_at": "2026-10-15T03:00:00"
+        },
+        {
           "title": "派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等",
           "url": "https://sspai.com/post/116193",
           "author": "少数派编辑部",
@@ -531,42 +539,6 @@
           "source": "少数派",
           "summary": "为什么剪辑时会时常出现爆音？为什么有些地方剪辑后意思接得上，听起来却觉得别扭？为什么有些地方稍微动一下就会不自然？查看全文",
           "published_at": "2026-10-14T09:33:49"
-        },
-        {
-          "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
-          "url": "https://sspai.com/post/115426",
-          "author": "Vanilla",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "这些新技术将如何让我们的照片和视频更好？查看全文",
-          "published_at": "2026-10-14T07:00:00"
-        },
-        {
-          "title": "家中、这里、那里——Sonos Play 体验",
-          "url": "https://sspai.com/post/115382",
-          "author": "mivansaka",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "本文是少数派联合Sonos发起的SonosPlay众测活动「最佳体验官」奖项获奖文章，奖品为免费保留两台送测的SonosPlay。你可以从众测话题页看到其他参与者的作品。目前，Sonos众测活动第二期 ...查看全文",
-          "published_at": "2026-10-14T04:10:30"
-        },
-        {
-          "title": "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam Ultra 与 Ace Ultra 抢先体验",
-          "url": "https://sspai.com/post/116109",
-          "author": "挨石",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "上一轮SonosPlay众测结果已经出来了，恭喜这三位作者！最佳体验官：mivansaka：家中、这里、那里——SonosPlay体验；优秀体验官：带电的泡芙：SonosPlay深度体验：音质喜人，功 ...查看全文",
-          "published_at": "2026-10-14T03:57:01"
-        },
-        {
-          "title": "已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒",
-          "url": "https://sspai.com/post/92653",
-          "author": "北鸮",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "Apple Watch 打算让更多人意识到睡眠呼吸暂停的威胁，它是怎么做到的？查看全文",
-          "published_at": "2026-10-14T02:00:04"
         }
       ]
     }
