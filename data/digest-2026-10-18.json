@@ -1,25 +1,43 @@
 {
   "date": "2026-10-18T00:00:00",
-  "total_items": 50,
+  "total_items": 58,
   "sources": [
-    "少数派",
-    "UX Planet",
-    "Design Milk",
-    "Awwwards",
     "人人都是产品经理",
-    "Smashing Magazine",
-    "A List Apart",
-    "Sidebar",
-    "UX Design CC",
+    "Product Hunt",
+    "少数派",
     "NN/g (Nielsen Norman Group)",
-    "Product Hunt"
+    "UX Design CC",
+    "Awwwards",
+    "Design Milk",
+    "UX Planet",
+    "A List Apart",
+    "Smashing Magazine",
+    "Sidebar"
   ],
-  "generated_at": "2026-10-18T03:45:28.554298",
+  "generated_at": "2026-10-18T15:36:11.348684",
   "categories": [
     {
       "category": "用户体验设计",
-      "count": 6,
+      "count": 8,
       "items": [
+        {
+          "title": "Design in the material you ship",
+          "url": "https://uxdesign.cc/design-in-the-material-you-ship-7adf198388ee?source=rss----138adf9c44c---4",
+          "author": "Jon Sabutis",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "Designers should understand code the way an architect understands stone: what it can do, not how to cut it. AI now does the cutting.The same card in the design file and in the browser with real data. ...",
+          "published_at": "2026-10-18T12:11:43"
+        },
+        {
+          "title": "A thousand days of stale popcorn",
+          "url": "https://uxdesign.cc/a-thousand-days-of-stale-popcorn-54f62d06c42b?source=rss----138adf9c44c---4",
+          "author": "Takuma Kakehi",
+          "category": "用户体验设计",
+          "source": "UX Design CC",
+          "summary": "A gym, a morning radio broadcast, and a streak counter are all answers to one question: how do you get someone to keep going when you…Continue reading on UX Collective »",
+          "published_at": "2026-10-18T12:11:30"
+        },
         {
           "title": "Human in the loop means making sure the human is not out of the loop",
           "url": "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e38826309c91?source=rss----138adf9c44c---4",
@@ -195,55 +213,55 @@
           "published_at": "2026-10-15T20:20:10"
         },
         {
-          "title": "谁接孩子、谁倒垃圾，这块家庭日历屏把琐事做成了生意",
-          "url": "https://www.woshipm.com/chuangye/6478970.html",
-          "author": "张艾拉",
+          "title": "Anthropic工程师亲写：怎样把模型用出“超乎想象”程度？",
+          "url": "https://www.woshipm.com/ai/6480115.html",
+          "author": "付永承",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "Skylight 把家庭日程做成了一块挂在墙上的共享屏幕。它从 Kickstarter 众筹 5.5 万美元起步，2021 年收入已达 7500 万美元，覆盖超 130 万家庭，还推出售价约 140 美元的儿童设备 Buddy，让孩子按按钮完成任务。今天分享一个有趣的小硬件，作为 J 人我是很喜欢：Skylight，https://myskylight.com/想象这样一个场景：早上 7点半，孩子...",
-          "published_at": "2026-10-18T03:07:16"
+          "summary": "大多数人只把 AI 当聊天工具，输入问题、拿到答案，却从未真正挖掘它的潜力。Anthropic 工程师亲授一套方法：从提问高度、挖掘深度到拓展广度，三步调试就能让模型输出远超预期。本文拆解这套方法论，帮你看懂如何把 AI 用出真正的专业水准。很多人对AI的应用，仅仅只是把它当做一个聊天工具。知道它速度很快，一个输入进去，一个答案出来。但最近Anthropic工程师亲写的一份文档告诉大家，AI不仅仅...",
+          "published_at": "2026-10-18T08:12:25"
         },
         {
-          "title": "PostNitro 的增长难题：让用户做完第一篇，还得让他回来做第二篇",
-          "url": "https://www.woshipm.com/share/6478798.html",
-          "author": "运营官张沐",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "做内容工具最难受的增长，是每天有人注册、每月收入却停在原地。PostNitro 的复盘里，月经常性收入刚过约 5000 美元，此前在 4300 美元附近停了五个月，月流失一度达 20%—23%。它想靠 Agents 版本，让用户做完第一篇还回来做第二篇。做内容工具，有一种增长最让人难受：每天都有人注册，每个月还是挣差不多的钱。PostNitro 经历过这个阶段。2026年3月前后的历史复盘里，它的...",
-          "published_at": "2026-10-18T02:38:22"
-        },
-        {
-          "title": "卖点越多越难卖？揭秘新品营销最大的”自杀式陷阱”",
-          "url": "https://www.woshipm.com/share/6479393.html",
-          "author": "外贸小巨熊",
-          "category": "产品设计",
-          "source": "人人都是产品经理",
-          "summary": "很多品牌推新品时，恨不得把产品的每一个优点都塞进详情页和销售话术里，仿佛卖点越多覆盖人群就越广。但现实往往相反：卖点越多，新品越难卖。本文拆解这个反直觉的营销陷阱。很多品牌推新品时，恨不得把产品的每一个优点都塞进详情页、广告语和销售话术里：功能强、颜值高、价格低、材质好、适合上班族、也适合学生党、还能送礼……仿佛卖点越多，覆盖的人群就越广，成交的概率就越高。但现实往往相反：卖点越多，新品越难卖。今...",
-          "published_at": "2026-10-18T02:21:45"
-        },
-        {
-          "title": "产品定位、产品屋、产品矩阵、生命周期：产品策略四大核心模块与竞品分析方法",
-          "url": "https://www.woshipm.com/pd/6476809.html",
+          "title": "从场景找产品，而不是从产品找场景：场景策略的四步实操与三大绑定方式",
+          "url": "https://www.woshipm.com/operate/6476846.html",
           "author": "策略人藏锋",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "产品策略的根是用户导向，核心解决价值定义、价值翻译、价值认同三件事。做正确的事靠洞察与策略，正确地做事靠营销与输出，品牌叙事需要产品来支撑和兑现，脱离产品谈品牌都是耍流氓。品牌策略的根，是产品策略。产品策略的根，是用户导向。品牌叙事需要产品做支撑，用户价值需要产品做兑现。任何脱离产品谈品牌的策略，都是耍流氓。产品策略核心解决三大用户价值：价值定义+价值翻译+价值认同。价值定义：搞清楚为谁做，解决什...",
-          "published_at": "2026-10-18T01:36:31"
+          "summary": "脱离场景谈需求都是隔靴搔痒，没有场景就没有痛点，也没有买点。场景是时间、空间和状态的组合，场景策略就是把对的产品放在对的时刻，解决对的问题，卖不动的产品往往不是不够好，而是用户想不起来什么时候该用。脱离场景谈需求，都是隔靴搔痒。用户不会凭空产生需求，它是被特定场景激发的。没有场景，就没有痛点。没有痛点，就没有买点。大部分企业都在研究用户要什么，但很少追问：用户是在什么时候需要的？卖不动的产品，往往...",
+          "published_at": "2026-10-18T06:36:33"
         },
         {
-          "title": "Vibe-Trading 部署实录：用开源 Agent 做 A 股研究与回测",
-          "url": "https://www.woshipm.com/ai/6479905.html",
-          "author": "AI李子",
+          "title": "AI产品需求怎么写？从“功能描述”改成“任务和结果”",
+          "url": "https://www.woshipm.com/ai/6480028.html",
+          "author": "王蒙",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "香港大学团队开源的 Vibe-Trading 已在 GitHub 拿到 3.5 万 star，支持 A 股、港股、美股行情与策略回测。用自然语言提问题，它就能调数据、跑回测、出报告，从部署到实证一次跑通。我之前分享过一款开源股票研究 Agent，它的架构设计很有参考价值，不过在 A 股数据和使用场景上还有些局限。感兴趣的朋友可以回顾：部署TradingAgents：把一家公司“装进”大模型里，自动...",
-          "published_at": "2026-10-18T00:46:18"
+          "summary": "当AI客服需求遇上退款场景，产品经理如何避免“支持退款咨询”沦为一句空话？本文作者拉着客服一起写PRD，从一笔订单的查询、解释到转人工，拆解AI需求中“哪些事不该模型管”的边界，并分享如何用真实咨询路径验证设计、用客服和测试的视角补全异常场景。这个退款助手的需求，我是拉着客服一起写的。让她挑一笔还在处理中的退款单，从用户点进订单页开始，把她平时的操作走一遍。打开客服后台看订单状态，翻支付记录，审核...",
+          "published_at": "2026-10-18T05:47:19"
+        },
+        {
+          "title": "百度搜索，最担心的事情发生了？",
+          "url": "https://www.woshipm.com/share/6480163.html",
+          "author": "怪哥",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "说实话，这些年用百度搜索，有时候挺考验技术的。想找一篇教程，搜索结果翻了好几页，点进去发现都是复制粘贴的内容；想查个产品，得先研究哪些是推广、哪些是正常结果；好不容易找到一篇看起来有用的文章，往下一拉，前面800字还在介绍行业背景。明明只是想找个答案，硬是被迫做了一轮信息鉴别。以前大家说“百度一下，你就知道”。现在有时候是“百度一下，你先猜猜哪个是真的”。最绝的是那些SEO网站，文章标题一个比一个...",
+          "published_at": "2026-10-18T05:02:23"
+        },
+        {
+          "title": "一个垂直场景工具的产品设计复盘：公文处理助手的五层功能架构",
+          "url": "https://www.woshipm.com/share/6480046.html",
+          "author": "寻常",
+          "category": "产品设计",
+          "source": "人人都是产品经理",
+          "summary": "当大厂产品经理扎堆热门赛道时，一款深耕公文处理十年的Word/WPS插件却提供了更纯粹的样本。它从排版按钮集合演进为AI Agent可调用的文档处理引擎，其五层功能架构与“开放问题封闭化”的AI化路径，为所有垂直场景工具提供了可复用的方法论。产品经理的研究对象往往集中在大厂产品和热门赛道，但一些深耕垂直场景的小产品，反而在需求拆解、功能架构、用户工作流理解上提供了更纯粹的样本。本文复盘的对象是公文...",
+          "published_at": "2026-10-18T04:27:13"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 14,
+      "count": 15,
       "items": [
         {
           "title": "Is Your Organization Messing Up AI Adoption?",
@@ -251,7 +269,7 @@
           "author": "hello@smashingmagazine.com (Paul Boag)",
           "category": "网页设计",
           "source": "Smashing Magazine",
-          "summary": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today....",
+          "summary": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today.",
           "published_at": "2026-10-16T10:00:00"
         },
         {
@@ -306,6 +324,15 @@
           "category": "网页设计",
           "source": "A List Apart",
           "summary": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months.Financial pr...",
+          "published_at": null
+        },
+        {
+          "title": "Signal-A Studio",
+          "url": "https://www.awwwards.com/sites/signal-a-studio",
+          "author": "Signal-A",
+          "category": "网页设计",
+          "source": "Awwwards",
+          "summary": null,
           "published_at": null
         },
         {
@@ -375,25 +402,70 @@
     },
     {
       "category": "产品发现",
-      "count": 2,
+      "count": 7,
       "items": [
         {
-          "title": "Craft Agents",
-          "url": "https://www.producthunt.com/products/craft-agents",
-          "author": "Gyula Halmos",
+          "title": "Bee Frontier and Bee Eclipse",
+          "url": "https://www.producthunt.com/products/bee-frontier-and-bee-eclipse",
+          "author": "Justin Jincaid",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "The world's most powerful agents, with the UX they deserveDiscussion|Link",
-          "published_at": "2026-10-15T04:48:37"
+          "summary": "Amazon's personal AI memory, now on your wrist or phoneDiscussion|Link",
+          "published_at": "2026-10-15T15:11:11"
         },
         {
-          "title": "Emochi",
-          "url": "https://www.producthunt.com/products/emochi-2",
-          "author": "Nick Zieber",
+          "title": "XBOX Nano Controller",
+          "url": "https://www.producthunt.com/products/microsoft-xbox-series-s",
+          "author": "Zac Zuo",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Voice journal to understand yourself through art and scienceDiscussion|Link",
-          "published_at": "2026-10-16T07:43:37"
+          "summary": "Pocket-sized wireless gamepad with all 18 inputsDiscussion|Link",
+          "published_at": "2026-10-17T04:07:22"
+        },
+        {
+          "title": "MeetPaw",
+          "url": "https://www.producthunt.com/products/meetpaw",
+          "author": "Naz",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Instant meetings from your mac menu barDiscussion|Link",
+          "published_at": "2026-10-15T19:08:23"
+        },
+        {
+          "title": "Vampire Crawlers™",
+          "url": "https://www.producthunt.com/products/vampire-crawlers",
+          "author": "Chris Messina",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "The Turbo Wildcard from Vampire SurvivorsDiscussion|Link",
+          "published_at": "2026-10-18T04:10:35"
+        },
+        {
+          "title": "MyLens",
+          "url": "https://www.producthunt.com/products/mylens-ai",
+          "author": "Ardalan Mirshani",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "1-1 Live Presentations at Scale with AI.Discussion|Link",
+          "published_at": "2026-10-16T21:46:17"
+        },
+        {
+          "title": "3AM Super Intelligence",
+          "url": "https://www.producthunt.com/products/3am-super-intelligence",
+          "author": "Siddhesh Kulthe",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Production incidents: investigated, proven, fixedDiscussion|Link",
+          "published_at": "2026-10-16T14:08:51"
+        },
+        {
+          "title": "Krea 3",
+          "url": "https://www.producthunt.com/products/krea",
+          "author": "Justin Jincaid",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "Krea's AI image model: 2K edits in under 8 secondsDiscussion|Link",
+          "published_at": "2026-10-16T00:01:46"
         }
       ]
     },
@@ -453,6 +525,15 @@
       "count": 6,
       "items": [
         {
+          "title": "Quote/0 妙用 +1，把墨水屏变成点餐助手",
+          "url": "https://sspai.com/post/115241",
+          "author": "leonmin",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "published_at": "2026-10-18T07:01:02"
+        },
+        {
           "title": "被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？",
           "url": "https://sspai.com/post/104231",
           "author": "叁思Santh",
@@ -496,15 +577,6 @@
           "source": "少数派",
           "summary": "从微信读书的 3 万条划线出发，我做了一个让阅读笔记重新回到日常的 App。查看全文",
           "published_at": "2026-10-16T02:18:38"
-        },
-        {
-          "title": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
-          "url": "https://sspai.com/post/116355",
-          "author": "少数派编辑部",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "SpaceXAI 发布 Grok Voice 3.0 语音模型、微软发布 XBOX Nano 口袋手柄等。查看全文",
-          "published_at": "2026-10-16T00:23:12"
         }
       ]
     }
