@@ -1,19 +1,20 @@
 {
   "date": "2026-10-20T00:00:00",
-  "total_items": 53,
+  "total_items": 55,
   "sources": [
-    "UX Planet",
-    "NN/g (Nielsen Norman Group)",
-    "Product Hunt",
+    "Design Milk",
     "少数派",
+    "A List Apart",
     "Awwwards",
     "UX Design CC",
-    "Sidebar",
-    "A List Apart",
     "人人都是产品经理",
-    "Design Milk"
+    "Product Hunt",
+    "Sidebar",
+    "NN/g (Nielsen Norman Group)",
+    "Smashing Magazine",
+    "UX Planet"
   ],
-  "generated_at": "2026-10-20T04:07:29.012494",
+  "generated_at": "2026-10-20T16:34:29.159150",
   "categories": [
     {
       "category": "用户体验设计",
@@ -173,8 +174,17 @@
     },
     {
       "category": "产品设计",
-      "count": 7,
+      "count": 8,
       "items": [
+        {
+          "title": "Davis Furniture Debuts Faba by Mario Ferrarini",
+          "url": "https://design-milk.com/davis-furniture-debuts-faba-by-mario-ferrarini/",
+          "author": "Design Milk Staff",
+          "category": "产品设计",
+          "source": "Design Milk",
+          "summary": "Mario Ferrarini’s platform-and-cushion system for Davis Furniture takes its character from the interiors it furnishes.",
+          "published_at": "2026-10-20T13:00:57"
+        },
         {
           "title": "Boldizar Senteski Explores the Beauty of Decay in the Erosion Collection",
           "url": "https://design-milk.com/boldizar-senteski-erosion-collection-mirrors/",
@@ -194,56 +204,65 @@
           "published_at": "2026-10-19T15:48:33"
         },
         {
-          "title": "在鸿蒙 PC 上用 CPF-Ionic 开发鸿蒙应用：一次把坑踩穿的完整实录",
-          "url": "https://www.woshipm.com/share/6481129.html",
-          "author": "nutpi",
+          "title": "赛道顶流陨落，国内玩家“折戟”，AI陪伴何去何从？",
+          "url": "https://www.woshipm.com/ai/6479392.html",
+          "author": "AI价值官",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "用 Web 技术栈写一次代码，同时出 Android、iOS 和鸿蒙三端，是很多团队的现实诉求，但 Capacitor 并不支持 OpenHarmony。CPF-Ionic 把它封装成 hionic 命令行，这篇实录把签名、相机插件到构建的坑一次踩穿。实测机型：HUAWEI MateBook Pro（HarmonyOS 7.0.0.111，OpenHarmony 7.0.0.109，API 26）...",
-          "published_at": "2026-10-20T03:37:37"
+          "summary": "Character.AI申请破产保护，国内多款AI陪伴产品接连停运，这个赛道正经历残酷洗牌。当用户不再满足于即时聊天，产品如何找到持续互动的理由？本文复盘典型失败案例，拆解腾讯、快看等新玩家的探索方向，揭示AI陪伴从「角色聊天」转向「故事世界」的生存逻辑。10月12日，曾经的AI陪伴顶流Character.AI正式向美国法院申请破产保护，启动由法院监督的资产出售程序。据路透社报道，即便目前有约12...",
+          "published_at": "2026-10-20T10:49:34"
         },
         {
-          "title": "AI短剧“杀不死”游戏",
-          "url": "https://www.woshipm.com/ai/6480940.html",
-          "author": "硅基观察Pro",
+          "title": "DeepSeek 开源推理框架：走向真正普惠的未来",
+          "url": "https://www.woshipm.com/share/6481490.html",
+          "author": "Aine",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "2026 年 5 月短剧 App 月人均使用 26.9 小时，接近在线视频 14.7 小时的两倍；红果日活 1.68 亿已超过四大长视频之和。但国内游戏市场 2025 年收入仍破 3500 亿，被抢走的可能只是轻度休闲品类的时间。最近，AI短剧火得有点夸张。QuestMobile数据显示，2026年5月，国内短剧App用户月人均使用时长达到26.9小时，已经接近传统在线视频行业14.7小时的两倍。...",
-          "published_at": "2026-10-20T03:36:06"
+          "summary": "大模型的算力成本，最终由推理框架这一中间层决定。DeepSeek 将内部推理框架 DeepInfer 全面开源，连同生产级编解码组件，把大规模部署的吞吐、延迟与能耗优化经验交给社区。这不仅是技术开放，更是一次降低 AI 使用门槛、推动普惠的产业信号。大模型的能力边界由模型本身划定，但如何以合理成本提供超大规模的模型服务，还取决于一个长期未被公众了解的中间层：推理框架。训练使模型学有所成，推理则让模...",
+          "published_at": "2026-10-20T10:41:48"
         },
         {
-          "title": "MiniMax M3.1 Flash 正式发布：成本降 70%，速度提 3 倍",
-          "url": "https://www.woshipm.com/ai/6481116.html",
-          "author": "赛博禅心",
+          "title": "小红书被限流了怎么办？！（2026年版）",
+          "url": "https://www.woshipm.com/share/6481427.html",
+          "author": "林卿LinQ.",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "OpenRouter 上匿名跑了 200T token 的 Space Bunny 正式现身。MiniMax M3.1 Flash 预览版在 agent、编程、Computer Use 与网络安全上代际提升，推理快近 3 倍、成本降 70%，并给出了同台对照的评测成绩。MiniMax 正式发布了 M3.1 Flash这个模型的预览版，也便是 OpenRouter 上那个匿名模型 Space Bun...",
-          "published_at": "2026-10-20T03:36:02"
+          "summary": "发完笔记只有两位数小眼睛，第一反应就是被限流？先别慌，流量差和限流是两回事。这篇把 2026 年最新的审核机制、限流判断标准、申诉与恢复办法一次讲清，也说了号店切割和换个视角看待限流这件事。好多小伙伴发完笔记，隔天发现小眼睛只有两位数，第一反应就是：“完了，我被限流了。”……嗯，先别慌，流量差󠀽≠被限流，好嘛？！内容选题太窄、内容同质化严重、内容竞争力差（laji）、正常流量波动……都可能导致笔记...",
+          "published_at": "2026-10-20T09:28:58"
         },
         {
-          "title": "美团做了个大众点评版的Skill平台DeepSkill，收录超37万个技能工具",
-          "url": "https://www.woshipm.com/ai/6481110.html",
-          "author": "读佳",
+          "title": "如何衡量你的站外推广效果？",
+          "url": "https://www.woshipm.com/share/6479395.html",
+          "author": "外贸小巨熊",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "美团 AI 团队的 Skill 平台 DeepSkill 已收录超 37 万个经真实任务跑通的工具，比 9 月初翻倍。它不靠目录翻找，让 Agent 拆解需求后自动匹配，还扫描技能内容、标注能力边界与风险，用点评官反馈回流解决挑选和隐私两个问题。美团AI也在加码中。美团AI团队做的一个AI Agent的技能平台DeepSkill，平台已经收录超过37万个经过真实任务跑通验证的Skill工具，9月初...",
-          "published_at": "2026-10-20T03:35:33"
+          "summary": "粉丝今天上午问：公司打算做站外推广，暂定用品牌词搜索量是否增加、自己ABA排名来衡量效果，但总觉得光看这两个指标不太对劲。站外推广归因难、反馈路径长，到底该怎么科学评估？粉丝今天上午问：公司打算做站外推广，暂定用品牌词搜索量是否增加自己ABA排名来衡量效果，但总觉得光看这两个指标不太对劲。到底该怎么科学评估？(今天一整天都在外面，回来就着手写了这篇文章)这位粉丝的困惑，相信很多卖家都有同感。站外推...",
+          "published_at": "2026-10-20T09:21:46"
         },
         {
-          "title": "AI客服答非所问，先改提示词还是知识库？",
-          "url": "https://www.woshipm.com/ai/6480104.html",
-          "author": "王蒙",
+          "title": "从“卖铁壳”到“卖确定性工期”：万字拆解伊岛360地坪烘干机的B端硬科技定义与HaaS服务化破局",
+          "url": "https://www.woshipm.com/pd/6481258.html",
+          "author": "我本来是天才",
           "category": "产品设计",
           "source": "人人都是产品经理",
-          "summary": "当用户询问“我的退款什么时候到”时，助手却回复通用政策说明——这种答非所问的根源可能藏在路由、检索、知识版本或生成环节。本文通过真实案例拆解排查链路，从日志还原到意图识别、知识检索、模型生成，教你用证据定位问题，避免盲目修改提示词。用户在订单页问“我的退款什么时候到”，助手回了一句“退款申请提交后，平台会按原支付方式退回，请耐心等待”。用户要的是自己那笔钱的进度，它给的是通用说明。碰到这种，手别太...",
-          "published_at": "2026-10-20T03:35:02"
+          "summary": "当B端工业硬件陷入同质化红海，产品经理如何用第一性原理破局？本文深度复盘伊岛360地坪烘干机，从热力学底层逻辑、硬件架构设计到HaaS租赁服务化落地，拆解其如何用“三位一体”架构击穿物理死结，为B端硬科技产品提供全链路方法论。做C端产品，我们常谈论“多巴胺、留存率与交互体验”；但做B端硬科技与工程装备产品，决定产品生死的只有三个词——物理边界、交付确定性与TCO（总拥有成本）。当一个传统工业品赛道...",
+          "published_at": "2026-10-20T08:51:30"
         }
       ]
     },
     {
       "category": "网页设计",
-      "count": 14,
+      "count": 15,
       "items": [
+        {
+          "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+          "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+          "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
+          "category": "网页设计",
+          "source": "Smashing Magazine",
+          "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()...",
+          "published_at": "2026-10-20T10:00:00"
+        },
         {
           "title": "Designed for a Dead Language",
           "url": "https://alistapart.com/article/designed-for-a-dead-language/",
@@ -374,103 +393,103 @@
     },
     {
       "category": "产品发现",
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "title": "Lookout (for Slack)",
-          "url": "https://www.producthunt.com/products/lookout-for-slack",
-          "author": "Matthew Busel",
+          "title": "Sorcerer",
+          "url": "https://www.producthunt.com/products/sorcerer",
+          "author": "Guilherme Brasil",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Urgent Slack messages, handled instantly. Powered by Jev.Discussion|Link",
-          "published_at": "2026-10-17T00:44:10"
+          "summary": "Simulate an AI agent community reacting to \"what if\"Discussion|Link",
+          "published_at": "2026-10-19T18:20:54"
         },
         {
-          "title": "Beam.win",
-          "url": "https://www.producthunt.com/products/beam-win",
-          "author": "Hiten Shah",
+          "title": "snyvi",
+          "url": "https://www.producthunt.com/products/snyvi",
+          "author": "Sunny Luthra",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Run AI agents on one Mac and use its windows on anotherDiscussion|Link",
-          "published_at": "2026-10-18T19:13:45"
+          "summary": "All your passion projects, in one calm placeDiscussion|Link",
+          "published_at": "2026-10-19T18:36:44"
         },
         {
-          "title": "Figma Specs",
-          "url": "https://www.producthunt.com/products/figma",
-          "author": "Zac Zuo",
+          "title": "Stella",
+          "url": "https://www.producthunt.com/products/stella-5",
+          "author": "Max Drut",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A container for your context that lives on the Figma canvasDiscussion|Link",
-          "published_at": "2026-10-19T03:21:43"
+          "summary": "Your emotional wellness AI. A friend to figure it out with.Discussion|Link",
+          "published_at": "2026-10-19T03:42:11"
         },
         {
-          "title": "Switch Lab",
-          "url": "https://www.producthunt.com/products/switch-lab",
-          "author": "DongSup_Ahn",
+          "title": "Kling 4.0",
+          "url": "https://www.producthunt.com/products/kling-4-0-4",
+          "author": "Kate Ramakaieva",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "Hear and type on keyboard switches before you buy themDiscussion|Link",
-          "published_at": "2026-10-18T20:21:10"
+          "summary": "Fast and affordable AI video for high-frequency creatorsDiscussion|Link",
+          "published_at": "2026-10-19T17:51:17"
         },
         {
-          "title": "Planet-X",
-          "url": "https://www.producthunt.com/products/planet-x",
-          "author": "Ashwin C",
+          "title": "RunInfra",
+          "url": "https://www.producthunt.com/products/runinfra",
+          "author": "Jaber Jaber",
           "category": "产品发现",
           "source": "Product Hunt",
-          "summary": "A living globe to explore and remember loved onesDiscussion|Link",
-          "published_at": "2026-10-18T13:50:27"
+          "summary": "Open models, built for agents.Discussion|Link",
+          "published_at": "2026-10-19T23:12:51"
+        },
+        {
+          "title": "The New Beings",
+          "url": "https://www.producthunt.com/products/the-new-beings",
+          "author": "Yulia Sergeeva",
+          "category": "产品发现",
+          "source": "Product Hunt",
+          "summary": "AI agents on their break, performing a live talk showDiscussion|Link",
+          "published_at": "2026-10-19T18:03:58"
         }
       ]
     },
     {
       "category": "设计资讯",
-      "count": 5,
+      "count": 4,
       "items": [
         {
-          "title": "Beautiful icons that make products feel premium",
-          "url": "https://bit.ly/side-hug1",
+          "title": "State of Ecommerce Accessibility 2026",
+          "url": "https://davedavies.dev/state-of-ecommerce-accessibility/",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Hugeicons offers 60,000+ icons across 10 styles for Figma, React, Font, and more. Fully customizable, beautifully crafted.",
-          "published_at": "2026-10-19T05:11:00"
+          "summary": "An audit of 59,400 ecommerce product pages. 64% had at least one automatically detected accessibility failure rated critical.",
+          "published_at": "2026-10-20T09:06:39"
         },
         {
-          "title": "Someone behind the software",
-          "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+          "title": "Acceptance",
+          "url": "https://world.hey.com/jorge/acceptance-8487bd37",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "I think good products carry something of the people who make them. Their experience, what they care about, and how they think things should work.",
-          "published_at": "2026-10-19T05:10:00"
+          "summary": "If you haven’t accepted that these things are smarter than you, even in your own domain of expertise, I’m sorry.",
+          "published_at": "2026-10-20T09:06:12"
         },
         {
-          "title": "English ↔ Claudish",
-          "url": "https://programasweights.com/claudish",
+          "title": "Logo.dev MCP server",
+          "url": "https://www.logo.dev/docs/mcp/introduction",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "A bidirectional English and Claudish translator powered by compiled 0.6B neural programs.",
-          "published_at": "2026-10-19T05:09:18"
+          "summary": "Connect Claude, Cursor, VS Code, Codex, or any MCP client to Logo.dev, and let your agent look up brands, logos, and brandmarks.",
+          "published_at": "2026-10-20T09:05:42"
         },
         {
-          "title": "Techno-optimism archive",
-          "url": "https://technooptimism.org/",
+          "title": "38 things we’ve learned about building AI products",
+          "url": "https://newsletter.posthog.com/p/38-things-weve-learned-about-building",
           "author": null,
           "category": "设计资讯",
           "source": "Sidebar",
-          "summary": "Old promises of new technologies.",
-          "published_at": "2026-10-19T05:07:44"
-        },
-        {
-          "title": "Personal agents are getting their own computers",
-          "url": "https://marcabraham.com/2026/10/15/personal-agents-are-getting-their-own-computers/",
-          "author": null,
-          "category": "设计资讯",
-          "source": "Sidebar",
-          "summary": "The question is no longer whether an agent can answer my questions. It’s whether I’m willing to let it act on my behalf.",
-          "published_at": "2026-10-19T05:07:00"
+          "summary": "Lessons from four years of building AI products at PostHog.",
+          "published_at": "2026-10-20T09:05:14"
         }
       ]
     },
@@ -478,6 +497,33 @@
       "category": "数字生活",
       "count": 6,
       "items": [
+        {
+          "title": "具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁",
+          "url": "https://sspai.com/prime/story/inside-release-notes-261020",
+          "author": "少数派编辑部",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "FirefoxNova：被「中途喝止」的界面现代化改造@PlatyHsu:9月29日，Mozilla随Firefox157推出了代号为Nova的全新设计。这是继2021年Proton改版以来，Fire ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "published_at": "2026-10-20T10:01:54"
+        },
+        {
+          "title": "TDS REVIEW｜vivo Buds Clip 耳夹式无线耳机体验",
+          "url": "https://sspai.com/post/115475",
+          "author": "KingTsui",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "在 TWS 5 系列获得我们不错评价之后，Buds Clip 能否延续他们「来得晚但完成度更高」的特点呢？查看全文",
+          "published_at": "2026-10-20T09:30:00"
+        },
+        {
+          "title": "从「空间扩展」到「等比放大」：我如何为 MacBook Pro 搭建双屏桌面",
+          "url": "https://sspai.com/post/116661",
+          "author": "Microhoo",
+          "category": "数字生活",
+          "source": "少数派",
+          "summary": "原厂屏幕之外最省心的搭档。查看全文",
+          "published_at": "2026-10-20T07:07:54"
+        },
         {
           "title": "App+1 | 紫毫：基于 Rime 引擎、支持双拼纠错的 iOS 输入法",
           "url": "https://sspai.com/post/116430",
@@ -504,33 +550,6 @@
           "source": "少数派",
           "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
           "published_at": "2026-10-19T09:39:45"
-        },
-        {
-          "title": "与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长",
-          "url": "https://sspai.com/post/116585",
-          "author": "waychane",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "离开了北京之后，TimCook上周四来到了位于上海市闵行区的「蓝盒子」办公室，开启了此次访华行程的上海之行。蓝盒子是一家成立于2019年的床垫及家居品牌，旗下产品以简洁并具有辨识度的设计，以及「一百天 ...查看全文",
-          "published_at": "2026-10-19T08:35:40"
-        },
-        {
-          "title": "9 月音乐精选：用这 8 张新专辑，激发人生新可能",
-          "url": "https://sspai.com/post/116699",
-          "author": "麻乐",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文",
-          "published_at": "2026-10-19T08:00:19"
-        },
-        {
-          "title": "开源掌机的文化线索",
-          "url": "https://sspai.com/post/115125",
-          "author": "蓬岸",
-          "category": "数字生活",
-          "source": "少数派",
-          "summary": "在开源掌机这个特定的产品类型背后，都有哪些故事值得讲？查看全文",
-          "published_at": "2026-10-19T02:49:51"
         }
       ]
     }
